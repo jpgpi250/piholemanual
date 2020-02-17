@@ -14,3 +14,5 @@ do
 			fi
 		fi
 	done < $file
+	
+pihole restartdns reload-lists
