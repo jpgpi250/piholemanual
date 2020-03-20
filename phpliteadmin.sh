@@ -15,6 +15,6 @@ sudo mv /home/pi/phpLiteAdmin/$source /var/www/html/$target
 sudo sed -i "/$directory = '.';/c\$directory = '/etc/pihole';" /var/www/html/$target
 sudo sed -i '/$subdirectories = false;/c\$subdirectories = true;' /var/www/html/$target
 
-sudo apt-get –y install php-mbstring
+sudo apt-get -y install php-mbstring
 sudo service lighttpd stop
 sudo service lighttpd start
