@@ -1,7 +1,7 @@
 #!/bin/bash
 # https://github.com/nextdns/cname-cloaking-blocklist
 
-file=/home/pi/tmp/domains
+file=/home/pi/domains
 sudo wget https://raw.githubusercontent.com/nextdns/cname-cloaking-blocklist/master/domains -O $file
 
 while read domain
