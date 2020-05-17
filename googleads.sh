@@ -21,7 +21,6 @@ sudo sqlite3 /etc/pihole/gravity.db "insert or ignore into domainlist (domain, t
 # group
 sudo sqlite3 /etc/pihole/gravity.db "insert or ignore into 'group' (enabled, name, description) values ( 1, 'googleads', 'devices with google ads');"
 GROUP_ID="$(sudo sqlite3 /etc/pihole/gravity.db "SELECT id FROM 'group' WHERE name = 'googleads';")"
-echo "$GROUP_ID"
 
 # assign whitelist entries to group
 mapfile -t DOMAIN_ID < <(sudo sqlite3 /etc/pihole/gravity.db "SELECT id FROM 'domainlist' WHERE comment = 'allow google ads';")
