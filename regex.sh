@@ -6,3 +6,4 @@ do
 	sudo sqlite3 /etc/pihole/gravity.db "insert or ignore into domainlist (domain, type, enabled) values (\"$regex\", 3, 1);"
 	done < /home/pi/regex.list
 	
+pihole restartdns reload-lists  
