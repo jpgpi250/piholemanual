@@ -6,4 +6,5 @@ do
 	COMMENT="$(echo $client | grep -o '[^ ]*$')"
 	sudo sqlite3 /etc/pihole/gravity.db "insert or ignore into client (ip, comment) values (\"$IP\", \"$COMMENT\");"
 	done < /etc/localdns.list
-  
+
+pihole restartdns reload-lists  
