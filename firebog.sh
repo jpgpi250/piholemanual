@@ -1,17 +1,24 @@
 #!/bin/bash
 
-wget https://v.firebog.net/hosts/lists.php?type=nocross -O /home/pi/firebog.list
+# Uncomment the list type you want to use (script default is Non-crossed lists)
+# Information about the list types can be found here:
+# https://v.firebog.net/hosts/lists.php
+
+workdir=/home/pi
+
+#wget https://v.firebog.net/hosts/lists.php?type=tick -O $workdir/firebog.list
+wget https://v.firebog.net/hosts/lists.php?type=nocross -O $workdir/firebog.list
+#wget https://v.firebog.net/hosts/lists.php?type=all -O $workdir/firebog.list
 
 # remove quidsub lists (malformed)
-sed -i '/quidsup/d' /home/pi/tmp/firebog.list
+sed -i '/quidsup/d' $workdir/firebog.list
 # remove cameleon list (Last updated : 2018-03-17)
-sed -i '/cameleon/d' /home/pi/tmp/firebog.list
+sed -i '/cameleon/d' $workdir/firebog.list
 # remove hosts-file.net (blocklists are dead)
-sed -i '/hosts-file.net/d' /home/pi/tmp/firebog.list
+sed -i '/hosts-file.net/d' $workdir/firebog.list
 
-while read nocross
-do
+while read nocross; do
 	sudo sqlite3 /etc/pihole/gravity.db "insert or ignore into adlist (address, comment, enabled) values (\"$nocross\", 'firebog nocross', 1);"
-done < /home/pi/firebog.list
+done < $workdir/firebog.list
 
 pihole restartdns reload-lists
