@@ -116,32 +116,36 @@ else
 	match=false
 	for (( i=0; i<${#pipeArray[@]}; i++ )); do
 		# find lines containing text Match found in
-		if [[ ${pipeArray[i]} == "Match found in"* ]]; then
-			# get the adlists
-			for (( j=0; j<${#listMatchArray[@]}; j++ )); do
-				if [[ ${pipeArray[i]} == *"${listMatchArray[j]}"* ]]; then
-					resultArray+=("$(echo ${pipeArray[i]} | sed 's/.$//' | sed 's/Match found in //g' )") 
-				fi
-			done
-			# get exact or regex entries
-			for (( j=0; j<${#regexMatchArray[@]}; j++ )); do
-				if [[ ${pipeArray[i]} == *"${regexMatchArray[j]}"* ]]; then
-					# the next line is a regex or exact entry
-					match=true
-				fi
-			done
-		elif [[ ${pipeArray[i]} == *"Over 100 results found"* ]]; then
+		if [[ ${pipeArray[i]} == *"Over 100 results found"* ]]; then
 			echo -e "${NOK}'pihole -q' returned ${RED}over 100 results${NC}."
 			echo -e "${INFO}use '${GREEN}pihole -q -all${NC}' to retrieve all results."
 			whiptail --title "Information" --msgbox "Your 'pihole -q' search returned over 100 results. \
 			\nUse 'pihole -q -all' to retrieve all results." 10 60
 			exit
-		else 
-			if [[ "$match" == "true" ]]; then
-				IFS=' ' read -r listName Enabled <<< "${pipeArray[i]}"
-				resultArray+=("${listName}")
-				match=false
-			fi
+		elif [[ "$match" == "true" ]]; then
+			match=false
+			IFS=' ' read -r listName Enabled <<< "${pipeArray[i]}"
+			resultArray+=("${listName}")
+			match=false
+		elif [[ ${pipeArray[i]} == "Match found in"* ]]; then
+			# get the adlists
+			for (( j=0; j<${#listMatchArray[@]}; j++ )); do
+				if [[ ${pipeArray[i]} == *"${listMatchArray[j]}"* ]]; then
+					resultArray+=("$(echo ${pipeArray[i]} | sed 's/.$//' | sed 's/Match found in //g' )")
+					break
+				fi
+			done
+			# get exact or regex entries
+			for (( j=0; j<${#regexMatchArray[@]}; j++ )); do
+				# the whitespace in front of ${regexMatchArray[j]} isn't a typo
+				# it ensures only the correct entries are selected
+				# adlists URLs may contain the word blacklist or whitelist, but never whitespace
+				if [[ ${pipeArray[i]} == *" ${regexMatchArray[j]}"* ]]; then
+					# the next line is a regex or exact entry
+					match=true
+					break
+				fi
+			done
 		fi
 	done
 	
@@ -151,14 +155,12 @@ else
 	idArray=()
 	# read matching entries into array
 	for (( i=0; i<${#resultArray[@]}; i++ )); do
+		dbtable="domainlist"
+		field="domain"
 		for (( j=0; j<${#listMatchArray[@]}; j++ )); do
 			if [[ ${resultArray[i]} == *"${listMatchArray[j]}"* ]]; then
 				dbtable="adlist"
 				field="address"
-				break
-			else
-				dbtable="domainlist"
-				field="domain"
 				break
 			fi
 		done
@@ -166,7 +168,7 @@ else
 	fieldArray+=("${field}")
 	result=$(sqlite3 ${gravitydb} ".timeout = 2000" "SELECT id, ${field} FROM ${dbtable} WHERE ${field} = '${resultArray[i]}';")
 	IFS='|' read -r listID Value <<< "${result}"
-	ListArray+=("$i||${Value}")
+	ListArray+=("${i}|${Value}")
 	idArray+=("${listID}")
 	done
 fi
