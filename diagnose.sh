@@ -40,8 +40,6 @@ piholeFTLdb="/etc/pihole/pihole-FTL.db"
 listMatchArray=(https:// http:// file:///)
 # pihole -q contains these entries if there is a match for exact or regex entries
 regexMatchArray=(whitelist blacklist)
-# posible types in the domainlist table
-typeArray=("whitelist" "blacklist" "regex whitelist" "regex blacklist")
 
 starttime() {
 start="$(date  "+%y%m%d %R" -d "$1")"
