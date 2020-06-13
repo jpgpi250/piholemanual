@@ -16,8 +16,13 @@
 # clients, found with nmap, NOT already selected from the databaser are added.
 # if the default group is selected, clients found by FTL, using telnet (API), are added
 
-# first release, Fri 12 Jun 2020
+# first release, Sat 13 Jun 2020
 # please report bugs as an issue at https://github.com/jpgpi250/piholemanual/issues 
+
+# usage:
+# diagnose the database: ./diagnose.sh
+# diagnose the result of pihole query: pihole -q- all <domain> | ./diagnose.sh
+# example: pihole -q -all eulerian.net  | ./diagnose.sh
 
 # eye candy / color
 RED='\033[0;91m'
@@ -30,6 +35,13 @@ INFO=" [${BLUE}i${NC}] "
 
 gravitydb="/etc/pihole/gravity.db"
 piholeFTLdb="/etc/pihole/pihole-FTL.db"
+
+# pihole -q contains these entries if there is a match for an adlist
+listMatchArray=(https:// http:// file:///)
+# pihole -q contains these entries if there is a match for exact or regex entries
+regexMatchArray=(whitelist blacklist)
+# posible types in the domainlist table
+typeArray=("whitelist" "blacklist" "regex whitelist" "regex blacklist")
 
 starttime() {
 start="$(date  "+%y%m%d %R" -d "$1")"
@@ -44,54 +56,132 @@ if [ -z "${telnetinstalled}" ]; then
 	this to retrieve the clients, only known to FTL." 10 60
 fi
 
-list=$(whiptail --title "Group Management" --radiolist \
-"Please select" 16 78 5 \
-"adlist" "adlists entries" ON \
-"blacklist" "exact or wildcard blacklist entries" OFF \
-"regex blacklist" "regex blacklist entries" OFF \
-"whitelist" "exact or wildcard whitelist entries" OFF \
-"regex whitelist" "regex whitelist entries" OFF \
-	3>&1 1>&2 2>&3)
-if [ \( $? -eq 1 \) -o \( $? -eq 255 \) ]; then
-	exit
-else
-	echo -e "${INFO}${BLUE}${list}${NC} diagnosis selected."
-fi
-case ${list} in
-	"adlist")
-		dbtable="adlist"
-		field="address"
-		query=""
-		;;
-	"blacklist")
-		dbtable="domainlist"
-		field="domain"
-		query=" WHERE type = '1'"
-		;;
-	"regex blacklist")
-		dbtable="domainlist"
-		field="domain"
-		query=" WHERE type = '3'"
-		;;
-	"whitelist")
-		dbtable="domainlist"
-		field="domain"
-		query=" WHERE type = '0'"
-		;;
-	"regex whitelist")
-		dbtable="domainlist"
-		field="domain"
-		query=" WHERE type = '2'"
-		;;
-   esac
+stdin="$(ls -l /proc/self/fd/0)"
+stdin="${stdin/*-> /}"
 
-# read matching entries into array
-mapfile -t ListArray < <(sqlite3 ${gravitydb} ".timeout = 2000" "SELECT id, ${field} FROM ${dbtable}${query} order by id;")
+if [[ "$stdin" =~ ^/dev/pts/[0-9] ]]; then
+	# use database, complete overview
+	pipe=false
+	list=$(whiptail --title "Group Management" --radiolist \
+	"Please select" 16 78 5 \
+	"adlist" "adlists entries" ON \
+	"blacklist" "exact or wildcard blacklist entries" OFF \
+	"regex blacklist" "regex blacklist entries" OFF \
+	"whitelist" "exact or wildcard whitelist entries" OFF \
+	"regex whitelist" "regex whitelist entries" OFF \
+		3>&1 1>&2 2>&3)
+	if [ \( $? -eq 1 \) -o \( $? -eq 255 \) ]; then
+		exit
+	else
+		echo -e "${INFO}${BLUE}${list}${NC} diagnosis selected."
+	fi
+	case ${list} in
+		"adlist")
+			dbtable="adlist"
+			field="address"
+			query=""
+			;;
+		"blacklist")
+			dbtable="domainlist"
+			field="domain"
+			query=" WHERE type = '1'"
+			;;
+		"regex blacklist")
+			dbtable="domainlist"
+			field="domain"
+			query=" WHERE type = '3'"
+			;;
+		"whitelist")
+			dbtable="domainlist"
+			field="domain"
+			query=" WHERE type = '0'"
+			;;
+		"regex whitelist")
+			dbtable="domainlist"
+			field="domain"
+			query=" WHERE type = '2'"
+			;;
+	esac
+
+	# read matching entries into array
+	mapfile -t ListArray < <(sqlite3 ${gravitydb} ".timeout = 2000" "SELECT id, ${field} FROM ${dbtable}${query} order by id;")
+else
+	# use output from pihole -q -all <domain> | ./diagnose.sh, selected overview
+	pipe=true
+	echo -e "${INFO}using piped output from '${BLUE}pihole -q${NC}'."
+	pipeArray=()
+	while read -r line; do
+		pipeArray+=("$line")
+	done <<< "$(</dev/stdin)"
+	
+	resultArray=()
+	match=false
+	for (( i=0; i<${#pipeArray[@]}; i++ )); do
+		# find lines containing text Match found in
+		if [[ ${pipeArray[i]} == "Match found in"* ]]; then
+			# get the adlists
+			for (( j=0; j<${#listMatchArray[@]}; j++ )); do
+				if [[ ${pipeArray[i]} == *"${listMatchArray[j]}"* ]]; then
+					resultArray+=("$(echo ${pipeArray[i]} | sed 's/.$//' | sed 's/Match found in //g' )") 
+				fi
+			done
+			# get exact or regex entries
+			for (( j=0; j<${#regexMatchArray[@]}; j++ )); do
+				if [[ ${pipeArray[i]} == *"${regexMatchArray[j]}"* ]]; then
+					# the next line is a regex or exact entry
+					match=true
+				fi
+			done
+		elif [[ ${pipeArray[i]} == *"Over 100 results found"* ]]; then
+			echo -e "${NOK}'pihole -q' returned ${RED}over 100 results${NC}."
+			echo -e "${INFO}use '${GREEN}pihole -q -all${NC}' to retrieve all results."
+			whiptail --title "Information" --msgbox "Your 'pihole -q' search returned over 100 results. \
+			\nUse 'pihole -q -all' to retrieve all results." 10 60
+			exit
+		else 
+			if [[ "$match" == "true" ]]; then
+				IFS=' ' read -r listName Enabled <<< "${pipeArray[i]}"
+				resultArray+=("${listName}")
+				match=false
+			fi
+		fi
+	done
+	
+	dbtableArray=()
+	fieldArray=()
+	ListArray=()
+	idArray=()
+	# read matching entries into array
+	for (( i=0; i<${#resultArray[@]}; i++ )); do
+		for (( j=0; j<${#listMatchArray[@]}; j++ )); do
+			if [[ ${resultArray[i]} == *"${listMatchArray[j]}"* ]]; then
+				dbtable="adlist"
+				field="address"
+				break
+			else
+				dbtable="domainlist"
+				field="domain"
+				break
+			fi
+		done
+	dbtableArray+=("${dbtable}")
+	fieldArray+=("${field}")
+	result=$(sqlite3 ${gravitydb} ".timeout = 2000" "SELECT id, ${field} FROM ${dbtable} WHERE ${field} = '${resultArray[i]}';")
+	IFS='|' read -r listID Value <<< "${result}"
+	ListArray+=("$i||${Value}")
+	idArray+=("${listID}")
+	done
+fi
 
 lenListArray=${#ListArray[@]}
 if [ ${lenListArray} == 0 ]; then
-	echo -e "${NOK}There are ${RED}no ${list} entries${NC} in the database."
-	whiptail --title "Diagnose" --msgbox "There are no ${list} entries in the database." 10 60
+	if [[ "$pipe" == "true" ]]; then
+		echo -e "${NOK}'pihole -q' returned ${RED}no results${NC}."
+		whiptail --title "Diagnose" --msgbox "'pihole -q' returned no results." 10 60
+	else
+		echo -e "${NOK}There are ${RED}no ${list} entries${NC} in the database."
+		whiptail --title "Diagnose" --msgbox "There are no ${list} entries in the database." 10 60
+	fi
 	exit
 fi
 
@@ -113,16 +203,42 @@ if [ \( $? -eq 1 \) -o \( $? -eq 255 \) ]; then
 	# ESC or CANCEL
 	exit
 else
-	printf "${INFO}${list} entry selected: ${GREEN}"
+	if [[ "$pipe" == "true" ]]; then
+		dbtable=${dbtableArray[${SelectedID}]}
+		field=${fieldArray[${SelectedID}]}
+		SelectedID=${idArray[${SelectedID}]}
+		if [[ "$dbtable" == "domainlist" ]]; then
+			type=$(sqlite3 ${gravitydb} ".timeout = 2000" "SELECT type FROM ${dbtable} WHERE id = '${SelectedID}';")
+			case ${type} in
+				"0")
+					list="whitelist"
+					;;
+				"1")
+					list="blacklist"
+					;;
+				"2")
+					list="regex whitelist"
+					;;
+				"3")
+					list="regex blacklist"
+					;;
+				esac
+		else
+			list="adlist"
+		fi
+	fi
+	printf "${INFO}${BLUE}${list}${NC} entry selected: ${GREEN}"
 	# can't echo the entry, let sqlite3 print the result.
 	sqlite3 ${gravitydb} ".timeout = 2000" "SELECT ${field} FROM ${dbtable} WHERE id = ${SelectedID};"
 	printf "${NC}"
 	# entry enabled?
-	enabled=$(sqlite3 ${gravitydb} ".timeout = 2000" "SELECT enabled FROM ${dbtable} WHERE id = ${SelectedID};")
+	enabled=$(sqlite3 ${gravitydb} ".timeout = 2000" "SELECT enabled FROM ${dbtable} WHERE id = '${SelectedID}';")
 	if [ "${enabled}" -eq "0" ]; then
-		echo -e "${NOK}The selected ${list} entry ${RED}isn't enabled${NC}."
+		echo -e "${NOK}The selected ${BLUE}${list}${NC} entry ${RED}isn't enabled${NC}."
 		whiptail --title "Diagnose" --msgbox "The selected ${list} entry isn't enabled." 10 60
 		exit
+	else
+		echo -e "${OK}The selected ${BLUE}${list}${NC} entry ${GREEN}is enabled${NC}."
 	fi
 fi
 
@@ -131,7 +247,7 @@ mapfile -t GroupArray < <(sqlite3 ${gravitydb} ".timeout = 2000" "SELECT group_i
 
 lenGroupArray=${#GroupArray[@]}
 if [ ${lenGroupArray} == 0 ]; then
-	echo -e "${NOK}The selected entry ${RED}isn't assigned to a group${NC}."
+	echo -e "${NOK}The selected ${BLUE}${list}${NC} entry ${RED}isn't assigned to a group${NC}."
 	whiptail --title "Diagnose" --msgbox "The selected ${list} entry isn't assigned to a group." 10 60
 	exit
 fi
@@ -168,6 +284,8 @@ else
 		echo -e "${NOK}The selected group ${RED}isn't enabled${NC}."
 		whiptail --title "Diagnose" --msgbox "The selected group entry isn't enabled." 10 60
 		exit
+	else
+		echo -e "${OK}The selected group ${GREEN}is enabled${NC}."
 	fi
 fi
 
