@@ -43,7 +43,8 @@ regexMatchArray=(whitelist blacklist)
 
 starttime() {
 start="$(date  "+%y%m%d %R" -d "$1")"
-begintm=$(TZ=CET date --date="$start" +"%s")
+timezone="$(date  "+%Z")"
+begintm=$(TZ=${timezone} date --date="${start}" +"%s")
 echo $begintm
 }
 
@@ -433,48 +434,51 @@ if [[ "${count}" == "0" ]]; then
 else
 	echo -e "${OK}This client ${GREEN}is using pihole${NC} as a DNS server."
 	if [[ "$pipe" == "true" ]]; then
-		# check if the client queried the searchdomain (pihole -q- all <domain>)
-		count=$(sqlite3 /etc/pihole/pihole-FTL.db ".timeout = 2000" \
-			"SELECT count(*) FROM "queries" \
-				WHERE domain = '${searchdomain}' \
-					AND client = '${SelectedClient}' \
-					AND "timestamp" > ${starttm};")
-		if [[ "${count}" == "0" ]]; then
-			echo -e "${NOK}The client ${RED}hasn't queried${NC} ${GREEN}${searchdomain}${NC} in the last 12 hours"
-			whiptail --title "Diagnose" --msgbox "This client hasn't queried ${searchdomain} in the last 12 hours." 10 60
+		if [ -z "${searchdomain}" ]; then
+			echo -e "${NOK}Could not retrieve search ('ps -ef' failed)."
 		else
-			echo -e "${OK}This client ${GREEN}has queried${NC} ${searchdomain}."
-			count=$((count-1))
-			# retrieve type and status of last query
-			result=$(sqlite3 /etc/pihole/pihole-FTL.db ".timeout = 2000" \
-				"SELECT type, status FROM "queries" \
+			# check if the client queried the searchdomain (pihole -q- all <domain>)
+			count=$(sqlite3 /etc/pihole/pihole-FTL.db ".timeout = 2000" \
+				"SELECT count(*) FROM "queries" \
 					WHERE domain = '${searchdomain}' \
 						AND client = '${SelectedClient}' \
-				LIMIT  ${count} OFFSET 1;")
-			IFS='|' read -r type status <<< "${result}"
-			typeArray=(A AAAA ANY SRV SOA PTR TXT)
-			statusArray=(Unknown Blocked Allowed Allowed Blocked Blocked Blocked Blocked Blocked Blocked Blocked Blocked)
-			commentArray=("was not answered by forward destination" \
-							"Domain contained in gravity database" \
-							"Forwarded" \
-							"Known, replied to from cache" \
-							"Domain matched by a regex blacklist filter" \
-							"Domain contained in exact blacklist" \
-							"By upstream server (known blocking page IP address)" \
-							"By upstream server (0.0.0.0 or ::)" \
-							"By upstream server (NXDOMAIN with RA bit unset)" \
-							"Domain contained in gravity database (deep CNAME inspection)" \
-							"Domain matched by a regex blacklist filter (deep CNAME inspection)" \
-							"Domain contained in exact blacklist (deep CNAME inspection)")
-			# there is no query type 0, adjusting to retrieve array value
-			type=$((type-1))
-			echo -e "${INFO}Query type: ${GREEN}${typeArray[${type}]}${NC}"
-			if ((${status} >= 2 && ${status} <= 4)); then
-				echo -e "${INFO}Status: ${GREEN}${statusArray[${status}]}${NC} (${commentArray[${status}]})"
+						AND "timestamp" > ${starttm};")
+			if [[ "${count}" == "0" ]]; then
+				echo -e "${NOK}The client ${RED}hasn't queried${NC} ${GREEN}${searchdomain}${NC} in the last 12 hours"
+				whiptail --title "Diagnose" --msgbox "This client hasn't queried ${searchdomain} in the last 12 hours." 10 60
 			else
-				echo -e "${INFO}Status: ${RED}${statusArray[${status}]}${NC} (${commentArray[${status}]})"
+				echo -e "${OK}This client ${GREEN}has queried${NC} ${searchdomain}."
+				count=$((count-1))
+				# retrieve type and status of last query
+				result=$(sqlite3 /etc/pihole/pihole-FTL.db ".timeout = 2000" \
+					"SELECT type, status FROM "queries" \
+						WHERE domain = '${searchdomain}' \
+							AND client = '${SelectedClient}' \
+					LIMIT  ${count} OFFSET 1;")
+				IFS='|' read -r type status <<< "${result}"
+				typeArray=(A AAAA ANY SRV SOA PTR TXT)
+				statusArray=(Unknown Blocked Allowed Allowed Blocked Blocked Blocked Blocked Blocked Blocked Blocked Blocked)
+				commentArray=("was not answered by forward destination" \
+								"Domain contained in gravity database" \
+								"Forwarded" \
+								"Known, replied to from cache" \
+								"Domain matched by a regex blacklist filter" \
+								"Domain contained in exact blacklist" \
+								"By upstream server (known blocking page IP address)" \
+								"By upstream server (0.0.0.0 or ::)" \
+								"By upstream server (NXDOMAIN with RA bit unset)" \
+								"Domain contained in gravity database (deep CNAME inspection)" \
+								"Domain matched by a regex blacklist filter (deep CNAME inspection)" \
+								"Domain contained in exact blacklist (deep CNAME inspection)")
+				# there is no query type 0, adjusting to retrieve array value
+				type=$((type-1))
+				echo -e "${INFO}Query type: ${GREEN}${typeArray[${type}]}${NC}"
+				if ((${status} >= 2 && ${status} <= 4)); then
+					echo -e "${INFO}Status: ${GREEN}${statusArray[${status}]}${NC} (${commentArray[${status}]})"
+				else
+					echo -e "${INFO}Status: ${RED}${statusArray[${status}]}${NC} (${commentArray[${status}]})"
+				fi
 			fi
 		fi
 	fi
 fi
-
