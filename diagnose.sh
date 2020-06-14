@@ -16,7 +16,7 @@
 # clients, found with nmap, NOT already selected from the databaser are added.
 # if the default group is selected, clients found by FTL, using telnet (API), are added
 
-# first release, Sat 13 Jun 2020
+# first release, Sun 14 Jun 2020
 # please report bugs as an issue at https://github.com/jpgpi250/piholemanual/issues 
 
 # usage:
@@ -102,11 +102,15 @@ if [[ "$stdin" =~ ^/dev/pts/[0-9] ]]; then
 	esac
 
 	# read matching entries into array
-	mapfile -t ListArray < <(sqlite3 ${gravitydb} ".timeout = 2000" "SELECT id, ${field} FROM ${dbtable}${query} order by id;")
+	mapfile -t ListArray < <(sqlite3 ${gravitydb} ".timeout = 2000" \
+		"SELECT id, ${field} FROM ${dbtable}${query} \
+		ORDER by id;")
 else
 	# use output from pihole -q -all <domain> | ./diagnose.sh, selected overview
 	pipe=true
-	echo -e "${INFO}using piped output from '${BLUE}pihole -q${NC}'."
+	searchdomain=$(ps -ef | grep -v "grep" | grep "/usr/local/bin/pihole -q" | rev | cut -d " " -f1 | rev)
+	echo -e "${INFO}Using piped output from '${BLUE}pihole -q${NC}'."
+	echo -e "${INFO}Diagnosing domain ${GREEN}${searchdomain}${NC}"
 	pipeArray=()
 	while read -r line; do
 		pipeArray+=("$line")
@@ -166,7 +170,9 @@ else
 		done
 	dbtableArray+=("${dbtable}")
 	fieldArray+=("${field}")
-	result=$(sqlite3 ${gravitydb} ".timeout = 2000" "SELECT id, ${field} FROM ${dbtable} WHERE ${field} = '${resultArray[i]}';")
+	result=$(sqlite3 ${gravitydb} ".timeout = 2000" \
+		"SELECT id, ${field} FROM ${dbtable} \
+			WHERE ${field} = '${resultArray[i]}';")
 	IFS='|' read -r listID Value <<< "${result}"
 	ListArray+=("${i}|${Value}")
 	idArray+=("${listID}")
@@ -208,7 +214,9 @@ else
 		field=${fieldArray[${SelectedID}]}
 		SelectedID=${idArray[${SelectedID}]}
 		if [[ "$dbtable" == "domainlist" ]]; then
-			type=$(sqlite3 ${gravitydb} ".timeout = 2000" "SELECT type FROM ${dbtable} WHERE id = '${SelectedID}';")
+			type=$(sqlite3 ${gravitydb} ".timeout = 2000" \
+				"SELECT type FROM ${dbtable} \
+					WHERE id = '${SelectedID}';")
 			case ${type} in
 				"0")
 					list="whitelist"
@@ -229,10 +237,14 @@ else
 	fi
 	printf "${INFO}${BLUE}${list}${NC} entry selected: ${GREEN}"
 	# can't echo the entry, let sqlite3 print the result.
-	sqlite3 ${gravitydb} ".timeout = 2000" "SELECT ${field} FROM ${dbtable} WHERE id = ${SelectedID};"
+	sqlite3 ${gravitydb} ".timeout = 2000" \
+		"SELECT ${field} FROM ${dbtable} \
+			WHERE id = ${SelectedID};"
 	printf "${NC}"
 	# entry enabled?
-	enabled=$(sqlite3 ${gravitydb} ".timeout = 2000" "SELECT enabled FROM ${dbtable} WHERE id = '${SelectedID}';")
+	enabled=$(sqlite3 ${gravitydb} ".timeout = 2000" \
+		"SELECT enabled FROM ${dbtable} \
+			WHERE id = '${SelectedID}';")
 	if [ "${enabled}" -eq "0" ]; then
 		echo -e "${NOK}The selected ${BLUE}${list}${NC} entry ${RED}isn't enabled${NC}."
 		whiptail --title "Diagnose" --msgbox "The selected ${list} entry isn't enabled." 10 60
@@ -243,7 +255,10 @@ else
 fi
 
 # retrieve all the groups, the selected entry is assigned to
-mapfile -t GroupArray < <(sqlite3 ${gravitydb} ".timeout = 2000" "SELECT group_id FROM '${dbtable}_by_group' WHERE ${dbtable}_id = ${SelectedID} order by group_id;")
+mapfile -t GroupArray < <(sqlite3 ${gravitydb} ".timeout = 2000" \
+	"SELECT group_id FROM '${dbtable}_by_group' \
+		WHERE ${dbtable}_id = ${SelectedID} \
+		ORDER by group_id;")
 
 lenGroupArray=${#GroupArray[@]}
 if [ ${lenGroupArray} == 0 ]; then
@@ -257,7 +272,9 @@ WhiptailArray=()
 WhiptailLength=0
 
 for (( i=0; i<${lenGroupArray}; i++ )); do
-	GroupName=$(sqlite3 ${gravitydb} ".timeout = 2000" "SELECT id, name, description FROM 'group' WHERE id = ${GroupArray[$i]};")
+	GroupName=$(sqlite3 ${gravitydb} ".timeout = 2000" \
+		"SELECT id, name, description FROM 'group' \
+			WHERE id = ${GroupArray[$i]};")
 	IFS='|' read -r groupID groupName groupDescription <<< "${GroupName}"
 	WhiptailArray+=("${groupID}")
 	if [ ! -z "${groupDescription}" ]; then
@@ -276,10 +293,14 @@ if [ \( $? -eq 1 \) -o \( $? -eq 255 \) ]; then
 	exit
 else
 	printf "${INFO}Group selected: ${GREEN}"
-	sqlite3 ${gravitydb} ".timeout = 2000" "SELECT name FROM 'group' WHERE id = ${SelectedGroup};"
+	sqlite3 ${gravitydb} ".timeout = 2000" \
+		"SELECT name FROM 'group' \
+			WHERE id = ${SelectedGroup};"
 	printf "${NC}"
 	# entry enabled?
-	enabled=$(sqlite3 ${gravitydb} ".timeout = 2000" "SELECT enabled FROM 'group' WHERE ID=${SelectedGroup};")
+	enabled=$(sqlite3 ${gravitydb} ".timeout = 2000" \
+		"SELECT enabled FROM 'group' \
+			WHERE ID=${SelectedGroup};")
 	if [ "${enabled}" -eq "0" ]; then
 		echo -e "${NOK}The selected group ${RED}isn't enabled${NC}."
 		whiptail --title "Diagnose" --msgbox "The selected group entry isn't enabled." 10 60
@@ -297,12 +318,17 @@ clientCommentLength=0
 WhiptailSelect=false
 
 # retrieve clients, assigned to the selected group
-mapfile -t ClientArray < <(sqlite3 ${gravitydb} ".timeout = 2000" "SELECT client_id FROM 'client_by_group' WHERE group_id = ${SelectedGroup} order by client_id;")
+mapfile -t ClientArray < <(sqlite3 ${gravitydb} ".timeout = 2000" \
+	"SELECT client_id FROM 'client_by_group' \
+		WHERE group_id = ${SelectedGroup} \
+	ORDER by client_id;")
 lenClientArray=${#ClientArray[@]}
 
 # add the clients from the database to the array
 for (( i=0; i<${lenClientArray}; i++ )); do
-	ClientName=$(sqlite3 ${gravitydb} ".timeout = 2000" "SELECT id, ip, comment FROM 'client' WHERE id = ${ClientArray[$i]};")
+	ClientName=$(sqlite3 ${gravitydb} ".timeout = 2000" \
+		"SELECT id, ip, comment FROM 'client' \
+			WHERE id = ${ClientArray[$i]};")
 	IFS='|' read -r clientID clientIP clientComment <<< "${ClientName}"
 	if [[ ${clientIP} == *"/"* ]]; then
 		nmapinstalled=$(which nmap)
@@ -319,7 +345,9 @@ for (( i=0; i<${lenClientArray}; i++ )); do
 				if [[ ! " ${WhiptailArray[@]} " =~ " ${SubnetArray[$j]} " ]]; then
 					WhiptailHight=$((WhiptailHight+1))
 					WhiptailArray+=("${SubnetArray[$j]}")
-					clientComment=$(sqlite3 ${gravitydb} ".timeout = 2000" "SELECT comment FROM 'client' WHERE ip = '${SubnetArray[$j]}';")
+					clientComment=$(sqlite3 ${gravitydb} ".timeout = 2000" \
+						"SELECT comment FROM 'client' \
+							WHERE ip = '${SubnetArray[$j]}';")
 					if [ -z "${clientComment}" ]; then clientComment=("discovered, subnet ${clientIP} (nmap) ");	fi
 					WhiptailArray+=("${clientComment}")
 					if [ "${WhiptailSelect}" = true ]; then  WhiptailArray+=("OFF"); else WhiptailArray+=("ON"); WhiptailSelect=true; fi
@@ -383,7 +411,9 @@ if [ \( $? -eq 1 \) -o \( $? -eq 255 \) ]; then
 	# ESC or CANCEL
 	exit
 else
-	clientInfo=$(sqlite3 ${gravitydb} ".timeout = 2000" "SELECT comment FROM 'client' WHERE ip='${SelectedClient}';")
+	clientInfo=$(sqlite3 ${gravitydb} ".timeout = 2000" \
+		"SELECT comment FROM 'client' \
+			WHERE ip='${SelectedClient}';")
 	if [ -z "${clientInfo}" ]; then
 		echo -e "${INFO}Client selected: ${GREEN}${SelectedClient}${NC}"
 	else
@@ -393,11 +423,58 @@ fi
 
 # check if the client is using pihole
 starttm=$(starttime "12 hours ago")
-count=$(sqlite3 ${piholeFTLdb} ".timeout = 2000" "SELECT count(*) FROM "queries" WHERE client = '${SelectedClient}' AND "timestamp" > ${starttm};")
-
+count=$(sqlite3 ${piholeFTLdb} ".timeout = 2000" \
+	"SELECT count(*) FROM "queries" \
+		WHERE client = '${SelectedClient}' \
+			AND "timestamp" > ${starttm};")
 if [[ "${count}" == "0" ]]; then
 	echo -e "${NOK}The client ${RED}hasn't used pihole${NC} as a DNS server in the last 12 hours"
 	whiptail --title "Diagnose" --msgbox "This client hasn't used pihole as a DNS server in the last 12 hours." 10 60
 else
-	echo -e "${OK}This client ${GREEN}is using pihole${NC} as a DNS server. "
+	echo -e "${OK}This client ${GREEN}is using pihole${NC} as a DNS server."
+	if [[ "$pipe" == "true" ]]; then
+		# check if the client queried the searchdomain (pihole -q- all <domain>)
+		count=$(sqlite3 /etc/pihole/pihole-FTL.db ".timeout = 2000" \
+			"SELECT count(*) FROM "queries" \
+				WHERE domain = '${searchdomain}' \
+					AND client = '${SelectedClient}' \
+					AND "timestamp" > ${starttm};")
+		if [[ "${count}" == "0" ]]; then
+			echo -e "${NOK}The client ${RED}hasn't queried${NC} ${GREEN}${searchdomain}${NC} in the last 12 hours"
+			whiptail --title "Diagnose" --msgbox "This client hasn't queried ${searchdomain} in the last 12 hours." 10 60
+		else
+			echo -e "${OK}This client ${GREEN}has queried${NC} ${searchdomain}."
+			count=$((count-1))
+			# retrieve type and status of last query
+			result=$(sqlite3 /etc/pihole/pihole-FTL.db ".timeout = 2000" \
+				"SELECT type, status FROM "queries" \
+					WHERE domain = '${searchdomain}' \
+						AND client = '${SelectedClient}' \
+				LIMIT  ${count} OFFSET 1;")
+			IFS='|' read -r type status <<< "${result}"
+			typeArray=(A AAAA ANY SRV SOA PTR TXT)
+			statusArray=(Unknown Blocked Allowed Allowed Blocked Blocked Blocked Blocked Blocked Blocked Blocked Blocked)
+			commentArray=("was not answered by forward destination" \
+							"Domain contained in gravity database" \
+							"Forwarded" \
+							"Known, replied to from cache" \
+							"Domain matched by a regex blacklist filter" \
+							"Domain contained in exact blacklist" \
+							"By upstream server (known blocking page IP address)" \
+							"By upstream server (0.0.0.0 or ::)" \
+							"By upstream server (NXDOMAIN with RA bit unset)" \
+							"Domain contained in gravity database (deep CNAME inspection)" \
+							"Domain matched by a regex blacklist filter (deep CNAME inspection)" \
+							"Domain contained in exact blacklist (deep CNAME inspection)")
+			# there is no query type 0, adjusting to retrieve array value
+			type=$((type-1))
+			echo -e "${INFO}Query type: ${GREEN}${typeArray[${type}]}${NC}"
+			if ((${status} >= 2 && ${status} <= 4)); then
+				echo -e "${INFO}Status: ${GREEN}${statusArray[${status}]}${NC} (${commentArray[${status}]})"
+			else
+				echo -e "${INFO}Status: ${RED}${statusArray[${status}]}${NC} (${commentArray[${status}]})"
+			fi
+		fi
+	fi
 fi
+
