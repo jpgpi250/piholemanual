@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# the integrity of the whiptail dialogs was verified, running PUTTY, full screen required.
+# the integrity of the whiptail dialogs was verified, running PUTTY and OpenSSH, full screen required.
 
 # script tested, using pihole v5.0 on Raspberry Pi OS (32-bit) Lite, version may 2020.
 # you don't need to run the script with sudo, the script doesn't perform any writes.
@@ -16,13 +16,13 @@
 # clients, found with nmap, NOT already selected from the databaser are added.
 # if the default group is selected, clients found by FTL, using telnet (API), are added
 
-# first release, Sun 14 Jun 2020
+# first release, Mon 15 Jun 2020
 # please report bugs as an issue at https://github.com/jpgpi250/piholemanual/issues 
 
 # usage:
 # diagnose the database: ./diagnose.sh
-# diagnose the result of pihole query: pihole -q- all <domain> | ./diagnose.sh
-# example: pihole -q -all eulerian.net  | ./diagnose.sh
+# diagnose the result of pihole query: pihole -q -exact -all <domain> | ./diagnose.sh
+# example: pihole -q -exact -all eulerian.net  | ./diagnose.sh
 
 # eye candy / color
 RED='\033[0;91m'
@@ -38,8 +38,6 @@ piholeFTLdb="/etc/pihole/pihole-FTL.db"
 
 # pihole -q contains these entries if there is a match for an adlist
 listMatchArray=(https:// http:// file:///)
-# pihole -q contains these entries if there is a match for exact or regex entries
-regexMatchArray=(whitelist blacklist)
 
 starttime() {
 start="$(date  "+%y%m%d %R" -d "$1")"
@@ -109,9 +107,17 @@ if [[ "$stdin" =~ ^/dev/pts/[0-9] ]]; then
 else
 	# use output from pihole -q -all <domain> | ./diagnose.sh, selected overview
 	pipe=true
-	searchdomain=$(ps -ef | grep -v "grep" | grep "/usr/local/bin/pihole -q" | rev | cut -d " " -f1 | rev)
-	echo -e "${INFO}Using piped output from '${BLUE}pihole -q${NC}'."
-	echo -e "${INFO}Diagnosing domain ${GREEN}${searchdomain}${NC}"
+	process=$(ps -ef | grep -v "grep" | grep "/usr/local/bin/pihole -q")
+	if [[ $(echo ${process} | grep "\-exact" | grep "\-all") ]]; then
+		#searchdomain=$(ps -ef | grep -v "grep" | grep "/usr/local/bin/pihole -q" | rev | cut -d " " -f1 | rev)
+		searchdomain=$(echo ${process} | rev | cut -d " " -f1 | rev)
+		echo -e "${INFO}Using piped output from '${BLUE}pihole -q${NC}'."
+		echo -e "${INFO}Diagnosing domain ${GREEN}${searchdomain}${NC}"
+	else
+		echo -e "${NOK}Please use ${GREEN}pihole -q -exact -all${NC} to retrieve the correct results."
+		whiptail --title "Information" --msgbox "Please use 'pihole -q -exact -all' to retrieve the correct results.." 10 60
+		exit
+	fi
 	pipeArray=()
 	while read -r line; do
 		pipeArray+=("$line")
@@ -121,36 +127,12 @@ else
 	match=false
 	for (( i=0; i<${#pipeArray[@]}; i++ )); do
 		# find lines containing text Match found in
-		if [[ ${pipeArray[i]} == *"Over 100 results found"* ]]; then
-			echo -e "${NOK}'pihole -q' returned ${RED}over 100 results${NC}."
-			echo -e "${INFO}use '${GREEN}pihole -q -all${NC}' to retrieve all results."
-			whiptail --title "Information" --msgbox "Your 'pihole -q' search returned over 100 results. \
-			\nUse 'pihole -q -all' to retrieve all results." 10 60
-			exit
-		elif [[ "$match" == "true" ]]; then
-			match=false
-			IFS=' ' read -r listName Enabled <<< "${pipeArray[i]}"
-			resultArray+=("${listName}")
-			match=false
-		elif [[ ${pipeArray[i]} == "Match found in"* ]]; then
-			# get the adlists
-			for (( j=0; j<${#listMatchArray[@]}; j++ )); do
-				if [[ ${pipeArray[i]} == *"${listMatchArray[j]}"* ]]; then
-					resultArray+=("$(echo ${pipeArray[i]} | sed 's/.$//' | sed 's/Match found in //g' )")
-					break
-				fi
-			done
-			# get exact or regex entries
-			for (( j=0; j<${#regexMatchArray[@]}; j++ )); do
-				# the whitespace in front of ${regexMatchArray[j]} isn't a typo
-				# it ensures only the correct entries are selected
-				# adlists URLs may contain the word blacklist or whitelist, but never whitespace
-				if [[ ${pipeArray[i]} == *" ${regexMatchArray[j]}"* ]]; then
-					# the next line is a regex or exact entry
-					match=true
-					break
-				fi
-			done
+		if [[ ! ${pipeArray[i]} == "Exact match"* ]]; then
+			if [[ ${pipeArray[i]} == *"//"* ]]; then
+				resultArray+=("$(echo ${pipeArray[i]} | sed 's/.* //')")
+			else
+				resultArray+=("$(echo ${pipeArray[i]} | sed 's/^[ \t]*//')")
+			fi
 		fi
 	done
 	
