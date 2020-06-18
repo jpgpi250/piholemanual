@@ -17,6 +17,7 @@
 # if the default group is selected, clients found by FTL, using telnet (API), are added
 
 # first release, Mon 15 Jun 2020
+# updated, Thu 18 Jun 2020, bug fixes, added diagnoses for clients, groups, and discovered devices (telnet)
 # please report bugs as an issue at https://github.com/jpgpi250/piholemanual/issues 
 
 # usage:
@@ -46,12 +47,57 @@ begintm=$(TZ=${timezone} date --date="${start}" +"%s")
 echo $begintm
 }
 
-telnetinstalled=$(which telnet)
-if [ -z "${telnetinstalled}" ]; then
-	echo -e "${NOK}${BLUE}telnet${NC} is not installed on this system."
-	whiptail --title "Information" --msgbox "This script will be more efficient it you install telnet, \
-	this to retrieve the clients, only known to FTL." 10 60
+ListCount() {
+Count=$(sqlite3 ${gravitydb} ".timeout = 2000" \
+	"SELECT count(*) FROM '$1' \
+		WHERE group_id = '$2';")
+if [[ "${Count}" == "0" ]]; then
+	echo -e "${NOK}There are ${RED}no $3s${NC} assigned to this ${BLUE}group${NC}."
+	whiptail --title "Diagnose" --msgbox "There are no $3s assigned to this group." 10 60
+else
+	echo -e "${OK}${GREEN}${Count} $3(s)${NC} assigned to this ${BLUE}group${NC}."
 fi
+}
+
+getAPIclients() {
+UnknownClientArray=()
+printf "${INFO}Telnet result: "
+mapfile -t apiClientArray < <(( echo ">top-clients withzero"; echo ">quit"; sleep 1; ) \
+	| telnet 127.0.0.1 4711 \
+	| sed '/Trying/d' \
+	| sed '/Connected to/d' \
+	| sed '/Escape character is/d' \
+	| cut --delimiter " " --fields 3 )
+#lenUnknownClientArray=${#UnknownClientArray[@]}
+if (( ${#apiClientArray[@]} > 0 )); then
+	echo -e "${INFO}${GREEN}${#apiClientArray[@]}${NC} devices discovered, using the API (telnet)."
+	mapfile -t allClientsArray < <(sqlite3 ${gravitydb} ".timeout = 2000" \
+		"SELECT ip FROM 'client';")
+	for (( i=0; i<${#apiClientArray[@]}; i++ )); do
+		if [[ ! " ${allClientsArray[@]} " =~ " ${apiClientArray[$i]} " ]]; then
+			UnknownClientArray+=("${apiClientArray[i]}")
+		fi
+	done
+	if (( ${#UnknownClientArray[@]} > 0 )); then
+		echo -e "${INFO}Found ${GREEN}${#UnknownClientArray[@]}${NC} additional client(s), using the API (telnet)."
+	else
+		echo -e "${INFO}All clients, found using the API (telnet), are in the database."
+	fi
+else
+	echo -e "${NOK}There are {$RED}no devices{$NC} discovered, using the API (telnet)."
+fi
+}
+
+isPackageInstalled() {
+installed=$(which $1)
+if [ -z "${installed}" ]; then
+	echo -e "${NOK}${BLUE}$1${NC} is not installed on this system."
+	whiptail --title "Information" --msgbox "This script requires you to install $1" 10 60
+	exit
+fi
+}
+
+isPackageInstalled "telnet"
 
 stdin="$(ls -l /proc/self/fd/0)"
 stdin="${stdin/*-> /}"
@@ -60,12 +106,15 @@ if [[ "$stdin" =~ ^/dev/pts/[0-9] ]]; then
 	# use database, complete overview
 	pipe=false
 	list=$(whiptail --title "Group Management" --radiolist \
-	"Please select" 16 78 5 \
-	"adlist" "adlists entries" ON \
-	"blacklist" "exact or wildcard blacklist entries" OFF \
-	"regex blacklist" "regex blacklist entries" OFF \
-	"whitelist" "exact or wildcard whitelist entries" OFF \
-	"regex whitelist" "regex whitelist entries" OFF \
+	"Please select" 15 67 8 \
+	"group" "group entries " ON \
+	"client" "client entries (database) " OFF \
+	"devices" "client(s), discovered,using API " OFF \
+	"adlist" "adlists entries " OFF \
+	"blacklist" "exact or wildcard blacklist entries " OFF \
+	"regex blacklist" "regex blacklist entries " OFF \
+	"whitelist" "exact or wildcard whitelist entries " OFF \
+	"regex whitelist" "regex whitelist entries " OFF \
 		3>&1 1>&2 2>&3)
 	if [ \( $? -eq 1 \) -o \( $? -eq 255 \) ]; then
 		exit
@@ -73,10 +122,24 @@ if [[ "$stdin" =~ ^/dev/pts/[0-9] ]]; then
 		echo -e "${INFO}${BLUE}${list}${NC} diagnosis selected."
 	fi
 	case ${list} in
+		"group")
+			dbtable="group"
+			field="name"
+			comment=", description"
+			query=" "
+			;;
+		"client")
+			dbtable="client"
+			field="ip"
+			comment=", comment"
+			query=" "
+			;;
+		"devices")
+			;;
 		"adlist")
 			dbtable="adlist"
 			field="address"
-			query=""
+			query=" "
 			;;
 		"blacklist")
 			dbtable="domainlist"
@@ -100,10 +163,19 @@ if [[ "$stdin" =~ ^/dev/pts/[0-9] ]]; then
 			;;
 	esac
 
-	# read matching entries into array
-	mapfile -t ListArray < <(sqlite3 ${gravitydb} ".timeout = 2000" \
-		"SELECT id, ${field} FROM ${dbtable}${query} \
-		ORDER by id;")
+	if [[ "${list}" = "devices" ]]; then
+		getAPIclients
+		if (( ${#UnknownClientArray[@]} > 0 )); then
+			for (( i=0; i<${#UnknownClientArray[@]}; i++ )); do
+				ListArray+=("$i|${UnknownClientArray[i]}")
+			done
+		fi
+	else
+		# read matching entries into array
+		mapfile -t ListArray < <(sqlite3 ${gravitydb} ".timeout = 2000" \
+			"SELECT id, ${field}${comment} FROM '${dbtable}'${query} \
+			ORDER by id;")
+	fi
 else
 	# use output from pihole -q -all <domain> | ./diagnose.sh, selected overview
 	pipe=true
@@ -127,6 +199,9 @@ else
 	match=false
 	for (( i=0; i<${#pipeArray[@]}; i++ )); do
 		# find lines containing text Match found in
+		if [[ ${pipeArray[i]} == *"No exact results found"* ]]; then
+			break
+		fi
 		if [[ ! ${pipeArray[i]} == "Exact match"* ]]; then
 			if [[ ${pipeArray[i]} == *"//"* ]]; then
 				resultArray+=("$(echo ${pipeArray[i]} | sed 's/.* //')")
@@ -154,7 +229,7 @@ else
 	dbtableArray+=("${dbtable}")
 	fieldArray+=("${field}")
 	result=$(sqlite3 ${gravitydb} ".timeout = 2000" \
-		"SELECT id, ${field} FROM ${dbtable} \
+		"SELECT id, ${field} FROM '${dbtable}' \
 			WHERE ${field} = '${resultArray[i]}';")
 	IFS='|' read -r listID Value <<< "${result}"
 	ListArray+=("${i}|${Value}")
@@ -162,14 +237,15 @@ else
 	done
 fi
 
-lenListArray=${#ListArray[@]}
-if [ ${lenListArray} == 0 ]; then
-	if [[ "$pipe" == "true" ]]; then
-		echo -e "${NOK}'pihole -q' returned ${RED}no results${NC}."
-		whiptail --title "Diagnose" --msgbox "'pihole -q' returned no results." 10 60
-	else
-		echo -e "${NOK}There are ${RED}no ${list} entries${NC} in the database."
-		whiptail --title "Diagnose" --msgbox "There are no ${list} entries in the database." 10 60
+if [ ${#ListArray[@]} == 0 ]; then
+	if [[ "${list}" != "devices" ]]; then
+		if [[ "$pipe" == "true" ]]; then
+			echo -e "${NOK}'pihole -q' returned ${RED}no results${NC}."
+			whiptail --title "Diagnose" --msgbox "'pihole -q' returned no results." 10 60
+		else
+			echo -e "${NOK}There are ${RED}no ${list} entries${NC} in the database."
+			whiptail --title "Diagnose" --msgbox "There are no ${list} entries in the database." 10 60
+		fi
 	fi
 	exit
 fi
@@ -178,15 +254,22 @@ fi
 WhiptailArray=()
 WhiptailLength=0
 
-for (( i=0; i<${lenListArray}; i++ )); do
-	IFS='|' read -r listID Value <<< "${ListArray[$i]}"
+for (( i=0; i<${#ListArray[@]}; i++ )); do
+	if [[ ( "${list}" = "client" ) || ( "${list}" = "group" ) ]]; then
+		IFS='|' read -r listID Value Comment<<< "${ListArray[$i]}"
+		if [ ! -z "${Comment}" ]; then
+			Value="${Value} (${Comment})"
+		fi
+	else
+		IFS='|' read -r listID Value <<< "${ListArray[$i]}"
+	fi
 	WhiptailArray+=("${listID}")
 	WhiptailArray+=("${Value} ")
 	[[ " $i " =~ " 0 " ]] && WhiptailArray+=("ON") || WhiptailArray+=("OFF")
 	if (( "${#Value}" > "${WhiptailLength}" )); then WhiptailLength=${#Value}; fi
 done
 WhiptailLength=$( expr ${WhiptailLength} + 21 )
-if (( ${lenListArray} > 9 )); then WhiptailHight=9; else WhiptailHight=${lenListArray}; fi
+if (( ${#ListArray[@]} > 9 )); then WhiptailHight=9; else WhiptailHight=${#ListArray[@]}; fi
 SelectedID=$(whiptail --title "Group Management" --radiolist "Please select ${list} entry" 16 ${WhiptailLength} ${WhiptailHight} "${WhiptailArray[@]}" 3>&1 1>&2 2>&3)
 if [ \( $? -eq 1 \) -o \( $? -eq 255 \) ]; then
 	# ESC or CANCEL
@@ -198,7 +281,7 @@ else
 		SelectedID=${idArray[${SelectedID}]}
 		if [[ "$dbtable" == "domainlist" ]]; then
 			type=$(sqlite3 ${gravitydb} ".timeout = 2000" \
-				"SELECT type FROM ${dbtable} \
+				"SELECT type FROM '${dbtable}' \
 					WHERE id = '${SelectedID}';")
 			case ${type} in
 				"0")
@@ -218,112 +301,118 @@ else
 			list="adlist"
 		fi
 	fi
-	printf "${INFO}${BLUE}${list}${NC} entry selected: ${GREEN}"
-	# can't echo the entry, let sqlite3 print the result.
-	sqlite3 ${gravitydb} ".timeout = 2000" \
-		"SELECT ${field} FROM ${dbtable} \
-			WHERE id = ${SelectedID};"
-	printf "${NC}"
-	# entry enabled?
-	enabled=$(sqlite3 ${gravitydb} ".timeout = 2000" \
-		"SELECT enabled FROM ${dbtable} \
-			WHERE id = '${SelectedID}';")
-	if [ "${enabled}" -eq "0" ]; then
-		echo -e "${NOK}The selected ${BLUE}${list}${NC} entry ${RED}isn't enabled${NC}."
-		whiptail --title "Diagnose" --msgbox "The selected ${list} entry isn't enabled." 10 60
-		exit
-	else
-		echo -e "${OK}The selected ${BLUE}${list}${NC} entry ${GREEN}is enabled${NC}."
-	fi
-fi
-
-# retrieve all the groups, the selected entry is assigned to
-mapfile -t GroupArray < <(sqlite3 ${gravitydb} ".timeout = 2000" \
-	"SELECT group_id FROM '${dbtable}_by_group' \
-		WHERE ${dbtable}_id = ${SelectedID} \
-		ORDER by group_id;")
-
-lenGroupArray=${#GroupArray[@]}
-if [ ${lenGroupArray} == 0 ]; then
-	echo -e "${NOK}The selected ${BLUE}${list}${NC} entry ${RED}isn't assigned to a group${NC}."
-	whiptail --title "Diagnose" --msgbox "The selected ${list} entry isn't assigned to a group." 10 60
-	exit
-fi
-
-# start building the group whiptail array
-WhiptailArray=()
-WhiptailLength=0
-
-for (( i=0; i<${lenGroupArray}; i++ )); do
-	GroupName=$(sqlite3 ${gravitydb} ".timeout = 2000" \
-		"SELECT id, name, description FROM 'group' \
-			WHERE id = ${GroupArray[$i]};")
-	IFS='|' read -r groupID groupName groupDescription <<< "${GroupName}"
-	WhiptailArray+=("${groupID}")
-	if [ ! -z "${groupDescription}" ]; then
-		groupName="${groupName} (${groupDescription})"
-	fi
-	WhiptailArray+=("${groupName}")
-	[[ " $i " =~ " 0 " ]] && WhiptailArray+=("ON") || WhiptailArray+=("OFF")
-	if (( "${#groupName}" > "${WhiptailLength}" )); then WhiptailLength=${#groupName}; fi
-done
-
-WhiptailLength=$( expr ${WhiptailLength} + 21 )
-if (( ${lenGroupArray} > 9 )); then WhiptailHight=9; else WhiptailHight=${lenGroupArray}; fi
-SelectedGroup=$(whiptail --title "Group Management" --radiolist "Please select a group" 16 ${WhiptailLength} ${WhiptailHight} "${WhiptailArray[@]}" 3>&1 1>&2 2>&3)
-if [ \( $? -eq 1 \) -o \( $? -eq 255 \) ]; then
-	# ESC or CANCEL
-	exit
-else
-	printf "${INFO}Group selected: ${GREEN}"
-	sqlite3 ${gravitydb} ".timeout = 2000" \
-		"SELECT name FROM 'group' \
-			WHERE id = ${SelectedGroup};"
-	printf "${NC}"
-	# entry enabled?
-	enabled=$(sqlite3 ${gravitydb} ".timeout = 2000" \
-		"SELECT enabled FROM 'group' \
-			WHERE ID=${SelectedGroup};")
-	if [ "${enabled}" -eq "0" ]; then
-		echo -e "${NOK}The selected group ${RED}isn't enabled${NC}."
-		whiptail --title "Diagnose" --msgbox "The selected group entry isn't enabled." 10 60
-		exit
-	else
-		echo -e "${OK}The selected group ${GREEN}is enabled${NC}."
-	fi
-fi
-
-# start building the client whiptail array
-WhiptailArray=()
-WhiptailHight=0
-clientIPLength=0
-clientCommentLength=0
-WhiptailSelect=false
-
-# retrieve clients, assigned to the selected group
-mapfile -t ClientArray < <(sqlite3 ${gravitydb} ".timeout = 2000" \
-	"SELECT client_id FROM 'client_by_group' \
-		WHERE group_id = ${SelectedGroup} \
-	ORDER by client_id;")
-lenClientArray=${#ClientArray[@]}
-
-# add the clients from the database to the array
-for (( i=0; i<${lenClientArray}; i++ )); do
-	ClientName=$(sqlite3 ${gravitydb} ".timeout = 2000" \
-		"SELECT id, ip, comment FROM 'client' \
-			WHERE id = ${ClientArray[$i]};")
-	IFS='|' read -r clientID clientIP clientComment <<< "${ClientName}"
-	if [[ ${clientIP} == *"/"* ]]; then
-		nmapinstalled=$(which nmap)
-		if [ -z "${nmapinstalled}" ]; then
-			echo -e "${NOK}${BLUE}nmap${NC} is not installed on this system."
-			echo -e "${NOK}subnet entry ${GREEN}${clientIP}${NC} not evaluated!"
-			whiptail --title "Information" --msgbox "This script will be more efficient if you install nmap, \
-			this to evaluate subnet client entries." 10 60
+	if [[ "${list}" != "devices" ]]; then
+		printf "${INFO}${BLUE}${list}${NC} entry selected: ${GREEN}"
+		# can't echo the entry, let sqlite3 print the result.
+		sqlite3 ${gravitydb} ".timeout = 2000" \
+			"SELECT ${field} FROM '${dbtable}' \
+				WHERE id = ${SelectedID};"
+		printf "${NC}"
+		# entry enabled?
+		if [[ "${list}" = "client" ]]; then
+			SelectedClient=$(sqlite3 ${gravitydb} ".timeout = 2000" \
+			"SELECT ip FROM '${dbtable}' \
+				WHERE id = '${SelectedID}';")
 		else
-			mapfile -t SubnetArray < <(sudo nmap -sL -n ${clientIP} | grep "Nmap scan report for" | cut --delimiter " " --fields 5)
+			enabled=$(sqlite3 ${gravitydb} ".timeout = 2000" \
+				"SELECT enabled FROM '${dbtable}' \
+					WHERE id = '${SelectedID}';")
+			if [[ "${enabled}" -eq "0" ]]; then
+				echo -e "${NOK}The selected ${BLUE}${list}${NC} entry ${RED}isn't enabled${NC}."
+				whiptail --title "Diagnose" --msgbox "The selected ${list} entry isn't enabled." 10 60
+				exit
+			else
+				echo -e "${OK}The selected ${BLUE}${list}${NC} entry ${GREEN}is enabled${NC}."
+			fi
+		fi
+	else
+		SelectedClient=${UnknownClientArray[${SelectedID}]}
+		echo -e "${INFO}${BLUE}${list}${NC} entry selected: ${GREEN}${SelectedClient}${NC}"
+	fi
+fi
+
+if [[ "${list}" != "devices" ]]; then
+	if [[ "${list}" = "group" ]]; then
+		SelectedGroup=$(sqlite3 ${gravitydb} ".timeout = 2000" \
+			"SELECT id FROM '${dbtable}' \
+				WHERE id = '${SelectedID}';")
+		ListCount "adlist_by_group" "${SelectedID}" "adlist"
+		ListCount "domainlist_by_group" "${SelectedID}" "domain"
+	else
+		# retrieve all the groups, the selected entry is assigned to
+		mapfile -t GroupArray < <(sqlite3 ${gravitydb} ".timeout = 2000" \
+			"SELECT group_id FROM '${dbtable}_by_group' \
+				WHERE ${dbtable}_id = ${SelectedID} \
+				ORDER by group_id;")
+
+		lenGroupArray=${#GroupArray[@]}
+		if [ ${lenGroupArray} == 0 ]; then
+			echo -e "${NOK}The selected ${BLUE}${list}${NC} entry ${RED}isn't assigned to a group${NC}."
+			whiptail --title "Diagnose" --msgbox "The selected ${list} entry isn't assigned to a group." 10 60
+			exit
+		fi
+
+		# start building the group whiptail array
+		WhiptailArray=()
+		WhiptailLength=0
+
+		for (( i=0; i<${lenGroupArray}; i++ )); do
+			GroupName=$(sqlite3 ${gravitydb} ".timeout = 2000" \
+				"SELECT id, name, description FROM 'group' \
+					WHERE id = ${GroupArray[$i]};")
+			IFS='|' read -r groupID groupName groupDescription <<< "${GroupName}"
+			WhiptailArray+=("${groupID}")
+			if [ ! -z "${groupDescription}" ]; then
+				groupName="${groupName} (${groupDescription})"
+			fi
+			WhiptailArray+=("${groupName}")
+			[[ " $i " =~ " 0 " ]] && WhiptailArray+=("ON") || WhiptailArray+=("OFF")
+			if (( "${#groupName}" > "${WhiptailLength}" )); then WhiptailLength=${#groupName}; fi
+		done
+
+		WhiptailLength=$( expr ${WhiptailLength} + 21 )
+		if (( ${lenGroupArray} > 9 )); then WhiptailHight=9; else WhiptailHight=${lenGroupArray}; fi
+		SelectedGroup=$(whiptail --title "Group Management" --radiolist "Please select a group" 16 ${WhiptailLength} ${WhiptailHight} "${WhiptailArray[@]}" 3>&1 1>&2 2>&3)
+		if [ \( $? -eq 1 \) -o \( $? -eq 255 \) ]; then
+			# ESC or CANCEL
+			exit
+		else
+			printf "${INFO}Group selected: ${GREEN}"
+			sqlite3 ${gravitydb} ".timeout = 2000" \
+				"SELECT name FROM 'group' \
+					WHERE id = ${SelectedGroup};"
+			printf "${NC}"
+			# entry enabled?
+			enabled=$(sqlite3 ${gravitydb} ".timeout = 2000" \
+				"SELECT enabled FROM 'group' \
+					WHERE ID=${SelectedGroup};")
+			if [ "${enabled}" -eq "0" ]; then
+				echo -e "${NOK}The selected group ${RED}isn't enabled${NC}."
+				whiptail --title "Diagnose" --msgbox "The selected group entry isn't enabled." 10 60
+				exit
+			else
+				echo -e "${OK}The selected group ${GREEN}is enabled${NC}."
+			fi
+			if [[ "${list}" = "client" ]]; then
+				ListCount "adlist_by_group" "${SelectedGroup}" "adlist"
+				ListCount "domainlist_by_group" "${SelectedGroup}" "domain"
+			fi
+		fi
+	fi
+
+	if [[ ( "${list}" != "client" ) || ( "${SelectedClient}" == *"/"* ) ]]; then
+		# start building the client whiptail array
+		WhiptailArray=()
+		WhiptailHight=0
+		clientIPLength=0
+		clientCommentLength=0
+		WhiptailSelect=false
+
+		if [[ "${SelectedClient}" == *"/"* ]]; then
+			WhiptailText="Evaluating subnet entry, please select a client"
+			mapfile -t SubnetArray < <(sudo nmap -sL -n ${SelectedClient} | grep "Nmap scan report for" | cut --delimiter " " --fields 5)
 			lenSubnetArray=${#SubnetArray[@]}
-			echo -e "${INFO}Evaluating subnet entry ${GREEN}${clientIP}${NC} (${BLUE}${lenSubnetArray}${NC} possible clients)."
+			echo -e "${INFO}Evaluating subnet entry ${GREEN}${SelectedClient}${NC} (${GREEN}${lenSubnetArray}${NC} possible clients)."
 			for (( j=0; j<${lenSubnetArray}; j++ )); do
 				if [[ ! " ${WhiptailArray[@]} " =~ " ${SubnetArray[$j]} " ]]; then
 					WhiptailHight=$((WhiptailHight+1))
@@ -331,76 +420,102 @@ for (( i=0; i<${lenClientArray}; i++ )); do
 					clientComment=$(sqlite3 ${gravitydb} ".timeout = 2000" \
 						"SELECT comment FROM 'client' \
 							WHERE ip = '${SubnetArray[$j]}';")
-					if [ -z "${clientComment}" ]; then clientComment=("discovered, subnet ${clientIP} (nmap) ");	fi
+					if [ -z "${clientComment}" ]; then clientComment=("discovered, subnet ${SelectedClient} (nmap) ");	fi
 					WhiptailArray+=("${clientComment}")
 					if [ "${WhiptailSelect}" = true ]; then  WhiptailArray+=("OFF"); else WhiptailArray+=("ON"); WhiptailSelect=true; fi
-					if (( "${#clientIP}" > "${clientIPLength}" )); then clientIPLength=${#clientIP}; fi
+					if (( "${#SelectedClient}" > "${clientIPLength}" )); then clientIPLength=${#SelectedClient}; fi
 					if (( "${#clientComment}" > "${clientCommentLength}" )); then clientCommentLength=${#clientComment}; fi
 				fi
 			done
-		fi
-	else
-		if [[ ! " ${WhiptailArray[@]} " =~ " ${clientIP} " ]]; then
-			WhiptailHight=$((WhiptailHight+1))
-			WhiptailArray+=("${clientIP}")
-			WhiptailArray+=("${clientComment}")
-			if [ "${WhiptailSelect}" = true ]; then  WhiptailArray+=("OFF"); else WhiptailArray+=("ON"); WhiptailSelect=true;fi
-			if (( "${#clientIP}" > "${clientIPLength}" )); then clientIPLength=${#clientIP}; fi
-			if (( "${#clientComment}" > "${clientCommentLength}" )); then clientCommentLength=${#clientComment}; fi
-		fi
-	fi
-done
+		else
+			WhiptailText="Please select a client"
+			# retrieve clients, assigned to the selected group
+			mapfile -t ClientArray < <(sqlite3 ${gravitydb} ".timeout = 2000" \
+				"SELECT client_id FROM 'client_by_group' \
+					WHERE group_id = ${SelectedGroup} \
+				ORDER by client_id;")
+			lenClientArray=${#ClientArray[@]}
 
-# if telnet is installed, retrieve the clients, known to FTL
-# only used, if the default group is selected.
-if [[ ( ! -z "${telnetinstalled}" ) && ( "${SelectedGroup}" == "0" ) ]]; then
-	printf "${INFO}Telnet result: "
-	mapfile -t UnknownClientArray < <(( echo ">top-clients withzero"; echo ">quit"; sleep 1; ) \
-		| telnet 127.0.0.1 4711 \
-		| sed '/Trying/d' \
-		| sed '/Connected to/d' \
-		| sed '/Escape character is/d' \
-		| cut --delimiter " " --fields 3 )
-	lenUnknownClientArray=${#UnknownClientArray[@]}
+			# add the clients from the database to the array
+			for (( i=0; i<${lenClientArray}; i++ )); do
+				ClientName=$(sqlite3 ${gravitydb} ".timeout = 2000" \
+					"SELECT id, ip, comment FROM 'client' \
+						WHERE id = ${ClientArray[$i]};")
+				IFS='|' read -r clientID clientIP clientComment <<< "${ClientName}"
+				if [[ ${clientIP} == *"/"* ]]; then
+					isPackageInstalled "nmap"
+					mapfile -t SubnetArray < <(sudo nmap -sL -n ${clientIP} | grep "Nmap scan report for" | cut --delimiter " " --fields 5)
+					lenSubnetArray=${#SubnetArray[@]}
+					echo -e "${INFO}Evaluating subnet entry ${GREEN}${clientIP}${NC} (${GREEN}${lenSubnetArray}${NC} possible clients)."
+					for (( j=0; j<${lenSubnetArray}; j++ )); do
+						if [[ ! " ${WhiptailArray[@]} " =~ " ${SubnetArray[$j]} " ]]; then
+							WhiptailHight=$((WhiptailHight+1))
+							WhiptailArray+=("${SubnetArray[$j]}")
+							clientComment=$(sqlite3 ${gravitydb} ".timeout = 2000" \
+								"SELECT comment FROM 'client' \
+									WHERE ip = '${SubnetArray[$j]}';")
+							if [ -z "${clientComment}" ]; then clientComment=("discovered, subnet ${clientIP} (nmap) ");	fi
+							WhiptailArray+=("${clientComment}")
+							if [ "${WhiptailSelect}" = true ]; then  WhiptailArray+=("OFF"); else WhiptailArray+=("ON"); WhiptailSelect=true; fi
+							if (( "${#clientIP}" > "${clientIPLength}" )); then clientIPLength=${#clientIP}; fi
+							if (( "${#clientComment}" > "${clientCommentLength}" )); then clientCommentLength=${#clientComment}; fi
+						fi
+					done
+				else
+					if [[ ! " ${WhiptailArray[@]} " =~ " ${clientIP} " ]]; then
+						WhiptailHight=$((WhiptailHight+1))
+						WhiptailArray+=("${clientIP}")
+						WhiptailArray+=("${clientComment}")
+						if [ "${WhiptailSelect}" = true ]; then  WhiptailArray+=("OFF"); else WhiptailArray+=("ON"); WhiptailSelect=true;fi
+						if (( "${#clientIP}" > "${clientIPLength}" )); then clientIPLength=${#clientIP}; fi
+						if (( "${#clientComment}" > "${clientCommentLength}" )); then clientCommentLength=${#clientComment}; fi
+					fi
+				fi
+			done
 
-	# add clients, retrieved, using the API to the array
-	if (( $lenUnknownClientArray > 0 )); then
-		for (( i=0; i<$lenUnknownClientArray; i++ )); do
-			if [[ ! " ${WhiptailArray[@]} " =~ " ${UnknownClientArray[$i]} " ]]; then
-				WhiptailHight=$((WhiptailHight+1))
-				WhiptailArray+=("${UnknownClientArray[$i]}")
-				clientComment="discovered (telnet) "
-				WhiptailArray+=("${clientComment}")
-				if [ "${WhiptailSelect}" = true ]; then  WhiptailArray+=("OFF"); else WhiptailArray+=("ON"); WhiptailSelect=true;fi
-				if (( "${#UnknownClientArray[$i]}" > "${clientIPLength}" )); then clientIPLength=${#UnknownClientArray[$i]}; fi
-				if (( "${#clientComment}" > "${clientCommentLength}" )); then clientCommentLength=${#clientComment}; fi
+			# if telnet is installed, retrieve the clients, known to FTL
+			# only used, if the default group is selected.
+			if [[ ( ! -z "${telnetinstalled}" ) && ( "${SelectedGroup}" == "0" ) ]]; then
+				getAPIclients
+				# add clients, retrieved, using the API to the array
+				if (( ${#UnknownClientArray[@]} > 0 )); then
+					for (( i=0; i<${#UnknownClientArray[@]}; i++ )); do
+						WhiptailHight=$((WhiptailHight+1))
+						WhiptailArray+=("${UnknownClientArray[$i]}")
+						clientComment="discovered (telnet) "
+						WhiptailArray+=("${clientComment}")
+						if [ "${WhiptailSelect}" = true ]; then  WhiptailArray+=("OFF"); else WhiptailArray+=("ON"); WhiptailSelect=true;fi
+						if (( "${#UnknownClientArray[$i]}" > "${clientIPLength}" )); then clientIPLength=${#UnknownClientArray[$i]}; fi
+						if (( "${#clientComment}" > "${clientCommentLength}" )); then clientCommentLength=${#clientComment}; fi
+					done
+				fi
 			fi
-		done
-	fi
-fi
 
-lenWhiptailArray=${#WhiptailArray[@]}
-if [ ${lenWhiptailArray} == 0 ]; then
-	echo -e "${NOK}The selected group ${RED}doesn't have any clients assigned${NC}."
-	whiptail --title "Diagnose" --msgbox "The selected group doesn't have any clients assigned." 10 60
-	exit
-fi
+			lenWhiptailArray=${#WhiptailArray[@]}
+			if [ ${lenWhiptailArray} == 0 ]; then
+				echo -e "${NOK}There are ${RED}no clients${NC} assigned to this ${BLUE}group${NC}."
+				whiptail --title "Diagnose" --msgbox "There are no clients assigned to this group." 10 60
+				exit
+			fi
+		fi
 
-# adjust the whiptail dialog hight (number of entries found)
-WhiptailLength=$(( ${clientIPLength} + ${clientCommentLength} + 21 ))
-if (( ${WhiptailHight} > 9 )); then WhiptailHight=9; fi
-SelectedClient=$(whiptail --title "Group Management" --radiolist "Please select a client" 16 ${WhiptailLength} ${WhiptailHight} "${WhiptailArray[@]}" 3>&1 1>&2 2>&3)
-if [ \( $? -eq 1 \) -o \( $? -eq 255 \) ]; then
-	# ESC or CANCEL
-	exit
-else
-	clientInfo=$(sqlite3 ${gravitydb} ".timeout = 2000" \
-		"SELECT comment FROM 'client' \
-			WHERE ip='${SelectedClient}';")
-	if [ -z "${clientInfo}" ]; then
-		echo -e "${INFO}Client selected: ${GREEN}${SelectedClient}${NC}"
-	else
-		echo -e "${INFO}Client selected: ${GREEN}${SelectedClient}${NC} (${clientInfo})."
+		# adjust the whiptail dialog hight (number of entries found)
+		WhiptailLength=$(( ${clientIPLength} + ${clientCommentLength} + 21 ))
+		if (( ${WhiptailHight} > 9 )); then WhiptailHight=9; fi
+		SelectedClient=$(whiptail --title "Group Management" --radiolist "${WhiptailText}" 16 ${WhiptailLength} ${WhiptailHight} "${WhiptailArray[@]}" 3>&1 1>&2 2>&3)
+		if [ \( $? -eq 1 \) -o \( $? -eq 255 \) ]; then
+			# ESC or CANCEL
+			exit
+		else
+			clientInfo=$(sqlite3 ${gravitydb} ".timeout = 2000" \
+				"SELECT comment FROM 'client' \
+					WHERE ip='${SelectedClient}';")
+			if [ -z "${clientInfo}" ]; then
+				echo -e "${INFO}Client selected: ${GREEN}${SelectedClient}${NC}"
+			else
+				echo -e "${INFO}Client selected: ${GREEN}${SelectedClient}${NC} (${clientInfo})."
+			fi
+		fi
 	fi
 fi
 
@@ -420,8 +535,8 @@ else
 			echo -e "${NOK}Could not retrieve search ('ps -ef' failed)."
 		else
 			# check if the client queried the searchdomain (pihole -q- all <domain>)
-			count=$(sqlite3 /etc/pihole/pihole-FTL.db ".timeout = 2000" \
-				"SELECT count(*) FROM "queries" \
+			count=$(sqlite3 ${gravitydb} ".timeout = 2000" \
+				"SELECT count(*) FROM 'queries' \
 					WHERE domain = '${searchdomain}' \
 						AND client = '${SelectedClient}' \
 						AND "timestamp" > ${starttm};")
@@ -432,8 +547,8 @@ else
 				echo -e "${OK}This client ${GREEN}has queried${NC} ${searchdomain}."
 				count=$((count-1))
 				# retrieve type and status of last query
-				result=$(sqlite3 /etc/pihole/pihole-FTL.db ".timeout = 2000" \
-					"SELECT type, status FROM "queries" \
+				result=$(sqlite3 ${gravitydb} ".timeout = 2000" \
+					"SELECT type, status FROM 'queries' \
 						WHERE domain = '${searchdomain}' \
 							AND client = '${SelectedClient}' \
 					LIMIT  ${count} OFFSET 1;")
