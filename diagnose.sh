@@ -535,7 +535,7 @@ else
 			echo -e "${NOK}Could not retrieve search ('ps -ef' failed)."
 		else
 			# check if the client queried the searchdomain (pihole -q- all <domain>)
-			count=$(sqlite3 ${gravitydb} ".timeout = 2000" \
+			count=$(sqlite3 ${piholeFTLdb} ".timeout = 2000" \
 				"SELECT count(*) FROM 'queries' \
 					WHERE domain = '${searchdomain}' \
 						AND client = '${SelectedClient}' \
@@ -547,7 +547,7 @@ else
 				echo -e "${OK}This client ${GREEN}has queried${NC} ${searchdomain}."
 				count=$((count-1))
 				# retrieve type and status of last query
-				result=$(sqlite3 ${gravitydb} ".timeout = 2000" \
+				result=$(sqlite3 ${piholeFTLdb} ".timeout = 2000" \
 					"SELECT type, status FROM 'queries' \
 						WHERE domain = '${searchdomain}' \
 							AND client = '${SelectedClient}' \
@@ -569,7 +569,7 @@ else
 								"Domain contained in exact blacklist (deep CNAME inspection)")
 				# there is no query type 0, adjusting to retrieve array value
 				type=$((type-1))
-				echo -e "${INFO}Query type: ${GREEN}${typeArray[${type}]}${NC}"
+				echo -e "${INFO}Last query type: ${GREEN}${typeArray[${type}]}${NC}"
 				if ((${status} >= 2 && ${status} <= 4)); then
 					echo -e "${INFO}Status: ${GREEN}${statusArray[${status}]}${NC} (${commentArray[${status}]})"
 				else
