@@ -475,7 +475,7 @@ if [[ "${list}" != "devices" ]]; then
 
 			# if telnet is installed, retrieve the clients, known to FTL
 			# only used, if the default group is selected.
-			if [[ ( ! -z "${telnetinstalled}" ) && ( "${SelectedGroup}" == "0" ) ]]; then
+			if  (( "${SelectedGroup}" == "0" ));then
 				getAPIclients
 				# add clients, retrieved, using the API to the array
 				if (( ${#UnknownClientArray[@]} > 0 )); then
