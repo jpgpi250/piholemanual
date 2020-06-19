@@ -18,6 +18,7 @@
 
 # first release, Mon 15 Jun 2020
 # updated, Thu 18 Jun 2020, bug fixes, added diagnoses for clients, groups, and discovered devices (telnet)
+# updated, Fri 19 Jun 2020, ready for pihole v5.1
 # please report bugs as an issue at https://github.com/jpgpi250/piholemanual/issues 
 
 # usage:
@@ -39,6 +40,7 @@ piholeFTLdb="/etc/pihole/pihole-FTL.db"
 
 # pihole -q contains these entries if there is a match for an adlist
 listMatchArray=(https:// http:// file:///)
+typeMatchArray=("exact whitelist" "exact blacklist" "regex whitelist" "regex blacklist")
 
 starttime() {
 start="$(date  "+%y%m%d %R" -d "$1")"
@@ -96,6 +98,18 @@ if [ -z "${installed}" ]; then
 	exit
 fi
 }
+
+dbversion=$(sqlite3 ${gravitydb} ".timeout = 2000" \
+	"SELECT value FROM 'info' \
+		WHERE property = 'version';")
+if [[ "${dbversion}" != "12" ]]; then
+	echo -e "${NOK}This script was written for gravity database version 12 (current version: ${GREEN}${dbversion}${NC})."
+	echo -e "${INFO}Retrieve the latest version from ${BLUE}GitHub${NC}."
+	whiptail --title "Information" --msgbox "This script was written for gravity database version 12." 10 60
+	exit
+else
+	echo -e "${INFO}Database version ${GREEN}${dbversion}${NC} detected."
+fi
 
 isPackageInstalled "telnet"
 
@@ -187,7 +201,7 @@ else
 		echo -e "${INFO}Diagnosing domain ${GREEN}${searchdomain}${NC}"
 	else
 		echo -e "${NOK}Please use ${GREEN}pihole -q -exact -all${NC} to retrieve the correct results."
-		whiptail --title "Information" --msgbox "Please use 'pihole -q -exact -all' to retrieve the correct results.." 10 60
+		whiptail --title "Information" --msgbox "Please use 'pihole -q -exact -all' to retrieve the correct results." 10 60
 		exit
 	fi
 	pipeArray=()
@@ -195,45 +209,54 @@ else
 		pipeArray+=("$line")
 	done <<< "$(</dev/stdin)"
 	
+	# parse the output of pihole -q, collect the necessary info to process
 	resultArray=()
-	match=false
+	count=0
 	for (( i=0; i<${#pipeArray[@]}; i++ )); do
 		# find lines containing text Match found in
 		if [[ ${pipeArray[i]} == *"No exact results found"* ]]; then
 			break
 		fi
 		if [[ ! ${pipeArray[i]} == "Exact match"* ]]; then
-			if [[ ${pipeArray[i]} == *"//"* ]]; then
-				resultArray+=("$(echo ${pipeArray[i]} | sed 's/.* //')")
+			if [[ ${pipeArray[i]} == *"://"* ]]; then
+				# it's an adlist
+				entry=$(echo ${pipeArray[i]} | sed 's/.* //')
+				#echo ${entry}
+				ID=$(sqlite3 ${gravitydb} ".timeout = 2000" \
+					"SELECT id FROM 'adlist' \
+						WHERE address = '${entry}';")
+				resultArray+=("${count};adlist;address;0;adlist;${ID};${entry}")
+				count=$((count+1))
 			else
-				resultArray+=("$(echo ${pipeArray[i]} | sed 's/^[ \t]*//')")
+				# it's an exact or regexx whitelist or blacklist entry
+				entry=${pipeArray[i]%" (disabled)"}
+				entry=$(echo ${entry} | sed 's/^[ \t]*//')
+				#echo ${entry}
+				ID=$(sqlite3 ${gravitydb} ".timeout = 2000" \
+					"SELECT id FROM 'domainlist' \
+						WHERE domain = '${entry}' \
+							AND type = '${type}';")
+				resultArray+=("${count};domainlist;domain;${type};${comment};${ID};${entry}")
+				count=$((count+1))
+			fi
+		else
+			if [[ ${pipeArray[i]} == "Exact match found in"* ]]; then
+				if [[ " ${typeMatchArray[@]} " =~ " ${pipeArray[$i]: -15} " ]]; then
+					for (( j=0; j<${#typeMatchArray[@]}; j++ )); do
+						if [[ "${typeMatchArray[$j]}" = "${pipeArray[$i]: -15}" ]]; then
+							comment=${typeMatchArray[$j]}
+							type=${j}
+						fi
+					done
+				fi
 			fi
 		fi
 	done
 	
-	dbtableArray=()
-	fieldArray=()
 	ListArray=()
-	idArray=()
-	# read matching entries into array
 	for (( i=0; i<${#resultArray[@]}; i++ )); do
-		dbtable="domainlist"
-		field="domain"
-		for (( j=0; j<${#listMatchArray[@]}; j++ )); do
-			if [[ ${resultArray[i]} == *"${listMatchArray[j]}"* ]]; then
-				dbtable="adlist"
-				field="address"
-				break
-			fi
-		done
-	dbtableArray+=("${dbtable}")
-	fieldArray+=("${field}")
-	result=$(sqlite3 ${gravitydb} ".timeout = 2000" \
-		"SELECT id, ${field} FROM '${dbtable}' \
-			WHERE ${field} = '${resultArray[i]}';")
-	IFS='|' read -r listID Value <<< "${result}"
-	ListArray+=("${i}|${Value}")
-	idArray+=("${listID}")
+		IFS=';' read -r ArrayID dbtable field type Comment ListID Value <<< "${resultArray[i]}"
+		ListArray+=("${ArrayID};${Value};${Comment}")
 	done
 fi
 
@@ -260,6 +283,13 @@ for (( i=0; i<${#ListArray[@]}; i++ )); do
 		if [ ! -z "${Comment}" ]; then
 			Value="${Value} (${Comment})"
 		fi
+	elif [[ ("${pipe}" = "true" ) ]]; then
+		IFS=';' read -r listID Value Comment<<< "${ListArray[$i]}"
+		if [[ ("${Comment}" = "adlist" ) ]]; then
+			Value="${Value}"
+		else
+			Value="${Comment}:  ${Value}"
+		fi
 	else
 		IFS='|' read -r listID Value <<< "${ListArray[$i]}"
 	fi
@@ -276,30 +306,8 @@ if [ \( $? -eq 1 \) -o \( $? -eq 255 \) ]; then
 	exit
 else
 	if [[ "$pipe" == "true" ]]; then
-		dbtable=${dbtableArray[${SelectedID}]}
-		field=${fieldArray[${SelectedID}]}
-		SelectedID=${idArray[${SelectedID}]}
-		if [[ "$dbtable" == "domainlist" ]]; then
-			type=$(sqlite3 ${gravitydb} ".timeout = 2000" \
-				"SELECT type FROM '${dbtable}' \
-					WHERE id = '${SelectedID}';")
-			case ${type} in
-				"0")
-					list="whitelist"
-					;;
-				"1")
-					list="blacklist"
-					;;
-				"2")
-					list="regex whitelist"
-					;;
-				"3")
-					list="regex blacklist"
-					;;
-				esac
-		else
-			list="adlist"
-		fi
+		IFS=';' read -r ArrayID dbtable field type list ListID Value <<< "${resultArray[${SelectedID}]}"
+		SelectedID=${ListID}
 	fi
 	if [[ "${list}" != "devices" ]]; then
 		printf "${INFO}${BLUE}${list}${NC} entry selected: ${GREEN}"
@@ -519,9 +527,17 @@ if [[ "${list}" != "devices" ]]; then
 	fi
 fi
 
+# retrieve time of last entry from database
+timeOfLastEntry=$(sqlite3 ${piholeFTLdb} ".timeout = 5000" \
+	"SELECT timestamp FROM 'queries' \
+		ORDER BY id
+		DESC LIMIT 1;")
+echo -e "${INFO}Time of last entry in query database: ${GREEN}$(date -d @${timeOfLastEntry})${NC}"	
+echo -e "${INFO}${RED}More recent queries NOT evaluated...${NC}"
+
 # check if the client is using pihole
 starttm=$(starttime "12 hours ago")
-count=$(sqlite3 ${piholeFTLdb} ".timeout = 2000" \
+count=$(sqlite3 ${piholeFTLdb} ".timeout = 5000" \
 	"SELECT count(*) FROM "queries" \
 		WHERE client = '${SelectedClient}' \
 			AND "timestamp" > ${starttm};")
@@ -535,7 +551,7 @@ else
 			echo -e "${NOK}Could not retrieve search ('ps -ef' failed)."
 		else
 			# check if the client queried the searchdomain (pihole -q- all <domain>)
-			count=$(sqlite3 ${piholeFTLdb} ".timeout = 2000" \
+			count=$(sqlite3 ${piholeFTLdb} ".timeout = 5000" \
 				"SELECT count(*) FROM 'queries' \
 					WHERE domain = '${searchdomain}' \
 						AND client = '${SelectedClient}' \
@@ -547,11 +563,14 @@ else
 				echo -e "${OK}This client ${GREEN}has queried${NC} ${searchdomain}."
 				count=$((count-1))
 				# retrieve type and status of last query
-				result=$(sqlite3 ${piholeFTLdb} ".timeout = 2000" \
+				result=$(sqlite3 ${piholeFTLdb} ".timeout = 5000" \
 					"SELECT type, status FROM 'queries' \
 						WHERE domain = '${searchdomain}' \
 							AND client = '${SelectedClient}' \
-					LIMIT  ${count} OFFSET 1;")
+					ORDER BY id
+					DESC LIMIT 1;")
+#					LIMIT  ${count} OFFSET 1;")
+
 				IFS='|' read -r type status <<< "${result}"
 				typeArray=(A AAAA ANY SRV SOA PTR TXT)
 				statusArray=(Unknown Blocked Allowed Allowed Blocked Blocked Blocked Blocked Blocked Blocked Blocked Blocked)
