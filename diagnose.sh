@@ -1,5 +1,8 @@
 #!/bin/bash
 
+# diagnose.sh also requires duplicate.sh
+# copy both scripts to your system to use the duplicate diagnosis
+
 # the integrity of the whiptail dialogs was verified, running PUTTY and OpenSSH, full screen required.
 
 # script tested, using pihole v5.0 on Raspberry Pi OS (32-bit) Lite, version may 2020.
@@ -120,7 +123,7 @@ if [[ "$stdin" =~ ^/dev/pts/[0-9] ]]; then
 	# use database, complete overview
 	pipe=false
 	list=$(whiptail --title "Group Management" --radiolist \
-	"Please select" 15 67 8 \
+	"Please select" 15 73 9 \
 	"group" "group entries " ON \
 	"client" "client entries (database) " OFF \
 	"devices" "client(s), discovered,using API " OFF \
@@ -129,6 +132,7 @@ if [[ "$stdin" =~ ^/dev/pts/[0-9] ]]; then
 	"regex blacklist" "regex blacklist entries " OFF \
 	"whitelist" "exact or wildcard whitelist entries " OFF \
 	"regex whitelist" "regex whitelist entries " OFF \
+	"duplicate" "duplicate white/blacklist (regex) entries " OFF \
 		3>&1 1>&2 2>&3)
 	if [ \( $? -eq 1 \) -o \( $? -eq 255 \) ]; then
 		exit
@@ -175,9 +179,30 @@ if [[ "$stdin" =~ ^/dev/pts/[0-9] ]]; then
 			field="domain"
 			query=" WHERE type = '2'"
 			;;
+		"duplicate")
+			dbtable="domainlist"
+			field="domain"
+			;;
 	esac
-
-	if [[ "${list}" = "devices" ]]; then
+	
+	if [[ "${list}" = "duplicate" ]]; then
+		mapfile -t DuplicateArray < <(sqlite3 ${gravitydb} ".timeout = 2000" \
+			"SELECT count(*) c, ${field} FROM '${dbtable}' \
+			GROUP BY ${field} HAVING c > 1;")
+		if [ ${#DuplicateArray[@]} == 0 ]; then
+			listArray=()
+		else 
+			for (( i=0; i<${#DuplicateArray[@]}; i++ )); do
+			IFS='|' read -r count Value  <<< "${DuplicateArray[i]}"
+			resultID=$(sqlite3 ${gravitydb} ".timeout = 2000" \
+			"SELECT id FROM '${dbtable}' \
+				WHERE (type = '0' OR type = '2') \
+					AND domain = '${Value}' \
+			ORDER by id;")
+			ListArray+=("${resultID}|${Value}")
+			done
+		fi
+	elif [[ "${list}" = "devices" ]]; then
 		getAPIclients
 		if (( ${#UnknownClientArray[@]} > 0 )); then
 			for (( i=0; i<${#UnknownClientArray[@]}; i++ )); do
@@ -193,6 +218,7 @@ if [[ "$stdin" =~ ^/dev/pts/[0-9] ]]; then
 else
 	# use output from pihole -q -all <domain> | ./diagnose.sh, selected overview
 	pipe=true
+	list="pihole -q"
 	process=$(ps -ef | grep -v "grep" | grep "/usr/local/bin/pihole -q")
 	if [[ $(echo ${process} | grep "\-exact" | grep "\-all") ]]; then
 		#searchdomain=$(ps -ef | grep -v "grep" | grep "/usr/local/bin/pihole -q" | rev | cut -d " " -f1 | rev)
@@ -221,7 +247,6 @@ else
 			if [[ ${pipeArray[i]} == *"://"* ]]; then
 				# it's an adlist
 				entry=$(echo ${pipeArray[i]} | sed 's/.* //')
-				#echo ${entry}
 				ID=$(sqlite3 ${gravitydb} ".timeout = 2000" \
 					"SELECT id FROM 'adlist' \
 						WHERE address = '${entry}';")
@@ -231,7 +256,6 @@ else
 				# it's an exact or regexx whitelist or blacklist entry
 				entry=${pipeArray[i]%" (disabled)"}
 				entry=$(echo ${entry} | sed 's/^[ \t]*//')
-				#echo ${entry}
 				ID=$(sqlite3 ${gravitydb} ".timeout = 2000" \
 					"SELECT id FROM 'domainlist' \
 						WHERE domain = '${entry}' \
@@ -316,6 +340,17 @@ else
 			"SELECT ${field} FROM '${dbtable}' \
 				WHERE id = ${SelectedID};"
 		printf "${NC}"
+			
+		if [[ "${list}" = "duplicate" ]]; then
+			SCRIPTPATH="$( cd "$(dirname "$0")" >/dev/null 2>&1 ; pwd -P )"
+			if [ -f "${SCRIPTPATH}/duplicate.sh" ]; then
+				${SCRIPTPATH}/duplicate.sh ${SelectedID}
+			else
+				echo -e "${NOK}Cannot locate the script to perform duplicate diagnostics"
+			fi
+			exit
+		fi
+		
 		# entry enabled?
 		if [[ "${list}" = "client" ]]; then
 			SelectedClient=$(sqlite3 ${gravitydb} ".timeout = 2000" \
