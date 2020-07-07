@@ -250,7 +250,7 @@ else
 				ID=$(sqlite3 ${gravitydb} ".timeout = 2000" \
 					"SELECT id FROM 'adlist' \
 						WHERE address = '${entry}';")
-				resultArray+=("${count};adlist;address;0;adlist;${ID};${entry}")
+				resultArray+=("${count}∞adlist∞address∞0∞adlist∞${ID}∞${entry}")
 				count=$((count+1))
 			else
 				# it's an exact or regexx whitelist or blacklist entry
@@ -260,7 +260,7 @@ else
 					"SELECT id FROM 'domainlist' \
 						WHERE domain = '${entry}' \
 							AND type = '${type}';")
-				resultArray+=("${count};domainlist;domain;${type};${comment};${ID};${entry}")
+				resultArray+=("${count}∞domainlist∞domain∞${type}∞${comment}∞${ID}∞${entry}")
 				count=$((count+1))
 			fi
 		else
@@ -279,8 +279,8 @@ else
 	
 	ListArray=()
 	for (( i=0; i<${#resultArray[@]}; i++ )); do
-		IFS=';' read -r ArrayID dbtable field type Comment ListID Value <<< "${resultArray[i]}"
-		ListArray+=("${ArrayID};${Value};${Comment}")
+		IFS='∞' read -r ArrayID dbtable field type Comment ListID Value <<< "${resultArray[i]}"
+		ListArray+=("${ArrayID}∞${Value}∞${Comment}")
 	done
 fi
 
@@ -308,7 +308,7 @@ for (( i=0; i<${#ListArray[@]}; i++ )); do
 			Value="${Value} (${Comment})"
 		fi
 	elif [[ ("${pipe}" = "true" ) ]]; then
-		IFS=';' read -r listID Value Comment<<< "${ListArray[$i]}"
+		IFS='∞' read -r listID Value Comment<<< "${ListArray[$i]}"
 		if [[ ("${Comment}" = "adlist" ) ]]; then
 			Value="${Value}"
 		else
@@ -330,7 +330,7 @@ if [ \( $? -eq 1 \) -o \( $? -eq 255 \) ]; then
 	exit
 else
 	if [[ "$pipe" == "true" ]]; then
-		IFS=';' read -r ArrayID dbtable field type list ListID Value <<< "${resultArray[${SelectedID}]}"
+		IFS='∞' read -r ArrayID dbtable field type list ListID Value <<< "${resultArray[${SelectedID}]}"
 		SelectedID=${ListID}
 	fi
 	if [[ "${list}" != "devices" ]]; then
