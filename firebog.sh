@@ -18,6 +18,8 @@ sed -i '/cameleon/d' $workdir/firebog.list
 sed -i '/hosts-file.net/d' $workdir/firebog.list
 # remove ssl.bblck.me/blacklists/hosts-file.txt (blocklist is dead)
 sed -i '/ssl.bblck.me/d' $workdir/firebog.list
+# remove hosts.nfz.moe/basic/hosts (blocklist is dead)
+sed -i '/hosts.nfz.moe/d' /home/pi/tmp/firebog.list
 
 while read nocross; do
 	sudo sqlite3 /etc/pihole/gravity.db "insert or ignore into adlist (address, comment, enabled) values (\"$nocross\", 'firebog nocross', 1);"
