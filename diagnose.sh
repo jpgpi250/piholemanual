@@ -5,7 +5,7 @@
 
 # the integrity of the whiptail dialogs was verified, running PUTTY and OpenSSH, full screen required.
 
-# script tested, using pihole v5.0 on Raspberry Pi OS (32-bit) Lite, version may 2020.
+# script tested, using pihole v5.2.1 on Raspberry Pi OS Lite, version december 2020.
 # you don't need to run the script with sudo, the script doesn't perform any writes.
 # data is retrieved form the pihole databases, FTL (using the telnet API) and nmap.
 
@@ -22,6 +22,7 @@
 # first release, Mon 15 Jun 2020
 # updated, Thu 18 Jun 2020, bug fixes, added diagnoses for clients, groups, and discovered devices (telnet)
 # updated, Fri 19 Jun 2020, ready for pihole v5.1
+# updated, Sat 05 Dec 2020, ready for v.5.2.1, database version 13
 # please report bugs as an issue at https://github.com/jpgpi250/piholemanual/issues 
 
 # usage:
@@ -105,10 +106,10 @@ fi
 dbversion=$(sqlite3 ${gravitydb} ".timeout = 2000" \
 	"SELECT value FROM 'info' \
 		WHERE property = 'version';")
-if [[ "${dbversion}" != "12" ]]; then
-	echo -e "${NOK}This script was written for gravity database version 12 (current version: ${GREEN}${dbversion}${NC})."
+if [[ "${dbversion}" != "13" ]]; then
+	echo -e "${NOK}This script was written for gravity database version 13 (current version: ${GREEN}${dbversion}${NC})."
 	echo -e "${INFO}Retrieve the latest version from ${BLUE}GitHub${NC}."
-	whiptail --title "Information" --msgbox "This script was written for gravity database version 12." 10 60
+	whiptail --title "Information" --msgbox "This script was written for gravity database version 13." 10 60
 	exit
 else
 	echo -e "${INFO}Database version ${GREEN}${dbversion}${NC} detected."
