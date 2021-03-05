@@ -19,7 +19,8 @@ while read line; do
 			#echo $domain
 			regex=(\\.\|^)${domain%.*}\\.${domain##*.}$
 			sudo sqlite3 /etc/pihole/gravity.db "insert or ignore into domainlist (type, domain, enabled, comment) values (3, \"$regex\", 1, 'AdguardTeam CNAME list');"
-		fi	done
+		fi
+	done
 done < <(jq --raw-output "map(\"\(.domains)\")|.[]" < /home/pi/cloaked-trackers.json < ${file} | tr -d '[]"')
 
 /usr/local/bin/pihole restartdns reload-lists
