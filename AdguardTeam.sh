@@ -1,7 +1,7 @@
 #!/bin/bash
 # https://github.com/AdguardTeam/cname-trackers
 
-file=/home/pi/tmp/cloaked-trackers.json
+file=/home/pi/cloaked-trackers.json
 sudo wget https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/script/src/cloaked-trackers.json -O $file
 
 IFS=[,]
@@ -13,6 +13,6 @@ while read line; do
 			regex=(\\.\|^)${domain%.*}\\.${domain##*.}$
 			sudo sqlite3 /etc/pihole/gravity.db "insert or ignore into domainlist (type, domain, enabled, comment) values (3, \"$regex\", 1, 'AdguardTeam CNAME list');"
 		fi	done
-done < <(jq --raw-output "map(\"\(.domains)\")|.[]" < /home/pi/tmp/cloaked-trackers.json < ${file} | tr -d '[]"')
+done < <(jq --raw-output "map(\"\(.domains)\")|.[]" < /home/pi/cloaked-trackers.json < ${file} | tr -d '[]"')
 
 /usr/local/bin/pihole restartdns reload-lists
