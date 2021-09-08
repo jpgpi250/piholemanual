@@ -18,7 +18,8 @@ fi
 SVCarray=()
 while read line; do
 	if echo "${line}" | grep -q 'SVC'; then
-		SVCarray+=("$(echo "${line}" | sed -e 's/\(^.*:\)\(.*\)\(\..*$\)/\2/')")
+		IFS=" " read svc service <<< "${line}"
+		SVCarray+=($(echo "${service%%.*}"))
 	fi
 done < <(sudo needrestart -b)
 
@@ -30,7 +31,7 @@ if (( ${#SVCarray[@]} )); then
 		echo
 		echo "Services:"
 		for (( i=0; i<${#SVCarray[@]}; i++ )); do
-			echo "-${SVCarray[i]}"
+			echo "- ${SVCarray[i]}"
 		done
 		echo
 		echo "Run 'sudo needrestart' to restart services."
