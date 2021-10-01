@@ -22,7 +22,7 @@
 # first release, Mon 15 Jun 2020
 # updated, Thu 18 Jun 2020, bug fixes, added diagnoses for clients, groups, and discovered devices (telnet)
 # updated, Fri 19 Jun 2020, ready for pihole v5.1
-# updated, Sat 05 Dec 2020, ready for v.5.2.1, database version 13
+# updated, Fri 21 Dec 2021, ready for v.5.3.1, database version 14
 # please report bugs as an issue at https://github.com/jpgpi250/piholemanual/issues 
 
 # usage:
@@ -106,10 +106,10 @@ fi
 dbversion=$(sqlite3 ${gravitydb} ".timeout = 2000" \
 	"SELECT value FROM 'info' \
 		WHERE property = 'version';")
-if [[ "${dbversion}" != "13" ]]; then
-	echo -e "${NOK}This script was written for gravity database version 13 (current version: ${GREEN}${dbversion}${NC})."
+if [[ "${dbversion}" != "14" ]]; then
+	echo -e "${NOK}This script was written for gravity database version 14 (current version: ${GREEN}${dbversion}${NC})."
 	echo -e "${INFO}Retrieve the latest version from ${BLUE}GitHub${NC}."
-	whiptail --title "Information" --msgbox "This script was written for gravity database version 13." 10 60
+	whiptail --title "Information" --msgbox "This script was written for gravity database version 14." 10 60
 	exit
 else
 	echo -e "${INFO}Database version ${GREEN}${dbversion}${NC} detected."
