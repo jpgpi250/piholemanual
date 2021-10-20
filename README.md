@@ -5,5 +5,6 @@ The googleads script is explained [here](https://github.com/jpgpi250/piholemanua
 
 The usage of the DOH related files is explained in [this](https://github.com/jpgpi250/piholemanual/blob/master/doc/Manually%20resize%20partition%20for%20Backup.pdf) document.
 
-Some scripts may contain IP addresses, which need to be edited, to allow correct processing.
+If you want to clone your SD card successfully, using [Win32DiskImager](https://win32diskimager.org/), you need to read [this](https://github.com/jpgpi250/piholemanual/blob/master/doc/Manually%20resize%20partition%20for%20Backup.pdf) document.
 
+Some scripts may contain IP addresses, which need to be edited, to allow correct processing.
