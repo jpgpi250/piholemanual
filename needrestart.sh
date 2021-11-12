@@ -7,7 +7,7 @@ IP=$(ip -o route get to 8.8.8.8 | sed -n 's/.*src \([0-9.]\+\).*/\1/p')
 if ! [[ -d "/lib/modules/$(uname -r)" ]]; then
 	{
 		echo from: root
-		echo to: pi
+#		echo to: pi
 		echo subject: Kernel update detected on "${IP}".
 		echo
 		echo "Reboot recommended."
@@ -26,7 +26,7 @@ done < <(sudo needrestart -b)
 if (( ${#SVCarray[@]} )); then
 	{
 		echo from: root
-		echo to: pi
+#		echo to: pi
 		echo subject: Some services on "${IP}" need a restart.
 		echo
 		echo "Services:"
