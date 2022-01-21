@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2201200409 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2201210409 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2022-01-20 04:09:01 (UTC)
+; Last updated: 2022-01-21 04:09:02 (UTC)
 ;
 ; report issues at https://github.com/jpgpi250/piholemanual/issues
 ;
@@ -205,6 +205,7 @@ doh.abmb.win CNAME .
 doh.applied-privacy.net CNAME .
 doh.appliedprivacy.net CNAME .
 doh.armadillodns.net CNAME .
+doh.asia.dnswarden.com CNAME .
 doh.asia.dnswarden.com CNAME .
 doh.au.ahadns.net CNAME .
 doh.blahdns.com CNAME .
