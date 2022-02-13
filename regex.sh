@@ -7,7 +7,7 @@
 sudo curl https://raw.githubusercontent.com/mmotti/pihole-regex/master/regex.list -o /home/pi/regex.list
 while read -r regex; do
 	if [[ ${regex} = ^* ]]; then
-		sudo sqlite3 /etc/pihole/gravity.db "insert or ignore into "domainlist" (domain, type, enabled, comment) values (\"$regex\", 3, 1, \"mmotti regex\");"
+		sudo pihole-FTL sqlite3 "/etc/pihole/gravity.db" "insert or ignore into domainlist (domain, type, enabled, comment) values ('$regex', 3, 1, 'mmotti regex');"
 	fi
 done < /home/pi/regex.list
 	
