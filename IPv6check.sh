@@ -12,7 +12,6 @@ if ! grep -q "$CURRENT_IPV6_ADDRESS" $file; then
 	sed -i.bak  "s/$OLD_IPV6_ADDRESS\b/$CURRENT_IPV6_ADDRESS/g" "$file"
 	{
 		echo from: root 
-#		echo to: pi
 		echo subject: pihole IPv6 address change
 		echo
 		cat /etc/pihole/setupVars.conf | grep 'ADDRESS'
