@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2202130409 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2202140409 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2022-02-13 04:09:01 (UTC)
+; Last updated: 2022-02-14 04:09:02 (UTC)
 ;
 ; report issues at https://github.com/jpgpi250/piholemanual/issues
 ;
@@ -122,6 +122,7 @@ dnsdohnosafesearch.dnsforfamily.com CNAME .
 dns-dot.dnsforfamily.com CNAME .
 dns.east.comss.one CNAME .
 dnses.alekberg.net CNAME .
+dnsesnoads.alekberg.net CNAME .
 dns.eu-frankfurt-1.oci.oraclecloud.com CNAME .
 dns.eu-frankfurt-1.oci.oraclecloud.net CNAME .
 dns.eu-frankfurt-1.oraclecloud.com CNAME .
@@ -163,6 +164,7 @@ dns.rubyfish.cn CNAME .
 dns-sandbox-3291100252b8f52b.elb.us-east-1.amazonaws.com CNAME .
 dns.sb CNAME .
 dnsse.alekberg.net CNAME .
+dnssenoads.alekberg.net CNAME .
 dns.switch.ch CNAME .
 dns.t53.de CNAME .
 dns.telekom.de CNAME .
