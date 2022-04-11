@@ -1,14 +1,15 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2204100309 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2204110309 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2022-04-10 03:09:01 (UTC)
+; Last updated: 2022-04-11 03:09:01 (UTC)
 ;
 ; report issues at https://github.com/jpgpi250/piholemanual/issues
 ;
 1001.cloudflare-dns.com CNAME .
 1111.cloudflare-dns.com CNAME .
+15815d9ce5f441edaa1f33f62761ff16.pacloudflare.com CNAME .
 1dot1dot1dot1.cloudflare-dns.com CNAME .
 1dot1dot1dot1.cloudflaredns.com CNAME .
 2.dnscrypt-cert.dns.seby.io CNAME .
