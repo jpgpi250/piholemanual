@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2204200309 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2204210309 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2022-04-20 03:09:01 (UTC)
+; Last updated: 2022-04-21 03:09:02 (UTC)
 ;
 ; report issues at https://github.com/jpgpi250/piholemanual/issues
 ;
@@ -395,6 +395,7 @@ protected.canadianshield.cira.ca CNAME .
 public-dns-a.dns.sb CNAME .
 public-dns-b.dns.sb CNAME .
 public.dns.iij.jp CNAME .
+puredns.org CNAME .
 query.hdns.io CNAME .
 radia.bortzmeyer.org CNAME .
 rdns.faelix.net CNAME .
