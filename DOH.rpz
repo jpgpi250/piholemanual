@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2205290309 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2205300309 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2022-05-29 03:09:02 (UTC)
+; Last updated: 2022-05-30 03:09:01 (UTC)
 ;
 ; report issues at https://github.com/jpgpi250/piholemanual/issues
 ;
@@ -41,6 +41,7 @@ basic.bravedns.com CNAME .
 basic.rethinkdns.com CNAME .
 b.family.ns.dnslify.com CNAME .
 blitz.ahadns.com CNAME .
+blitz-setup.ahadns.com CNAME .
 b.ns.dnslify.com CNAME .
 bravedns.com CNAME .
 b.safe.ns.dnslify.com CNAME .
@@ -123,6 +124,7 @@ dnsdoh.dnsforfamily.com CNAME .
 dnsdohnosafesearch.dnsforfamily.com CNAME .
 dns-dot.dnsforfamily.com CNAME .
 dns.east.comss.one CNAME .
+dns.edgy.network CNAME .
 dnses.alekberg.net CNAME .
 dnsesnoads.alekberg.net CNAME .
 dns.eu-frankfurt-1.oci.oraclecloud.com CNAME .
@@ -155,7 +157,6 @@ dnsovertls1.sinodun.com CNAME .
 dnsovertls2.sinodun.com CNAME .
 dnsovertls3.sinodun.com CNAME .
 dnsovertls.sinodun.com CNAME .
-dns.post-factum.tk CNAME .
 dns-prod-bc43efde54c7e228.elb.us-east-1.amazonaws.com CNAME .
 dns.pub CNAME .
 dns.pumplex.com CNAME .
@@ -320,10 +321,12 @@ draco.plan9-ns2.com CNAME .
 draco.plan9ns2.com CNAME .
 ea-dns.rubyfish.cn CNAME .
 ecs-doh.dnswarden.com CNAME .
+edgy-dns.com CNAME .
 edns.233py.com CNAME .
 eropa.dnscepat.id CNAME .
 eu1.dns.lavate.ch CNAME .
 eu.doh.sb CNAME .
+eu-opush-heytapmobile-pubgw-1244993624.eu-west-3.elb.amazonaws.com CNAME .
 europe.doh.sb CNAME .
 example.doh.blockerdns.com CNAME .
 family.canadianshield.cira.ca CNAME .
@@ -342,6 +345,7 @@ geo.dnswarden.com CNAME .
 getdnsapi.net CNAME .
 google-public-dns-a.google.com CNAME .
 google-public-dns-b.google.com CNAME .
+httpdns-push.heytapmobile.com CNAME .
 hydra.plan9-ns1.com CNAME .
 i.233py.com.a.bdydns.com CNAME .
 i.233py.com CNAME .
