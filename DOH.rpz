@@ -1,19 +1,17 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2206190309 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2206200309 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2022-06-19 03:09:02 (UTC)
+; Last updated: 2022-06-20 03:09:01 (UTC)
 ;
 ; report issues at https://github.com/jpgpi250/piholemanual/issues
 ;
 1001.cloudflare-dns.com CNAME .
 1111.cloudflare-dns.com CNAME .
-15815d9ce5f441edaa1f33f62761ff16.pacloudflare.com CNAME .
 1dot1dot1dot1.cloudflare-dns.com CNAME .
 1dot1dot1dot1.cloudflaredns.com CNAME .
 2.dnscrypt-cert.dns.seby.io CNAME .
-360.233py.com CNAME .
 8888.google CNAME .
 adblock.any.dns.nixnet.xyz CNAME .
 adblock.doh.mullvad.net CNAME .
@@ -28,10 +26,8 @@ adult-filter-dns.cleanbrowsing.org CNAME .
 adult-filter-dot.dnswarden.com CNAME .
 a.family.ns.dnslify.com CNAME .
 a.ns.dnslify.com CNAME .
-antidns.s.tuna.tsinghua.edu.cn CNAME .
 anycast.censurfridns.dk CNAME .
 anycast.dns.nextdns.io CNAME .
-anycast.ffmuc.net CNAME .
 anycast.uncensoreddns.org CNAME .
 a.passcloud.xyz CNAME .
 a.safe.ns.dnslify.com CNAME .
@@ -52,8 +48,6 @@ chromium.dns.nextdns.io CNAME .
 cloudflare-dns.com CNAME .
 cloudflare-gateway.com CNAME .
 commons.host CNAME .
-crd.circl.lu CNAME .
-d2bphvjyj895l0.cloudfront.net CNAME .
 de.adhole.org CNAME .
 deic-lgb.anycast.censurfridns.dk CNAME .
 deic-lgb.anycast.uncensoreddns.org CNAME .
@@ -69,7 +63,6 @@ dns1.ipv6.dnscrypt.ca CNAME .
 dns1.nextdns.io CNAME .
 dns1.ryan-palmer.com CNAME .
 dns1.ryanpalmer.com CNAME .
-dns1.steering.nextdns.io CNAME .
 dns.233py.com.cdn.cloudflare.net CNAME .
 dns.233py.com CNAME .
 dns2.alekberg.net CNAME .
@@ -78,7 +71,6 @@ dns2.digitale-gesellschaft.ch CNAME .
 dns2.dnscrypt.ca CNAME .
 dns2.ipv6.dnscrypt.ca CNAME .
 dns2.nextdns.io CNAME .
-dns2.steering.nextdns.io CNAME .
 dns64.cloudflare-dns.com CNAME .
 dns64.dns.google CNAME .
 dns9.quad9.net CNAME .
@@ -118,7 +110,6 @@ dns.digitalegesellschaft.ch CNAME .
 dns.dnshome.de CNAME .
 dns.dns-over-https.com CNAME .
 dns.dnsoverhttps.net CNAME .
-dns.dnswarden.com CNAME .
 dns-doh.dnsforfamily.com CNAME .
 dnsdoh.dnsforfamily.com CNAME .
 dnsdohnosafesearch.dnsforfamily.com CNAME .
@@ -127,8 +118,6 @@ dns.east.comss.one CNAME .
 dns.edgy.network CNAME .
 dnses.alekberg.net CNAME .
 dnsesnoads.alekberg.net CNAME .
-dns.eu-frankfurt-1.oci.oraclecloud.com CNAME .
-dns.eu-frankfurt-1.oci.oraclecloud.net CNAME .
 dns.eu-frankfurt-1.oraclecloud.com CNAME .
 dns-family.adguard.com CNAME .
 dnsfamily.adguard.com CNAME .
@@ -157,13 +146,10 @@ dnsovertls1.sinodun.com CNAME .
 dnsovertls2.sinodun.com CNAME .
 dnsovertls3.sinodun.com CNAME .
 dnsovertls.sinodun.com CNAME .
-dns-prod-bc43efde54c7e228.elb.us-east-1.amazonaws.com CNAME .
 dns.pub CNAME .
 dns.pumplex.com CNAME .
 dns.quad9.net CNAME .
-dns.quickline.ch CNAME .
 dns.rubyfish.cn CNAME .
-dns-sandbox-3291100252b8f52b.elb.us-east-1.amazonaws.com CNAME .
 dns.sb CNAME .
 dnsse.alekberg.net CNAME .
 dnssenoads.alekberg.net CNAME .
@@ -172,19 +158,12 @@ dns.t53.de CNAME .
 dns.telekom.de CNAME .
 dns.therifleman.name CNAME .
 dns-tls.bitwiseshift.net CNAME .
-dnstls.neutopia.org CNAME .
 dns.tuna.tsinghua.edu.cn CNAME .
 dns.twnic.tw CNAME .
-dns.uk-london-1.oci.oraclecloud.com CNAME .
-dns.uk-london-1.oci.oraclecloud.net CNAME .
 dns.uk-london-1.oraclecloud.com CNAME .
 dns-unfiltered.adguard.com CNAME .
 dnsunfiltered.adguard.com CNAME .
-dns.us-ashburn-1.oci.oraclecloud.com CNAME .
-dns.us-ashburn-1.oci.oraclecloud.net CNAME .
 dns.us-ashburn-1.oraclecloud.com CNAME .
-dns.us-phoenix-1.oci.oraclecloud.com CNAME .
-dns.us-phoenix-1.oci.oraclecloud.net CNAME .
 dns.us-phoenix-1.oraclecloud.com CNAME .
 dns-weblock.wevpn.com CNAME .
 dns.wevpn.com CNAME .
@@ -199,7 +178,6 @@ doh2.abmb.win CNAME .
 doh2.b-cdn.net CNAME .
 doh2.blahdns.com CNAME .
 doh2.dnswarden.com CNAME .
-doh2.gslb2.xfinity.com CNAME .
 doh-2.seby.io CNAME .
 doh2.seby.io CNAME .
 doh.360.cn CNAME .
@@ -228,7 +206,6 @@ doh.de.blahdns.com CNAME .
 dohde.blahdns.com CNAME .
 doh.defaultroutes.de CNAME .
 doh.dns.apple.com CNAME .
-doh.dns.apple.com.v.aaplimg.com CNAME .
 doh.dnscrypt.uk CNAME .
 doh.dnslify.com CNAME .
 doh.dns.sb CNAME .
@@ -321,13 +298,9 @@ draco.plan9-ns2.com CNAME .
 draco.plan9ns2.com CNAME .
 ea-dns.rubyfish.cn CNAME .
 ecs-doh.dnswarden.com CNAME .
-edgy-dns.com CNAME .
 edns.233py.com CNAME .
 eropa.dnscepat.id CNAME .
 eu1.dns.lavate.ch CNAME .
-eu.doh.sb CNAME .
-eu-opush-heytapmobile-pubgw-1244993624.eu-west-3.elb.amazonaws.com CNAME .
-europe.doh.sb CNAME .
 example.doh.blockerdns.com CNAME .
 family.canadianshield.cira.ca CNAME .
 family.cloudflare-dns.com CNAME .
@@ -341,7 +314,6 @@ firefox.dns.nextdns.io CNAME .
 free.bravedns.com CNAME .
 freedns.controld.com CNAME .
 freedom.mydns.network CNAME .
-geo.dnswarden.com CNAME .
 getdnsapi.net CNAME .
 google-public-dns-a.google.com CNAME .
 google-public-dns-b.google.com CNAME .
@@ -351,7 +323,6 @@ i.233py.com.a.bdydns.com CNAME .
 i.233py.com CNAME .
 ibksturm.synology.me CNAME .
 ibuki.cgnat.net CNAME .
-integration.dnsteam.globuscs.info CNAME .
 i.passcloud.xyz CNAME .
 jarjar.meganerd.nl CNAME .
 jcdns.fun CNAME .
@@ -364,17 +335,14 @@ kracon.anycast.censurfridns.dk CNAME .
 kracon.anycast.uncensoreddns.org CNAME .
 lux1.nixnet.xyz CNAME .
 lv1.nixnet.xyz CNAME .
-mask.apple-dns.net CNAME .
 mask-h2.icloud.com CNAME .
 mask.icloud.com CNAME .
-mask-t.apple-dns.net CNAME .
 mozilla.cloudflare-dns.com CNAME .
 ndns.233py.com CNAME .
 ns1.dnsprivacy.at CNAME .
 ns1.recursive.dnsbycomodo.com CNAME .
 ns2.dnsprivacy.at CNAME .
 ns2.recursive.dnsbycomodo.com CNAME .
-ntu.ssooss.win CNAME .
 ny1.nixnet.xyz CNAME .
 odvr.nic.cz CNAME .
 one.one.one.one CNAME .
@@ -387,7 +355,6 @@ p1.freedns.controld.com CNAME .
 p2.freedns.controld.com CNAME .
 p3.freedns.controld.com CNAME .
 pdns.faelix.net CNAME .
-preview.dnsteam.globuscs.info CNAME .
 privacydns.go6lab.si CNAME .
 private.canadianshield.cira.ca CNAME .
 protected.canadianshield.cira.ca CNAME .
@@ -396,7 +363,6 @@ public-dns-b.dns.sb CNAME .
 public.dns.iij.jp CNAME .
 puredns.org CNAME .
 query.hdns.io CNAME .
-radia.bortzmeyer.org CNAME .
 rdns.faelix.net CNAME .
 resolver1.dyndnsinternetguide.com CNAME .
 resolver1-fs.opendns.com CNAME .
@@ -417,11 +383,7 @@ security.cloudflare-dns.com CNAME .
 security.cloudflaredns.com CNAME .
 security-filter-dns.cleanbrowsing.org CNAME .
 sg.adhole.org CNAME .
-staging.dnsteam.globuscs.info CNAME .
-static.captnemo.in CNAME .
 steering.nextdns.io CNAME .
-td-doh.dns.t53.de CNAME .
-test.dnsteam.globuscs.info CNAME .
 tls-dns-u.odvr.dns-oarc.net CNAME .
 tor.cloudflare-dns.com CNAME .
 trr.dns.nextdns.io CNAME .
@@ -440,4 +402,3 @@ uw-dns.rubyfish.cn CNAME .
 v6.rubyfish.cn CNAME .
 v.dnscrypt.uk CNAME .
 wdns.233py.com CNAME .
-webredir.vip.gandi.net CNAME .
