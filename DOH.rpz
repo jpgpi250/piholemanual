@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2206240309 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2206250309 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2022-06-24 03:09:02 (UTC)
+; Last updated: 2022-06-25 03:09:02 (UTC)
 ;
 ; report issues at https://github.com/jpgpi250/piholemanual/issues
 ;
@@ -319,7 +319,6 @@ dot.tiar.app CNAME .
 dot.westus.pi-dns.com CNAME .
 dot.xfinity.com CNAME .
 draco.plan9-ns2.com CNAME .
-draco.plan9ns2.com CNAME .
 ea-dns.rubyfish.cn CNAME .
 ecs-doh.dnswarden.com CNAME .
 edgy-dns.com CNAME .
