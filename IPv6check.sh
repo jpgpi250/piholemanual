@@ -3,10 +3,13 @@
 # You should run this script once (manually) to verify all settings are correct.
 # Use (cron) this script to verify the IPv6 address hasn't changed.
 #
-# Change the hextet value (2a02) on line 29 to match the first hextet of your IPv6 address.
+# Change the hextet value (2a02) on line 32 to match the first hextet of your IPv6 address.
 #
 # Script was written to detect changes in GUA addresses.
 # Changes are required when using ULA addresses.
+#
+# If you want to report a problem with this script, do NOT create a topic on the pihole forum!
+# Report the issue on https://github.com/jpgpi250/piholemanual/issues
 #
 
 # eye candy / color
