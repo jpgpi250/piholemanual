@@ -8,6 +8,10 @@
 # https://v.firebog.net/hosts/lists.php
 #
 # WARNING: this script only adds new lists, it doesn't remove lists that are no longer in the selected firebog list(s)!
+#
+# If you want to report a problem with this script, do NOT create a topic on the pihole forum!
+# Report the issue on https://github.com/jpgpi250/piholemanual/issues
+#
 
 workdir="/home/pi"
 gravitydb="/etc/pihole/gravity.db"
