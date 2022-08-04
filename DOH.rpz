@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2208030209 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2208040209 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2022-08-03 02:09:01 (UTC)
+; Last updated: 2022-08-04 02:09:01 (UTC)
 ;
 ; report issues at https://github.com/jpgpi250/piholemanual/issues
 ;
@@ -84,8 +84,8 @@ anydoh.sidnlabs.nl CNAME .
 a.passcloud.xyz CNAME .
 32.8.190.129.43.rpz-ip CNAME .
 arashi.eu.org CNAME .
-32.142.21.76.76.rpz-ip CNAME .
-32.22.21.76.76.rpz-ip CNAME .
+32.93.21.76.76.rpz-ip CNAME .
+32.98.21.76.76.rpz-ip CNAME .
 a.safe.ns.dnslify.com CNAME .
 32.3.81.235.185.rpz-ip CNAME .
 128.3.zz.81.4d00.2a0d.rpz-ip CNAME .
@@ -366,7 +366,7 @@ dns.digitalsize.net CNAME .
 32.203.135.130.94.rpz-ip CNAME .
 dns.dnshome.de CNAME .
 32.232.106.233.185.rpz-ip CNAME .
-128.32.6e73.zz.361.24.4000.2a03.rpz-ip CNAME .
+128.31.6e73.zz.688.24.4000.2a03.rpz-ip CNAME .
 dns.dns-over-https.com CNAME .
 dns.dnsoverhttps.net CNAME .
 dns.dnswarden.com CNAME .
@@ -390,7 +390,7 @@ dnses.alekberg.net CNAME .
 dns.eu-frankfurt-1.oci.oraclecloud.com CNAME .
 dns.eu-frankfurt-1.oci.oraclecloud.net CNAME .
 dns.eu-frankfurt-1.oraclecloud.com CNAME .
-32.165.2.61.130.rpz-ip CNAME .
+32.178.0.61.130.rpz-ip CNAME .
 dns-family.adguard.com CNAME .
 128.ff.bad1.zz.50c0.2a10.rpz-ip CNAME .
 128.ff.bad2.zz.50c0.2a10.rpz-ip CNAME .
@@ -504,10 +504,10 @@ dns.t53.de CNAME .
 128.53.0.4.0.102.e0b0.4.2003.rpz-ip CNAME .
 32.201.145.156.80.rpz-ip CNAME .
 dns.telekom.de CNAME .
-128.53.0.4.0.7000.2.180.2003.rpz-ip CNAME .
-128.53.0.4.0.b000.2.180.2003.rpz-ip CNAME .
-32.2.43.0.217.rpz-ip CNAME .
-32.66.43.0.217.rpz-ip CNAME .
+128.53.0.4.0.1000.2.180.2003.rpz-ip CNAME .
+128.53.0.4.0.8100.2.180.2003.rpz-ip CNAME .
+32.114.43.0.217.rpz-ip CNAME .
+32.50.43.0.217.rpz-ip CNAME .
 dns.therifleman.name CNAME .
 32.174.206.104.172.rpz-ip CNAME .
 dns-tls.bitwiseshift.net CNAME .
@@ -524,7 +524,7 @@ dns.twnic.tw CNAME .
 dns.uk-london-1.oci.oraclecloud.com CNAME .
 dns.uk-london-1.oci.oraclecloud.net CNAME .
 dns.uk-london-1.oraclecloud.com CNAME .
-32.168.2.145.132.rpz-ip CNAME .
+32.172.0.145.132.rpz-ip CNAME .
 dns-unfiltered.adguard.com CNAME .
 128.ff.1.zz.50c0.2a10.rpz-ip CNAME .
 128.ff.2.zz.50c0.2a10.rpz-ip CNAME .
@@ -534,7 +534,7 @@ dnsunfiltered.adguard.com CNAME .
 dns.us-ashburn-1.oci.oraclecloud.com CNAME .
 dns.us-ashburn-1.oci.oraclecloud.net CNAME .
 dns.us-ashburn-1.oraclecloud.com CNAME .
-32.166.4.213.129.rpz-ip CNAME .
+32.178.0.213.129.rpz-ip CNAME .
 dns.us-phoenix-1.oci.oraclecloud.com CNAME .
 dns.us-phoenix-1.oci.oraclecloud.net CNAME .
 dns.us-phoenix-1.oraclecloud.com CNAME .
@@ -636,13 +636,13 @@ doh.disconnect.app CNAME .
 128.8cab.ac43.zz.3032.4700.2606.rpz-ip CNAME .
 doh.dns.apple.com CNAME .
 32.247.52.253.17.rpz-ip CNAME .
-32.119.54.253.17.rpz-ip CNAME .
-32.247.54.253.17.rpz-ip CNAME .
+32.213.56.253.17.rpz-ip CNAME .
+32.247.56.253.17.rpz-ip CNAME .
 32.85.56.253.17.rpz-ip CNAME .
 128.1.zz.80c.171.2620.rpz-ip CNAME .
 128.1.zz.80d.171.2620.rpz-ip CNAME .
 128.1c2.zz.4000.a02.b740.2a01.rpz-ip CNAME .
-128.b2.zz.3000.a10.b740.2a01.rpz-ip CNAME .
+128.1c2.zz.4000.a04.b740.2a01.rpz-ip CNAME .
 128.1c2.zz.4000.a10.b740.2a01.rpz-ip CNAME .
 128.b2.zz.4000.a10.b740.2a01.rpz-ip CNAME .
 32.1.200.78.64.rpz-ip CNAME .
@@ -830,7 +830,7 @@ doh.westus.pi-dns.com CNAME .
 doh.xcom.pro CNAME .
 32.42.20.165.188.rpz-ip CNAME .
 doh.xfinity.com CNAME .
-128.99.zz.443.feed.558.2001.rpz-ip CNAME .
+128.4.zz.36.fee3.558.2001.rpz-ip CNAME .
 32.99.77.75.75.rpz-ip CNAME .
 dos.bytetel.net CNAME .
 dot1.applied-privacy.net CNAME .
@@ -988,34 +988,30 @@ lux1.nixnet.xyz CNAME .
 lv1.nixnet.xyz CNAME .
 mask.apple-dns.net CNAME .
 mask-h2.icloud.com CNAME .
-32.12.63.224.172.rpz-ip CNAME .
-32.15.63.224.172.rpz-ip CNAME .
-32.16.63.224.172.rpz-ip CNAME .
-32.17.63.224.172.rpz-ip CNAME .
+32.10.63.224.172.rpz-ip CNAME .
+32.11.63.224.172.rpz-ip CNAME .
+32.14.63.224.172.rpz-ip CNAME .
 32.18.63.224.172.rpz-ip CNAME .
+32.19.63.224.172.rpz-ip CNAME .
 32.4.63.224.172.rpz-ip CNAME .
 32.5.63.224.172.rpz-ip CNAME .
-32.8.63.224.172.rpz-ip CNAME .
+32.7.63.224.172.rpz-ip CNAME .
 128.zz.3f05.ace0.0.60.26f7.2a02.rpz-ip CNAME .
 128.zz.3f06.ace0.0.60.26f7.2a02.rpz-ip CNAME .
-128.zz.3f09.ace0.0.60.26f7.2a02.rpz-ip CNAME .
+128.zz.3f08.ace0.0.60.26f7.2a02.rpz-ip CNAME .
+128.zz.3f0c.ace0.0.60.26f7.2a02.rpz-ip CNAME .
 128.zz.3f0e.ace0.0.60.26f7.2a02.rpz-ip CNAME .
 128.zz.3f0f.ace0.0.60.26f7.2a02.rpz-ip CNAME .
-128.zz.3f10.ace0.0.60.26f7.2a02.rpz-ip CNAME .
-128.zz.3f14.ace0.0.60.26f7.2a02.rpz-ip CNAME .
-128.zz.3f15.ace0.0.60.26f7.2a02.rpz-ip CNAME .
-mask.icloud.com CNAME .
-32.10.63.224.172.rpz-ip CNAME .
-32.13.63.224.172.rpz-ip CNAME .
-32.19.63.224.172.rpz-ip CNAME .
-32.7.63.224.172.rpz-ip CNAME .
-32.9.63.224.172.rpz-ip CNAME .
-128.zz.3f07.ace0.0.60.26f7.2a02.rpz-ip CNAME .
-128.zz.3f0b.ace0.0.60.26f7.2a02.rpz-ip CNAME .
-128.zz.3f0c.ace0.0.60.26f7.2a02.rpz-ip CNAME .
-128.zz.3f0d.ace0.0.60.26f7.2a02.rpz-ip CNAME .
 128.zz.3f12.ace0.0.60.26f7.2a02.rpz-ip CNAME .
 128.zz.3f13.ace0.0.60.26f7.2a02.rpz-ip CNAME .
+mask.icloud.com CNAME .
+32.16.63.224.172.rpz-ip CNAME .
+32.17.63.224.172.rpz-ip CNAME .
+32.9.63.224.172.rpz-ip CNAME .
+128.zz.3f04.ace0.0.60.26f7.2a02.rpz-ip CNAME .
+128.zz.3f07.ace0.0.60.26f7.2a02.rpz-ip CNAME .
+128.zz.3f0b.ace0.0.60.26f7.2a02.rpz-ip CNAME .
+128.zz.3f0d.ace0.0.60.26f7.2a02.rpz-ip CNAME .
 mask-t.apple-dns.net CNAME .
 masters-of-cloud.de CNAME .
 32.159.195.244.185.rpz-ip CNAME .
@@ -1054,7 +1050,16 @@ odvr.nic.cz CNAME .
 128.1.zz.ffff.148f.2001.rpz-ip CNAME .
 one.one.one.one CNAME .
 opencdn.jomodns.com CNAME .
-32.35.9.174.111.rpz-ip CNAME .
+32.35.194.225.106.rpz-ip CNAME .
+32.35.247.123.111.rpz-ip CNAME .
+32.1.27.170.111.rpz-ip CNAME .
+32.35.213.225.111.rpz-ip CNAME .
+32.35.142.219.113.rpz-ip CNAME .
+32.35.92.232.114.rpz-ip CNAME .
+32.35.104.64.125.rpz-ip CNAME .
+32.35.42.74.125.rpz-ip CNAME .
+32.35.137.106.182.rpz-ip CNAME .
+32.35.219.60.183.rpz-ip CNAME .
 opennic2.i2pd.xyz CNAME .
 128.53.zz.6dc.71.470.2001.rpz-ip CNAME .
 32.84.172.83.51.rpz-ip CNAME .
@@ -1132,8 +1137,6 @@ resolver4.dns.openinternet.io CNAME .
 resolver.as203038.net CNAME .
 32.151.23.243.185.rpz-ip CNAME .
 resolver-eu.lelux.fi CNAME .
-128.853.zz.100.2db9.bc8.2001.rpz-ip CNAME .
-32.50.147.158.51.rpz-ip CNAME .
 resolver.noaddns.com CNAME .
 32.238.40.248.104.rpz-ip CNAME .
 resolver.r0cket.net CNAME .
