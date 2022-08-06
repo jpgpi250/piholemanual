@@ -6,7 +6,7 @@ This repository contains the files, referred to in my pi-hole installation [manu
 
 Some scripts may contain IP addresses, which need to be edited, to allow correct processing!
 
-The official pihole documentation can be found [here](https://docs.pi-hole.net/)
+The official pihole documentation can be found [here](https://docs.pi-hole.net/).
 
 # DoH
 - The usage of the DOH related files is explained in [this](https://jpgpi250.github.io/piholemanual/doc/Block%20DOH%20with%20pfsense.pdf) document.
