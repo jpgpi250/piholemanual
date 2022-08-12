@@ -17,6 +17,7 @@ sudo pihole-FTL sqlite3 "/etc/pihole/gravity.db" "insert or ignore into domainli
 sudo pihole-FTL sqlite3 "/etc/pihole/gravity.db" "insert or ignore into domainlist (domain, type, enabled, comment) values ('www.googletagservices.com', 0, 1, 'allow google ads');"
 sudo pihole-FTL sqlite3 "/etc/pihole/gravity.db" "insert or ignore into domainlist (domain, type, enabled, comment) values ('ad.doubleclick.net', 0, 1, 'allow google ads');"
 sudo pihole-FTL sqlite3 "/etc/pihole/gravity.db" "insert or ignore into domainlist (domain, type, enabled, comment) values ('clickserve.dartsearch.net', 0, 1, 'allow google ads');"
+sudo pihole-FTL sqlite3 "/etc/pihole/gravity.db" "insert or ignore into domainlist (domain, type, enabled, comment) values ('t.myvisualiq.net', 0, 1, 'allow google ads');"
 
 # group
 sudo pihole-FTL sqlite3 "/etc/pihole/gravity.db" "insert or ignore into 'group' (enabled, name, description) values ( 1, 'googleads', 'devices with google ads');"
