@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2208190209 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2208200209 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2022-08-19 02:09:01 (UTC)
+; Last updated: 2022-08-20 02:09:02 (UTC)
 ;
 ; report issues at https://github.com/jpgpi250/piholemanual/issues
 ;
@@ -165,6 +165,7 @@ dns.ipv6dns.com CNAME .
 dns.islandnet.com CNAME .
 dns.kawa.tf CNAME .
 dns.larsdebruin.net CNAME .
+dns.lars-lehmann.net CNAME .
 dns.melalandia.tk CNAME .
 dns.mertcan.dev CNAME .
 dns.moulticast.net CNAME .
@@ -280,6 +281,7 @@ doh.familyshield.opendns.com CNAME .
 doh.ffmuc.net CNAME .
 doh-fi.blahdns.com CNAME .
 dohfi.blahdns.com CNAME .
+doh.futa.gg CNAME .
 doh.gslb2.xfinity.com CNAME .
 doh.ibr.cs.tu-bs.de CNAME .
 doh.in.ahadns.net CNAME .
@@ -398,6 +400,7 @@ google-public-dns-a.google.com CNAME .
 google-public-dns-b.google.com CNAME .
 helios.plan9-dns.com CNAME .
 helios.plan9dns.com CNAME .
+hitian.me CNAME .
 hk-hkg.doh.sb CNAME .
 httpdns-push.heytapmobile.com CNAME .
 hydra.plan9-ns1.com CNAME .
