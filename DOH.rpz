@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2208240209 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2208250209 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2022-08-24 02:09:01 (UTC)
+; Last updated: 2022-08-25 02:09:01 (UTC)
 ;
 ; report issues at https://github.com/jpgpi250/piholemanual/issues
 ;
@@ -188,6 +188,7 @@ dnsovertls1.sinodun.com CNAME .
 dnsovertls2.sinodun.com CNAME .
 dnsovertls3.sinodun.com CNAME .
 dnsovertls.sinodun.com CNAME .
+dns.paesa.es CNAME .
 dns-prod-bc43efde54c7e228.elb.us-east-1.amazonaws.com CNAME .
 dns.pub CNAME .
 dns.pumplex.com CNAME .
@@ -285,6 +286,7 @@ doh.futa.gg CNAME .
 doh.gslb2.xfinity.com CNAME .
 doh.ibr.cs.tu-bs.de CNAME .
 doh.in.ahadns.net CNAME .
+doh.infotek.net.id CNAME .
 doh-ipv6.crypto.sx CNAME .
 dohipv6.crypto.sx CNAME .
 doh.it.ahadns.net CNAME .
@@ -315,6 +317,7 @@ doh.powerdns.org CNAME .
 doh.pub CNAME .
 doh.qis.io CNAME .
 doh.quickline.ch CNAME .
+doh.rezhajul.io CNAME .
 doh.safesurfer.io CNAME .
 doh.sandbox.opendns.com CNAME .
 doh.sb CNAME .
@@ -410,6 +413,7 @@ i.233py.com CNAME .
 i.233py.com.a.bdydns.com CNAME .
 ibksturm.synology.me CNAME .
 ibuki.cgnat.net CNAME .
+id.terra.my.id CNAME .
 in-blr.doh.sb CNAME .
 ind1.dnswarden.com CNAME .
 integration.dnsteam.globuscs.info CNAME .
@@ -496,6 +500,7 @@ rgnet-iad.anycast.uncensoreddns.org CNAME .
 rpz-public-resolver1.rrdns.pch.net CNAME .
 ru-mow.doh.sb CNAME .
 rumpelsepp.org CNAME .
+sbydoh.limotelu.org CNAME .
 sdns.233py.com CNAME .
 security.cloudflare-dns.com CNAME .
 security.cloudflaredns.com CNAME .
