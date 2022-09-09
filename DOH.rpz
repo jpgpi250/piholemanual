@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2209090209 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2209090725 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2022-09-09 02:09:01 (UTC)
+; Last updated: 2022-09-09 07:25:25 (UTC)
 ;
 ; report issues at https://github.com/jpgpi250/piholemanual/issues
 ;
@@ -379,6 +379,7 @@ eropa.dnscepat.id CNAME .
 eu1.dns.lavate.ch CNAME .
 eu2.dns.lavate.ch CNAME .
 eu.doh.sb CNAME .
+eu.geo.dnswarden.com CNAME .
 eu-opush-heytapmobile-pubgw-1244993624.eu-west-3.elb.amazonaws.com CNAME .
 europe.doh.sb CNAME .
 example.doh.blockerdns.com CNAME .
@@ -542,6 +543,7 @@ v6.rubyfish.cn CNAME .
 v.dnscrypt.uk CNAME .
 wdns.233py.com CNAME .
 webredir.vip.gandi.net CNAME .
+wip.geo.dnswarden.com CNAME .
 www.jabber-germany.de CNAME .
 www.masters-of-cloud.de CNAME .
 www.morbitzer.de CNAME .
