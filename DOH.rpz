@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2209110209 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2209120209 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2022-09-11 02:09:01 (UTC)
+; Last updated: 2022-09-12 02:09:02 (UTC)
 ;
 ; report issues at https://github.com/jpgpi250/piholemanual/issues
 ;
@@ -64,7 +64,6 @@ crd.circl.lu CNAME .
 cubedns.com CNAME .
 cube.neubsi.at CNAME .
 d2bphvjyj895l0.cloudfront.net CNAME .
-de.adhole.org CNAME .
 de-dus.doh.sb CNAME .
 de-fra.doh.sb CNAME .
 deic-lgb.anycast.censurfridns.dk CNAME .
