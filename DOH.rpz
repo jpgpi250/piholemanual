@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2209120209 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2209130209 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2022-09-12 02:09:02 (UTC)
+; Last updated: 2022-09-13 02:09:02 (UTC)
 ;
 ; report issues at https://github.com/jpgpi250/piholemanual/issues
 ;
@@ -64,6 +64,7 @@ crd.circl.lu CNAME .
 cubedns.com CNAME .
 cube.neubsi.at CNAME .
 d2bphvjyj895l0.cloudfront.net CNAME .
+dandelionsprout.asuscomm.com CNAME .
 de-dus.doh.sb CNAME .
 de-fra.doh.sb CNAME .
 deic-lgb.anycast.censurfridns.dk CNAME .
@@ -98,6 +99,7 @@ dns9.quad9.net CNAME .
 dns.aaflalo.me CNAME .
 dns.aa.net.uk CNAME .
 dns.adguard.com CNAME .
+dns.adguard-dns.com CNAME .
 dns.alekberg.net CNAME .
 dns.alidns.com CNAME .
 dns.alternate-dns.com CNAME .
@@ -353,6 +355,7 @@ dot.in.ahadns.net CNAME .
 dot.it.ahadns.net CNAME .
 dot-jp.blahdns.com CNAME .
 dot.la.ahadns.net CNAME .
+dot.libredns.gr CNAME .
 dot.libredns.gr.com CNAME .
 dot.nl.ahadns.net CNAME .
 dot.no.ahadns.net CNAME .
@@ -382,10 +385,12 @@ eu.geo.dnswarden.com CNAME .
 eu-opush-heytapmobile-pubgw-1244993624.eu-west-3.elb.amazonaws.com CNAME .
 europe.doh.sb CNAME .
 example.doh.blockerdns.com CNAME .
+family.adguard-dns.com CNAME .
 family.canadianshield.cira.ca CNAME .
 family.cloudflare-dns.com CNAME .
 family.cloudflaredns.com CNAME .
 family-filter-dns.cleanbrowsing.org CNAME .
+family.freedns.controld.com CNAME .
 family.puredns.org CNAME .
 fdns1.dismail.de CNAME .
 fdns2.dismail.de CNAME .
@@ -441,6 +446,7 @@ mask-h2.icloud.com CNAME .
 mask.icloud.com CNAME .
 mask-t.apple-dns.net CNAME .
 masters-of-cloud.de CNAME .
+max.rethinkdns.com CNAME .
 mozilla.cloudflare-dns.com CNAME .
 ndns.233py.com CNAME .
 neatdns.ustclug.org CNAME .
@@ -525,6 +531,7 @@ uk.beatquantum.com CNAME .
 uk-lon.doh.sb CNAME .
 uncensored.any.dns.nixnet.xyz CNAME .
 uncensored-dot.dnswarden.com CNAME .
+uncensored.freedns.controld.com CNAME .
 uncensored.lux1.dns.nixnet.xyz CNAME .
 uncensored.lv1.dns.nixnet.xyz CNAME .
 uncensored.ny1.dns.nixnet.xyz CNAME .
