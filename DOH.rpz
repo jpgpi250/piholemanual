@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2209270250 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2209280250 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2022-09-27 02:50:27 (UTC)
+; Last updated: 2022-09-28 02:50:37 (UTC)
 ;
 ; report issues at https://github.com/jpgpi250/piholemanual/issues
 ;
@@ -385,7 +385,6 @@ eu.doh.sb CNAME .
 eu.geo.dnswarden.com CNAME .
 eu-opush-heytapmobile-pubgw-1244993624.eu-west-3.elb.amazonaws.com CNAME .
 europe.doh.sb CNAME .
-example.doh.blockerdns.com CNAME .
 family.adguard-dns.com CNAME .
 family.canadianshield.cira.ca CNAME .
 family.cloudflare-dns.com CNAME .
@@ -398,7 +397,6 @@ fdns2.dismail.de CNAME .
 fi.doh.dns.snopyta.org CNAME .
 fi.dot.dns.snopyta.org CNAME .
 firefox.dns.nextdns.io CNAME .
-fr1.dnswarden.com CNAME .
 france.beatquantum.com CNAME .
 free.bravedns.com CNAME .
 freedns.controld.com CNAME .
@@ -421,7 +419,6 @@ ibksturm.synology.me CNAME .
 ibuki.cgnat.net CNAME .
 id.terra.my.id CNAME .
 in-blr.doh.sb CNAME .
-ind1.dnswarden.com CNAME .
 integration.dnsteam.globuscs.info CNAME .
 i.passcloud.xyz CNAME .
 ipoac.nl CNAME .
@@ -513,7 +510,6 @@ sdns.233py.com CNAME .
 security.cloudflare-dns.com CNAME .
 security.cloudflaredns.com CNAME .
 security-filter-dns.cleanbrowsing.org CNAME .
-sg1.dnswarden.com CNAME .
 sg.adhole.org CNAME .
 sg-sin.doh.sb CNAME .
 sg.yepdns.com CNAME .
@@ -540,7 +536,6 @@ unfiltered.adguard-dns.com CNAME .
 unicast.censurfridns.dk CNAME .
 unicast.uncensoreddns.org CNAME .
 us1.dns.lavate.ch CNAME .
-us1.dnswarden.com CNAME .
 usa.beatquantum.com CNAME .
 us-central.adhole.org CNAME .
 us-chi-doh.sb CNAME .
