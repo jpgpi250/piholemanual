@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2209280250 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2209290250 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2022-09-28 02:50:37 (UTC)
+; Last updated: 2022-09-29 02:50:10 (UTC)
 ;
 ; report issues at https://github.com/jpgpi250/piholemanual/issues
 ;
@@ -296,6 +296,7 @@ doh.iucc.ac.il CNAME .
 doh-jp.blahdns.com CNAME .
 dohjp.blahdns.com CNAME .
 doh.la.ahadns.net CNAME .
+doh.lacontrevoie.fr CNAME .
 doh.li CNAME .
 doh.libredns.gr CNAME .
 doh.libredns.org CNAME .
