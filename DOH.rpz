@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2210150253 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2210160253 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2022-10-15 02:53:36 (UTC)
+; Last updated: 2022-10-16 02:53:53 (UTC)
 ;
 ; report issues at https://github.com/jpgpi250/piholemanual/issues
 ;
@@ -246,7 +246,6 @@ doh.applied-privacy.net CNAME .
 doh.appliedprivacy.net CNAME .
 doh.arekjatim.com CNAME .
 doh.armadillodns.net CNAME .
-doh.asia.dnswarden.com CNAME .
 doh.au.ahadns.net CNAME .
 doh.blahdns.com CNAME .
 doh.blockerdns.com CNAME .
@@ -280,6 +279,7 @@ doh.eastau.pi-dns.com CNAME .
 doh.eastus.pi-dns.com CNAME .
 doh.eieidns.com CNAME .
 doh.es.ahadns.net CNAME .
+doh.eu.dnswarden.com CNAME .
 doh.familyshield.opendns.com CNAME .
 doh.ffmuc.net CNAME .
 doh-fi.blahdns.com CNAME .
@@ -511,6 +511,7 @@ sdns.233py.com CNAME .
 security.cloudflare-dns.com CNAME .
 security.cloudflaredns.com CNAME .
 security-filter-dns.cleanbrowsing.org CNAME .
+sg1.dnswarden.com CNAME .
 sg.adhole.org CNAME .
 sg-sin.doh.sb CNAME .
 sg.yepdns.com CNAME .
