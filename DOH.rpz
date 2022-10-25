@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2210240253 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2210250253 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2022-10-24 02:53:23 (UTC)
+; Last updated: 2022-10-25 02:53:51 (UTC)
 ;
 ; report issues at https://github.com/jpgpi250/piholemanual/issues
 ;
@@ -52,6 +52,7 @@ b.ns.dnslify.com CNAME .
 bravedns.com CNAME .
 b.safe.ns.dnslify.com CNAME .
 canadianshield.cira.ca CNAME .
+catsimple.cf CNAME .
 ca-yyc.doh.sb CNAME .
 ca-yyz.doh.sb CNAME .
 chewbacca.meganerd.nl CNAME .
@@ -95,6 +96,7 @@ dns2.quickline.ch CNAME .
 dns2.steering.nextdns.io CNAME .
 dns64.cloudflare-dns.com CNAME .
 dns64.dns.google CNAME .
+dns.7vpn.com CNAME .
 dns9.quad9.net CNAME .
 dns.aaflalo.me CNAME .
 dns.aa.net.uk CNAME .
@@ -162,6 +164,7 @@ dns.gi.co.id CNAME .
 dns.google CNAME .
 dns.google.com CNAME .
 dns.hostux.net CNAME .
+dns.ipoac.nl CNAME .
 dns.ipv6dns.com CNAME .
 dns.islandnet.com CNAME .
 dns.kawa.tf CNAME .
