@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2210280254 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2210290254 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2022-10-28 02:54:19 (UTC)
+; Last updated: 2022-10-29 02:54:02 (UTC)
 ;
 ; report issues at https://github.com/jpgpi250/piholemanual/issues
 ;
@@ -163,6 +163,7 @@ dns-gcp.aaflalo.me CNAME .
 dns.gi.co.id CNAME .
 dns.google CNAME .
 dns.google.com CNAME .
+dns.hinet.net CNAME .
 dns.hostux.net CNAME .
 dns.ipoac.nl CNAME .
 dns.ipv6dns.com CNAME .
@@ -282,7 +283,6 @@ doh.eastau.pi-dns.com CNAME .
 doh.eastus.pi-dns.com CNAME .
 doh.eieidns.com CNAME .
 doh.es.ahadns.net CNAME .
-doh.eu.dnswarden.com CNAME .
 doh.familyshield.opendns.com CNAME .
 doh.ffmuc.net CNAME .
 doh-fi.blahdns.com CNAME .
@@ -466,6 +466,7 @@ ny1.nixnet.xyz CNAME .
 odvr.nic.cz CNAME .
 one.one.one.one CNAME .
 opencdn.jomodns.com CNAME .
+opennic1.eth-services.de CNAME .
 opennic2.i2pd.xyz CNAME .
 opennic.i2pd.xyz CNAME .
 opera.cloudflare-dns.com CNAME .
