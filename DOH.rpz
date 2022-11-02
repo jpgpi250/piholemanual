@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2211010354 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2211020353 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2022-11-01 03:54:08 (UTC)
+; Last updated: 2022-11-02 03:53:55 (UTC)
 ;
 ; report issues at https://github.com/jpgpi250/piholemanual/issues
 ;
@@ -259,7 +259,6 @@ doh.bugdns.com CNAME .
 doh.captnemo.in CNAME .
 doh.centraleu.pi-dns.com CNAME .
 doh-ch.blahdns.com CNAME .
-dohch.blahdns.com CNAME .
 doh.chi.ahadns.net CNAME .
 doh.cleanbrowsing.org CNAME .
 doh.cox.net CNAME .
@@ -268,7 +267,6 @@ doh.datahata.by CNAME .
 doh.datt.pw CNAME .
 doh-de.blahdns.com CNAME .
 doh.de.blahdns.com CNAME .
-dohde.blahdns.com CNAME .
 doh.defaultroutes.de CNAME .
 doh.disconnect.app CNAME .
 doh.dns.apple.com CNAME .
@@ -283,6 +281,7 @@ doh.eastau.pi-dns.com CNAME .
 doh.eastus.pi-dns.com CNAME .
 doh.eieidns.com CNAME .
 doh.es.ahadns.net CNAME .
+doh.eu.dnswarden.com CNAME .
 doh.familyshield.opendns.com CNAME .
 doh.ffmuc.net CNAME .
 doh-fi.blahdns.com CNAME .
@@ -550,7 +549,6 @@ v6.rubyfish.cn CNAME .
 v.dnscrypt.uk CNAME .
 wdns.233py.com CNAME .
 webredir.vip.gandi.net CNAME .
-wip.geo.dnswarden.com CNAME .
 www.jabber-germany.de CNAME .
 www.masters-of-cloud.de CNAME .
 www.morbitzer.de CNAME .
