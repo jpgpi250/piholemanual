@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2211120354 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2211130354 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2022-11-12 03:54:32 (UTC)
+; Last updated: 2022-11-13 03:54:23 (UTC)
 ;
 ; report issues at https://github.com/jpgpi250/piholemanual/issues
 ;
@@ -29,7 +29,6 @@ adult-filter-dot.dnswarden.com CNAME .
 a.family.ns.dnslify.com CNAME .
 ans2.tdnszone.net CNAME .
 a.ns.dnslify.com CNAME .
-antidns.s.tuna.tsinghua.edu.cn CNAME .
 anycast.censurfridns.dk CNAME .
 anycast.dns.nextdns.io CNAME .
 anycast.ffmuc.net CNAME .
@@ -240,6 +239,7 @@ doh2.abmb.win CNAME .
 doh2.b-cdn.net CNAME .
 doh2.blahdns.com CNAME .
 doh2.dnswarden.com CNAME .
+doh2.gslb2.xfinity.com CNAME .
 doh-2.seby.io CNAME .
 doh2.seby.io CNAME .
 doh.360.cn CNAME .
