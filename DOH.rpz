@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2211170355 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2211180355 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2022-11-17 03:55:15 (UTC)
+; Last updated: 2022-11-18 03:55:01 (UTC)
 ;
 ; report issues at https://github.com/jpgpi250/piholemanual/issues
 ;
@@ -15,6 +15,7 @@ $TTL 30
 2.dnscrypt-cert.dns.seby.io CNAME .
 360.233py.com CNAME .
 8888.google CNAME .
+a-bld.sys-adm.in CNAME .
 adblock.any.dns.nixnet.xyz CNAME .
 adblock.doh.mullvad.net CNAME .
 adblock-dot.dnswarden.com CNAME .
@@ -148,6 +149,7 @@ dns-doh-no-safe-search.dnsforfamily.com CNAME .
 dnsdohnosafesearch.dnsforfamily.com CNAME .
 dns-dot.dnsforfamily.com CNAME .
 dns.east.comss.one CNAME .
+dns.eddi.net CNAME .
 dns.edgy.network CNAME .
 dns.emeraldonion.org CNAME .
 dnsenc.com CNAME .
@@ -159,6 +161,7 @@ dns-family.adguard.com CNAME .
 dnsfamily.adguard.com CNAME .
 dns.flatuslifir.is CNAME .
 dnsforge.de CNAME .
+dns.froth.zone CNAME .
 dns-gcp.aaflalo.me CNAME .
 dns.gi.co.id CNAME .
 dns.google CNAME .
@@ -169,6 +172,7 @@ dns.ipoac.nl CNAME .
 dns.ipv6dns.com CNAME .
 dns.islandnet.com CNAME .
 dns.kawa.tf CNAME .
+dns.keweon.center CNAME .
 dns.larsdebruin.net CNAME .
 dns.lars-lehmann.net CNAME .
 dnslow.me CNAME .
@@ -377,6 +381,7 @@ draco.plan9-ns2.com CNAME .
 ea-dns.rubyfish.cn CNAME .
 easyhandshake.com CNAME .
 ecs-doh.dnswarden.com CNAME .
+eddi.usgovtrafficmanager.net CNAME .
 edgy-dns.com CNAME .
 edns.233py.com CNAME .
 ee-tll.doh.sb CNAME .
@@ -455,10 +460,13 @@ nl-ams.doh.sb CNAME .
 ns03.dns.tin-fan.com CNAME .
 ns1.dnsprivacy.at CNAME .
 ns1-doh.iriseden.fr CNAME .
+ns1.opennameserver.org CNAME .
 ns1.recursive.dnsbycomodo.com CNAME .
 ns2.dnsprivacy.at CNAME .
 ns2-doh.iriseden.fr CNAME .
+ns2.opennameserver.org CNAME .
 ns2.recursive.dnsbycomodo.com CNAME .
+ns3.opennameserver.org CNAME .
 ntu.ssooss.win CNAME .
 ny1.nixnet.xyz CNAME .
 odvr.nic.cz CNAME .
