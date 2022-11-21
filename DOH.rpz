@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2211200355 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2211210355 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2022-11-20 03:55:09 (UTC)
+; Last updated: 2022-11-21 03:55:21 (UTC)
 ;
 ; report issues at https://github.com/jpgpi250/piholemanual/issues
 ;
@@ -40,7 +40,10 @@ a.passcloud.xyz CNAME .
 arashi.eu.org CNAME .
 a.safe.ns.dnslify.com CNAME .
 asia.dnscepat.id CNAME .
+atelier.alica.idv.tw CNAME .
 au-syd.doh.sb CNAME .
+a.vvvglass.com CNAME .
+awan.ftp.sh CNAME .
 azure.cloudflare-dns.com CNAME .
 basic.bravedns.com CNAME .
 basic.rethinkdns.com CNAME .
@@ -341,6 +344,7 @@ dohtrial.att.net CNAME .
 doh.umbrella.com CNAME .
 doh.us1.segurodns.net CNAME .
 doh.westus.pi-dns.com CNAME .
+doh.wewitro.net CNAME .
 doh.xcom.pro CNAME .
 doh.xfinity.com CNAME .
 dos.bytetel.net CNAME .
@@ -426,6 +430,7 @@ ibksturm.synology.me CNAME .
 ibuki.cgnat.net CNAME .
 id.terra.my.id CNAME .
 in-blr.doh.sb CNAME .
+ines.zfn.uni-bremen.de CNAME .
 integration.dnsteam.globuscs.info CNAME .
 i.passcloud.xyz CNAME .
 ipoac.nl CNAME .
@@ -453,8 +458,10 @@ mask-t.apple-dns.net CNAME .
 masters-of-cloud.de CNAME .
 max.rethinkdns.com CNAME .
 mozilla.cloudflare-dns.com CNAME .
+nat64.tuxis.nl CNAME .
 ndns.233py.com CNAME .
 neatdns.ustclug.org CNAME .
+nebula.tru.io CNAME .
 nl-ams2.doh.sb CNAME .
 nl-ams.doh.sb CNAME .
 ns03.dns.tin-fan.com CNAME .
