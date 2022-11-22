@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2211210355 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2211220355 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2022-11-21 03:55:21 (UTC)
+; Last updated: 2022-11-22 03:55:36 (UTC)
 ;
 ; report issues at https://github.com/jpgpi250/piholemanual/issues
 ;
@@ -76,6 +76,7 @@ deic-lgb.anycast.censurfridns.dk CNAME .
 deic-lgb.anycast.uncensoreddns.org CNAME .
 deic-ore.anycast.censurfridns.dk CNAME .
 deic-ore.anycast.uncensoreddns.org CNAME .
+de.teradns.org CNAME .
 dns10.quad9.net CNAME .
 dns11.quad9.net CNAME .
 dns12.quad9.net CNAME .
@@ -409,6 +410,7 @@ fi.doh.dns.snopyta.org CNAME .
 fi.dot.dns.snopyta.org CNAME .
 firefox.dns.nextdns.io CNAME .
 france.beatquantum.com CNAME .
+fr-dns1.bancuh.com CNAME .
 free.bravedns.com CNAME .
 freedns.controld.com CNAME .
 freedom.mydns.network CNAME .
@@ -438,6 +440,7 @@ jabber-germany.de CNAME .
 jarjar.meganerd.nl CNAME .
 jcdns.fun CNAME .
 jit.ddns.net CNAME .
+jp-dns1.bancuh.com CNAME .
 jp.gridns.xyz CNAME .
 jp-kix.doh.sb CNAME .
 jp-nrt.doh.sb CNAME .
@@ -476,6 +479,7 @@ ns2.recursive.dnsbycomodo.com CNAME .
 ns3.opennameserver.org CNAME .
 ntu.ssooss.win CNAME .
 ny1.nixnet.xyz CNAME .
+ny.teradns.org CNAME .
 odvr.nic.cz CNAME .
 one.one.one.one CNAME .
 opencdn.jomodns.com CNAME .
@@ -528,7 +532,9 @@ security.cloudflare-dns.com CNAME .
 security.cloudflaredns.com CNAME .
 security-filter-dns.cleanbrowsing.org CNAME .
 sg.adhole.org CNAME .
+sg-dns1.bancuh.com CNAME .
 sg-sin.doh.sb CNAME .
+sg.teradns.org CNAME .
 sg.yepdns.com CNAME .
 sky.rethinkdns.com CNAME .
 spacedns.org CNAME .
@@ -542,9 +548,11 @@ tls-dns-u.odvr.dns-oarc.net CNAME .
 tor.cloudflare-dns.com CNAME .
 trr.dns.nextdns.io CNAME .
 tundranet.hec.to CNAME .
+tx.teradns.org CNAME .
 uk.adhole.org CNAME .
 uk.beatquantum.com CNAME .
 uk-lon.doh.sb CNAME .
+uk.teradns.org CNAME .
 uncensored.any.dns.nixnet.xyz CNAME .
 uncensored-dot.dnswarden.com CNAME .
 uncensored.freedns.controld.com CNAME .
