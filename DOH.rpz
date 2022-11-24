@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2211230356 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2211240358 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2022-11-23 03:56:48 (UTC)
+; Last updated: 2022-11-24 03:58:09 (UTC)
 ;
 ; report issues at https://github.com/jpgpi250/piholemanual/issues
 ;
@@ -65,6 +65,7 @@ chaos-system.de CNAME .
 chewbacca.meganerd.nl CNAME .
 chrome.cloudflare-dns.com CNAME .
 chromium.dns.nextdns.io CNAME .
+clientdns3.softcom.net CNAME .
 cloudflare-dns.com CNAME .
 cloudflare-gateway.com CNAME .
 cluster-0.gac.edu CNAME .
@@ -88,6 +89,7 @@ dns12.quad9.net CNAME .
 dns13.quad9.net CNAME .
 dns1.digitale-gesellschaft.ch CNAME .
 dns1.dnscrypt.ca CNAME .
+dns1.in-berlin.de CNAME .
 dns1.ipv6.dnscrypt.ca CNAME .
 dns1.nextdns.io CNAME .
 dns1.quickline.ch CNAME .
@@ -159,6 +161,7 @@ dnsdoh.dnsforfamily.com CNAME .
 dns-doh-no-safe-search.dnsforfamily.com CNAME .
 dnsdohnosafesearch.dnsforfamily.com CNAME .
 dns-dot.dnsforfamily.com CNAME .
+dns.dyn1.de CNAME .
 dns.east.comss.one CNAME .
 dns.eddi.net CNAME .
 dns.edgy.network CNAME .
@@ -183,6 +186,7 @@ dns.ipoac.nl CNAME .
 dns.ipv6dns.com CNAME .
 dns.islandnet.com CNAME .
 dns.kawa.tf CNAME .
+dns.kescher.at CNAME .
 dns.keweon.center CNAME .
 dns.larsdebruin.net CNAME .
 dns.lars-lehmann.net CNAME .
@@ -223,6 +227,7 @@ dns.scapetical.com CNAME .
 dnsse.alekberg.net CNAME .
 dnsse-noads.alekberg.net CNAME .
 dnssenoads.alekberg.net CNAME .
+dns.slinkyman.net CNAME .
 dns.switch.ch CNAME .
 dns.t53.de CNAME .
 dns.telekom.de CNAME .
@@ -366,6 +371,7 @@ dot-ch.blahdns.com CNAME .
 dot.chi.ahadns.net CNAME .
 dot.cox.net CNAME .
 dot-de.blahdns.com CNAME .
+dotdns.cryptroute.com CNAME .
 dot.eastas.pi-dns.com CNAME .
 dot.eastau.pi-dns.com CNAME .
 dot.eastus.pi-dns.com CNAME .
@@ -400,6 +406,7 @@ edgy-dns.com CNAME .
 edns.233py.com CNAME .
 ee-tll.doh.sb CNAME .
 eropa.dnscepat.id CNAME .
+esel.stusta.mhn.de CNAME .
 eu1.dns.lavate.ch CNAME .
 eu2.dns.lavate.ch CNAME .
 eu.doh.sb CNAME .
@@ -424,6 +431,8 @@ fr-dns2.bancuh.com CNAME .
 free.bravedns.com CNAME .
 freedns.controld.com CNAME .
 freedom.mydns.network CNAME .
+fuchur.pentament.de CNAME .
+galileo.math.unipd.it CNAME .
 gateway-el.cname.ustclug.org CNAME .
 geo.dnswarden.com CNAME .
 getdnsapi.net CNAME .
@@ -447,6 +456,7 @@ integration.dnsteam.globuscs.info CNAME .
 i.passcloud.xyz CNAME .
 ipoac.nl CNAME .
 iris.woozeno.eu CNAME .
+irre.li CNAME .
 jabber-germany.de CNAME .
 jarjar.meganerd.nl CNAME .
 jcdns.fun CNAME .
@@ -463,6 +473,8 @@ kracon.anycast.uncensoreddns.org CNAME .
 kronos.plan9-dns.com CNAME .
 kronos.plan9dns.com CNAME .
 kr-sel.doh.sb CNAME .
+kudns.kescher.at CNAME .
+lastentarvike.fi CNAME .
 lon-dns.bitdefender.net CNAME .
 lux1.nixnet.xyz CNAME .
 lv1.nixnet.xyz CNAME .
@@ -493,6 +505,7 @@ ns2.hshh.org CNAME .
 ns2.opennameserver.org CNAME .
 ns2.recursive.dnsbycomodo.com CNAME .
 ns3.opennameserver.org CNAME .
+nsc.torgues.net CNAME .
 ntu.ssooss.win CNAME .
 ny1.nixnet.xyz CNAME .
 ny.teradns.org CNAME .
@@ -508,6 +521,7 @@ p0.freedns.controld.com CNAME .
 p1.freedns.controld.com CNAME .
 p2.freedns.controld.com CNAME .
 p3.freedns.controld.com CNAME .
+pates.services.sfr.fr.casepp.sfr.fr CNAME .
 pdns.faelix.net CNAME .
 please.dontsteal.my.id CNAME .
 pluton.plan9-dns.com CNAME .
@@ -525,6 +539,7 @@ qlf-doh.inria.fr CNAME .
 query.hdns.io CNAME .
 radia.bortzmeyer.org CNAME .
 rdns.faelix.net CNAME .
+res-acst3.absolight.net CNAME .
 resolver1.dyndnsinternetguide.com CNAME .
 resolver1-fs.opendns.com CNAME .
 resolver1.ipv6-sandbox.opendns.com CNAME .
@@ -564,8 +579,10 @@ steering.nextdns.io CNAME .
 swoletux.ave.zone CNAME .
 td-doh.dns.t53.de CNAME .
 test.dnsteam.globuscs.info CNAME .
+timmes.nl CNAME .
 tls-dns-u.odvr.dns-oarc.net CNAME .
 tor.cloudflare-dns.com CNAME .
+tor.vasi.li CNAME .
 trr.dns.nextdns.io CNAME .
 tundranet.hec.to CNAME .
 tx.teradns.org CNAME .
@@ -600,3 +617,4 @@ wyx.cloud CNAME .
 xorbiadns.com CNAME .
 yarp.lefolgoc.net CNAME .
 zougloub.eu CNAME .
+zrh1-ns01.monzoon.net CNAME .
