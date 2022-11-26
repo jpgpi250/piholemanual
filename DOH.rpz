@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2211250357 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2211260358 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2022-11-25 03:57:31 (UTC)
+; Last updated: 2022-11-26 03:58:00 (UTC)
 ;
 ; report issues at https://github.com/jpgpi250/piholemanual/issues
 ;
@@ -355,6 +355,7 @@ doh.syshero.org CNAME .
 doh.this.web.id CNAME .
 doh.tiarap.org CNAME .
 doh.tiar.app CNAME .
+doh.totoro.pub CNAME .
 dohtrial.att.net CNAME .
 doh.umbrella.com CNAME .
 doh.us1.segurodns.net CNAME .
@@ -571,6 +572,7 @@ sg-dns2.bancuh.com CNAME .
 sg-sin.doh.sb CNAME .
 sg.teradns.org CNAME .
 sg.yepdns.com CNAME .
+sh.totoro.pub CNAME .
 sky.rethinkdns.com CNAME .
 spacedns.org CNAME .
 staging.dnsteam.globuscs.info CNAME .
