@@ -10,7 +10,9 @@ The official pihole documentation can be found [here](https://docs.pi-hole.net/)
 
 # DoH
 - The usage of the DOH related files is explained in [this](https://jpgpi250.github.io/piholemanual/doc/Block%20DOH%20with%20pfsense.pdf) document.
-- Additional DoH protection can be achieved by implementing response policy zones (RPZ), explained [here](https://jpgpi250.github.io/piholemanual/doc/Unbound%20response%20policy%20zones.pdf).
+- Additional DoH protection can be achieved by implementing
+    response policy zones (RPZ), explained [here](https://jpgpi250.github.io/piholemanual/doc/Unbound%20response%20policy%20zones.pdf).
+    suricata rules, explained in the [pfsense](https://jpgpi250.github.io/piholemanual/doc/Block%20DOH%20with%20pfsense.pdf) document (section 10).
 
 NOTICE (08/2022): The DoHexception lists are deprecated, read the DoH manual to find out how to create local exception aliases.
 - The deprecated lists will remain available, to allow users to implement the new policy.
