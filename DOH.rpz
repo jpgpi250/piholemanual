@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2211280402 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2211290403 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2022-11-28 04:02:33 (UTC)
+; Last updated: 2022-11-29 04:03:16 (UTC)
 ;
 ; report issues at https://github.com/jpgpi250/piholemanual/issues
 ;
@@ -206,6 +206,7 @@ dns.fancyorg.at CNAME .
 dns.flatuslifir.is CNAME .
 dnsforge.de CNAME .
 dns.froth.zone CNAME .
+dns.futuredns.me CNAME .
 dns-gcp.aaflalo.me CNAME .
 dns.gi.co.id CNAME .
 dns.ginovs.nl CNAME .
@@ -592,6 +593,7 @@ ns2-doh.iriseden.fr CNAME .
 ns2.opennameserver.org CNAME .
 ns2.recursive.dnsbycomodo.com CNAME .
 ns3.opennameserver.org CNAME .
+ns4.opennameserver.org CNAME .
 ns.aguaslindasweb.com.br CNAME .
 nsc.torgues.net CNAME .
 nsec.arnor.org CNAME .
@@ -615,7 +617,10 @@ p3.freedns.controld.com CNAME .
 pates.services.sfr.fr.casepp.sfr.fr CNAME .
 pdns.faelix.net CNAME .
 pi1.node15.com CNAME .
+pihole1.hoerli.net CNAME .
 pihole2.hoerli.net CNAME .
+pihole3.hoerli.net CNAME .
+pihole4.hoerli.net CNAME .
 please.dontsteal.my.id CNAME .
 pluton.plan9-dns.com CNAME .
 pluton.plan9dns.com CNAME .
@@ -634,15 +639,20 @@ rachel.jeroenhd.nl CNAME .
 radia.bortzmeyer.org CNAME .
 rayneau.fr CNAME .
 rdns.faelix.net CNAME .
+res-acst1.absolight.net CNAME .
+res-acst2.absolight.net CNAME .
 res-acst3.absolight.net CNAME .
+resolver1.absolight.net CNAME .
 resolver1.dyndnsinternetguide.com CNAME .
 resolver1-fs.opendns.com CNAME .
 resolver1.ipv6-sandbox.opendns.com CNAME .
 resolver1.opendns.com CNAME .
+resolver2.absolight.net CNAME .
 resolver2.dyndnsinternetguide.com CNAME .
 resolver2-fs.opendns.com CNAME .
 resolver2.ipv6-sandbox.opendns.com CNAME .
 resolver2.opendns.com CNAME .
+resolver3.absolight.net CNAME .
 resolver4.dns.openinternet.io CNAME .
 resolver.as203038.net CNAME .
 resolver-eu.lelux.fi CNAME .
@@ -676,6 +686,7 @@ shard.ender.fr CNAME .
 sh.totoro.pub CNAME .
 sky.rethinkdns.com CNAME .
 spacedns.org CNAME .
+srv1.web-mx.eu CNAME .
 staging.dnsteam.globuscs.info CNAME .
 static.captnemo.in CNAME .
 steering.nextdns.io CNAME .
