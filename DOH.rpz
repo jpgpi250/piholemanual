@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2211300403 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2212010403 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2022-11-30 04:03:43 (UTC)
+; Last updated: 2022-12-01 04:03:27 (UTC)
 ;
 ; report issues at https://github.com/jpgpi250/piholemanual/issues
 ;
@@ -60,6 +60,7 @@ awan.ftp.sh CNAME .
 azure.cloudflare-dns.com CNAME .
 basic.bravedns.com CNAME .
 basic.rethinkdns.com CNAME .
+bayas.dev CNAME .
 berd.moe CNAME .
 b.family.ns.dnslify.com CNAME .
 blackhole.myon.lu CNAME .
@@ -151,6 +152,7 @@ dns.artikel10.org CNAME .
 dns-asia.wugui.zone CNAME .
 dns.azsopro.net CNAME .
 dns.b612.me CNAME .
+dns.bayas.dev CNAME .
 dns.bebasid.com CNAME .
 dns.belnet.be CNAME .
 dns.beta.gandi.net CNAME .
@@ -213,6 +215,7 @@ dns.ginovs.nl CNAME .
 dns.google CNAME .
 dns.google.com CNAME .
 dns.grqu.de CNAME .
+dns.hafidzradhival.my.id CNAME .
 dns.hahnjo.de CNAME .
 dns.hanmey.de CNAME .
 dns.hinet.net CNAME .
@@ -587,6 +590,7 @@ ns1.dnsprivacy.at CNAME .
 ns1-doh.iriseden.fr CNAME .
 ns1.flodns.net CNAME .
 ns1.opennameserver.org CNAME .
+ns1.qquack.org CNAME .
 ns1.recursive.dnsbycomodo.com CNAME .
 ns2.dnsprivacy.at CNAME .
 ns2-doh.iriseden.fr CNAME .
