@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2212010403 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2212020404 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2022-12-01 04:03:27 (UTC)
+; Last updated: 2022-12-02 04:04:29 (UTC)
 ;
 ; report issues at https://github.com/jpgpi250/piholemanual/issues
 ;
@@ -55,7 +55,6 @@ at.pzhg.me CNAME .
 au01.dns4me.net CNAME .
 au02.dns4me.net CNAME .
 au-syd.doh.sb CNAME .
-a.vvvglass.com CNAME .
 awan.ftp.sh CNAME .
 azure.cloudflare-dns.com CNAME .
 basic.bravedns.com CNAME .
@@ -329,7 +328,6 @@ doh2.abmb.win CNAME .
 doh2.b-cdn.net CNAME .
 doh2.blahdns.com CNAME .
 doh2.dnswarden.com CNAME .
-doh2.gslb2.xfinity.com CNAME .
 doh-2.seby.io CNAME .
 doh2.seby.io CNAME .
 doh.360.cn CNAME .
@@ -730,6 +728,7 @@ us-central.adhole.org CNAME .
 us-chi-doh.sb CNAME .
 us.doh.cloudveil.org CNAME .
 us-east.adhole.org CNAME .
+us-ny-alula.heliumcloud.cc CNAME .
 uw-dns.rubyfish.cn CNAME .
 v6.rubyfish.cn CNAME .
 v.dnscrypt.uk CNAME .
