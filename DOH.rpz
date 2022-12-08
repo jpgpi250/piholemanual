@@ -1,11 +1,18 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2212080418 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2212082005 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2022-12-08 04:18:12 (UTC)
+; Last updated: 2022-12-08 20:05:25 (UTC)
 ;
-; report issues at https://github.com/jpgpi250/piholemanual/issues
+; See https://jpgpi250.github.io/piholemanual/doc/Unbound%20response%20policy%20zones.pdf
+; Report issues at https://github.com/jpgpi250/piholemanual/issues
+;
+; Terms of Services (ToS)
+; By using the datasets, you agree that:
+;   The datasets can be used for both, commercial and non-commercial purpose without any limitations (CC0 - No Rights Reserved)
+;   Data offered is served as it is on best effort
+;   I (jpgpi250) can not be held liable for any false positive or damage caused by the use of the datasets offered.
 ;
 1001.cloudflare-dns.com CNAME .
 1111.cloudflare-dns.com CNAME .
