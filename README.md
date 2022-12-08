@@ -20,7 +20,7 @@ NOTICE (08/2022): The DoHexception lists are deprecated, read the DoH manual to 
 - The deprecated lists will remain available, to allow users to implement the new policy.
 
 # Terms of Services (ToS)
-- By using the scripts and datasets, you agree that:
-- The scripts and datasets can be used for both, commercial and non-commercial purpose without any limitations (CC0 - No Rights Reserved)
-- Scripts and Data offered is served as it is on best effort
+By using the scripts and datasets, you agree that:
+- The scripts and datasets can be used for both, commercial and non-commercial purpose without any limitations (CC0 - No Rights Reserved).
+- Scripts and Data offered is served as it is on best effort.
 - I (jpgpi250) can not be held liable for any false positive or damage caused by the use of the scripts and datasets offered.
