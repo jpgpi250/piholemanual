@@ -1,7 +1,7 @@
 # (o)DoH server list (DNS entries).
 # See https://jpgpi250.github.io/piholemanual/doc/Block%20DOH%20with%20pfsense.pdf
 #
-# Last updated: 2022-12-08 04:21:44 (UTC)
+# Last updated: 2022-12-08 19:42:28 (UTC)
 # MD5 checksum file available.
 #
 # SID reservations: https://sidallocation.org/
@@ -9,6 +9,12 @@
 #
 # Report issues with this list at https://github.com/jpgpi250/piholemanual/issues
 # Use SID Management to disable specific entries.
+#
+# Terms of Services (ToS)
+# By using this dataset, you agree that:
+#   The dataset can be used for both, commercial and non-commercial purpose without any limitations (CC0 - No Rights Reserved)
+#   Data offered is served as it is on best effort
+#   I (jpgpi250) can not be held liable for any false positive or damage caused by the use of the datasets offered.
 #
 reject dns $HOME_NET any -> $EXTERNAL_NET 53 (msg:"(o)DoH Query for dns.google"; dns.query; content:"dns.google"; nocase; fast_pattern; classtype:bad-unknown; sid:27995001; flow:to_server; rev:1; metadata:affected_product Any, attack_target Client_Endpoint, database_domainlist_id(s) 0, updated_at 2022_12_08;)
 reject dns $HOME_NET any -> $EXTERNAL_NET 53 (msg:"(o)DoH Query for cloudflare-dns.com"; dns.query; content:"cloudflare-dns.com"; nocase; fast_pattern; classtype:bad-unknown; sid:27995002; flow:to_server; rev:1; metadata:affected_product Any, attack_target Client_Endpoint, database_domainlist_id(s) 1, updated_at 2022_12_08;)
