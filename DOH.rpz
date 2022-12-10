@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2212090419 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2212100417 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2022-12-09 04:19:06 (UTC)
+; Last updated: 2022-12-10 04:17:11 (UTC)
 ;
 ; See https://jpgpi250.github.io/piholemanual/doc/Unbound%20response%20policy%20zones.pdf
 ; Report issues at https://github.com/jpgpi250/piholemanual/issues
@@ -35,12 +35,19 @@ adblock.lv1.dns.nixnet.xyz CNAME .
 adblock.mydns.network CNAME .
 adblock.ny1.dns.nixnet.xyz CNAME .
 adfree.usableprivacy.net CNAME .
+adguard.aa4.co.uk CNAME .
+adguard.cloudmini.net CNAME .
 adguard.dekonix.ru CNAME .
+adguard-dns.turker.info CNAME .
 adguard.ender.fr CNAME .
 adguard.haneulo.com CNAME .
+adguard-ironhide.ultima-thule.ru CNAME .
 adguard.jfchenier.ca CNAME .
+adguard-kartoffel.zernico.de CNAME .
 adguard.nielsvoorn.nl CNAME .
 adguard.onlyfriends.info CNAME .
+adguard-server.cf CNAME .
+adguard.wirimij.nl CNAME .
 adguard.zachitect.com CNAME .
 ads-doh.securedns.eu CNAME .
 adult-filter-dns.cleanbrowsing.org CNAME .
@@ -243,6 +250,7 @@ dns.infosec.xyz CNAME .
 dns.ipoac.nl CNAME .
 dns.ipv6dns.com CNAME .
 dns.islandnet.com CNAME .
+dns.justinnetworkingsolutions.com CNAME .
 dns.k3nny.fr CNAME .
 dns.kamilszczepanski.com CNAME .
 dns.kawa.tf CNAME .
@@ -312,6 +320,7 @@ dns.syaifullah.com CNAME .
 dns.t53.de CNAME .
 dns.telekom.de CNAME .
 dns.tesem.dog CNAME .
+dns.theres.one CNAME .
 dns.therifleman.name CNAME .
 dns-tls.bitwiseshift.net CNAME .
 dns.tls-data.de CNAME .
