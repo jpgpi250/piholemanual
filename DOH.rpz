@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2212160442 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2212160931 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2022-12-16 04:42:50 (UTC)
+; Last updated: 2022-12-16 09:31:10 (UTC)
 ;
 ; See https://jpgpi250.github.io/piholemanual/doc/Unbound%20response%20policy%20zones.pdf
 ; Report issues at https://github.com/jpgpi250/piholemanual/issues
@@ -126,6 +126,7 @@ au01.dns4me.net CNAME .
 au02.dns4me.net CNAME .
 au-syd.doh.sb CNAME .
 au.teradns.org CNAME .
+auto-cn-hk-8000.go-behind.one CNAME .
 autodiscover.promsdns.com CNAME .
 awan.ftp.sh CNAME .
 aws.razor1911.xyz CNAME .
@@ -176,6 +177,7 @@ cloudseriousshit.com CNAME .
 cloud.tezoi.com CNAME .
 cluster-0.gac.edu CNAME .
 cluster-1.gac.edu CNAME .
+cname-for-doh.go-behind.one CNAME .
 colesdns.com CNAME .
 commons.host CNAME .
 crd.circl.lu CNAME .
@@ -771,7 +773,6 @@ httpdns-push.heytapmobile.com CNAME .
 hydra.plan9-ns1.com CNAME .
 hydroxlab.ru.com CNAME .
 hz1.h.indust.me CNAME .
-i CNAME .
 i.233py.com CNAME .
 i.233py.com.a.bdydns.com CNAME .
 ibksturm.synology.me CNAME .
