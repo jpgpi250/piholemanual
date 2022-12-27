@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2212260458 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2212270523 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2022-12-26 04:58:56 (UTC)
+; Last updated: 2022-12-27 05:23:04 (UTC)
 ;
 ; See https://jpgpi250.github.io/piholemanual/doc/Unbound%20response%20policy%20zones.pdf
 ; Report issues at https://github.com/jpgpi250/piholemanual/issues
@@ -750,6 +750,7 @@ doh.afna.link CNAME .
 doh.applied-privacy.net CNAME .
 doh.appliedprivacy.net CNAME .
 doh.armadillodns.net CNAME .
+doh.asia.dnswarden.com CNAME .
 doh.au.ahadns.net CNAME .
 doh.beauty CNAME .
 doh.blahdns.com CNAME .
@@ -1035,7 +1036,6 @@ in-blr.doh.sb CNAME .
 incaseineeditoneday.com CNAME .
 in-dns.sanselva.xyz CNAME .
 ines.zfn.uni-bremen.de CNAME .
-integration.dnsteam.globuscs.info CNAME .
 internal.fcpsunleashed.org CNAME .
 intertop.link CNAME .
 i.passcloud.xyz CNAME .
@@ -1123,7 +1123,6 @@ masters-of-cloud.de CNAME .
 matthias-prost.com CNAME .
 max.rethinkdns.com CNAME .
 mia.eyecay.xyz CNAME .
-midori.harrache.info CNAME .
 mikewaddick.com CNAME .
 mimile.despagne.net CNAME .
 mimile.despagne.ovh CNAME .
@@ -1215,6 +1214,7 @@ p0.freedns.controld.com CNAME .
 p1.freedns.controld.com CNAME .
 p2.freedns.controld.com CNAME .
 p3.freedns.controld.com CNAME .
+pair02-02.ihatemy.live CNAME .
 palazzoddns.tk CNAME .
 pates.services.sfr.fr.casepp.sfr.fr CNAME .
 pcgo.fun CNAME .
@@ -1278,6 +1278,7 @@ resolver2-fs.opendns.com CNAME .
 resolver2.ipv6-sandbox.opendns.com CNAME .
 resolver2.opendns.com CNAME .
 resolver3.absolight.net CNAME .
+resolver4.dns.openinternet.io CNAME .
 resolver.as203038.net CNAME .
 resolver.cloudflare-eth.com CNAME .
 resolver-eu.lelux.fi CNAME .
@@ -1322,6 +1323,7 @@ sexybody.myqnapcloud.com CNAME .
 sg01.dns4me.net CNAME .
 sg2.ooroot.com CNAME .
 sg2.tt502.eu.org CNAME .
+sg.adhole.org CNAME .
 sg-dns1.bancuh.com CNAME .
 sg-dns2.bancuh.com CNAME .
 sgpcloud.duckdns.org CNAME .
@@ -1393,6 +1395,7 @@ ua-kyv-w-1.nashkan.net CNAME .
 ublock-dns-resolver-02.northeurope.cloudapp.azure.com CNAME .
 ueni.dyndns.org CNAME .
 uk01.dns4me.net CNAME .
+uk.adhole.org CNAME .
 uk-lon.doh.sb CNAME .
 uk.teradns.org CNAME .
 unasw.eu CNAME .
@@ -1417,6 +1420,7 @@ usdedi.ecapsul.com CNAME .
 us-den-w-1.nashkan.net CNAME .
 us-den-w-2.nashkan.net CNAME .
 us.doh.cloudveil.org CNAME .
+us-east.adhole.org CNAME .
 us.novali.date CNAME .
 us-ny-alula.heliumcloud.cc CNAME .
 usser.52huameng.com CNAME .
@@ -1484,6 +1488,7 @@ www.yario.ru CNAME .
 wyx.cloud CNAME .
 xn--80aecoigf4aatn.xn--p1ai CNAME .
 x.ns1net.com CNAME .
+xorbiadns.com CNAME .
 x-o-x.duckdns.org CNAME .
 xray.krnl.eu CNAME .
 xthwo.duckdns.org CNAME .
