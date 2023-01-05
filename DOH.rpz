@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2301040417 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2301050412 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2023-01-04 04:17:13 (UTC)
+; Last updated: 2023-01-05 04:12:17 (UTC)
 ;
 ; See https://jpgpi250.github.io/piholemanual/doc/Unbound%20response%20policy%20zones.pdf
 ; Report issues at https://github.com/jpgpi250/piholemanual/issues
@@ -67,6 +67,7 @@ adg.dankatapich.eu.org CNAME .
 adg.eswan.club CNAME .
 adg.geili.me CNAME .
 adgh.skyview.click CNAME .
+adg.jnorton.us CNAME .
 adg.nods.in CNAME .
 adg.ssy123.xyz CNAME .
 adguard01.wydler.eu CNAME .
@@ -130,6 +131,7 @@ adguard.mokocup.cf CNAME .
 adguard.mulu.at CNAME .
 adguard.myddns.me CNAME .
 adguard.nielsvoorn.nl CNAME .
+adguard.niko-sem.com CNAME .
 adguard.nn7.pw CNAME .
 adguard.nocnik.org CNAME .
 adguard.notggle.tk CNAME .
@@ -263,7 +265,6 @@ blackhole.gugainfo.com.br CNAME .
 blackhole.myon.lu CNAME .
 bld.sys-adm.in CNAME .
 blitz.ahadns.com CNAME .
-blitz-setup.ahadns.com CNAME .
 block.abstergo.it CNAME .
 blockads.cf CNAME .
 block.buck.ovh CNAME .
@@ -392,6 +393,7 @@ dns13.quad9.net CNAME .
 dns140.zhhz.cc CNAME .
 dns168.zhhz.cc CNAME .
 dns.1833015459.site CNAME .
+dns1.a-desg.cc CNAME .
 dns1.adrianion.eu CNAME .
 dns1.digitale-gesellschaft.ch CNAME .
 dns1.dnscrypt.ca CNAME .
@@ -418,6 +420,7 @@ dns.233py.com.cdn.cloudflare.net CNAME .
 dns2.adblocker.eu.org CNAME .
 dns2.afastserver.com CNAME .
 dns2.alekberg.net CNAME .
+dns2.cbio.top CNAME .
 dns2.developer.li CNAME .
 dns2.digitale-gesellschaft.ch CNAME .
 dns2.dnscrypt.ca CNAME .
@@ -494,6 +497,7 @@ dns.beta.gandi.net CNAME .
 dns.betelgeuse.link CNAME .
 dns.bitdefender.net CNAME .
 dns.bitgeek.in CNAME .
+dnsblock.solvarea.nl CNAME .
 dns.blokada.org CNAME .
 dns.bluemeda.cf CNAME .
 dns.bluestarnc.com CNAME .
@@ -505,6 +509,7 @@ dns.brightesttv.com CNAME .
 dns.bw.i81.ru CNAME .
 dnscache.e-utp.net CNAME .
 dnscache.eutp.net CNAME .
+dns.cachitopetshop.com CNAME .
 dns.carson-family.com CNAME .
 dns.ceai.com.tw CNAME .
 dns.cearhome.top CNAME .
@@ -1012,6 +1017,7 @@ doh.wewitro.net CNAME .
 doh.xcom.pro CNAME .
 doh.xfinity.com CNAME .
 doh.zephyrus.id CNAME .
+dop.privatedns.org CNAME .
 do.shimul.me CNAME .
 dot1.applied-privacy.net CNAME .
 dot.360.cn CNAME .
@@ -1318,6 +1324,7 @@ maddino.dedyn.io CNAME .
 mail.andrewnw.xyz CNAME .
 mail.data.haus CNAME .
 mail.elshad-adgh-dns.ru CNAME .
+mailer.amlegion.org CNAME .
 mail.promsdns.com CNAME .
 maku-tech.com CNAME .
 manage.fcpsunleashed.org CNAME .
@@ -1452,10 +1459,12 @@ p3.freedns.controld.com CNAME .
 pair02-02.ihatemy.live CNAME .
 palazzoddns.tk CNAME .
 paskam.tk CNAME .
+pass12335.myds.me CNAME .
 pates.services.sfr.fr.casepp.sfr.fr CNAME .
 pcgo.fun CNAME .
 pcornet.freeboxos.fr CNAME .
 pdns.faelix.net CNAME .
+p.dns.sh-box.ru CNAME .
 penimofe.in CNAME .
 per.adfilter.net CNAME .
 percival.empty.pw CNAME .
@@ -1578,6 +1587,7 @@ sergeykobzar.com.ua CNAME .
 serv1.magnon-box.tk CNAME .
 server01.karl.one CNAME .
 server1.greendns.green1052.com CNAME .
+server3.boldteam.ir CNAME .
 server-beget.ru CNAME .
 se-sto-w-1.nashkan.net CNAME .
 sexybody.myqnapcloud.com CNAME .
@@ -1643,6 +1653,7 @@ tezoi.duckdns.org CNAME .
 tg.pp.ru CNAME .
 thanh933.cf CNAME .
 thanos.pleumkungz.com CNAME .
+thecremeens.com CNAME .
 thefuturegg.xyz CNAME .
 the.nafni.one CNAME .
 thisismydns.cyou CNAME .
