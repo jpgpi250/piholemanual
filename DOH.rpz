@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2301050412 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2301060404 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2023-01-05 04:12:17 (UTC)
+; Last updated: 2023-01-06 04:04:25 (UTC)
 ;
 ; See https://jpgpi250.github.io/piholemanual/doc/Unbound%20response%20policy%20zones.pdf
 ; Report issues at https://github.com/jpgpi250/piholemanual/issues
@@ -121,6 +121,7 @@ adguard.k0rap.com CNAME .
 adguard-kartoffel.zernico.de CNAME .
 adguard.kaytek.org CNAME .
 adguard.kinnee.net CNAME .
+adguard.kngnet.de CNAME .
 adguard.koshonsa.fr CNAME .
 adguard.laurenlaufman.com CNAME .
 adguard.lege.despagne.net CNAME .
@@ -265,6 +266,7 @@ blackhole.gugainfo.com.br CNAME .
 blackhole.myon.lu CNAME .
 bld.sys-adm.in CNAME .
 blitz.ahadns.com CNAME .
+blitz-setup.ahadns.com CNAME .
 block.abstergo.it CNAME .
 blockads.cf CNAME .
 block.buck.ovh CNAME .
@@ -488,6 +490,7 @@ dns.azsopro.net CNAME .
 dns.b33.network CNAME .
 dns.b33.space CNAME .
 dns.b612.me CNAME .
+dns.baabab.com CNAME .
 dns.bayas.dev CNAME .
 dns.bebasid.com CNAME .
 dns.belnet.be CNAME .
@@ -613,6 +616,7 @@ dns.ghost.pm CNAME .
 dns.gi.co.id CNAME .
 dns.ginovs.nl CNAME .
 dns.gnb09.id CNAME .
+dns.gnetworks.xyz CNAME .
 dns.google CNAME .
 dns.google.com CNAME .
 dns.grqu.de CNAME .
@@ -664,6 +668,7 @@ dns.kamilszczepanski.com CNAME .
 dns.karl.one CNAME .
 dns.kashall.dev CNAME .
 dns.kawa.tf CNAME .
+dns.kawpad.tk CNAME .
 dns.kernel-error.de CNAME .
 dns.kescher.at CNAME .
 dns.keweon.center CNAME .
@@ -875,6 +880,7 @@ dns.zfsystem.tech CNAME .
 dns.zkz.cloud CNAME .
 dnx.niko-sem.com CNAME .
 do.dnscrypt.uk CNAME .
+doh003.280blocker.net CNAME .
 doh-01.spectrum.com CNAME .
 doh-02.spectrum.com CNAME .
 doh1.b-cdn.net CNAME .
@@ -896,6 +902,7 @@ doh.afna.link CNAME .
 doh.applied-privacy.net CNAME .
 doh.appliedprivacy.net CNAME .
 doh.armadillodns.net CNAME .
+doh.asia.dnswarden.com CNAME .
 doh.au.ahadns.net CNAME .
 doh.beauty CNAME .
 doh.blahdns.com CNAME .
@@ -1088,6 +1095,7 @@ elc.meudns.minhacasainteligente.cf CNAME .
 elshad-adgh-dns.ru CNAME .
 emmmmm.me CNAME .
 encremento.com CNAME .
+ermisguard.westeurope.cloudapp.azure.com CNAME .
 eropa.dnscepat.id CNAME .
 esel.stusta.mhn.de CNAME .
 ethernet.mxx.giize.com CNAME .
@@ -1441,6 +1449,7 @@ open-resolver1.unima.ac.id CNAME .
 opera.cloudflare-dns.com CNAME .
 ora1.nocnik.org CNAME .
 oracle6.losfa.xyz CNAME .
+oracle.cepheus0.com CNAME .
 oraclejp2.chungyu.com CNAME .
 orau.lz0724.com CNAME .
 ordns.he.net CNAME .
@@ -1642,6 +1651,7 @@ surfbelow.com CNAME .
 surt.ml CNAME .
 t2c.240130034.xyz CNAME .
 t3c.240130034.xyz CNAME .
+tabris-nas.synology.me CNAME .
 tbl.meudns.minhacasainteligente.cf CNAME .
 td-doh.dns.t53.de CNAME .
 telex.app CNAME .
