@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2301130445 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2301140426 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2023-01-13 04:45:37 (UTC)
+; Last updated: 2023-01-14 04:26:24 (UTC)
 ;
 ; See https://jpgpi250.github.io/piholemanual/doc/Unbound%20response%20policy%20zones.pdf
 ; Report issues at https://github.com/jpgpi250/piholemanual/issues
@@ -76,6 +76,7 @@ adg.geili.me CNAME .
 adgh.skyview.click CNAME .
 adg.jnorton.us CNAME .
 adg.nods.in CNAME .
+adg.qenisis.com CNAME .
 adg.ssy123.xyz CNAME .
 adguard01.wydler.eu CNAME .
 adguard01.zitronen-server.de CNAME .
@@ -118,6 +119,7 @@ adguard.ef67daisuki.club CNAME .
 adguard.ender.fr CNAME .
 adguard.firestrike-services.de CNAME .
 adguard.forst.one CNAME .
+adguard.frece.de CNAME .
 adguard.haneulo.com CNAME .
 adguardh.ga CNAME .
 adguardhome.atakorah.com CNAME .
@@ -224,6 +226,7 @@ akhil.ddns.net CNAME .
 alisa.dns.amigo-mgn.ru CNAME .
 alisa.fb.i81.ru CNAME .
 alpha-dns.de CNAME .
+amd1.sjp.loukky.com CNAME .
 amd2.nzcow.com CNAME .
 an81.ddns.net CNAME .
 an81dns.ru CNAME .
@@ -243,6 +246,7 @@ apne1.dns.terumi.club CNAME .
 arashi.eu.org CNAME .
 arches-srv1.8ws.net CNAME .
 arches-srv2.8ws.net CNAME .
+ard.net.sys.of.icu CNAME .
 arespctw.tk CNAME .
 argon.molinero.dev CNAME .
 armorrush.eu.org CNAME .
@@ -289,6 +293,7 @@ bdns.one CNAME .
 berd.moe CNAME .
 b.family.ns.dnslify.com CNAME .
 bigart-dns.tk CNAME .
+bilidon.dnsuser.info CNAME .
 blackhole.aflr.io CNAME .
 blackhole.capypara.de CNAME .
 blackhole.gugainfo.com.br CNAME .
@@ -515,6 +520,7 @@ dns.alidns.com CNAME .
 dns.alloxr.info CNAME .
 dns.almir1904.eu CNAME .
 dns.altairzone.it CNAME .
+dns.aman.ltd CNAME .
 dns.amigo-mgn.ru CNAME .
 dns.andrewnw.xyz CNAME .
 dns.andreykiv.com CNAME .
@@ -624,6 +630,7 @@ dns.dyn1.de CNAME .
 dns.east.comss.one CNAME .
 dns-east.tylerwahl.com CNAME .
 dns.eddi.net CNAME .
+dns.edgeworkssystems.ca CNAME .
 dns.edgy.network CNAME .
 dns.eknetwork.eu CNAME .
 dns.elemental.software CNAME .
@@ -1365,6 +1372,7 @@ jp-kix.doh.sb CNAME .
 jp-nrt.doh.sb CNAME .
 jp.tiarap.org CNAME .
 jp.tiar.app CNAME .
+jp-tyo-w-1.nashkan.net CNAME .
 jupiter1013.tk CNAME .
 jurre-home.duckdns.org CNAME .
 justlife.fun CNAME .
@@ -1438,6 +1446,7 @@ mail.data.haus CNAME .
 mail.elshad-adgh-dns.ru CNAME .
 mailer.amlegion.org CNAME .
 mail.promsdns.com CNAME .
+mainframe.dewed.de CNAME .
 maku-tech.com CNAME .
 manage.fcpsunleashed.org CNAME .
 marcrnt.ddnss.de CNAME .
@@ -1582,7 +1591,6 @@ p0.freedns.controld.com CNAME .
 p1.freedns.controld.com CNAME .
 p2.freedns.controld.com CNAME .
 p3.freedns.controld.com CNAME .
-pair02-02.ihatemy.live CNAME .
 palazzoddns.tk CNAME .
 paskam.tk CNAME .
 pass12335.myds.me CNAME .
@@ -1748,7 +1756,6 @@ sg-w-5.nashkan.net CNAME .
 sg.yepdns.com CNAME .
 shadowhouses-dns.xyz CNAME .
 shalenkov.dev CNAME .
-shard.ender.fr CNAME .
 shield.afixer.app CNAME .
 sh.totoro.pub CNAME .
 s.idsam.com CNAME .
