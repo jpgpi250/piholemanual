@@ -1,5 +1,10 @@
 #!/bin/bash
 
+# fastcgi-php is no longer part of pi-hole since v5.15
+if ! ls -l /etc/lighttpd/conf-enabled/ | grep -q "fastcgi-php"; then
+	sudo lighttpd-enable-mod fastcgi-php
+fi
+
 file=phpLiteAdmin_v1-9-8-2.zip
 mkdir -p phpLiteAdmin
 cd phpLiteAdmin
@@ -27,5 +32,7 @@ sudo sed -i 's$https://cdn.rawgit.com/codemirror/CodeMirror/c4387d6073b15ccf0f32
 sudo sed -i 's$https://cdn.rawgit.com/codemirror/CodeMirror/65c70cf5d18ac3a0c1a3fe717d90a81ff823aa9f/addon/hint/$http://pi.hole/$g' /var/www/html/$file
 
 sudo apt-get -y install php-mbstring
-sudo service lighttpd stop
-sudo service lighttpd start
+# check configuration, this should echo Syntax OK
+lighttpd -t -f /etc/lighttpd/lighttpd.conf
+# restart lighttpd
+sudo service lighttpd force-reload
