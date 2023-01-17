@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2301160427 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2301170402 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2023-01-16 04:27:32 (UTC)
+; Last updated: 2023-01-17 04:02:26 (UTC)
 ;
 ; See https://jpgpi250.github.io/piholemanual/doc/Unbound%20response%20policy%20zones.pdf
 ; Report issues at https://github.com/jpgpi250/piholemanual/issues
@@ -375,6 +375,7 @@ colesdns.com CNAME .
 commons.host CNAME .
 connect.fcpsunleashed.org CNAME .
 cossxiu.ga CNAME .
+cqd.duckdns.org CNAME .
 crazyfamily.online CNAME .
 crd.circl.lu CNAME .
 creal.sytes.net CNAME .
@@ -566,6 +567,7 @@ dns.benpro.fr CNAME .
 dns.besoon.ml CNAME .
 dns.beta.gandi.net CNAME .
 dns.betelgeuse.link CNAME .
+dns.bin.st CNAME .
 dns.bitdefender.net CNAME .
 dns.bitgeek.in CNAME .
 dnsblock.solvarea.nl CNAME .
@@ -895,6 +897,7 @@ dns.spok.fun CNAME .
 dns.startupstack.tech CNAME .
 dns.stevenz.net CNAME .
 dns.struchkov.dev CNAME .
+dns.stud.cloud CNAME .
 dns.stvsk.ml CNAME .
 dns.supercluster.io CNAME .
 dns.surenic.net CNAME .
@@ -1290,6 +1293,7 @@ google-public-dns-a.google.com CNAME .
 google-public-dns-b.google.com CNAME .
 gpchubjk.dnsfish.com CNAME .
 green2.jnraptor.net CNAME .
+greppie.nl CNAME .
 groupy.su CNAME .
 gruppo.pp.ua CNAME .
 guardians.jenspoelitz.de CNAME .
@@ -1409,6 +1413,7 @@ keithchunguat.hopto.org CNAME .
 kendentil.org.uk CNAME .
 kennethhuang.com CNAME .
 kerio.dns.amigo-mgn.ru CNAME .
+keymiagar.ir CNAME .
 khsan.com CNAME .
 kids.5ososea.com CNAME .
 kids.eyecay.xyz CNAME .
@@ -1436,6 +1441,7 @@ kudns.kescher.at CNAME .
 kufei.ml CNAME .
 lab-1.sellan.fr CNAME .
 lab.sellan.fr CNAME .
+laptop001.greppie.nl CNAME .
 lastentarvike.fi CNAME .
 ldrk-dns.link CNAME .
 leecurrylawfirm.com CNAME .
@@ -1464,10 +1470,12 @@ lv1.nixnet.xyz CNAME .
 lv-rig-w-1.nashkan.net CNAME .
 maddino.dedyn.io CNAME .
 magicalvps.ml CNAME .
+maikel.greppie.nl CNAME .
 mail.andrewnw.xyz CNAME .
 mail.data.haus CNAME .
 mail.elshad-adgh-dns.ru CNAME .
 mailer.amlegion.org CNAME .
+mail.pragmasec.nl CNAME .
 mail.promsdns.com CNAME .
 mainframe.dewed.de CNAME .
 maku-tech.com CNAME .
@@ -1513,6 +1521,7 @@ n.3363.net CNAME .
 n5.lsasss.com CNAME .
 nafni.one CNAME .
 name.my-station.ru CNAME .
+nas1403.duckdns.org CNAME .
 nas302.ddns.net CNAME .
 nas.delage.li CNAME .
 nat64.tuxis.nl CNAME .
@@ -1762,6 +1771,7 @@ server01.karl.one CNAME .
 server1.greendns.green1052.com CNAME .
 server3.boldteam.ir CNAME .
 server-beget.ru CNAME .
+server.pragmasec.nl CNAME .
 services.akierry.io CNAME .
 se-sto-w-1.nashkan.net CNAME .
 sexybody.myqnapcloud.com CNAME .
@@ -1910,6 +1920,7 @@ us-la-w-5.nashkan.net CNAME .
 us.novali.date CNAME .
 us-ny-alula.heliumcloud.cc CNAME .
 us-nyc-w-3.nashkan.net CNAME .
+us-sea-w-5.nashkan.net CNAME .
 us-sea-w-6.nashkan.net CNAME .
 usser.52huameng.com CNAME .
 us.wisw.tk CNAME .
@@ -1959,11 +1970,13 @@ wanam.ddns.net CNAME .
 wantaquddin.com CNAME .
 wccw.cc CNAME .
 wdns.233py.com CNAME .
+webmeel.pragmasec.nl CNAME .
 webredir.vip.gandi.net CNAME .
 whatcaniplay.com CNAME .
 whax.eu.org CNAME .
 wifi.dns.amigo-mgn.ru CNAME .
 wir.rbs-net.ru CNAME .
+www.040910.top CNAME .
 www.acomit.lk CNAME .
 www.adguard.chriskutschker.de CNAME .
 www.agafon.site CNAME .
@@ -1977,6 +1990,7 @@ www.chriskutschker.de CNAME .
 www.dnsadguard.co.uk CNAME .
 www.dns.d96.info CNAME .
 www.dns.simulhost.com CNAME .
+www.dns.stud.cloud CNAME .
 www.dupatruwi22.fun CNAME .
 www.dycn.vip CNAME .
 www.eaereaper.ru CNAME .
@@ -1984,6 +1998,7 @@ www.elshad-adgh-dns.ru CNAME .
 www.eweyo.ru CNAME .
 www.ga3inur.ru CNAME .
 www.ggrbb.xyz CNAME .
+www.greppie.nl CNAME .
 www.incaseineeditoneday.com CNAME .
 www.interestingly.eu.org CNAME .
 www.ivanromanov.ru CNAME .
@@ -2013,6 +2028,7 @@ www.yzh97rc.xyz CNAME .
 wyx.cloud CNAME .
 xenergy.cc CNAME .
 xiaolong.link CNAME .
+xm.ln7371.top CNAME .
 xn--80aecoigf4aatn.xn--p1ai CNAME .
 x.ns1net.com CNAME .
 xorbiadns.com CNAME .
