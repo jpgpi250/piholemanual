@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2301170402 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2301180404 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2023-01-17 04:02:26 (UTC)
+; Last updated: 2023-01-18 04:04:02 (UTC)
 ;
 ; See https://jpgpi250.github.io/piholemanual/doc/Unbound%20response%20policy%20zones.pdf
 ; Report issues at https://github.com/jpgpi250/piholemanual/issues
@@ -44,6 +44,7 @@ $TTL 30
 8888.google CNAME .
 94169.ip-ns.net CNAME .
 aalqudah.site CNAME .
+aattwwss.duckdns.org CNAME .
 abel.waringer-atg.de CNAME .
 a-bld.sys-adm.in CNAME .
 acomit.lk CNAME .
@@ -144,6 +145,7 @@ adguard.kngnet.de CNAME .
 adguard.koshonsa.fr CNAME .
 adguard.laurenlaufman.com CNAME .
 adguard.lege.despagne.net CNAME .
+adguard.lspcr.space CNAME .
 adguard.meddy94.de CNAME .
 adguard.mitar.ovh CNAME .
 adguard.mjanson.de CNAME .
@@ -179,12 +181,14 @@ ad.guard.ru.net CNAME .
 adguard.ryanleek.com CNAME .
 adguard.schlikow.de CNAME .
 adguard.searom.ovh CNAME .
+adguard.sekular.pl CNAME .
 adguard-server.cf CNAME .
 adguard.serverhostig.eu CNAME .
 adguard.shuting.idv.tw CNAME .
 adguard.spaceindex.net CNAME .
 adguard.sscw.win CNAME .
 adguard.superbest.eu.org CNAME .
+adguard.techromantica.com CNAME .
 adguard.titan.stream CNAME .
 adguard.titov.es CNAME .
 adguard.vegann.space CNAME .
@@ -235,7 +239,9 @@ an81dns.ru CNAME .
 andresmanuel.duckdns.org CNAME .
 andrewnw.xyz CNAME .
 anggityuls.my.id CNAME .
+anixlab.com CNAME .
 an.kanahanazawa.com CNAME .
+an.loliconapp.top CNAME .
 a.ns.dnslify.com CNAME .
 ant.dns.qwer.pw CNAME .
 antidns.s.tuna.tsinghua.edu.cn CNAME .
@@ -249,6 +255,7 @@ arashi.eu.org CNAME .
 arches-srv1.8ws.net CNAME .
 arches-srv2.8ws.net CNAME .
 ard.net.sys.of.icu CNAME .
+area51.mywire.org CNAME .
 arespctw.tk CNAME .
 argon.molinero.dev CNAME .
 armorrush.eu.org CNAME .
@@ -264,6 +271,7 @@ a.sunday.eu.org CNAME .
 atarikid.com CNAME .
 atelier.alica.idv.tw CNAME .
 atlantic.dyn1.de CNAME .
+atomicvps.xyz CNAME .
 at.pzhg.me CNAME .
 au01.dns4me.net CNAME .
 au02.dns4me.net CNAME .
@@ -289,6 +297,7 @@ bacer.msk.ru CNAME .
 banhbaothiu.site CNAME .
 basic.bravedns.com CNAME .
 basic.rethinkdns.com CNAME .
+batshitcrazy.ddns.net CNAME .
 bb.jason666.top CNAME .
 bcandrade.ml CNAME .
 bcsmts.com CNAME .
@@ -683,6 +692,7 @@ dns.frankslabs.org CNAME .
 dns.freequensi.com CNAME .
 dnsfr.markovskilab.com CNAME .
 dns.froth.zone CNAME .
+d-n-s.fun CNAME .
 dns.futuredns.me CNAME .
 dns.gando.fr CNAME .
 dns-gcp.aaflalo.me CNAME .
@@ -712,6 +722,7 @@ dns.hee.ink CNAME .
 dns.herkhof.nl CNAME .
 dns.hinet.net CNAME .
 dns.hjh2007.top CNAME .
+dnshk.eve.surf CNAME .
 dns.hopper.org.uk CNAME .
 dns.hostux.net CNAME .
 dns.hotta.page CNAME .
@@ -964,6 +975,7 @@ dns.wevpn.com CNAME .
 dns.whatcaniplay.com CNAME .
 dns.williamlwu.com CNAME .
 dns.wkwkwk.fun CNAME .
+dns.wns.watch CNAME .
 dns.wugui.zone CNAME .
 dns.x11.pw CNAME .
 dns.xinwujiang.cn CNAME .
@@ -1303,6 +1315,7 @@ gu-dns.gugugu.cyou CNAME .
 gunag.duckdns.org CNAME .
 gusald.com CNAME .
 gusdns.ddns.me CNAME .
+gustamadh.dynv6.net CNAME .
 gztech.me CNAME .
 hahnjo.de CNAME .
 halfon.online CNAME .
@@ -1757,6 +1770,7 @@ sdvizhkov.ru CNAME .
 secureadguarddns.charleslondon.online CNAME .
 secure-dns.dns-ga.de CNAME .
 securedns.vendorvista.xyz CNAME .
+securenet.mhsystems.net CNAME .
 secure.onedns.cc CNAME .
 secure.yatesfamily.cloud CNAME .
 security.cloudflare-dns.com CNAME .
@@ -1830,6 +1844,7 @@ surfbelow.com CNAME .
 surt.ml CNAME .
 syd1.norgannetworks.net.au CNAME .
 syd.adfilter.net CNAME .
+syd-docker.lspcr.space CNAME .
 t2c.240130034.xyz CNAME .
 t3c.240130034.xyz CNAME .
 tabris-nas.synology.me CNAME .
@@ -1959,6 +1974,7 @@ vps1.jnraptor.net CNAME .
 vps.abgnetwork.es CNAME .
 vps.alloxr.info CNAME .
 vps.avc.cx CNAME .
+vpservice.cf CNAME .
 vps.grussenmeyer.com CNAME .
 vpsus3.pzhg.me CNAME .
 vps.vokuev.org CNAME .
@@ -1983,6 +1999,7 @@ www.agafon.site CNAME .
 www.agafon.space CNAME .
 www.alpha-dns.de CNAME .
 www.andrewnw.xyz CNAME .
+www.atomicvps.xyz CNAME .
 www.az2q.xyz CNAME .
 www.c-dns.com CNAME .
 www.chlaebi.info CNAME .
