@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2301210413 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2301220406 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2023-01-21 04:13:52 (UTC)
+; Last updated: 2023-01-22 04:06:05 (UTC)
 ;
 ; See https://jpgpi250.github.io/piholemanual/doc/Unbound%20response%20policy%20zones.pdf
 ; Report issues at https://github.com/jpgpi250/piholemanual/issues
@@ -39,6 +39,7 @@ $TTL 30
 3krkr.tonedtanya.com CNAME .
 4dscape.net CNAME .
 53.slepov.dev CNAME .
+6692.giize.com CNAME .
 71c4dec2.d.adguard-dns.com CNAME .
 8888.google CNAME .
 94169.ip-ns.net CNAME .
@@ -147,6 +148,7 @@ adguard.kaytek.org CNAME .
 adguard.kenzohost.de CNAME .
 adguard.kinnee.net CNAME .
 adguard.kngnet.de CNAME .
+adguard.korks.tk CNAME .
 adguard.koshonsa.fr CNAME .
 adguard.laurenlaufman.com CNAME .
 adguard.lege.despagne.net CNAME .
@@ -185,6 +187,7 @@ adguard.romantrojer.ch CNAME .
 adguard.rowdyengeesje.nl CNAME .
 ad.guard.ru.net CNAME .
 adguard.ryanleek.com CNAME .
+adguard.samuelthomasfamily.net CNAME .
 adguard.schlikow.de CNAME .
 adguard.searom.ovh CNAME .
 adguard.sekular.pl CNAME .
@@ -1295,6 +1298,7 @@ ftgfw.tk CNAME .
 fuchur.pentament.de CNAME .
 fullaccesstointernet.int.eu.org CNAME .
 funti.cc CNAME .
+funwithtape.com CNAME .
 fvpn.jarvishome.ru CNAME .
 fwgw.orangepipc.mywire.org CNAME .
 ga3inur.ru CNAME .
@@ -1344,6 +1348,7 @@ guard.magic-pics.tk CNAME .
 guard.sntrk.ru CNAME .
 gu-dns.gugugu.cyou CNAME .
 gunag.duckdns.org CNAME .
+guoyingwei.top CNAME .
 gusald.com CNAME .
 gusdns.ddns.me CNAME .
 gustamadh.dynv6.net CNAME .
@@ -1355,6 +1360,7 @@ heimdall.ff0x.ca CNAME .
 helios.plan9-dns.com CNAME .
 helios.plan9dns.com CNAME .
 hellwishdnsservers.work CNAME .
+hewittnet.us CNAME .
 hgns.harriganhome.ga CNAME .
 himedns.com CNAME .
 hitian.me CNAME .
@@ -1454,6 +1460,7 @@ jp-tyo-w-1.nashkan.net CNAME .
 jupiter1013.tk CNAME .
 jurre-home.duckdns.org CNAME .
 justlife.fun CNAME .
+k0rtus-gg.ru CNAME .
 kaans.io CNAME .
 kaitain.restena.lu CNAME .
 karimdns.com CNAME .
@@ -1470,6 +1477,7 @@ kids.5ososea.com CNAME .
 kids.eyecay.xyz CNAME .
 killads.vpms.xyz CNAME .
 kintyre.uk CNAME .
+kirmanak.gq CNAME .
 kiwifunke.duckdns.org CNAME .
 knight1.de CNAME .
 kolobok2.duckdns.orga CNAME .
@@ -1492,6 +1500,7 @@ kudns.kescher.at CNAME .
 kufei.ml CNAME .
 lab-1.sellan.fr CNAME .
 lab.sellan.fr CNAME .
+lapanovi.ch CNAME .
 laptop001.greppie.nl CNAME .
 lastentarvike.fi CNAME .
 ldrk-dns.link CNAME .
@@ -1637,6 +1646,7 @@ ns.dnsviewer.org CNAME .
 nsec.arnor.org CNAME .
 ns.ral9005.org CNAME .
 ntu.ssooss.win CNAME .
+n-wan.dynv6.net CNAME .
 nxa.21.ax CNAME .
 nxtcld.chriskutschker.de CNAME .
 ny1.nixnet.xyz CNAME .
@@ -1681,6 +1691,7 @@ p0.freedns.controld.com CNAME .
 p1.freedns.controld.com CNAME .
 p2.freedns.controld.com CNAME .
 p3.freedns.controld.com CNAME .
+pair02-02.ihatemy.live CNAME .
 palazzoddns.tk CNAME .
 paskam.tk CNAME .
 pass12335.myds.me CNAME .
@@ -2069,6 +2080,7 @@ www.eweyo.ru CNAME .
 www.ga3inur.ru CNAME .
 www.ggrbb.xyz CNAME .
 www.greppie.nl CNAME .
+www.guoyingwei.top CNAME .
 www.incaseineeditoneday.com CNAME .
 www.interestingly.eu.org CNAME .
 www.ivanromanov.ru CNAME .
