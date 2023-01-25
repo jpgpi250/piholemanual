@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2301240411 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2301250416 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2023-01-24 04:11:31 (UTC)
+; Last updated: 2023-01-25 04:16:16 (UTC)
 ;
 ; See https://jpgpi250.github.io/piholemanual/doc/Unbound%20response%20policy%20zones.pdf
 ; Report issues at https://github.com/jpgpi250/piholemanual/issues
@@ -197,6 +197,7 @@ adguard.searom.ovh CNAME .
 adguard.sekular.pl CNAME .
 adguard-server.cf CNAME .
 adguard.serverhostig.eu CNAME .
+adguard.shoupperuser.com CNAME .
 adguard.shutgaming.net CNAME .
 adguard.shuting.idv.tw CNAME .
 adguard.spaceindex.net CNAME .
@@ -333,7 +334,6 @@ blackhole.gugainfo.com.br CNAME .
 blackhole.myon.lu CNAME .
 bld.sys-adm.in CNAME .
 blitz.ahadns.com CNAME .
-blitz-setup.ahadns.com CNAME .
 block.abstergo.it CNAME .
 blockads.cf CNAME .
 block.buck.ovh CNAME .
@@ -454,6 +454,7 @@ deic-lgb.anycast.uncensoreddns.org CNAME .
 deic-ore.anycast.censurfridns.dk CNAME .
 deic-ore.anycast.uncensoreddns.org CNAME .
 de-nue-w-1.nashkan.net CNAME .
+de-nue-w-2.nashkan.net CNAME .
 de-passage.9273082020.ru CNAME .
 de.proshvip.space CNAME .
 derekcastle.duckdns.org CNAME .
@@ -506,6 +507,7 @@ dns1.quickline.ch CNAME .
 dns1.ryan-palmer.com CNAME .
 dns1.ryanpalmer.com CNAME .
 dns1-secure.wifire.it CNAME .
+dns1.slvrsrvr.de CNAME .
 dns1.steering.nextdns.io CNAME .
 dns1.tardishost.ru CNAME .
 dns1.taterdns.nl CNAME .
@@ -525,6 +527,7 @@ dns2.gms.net.id CNAME .
 dns2.h0schi.cloud CNAME .
 dns2.hakim.one CNAME .
 dns2.ipv6.dnscrypt.ca CNAME .
+dns2.klcd.eu CNAME .
 dns2.lfac.ml CNAME .
 dns2.n3120.wang CNAME .
 dns2.nextdns.io CNAME .
@@ -743,6 +746,7 @@ dnsg.psyk.fr CNAME .
 dns.grqu.de CNAME .
 dns.grusdas.net CNAME .
 dns-guard1.cryptroute.com CNAME .
+dns-guard2.cryptroute.com CNAME .
 dns.h0schi.cloud CNAME .
 dns.ha-dvin.pp.ua CNAME .
 dns.hafidzradhival.my.id CNAME .
@@ -838,6 +842,7 @@ dns.moog.sh CNAME .
 dns.moonssif.com CNAME .
 dns.moulticast.net CNAME .
 dns.mrkaran.dev CNAME .
+dns.msameh.tk CNAME .
 dns.msxnet.ru CNAME .
 dns.mtnh.tk CNAME .
 dns.murgi.de CNAME .
@@ -874,6 +879,7 @@ dns-nyc.aaflalo.me CNAME .
 dns.nzcow.com CNAME .
 dns.oceanprint.com.br CNAME .
 dns.ocedric.net CNAME .
+dnsoci.uplenk.com CNAME .
 dns.octoworld.fr CNAME .
 dns.ofdoom.net CNAME .
 dns.oii.im CNAME .
@@ -954,6 +960,7 @@ dns.spok.fun CNAME .
 dns.startupstack.tech CNAME .
 dns.steinr.eu CNAME .
 dns.stevenz.net CNAME .
+dnss.tlers.cf CNAME .
 dns.strata.gurupannu.com CNAME .
 dns.struchkov.dev CNAME .
 dns.stud.cloud CNAME .
@@ -1326,6 +1333,7 @@ freedom.mydns.network CNAME .
 free.shecan.ir CNAME .
 freeside.wntrmute.net CNAME .
 freezy121.ru CNAME .
+frog.dns.qwer.pw CNAME .
 frontpace.co.uk CNAME .
 frontpace.net CNAME .
 frontpace.us CNAME .
@@ -1501,6 +1509,7 @@ jurre-home.duckdns.org CNAME .
 justlife.fun CNAME .
 k0rtus-gg.ru CNAME .
 kaans.io CNAME .
+kaiser.int.eu.org CNAME .
 kaitain.restena.lu CNAME .
 karimdns.com CNAME .
 kcolspacrm.ir CNAME .
@@ -1686,7 +1695,6 @@ nsc.torgues.net CNAME .
 ns.dnsviewer.org CNAME .
 nsec.arnor.org CNAME .
 ns.ral9005.org CNAME .
-ntu.ssooss.win CNAME .
 n-wan.dynv6.net CNAME .
 nxa.21.ax CNAME .
 nxtcld.chriskutschker.de CNAME .
@@ -1803,9 +1811,9 @@ qlf-doh.inria.fr CNAME .
 query.hdns.io CNAME .
 r1bnc.com CNAME .
 r1bnc.eu.org CNAME .
+rabanete.duckdns.org CNAME .
 rabenhain.net CNAME .
 rachel.jeroenhd.nl CNAME .
-radia.bortzmeyer.org CNAME .
 rassadnikov.ru CNAME .
 ray1.wewa.work CNAME .
 rayneau.fr CNAME .
@@ -1941,6 +1949,7 @@ stalent.ovh CNAME .
 static.captnemo.in CNAME .
 steering.nextdns.io CNAME .
 steff.sbs CNAME .
+storydoh.kinergetica.com CNAME .
 strata.gurupannu.com CNAME .
 stream.securely.sh CNAME .
 streltsov.net CNAME .
