@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2302020435 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2302030427 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2023-02-02 04:35:19 (UTC)
+; Last updated: 2023-02-03 04:27:09 (UTC)
 ;
 ; See https://jpgpi250.github.io/piholemanual/doc/Unbound%20response%20policy%20zones.pdf
 ; Report issues at https://github.com/jpgpi250/piholemanual/issues
@@ -361,6 +361,7 @@ bcandrade.ml CNAME .
 bcsmts.com CNAME .
 bdns.one CNAME .
 beacon.dog CNAME .
+bebracraft.ru CNAME .
 berd.moe CNAME .
 bevrydns.stream CNAME .
 b.family.ns.dnslify.com CNAME .
@@ -561,6 +562,7 @@ dns1.n3120.wang CNAME .
 dns1.nextdns.io CNAME .
 dns1.nick85.eu CNAME .
 dns1.niub.one CNAME .
+dns1.pietjacobs.be CNAME .
 dns1.quickline.ch CNAME .
 dns1.ryan-palmer.com CNAME .
 dns1.ryanpalmer.com CNAME .
@@ -627,6 +629,7 @@ dns9999.duckdns.org CNAME .
 dns9.quad9.net CNAME .
 dns.aaflalo.me CNAME .
 dns.aa.net.uk CNAME .
+dns.aaronplayzgaming.com CNAME .
 dns.aaytorr.com CNAME .
 dns.abdullahabas.online CNAME .
 dns.ac-weather.com CNAME .
@@ -824,6 +827,7 @@ dns.gi.co.id CNAME .
 dns.ginovs.nl CNAME .
 dns.gnb09.id CNAME .
 dns.gnetworks.xyz CNAME .
+dns.goldplate.org CNAME .
 dns.google CNAME .
 dns.google.com CNAME .
 dnsg.psyk.fr CNAME .
@@ -909,7 +913,6 @@ dns.lightmaster.pw CNAME .
 dns.lightmaster.space CNAME .
 dns.linkr.ninja CNAME .
 dns.liumuze.org CNAME .
-dns.l.ovpn.bond CNAME .
 dnslow.me CNAME .
 dns.lrdnet.cf CNAME .
 dns.lsho.top CNAME .
@@ -1466,6 +1469,7 @@ frog.dns.qwer.pw CNAME .
 frontpace.co.uk CNAME .
 frontpace.net CNAME .
 frontpace.us CNAME .
+fr-par-w-1.nashkan.net CNAME .
 fr-sbg-w-4.nashkan.net CNAME .
 ftgfw.tk CNAME .
 fuchur.pentament.de CNAME .
@@ -1607,6 +1611,7 @@ integration.dnsteam.globuscs.info CNAME .
 interestingly.eu.org CNAME .
 internal.fcpsunleashed.org CNAME .
 intertop.link CNAME .
+ion.gurupannu.com CNAME .
 i.passcloud.xyz CNAME .
 ipharaon.ru CNAME .
 ipoac.nl CNAME .
@@ -1837,7 +1842,6 @@ nrt.public.gfwdns.net CNAME .
 ns.00dani.me CNAME .
 ns01.hostrocket.com.ua CNAME .
 ns01.lflemming.space CNAME .
-ns0.l.ovpn.bond CNAME .
 ns1.1899.com.mx CNAME .
 ns1.95997.ip-ns.net CNAME .
 ns1.bit-trails.nl CNAME .
@@ -1845,6 +1849,7 @@ ns1.dnsprivacy.at CNAME .
 ns1-doh.iriseden.fr CNAME .
 ns1.dotls.org CNAME .
 ns1.flodns.net CNAME .
+ns1.henkes.cloud CNAME .
 ns1.hjk.me CNAME .
 ns1.i-evolve.net CNAME .
 ns1.opennameserver.org CNAME .
@@ -1970,11 +1975,13 @@ pop.novacia.com.ua CNAME .
 portal.iddqd.uk CNAME .
 porttwo.bigbangtheory.monster CNAME .
 pozitiff4ik.ru CNAME .
+pozitiff4ik.tk CNAME .
 pqh.ddns.net CNAME .
 premiumtier-network.instadart.net CNAME .
 preview.dnsteam.globuscs.info CNAME .
 privacydns.go6lab.si CNAME .
 private.canadianshield.cira.ca CNAME .
+private-dns.apexverge.com CNAME .
 private-dns.provisionweb.org CNAME .
 private.supplies.eu.org CNAME .
 privdns0022.securehost.ovh CNAME .
@@ -1998,6 +2005,7 @@ pvsv.io CNAME .
 q3i6k7j3.stackpathcdn.com CNAME .
 qaz.tw CNAME .
 qbak.no-ip.eu CNAME .
+qlee0001.eastasia.cloudapp.azure.com CNAME .
 qlf-doh.inria.fr CNAME .
 quantum-age.cn CNAME .
 query.hdns.io CNAME .
@@ -2350,6 +2358,7 @@ whatcaniplay.com CNAME .
 whax.eu.org CNAME .
 wifi.dns.amigo-mgn.ru CNAME .
 win10virtual.fb.i81.ru CNAME .
+win-d7snj2gu70b.duckdns.org CNAME .
 wir.rbs-net.ru CNAME .
 www.040910.top CNAME .
 www.52lanlan.com CNAME .
@@ -2424,6 +2433,7 @@ xthwo.duckdns.org CNAME .
 xx.ns1net.com CNAME .
 xxxxxxxxx.gq CNAME .
 xyz2.jammerxd.dev CNAME .
+xyz3.jammerxd.dev CNAME .
 y3suyx0cg2lewi2dmn.advaitghaisas.in CNAME .
 yair.link CNAME .
 yario.ru CNAME .
