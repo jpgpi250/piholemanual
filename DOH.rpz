@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2302030427 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2302040427 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2023-02-03 04:27:09 (UTC)
+; Last updated: 2023-02-04 04:27:53 (UTC)
 ;
 ; See https://jpgpi250.github.io/piholemanual/doc/Unbound%20response%20policy%20zones.pdf
 ; Report issues at https://github.com/jpgpi250/piholemanual/issues
@@ -83,11 +83,13 @@ adgaurd.lingmont.net CNAME .
 adg.dankatapich.eu.org CNAME .
 adg.eswan.club CNAME .
 adg.geili.me CNAME .
+adghome.joseph.com.ph CNAME .
 adgh.skyview.click CNAME .
 adg.jmdesign.uk CNAME .
 adg.jnorton.us CNAME .
 adg.nods.in CNAME .
 adg.qenisis.com CNAME .
+adg.rokh.biz CNAME .
 adg.ssy123.xyz CNAME .
 adguard01.wydler.eu CNAME .
 adguard01.zitronen-server.de CNAME .
@@ -174,6 +176,7 @@ adguard.lalantha.xyz CNAME .
 adguard.laurenlaufman.com CNAME .
 adguard.lege.despagne.net CNAME .
 adguard.lspcr.space CNAME .
+adguard.masrahi.win CNAME .
 adguard.meddy94.de CNAME .
 adguard.mitar.ovh CNAME .
 adguard.mjanson.de CNAME .
@@ -257,6 +260,7 @@ adult-filter-dot.dnswarden.com CNAME .
 ad.visbran.fr CNAME .
 ae-fuj-w-1.nashkan.net CNAME .
 a.family.ns.dnslify.com CNAME .
+ag01.de.hallmen.it CNAME .
 agafon.site CNAME .
 agafon.space CNAME .
 ag.apollohct.com CNAME .
@@ -361,6 +365,7 @@ bcandrade.ml CNAME .
 bcsmts.com CNAME .
 bdns.one CNAME .
 beacon.dog CNAME .
+beautifulcity.eu.org CNAME .
 bebracraft.ru CNAME .
 berd.moe CNAME .
 bevrydns.stream CNAME .
@@ -395,6 +400,7 @@ brb.pp.ua CNAME .
 br-sao-w-1.nashkan.net CNAME .
 br.servers.legat.ml CNAME .
 b.safe.ns.dnslify.com CNAME .
+bstreso.systems CNAME .
 buc-m2.illmods.com CNAME .
 bwg.seggs.cn CNAME .
 bwh2.telex.app CNAME .
@@ -409,6 +415,7 @@ ca01.dns4me.net CNAME .
 ca02.dns4me.net CNAME .
 ca-bhs-w-2.nashkan.net CNAME .
 ca.doh.cloudveil.org CNAME .
+callies-online.site CNAME .
 canadianshield.cira.ca CNAME .
 carioka.dyndns.org CNAME .
 carrotegg.club CNAME .
@@ -482,6 +489,7 @@ d.apemlegit.my.id CNAME .
 darkboyjyoti.online CNAME .
 darkness.is.my.waifu.cz CNAME .
 darktraffic.cloud CNAME .
+darthodroid.duckdns.org CNAME .
 dart.kpsn.org CNAME .
 darya.persiannit.net CNAME .
 daswieddodeushtuhaw.xyz CNAME .
@@ -722,6 +730,7 @@ dns.cloudlinz.de CNAME .
 dns.cloudlnk.net CNAME .
 dns.cloudtrust.solutions CNAME .
 dns.cmrg.net CNAME .
+dns.coixia.com CNAME .
 dns.colorfreedom.org CNAME .
 dns.comeonjames.club CNAME .
 dns.comss.one CNAME .
@@ -790,6 +799,7 @@ dns.esegece.com CNAME .
 dns.eu-frankfurt-1.oci.oraclecloud.com CNAME .
 dns.eu-frankfurt-1.oci.oraclecloud.net CNAME .
 dns.eu-frankfurt-1.oraclecloud.com CNAME .
+dns.ext4.in CNAME .
 dns-ext.familiamichels.com.br CNAME .
 dns.extrawdw.net CNAME .
 dns.fahr.in CNAME .
@@ -1066,6 +1076,7 @@ dnssilo.top CNAME .
 dns.simulhost.com CNAME .
 dns.siry.de CNAME .
 dns.skrep.eu CNAME .
+dns.skrep.in CNAME .
 dns.slinkyman.net CNAME .
 dns.soncms.me CNAME .
 dns.spil.co.id CNAME .
@@ -1115,6 +1126,7 @@ dns.tuankhaiit.com CNAME .
 dns.tuna.tsinghua.edu.cn CNAME .
 dns.twnic.tw CNAME .
 dns.twtrs.com CNAME .
+dns.tylavergne.com CNAME .
 dns.uk-london-1.oci.oraclecloud.com CNAME .
 dns.uk-london-1.oci.oraclecloud.net CNAME .
 dns.uk-london-1.oraclecloud.com CNAME .
@@ -1541,7 +1553,9 @@ haswell-www.a.guindehi.ch CNAME .
 heimdall.ff0x.ca CNAME .
 helios.plan9-dns.com CNAME .
 helios.plan9dns.com CNAME .
+hellojonathan.xyz CNAME .
 hellwishdnsservers.work CNAME .
+hermes.ohai.ca CNAME .
 hewittnet.us CNAME .
 hgns.harriganhome.ga CNAME .
 himedns.com CNAME .
@@ -2082,6 +2096,7 @@ sdnscarme.com CNAME .
 sdvizhkov.ru CNAME .
 seanyan.ddns.net CNAME .
 secureadguarddns.charleslondon.online CNAME .
+secure.anudeep.me CNAME .
 secure.avastdns.com CNAME .
 securedns.buzz CNAME .
 secure-dns.dns-ga.de CNAME .
@@ -2370,6 +2385,7 @@ www.alpha-dns.de CNAME .
 www.andrewnw.xyz CNAME .
 www.atomicvps.xyz CNAME .
 www.az2q.xyz CNAME .
+www.beautifulcity.eu.org CNAME .
 www.c-dns.com CNAME .
 www.chlaebi.info CNAME .
 www.chriskutschker.de CNAME .
