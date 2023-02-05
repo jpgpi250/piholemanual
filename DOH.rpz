@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2302040427 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2302050424 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2023-02-04 04:27:53 (UTC)
+; Last updated: 2023-02-05 04:24:04 (UTC)
 ;
 ; See https://jpgpi250.github.io/piholemanual/doc/Unbound%20response%20policy%20zones.pdf
 ; Report issues at https://github.com/jpgpi250/piholemanual/issues
@@ -117,6 +117,7 @@ adguard.ar777trg.tech CNAME .
 adguard.avdkishore.dev CNAME .
 adguard-aws.charraud.eu CNAME .
 adguard.beliefanx.cn CNAME .
+adguard.beliefanx.me CNAME .
 adguard.betamax65.de CNAME .
 adguard.bitteeinbyte.de CNAME .
 adguard.borgwardtech.net CNAME .
@@ -231,6 +232,7 @@ adguard.styxnetwork.org CNAME .
 adguard.superbest.eu.org CNAME .
 adguard.taufner.net CNAME .
 adguard.techromantica.com CNAME .
+adguard.tigrex.net CNAME .
 adguard.titan.stream CNAME .
 adguard.titov.es CNAME .
 adguard.v1l.de CNAME .
@@ -288,6 +290,7 @@ alisa.dns.amigo-mgn.ru CNAME .
 alisa.fb.i81.ru CNAME .
 alisa.vpn.i81.ru CNAME .
 alpha-dns.de CNAME .
+amd1.nzcow.com CNAME .
 amd1.sjp.loukky.com CNAME .
 amd2.nzcow.com CNAME .
 amigo.vpn.i81.ru CNAME .
@@ -341,7 +344,6 @@ au-syd.doh.sb CNAME .
 au-syd-w-2.nashkan.net CNAME .
 au-syd-w-3.nashkan.net CNAME .
 au.teradns.org CNAME .
-auto-cn-hk-8000.go-behind.one CNAME .
 autodiscover.elshad-adgh-dns.ru CNAME .
 autodiscover.promsdns.com CNAME .
 automaton-mm1.duckdns.org CNAME .
@@ -450,6 +452,7 @@ clientdns3.softcom.net CNAME .
 cloud10.ownvps.ml CNAME .
 cloud6.ownvps.ml CNAME .
 cloudan88.synology.me CNAME .
+cloud.centralgenerator.net CNAME .
 cloudflare-dns.com CNAME .
 cloudflare-gateway.com CNAME .
 cloud.jjlizz.com CNAME .
@@ -460,7 +463,6 @@ cloud.tezoi.com CNAME .
 clubsv.duckdns.org CNAME .
 cluster-0.gac.edu CNAME .
 cluster-1.gac.edu CNAME .
-cname-for-doh.go-behind.one CNAME .
 colean.go.ro CNAME .
 colesdns.com CNAME .
 commons.host CNAME .
@@ -619,6 +621,7 @@ dns.3dcapitaltrust.net CNAME .
 dns3.dentdns.ca CNAME .
 dns3.dns-ga.de CNAME .
 dns3.h0schi.cloud CNAME .
+dns3.nzcow.com CNAME .
 dns3.sas-wres.cc CNAME .
 dns3.wistarip.com CNAME .
 dns.4ab.nl CNAME .
@@ -866,6 +869,7 @@ dnshk.eve.surf CNAME .
 dns.hopper.org.uk CNAME .
 dns.hostux.net CNAME .
 dns.hotta.page CNAME .
+dns.hva.li CNAME .
 dns.iamninja.ru CNAME .
 dns.iblockads.net CNAME .
 dns.idsam.com CNAME .
@@ -923,6 +927,7 @@ dns.lightmaster.pw CNAME .
 dns.lightmaster.space CNAME .
 dns.linkr.ninja CNAME .
 dns.liumuze.org CNAME .
+dns.l.ovpn.bond CNAME .
 dnslow.me CNAME .
 dns.lrdnet.cf CNAME .
 dns.lsho.top CNAME .
@@ -1856,6 +1861,7 @@ nrt.public.gfwdns.net CNAME .
 ns.00dani.me CNAME .
 ns01.hostrocket.com.ua CNAME .
 ns01.lflemming.space CNAME .
+ns0.l.ovpn.bond CNAME .
 ns1.1899.com.mx CNAME .
 ns1.95997.ip-ns.net CNAME .
 ns1.bit-trails.nl CNAME .
@@ -2253,6 +2259,7 @@ tx.teradns.org CNAME .
 tylda.duckdns.org CNAME .
 typaza.com CNAME .
 ua-kyv-w-1.nashkan.net CNAME .
+ublock-dns-resolver-01.swedencentral.cloudapp.azure.com CNAME .
 ublock-dns-resolver-02.northeurope.cloudapp.azure.com CNAME .
 ueni.dyndns.org CNAME .
 uk01.dns4me.net CNAME .
