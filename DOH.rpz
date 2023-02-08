@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2302070431 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2302080427 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2023-02-07 04:31:01 (UTC)
+; Last updated: 2023-02-08 04:27:49 (UTC)
 ;
 ; See https://jpgpi250.github.io/piholemanual/doc/Unbound%20response%20policy%20zones.pdf
 ; Report issues at https://github.com/jpgpi250/piholemanual/issues
@@ -201,6 +201,7 @@ adguard.onlyfriends.info CNAME .
 adguard.ouate2phoque.ovh CNAME .
 adguard.piekacz.pl CNAME .
 adguard.plumedns.com CNAME .
+adguard.plvskiy.ru CNAME .
 adguard.pouifamily.fr CNAME .
 adguard.ppfeufer.de CNAME .
 adguard.pp.ua CNAME .
@@ -292,6 +293,7 @@ alisa.dns.amigo-mgn.ru CNAME .
 alisa.fb.i81.ru CNAME .
 alisa.vpn.i81.ru CNAME .
 alpha-dns.de CNAME .
+alpha.rferee.dev CNAME .
 altvpn.ppm.mrhost.biz CNAME .
 amd1.nzcow.com CNAME .
 amd1.sjp.loukky.com CNAME .
@@ -386,6 +388,7 @@ blackhole.myon.lu CNAME .
 bld.sys-adm.in CNAME .
 blitz.ahadns.com CNAME .
 blitzd.co.uk CNAME .
+blitz-setup.ahadns.com CNAME .
 block.abstergo.it CNAME .
 blockads.cf CNAME .
 block.buck.ovh CNAME .
@@ -442,6 +445,7 @@ chaos.altendorfme.com CNAME .
 chaos-system.de CNAME .
 chertila.tk CNAME .
 chewbacca.meganerd.nl CNAME .
+chithra.dilli.dev CNAME .
 chlaebi.synology.me CNAME .
 chno.xyz CNAME .
 chriskutschker.de CNAME .
@@ -551,6 +555,8 @@ dns01.almir1904.eu CNAME .
 dns01.flm9.net CNAME .
 dns02.almir1904.eu CNAME .
 dns03.almir1904.eu CNAME .
+dns0.eu CNAME .
+dns0.eu<br>Hardened CNAME .
 dns.0ooo.icu CNAME .
 dns0.tardishost.ru CNAME .
 dns10.quad9.net CNAME .
@@ -577,6 +583,7 @@ dns1.luan.contact CNAME .
 dns1.n3120.wang CNAME .
 dns1.nextdns.io CNAME .
 dns1.nick85.eu CNAME .
+dns1.nielsdb.be CNAME .
 dns1.niub.one CNAME .
 dns1.pietjacobs.be CNAME .
 dns1.quickline.ch CNAME .
@@ -1176,6 +1183,7 @@ dns.warpnine.de CNAME .
 dns.wdnts.ml CNAME .
 dns-weblock.wevpn.com CNAME .
 dns.webstor.net CNAME .
+dnswebvsn.com CNAME .
 dns.wevpn.com CNAME .
 dns.whatcaniplay.com CNAME .
 dns.williamlwu.com CNAME .
@@ -1300,6 +1308,7 @@ doh.lululu.eu.org CNAME .
 doh.lv CNAME .
 doh.mcasviper.de CNAME .
 doh.micronets.in CNAME .
+doh.moedns.dev CNAME .
 doh.mullvad.net CNAME .
 doh.nala.ru CNAME .
 doh.neowutran.ovh CNAME .
@@ -1709,6 +1718,7 @@ kerio.dns.amigo-mgn.ru CNAME .
 keymiagar.ir CNAME .
 khsan.com CNAME .
 kids.5ososea.com CNAME .
+kids.dns0.eu CNAME .
 kids.eyecay.xyz CNAME .
 killads.vpms.xyz CNAME .
 kintoun.alves.cc CNAME .
@@ -1743,6 +1753,7 @@ ky2dns.com CNAME .
 l2tp.vvps.one CNAME .
 lab-1.sellan.fr CNAME .
 lab.sellan.fr CNAME .
+lanre.duckdns.org CNAME .
 lapanovi.ch CNAME .
 laptop001.greppie.nl CNAME .
 lastentarvike.fi CNAME .
@@ -1755,6 +1766,7 @@ lekdijk.online CNAME .
 lena.fb.i81.ru CNAME .
 leochen-dns.ddns.net CNAME .
 leo.z0p.org CNAME .
+lephat.xyz CNAME .
 levislondon-proxy.nerdpol.ovh CNAME .
 lf-ns-001.my.to CNAME .
 libye.in CNAME .
@@ -1763,6 +1775,7 @@ lilibox.duckdns.org CNAME .
 lilibox.freeboxos.fr CNAME .
 lindung.pp.ua CNAME .
 link.altapo.ru CNAME .
+linodesg2sg2.hujiajun.com CNAME .
 lion.dns.qwer.pw CNAME .
 lion.yazilimatolye.com CNAME .
 live.jjlizz.com CNAME .
@@ -1918,6 +1931,7 @@ ns.mtsoln.com CNAME .
 ns.ral9005.org CNAME .
 ns.solutics.ec CNAME .
 ntu.ssooss.win CNAME .
+nudnud.com CNAME .
 n-wan.dynv6.net CNAME .
 nwps.duckdns.org CNAME .
 nxa.21.ax CNAME .
@@ -1945,6 +1959,8 @@ onlyaltf4.de CNAME .
 onlyfriends.info CNAME .
 o--o.duckdns.org CNAME .
 opencdn.jomodns.com CNAME .
+open.dns0.eu CNAME .
+open.dns0.eu<br>Malware CNAME .
 opennic1.eth-services.de CNAME .
 opennic2.i2pd.xyz CNAME .
 opennic.i2pd.xyz CNAME .
@@ -1971,6 +1987,7 @@ p0.freedns.controld.com CNAME .
 p1.freedns.controld.com CNAME .
 p2.freedns.controld.com CNAME .
 p3.freedns.controld.com CNAME .
+pair02-02.ihatemy.live CNAME .
 palazzoddns.tk CNAME .
 paskam.tk CNAME .
 pass12335.myds.me CNAME .
@@ -2021,6 +2038,7 @@ preview.dnsteam.globuscs.info CNAME .
 privacydns.go6lab.si CNAME .
 private.canadianshield.cira.ca CNAME .
 private-dns.apexverge.com CNAME .
+private-dns.ddns.net CNAME .
 private-dns.provisionweb.org CNAME .
 private.supplies.eu.org CNAME .
 privdns0022.securehost.ovh CNAME .
@@ -2082,6 +2100,7 @@ resolver.cloudflare-eth.com CNAME .
 resolver-eu.lelux.fi CNAME .
 resolver.noaddns.com CNAME .
 resolver.r0cket.net CNAME .
+resolver.rferee.dev CNAME .
 resolver.unstoppable.io CNAME .
 resolve.srv-pro.de CNAME .
 resolv.srv-pro.de CNAME .
@@ -2109,6 +2128,7 @@ s.101818.xyz CNAME .
 s1.soft88.click CNAME .
 sa01.dns4me.net CNAME .
 safe.kswro.web.id CNAME .
+safeservedns.com CNAME .
 sagutxustech.com CNAME .
 saikoudns.tk CNAME .
 sbdns.co.in CNAME .
@@ -2195,6 +2215,7 @@ sradminfk.ddns.net CNAME .
 srv1.web-mx.eu CNAME .
 srv5.jiripocta.cz CNAME .
 srv-revprox-01.atakorah.com CNAME .
+ss.0rz.space CNAME .
 ssdns.ru CNAME .
 ssh-storage.ru CNAME .
 staging.dnsteam.globuscs.info CNAME .
@@ -2402,6 +2423,7 @@ wifi.dns.amigo-mgn.ru CNAME .
 win10virtual.fb.i81.ru CNAME .
 win-d7snj2gu70b.duckdns.org CNAME .
 wir.rbs-net.ru CNAME .
+wmapi.cn CNAME .
 www.040910.top CNAME .
 www.52lanlan.com CNAME .
 www.acomit.lk CNAME .
@@ -2414,6 +2436,7 @@ www.atomicvps.xyz CNAME .
 www.az2q.xyz CNAME .
 www.beautifulcity.eu.org CNAME .
 www.c-dns.com CNAME .
+www.chithra.dilli.dev CNAME .
 www.chlaebi.info CNAME .
 www.chriskutschker.de CNAME .
 www.dnsadguard.co.uk CNAME .
@@ -2474,6 +2497,7 @@ x-o-x.duckdns.org CNAME .
 xray.krnl.eu CNAME .
 xthwo.duckdns.org CNAME .
 xx.ns1net.com CNAME .
+xxxxxxxxx.gq CNAME .
 xyz2.jammerxd.dev CNAME .
 xyz3.jammerxd.dev CNAME .
 y3suyx0cg2lewi2dmn.advaitghaisas.in CNAME .
@@ -2495,6 +2519,8 @@ yyaan.top CNAME .
 yyqsite.top CNAME .
 za-joh-w-2.nashkan.net CNAME .
 zephyrus.id CNAME .
+zero.dns0.eu CNAME .
+zero.dns0.eu<br>Child CNAME .
 zetland.rm-ni.uk CNAME .
 zougloub.eu CNAME .
 zrh1-ns01.monzoon.net CNAME .
