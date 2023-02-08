@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2302080427 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2302081000 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2023-02-08 04:27:49 (UTC)
+; Last updated: 2023-02-08 10:00:27 (UTC)
 ;
 ; See https://jpgpi250.github.io/piholemanual/doc/Unbound%20response%20policy%20zones.pdf
 ; Report issues at https://github.com/jpgpi250/piholemanual/issues
@@ -556,7 +556,6 @@ dns01.flm9.net CNAME .
 dns02.almir1904.eu CNAME .
 dns03.almir1904.eu CNAME .
 dns0.eu CNAME .
-dns0.eu<br>Hardened CNAME .
 dns.0ooo.icu CNAME .
 dns0.tardishost.ru CNAME .
 dns10.quad9.net CNAME .
@@ -1960,7 +1959,6 @@ onlyfriends.info CNAME .
 o--o.duckdns.org CNAME .
 opencdn.jomodns.com CNAME .
 open.dns0.eu CNAME .
-open.dns0.eu<br>Malware CNAME .
 opennic1.eth-services.de CNAME .
 opennic2.i2pd.xyz CNAME .
 opennic.i2pd.xyz CNAME .
@@ -2520,7 +2518,6 @@ yyqsite.top CNAME .
 za-joh-w-2.nashkan.net CNAME .
 zephyrus.id CNAME .
 zero.dns0.eu CNAME .
-zero.dns0.eu<br>Child CNAME .
 zetland.rm-ni.uk CNAME .
 zougloub.eu CNAME .
 zrh1-ns01.monzoon.net CNAME .
