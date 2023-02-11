@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2302100424 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2302110429 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2023-02-10 04:24:16 (UTC)
+; Last updated: 2023-02-11 04:29:22 (UTC)
 ;
 ; See https://jpgpi250.github.io/piholemanual/doc/Unbound%20response%20policy%20zones.pdf
 ; Report issues at https://github.com/jpgpi250/piholemanual/issues
@@ -1721,7 +1721,6 @@ kids.eyecay.xyz CNAME .
 killads.vpms.xyz CNAME .
 kintoun.alves.cc CNAME .
 kintyre.uk CNAME .
-kirmanak.gq CNAME .
 kiwifunke.duckdns.org CNAME .
 knight1.de CNAME .
 kolobok2.duckdns.orga CNAME .
@@ -1888,7 +1887,6 @@ nongdanthanky.com CNAME .
 note11.diplo.es CNAME .
 notecore.me CNAME .
 notgoogle.mobi CNAME .
-npm.soncms.me CNAME .
 nrt.public.gfwdns.net CNAME .
 ns.00dani.me CNAME .
 ns01.hostrocket.com.ua CNAME .
@@ -2139,7 +2137,6 @@ sbydoh.limotelu.org CNAME .
 scrole.shop CNAME .
 sctb1.freeddns.org CNAME .
 sdns.233py.com CNAME .
-sdns.233py.com.cdn.cloudflare.net CNAME .
 sdnscarme.com CNAME .
 sdvizhkov.ru CNAME .
 seanyan.ddns.net CNAME .
@@ -2192,7 +2189,6 @@ sg.yepdns.com CNAME .
 shaa.line.pm CNAME .
 shadowhouses-dns.xyz CNAME .
 shalenkov.dev CNAME .
-shard.ender.fr CNAME .
 shield.afixer.app CNAME .
 shiestyro.world CNAME .
 sh.totoro.pub CNAME .
