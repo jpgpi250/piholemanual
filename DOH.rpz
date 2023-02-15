@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2302140427 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2302150426 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2023-02-14 04:27:31 (UTC)
+; Last updated: 2023-02-15 04:26:57 (UTC)
 ;
 ; See https://jpgpi250.github.io/piholemanual/doc/Unbound%20response%20policy%20zones.pdf
 ; Report issues at https://github.com/jpgpi250/piholemanual/issues
@@ -257,6 +257,7 @@ adult-filter-dns.cleanbrowsing.org CNAME .
 adult-filter-dot.dnswarden.com CNAME .
 ad.visbran.fr CNAME .
 ae-fuj-w-1.nashkan.net CNAME .
+ae-fuj-w-2.nashkan.net CNAME .
 a.family.ns.dnslify.com CNAME .
 ag01.de.hallmen.it CNAME .
 agafon.site CNAME .
@@ -617,6 +618,7 @@ dns2.quickline.ch CNAME .
 dns2.sas-wres.cc CNAME .
 dns2.steering.nextdns.io CNAME .
 dns2.superstefan.ml CNAME .
+dns2.sytes.net CNAME .
 dns.2t9.de CNAME .
 dns2.vinc.me CNAME .
 dns2vps.porteii.com CNAME .
@@ -924,6 +926,7 @@ dns.kr.chavy.dev CNAME .
 dns.kumar-abhishek.me CNAME .
 dns.kutovoy.dev CNAME .
 dns.l2h8.cn CNAME .
+dns.labar.re CNAME .
 dns.lalafell.info CNAME .
 dns.larsdebruin.net CNAME .
 dns.lars-lehmann.net CNAME .
@@ -1270,6 +1273,7 @@ doh.funil.de CNAME .
 doh.funtopia.tv CNAME .
 doh.futa.gg CNAME .
 doh.gcp.pathofgrace.com CNAME .
+doh.greenwood.eu.org CNAME .
 doh.gslb2.xfinity.com CNAME .
 doh.hottis.de CNAME .
 doh.ibr.cs.tu-bs.de CNAME .
@@ -1348,6 +1352,7 @@ doh.xcom.pro CNAME .
 doh.xfinity.com CNAME .
 doh.zephyrus.id CNAME .
 dop.privatedns.org CNAME .
+do-sg.lrdnet.cf CNAME .
 do.shimul.me CNAME .
 dot1.applied-privacy.net CNAME .
 dot.360.cn CNAME .
@@ -1521,7 +1526,6 @@ gcp.nzcow.com CNAME .
 ge.libaced.one CNAME .
 gendos.net CNAME .
 genscorp.es CNAME .
-geo.dnswarden.com CNAME .
 germvpnguard.duckdns.org CNAME .
 geshido.vpn.geshido.ru CNAME .
 getdnsapi.net CNAME .
@@ -1741,6 +1745,7 @@ lapanovi.ch CNAME .
 laptop001.greppie.nl CNAME .
 lastentarvike.fi CNAME .
 lax.core.access.zznet.fun CNAME .
+layers0flearning.com CNAME .
 lboxtv.top CNAME .
 ldrk-dns.link CNAME .
 league2eb.me CNAME .
@@ -1865,6 +1870,7 @@ ninny.duckdns.org CNAME .
 nl-ams2.doh.sb CNAME .
 nl-ams.doh.sb CNAME .
 nl-ams-w-3.nashkan.net CNAME .
+nl.galaskar.ga CNAME .
 noadsapp.net CNAME .
 noads.cloud CNAME .
 node.thierryserver.nl CNAME .
@@ -1913,6 +1919,7 @@ nsec.arnor.org CNAME .
 ns.mtsoln.com CNAME .
 ns.ral9005.org CNAME .
 ns.solutics.ec CNAME .
+ns.tkdns.ru CNAME .
 ntu.ssooss.win CNAME .
 nudnud.com CNAME .
 n-wan.dynv6.net CNAME .
@@ -1986,6 +1993,7 @@ percival.empty.pw CNAME .
 peter-adguard.ddns.net CNAME .
 pi1.node15.com CNAME .
 pi.daryllswer.net CNAME .
+piekacz.pl CNAME .
 pihole1.hoerli.net CNAME .
 pihole2.hoerli.net CNAME .
 pihole3.hoerli.net CNAME .
@@ -2249,7 +2257,6 @@ timeadc.ru CNAME .
 timmes.nl CNAME .
 timothytimothy.cf CNAME .
 tj.jamesxue.xyz CNAME .
-tjucker-ch.internet-box.ch CNAME .
 tk31z.com CNAME .
 tkge.tk CNAME .
 tls-dns-u.odvr.dns-oarc.net CNAME .
