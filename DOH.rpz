@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2302180334 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2302190328 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2023-02-18 03:34:15 (UTC)
+; Last updated: 2023-02-19 03:28:41 (UTC)
 ;
 ; See https://jpgpi250.github.io/piholemanual/doc/Unbound%20response%20policy%20zones.pdf
 ; Report issues at https://github.com/jpgpi250/piholemanual/issues
@@ -1370,7 +1370,6 @@ duyyen.cf CNAME .
 duyyen.tk CNAME .
 dycn.vip CNAME .
 dyhw.ddns.net CNAME .
-dyn-ip.borjalopez.eu CNAME .
 ea-dns.rubyfish.cn CNAME .
 eaereaper.ru CNAME .
 easyhandshake.com CNAME .
@@ -1774,6 +1773,7 @@ n.3363.net CNAME .
 n5.lsasss.com CNAME .
 nafni.one CNAME .
 name.my-station.ru CNAME .
+narvi.slvrsrvr.de CNAME .
 nas1403.duckdns.org CNAME .
 nas302.ddns.net CNAME .
 nas.delage.li CNAME .
