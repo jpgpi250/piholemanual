@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2302190328 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2302200327 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2023-02-19 03:28:41 (UTC)
+; Last updated: 2023-02-20 03:27:56 (UTC)
 ;
 ; See https://jpgpi250.github.io/piholemanual/doc/Unbound%20response%20policy%20zones.pdf
 ; Report issues at https://github.com/jpgpi250/piholemanual/issues
@@ -900,7 +900,6 @@ dns.lfac.ml CNAME .
 dns.lightmaster.pw CNAME .
 dns.linkr.ninja CNAME .
 dns.liumuze.org CNAME .
-dns.l.ovpn.bond CNAME .
 dnslow.me CNAME .
 dns.lsho.top CNAME .
 dns.luan.contact CNAME .
@@ -1370,6 +1369,7 @@ duyyen.cf CNAME .
 duyyen.tk CNAME .
 dycn.vip CNAME .
 dyhw.ddns.net CNAME .
+dyn-ip.borjalopez.eu CNAME .
 ea-dns.rubyfish.cn CNAME .
 eaereaper.ru CNAME .
 easyhandshake.com CNAME .
@@ -1809,7 +1809,6 @@ nrt.public.gfwdns.net CNAME .
 ns.00dani.me CNAME .
 ns01.hostrocket.com.ua CNAME .
 ns01.lflemming.space CNAME .
-ns0.l.ovpn.bond CNAME .
 ns1.1899.com.mx CNAME .
 ns1.95997.ip-ns.net CNAME .
 ns1.bit-trails.nl CNAME .
@@ -1917,7 +1916,6 @@ percival.empty.pw CNAME .
 peter-adguard.ddns.net CNAME .
 pi1.node15.com CNAME .
 pi.daryllswer.net CNAME .
-piekacz.pl CNAME .
 pihole1.hoerli.net CNAME .
 pihole2.hoerli.net CNAME .
 pihole3.hoerli.net CNAME .
