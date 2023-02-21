@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2302200327 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2302210331 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2023-02-20 03:27:56 (UTC)
+; Last updated: 2023-02-21 03:31:55 (UTC)
 ;
 ; See https://jpgpi250.github.io/piholemanual/doc/Unbound%20response%20policy%20zones.pdf
 ; Report issues at https://github.com/jpgpi250/piholemanual/issues
@@ -900,6 +900,7 @@ dns.lfac.ml CNAME .
 dns.lightmaster.pw CNAME .
 dns.linkr.ninja CNAME .
 dns.liumuze.org CNAME .
+dns.l.ovpn.bond CNAME .
 dnslow.me CNAME .
 dns.lsho.top CNAME .
 dns.luan.contact CNAME .
@@ -1343,7 +1344,6 @@ dot.quickline.ch CNAME .
 dot.seby.io CNAME .
 dot.securedns.eu CNAME .
 dot-sg.blahdns.com CNAME .
-dot.sillundil.ovh CNAME .
 dot.ssh-storage.ru CNAME .
 dot.tiar.app CNAME .
 dot.westus.pi-dns.com CNAME .
@@ -1434,7 +1434,6 @@ fra.core.access.zznet.fun CNAME .
 frank-web.dedyn.io CNAME .
 fr-dns1.bancuh.com CNAME .
 fr-dns2.bancuh.com CNAME .
-freebox.sillundil.ovh CNAME .
 free.bravedns.com CNAME .
 freedns.controld.com CNAME .
 freedom.mydns.network CNAME .
@@ -1647,7 +1646,6 @@ kids.dns0.eu CNAME .
 killads.vpms.xyz CNAME .
 kintoun.alves.cc CNAME .
 kintyre.uk CNAME .
-kirmanak.gq CNAME .
 kiwifunke.duckdns.org CNAME .
 knight1.de CNAME .
 kondrcloud.ru CNAME .
@@ -1809,6 +1807,7 @@ nrt.public.gfwdns.net CNAME .
 ns.00dani.me CNAME .
 ns01.hostrocket.com.ua CNAME .
 ns01.lflemming.space CNAME .
+ns0.l.ovpn.bond CNAME .
 ns1.1899.com.mx CNAME .
 ns1.95997.ip-ns.net CNAME .
 ns1.bit-trails.nl CNAME .
@@ -1916,6 +1915,7 @@ percival.empty.pw CNAME .
 peter-adguard.ddns.net CNAME .
 pi1.node15.com CNAME .
 pi.daryllswer.net CNAME .
+piekacz.pl CNAME .
 pihole1.hoerli.net CNAME .
 pihole2.hoerli.net CNAME .
 pihole3.hoerli.net CNAME .
