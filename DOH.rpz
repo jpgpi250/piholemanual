@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2302210331 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2302220429 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2023-02-21 03:31:55 (UTC)
+; Last updated: 2023-02-22 04:29:02 (UTC)
 ;
 ; See https://jpgpi250.github.io/piholemanual/doc/Unbound%20response%20policy%20zones.pdf
 ; Report issues at https://github.com/jpgpi250/piholemanual/issues
@@ -991,6 +991,7 @@ dns.pakuchi-tree.ml CNAME .
 dns.panszelescik.pl CNAME .
 dns.perzarys.eu CNAME .
 dns.phuctran.cloud CNAME .
+dns.pietjacobs.be CNAME .
 dns.porteii.com CNAME .
 dns-primary.giaan.org CNAME .
 dns.privacy.cm CNAME .
@@ -1646,6 +1647,7 @@ kids.dns0.eu CNAME .
 killads.vpms.xyz CNAME .
 kintoun.alves.cc CNAME .
 kintyre.uk CNAME .
+kirmanak.gq CNAME .
 kiwifunke.duckdns.org CNAME .
 knight1.de CNAME .
 kondrcloud.ru CNAME .
@@ -1927,7 +1929,6 @@ pihole.gcp.pathofgrace.com CNAME .
 pihole.mulu.at CNAME .
 pi.homeanywhere.org CNAME .
 pitnetdns.ga CNAME .
-pixie.porkbun.com CNAME .
 planty.ddns.us CNAME .
 plex.i.solutics.ec CNAME .
 pluton.plan9-dns.com CNAME .
