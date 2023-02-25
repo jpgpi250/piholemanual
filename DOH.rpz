@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2302240329 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2302250326 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2023-02-24 03:29:07 (UTC)
+; Last updated: 2023-02-25 03:26:36 (UTC)
 ;
 ; See https://jpgpi250.github.io/piholemanual/doc/Unbound%20response%20policy%20zones.pdf
 ; Report issues at https://github.com/jpgpi250/piholemanual/issues
@@ -271,6 +271,7 @@ ag01.de.hallmen.it CNAME .
 agafon.site CNAME .
 agafon.space CNAME .
 ag.apollohct.com CNAME .
+ag.crowsnest.id CNAME .
 ag.ff0x.ca CNAME .
 agh2.server.my.id CNAME .
 agh3.server.my.id CNAME .
@@ -431,6 +432,7 @@ cerebro.harrache.info CNAME .
 ch01adguardho.me CNAME .
 chaos.altendorfme.com CNAME .
 chaos-system.de CNAME .
+chenc79.online CNAME .
 chertila.tk CNAME .
 chewbacca.meganerd.nl CNAME .
 chithra.dilli.dev CNAME .
@@ -491,6 +493,7 @@ darthodroid.duckdns.org CNAME .
 dart.kpsn.org CNAME .
 darya.persiannit.net CNAME .
 daswieddodeushtuhaw.xyz CNAME .
+davidcampos.duckdns.org CNAME .
 davidzeh.eu.org CNAME .
 dbbs.dns.databyte-network.com CNAME .
 ddd2.loukky.com CNAME .
@@ -652,6 +655,7 @@ dns.altairzone.it CNAME .
 dns.amigo-mgn.ru CNAME .
 dns.andrewnw.xyz CNAME .
 dns.andreykiv.com CNAME .
+dns.anonymous.pw CNAME .
 dns.anoogohost.net CNAME .
 dns.api.gandi.net CNAME .
 dns.api.globus.org CNAME .
@@ -737,7 +741,6 @@ dns.cwlys.com CNAME .
 dns.cybereager.net CNAME .
 dns.d309044.eu CNAME .
 dns.d365.in CNAME .
-dns.d4d.moe CNAME .
 dns.d94.xyz CNAME .
 dns.d96.info CNAME .
 dns.darktraffic.cloud CNAME .
@@ -846,7 +849,6 @@ dns.halvez.top CNAME .
 dns.hanmey.de CNAME .
 dns.haoxuan.xyz CNAME .
 dns.harrache.info CNAME .
-dns.harvester.fr CNAME .
 dns.hee.ink CNAME .
 dns.herkhof.nl CNAME .
 dns.hinet.net CNAME .
@@ -1390,6 +1392,7 @@ dukun.de CNAME .
 dupatruwi22.fun CNAME .
 duyyen.cf CNAME .
 duyyen.tk CNAME .
+dvaguirredns1.ddns.net CNAME .
 dycn.vip CNAME .
 dyhw.ddns.net CNAME .
 dyn-ip.borjalopez.eu CNAME .
@@ -1437,6 +1440,7 @@ fcpsunleashed.org CNAME .
 fdns1.dismail.de CNAME .
 fdns2.dismail.de CNAME .
 federicoferri.ovh CNAME .
+feelnosorry.com CNAME .
 feifei200x12.cf CNAME .
 felipefalcao.me CNAME .
 fezgate.ovh CNAME .
@@ -1493,6 +1497,7 @@ gb-lon-w-1.nashkan.net CNAME .
 gb-lon-w-4.nashkan.net CNAME .
 gb-lon-w-5.nashkan.net CNAME .
 gclouddns.com CNAME .
+gcplog.seggs.cn CNAME .
 ge.libaced.one CNAME .
 genscorp.es CNAME .
 georgia.ddns.net CNAME .
@@ -1782,6 +1787,7 @@ mimile.despagne.net CNAME .
 mimile.despagne.ovh CNAME .
 mimir.netwerk.io CNAME .
 mitron.one CNAME .
+mkrepair.ddns.net CNAME .
 mocha.r.rnet.ie CNAME .
 mozilla.cloudflare-dns.com CNAME .
 msr177.com CNAME .
@@ -1957,6 +1963,7 @@ percival.empty.pw CNAME .
 peter-adguard.ddns.net CNAME .
 pi1.node15.com CNAME .
 pi.daryllswer.net CNAME .
+piekacz.pl CNAME .
 pihole1.hoerli.net CNAME .
 pihole2.hoerli.net CNAME .
 pihole3.hoerli.net CNAME .
@@ -1972,6 +1979,7 @@ pitnetdns.ga CNAME .
 pixie.porkbun.com CNAME .
 planty.ddns.us CNAME .
 plex.i.solutics.ec CNAME .
+pliszka.ml CNAME .
 pluton.plan9-dns.com CNAME .
 pluton.plan9dns.com CNAME .
 pl-waw-w-1.nashkan.net CNAME .
@@ -2168,6 +2176,7 @@ staging.dnsteam.globuscs.info CNAME .
 stalent.ovh CNAME .
 standard.kxy.ink CNAME .
 static.captnemo.in CNAME .
+statistics.larryvpn.com CNAME .
 steering.nextdns.io CNAME .
 steff.sbs CNAME .
 storage.jjlizz.com CNAME .
@@ -2363,6 +2372,7 @@ win10virtual.fb.i81.ru CNAME .
 win-d7snj2gu70b.duckdns.org CNAME .
 wir.rbs-net.ru CNAME .
 wmapi.cn CNAME .
+wolfdogcat.online CNAME .
 www.040910.top CNAME .
 www.52lanlan.com CNAME .
 www.acomit.lk CNAME .
@@ -2390,6 +2400,7 @@ www.dycn.vip CNAME .
 www.eaereaper.ru CNAME .
 www.elshad-adgh-dns.ru CNAME .
 www.eweyo.ru CNAME .
+www.feelnosorry.com CNAME .
 www.ga3inur.ru CNAME .
 www.ggrbb.xyz CNAME .
 www.greppie.nl CNAME .
