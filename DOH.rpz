@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2302250326 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2302260404 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2023-02-25 03:26:36 (UTC)
+; Last updated: 2023-02-26 04:04:04 (UTC)
 ;
 ; See https://jpgpi250.github.io/piholemanual/doc/Unbound%20response%20policy%20zones.pdf
 ; Report issues at https://github.com/jpgpi250/piholemanual/issues
@@ -254,6 +254,7 @@ ad.milys.pl CNAME .
 admin.dotls.org CNAME .
 ad.nods.in CNAME .
 adns.kreonet.net CNAME .
+adns.lighthousemd.co CNAME .
 adns.onlinetools.rocks CNAME .
 ads-doh.securedns.eu CNAME .
 ads-eu.landgame.net CNAME .
@@ -266,6 +267,7 @@ adult-filter-dot.dnswarden.com CNAME .
 ad.visbran.fr CNAME .
 ae-fuj-w-1.nashkan.net CNAME .
 ae-fuj-w-2.nashkan.net CNAME .
+ae-fuj-w-4.nashkan.net CNAME .
 a.family.ns.dnslify.com CNAME .
 ag01.de.hallmen.it CNAME .
 agafon.site CNAME .
@@ -320,6 +322,7 @@ anyycast.uncensoreddns.org CNAME .
 a.passcloud.xyz CNAME .
 apne1.dns.terumi.club CNAME .
 appart.yoannchappaz.best CNAME .
+aqua.is.my.waifu.cz CNAME .
 arashi.eu.org CNAME .
 arches-srv1.8ws.net CNAME .
 arches-srv2.8ws.net CNAME .
@@ -741,6 +744,7 @@ dns.cwlys.com CNAME .
 dns.cybereager.net CNAME .
 dns.d309044.eu CNAME .
 dns.d365.in CNAME .
+dns.d4d.moe CNAME .
 dns.d94.xyz CNAME .
 dns.d96.info CNAME .
 dns.darktraffic.cloud CNAME .
@@ -1041,6 +1045,7 @@ dns.rin.sh CNAME .
 dns.rjls.me CNAME .
 dns.rjoc.me CNAME .
 dns.rodovatech.com CNAME .
+dns.rohanjain.in CNAME .
 dns.ronc.ru CNAME .
 dns.rotunneling.net CNAME .
 dns.rsnetwork.be CNAME .
@@ -1141,6 +1146,7 @@ dns.vk09.ru CNAME .
 dns.vmath.my.id CNAME .
 dnsvps.familiamv.ml CNAME .
 dnsvps.porteii.com CNAME .
+dnsvs.duckdns.org CNAME .
 dns.wakgood.net CNAME .
 dns.walshnet.co.uk CNAME .
 dns.warexify.com CNAME .
@@ -1594,6 +1600,7 @@ i.233py.com.a.bdydns.com CNAME .
 iana.tenta.io CNAME .
 ibksturm.synology.me CNAME .
 ibuki.cgnat.net CNAME .
+id.lkbin.ga CNAME .
 id-pon-w-1.nashkan.net CNAME .
 id.terra.my.id CNAME .
 ie-dub-w-1.nashkan.net CNAME .
@@ -1712,6 +1719,7 @@ kufei.org CNAME .
 ky2dns.com CNAME .
 lab-1.sellan.fr CNAME .
 lab.sellan.fr CNAME .
+lampedns.bagmeijer.nl CNAME .
 laptop001.greppie.nl CNAME .
 lastentarvike.fi CNAME .
 lax.core.access.zznet.fun CNAME .
@@ -1734,6 +1742,7 @@ linodesg2sg2.hujiajun.com CNAME .
 lion.dns.qwer.pw CNAME .
 lion.yazilimatolye.com CNAME .
 live.jjlizz.com CNAME .
+lkbin.ga CNAME .
 lmz.meudns.minhacasainteligente.cf CNAME .
 loli.sektehalodavid.click CNAME .
 lon-dns.bitdefender.net CNAME .
@@ -1748,6 +1757,7 @@ lux1.nixnet.xyz CNAME .
 lv1.nixnet.xyz CNAME .
 lv-rig-w-1.nashkan.net CNAME .
 maddino.dedyn.io CNAME .
+magnon.duckdns.org CNAME .
 maikel.greppie.nl CNAME .
 mail.andrewnw.xyz CNAME .
 mail.data.haus CNAME .
@@ -2087,6 +2097,7 @@ safe.kswro.web.id CNAME .
 safeservedns.com CNAME .
 sagutxustech.com CNAME .
 saikoudns.tk CNAME .
+saruman.freeddns.org CNAME .
 sbdns.co.in CNAME .
 sby-doh.limotelu.org CNAME .
 sbydoh.limotelu.org CNAME .
