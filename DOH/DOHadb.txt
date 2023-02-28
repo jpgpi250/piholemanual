@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2023-02-26 14:50:56 (UTC)
+! Last updated: 2023-02-27 03:43:46 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -290,6 +290,7 @@
 ||alisa.dns.amigo-mgn.ru^
 ||alisa.fb.i81.ru^
 ||alisa.vpn.i81.ru^
+||alpha1.jnraptor.net^
 ||alpha-dns.de^
 ||alpha.rferee.dev^
 ||altvpn.ppm.mrhost.biz^
@@ -396,6 +397,7 @@
 ||bobstrecansky.com^
 ||bravedns.com^
 ||brb.pp.ua^
+||bropines.online^
 ||br-sao-w-1.nashkan.net^
 ||br.servers.legat.ml^
 ||b.safe.ns.dnslify.com^
@@ -445,6 +447,7 @@
 ||cirruscloud.it^
 ||cld.996969.xyz^
 ||cleanbrowsing.org^
+||cleandns.tk^
 ||clearweb.woodbridge.club^
 ||clientdns3.softcom.net^
 ||cloud10.ownvps.ml^
@@ -504,8 +507,10 @@
 ||de-fra.doh.sb^
 ||de-fsn-i-5.tegant.net^
 ||de-fsn-o-1.nashkan.net^
+||de-fsn-o-2.nashkan.net^
 ||de-fsn-w-12.nashkan.net^
 ||de-fsn-w-1.nashkan.net^
+||de-fsn-w-23.nashkan.net^
 ||de-fsn-w-2.nashkan.net^
 ||de-fsn-w-3.nashkan.net^
 ||de-fsn-w-9.nashkan.net^
@@ -615,6 +620,7 @@
 ||dns2vps.porteii.com^
 ||dns3.afastserver.com^
 ||dns.3dcapitaltrust.net^
+||dns3.h0schi.cloud^
 ||dns3.sas-wres.cc^
 ||dns3.wistarip.com^
 ||dns.4ab.nl^
@@ -740,7 +746,6 @@
 ||dns.cybereager.net^
 ||dns.d309044.eu^
 ||dns.d365.in^
-||dns.d4d.moe^
 ||dns.d94.xyz^
 ||dns.d96.info^
 ||dns.darktraffic.cloud^
@@ -891,6 +896,7 @@
 ||dns.jucker.engineering^
 ||dns.jungle-im.ir^
 ||dns.junhengyun.com^
+||dns.just-hosting.net^
 ||dns.justinnetworkingsolutions.com^
 ||dns.k3nny.fr^
 ||dns.kamilszczepanski.com^
@@ -903,6 +909,7 @@
 ||dns.keweon.center^
 ||dns.khanhtran.me^
 ||dns.kingsbestone.com^
+||dns.knitish.dev^
 ||dns.kosan.moe^
 ||dns.kr.chavy.dev^
 ||dns.kumar-abhishek.me^
@@ -925,6 +932,7 @@
 ||dns.luan.contact^
 ||dns.lunet.design^
 ||dns.luotianyi.net^
+||dns.lusk.xyz^
 ||dns.lyhlyh.xyz^
 ||dns.m78.asia^
 ||dns.magnon-box.tk^
@@ -982,6 +990,7 @@
 ||dns.novali.date^
 ||dns.novg.net^
 ||dns.npe.bz^
+||dns.nt63.me^
 ||dns.nullgate.net^
 ||dns.nullrecon.com^
 ||dns-nyc.aaflalo.me^
@@ -1044,6 +1053,7 @@
 ||dns.rohanjain.in^
 ||dns.ronc.ru^
 ||dns.rotunneling.net^
+||dns.rrinformatica.it^
 ||dns.rsnetwork.be^
 ||dns.rubyfish.cn^
 ||dns.sac.rebl.eu.org^
@@ -1324,6 +1334,7 @@
 ||doh.ubd.ac.id^
 ||doh.umbrella.com^
 ||doh.velyn.my.id^
+||doh.viatech.com.tw^
 ||doh.westeu.pi-dns.com^
 ||doh.westus.pi-dns.com^
 ||doh.wewitro.net^
@@ -1449,6 +1460,7 @@
 ||fi.doh.dns.snopyta.org^
 ||fi.dot.dns.snopyta.org^
 ||fi-hel-w-2.nashkan.net^
+||filter.chyperx.cc^
 ||filya.fb.i81.ru^
 ||findmethedns.info^
 ||firefenix.cf^
@@ -1458,6 +1470,7 @@
 ||flumuffel.de^
 ||fly.io^
 ||forum.ginovs.nl^
+||fr1.eastjoin.tk^
 ||fra1.eyecay.xyz^
 ||fra2.eyecay.xyz^
 ||fra.core.access.zznet.fun^
@@ -1470,6 +1483,7 @@
 ||free.shecan.ir^
 ||freeside.wntrmute.net^
 ||freestaila.synology.me^
+||friend.bedro.cloud^
 ||frog.dns.qwer.pw^
 ||frontpace.co.uk^
 ||frontpace.net^
@@ -1980,6 +1994,7 @@
 ||pihole.gcp.pathofgrace.com^
 ||pihole.mulu.at^
 ||pi.homeanywhere.org^
+||pinus-test.aeza.network^
 ||pistada.com^
 ||pitnetdns.ga^
 ||pixie.porkbun.com^
@@ -2088,6 +2103,7 @@
 ||rumpelsepp.org^
 ||s.101818.xyz^
 ||s1.soft88.click^
+||s.960423.xyz^
 ||sa01.dns4me.net^
 ||safe.kswro.web.id^
 ||safeservedns.com^
@@ -2346,6 +2362,7 @@
 ||vpn.geshido.ru^
 ||vpn.gosami.xyz^
 ||vpn.i81.ru^
+||vpn.nbvalente.fr^
 ||vpnonelove.ru^
 ||vpn-ru-msk.pakharenko.ru^
 ||vpn.rynet.link^
