@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2303010331 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2303020331 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2023-03-01 03:31:48 (UTC)
+; Last updated: 2023-03-02 03:31:56 (UTC)
 ;
 ; See https://jpgpi250.github.io/piholemanual/doc/Unbound%20response%20policy%20zones.pdf
 ; Report issues at https://github.com/jpgpi250/piholemanual/issues
@@ -446,6 +446,7 @@ cdzopi.duckdns.org CNAME .
 cedricreitz.com CNAME .
 cerebro.harrache.info CNAME .
 ch01adguardho.me CNAME .
+chanhome.xyz CNAME .
 chaos.altendorfme.com CNAME .
 chaos-system.de CNAME .
 chenc79.online CNAME .
@@ -1935,6 +1936,7 @@ ns1.recursive.dnsbycomodo.com CNAME .
 ns1.wagno.info CNAME .
 ns2.1899.com.mx CNAME .
 ns2.dnsprivacy.at CNAME .
+ns2-doh.iriseden.fr CNAME .
 ns2.flodns.net CNAME .
 ns2.hjk.me CNAME .
 ns2.hshh.org CNAME .
