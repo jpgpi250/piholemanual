@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2023-02-28 04:16:12 (UTC)
+! Last updated: 2023-03-01 03:46:05 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -161,6 +161,7 @@
 ||adguardhome.kirmanak.gq^
 ||adguardhome.lukemulvaney.com^
 ||adguard-home.myddns.me^
+||adguardhome.nguyenhoadev.ml^
 ||adguardhome.takkunn.pgw.jp^
 ||adguardhome-vps.couli.fr^
 ||adguard.ihatemy.live^
@@ -234,6 +235,7 @@
 ||adguard.shutgaming.net^
 ||adguard.shuting.idv.tw^
 ||adguard.spaceindex.net^
+||adguard.spyrisk.fr^
 ||adguard.sscw.win^
 ||adguard.styxnetwork.org^
 ||adguard.superbest.eu.org^
@@ -367,9 +369,11 @@
 ||azure.cloudflare-dns.com^
 ||b5lwtlgyqyly1typvyshftccwxuhk3zq.space^
 ||banhbaothiu.site^
+||ban.ppppppeeesss.info^
 ||basic.bravedns.com^
 ||basic.rethinkdns.com^
 ||batshitcrazy.ddns.net^
+||bbbtest.site^
 ||bb.jason666.top^
 ||bc10ef2.online-server.cloud^
 ||bcandrade.ml^
@@ -379,6 +383,7 @@
 ||bebracraft.ru^
 ||berd.moe^
 ||b.family.ns.dnslify.com^
+||bg-sof-w-3.nashkan.net^
 ||bigart-dns.tk^
 ||bilidon.dnsuser.info^
 ||birnenwasser.ddnss.de^
@@ -492,6 +497,7 @@
 ||d3.shabi.icu^
 ||d3.supremum.io^
 ||daisukivn.asuscomm.com^
+||dakulov.synology.me^
 ||dandelionsprout.asuscomm.com^
 ||d.apemlegit.my.id^
 ||darkboyjyoti.online^
@@ -512,6 +518,7 @@
 ||de-dus.doh.sb^
 ||de-fra.doh.sb^
 ||de-fsn-i-5.tegant.net^
+||defsnldns01.sc-hosting.info^
 ||de-fsn-o-1.nashkan.net^
 ||de-fsn-o-2.nashkan.net^
 ||de-fsn-w-12.nashkan.net^
@@ -519,6 +526,7 @@
 ||de-fsn-w-22.nashkan.net^
 ||de-fsn-w-23.nashkan.net^
 ||de-fsn-w-2.nashkan.net^
+||de-fsn-w-31.nashkan.net^
 ||de-fsn-w-3.nashkan.net^
 ||de-fsn-w-9.nashkan.net^
 ||deic-lgb.anycast.censurfridns.dk^
@@ -655,6 +663,7 @@
 ||dns.adguard.beltoev.ru^
 ||dns.adguard.com^
 ||dnsadguard.co.uk^
+||dnsadguard.ddns.net^
 ||dns.adguard-dns.com^
 ||dns.adguard.kozich.net^
 ||dns-adguard.ru^
@@ -668,6 +677,7 @@
 ||dns.amigo-mgn.ru^
 ||dns.andrewnw.xyz^
 ||dns.andreykiv.com^
+||dns.anonymous.pw^
 ||dns.anoogohost.net^
 ||dns.api.gandi.net^
 ||dns.api.globus.org^
@@ -711,6 +721,7 @@
 ||dns.bofh.in^
 ||dns.borlee.be^
 ||dns.brahma.world^
+||dns.briac-mlb.fr^
 ||dns.brian-hong.tech^
 ||dns.brightesttv.com^
 ||dns-br.leonardo.tec.br^
@@ -754,7 +765,6 @@
 ||dns.cybereager.net^
 ||dns.d309044.eu^
 ||dns.d365.in^
-||dns.d4d.moe^
 ||dns.d94.xyz^
 ||dns.d96.info^
 ||dns.darktraffic.cloud^
@@ -898,6 +908,7 @@
 ||dns.itdata.ro^
 ||dns.itdept.pro^
 ||dns.ivanromanov.ru^
+||dns.ivyeori.live^
 ||dns.jean.im^
 ||dns.jimirobaer.be^
 ||dns.joaofidelix.com.br^
@@ -1054,6 +1065,7 @@
 ||dns.rafal.top^
 ||dns.rafn.is^
 ||dns.rasks.ru^
+||dns.rasp.tv^
 ||dns.rassadnikov.ru^
 ||dns.reckoningslug.name^
 ||dns.redroot.me^
@@ -1085,6 +1097,7 @@
 ||dns.shecan.ir^
 ||dns.shimul.me^
 ||dns.ship.ga^
+||dns.sidot.xyz^
 ||dns.silen.org^
 ||dns.silentlybren.com^
 ||dnssilo.top^
@@ -1161,6 +1174,7 @@
 ||dns.vinokurov.tk^
 ||dns.vishalk.com^
 ||dns.vk09.ru^
+||dns.vladpro.ru^
 ||dns.vmath.my.id^
 ||dnsvps.familiamv.ml^
 ||dnsvps.porteii.com^
@@ -1196,6 +1210,7 @@
 ||dns.zvsrs.com^
 ||dns.zzuhacker.cn^
 ||dnx.niko-sem.com^
+||dockernet.vpsburti.com^
 ||do.dnscrypt.uk^
 ||dog.dns.qwer.pw^
 ||doh003.280blocker.net^
@@ -1459,6 +1474,7 @@
 ||family.canadianshield.cira.ca^
 ||family.cloudflare-dns.com^
 ||family.cloudflaredns.com^
+||family.dns.vladpro.ru^
 ||family-filter-dns.cleanbrowsing.org^
 ||family.freedns.controld.com^
 ||faradns.net^
@@ -1595,6 +1611,7 @@
 ||hole.elbschloss.xyz^
 ||home27.duckdns.org^
 ||home3.brosena.xyz^
+||home.basthorst.eu^
 ||home.bruckmoser.it^
 ||home.dlinkddns.com^
 ||homedns.gumeniuk.com^
@@ -1739,11 +1756,13 @@
 ||kr-sel.doh.sb^
 ||krtekvpn.duckdns.org^
 ||kr.telex.app^
+||k-s-edition.ru^
 ||kswro.web.id^
 ||kudns.kescher.at^
 ||kufei.ml^
 ||kufei.org^
 ||ky2dns.com^
+||kyjiep.com^
 ||lab-1.sellan.fr^
 ||lab.sellan.fr^
 ||lampedns.bagmeijer.nl^
@@ -1809,6 +1828,7 @@
 ||masters-of-cloud.de^
 ||matrix.soeding.ddnss.de^
 ||matthias-prost.com^
+||matvey.dns.vladpro.ru^
 ||mavrikk.duckdns.org^
 ||max.rethinkdns.com^
 ||maye.ir^
@@ -1836,6 +1856,7 @@
 ||multipurpose1.terumi.club^
 ||mumble.ddnss.de^
 ||muxyuji.ru^
+||muyvsr.top^
 ||mx1.laoxiao789.com^
 ||myadguardhome.com^
 ||myadguardhome.me^
@@ -1858,12 +1879,13 @@
 ||nas.delage.li^
 ||nas.embraced.co^
 ||nas-t1.ddns.net^
+||nastya.dns.vladpro.ru^
 ||nat64.tuxis.nl^
+||na-texas-adguard-01.joshsevero.dev^
 ||nathor.ddns.net^
 ||nayemador.com^
 ||ndns.233py.com^
 ||neatdns.ustclug.org^
-||nebula.sly.io^
 ||nebula.tru.io^
 ||neochronicles.live^
 ||neo.esbpcs.my.id^
@@ -1882,10 +1904,12 @@
 ||nl.galaskar.ga^
 ||noadsapp.net^
 ||noads.cloud^
+||noads.dns.vladpro.ru^
 ||node.thierryserver.nl^
 ||nongdanthanky.com^
 ||note11.diplo.es^
 ||notecore.me^
+||nrt.core.access.zznet.fun^
 ||nrt.public.gfwdns.net^
 ||ns.00dani.me^
 ||ns01.hostrocket.com.ua^
@@ -1907,7 +1931,6 @@
 ||ns1.wagno.info^
 ||ns2.1899.com.mx^
 ||ns2.dnsprivacy.at^
-||ns2-doh.iriseden.fr^
 ||ns2.flodns.net^
 ||ns2.hjk.me^
 ||ns2.hshh.org^
@@ -2003,6 +2026,7 @@
 ||percival.empty.pw^
 ||pestemedie.silviustroe.com^
 ||peter-adguard.ddns.net^
+||pg.web-rated.ie^
 ||phone.dns.adguard.beltoev.ru^
 ||phucbui.top^
 ||pi1.node15.com^
@@ -2019,6 +2043,7 @@
 ||pihole.mulu.at^
 ||pi.homeanywhere.org^
 ||pinus-test.aeza.network^
+||piotrsobczak.com^
 ||pistada.com^
 ||pitnetdns.ga^
 ||pixie.porkbun.com^
@@ -2277,11 +2302,11 @@
 ||tls.jackyhou.idv.tw^
 ||tls.zhiyou.me^
 ||tlz.asia^
-||tmkis-dns.de^
 ||toaster.lol^
 ||todns.work^
 ||tor.cloudflare-dns.com^
 ||torettohome.com^
+||torresdelarosa.dev^
 ||tor.vasi.li^
 ||travis90x.ddns.net^
 ||tr-ist-w-1.nashkan.net^
@@ -2381,6 +2406,8 @@
 ||virmamp33.sytes.net^
 ||visitoid.online^
 ||vlad.dns.amigo-mgn.ru^
+||vlad.dns.vladpro.ru^
+||vladpro.ru^
 ||vmd45200.contabo.wallura.eu^
 ||vmi1067860.contaboserver.net^
 ||vmi880423.contaboserver.net^
@@ -2399,6 +2426,7 @@
 ||vpn.geshido.ru^
 ||vpn.gosami.xyz^
 ||vpn.i81.ru^
+||vpn.jogjacloud.com^
 ||vpn.nbvalente.fr^
 ||vpnonelove.ru^
 ||vpn-ru-msk.pakharenko.ru^
@@ -2414,6 +2442,7 @@
 ||vps.jmarkin.ru^
 ||vpsus3.pzhg.me^
 ||vps.vokuev.org^
+||vsrv15195.customer.xenway.de^
 ||vudy.ru^
 ||vvmm.me^
 ||w0125ca5.kasserver.com^
