@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2023-03-01 03:46:05 (UTC)
+! Last updated: 2023-03-02 03:46:13 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -442,6 +442,7 @@
 ||cedricreitz.com^
 ||cerebro.harrache.info^
 ||ch01adguardho.me^
+||chanhome.xyz^
 ||chaos.altendorfme.com^
 ||chaos-system.de^
 ||chenc79.online^
@@ -1931,6 +1932,7 @@
 ||ns1.wagno.info^
 ||ns2.1899.com.mx^
 ||ns2.dnsprivacy.at^
+||ns2-doh.iriseden.fr^
 ||ns2.flodns.net^
 ||ns2.hjk.me^
 ||ns2.hshh.org^
