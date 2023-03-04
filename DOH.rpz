@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2303030335 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2303040340 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2023-03-03 03:35:41 (UTC)
+; Last updated: 2023-03-04 03:40:40 (UTC)
 ;
 ; See https://jpgpi250.github.io/piholemanual/doc/Unbound%20response%20policy%20zones.pdf
 ; Report issues at https://github.com/jpgpi250/piholemanual/issues
@@ -15,6 +15,7 @@ $TTL 30
 ;   I (jpgpi250) can not be held liable for any false positive or damage caused by the use of the datasets offered.
 ;
 003.tisyang.com CNAME .
+0099domain.ecuplshsj.cn CNAME .
 01qnpxtzym02adjlrcub03.sergeykobzar.com.ua CNAME .
 04qnpxtzym05adjlrcub06.sergeykobzar.com.ua CNAME .
 07qnpxtzym08adjlrcub09.sergeykobzar.com.ua CNAME .
@@ -151,6 +152,7 @@ adguard-dns.turker.info CNAME .
 adguard.dsns.cloud CNAME .
 adguard.dtness.com CNAME .
 adguard.ef67daisuki.club CNAME .
+adguard.elashri.xyz CNAME .
 adguard.emperorslounge.net CNAME .
 adguard.ender.fr CNAME .
 adguard.eximpius.xyz CNAME .
@@ -296,6 +298,7 @@ ahadns.net CNAME .
 ahboy.asuscomm.com CNAME .
 aihe.app CNAME .
 aikiquare.top CNAME .
+aimuz.me CNAME .
 airmaxcloud.ml CNAME .
 a.jij.kr CNAME .
 akhil.ddns.net CNAME .
@@ -420,6 +423,7 @@ br.servers.legat.ml CNAME .
 b.safe.ns.dnslify.com CNAME .
 buc-m2.illmods.com CNAME .
 bushmancastle.duckdns.org CNAME .
+bvo.giize.com CNAME .
 bwg.seggs.cn CNAME .
 bwh2.telex.app CNAME .
 bw.i81.ru CNAME .
@@ -493,6 +497,7 @@ connect.fcpsunleashed.org CNAME .
 cossxiu.ga CNAME .
 crd.circl.lu CNAME .
 creal.sytes.net CNAME .
+cristianocosta.me CNAME .
 crypto.sx CNAME .
 cubedns.com CNAME .
 cube.neubsi.at CNAME .
@@ -690,7 +695,6 @@ dns.altairzone.it CNAME .
 dns.amigo-mgn.ru CNAME .
 dns.andrewnw.xyz CNAME .
 dns.andreykiv.com CNAME .
-dns.anonymous.pw CNAME .
 dns.anoogohost.net CNAME .
 dns.api.gandi.net CNAME .
 dns.api.globus.org CNAME .
@@ -779,6 +783,7 @@ dns.cwlys.com CNAME .
 dns.cybereager.net CNAME .
 dns.d309044.eu CNAME .
 dns.d365.in CNAME .
+dns.d4d.moe CNAME .
 dns.d94.xyz CNAME .
 dns.d96.info CNAME .
 dns.darktraffic.cloud CNAME .
@@ -928,6 +933,7 @@ dns.ivanromanov.ru CNAME .
 dns.ivyeori.live CNAME .
 dns.jean.im CNAME .
 dns.jimirobaer.be CNAME .
+dns.jinwoo.dev CNAME .
 dns.joaofidelix.com.br CNAME .
 dns.joey01245.nl CNAME .
 dns.jucker.engineering CNAME .
@@ -997,11 +1003,13 @@ dns.moonssif.com CNAME .
 dns.moulticast.net CNAME .
 dns.mrkaran.dev CNAME .
 dns.msameh.tk CNAME .
+dns.msr177.com CNAME .
 dns.msxnet.ru CNAME .
 dns.mtnh.tk CNAME .
 dns.muadib.club CNAME .
 dns.murgi.de CNAME .
 dns.muxinghe.cn CNAME .
+dns.mysvc.de CNAME .
 dns.mzrme.cn CNAME .
 dns.n23.io CNAME .
 dns.nas-server.ru CNAME .
@@ -1784,6 +1792,7 @@ kufei.ml CNAME .
 kufei.org CNAME .
 ky2dns.com CNAME .
 kyjiep.com CNAME .
+kz-alm-w-1.nashkan.net CNAME .
 lab-1.sellan.fr CNAME .
 lab.sellan.fr CNAME .
 lampedns.bagmeijer.nl CNAME .
@@ -1867,6 +1876,7 @@ mimile.despagne.ovh CNAME .
 mimir.netwerk.io CNAME .
 mitron.one CNAME .
 mkrepair.ddns.net CNAME .
+mo0on15.com CNAME .
 mocha.r.rnet.ie CNAME .
 mozilla.cloudflare-dns.com CNAME .
 msr177.com CNAME .
@@ -2069,7 +2079,6 @@ pinus-test.aeza.network CNAME .
 piotrsobczak.com CNAME .
 pistada.com CNAME .
 pitnetdns.ga CNAME .
-pixie.porkbun.com CNAME .
 planty.ddns.us CNAME .
 plex.i.solutics.ec CNAME .
 pliszka.ml CNAME .
@@ -2191,6 +2200,7 @@ sby-doh.limotelu.org CNAME .
 sbydoh.limotelu.org CNAME .
 scrole.shop CNAME .
 sdns.233py.com CNAME .
+sdns.uplenk.com CNAME .
 sdvizhkov.ru CNAME .
 seanyan.ddns.net CNAME .
 secureadguarddns.charleslondon.online CNAME .
@@ -2232,6 +2242,7 @@ sg-dns2.bancuh.com CNAME .
 sg.gridns.xyz CNAME .
 sgpcloud.duckdns.org CNAME .
 sgp.vpn.i-2.io CNAME .
+sgs01.just-a-web.com CNAME .
 sgs02.just-a-web.com CNAME .
 sgs03.just-a-web.com CNAME .
 sg-sin.doh.sb CNAME .
@@ -2428,6 +2439,7 @@ v2.xx3210766.live CNAME .
 v3.passby.ga CNAME .
 v6.rubyfish.cn CNAME .
 valis.sx CNAME .
+vallecerroazul.com CNAME .
 valleverde.icu CNAME .
 vanced.ddns.net CNAME .
 vanced.racinas.com CNAME .
