@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2023-03-03 03:50:04 (UTC)
+! Last updated: 2023-03-04 03:55:03 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -11,6 +11,7 @@
 !   I (jpgpi250) can not be held liable for any false positive or damage caused by the use of the datasets offered.
 !
 ||003.tisyang.com^
+||0099domain.ecuplshsj.cn^
 ||01qnpxtzym02adjlrcub03.sergeykobzar.com.ua^
 ||04qnpxtzym05adjlrcub06.sergeykobzar.com.ua^
 ||07qnpxtzym08adjlrcub09.sergeykobzar.com.ua^
@@ -147,6 +148,7 @@
 ||adguard.dsns.cloud^
 ||adguard.dtness.com^
 ||adguard.ef67daisuki.club^
+||adguard.elashri.xyz^
 ||adguard.emperorslounge.net^
 ||adguard.ender.fr^
 ||adguard.eximpius.xyz^
@@ -292,6 +294,7 @@
 ||ahboy.asuscomm.com^
 ||aihe.app^
 ||aikiquare.top^
+||aimuz.me^
 ||airmaxcloud.ml^
 ||a.jij.kr^
 ||akhil.ddns.net^
@@ -416,6 +419,7 @@
 ||b.safe.ns.dnslify.com^
 ||buc-m2.illmods.com^
 ||bushmancastle.duckdns.org^
+||bvo.giize.com^
 ||bwg.seggs.cn^
 ||bwh2.telex.app^
 ||bw.i81.ru^
@@ -489,6 +493,7 @@
 ||cossxiu.ga^
 ||crd.circl.lu^
 ||creal.sytes.net^
+||cristianocosta.me^
 ||crypto.sx^
 ||cubedns.com^
 ||cube.neubsi.at^
@@ -686,7 +691,6 @@
 ||dns.amigo-mgn.ru^
 ||dns.andrewnw.xyz^
 ||dns.andreykiv.com^
-||dns.anonymous.pw^
 ||dns.anoogohost.net^
 ||dns.api.gandi.net^
 ||dns.api.globus.org^
@@ -775,6 +779,7 @@
 ||dns.cybereager.net^
 ||dns.d309044.eu^
 ||dns.d365.in^
+||dns.d4d.moe^
 ||dns.d94.xyz^
 ||dns.d96.info^
 ||dns.darktraffic.cloud^
@@ -924,6 +929,7 @@
 ||dns.ivyeori.live^
 ||dns.jean.im^
 ||dns.jimirobaer.be^
+||dns.jinwoo.dev^
 ||dns.joaofidelix.com.br^
 ||dns.joey01245.nl^
 ||dns.jucker.engineering^
@@ -993,11 +999,13 @@
 ||dns.moulticast.net^
 ||dns.mrkaran.dev^
 ||dns.msameh.tk^
+||dns.msr177.com^
 ||dns.msxnet.ru^
 ||dns.mtnh.tk^
 ||dns.muadib.club^
 ||dns.murgi.de^
 ||dns.muxinghe.cn^
+||dns.mysvc.de^
 ||dns.mzrme.cn^
 ||dns.n23.io^
 ||dns.nas-server.ru^
@@ -1780,6 +1788,7 @@
 ||kufei.org^
 ||ky2dns.com^
 ||kyjiep.com^
+||kz-alm-w-1.nashkan.net^
 ||lab-1.sellan.fr^
 ||lab.sellan.fr^
 ||lampedns.bagmeijer.nl^
@@ -1863,6 +1872,7 @@
 ||mimir.netwerk.io^
 ||mitron.one^
 ||mkrepair.ddns.net^
+||mo0on15.com^
 ||mocha.r.rnet.ie^
 ||mozilla.cloudflare-dns.com^
 ||msr177.com^
@@ -2065,7 +2075,6 @@
 ||piotrsobczak.com^
 ||pistada.com^
 ||pitnetdns.ga^
-||pixie.porkbun.com^
 ||planty.ddns.us^
 ||plex.i.solutics.ec^
 ||pliszka.ml^
@@ -2187,6 +2196,7 @@
 ||sbydoh.limotelu.org^
 ||scrole.shop^
 ||sdns.233py.com^
+||sdns.uplenk.com^
 ||sdvizhkov.ru^
 ||seanyan.ddns.net^
 ||secureadguarddns.charleslondon.online^
@@ -2228,6 +2238,7 @@
 ||sg.gridns.xyz^
 ||sgpcloud.duckdns.org^
 ||sgp.vpn.i-2.io^
+||sgs01.just-a-web.com^
 ||sgs02.just-a-web.com^
 ||sgs03.just-a-web.com^
 ||sg-sin.doh.sb^
@@ -2424,6 +2435,7 @@
 ||v3.passby.ga^
 ||v6.rubyfish.cn^
 ||valis.sx^
+||vallecerroazul.com^
 ||valleverde.icu^
 ||vanced.ddns.net^
 ||vanced.racinas.com^
