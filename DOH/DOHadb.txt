@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2023-03-04 03:55:03 (UTC)
+! Last updated: 2023-03-05 03:46:39 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -139,6 +139,7 @@
 ||adguard.dashofsunny.com^
 ||adguard.ddns.net^
 ||adguard.dekonix.ru^
+||adguard.demaks.org^
 ||adguard.depieri.net^
 ||adguard.dessoi.cloud^
 ||adguard.djay.tk^
@@ -296,6 +297,7 @@
 ||aikiquare.top^
 ||aimuz.me^
 ||airmaxcloud.ml^
+||aizi.app^
 ||a.jij.kr^
 ||akhil.ddns.net^
 ||akhilkalwakurthy.dyndns.org^
@@ -360,7 +362,6 @@
 ||au-syd-w-2.nashkan.net^
 ||au-syd-w-3.nashkan.net^
 ||au.teradns.org^
-||auto-cn-hk-8000.go-behind.one^
 ||autodiscover.elshad-adgh-dns.ru^
 ||autodiscover.promsdns.com^
 ||automaton-mm1.duckdns.org^
@@ -370,6 +371,7 @@
 ||aws.haoxuan.xyz^
 ||aws.razor1911.xyz^
 ||axaxa.fun^
+||axell24.ml^
 ||az2q.xyz^
 ||azagramac.duckdns.org^
 ||azure.cloudflare-dns.com^
@@ -484,7 +486,6 @@
 ||clubsv.duckdns.org^
 ||cluster-0.gac.edu^
 ||cluster-1.gac.edu^
-||cname-for-doh.go-behind.one^
 ||colean.go.ro^
 ||commons.host^
 ||comss.one^
@@ -691,6 +692,7 @@
 ||dns.amigo-mgn.ru^
 ||dns.andrewnw.xyz^
 ||dns.andreykiv.com^
+||dns.anonymous.pw^
 ||dns.anoogohost.net^
 ||dns.api.gandi.net^
 ||dns.api.globus.org^
@@ -779,7 +781,6 @@
 ||dns.cybereager.net^
 ||dns.d309044.eu^
 ||dns.d365.in^
-||dns.d4d.moe^
 ||dns.d94.xyz^
 ||dns.d96.info^
 ||dns.darktraffic.cloud^
@@ -879,6 +880,7 @@
 ||dns.grusdas.net^
 ||dns-guard1.cryptroute.com^
 ||dns-guard2.cryptroute.com^
+||dns.h0me.cc^
 ||dns.h0schi.cloud^
 ||dns.h81.pl^
 ||dns.hackerwolf.xyz^
@@ -964,6 +966,7 @@
 ||dns.lfac.ml^
 ||dns.lfac.xyz^
 ||dns.lightmaster.pw^
+||dns.lilith.cloud^
 ||dns.linkr.ninja^
 ||dns.liumuze.org^
 ||dns.loony-tech.de^
@@ -987,6 +990,7 @@
 ||dns.melalandia.tk^
 ||dns.mgiptvpro.ml^
 ||dns.mikeliu.org^
+||dns.mikrotikrumahan.my.id^
 ||dns.minliny.com^
 ||dns.mipauns.com^
 ||dns.mirandil.ru^
@@ -1357,6 +1361,7 @@
 ||doh.opendns.com^
 ||doh.pi-dns.com^
 ||doh.pl.ahadns.net^
+||doh.plop.cc^
 ||doh.port53.dk^
 ||doh.post-factum.tk^
 ||doh.powerdns.org^
@@ -1599,6 +1604,7 @@
 ||guard-linodefree.tk^
 ||guard.magic-pics.tk^
 ||guard.sntrk.ru^
+||guard.yps.tw^
 ||gunag.duckdns.org^
 ||guoyingwei.top^
 ||gusald.com^
@@ -1611,6 +1617,7 @@
 ||helios.plan9-dns.com^
 ||helios.plan9dns.com^
 ||hellojonathan.xyz^
+||heoyun.com^
 ||hermes.ohai.ca^
 ||hewittnet.us^
 ||hgns.harriganhome.ga^
@@ -1693,6 +1700,7 @@
 ||i.passcloud.xyz^
 ||ipharaon.ru^
 ||ipoac.nl^
+||ir.deghy.ir^
 ||iris.woozeno.eu^
 ||irre.li^
 ||i.solutics.ec^
@@ -1757,7 +1765,6 @@
 ||killads.vpms.xyz^
 ||kintoun.alves.cc^
 ||kintyre.uk^
-||kirmanak.gq^
 ||kiwifunke.duckdns.org^
 ||knight1.de^
 ||kondrcloud.ru^
@@ -1781,7 +1788,9 @@
 ||kr-sel.doh.sb^
 ||krtekvpn.duckdns.org^
 ||kr.telex.app^
+||ks1.plop.cc^
 ||k-s-edition.ru^
+||ksedns.ru^
 ||kswro.web.id^
 ||kudns.kescher.at^
 ||kufei.ml^
@@ -1914,6 +1923,7 @@
 ||ndns.233py.com^
 ||neatdns.ustclug.org^
 ||nebula.tru.io^
+||neelhatesads.cf^
 ||neochronicles.live^
 ||neo.esbpcs.my.id^
 ||neptune.alpo.me^
@@ -2075,6 +2085,7 @@
 ||piotrsobczak.com^
 ||pistada.com^
 ||pitnetdns.ga^
+||pixie.porkbun.com^
 ||planty.ddns.us^
 ||plex.i.solutics.ec^
 ||pliszka.ml^
@@ -2308,6 +2319,7 @@
 ||sync-sigita.racinas.com^
 ||sync-simonas.racinas.com^
 ||szyrzyk.pl^
+||t1c.240130034.xyz^
 ||t2c.240130034.xyz^
 ||t3c.240130034.xyz^
 ||t4.240130034.xyz^
@@ -2338,6 +2350,7 @@
 ||tkge.tk^
 ||tls-dns-u.odvr.dns-oarc.net^
 ||tls.jackyhou.idv.tw^
+||tls.vietguards.cloud^
 ||tls.zhiyou.me^
 ||tlz.asia^
 ||toaster.lol^
@@ -2512,10 +2525,12 @@
 ||www.adguard-server.cf^
 ||www.agafon.site^
 ||www.agafon.space^
+||www.aizi.app^
 ||www.alpha-dns.de^
 ||www.andrei-se.ru^
 ||www.andrewnw.xyz^
 ||www.atomicvps.xyz^
+||www.axell24.ml^
 ||www.az2q.xyz^
 ||www.beautifulcity.eu.org^
 ||www.c-dns.com^
@@ -2557,6 +2572,7 @@
 ||www.muxyuji.ru^
 ||www.myadguardhome.me^
 ||www.nilanjan.rocks^
+||www.ovpn.bond^
 ||www.paskam.tk^
 ||www.promsdns.com^
 ||www.qwenty.ru^
@@ -2597,6 +2613,7 @@
 ||yair.link^
 ||yario.ru^
 ||yarp.lefolgoc.net^
+||yatesfamily.cloud^
 ||ychen.cf^
 ||ychen.ga^
 ||ychen.gq^
