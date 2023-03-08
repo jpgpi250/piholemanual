@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2303070352 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2303080337 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2023-03-07 03:52:21 (UTC)
+; Last updated: 2023-03-08 03:37:12 (UTC)
 ;
 ; See https://jpgpi250.github.io/piholemanual/doc/Unbound%20response%20policy%20zones.pdf
 ; Report issues at https://github.com/jpgpi250/piholemanual/issues
@@ -92,6 +92,7 @@ ad.dscw.io CNAME .
 ad.emekm.fr CNAME .
 adenvps.cf CNAME .
 adfree.usableprivacy.net CNAME .
+adg2.felhocskek.hu CNAME .
 adg2.spacework.com.mx CNAME .
 adgaurd.lingmont.net CNAME .
 adg.dankatapich.eu.org CNAME .
@@ -197,6 +198,7 @@ adguard.laurenlaufman.com CNAME .
 adguard.lege.despagne.net CNAME .
 adguard.lilis.xin CNAME .
 adguard.lspcr.space CNAME .
+adguard.mattiafenzi.uk CNAME .
 adguard.meddy94.de CNAME .
 adguard.mitar.ovh CNAME .
 adguard.mjanson.de CNAME .
@@ -209,6 +211,7 @@ adguard.myddns.org CNAME .
 adguard.myhomelab.tech CNAME .
 adguard.mywebdoma.in CNAME .
 adguard.netmasc.services CNAME .
+adguard.nielsenhost.dk CNAME .
 adguard.nielsvoorn.nl CNAME .
 adguard.niko-sem.com CNAME .
 adguard.nn7.pw CNAME .
@@ -414,7 +417,6 @@ blackhole.myon.lu CNAME .
 bld.sys-adm.in CNAME .
 blitz.ahadns.com CNAME .
 blitzd.co.uk CNAME .
-blitz-setup.ahadns.com CNAME .
 block.abstergo.it CNAME .
 block.buck.ovh CNAME .
 blockemall.xyz CNAME .
@@ -578,6 +580,7 @@ de-passage.9273082020.ru CNAME .
 de.proshvip.space CNAME .
 derekcastle.duckdns.org CNAME .
 dergun.quest CNAME .
+derowd.freeboxos.fr CNAME .
 de.teradns.org CNAME .
 deus-server.duckdns.org CNAME .
 dev.reallemc.com CNAME .
@@ -1156,6 +1159,7 @@ dns.sidot.xyz CNAME .
 dns.silen.org CNAME .
 dns.silentlybren.com CNAME .
 dnssilo.top CNAME .
+dns.simplylinux.ch CNAME .
 dns.simulhost.com CNAME .
 dns.siry.de CNAME .
 dns.skrep.eu CNAME .
@@ -1182,6 +1186,7 @@ dns.switch.ch CNAME .
 dns.syaifullah.com CNAME .
 dns.t53.de CNAME .
 dns.tapawan.ca CNAME .
+dns.teaminfo.fr CNAME .
 dns.techcpu.net CNAME .
 dns.telekom.de CNAME .
 dns.tesem.dog CNAME .
@@ -1366,6 +1371,14 @@ dohjp.blahdns.com CNAME .
 doh.killtw.im CNAME .
 doh.la.ahadns.net CNAME .
 doh.lacontrevoie.fr CNAME .
+doh-lb-atl.dnsflex.com CNAME .
+doh-lb-br.dnsflex.com CNAME .
+doh-lb-ca-tor.dnsflex.com CNAME .
+doh-lb-de.dnsflex.com CNAME .
+doh-lb-gb.dnsflex.com CNAME .
+doh-lb-in.dnsflex.com CNAME .
+doh-lb-sg.dnsflex.com CNAME .
+doh-lb-tr.dnsflex.com CNAME .
 doh.li CNAME .
 doh.libredns.gr CNAME .
 doh.libredns.org CNAME .
@@ -1723,6 +1736,7 @@ igor.fb.i81.ru CNAME .
 igor.vpn.i81.ru CNAME .
 ihctw.synology.me CNAME .
 iij.jp CNAME .
+i.iscx.xyz CNAME .
 ikarosalpha.xyz CNAME .
 ilcha.ru CNAME .
 in02.localnet.dev CNAME .
@@ -1804,6 +1818,7 @@ kids.dns0.eu CNAME .
 killads.vpms.xyz CNAME .
 kintoun.alves.cc CNAME .
 kintyre.uk CNAME .
+kirmanak.gq CNAME .
 kiwifunke.duckdns.org CNAME .
 knight1.de CNAME .
 kondrcloud.ru CNAME .
@@ -1887,6 +1902,7 @@ mail.data.haus CNAME .
 mail.dehb.ru CNAME .
 mail.elshad-adgh-dns.ru CNAME .
 mailer.amlegion.org CNAME .
+mail-ext.extrageneric.com CNAME .
 mail.pragmasec.nl CNAME .
 mail.promsdns.com CNAME .
 mainframe.dewed.de CNAME .
@@ -2099,6 +2115,7 @@ p1.freedns.controld.com CNAME .
 p2.freedns.controld.com CNAME .
 p3.freedns.controld.com CNAME .
 p549314cd.dip0.t-ipconnect.de CNAME .
+pair02-02.ihatemy.live CNAME .
 palazzoddns.tk CNAME .
 paskam.tk CNAME .
 pass12335.myds.me CNAME .
@@ -2439,6 +2456,7 @@ ueni.dyndns.org CNAME .
 uixie.porkbun.com CNAME .
 uk01.dns4me.net CNAME .
 uk.adhole.org CNAME .
+uk.heikwan.tech CNAME .
 uk-lon.doh.sb CNAME .
 uk.teradns.org CNAME .
 uncensored.any.dns.nixnet.xyz CNAME .
