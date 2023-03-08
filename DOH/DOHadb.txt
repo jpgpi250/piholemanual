@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2023-03-06 04:01:35 (UTC)
+! Last updated: 2023-03-07 04:07:00 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -712,6 +712,7 @@
 ||dns-ams.pdf-docs.ru^
 ||dns.andrewnw.xyz^
 ||dns.andreykiv.com^
+||dns.anonymous.pw^
 ||dns.anoogohost.net^
 ||dns.api.gandi.net^
 ||dns.api.globus.org^
@@ -762,7 +763,6 @@
 ||dns.bulatov.dev^
 ||dns.bw.i81.ru^
 ||dnscache.e-utp.net^
-||dnscache.eutp.net^
 ||dns.cachitopetshop.com^
 ||dns.carson-family.com^
 ||dns.carter.me^
@@ -800,7 +800,6 @@
 ||dns.cybereager.net^
 ||dns.d309044.eu^
 ||dns.d365.in^
-||dns.d4d.moe^
 ||dns.d94.xyz^
 ||dns.d96.info^
 ||dns.darktraffic.cloud^
@@ -1801,7 +1800,6 @@
 ||killads.vpms.xyz^
 ||kintoun.alves.cc^
 ||kintyre.uk^
-||kirmanak.gq^
 ||kiwifunke.duckdns.org^
 ||knight1.de^
 ||kondrcloud.ru^
@@ -2097,7 +2095,6 @@
 ||p2.freedns.controld.com^
 ||p3.freedns.controld.com^
 ||p549314cd.dip0.t-ipconnect.de^
-||pair02-02.ihatemy.live^
 ||palazzoddns.tk^
 ||paskam.tk^
 ||pass12335.myds.me^
