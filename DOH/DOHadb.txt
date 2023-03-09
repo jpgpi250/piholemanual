@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2023-03-07 04:07:00 (UTC)
+! Last updated: 2023-03-08 03:51:58 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -88,6 +88,7 @@
 ||ad.emekm.fr^
 ||adenvps.cf^
 ||adfree.usableprivacy.net^
+||adg2.felhocskek.hu^
 ||adg2.spacework.com.mx^
 ||adgaurd.lingmont.net^
 ||adg.dankatapich.eu.org^
@@ -193,6 +194,7 @@
 ||adguard.lege.despagne.net^
 ||adguard.lilis.xin^
 ||adguard.lspcr.space^
+||adguard.mattiafenzi.uk^
 ||adguard.meddy94.de^
 ||adguard.mitar.ovh^
 ||adguard.mjanson.de^
@@ -205,6 +207,7 @@
 ||adguard.myhomelab.tech^
 ||adguard.mywebdoma.in^
 ||adguard.netmasc.services^
+||adguard.nielsenhost.dk^
 ||adguard.nielsvoorn.nl^
 ||adguard.niko-sem.com^
 ||adguard.nn7.pw^
@@ -410,7 +413,6 @@
 ||bld.sys-adm.in^
 ||blitz.ahadns.com^
 ||blitzd.co.uk^
-||blitz-setup.ahadns.com^
 ||block.abstergo.it^
 ||block.buck.ovh^
 ||blockemall.xyz^
@@ -574,6 +576,7 @@
 ||de.proshvip.space^
 ||derekcastle.duckdns.org^
 ||dergun.quest^
+||derowd.freeboxos.fr^
 ||de.teradns.org^
 ||deus-server.duckdns.org^
 ||dev.reallemc.com^
@@ -1152,6 +1155,7 @@
 ||dns.silen.org^
 ||dns.silentlybren.com^
 ||dnssilo.top^
+||dns.simplylinux.ch^
 ||dns.simulhost.com^
 ||dns.siry.de^
 ||dns.skrep.eu^
@@ -1178,6 +1182,7 @@
 ||dns.syaifullah.com^
 ||dns.t53.de^
 ||dns.tapawan.ca^
+||dns.teaminfo.fr^
 ||dns.techcpu.net^
 ||dns.telekom.de^
 ||dns.tesem.dog^
@@ -1362,6 +1367,14 @@
 ||doh.killtw.im^
 ||doh.la.ahadns.net^
 ||doh.lacontrevoie.fr^
+||doh-lb-atl.dnsflex.com^
+||doh-lb-br.dnsflex.com^
+||doh-lb-ca-tor.dnsflex.com^
+||doh-lb-de.dnsflex.com^
+||doh-lb-gb.dnsflex.com^
+||doh-lb-in.dnsflex.com^
+||doh-lb-sg.dnsflex.com^
+||doh-lb-tr.dnsflex.com^
 ||doh.li^
 ||doh.libredns.gr^
 ||doh.libredns.org^
@@ -1719,6 +1732,7 @@
 ||igor.vpn.i81.ru^
 ||ihctw.synology.me^
 ||iij.jp^
+||i.iscx.xyz^
 ||ikarosalpha.xyz^
 ||ilcha.ru^
 ||in02.localnet.dev^
@@ -1800,6 +1814,7 @@
 ||killads.vpms.xyz^
 ||kintoun.alves.cc^
 ||kintyre.uk^
+||kirmanak.gq^
 ||kiwifunke.duckdns.org^
 ||knight1.de^
 ||kondrcloud.ru^
@@ -1883,6 +1898,7 @@
 ||mail.dehb.ru^
 ||mail.elshad-adgh-dns.ru^
 ||mailer.amlegion.org^
+||mail-ext.extrageneric.com^
 ||mail.pragmasec.nl^
 ||mail.promsdns.com^
 ||mainframe.dewed.de^
@@ -2095,6 +2111,7 @@
 ||p2.freedns.controld.com^
 ||p3.freedns.controld.com^
 ||p549314cd.dip0.t-ipconnect.de^
+||pair02-02.ihatemy.live^
 ||palazzoddns.tk^
 ||paskam.tk^
 ||pass12335.myds.me^
@@ -2435,6 +2452,7 @@
 ||uixie.porkbun.com^
 ||uk01.dns4me.net^
 ||uk.adhole.org^
+||uk.heikwan.tech^
 ||uk-lon.doh.sb^
 ||uk.teradns.org^
 ||uncensored.any.dns.nixnet.xyz^
