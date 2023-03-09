@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2303080337 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2303090336 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2023-03-08 03:37:12 (UTC)
+; Last updated: 2023-03-09 03:36:11 (UTC)
 ;
 ; See https://jpgpi250.github.io/piholemanual/doc/Unbound%20response%20policy%20zones.pdf
 ; Report issues at https://github.com/jpgpi250/piholemanual/issues
@@ -377,7 +377,6 @@ au-syd.doh.sb CNAME .
 au-syd-w-2.nashkan.net CNAME .
 au-syd-w-3.nashkan.net CNAME .
 au.teradns.org CNAME .
-auto-cn-hk-8000.go-behind.one CNAME .
 autodiscover.elshad-adgh-dns.ru CNAME .
 autodiscover.promsdns.com CNAME .
 automaton-mm1.duckdns.org CNAME .
@@ -506,7 +505,6 @@ cloud.tezoi.com CNAME .
 clubsv.duckdns.org CNAME .
 cluster-0.gac.edu CNAME .
 cluster-1.gac.edu CNAME .
-cname-for-doh.go-behind.one CNAME .
 colean.go.ro CNAME .
 commons.host CNAME .
 comss.one CNAME .
@@ -1443,6 +1441,7 @@ doh.wewitro.net CNAME .
 doh.xcom.pro CNAME .
 doh.xfinity.com CNAME .
 doh.zephyrus.id CNAME .
+domainparking-dnspod.cn CNAME .
 dominatrix.brandonsli.com CNAME .
 dop.privatedns.org CNAME .
 do.shimul.me CNAME .
@@ -1459,6 +1458,7 @@ dot.chi.ahadns.net CNAME .
 dot.cox.net CNAME .
 dot-de.blahdns.com CNAME .
 dotdns.cryptroute.com CNAME .
+dotdown.netlify.app CNAME .
 dot.eastas.pi-dns.com CNAME .
 dot.eastau.pi-dns.com CNAME .
 dot.eastus.pi-dns.com CNAME .
@@ -1895,7 +1895,6 @@ lv1.nixnet.xyz CNAME .
 lv-rig-w-1.nashkan.net CNAME .
 maddino.dedyn.io CNAME .
 madrid.ciscofreak.com CNAME .
-magnon.duckdns.org CNAME .
 maikel.greppie.nl CNAME .
 mail.andrewnw.xyz CNAME .
 mail.data.haus CNAME .
