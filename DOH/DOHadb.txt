@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2023-03-08 03:51:58 (UTC)
+! Last updated: 2023-03-09 03:50:53 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -373,7 +373,6 @@
 ||au-syd-w-2.nashkan.net^
 ||au-syd-w-3.nashkan.net^
 ||au.teradns.org^
-||auto-cn-hk-8000.go-behind.one^
 ||autodiscover.elshad-adgh-dns.ru^
 ||autodiscover.promsdns.com^
 ||automaton-mm1.duckdns.org^
@@ -502,7 +501,6 @@
 ||clubsv.duckdns.org^
 ||cluster-0.gac.edu^
 ||cluster-1.gac.edu^
-||cname-for-doh.go-behind.one^
 ||colean.go.ro^
 ||commons.host^
 ||comss.one^
@@ -1439,6 +1437,7 @@
 ||doh.xcom.pro^
 ||doh.xfinity.com^
 ||doh.zephyrus.id^
+||domainparking-dnspod.cn^
 ||dominatrix.brandonsli.com^
 ||dop.privatedns.org^
 ||do.shimul.me^
@@ -1455,6 +1454,7 @@
 ||dot.cox.net^
 ||dot-de.blahdns.com^
 ||dotdns.cryptroute.com^
+||dotdown.netlify.app^
 ||dot.eastas.pi-dns.com^
 ||dot.eastau.pi-dns.com^
 ||dot.eastus.pi-dns.com^
@@ -1891,7 +1891,6 @@
 ||lv-rig-w-1.nashkan.net^
 ||maddino.dedyn.io^
 ||madrid.ciscofreak.com^
-||magnon.duckdns.org^
 ||maikel.greppie.nl^
 ||mail.andrewnw.xyz^
 ||mail.data.haus^
