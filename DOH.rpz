@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2303090336 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2303100339 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2023-03-09 03:36:11 (UTC)
+; Last updated: 2023-03-10 03:39:44 (UTC)
 ;
 ; See https://jpgpi250.github.io/piholemanual/doc/Unbound%20response%20policy%20zones.pdf
 ; Report issues at https://github.com/jpgpi250/piholemanual/issues
@@ -299,6 +299,7 @@ ag.ff0x.ca CNAME .
 agh2.server.my.id CNAME .
 agh3.server.my.id CNAME .
 agh.ixghzx.ml CNAME .
+ag.homedevenv.com CNAME .
 agh.xinfeng16m.top CNAME .
 ag.marschi.de CNAME .
 agp01.tek411.com CNAME .
@@ -314,7 +315,9 @@ aizi.app CNAME .
 a.jij.kr CNAME .
 akhil.ddns.net CNAME .
 akhilkalwakurthy.dyndns.org CNAME .
+akr177.com CNAME .
 alexpollard.synology.me CNAME .
+alihk-dns.itbbs.org CNAME .
 alisa.dns.amigo-mgn.ru CNAME .
 alisa.fb.i81.ru CNAME .
 alisa.vpn.i81.ru CNAME .
@@ -377,6 +380,7 @@ au-syd.doh.sb CNAME .
 au-syd-w-2.nashkan.net CNAME .
 au-syd-w-3.nashkan.net CNAME .
 au.teradns.org CNAME .
+auto-cn-hk-8000.go-behind.one CNAME .
 autodiscover.elshad-adgh-dns.ru CNAME .
 autodiscover.promsdns.com CNAME .
 automaton-mm1.duckdns.org CNAME .
@@ -416,6 +420,7 @@ blackhole.myon.lu CNAME .
 bld.sys-adm.in CNAME .
 blitz.ahadns.com CNAME .
 blitzd.co.uk CNAME .
+blitz-setup.ahadns.com CNAME .
 block.abstergo.it CNAME .
 block.buck.ovh CNAME .
 blockemall.xyz CNAME .
@@ -468,7 +473,6 @@ c.cicitt.ch CNAME .
 cdn.implementsfreedom.studio CNAME .
 cdzopi.duckdns.org CNAME .
 cedricreitz.com CNAME .
-cerebro.harrache.info CNAME .
 ch01adguardho.me CNAME .
 chanhome.xyz CNAME .
 chaos.altendorfme.com CNAME .
@@ -505,6 +509,7 @@ cloud.tezoi.com CNAME .
 clubsv.duckdns.org CNAME .
 cluster-0.gac.edu CNAME .
 cluster-1.gac.edu CNAME .
+cname-for-doh.go-behind.one CNAME .
 colean.go.ro CNAME .
 commons.host CNAME .
 comss.one CNAME .
@@ -636,10 +641,12 @@ dns1.ryanpalmer.com CNAME .
 dns1-secure.wifire.it CNAME .
 dns1.slvrsrvr.de CNAME .
 dns1.steering.nextdns.io CNAME .
+dns1.sytes.net CNAME .
 dns1.tardishost.ru CNAME .
 dns1.taterdns.nl CNAME .
 dns.233py.com CNAME .
 dns.233py.com.cdn.cloudflare.net CNAME .
+dns.23-4.cn CNAME .
 dns.240527.xyz CNAME .
 dns.240601.xyz CNAME .
 dns2.adblocker.eu.org CNAME .
@@ -791,6 +798,7 @@ dns.cloudflare.com CNAME .
 dns.cloudlinz.de CNAME .
 dns.cloudlnk.net CNAME .
 dns.cloudtrust.solutions CNAME .
+dns.cloudyun.top CNAME .
 dns.cmrg.net CNAME .
 dns.coixia.com CNAME .
 dns.colorfreedom.org CNAME .
@@ -832,6 +840,7 @@ dns-doh-no-safe-search.dnsforfamily.com CNAME .
 dnsdohnosafesearch.dnsforfamily.com CNAME .
 dns.domsku.com CNAME .
 dns-dot.dnsforfamily.com CNAME .
+dns.dream-hosting.ovh CNAME .
 dns.druta.me CNAME .
 dns.dsh.lol CNAME .
 dns.dutchwhite.nl CNAME .
@@ -928,6 +937,7 @@ dns.hopper.org.uk CNAME .
 dns.hostux.net CNAME .
 dns.hotta.page CNAME .
 dns.housedenolf.be CNAME .
+dns.huseynov.work CNAME .
 dns.hva.li CNAME .
 dns.iamninja.ru CNAME .
 dns.iblockads.net CNAME .
@@ -1044,6 +1054,7 @@ dns.nas-server.ru CNAME .
 dns.nayemador.com CNAME .
 dns.ndo.dev CNAME .
 dns.netrope.com CNAME .
+dns.netrve.net CNAME .
 dns.neubsi.at CNAME .
 dns.neutopia.org CNAME .
 dns.nextdns.io CNAME .
@@ -1510,6 +1521,7 @@ dupatruwi22.fun CNAME .
 duyyen.cf CNAME .
 duyyen.tk CNAME .
 dvaguirredns1.ddns.net CNAME .
+dvaguirredns2.ddns.net CNAME .
 dycn.vip CNAME .
 dyhw.ddns.net CNAME .
 dyn-ip.borjalopez.eu CNAME .
@@ -1540,6 +1552,7 @@ eu-opush-heytapmobile-pubgw-1244993624.eu-west-3.elb.amazonaws.com CNAME .
 europe.avastdns.com CNAME .
 europe.doh.sb CNAME .
 europe-west.avastdns.com CNAME .
+eweyo-de1.duckdns.org CNAME .
 eweyo.duckdns.org CNAME .
 eweyo.ru CNAME .
 example.doh.blockerdns.com CNAME .
@@ -2015,7 +2028,7 @@ nrt.public.gfwdns.net CNAME .
 ns.00dani.me CNAME .
 ns01.hostrocket.com.ua CNAME .
 ns01.lflemming.space CNAME .
-ns0.l.ovpn.bond CNAME .
+ns.0.l.ovpn.bond CNAME .
 ns1.1899.com.mx CNAME .
 ns1.95997.ip-ns.net CNAME .
 ns1.bit-trails.nl CNAME .
