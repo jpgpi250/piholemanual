@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2303100339 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2303110342 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2023-03-10 03:39:44 (UTC)
+; Last updated: 2023-03-11 03:42:03 (UTC)
 ;
 ; See https://jpgpi250.github.io/piholemanual/doc/Unbound%20response%20policy%20zones.pdf
 ; Report issues at https://github.com/jpgpi250/piholemanual/issues
@@ -521,6 +521,7 @@ crd.circl.lu CNAME .
 creal.sytes.net CNAME .
 cristianocosta.me CNAME .
 crypto.sx CNAME .
+cserv4.schantl.io CNAME .
 cubedns.com CNAME .
 cube.neubsi.at CNAME .
 cvt-ic-us-adns-001.clearviewtechnology.net CNAME .
@@ -978,6 +979,7 @@ dns.justinnetworkingsolutions.com CNAME .
 dns.k3nny.fr CNAME .
 dns.kamilszczepanski.com CNAME .
 dns.karl.one CNAME .
+dns.karmanet.ch CNAME .
 dns.kashall.dev CNAME .
 dns.kawa.tf CNAME .
 dns.kawpad.tk CNAME .
@@ -987,6 +989,7 @@ dns.keweon.center CNAME .
 dns.khanhtran.me CNAME .
 dns.kingsbestone.com CNAME .
 dns.knitish.dev CNAME .
+dns.kolar-it.com CNAME .
 dns.korzhyk.pp.ua CNAME .
 dns.kosan.moe CNAME .
 dns.kr.chavy.dev CNAME .
@@ -1119,6 +1122,7 @@ dns-prod-bc43efde54c7e228.elb.us-east-1.amazonaws.com CNAME .
 dns.psociety.de CNAME .
 dns.psycla.be CNAME .
 dns.pub CNAME .
+dns-public.ibakerserver.pt CNAME .
 dns.pumplex.com CNAME .
 dns.puthiyedath.tk CNAME .
 dns.qkc.fr CNAME .
@@ -1452,7 +1456,6 @@ doh.wewitro.net CNAME .
 doh.xcom.pro CNAME .
 doh.xfinity.com CNAME .
 doh.zephyrus.id CNAME .
-domainparking-dnspod.cn CNAME .
 dominatrix.brandonsli.com CNAME .
 dop.privatedns.org CNAME .
 do.shimul.me CNAME .
@@ -1610,8 +1613,10 @@ frontpace.net CNAME .
 frontpace.us CNAME .
 fr-par-w-1.nashkan.net CNAME .
 fr-sbg-w-4.nashkan.net CNAME .
+fsrv.waltercasanova.tech CNAME .
 ftgfw.tk CNAME .
 fuchur.pentament.de CNAME .
+fufaka-dns.pro CNAME .
 fullaccesstointernet.int.eu.org CNAME .
 funti.cc CNAME .
 fvpn.jarvishome.ru CNAME .
@@ -1683,6 +1688,7 @@ heoyun.com CNAME .
 hermes.ohai.ca CNAME .
 hewittnet.us CNAME .
 hgns.harriganhome.ga CNAME .
+hi.greatpiller.shop CNAME .
 hitian.me CNAME .
 hk.101818.xyz CNAME .
 hk.1662001.xyz CNAME .
@@ -1716,6 +1722,7 @@ homelabjaw.tk CNAME .
 home.marcrnt.de CNAME .
 home.norvrandt.co.uk CNAME .
 home.phucbui.top CNAME .
+home.pragmasec.nl CNAME .
 home.qbak.net CNAME .
 home.quentin-stoeckel.fr CNAME .
 home.rassadnikov.ru CNAME .
@@ -1892,6 +1899,7 @@ lion.dns.qwer.pw CNAME .
 lion.yazilimatolye.com CNAME .
 live.jjlizz.com CNAME .
 lkbin.ga CNAME .
+lmkatest.ru CNAME .
 lmz.meudns.minhacasainteligente.cf CNAME .
 loli.sektehalodavid.click CNAME .
 lon-dns.bitdefender.net CNAME .
@@ -2655,6 +2663,7 @@ www.kintyre.uk CNAME .
 www.kn10.top CNAME .
 www.kondrcloud.ru CNAME .
 www.lboxtv.top CNAME .
+www.lmkatest.ru CNAME .
 www.markolll.ru CNAME .
 www.masters-of-cloud.de CNAME .
 www.michiganska.com CNAME .
