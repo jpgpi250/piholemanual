@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2023-03-09 03:50:53 (UTC)
+! Last updated: 2023-03-10 03:54:29 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -295,6 +295,7 @@
 ||agh2.server.my.id^
 ||agh3.server.my.id^
 ||agh.ixghzx.ml^
+||ag.homedevenv.com^
 ||agh.xinfeng16m.top^
 ||ag.marschi.de^
 ||agp01.tek411.com^
@@ -310,7 +311,9 @@
 ||a.jij.kr^
 ||akhil.ddns.net^
 ||akhilkalwakurthy.dyndns.org^
+||akr177.com^
 ||alexpollard.synology.me^
+||alihk-dns.itbbs.org^
 ||alisa.dns.amigo-mgn.ru^
 ||alisa.fb.i81.ru^
 ||alisa.vpn.i81.ru^
@@ -373,6 +376,7 @@
 ||au-syd-w-2.nashkan.net^
 ||au-syd-w-3.nashkan.net^
 ||au.teradns.org^
+||auto-cn-hk-8000.go-behind.one^
 ||autodiscover.elshad-adgh-dns.ru^
 ||autodiscover.promsdns.com^
 ||automaton-mm1.duckdns.org^
@@ -412,6 +416,7 @@
 ||bld.sys-adm.in^
 ||blitz.ahadns.com^
 ||blitzd.co.uk^
+||blitz-setup.ahadns.com^
 ||block.abstergo.it^
 ||block.buck.ovh^
 ||blockemall.xyz^
@@ -464,7 +469,6 @@
 ||cdn.implementsfreedom.studio^
 ||cdzopi.duckdns.org^
 ||cedricreitz.com^
-||cerebro.harrache.info^
 ||ch01adguardho.me^
 ||chanhome.xyz^
 ||chaos.altendorfme.com^
@@ -501,6 +505,7 @@
 ||clubsv.duckdns.org^
 ||cluster-0.gac.edu^
 ||cluster-1.gac.edu^
+||cname-for-doh.go-behind.one^
 ||colean.go.ro^
 ||commons.host^
 ||comss.one^
@@ -632,10 +637,12 @@
 ||dns1-secure.wifire.it^
 ||dns1.slvrsrvr.de^
 ||dns1.steering.nextdns.io^
+||dns1.sytes.net^
 ||dns1.tardishost.ru^
 ||dns1.taterdns.nl^
 ||dns.233py.com^
 ||dns.233py.com.cdn.cloudflare.net^
+||dns.23-4.cn^
 ||dns.240527.xyz^
 ||dns.240601.xyz^
 ||dns2.adblocker.eu.org^
@@ -787,6 +794,7 @@
 ||dns.cloudlinz.de^
 ||dns.cloudlnk.net^
 ||dns.cloudtrust.solutions^
+||dns.cloudyun.top^
 ||dns.cmrg.net^
 ||dns.coixia.com^
 ||dns.colorfreedom.org^
@@ -828,6 +836,7 @@
 ||dnsdohnosafesearch.dnsforfamily.com^
 ||dns.domsku.com^
 ||dns-dot.dnsforfamily.com^
+||dns.dream-hosting.ovh^
 ||dns.druta.me^
 ||dns.dsh.lol^
 ||dns.dutchwhite.nl^
@@ -924,6 +933,7 @@
 ||dns.hostux.net^
 ||dns.hotta.page^
 ||dns.housedenolf.be^
+||dns.huseynov.work^
 ||dns.hva.li^
 ||dns.iamninja.ru^
 ||dns.iblockads.net^
@@ -1040,6 +1050,7 @@
 ||dns.nayemador.com^
 ||dns.ndo.dev^
 ||dns.netrope.com^
+||dns.netrve.net^
 ||dns.neubsi.at^
 ||dns.neutopia.org^
 ||dns.nextdns.io^
@@ -1506,6 +1517,7 @@
 ||duyyen.cf^
 ||duyyen.tk^
 ||dvaguirredns1.ddns.net^
+||dvaguirredns2.ddns.net^
 ||dycn.vip^
 ||dyhw.ddns.net^
 ||dyn-ip.borjalopez.eu^
@@ -1536,6 +1548,7 @@
 ||europe.avastdns.com^
 ||europe.doh.sb^
 ||europe-west.avastdns.com^
+||eweyo-de1.duckdns.org^
 ||eweyo.duckdns.org^
 ||eweyo.ru^
 ||example.doh.blockerdns.com^
@@ -2011,7 +2024,7 @@
 ||ns.00dani.me^
 ||ns01.hostrocket.com.ua^
 ||ns01.lflemming.space^
-||ns0.l.ovpn.bond^
+||ns.0.l.ovpn.bond^
 ||ns1.1899.com.mx^
 ||ns1.95997.ip-ns.net^
 ||ns1.bit-trails.nl^
