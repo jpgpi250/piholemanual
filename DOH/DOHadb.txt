@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2023-03-10 03:54:29 (UTC)
+! Last updated: 2023-03-11 03:56:47 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -517,6 +517,7 @@
 ||creal.sytes.net^
 ||cristianocosta.me^
 ||crypto.sx^
+||cserv4.schantl.io^
 ||cubedns.com^
 ||cube.neubsi.at^
 ||cvt-ic-us-adns-001.clearviewtechnology.net^
@@ -974,6 +975,7 @@
 ||dns.k3nny.fr^
 ||dns.kamilszczepanski.com^
 ||dns.karl.one^
+||dns.karmanet.ch^
 ||dns.kashall.dev^
 ||dns.kawa.tf^
 ||dns.kawpad.tk^
@@ -983,6 +985,7 @@
 ||dns.khanhtran.me^
 ||dns.kingsbestone.com^
 ||dns.knitish.dev^
+||dns.kolar-it.com^
 ||dns.korzhyk.pp.ua^
 ||dns.kosan.moe^
 ||dns.kr.chavy.dev^
@@ -1115,6 +1118,7 @@
 ||dns.psociety.de^
 ||dns.psycla.be^
 ||dns.pub^
+||dns-public.ibakerserver.pt^
 ||dns.pumplex.com^
 ||dns.puthiyedath.tk^
 ||dns.qkc.fr^
@@ -1448,7 +1452,6 @@
 ||doh.xcom.pro^
 ||doh.xfinity.com^
 ||doh.zephyrus.id^
-||domainparking-dnspod.cn^
 ||dominatrix.brandonsli.com^
 ||dop.privatedns.org^
 ||do.shimul.me^
@@ -1606,8 +1609,10 @@
 ||frontpace.us^
 ||fr-par-w-1.nashkan.net^
 ||fr-sbg-w-4.nashkan.net^
+||fsrv.waltercasanova.tech^
 ||ftgfw.tk^
 ||fuchur.pentament.de^
+||fufaka-dns.pro^
 ||fullaccesstointernet.int.eu.org^
 ||funti.cc^
 ||fvpn.jarvishome.ru^
@@ -1679,6 +1684,7 @@
 ||hermes.ohai.ca^
 ||hewittnet.us^
 ||hgns.harriganhome.ga^
+||hi.greatpiller.shop^
 ||hitian.me^
 ||hk.101818.xyz^
 ||hk.1662001.xyz^
@@ -1712,6 +1718,7 @@
 ||home.marcrnt.de^
 ||home.norvrandt.co.uk^
 ||home.phucbui.top^
+||home.pragmasec.nl^
 ||home.qbak.net^
 ||home.quentin-stoeckel.fr^
 ||home.rassadnikov.ru^
@@ -1888,6 +1895,7 @@
 ||lion.yazilimatolye.com^
 ||live.jjlizz.com^
 ||lkbin.ga^
+||lmkatest.ru^
 ||lmz.meudns.minhacasainteligente.cf^
 ||loli.sektehalodavid.click^
 ||lon-dns.bitdefender.net^
@@ -2651,6 +2659,7 @@
 ||www.kn10.top^
 ||www.kondrcloud.ru^
 ||www.lboxtv.top^
+||www.lmkatest.ru^
 ||www.markolll.ru^
 ||www.masters-of-cloud.de^
 ||www.michiganska.com^
