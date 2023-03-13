@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2303120337 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2303130420 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2023-03-12 03:37:55 (UTC)
+; Last updated: 2023-03-13 04:20:22 (UTC)
 ;
 ; See https://jpgpi250.github.io/piholemanual/doc/Unbound%20response%20policy%20zones.pdf
 ; Report issues at https://github.com/jpgpi250/piholemanual/issues
@@ -245,6 +245,7 @@ adguard.samuelthomasfamily.net CNAME .
 adguard.schlikow.de CNAME .
 adguard.searom.ovh CNAME .
 adguard.sekular.pl CNAME .
+adguard.sems.org CNAME .
 adguard-server.cf CNAME .
 adguard.serverhostig.eu CNAME .
 adguard.shoupperuser.com CNAME .
@@ -399,6 +400,7 @@ banhbaothiu.site CNAME .
 ban.ppppppeeesss.info CNAME .
 basic.bravedns.com CNAME .
 basic.rethinkdns.com CNAME .
+bastnet.co CNAME .
 batshitcrazy.ddns.net CNAME .
 bbbtest.site CNAME .
 bb.jason666.top CNAME .
@@ -420,6 +422,7 @@ blackhole.myon.lu CNAME .
 bld.sys-adm.in CNAME .
 blitz.ahadns.com CNAME .
 blitzd.co.uk CNAME .
+blitz-setup.ahadns.com CNAME .
 block.abstergo.it CNAME .
 block.buck.ovh CNAME .
 blockemall.xyz CNAME .
@@ -751,6 +754,7 @@ dns.b33.space CNAME .
 dns.b612.me CNAME .
 dns.baabab.com CNAME .
 dns.bahien.com CNAME .
+dns.bastnet.co CNAME .
 dns.bebasid.com CNAME .
 dns.belnet.be CNAME .
 dns.benpro.fr CNAME .
@@ -808,12 +812,12 @@ dns.connect.fail CNAME .
 dns.containerpi.com CNAME .
 dns.cretu.xyz CNAME .
 dns.crownor.com CNAME .
+dns.cryptomize.com CNAME .
 dns.cuehosting.com CNAME .
 dns.cwlys.com CNAME .
 dns.cybereager.net CNAME .
 dns.d309044.eu CNAME .
 dns.d365.in CNAME .
-dns.d4d.moe CNAME .
 dns.d94.xyz CNAME .
 dns.d96.info CNAME .
 dns.darktraffic.cloud CNAME .
@@ -1113,6 +1117,7 @@ dns.perzarys.eu CNAME .
 dns.phucbui.top CNAME .
 dns.phuctran.cloud CNAME .
 dns.pietjacobs.be CNAME .
+dnspod.clzapp.com CNAME .
 dns.porteii.com CNAME .
 dns-primary.giaan.org CNAME .
 dns.privacy.cm CNAME .
@@ -1244,6 +1249,7 @@ dns.vaguthu.mv CNAME .
 dns.vault-101.net CNAME .
 dns.vdl.io CNAME .
 dns.venya.tech CNAME .
+dns.vietdns.vn CNAME .
 dns.vinnyp.xyz CNAME .
 dns.vinokurov.tk CNAME .
 dns.vishalk.com CNAME .
@@ -1450,6 +1456,7 @@ doh.ubd.ac.id CNAME .
 doh.umbrella.com CNAME .
 doh.velyn.my.id CNAME .
 doh.viatech.com.tw CNAME .
+doh.vpnglobal.my.id CNAME .
 doh.westeu.pi-dns.com CNAME .
 doh.westus.pi-dns.com CNAME .
 doh.wewitro.net CNAME .
@@ -1779,6 +1786,7 @@ i.solutics.ec CNAME .
 itlikehell.ru CNAME .
 it-pal-w-1.nashkan.net CNAME .
 ivanromanov.ru CNAME .
+ivnkn.xyz CNAME .
 ixhome.ixghzx.ml CNAME .
 jabber-germany.de CNAME .
 jabber-server.de CNAME .
@@ -1835,10 +1843,10 @@ keymiagar.ir CNAME .
 khsan.com CNAME .
 kids.5ososea.com CNAME .
 kids.dns0.eu CNAME .
+kids.vietdns.vn CNAME .
 killads.vpms.xyz CNAME .
 kintoun.alves.cc CNAME .
 kintyre.uk CNAME .
-kirmanak.gq CNAME .
 kiwifunke.duckdns.org CNAME .
 knight1.de CNAME .
 kondrcloud.ru CNAME .
@@ -2112,6 +2120,7 @@ opennic.tenta.io CNAME .
 open-resolver1.unima.ac.id CNAME .
 opera.cloudflare-dns.com CNAME .
 ora1.nocnik.org CNAME .
+oracle5.losfa.xyz CNAME .
 oracle6.losfa.xyz CNAME .
 oracle.cepheus0.com CNAME .
 oraclejp2.chungyu.com CNAME .
@@ -2135,7 +2144,6 @@ p1.freedns.controld.com CNAME .
 p2.freedns.controld.com CNAME .
 p3.freedns.controld.com CNAME .
 p549314cd.dip0.t-ipconnect.de CNAME .
-pair02-02.ihatemy.live CNAME .
 palazzoddns.tk CNAME .
 paskam.tk CNAME .
 pass12335.myds.me CNAME .
