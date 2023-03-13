@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2023-03-11 03:56:47 (UTC)
+! Last updated: 2023-03-12 03:52:41 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -416,7 +416,6 @@
 ||bld.sys-adm.in^
 ||blitz.ahadns.com^
 ||blitzd.co.uk^
-||blitz-setup.ahadns.com^
 ||block.abstergo.it^
 ||block.buck.ovh^
 ||blockemall.xyz^
@@ -810,6 +809,7 @@
 ||dns.cybereager.net^
 ||dns.d309044.eu^
 ||dns.d365.in^
+||dns.d4d.moe^
 ||dns.d94.xyz^
 ||dns.d96.info^
 ||dns.darktraffic.cloud^
