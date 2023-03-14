@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2023-03-12 03:52:41 (UTC)
+! Last updated: 2023-03-13 04:35:07 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -241,6 +241,7 @@
 ||adguard.schlikow.de^
 ||adguard.searom.ovh^
 ||adguard.sekular.pl^
+||adguard.sems.org^
 ||adguard-server.cf^
 ||adguard.serverhostig.eu^
 ||adguard.shoupperuser.com^
@@ -395,6 +396,7 @@
 ||ban.ppppppeeesss.info^
 ||basic.bravedns.com^
 ||basic.rethinkdns.com^
+||bastnet.co^
 ||batshitcrazy.ddns.net^
 ||bbbtest.site^
 ||bb.jason666.top^
@@ -416,6 +418,7 @@
 ||bld.sys-adm.in^
 ||blitz.ahadns.com^
 ||blitzd.co.uk^
+||blitz-setup.ahadns.com^
 ||block.abstergo.it^
 ||block.buck.ovh^
 ||blockemall.xyz^
@@ -747,6 +750,7 @@
 ||dns.b612.me^
 ||dns.baabab.com^
 ||dns.bahien.com^
+||dns.bastnet.co^
 ||dns.bebasid.com^
 ||dns.belnet.be^
 ||dns.benpro.fr^
@@ -804,12 +808,12 @@
 ||dns.containerpi.com^
 ||dns.cretu.xyz^
 ||dns.crownor.com^
+||dns.cryptomize.com^
 ||dns.cuehosting.com^
 ||dns.cwlys.com^
 ||dns.cybereager.net^
 ||dns.d309044.eu^
 ||dns.d365.in^
-||dns.d4d.moe^
 ||dns.d94.xyz^
 ||dns.d96.info^
 ||dns.darktraffic.cloud^
@@ -1109,6 +1113,7 @@
 ||dns.phucbui.top^
 ||dns.phuctran.cloud^
 ||dns.pietjacobs.be^
+||dnspod.clzapp.com^
 ||dns.porteii.com^
 ||dns-primary.giaan.org^
 ||dns.privacy.cm^
@@ -1240,6 +1245,7 @@
 ||dns.vault-101.net^
 ||dns.vdl.io^
 ||dns.venya.tech^
+||dns.vietdns.vn^
 ||dns.vinnyp.xyz^
 ||dns.vinokurov.tk^
 ||dns.vishalk.com^
@@ -1446,6 +1452,7 @@
 ||doh.umbrella.com^
 ||doh.velyn.my.id^
 ||doh.viatech.com.tw^
+||doh.vpnglobal.my.id^
 ||doh.westeu.pi-dns.com^
 ||doh.westus.pi-dns.com^
 ||doh.wewitro.net^
@@ -1775,6 +1782,7 @@
 ||itlikehell.ru^
 ||it-pal-w-1.nashkan.net^
 ||ivanromanov.ru^
+||ivnkn.xyz^
 ||ixhome.ixghzx.ml^
 ||jabber-germany.de^
 ||jabber-server.de^
@@ -1831,10 +1839,10 @@
 ||khsan.com^
 ||kids.5ososea.com^
 ||kids.dns0.eu^
+||kids.vietdns.vn^
 ||killads.vpms.xyz^
 ||kintoun.alves.cc^
 ||kintyre.uk^
-||kirmanak.gq^
 ||kiwifunke.duckdns.org^
 ||knight1.de^
 ||kondrcloud.ru^
@@ -2108,6 +2116,7 @@
 ||open-resolver1.unima.ac.id^
 ||opera.cloudflare-dns.com^
 ||ora1.nocnik.org^
+||oracle5.losfa.xyz^
 ||oracle6.losfa.xyz^
 ||oracle.cepheus0.com^
 ||oraclejp2.chungyu.com^
@@ -2131,7 +2140,6 @@
 ||p2.freedns.controld.com^
 ||p3.freedns.controld.com^
 ||p549314cd.dip0.t-ipconnect.de^
-||pair02-02.ihatemy.live^
 ||palazzoddns.tk^
 ||paskam.tk^
 ||pass12335.myds.me^
