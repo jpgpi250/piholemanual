@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2023-03-13 04:35:07 (UTC)
+! Last updated: 2023-03-14 04:19:17 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -177,6 +177,7 @@
 ||adguard-ironhide.ultima-thule.ru^
 ||adguard.ithernit.com^
 ||adguard.jaydub.cloud^
+||adguard.jaye.sh^
 ||adguard.jellyhost.ovh^
 ||adguard.jfchenier.ca^
 ||adguard.josephyap.me^
@@ -296,6 +297,7 @@
 ||agh2.server.my.id^
 ||agh3.server.my.id^
 ||agh.ixghzx.ml^
+||agh.kyashi.fun^
 ||ag.homedevenv.com^
 ||agh.xinfeng16m.top^
 ||ag.marschi.de^
@@ -410,6 +412,7 @@
 ||b.family.ns.dnslify.com^
 ||bg-sof-w-3.nashkan.net^
 ||bigart-dns.tk^
+||bili.cccc.cyou^
 ||bilidon.dnsuser.info^
 ||birnenwasser.ddnss.de^
 ||blackhole.aflr.io^
@@ -643,6 +646,7 @@
 ||dns1.sytes.net^
 ||dns1.tardishost.ru^
 ||dns1.taterdns.nl^
+||dns1.techeasy.org^
 ||dns.233py.com^
 ||dns.233py.com.cdn.cloudflare.net^
 ||dns.23-4.cn^
@@ -858,7 +862,6 @@
 ||dns.eksl.one^
 ||dns.elemental.software^
 ||dns.ellichua.com^
-||dns.emeraldonion.org^
 ||dns.emiliyan.com^
 ||dnsenc.com^
 ||dns.energized.pro^
@@ -1397,7 +1400,6 @@
 ||doh.li^
 ||doh.libredns.gr^
 ||doh.libredns.org^
-||doh.linuxsec.org^
 ||doh.luigi.nexific.it^
 ||doh.lujiacai.top^
 ||doh.lululu.eu.org^
@@ -1843,6 +1845,7 @@
 ||killads.vpms.xyz^
 ||kintoun.alves.cc^
 ||kintyre.uk^
+||kirmanak.gq^
 ||kiwifunke.duckdns.org^
 ||knight1.de^
 ||kondrcloud.ru^
@@ -1874,6 +1877,7 @@
 ||kufei.ml^
 ||kufei.org^
 ||ky2dns.com^
+||kyashi.fun^
 ||kyjiep.com^
 ||kz-alm-w-1.nashkan.net^
 ||lab-1.sellan.fr^
@@ -1980,10 +1984,10 @@
 ||myadguardhome.com^
 ||myadguardhome.me^
 ||mydevpn.eu^
-||mydns.bielperes.me^
 ||mydns.server-way.tk^
 ||myhottiemama.de^
 ||mykewl.pro^
+||myownadguard.ovh^
 ||mypihole.hopto.org^
 ||mysys.net^
 ||mzs1.ddns.net^
@@ -2140,6 +2144,7 @@
 ||p2.freedns.controld.com^
 ||p3.freedns.controld.com^
 ||p549314cd.dip0.t-ipconnect.de^
+||pair02-02.ihatemy.live^
 ||palazzoddns.tk^
 ||paskam.tk^
 ||pass12335.myds.me^
@@ -2351,7 +2356,6 @@
 ||sg-w-1.nashkan.net^
 ||sg-w-4.nashkan.net^
 ||sg-w-5.nashkan.net^
-||sg.yepdns.com^
 ||shaa.line.pm^
 ||shalenkov.dev^
 ||shard.ender.fr^
@@ -2359,6 +2363,7 @@
 ||shiestyro.world^
 ||sh.totoro.pub^
 ||shybbw.myz.info^
+||siddeus.synology.me^
 ||s.idsam.com^
 ||sin.core.access.zznet.fun^
 ||singapore.fuckll.com^
@@ -2711,7 +2716,6 @@
 ||x.ns1net.com^
 ||x-o-x.duckdns.org^
 ||xray.krnl.eu^
-||xthwo.duckdns.org^
 ||xxdtl.com^
 ||xx.ns1net.com^
 ||xxxxxxxxx.gq^
