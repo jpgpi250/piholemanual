@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2303150450 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2303160448 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2023-03-15 04:50:02 (UTC)
+; Last updated: 2023-03-16 04:48:38 (UTC)
 ;
 ; See https://jpgpi250.github.io/piholemanual/doc/Unbound%20response%20policy%20zones.pdf
 ; Report issues at https://github.com/jpgpi250/piholemanual/issues
@@ -97,6 +97,7 @@ adg2.spacework.com.mx CNAME .
 adgaurd.lingmont.net CNAME .
 adg.dankatapich.eu.org CNAME .
 adg.geili.me CNAME .
+adg.herry.dev CNAME .
 adghome.joseph.com.ph CNAME .
 adgh.skyview.click CNAME .
 adg.jmdesign.uk CNAME .
@@ -379,6 +380,7 @@ au01.dns4me.net CNAME .
 au02.dns4me.net CNAME .
 aucnier.my.id CNAME .
 audio.dehb.ru CNAME .
+aurora.dns.aq.lu CNAME .
 au-syd.doh.sb CNAME .
 au-syd-w-2.nashkan.net CNAME .
 au-syd-w-3.nashkan.net CNAME .
@@ -425,7 +427,6 @@ blackhole.myon.lu CNAME .
 bld.sys-adm.in CNAME .
 blitz.ahadns.com CNAME .
 blitzd.co.uk CNAME .
-blitz-setup.ahadns.com CNAME .
 block.abstergo.it CNAME .
 block.buck.ovh CNAME .
 blockemall.xyz CNAME .
@@ -603,6 +604,7 @@ diplo.es CNAME .
 disbish.com CNAME .
 diskstation.alexpollard.net CNAME .
 dislike.eu.org CNAME .
+dk-cop-w-1.nashkan.net CNAME .
 dltkhn01.ddns.net CNAME .
 d.luwei.date CNAME .
 dmit.xxxxxxxxx.gq CNAME .
@@ -866,6 +868,7 @@ dns.eknetwork.eu CNAME .
 dns.eksl.one CNAME .
 dns.elemental.software CNAME .
 dns.ellichua.com CNAME .
+dns.emeraldonion.org CNAME .
 dns.emiliyan.com CNAME .
 dnsenc.com CNAME .
 dns.energized.pro CNAME .
@@ -1013,6 +1016,7 @@ dns.lat-team.com CNAME .
 dns.lfac.ml CNAME .
 dns.lfac.xyz CNAME .
 dns.lightmaster.pw CNAME .
+dns.lildinosaur.com CNAME .
 dns.lilith.cloud CNAME .
 dns.linkr.ninja CNAME .
 dns.liumuze.org CNAME .
@@ -1404,6 +1408,7 @@ doh-lb-tr.dnsflex.com CNAME .
 doh.li CNAME .
 doh.libredns.gr CNAME .
 doh.libredns.org CNAME .
+doh.linuxsec.org CNAME .
 doh.luigi.nexific.it CNAME .
 doh.lujiacai.top CNAME .
 doh.lululu.eu.org CNAME .
@@ -1681,6 +1686,7 @@ guard-linodefree.tk CNAME .
 guard.magic-pics.tk CNAME .
 guard.sntrk.ru CNAME .
 guard.yps.tw CNAME .
+guilherme.tec.br CNAME .
 gunag.duckdns.org CNAME .
 guoyingwei.top CNAME .
 gusald.com CNAME .
@@ -1849,6 +1855,7 @@ kids.vietdns.vn CNAME .
 killads.vpms.xyz CNAME .
 kintoun.alves.cc CNAME .
 kintyre.uk CNAME .
+kirmanak.gq CNAME .
 kiwifunke.duckdns.org CNAME .
 knight1.de CNAME .
 kondrcloud.ru CNAME .
@@ -1987,6 +1994,7 @@ mx1.laoxiao789.com CNAME .
 myadguardhome.com CNAME .
 myadguardhome.me CNAME .
 mydevpn.eu CNAME .
+mydns.bielperes.me CNAME .
 mydns.server-way.tk CNAME .
 myhottiemama.de CNAME .
 mykewl.pro CNAME .
@@ -2123,6 +2131,7 @@ opennic.tenta.io CNAME .
 open-resolver1.unima.ac.id CNAME .
 opera.cloudflare-dns.com CNAME .
 ora1.nocnik.org CNAME .
+oracle2.herry.dev CNAME .
 oracle5.losfa.xyz CNAME .
 oracle6.losfa.xyz CNAME .
 oracle.cepheus0.com CNAME .
@@ -2147,7 +2156,6 @@ p1.freedns.controld.com CNAME .
 p2.freedns.controld.com CNAME .
 p3.freedns.controld.com CNAME .
 p549314cd.dip0.t-ipconnect.de CNAME .
-pair02-02.ihatemy.live CNAME .
 palazzoddns.tk CNAME .
 paskam.tk CNAME .
 pass12335.myds.me CNAME .
@@ -2359,6 +2367,7 @@ sg.teradns.org CNAME .
 sg-w-1.nashkan.net CNAME .
 sg-w-4.nashkan.net CNAME .
 sg-w-5.nashkan.net CNAME .
+sg.yepdns.com CNAME .
 shaa.line.pm CNAME .
 shalenkov.dev CNAME .
 shard.ender.fr CNAME .
@@ -2374,6 +2383,7 @@ sink.nolo.ltd CNAME .
 sip.amigo-mgn.ru CNAME .
 sitdns.com CNAME .
 site-2.duckdns.org CNAME .
+sitecreation.biz.ua CNAME .
 sitomatteomistri666.ddns.net CNAME .
 siyazia.duckdns.org CNAME .
 sj2.2333www.tk CNAME .
@@ -2719,6 +2729,7 @@ xn--80aecoigf4aatn.xn--p1ai CNAME .
 x.ns1net.com CNAME .
 x-o-x.duckdns.org CNAME .
 xray.krnl.eu CNAME .
+xthwo.duckdns.org CNAME .
 xxdtl.com CNAME .
 xx.ns1net.com CNAME .
 xxxxxxxxx.gq CNAME .
