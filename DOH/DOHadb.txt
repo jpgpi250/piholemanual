@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2023-03-15 05:04:51 (UTC)
+! Last updated: 2023-03-16 05:03:28 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -93,6 +93,7 @@
 ||adgaurd.lingmont.net^
 ||adg.dankatapich.eu.org^
 ||adg.geili.me^
+||adg.herry.dev^
 ||adghome.joseph.com.ph^
 ||adgh.skyview.click^
 ||adg.jmdesign.uk^
@@ -375,6 +376,7 @@
 ||au02.dns4me.net^
 ||aucnier.my.id^
 ||audio.dehb.ru^
+||aurora.dns.aq.lu^
 ||au-syd.doh.sb^
 ||au-syd-w-2.nashkan.net^
 ||au-syd-w-3.nashkan.net^
@@ -421,7 +423,6 @@
 ||bld.sys-adm.in^
 ||blitz.ahadns.com^
 ||blitzd.co.uk^
-||blitz-setup.ahadns.com^
 ||block.abstergo.it^
 ||block.buck.ovh^
 ||blockemall.xyz^
@@ -599,6 +600,7 @@
 ||disbish.com^
 ||diskstation.alexpollard.net^
 ||dislike.eu.org^
+||dk-cop-w-1.nashkan.net^
 ||dltkhn01.ddns.net^
 ||d.luwei.date^
 ||dmit.xxxxxxxxx.gq^
@@ -862,6 +864,7 @@
 ||dns.eksl.one^
 ||dns.elemental.software^
 ||dns.ellichua.com^
+||dns.emeraldonion.org^
 ||dns.emiliyan.com^
 ||dnsenc.com^
 ||dns.energized.pro^
@@ -1009,6 +1012,7 @@
 ||dns.lfac.ml^
 ||dns.lfac.xyz^
 ||dns.lightmaster.pw^
+||dns.lildinosaur.com^
 ||dns.lilith.cloud^
 ||dns.linkr.ninja^
 ||dns.liumuze.org^
@@ -1400,6 +1404,7 @@
 ||doh.li^
 ||doh.libredns.gr^
 ||doh.libredns.org^
+||doh.linuxsec.org^
 ||doh.luigi.nexific.it^
 ||doh.lujiacai.top^
 ||doh.lululu.eu.org^
@@ -1677,6 +1682,7 @@
 ||guard.magic-pics.tk^
 ||guard.sntrk.ru^
 ||guard.yps.tw^
+||guilherme.tec.br^
 ||gunag.duckdns.org^
 ||guoyingwei.top^
 ||gusald.com^
@@ -1845,6 +1851,7 @@
 ||killads.vpms.xyz^
 ||kintoun.alves.cc^
 ||kintyre.uk^
+||kirmanak.gq^
 ||kiwifunke.duckdns.org^
 ||knight1.de^
 ||kondrcloud.ru^
@@ -1983,6 +1990,7 @@
 ||myadguardhome.com^
 ||myadguardhome.me^
 ||mydevpn.eu^
+||mydns.bielperes.me^
 ||mydns.server-way.tk^
 ||myhottiemama.de^
 ||mykewl.pro^
@@ -2119,6 +2127,7 @@
 ||open-resolver1.unima.ac.id^
 ||opera.cloudflare-dns.com^
 ||ora1.nocnik.org^
+||oracle2.herry.dev^
 ||oracle5.losfa.xyz^
 ||oracle6.losfa.xyz^
 ||oracle.cepheus0.com^
@@ -2143,7 +2152,6 @@
 ||p2.freedns.controld.com^
 ||p3.freedns.controld.com^
 ||p549314cd.dip0.t-ipconnect.de^
-||pair02-02.ihatemy.live^
 ||palazzoddns.tk^
 ||paskam.tk^
 ||pass12335.myds.me^
@@ -2355,6 +2363,7 @@
 ||sg-w-1.nashkan.net^
 ||sg-w-4.nashkan.net^
 ||sg-w-5.nashkan.net^
+||sg.yepdns.com^
 ||shaa.line.pm^
 ||shalenkov.dev^
 ||shard.ender.fr^
@@ -2370,6 +2379,7 @@
 ||sip.amigo-mgn.ru^
 ||sitdns.com^
 ||site-2.duckdns.org^
+||sitecreation.biz.ua^
 ||sitomatteomistri666.ddns.net^
 ||siyazia.duckdns.org^
 ||sj2.2333www.tk^
@@ -2715,6 +2725,7 @@
 ||x.ns1net.com^
 ||x-o-x.duckdns.org^
 ||xray.krnl.eu^
+||xthwo.duckdns.org^
 ||xxdtl.com^
 ||xx.ns1net.com^
 ||xxxxxxxxx.gq^
