@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2303170351 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2303180351 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2023-03-17 03:51:15 (UTC)
+; Last updated: 2023-03-18 03:51:32 (UTC)
 ;
 ; See https://jpgpi250.github.io/piholemanual/doc/Unbound%20response%20policy%20zones.pdf
 ; Report issues at https://github.com/jpgpi250/piholemanual/issues
@@ -415,6 +415,7 @@ beacon.dog CNAME .
 beautifulcity.eu.org CNAME .
 bebracraft.ru CNAME .
 berd.moe CNAME .
+besoon.ml CNAME .
 b.family.ns.dnslify.com CNAME .
 bg-sof-w-3.nashkan.net CNAME .
 bigart-dns.tk CNAME .
@@ -825,6 +826,7 @@ dns.cwlys.com CNAME .
 dns.cybereager.net CNAME .
 dns.d309044.eu CNAME .
 dns.d365.in CNAME .
+dns.d4d.moe CNAME .
 dns.d94.xyz CNAME .
 dns.d96.info CNAME .
 dns.darktraffic.cloud CNAME .
@@ -2131,7 +2133,6 @@ opennic.i2pd.xyz CNAME .
 opennic.tenta.io CNAME .
 open-resolver1.unima.ac.id CNAME .
 opera.cloudflare-dns.com CNAME .
-ora1.nocnik.org CNAME .
 oracle2.herry.dev CNAME .
 oracle5.losfa.xyz CNAME .
 oracle6.losfa.xyz CNAME .
@@ -2179,7 +2180,6 @@ photo.dehb.ru CNAME .
 phucbui.top CNAME .
 pi1.node15.com CNAME .
 pi.daryllswer.net CNAME .
-piekacz.pl CNAME .
 pihole1.hoerli.net CNAME .
 pihole2.hoerli.net CNAME .
 pihole3.hoerli.net CNAME .
@@ -2463,6 +2463,7 @@ tiger.dns.qwer.pw CNAME .
 timmes.nl CNAME .
 timothytimothy.cf CNAME .
 tj.jamesxue.xyz CNAME .
+tjucker-ch.internet-box.ch CNAME .
 tk31z.com CNAME .
 tkge.tk CNAME .
 tls-dns-u.odvr.dns-oarc.net CNAME .
