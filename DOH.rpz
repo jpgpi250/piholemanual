@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2303180351 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2303190342 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2023-03-18 03:51:32 (UTC)
+; Last updated: 2023-03-19 03:42:21 (UTC)
 ;
 ; See https://jpgpi250.github.io/piholemanual/doc/Unbound%20response%20policy%20zones.pdf
 ; Report issues at https://github.com/jpgpi250/piholemanual/issues
@@ -331,6 +331,7 @@ alpha.rferee.dev CNAME .
 altvpn.ppm.mrhost.biz CNAME .
 amd1.sjp.loukky.com CNAME .
 amigo.vpn.i81.ru CNAME .
+a.mole.cf CNAME .
 amz.long-nguyen.info CNAME .
 an81.ddns.net CNAME .
 an81dns.ru CNAME .
@@ -700,6 +701,7 @@ dns.4-the.win CNAME .
 dns.52306.org CNAME .
 dns.532641.xyz CNAME .
 dns53.dipen.me CNAME .
+dns.5ive.net CNAME .
 dns.5ososea.com CNAME .
 dns64.cloudflare-dns.com CNAME .
 dns64.dns.google CNAME .
@@ -826,7 +828,6 @@ dns.cwlys.com CNAME .
 dns.cybereager.net CNAME .
 dns.d309044.eu CNAME .
 dns.d365.in CNAME .
-dns.d4d.moe CNAME .
 dns.d94.xyz CNAME .
 dns.d96.info CNAME .
 dns.darktraffic.cloud CNAME .
@@ -1293,6 +1294,7 @@ dns.yameenassotally.com CNAME .
 dns.ymv8.cn CNAME .
 dns.youni.win CNAME .
 dns.ytpom.tk CNAME .
+dns.yyaan.com CNAME .
 dns.yzh.asia CNAME .
 dns.zarchbox.fr CNAME .
 dns.zerologdns.com CNAME .
@@ -1309,6 +1311,7 @@ doh003.280blocker.net CNAME .
 doh-01.spectrum.com CNAME .
 doh-02.spectrum.com CNAME .
 doh-03.spectrum.com CNAME .
+doh.10yusufahmad.my.id CNAME .
 doh1.b-cdn.net CNAME .
 doh1.blahdns.com CNAME .
 doh1.dnswarden.com CNAME .
@@ -1954,6 +1957,7 @@ management.alexpollard.net CNAME .
 marcrnt.ddnss.de CNAME .
 marginnote.ga CNAME .
 markolll.ru CNAME .
+mars.pccoach.nl CNAME .
 mask-api.fe.apple-dns.net CNAME .
 mask-api.icloud.com CNAME .
 mask.apple-dns.net CNAME .
@@ -2133,6 +2137,7 @@ opennic.i2pd.xyz CNAME .
 opennic.tenta.io CNAME .
 open-resolver1.unima.ac.id CNAME .
 opera.cloudflare-dns.com CNAME .
+ora1.nocnik.org CNAME .
 oracle2.herry.dev CNAME .
 oracle5.losfa.xyz CNAME .
 oracle6.losfa.xyz CNAME .
@@ -2180,6 +2185,7 @@ photo.dehb.ru CNAME .
 phucbui.top CNAME .
 pi1.node15.com CNAME .
 pi.daryllswer.net CNAME .
+piekacz.pl CNAME .
 pihole1.hoerli.net CNAME .
 pihole2.hoerli.net CNAME .
 pihole3.hoerli.net CNAME .
@@ -2402,6 +2408,7 @@ soay38us0r7goa7.cmsdp.my.id CNAME .
 soeding.ddnss.de CNAME .
 soncms.me CNAME .
 spacedns.org CNAME .
+spns.pro CNAME .
 sradg.eastus.cloudapp.azure.com CNAME .
 sradminfk.ddns.net CNAME .
 srv1.web-mx.eu CNAME .
@@ -2706,6 +2713,7 @@ www.radiac.xyz CNAME .
 www.sergeykobzar.com.ua CNAME .
 www.sitdns.com CNAME .
 www.skillzdns.ru CNAME .
+www.spns.pro CNAME .
 www.streltsov.net CNAME .
 www.sufly.top CNAME .
 www.surfbelow.com CNAME .
@@ -2752,6 +2760,7 @@ yovbak.com CNAME .
 yrc.synology.me CNAME .
 ytpom.tk CNAME .
 yvanliang.tech CNAME .
+yyaan.com CNAME .
 yyqsite.top CNAME .
 za-joh-w-2.nashkan.net CNAME .
 zak.ath.cx CNAME .
