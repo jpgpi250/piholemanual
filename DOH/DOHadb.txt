@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2023-03-17 04:06:06 (UTC)
+! Last updated: 2023-03-18 04:06:22 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -411,6 +411,7 @@
 ||beautifulcity.eu.org^
 ||bebracraft.ru^
 ||berd.moe^
+||besoon.ml^
 ||b.family.ns.dnslify.com^
 ||bg-sof-w-3.nashkan.net^
 ||bigart-dns.tk^
@@ -821,6 +822,7 @@
 ||dns.cybereager.net^
 ||dns.d309044.eu^
 ||dns.d365.in^
+||dns.d4d.moe^
 ||dns.d94.xyz^
 ||dns.d96.info^
 ||dns.darktraffic.cloud^
@@ -2127,7 +2129,6 @@
 ||opennic.tenta.io^
 ||open-resolver1.unima.ac.id^
 ||opera.cloudflare-dns.com^
-||ora1.nocnik.org^
 ||oracle2.herry.dev^
 ||oracle5.losfa.xyz^
 ||oracle6.losfa.xyz^
@@ -2175,7 +2176,6 @@
 ||phucbui.top^
 ||pi1.node15.com^
 ||pi.daryllswer.net^
-||piekacz.pl^
 ||pihole1.hoerli.net^
 ||pihole2.hoerli.net^
 ||pihole3.hoerli.net^
@@ -2459,6 +2459,7 @@
 ||timmes.nl^
 ||timothytimothy.cf^
 ||tj.jamesxue.xyz^
+||tjucker-ch.internet-box.ch^
 ||tk31z.com^
 ||tkge.tk^
 ||tls-dns-u.odvr.dns-oarc.net^
