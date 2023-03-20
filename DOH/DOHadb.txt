@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2023-03-18 04:06:22 (UTC)
+! Last updated: 2023-03-19 03:56:42 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -327,6 +327,7 @@
 ||altvpn.ppm.mrhost.biz^
 ||amd1.sjp.loukky.com^
 ||amigo.vpn.i81.ru^
+||a.mole.cf^
 ||amz.long-nguyen.info^
 ||an81.ddns.net^
 ||an81dns.ru^
@@ -696,6 +697,7 @@
 ||dns.52306.org^
 ||dns.532641.xyz^
 ||dns53.dipen.me^
+||dns.5ive.net^
 ||dns.5ososea.com^
 ||dns64.cloudflare-dns.com^
 ||dns64.dns.google^
@@ -822,7 +824,6 @@
 ||dns.cybereager.net^
 ||dns.d309044.eu^
 ||dns.d365.in^
-||dns.d4d.moe^
 ||dns.d94.xyz^
 ||dns.d96.info^
 ||dns.darktraffic.cloud^
@@ -1289,6 +1290,7 @@
 ||dns.ymv8.cn^
 ||dns.youni.win^
 ||dns.ytpom.tk^
+||dns.yyaan.com^
 ||dns.yzh.asia^
 ||dns.zarchbox.fr^
 ||dns.zerologdns.com^
@@ -1305,6 +1307,7 @@
 ||doh-01.spectrum.com^
 ||doh-02.spectrum.com^
 ||doh-03.spectrum.com^
+||doh.10yusufahmad.my.id^
 ||doh1.b-cdn.net^
 ||doh1.blahdns.com^
 ||doh1.dnswarden.com^
@@ -1950,6 +1953,7 @@
 ||marcrnt.ddnss.de^
 ||marginnote.ga^
 ||markolll.ru^
+||mars.pccoach.nl^
 ||mask-api.fe.apple-dns.net^
 ||mask-api.icloud.com^
 ||mask.apple-dns.net^
@@ -2129,6 +2133,7 @@
 ||opennic.tenta.io^
 ||open-resolver1.unima.ac.id^
 ||opera.cloudflare-dns.com^
+||ora1.nocnik.org^
 ||oracle2.herry.dev^
 ||oracle5.losfa.xyz^
 ||oracle6.losfa.xyz^
@@ -2176,6 +2181,7 @@
 ||phucbui.top^
 ||pi1.node15.com^
 ||pi.daryllswer.net^
+||piekacz.pl^
 ||pihole1.hoerli.net^
 ||pihole2.hoerli.net^
 ||pihole3.hoerli.net^
@@ -2398,6 +2404,7 @@
 ||soeding.ddnss.de^
 ||soncms.me^
 ||spacedns.org^
+||spns.pro^
 ||sradg.eastus.cloudapp.azure.com^
 ||sradminfk.ddns.net^
 ||srv1.web-mx.eu^
@@ -2702,6 +2709,7 @@
 ||www.sergeykobzar.com.ua^
 ||www.sitdns.com^
 ||www.skillzdns.ru^
+||www.spns.pro^
 ||www.streltsov.net^
 ||www.sufly.top^
 ||www.surfbelow.com^
@@ -2748,6 +2756,7 @@
 ||yrc.synology.me^
 ||ytpom.tk^
 ||yvanliang.tech^
+||yyaan.com^
 ||yyqsite.top^
 ||za-joh-w-2.nashkan.net^
 ||zak.ath.cx^
