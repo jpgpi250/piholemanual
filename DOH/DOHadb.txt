@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2023-03-25 07:43:41 (UTC)
+! Last updated: 2023-03-25 08:03:20 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
