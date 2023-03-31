@@ -22,7 +22,9 @@ sudo sed -i '/$subdirectories = false;/c\$subdirectories = true;' /var/www/html/
 
 sudo wget https://cdnjs.cloudflare.com/ajax/libs/codemirror/5.24.2/codemirror.min.css -O /var/www/html/codemirror.min.css
 sudo wget https://cdnjs.cloudflare.com/ajax/libs/codemirror/5.24.2/addon/hint/show-hint.min.css -O /var/www/html/show-hint.min.css
+sudo wget https://cdnjs.cloudflare.com/ajax/libs/codemirror/5.24.2/addon/hint/show-hint.min.css.map -O /var/www/html/show-hint.min.css.map
 sudo wget https://cdnjs.cloudflare.com/ajax/libs/codemirror/5.24.2/codemirror.min.js -O /var/www/html/codemirror.min.js
+sudo wget https://cdnjs.cloudflare.com/ajax/libs/codemirror/5.24.2/codemirror.min.css.map -O /var/www/html/codemirror.min.css.map
 sudo wget https://cdnjs.cloudflare.com/ajax/libs/codemirror/5.24.2/addon/hint/show-hint.min.js -O /var/www/html/show-hint.min.js
 sudo sed -i 's$https://cdnjs.cloudflare.com/ajax/libs/codemirror/5.24.2/addon/hint/$http://pi.hole/$g' /var/www/html/$file
 sudo sed -i 's$https://cdnjs.cloudflare.com/ajax/libs/codemirror/5.24.2/$http://pi.hole/$g' /var/www/html/$file
