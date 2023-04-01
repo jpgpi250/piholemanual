@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2023-03-30 02:10:38 (UTC)
+! Last updated: 2023-03-31 02:33:20 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -19,6 +19,7 @@
 ||abel.waringer-atg.de^
 ||a-bld.sys-adm.in^
 ||adblock.borjalopez.eu^
+||adblock.dns.mullvad.net^
 ||adblock.doh.mullvad.net^
 ||adfree.usableprivacy.net^
 ||adguard1.njy.jsanagustin.net^
@@ -66,12 +67,10 @@
 ||awan.ftp.sh^
 ||aws.haoxuan.xyz^
 ||aws.nzcow.com^
-||basic.bravedns.com^
 ||basic.rethinkdns.com^
 ||blackhole.myon.lu^
 ||bld.sys-adm.in^
 ||blitz.ahadns.com^
-||blitz-setup.ahadns.com^
 ||bravedns.com^
 ||br.servers.legat.ml^
 ||buc-m2.illmods.com^
@@ -133,7 +132,6 @@
 ||dns.aa.net.uk^
 ||dns.adguard.com^
 ||dnsadguard.co.uk^
-||dns.adguard-dns.com^
 ||dns.alidns.com^
 ||dns.almir1904.eu^
 ||dns.anonymous.pw^
@@ -175,8 +173,8 @@
 ||dns.digitalsize.net^
 ||dns.dnshome.de^
 ||dns.dnswarden.com^
+||dns-doh.dnsforfamily.com^
 ||dnsdoh.dnsforfamily.com^
-||dns-doh-no-safe-search.dnsforfamily.com^
 ||dnsdohnosafesearch.dnsforfamily.com^
 ||dns.dyn1.de^
 ||dns.east.comss.one^
@@ -231,12 +229,14 @@
 ||dns.melalandia.tk^
 ||dns.molinero.dev^
 ||dns.moulticast.net^
+||dns.mullvad.net^
 ||dns.murgi.de^
 ||dns.ndo.dev^
 ||dns.nextdns.io^
 ||dns.nhtsky.com^
 ||dns.njal.la^
 ||dnsnl.alekberg.net^
+||dnsnl-noads.alekberg.net^
 ||dnsnlnoads.alekberg.net^
 ||dns-nosec.quad9.net^
 ||dns.novg.net^
@@ -259,7 +259,6 @@
 ||dns.scapetical.com^
 ||dnsse.alekberg.net^
 ||dns.sellan.fr^
-||dnsse-noads.alekberg.net^
 ||dnssenoads.alekberg.net^
 ||dns.shecan.ir^
 ||dns.silen.org^
@@ -307,17 +306,17 @@
 ||doh1.b-cdn.net^
 ||doh.233py.com^
 ||doh2.b-cdn.net^
+||doh2.gslb2.xfinity.com^
 ||doh-2.seby.io^
 ||doh2.seby.io^
 ||doh.360.cn^
 ||doh.42l.fr^
 ||doh.apad.pro^
 ||doh.apad.pro.cdn.cloudflare.net^
-||doh.applied-privacy.net^
 ||doh.appliedprivacy.net^
 ||doh.au.ahadns.net^
-||doh.beauty^
 ||doh.bortzmeyer.fr^
+||doh.buzz^
 ||doh.captnemo.in^
 ||doh.ccb-net.it^
 ||doh.centraleu.pi-dns.com^
@@ -361,11 +360,11 @@
 ||doh.li^
 ||doh.libredns.gr^
 ||doh.luigi.nexific.it^
-||doh.lv^
 ||doh.micronets.in^
 ||doh.mullvad.net^
 ||doh.nala.ru^
 ||doh.neowutran.ovh^
+||doh.nic.lv^
 ||doh.niyawe.de^
 ||doh.nl.ahadns.net^
 ||doh.no.ahadns.net^
@@ -637,7 +636,6 @@
 ||test.dnsteam.globuscs.info^
 ||tezoi.duckdns.org^
 ||timmes.nl^
-||tjucker-ch.internet-box.ch^
 ||tor.cloudflare-dns.com^
 ||tor.vasi.li^
 ||tw2.ooroot.com^
