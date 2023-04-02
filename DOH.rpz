@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2304010233 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2304020220 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2023-04-01 02:33:47 (UTC)
+; Last updated: 2023-04-02 02:20:10 (UTC)
 ;
 ; See https://jpgpi250.github.io/piholemanual/doc/Unbound%20response%20policy%20zones.pdf
 ; Report issues at https://github.com/jpgpi250/piholemanual/issues
@@ -111,6 +111,7 @@ adguard.ambiya.net CNAME .
 adguard.aminetwork.biz CNAME .
 adguard.avdkishore.dev CNAME .
 adguard-aws.charraud.eu CNAME .
+adguard.baltes.info CNAME .
 adguard.beliefanx.cn CNAME .
 adguard.beliefanx.me CNAME .
 adguard.betamax65.de CNAME .
@@ -418,6 +419,7 @@ bluemood.me CNAME .
 bluewall.cloud CNAME .
 bobstrecansky.com CNAME .
 box.negaforce.com CNAME .
+bravedns.com CNAME .
 brb.pp.ua CNAME .
 bropines.online CNAME .
 br-sao-w-1.nashkan.net CNAME .
@@ -442,6 +444,7 @@ calendar.dehb.ru CNAME .
 callies-online.site CNAME .
 carioka.dyndns.org CNAME .
 carrotegg.club CNAME .
+catdns.org CNAME .
 catsimple.cf CNAME .
 cattery.noddos.top CNAME .
 ca-yyc.doh.sb CNAME .
@@ -783,7 +786,6 @@ dns.cwlys.com CNAME .
 dns.cybereager.net CNAME .
 dns.d309044.eu CNAME .
 dns.d365.in CNAME .
-dns.d4d.moe CNAME .
 dns.d96.info CNAME .
 dns.darktraffic.cloud CNAME .
 dns.david888.com CNAME .
@@ -939,6 +941,7 @@ dns.jinwoo.dev CNAME .
 dns.joaofidelix.com.br CNAME .
 dns.joey01245.nl CNAME .
 dns.jstockley.com CNAME .
+dns.juancamos.com CNAME .
 dns.jucker.engineering CNAME .
 dns.jungle-im.ir CNAME .
 dns.junhengyun.com CNAME .
@@ -1070,6 +1073,7 @@ dns.pacificmonster.com CNAME .
 dns.paesa.es CNAME .
 dns.pakkalin.com CNAME .
 dns.pakuchi-tree.ml CNAME .
+dns.patrickbianchi.com CNAME .
 dns.pawitra.net CNAME .
 dns.perzarys.eu CNAME .
 dns.phucbui.top CNAME .
@@ -1223,6 +1227,7 @@ dns.wdnts.ml CNAME .
 dns-weblock.wevpn.com CNAME .
 dns.webstor.net CNAME .
 dnswebvsn.com CNAME .
+dns.wellstsai.com CNAME .
 dns.wevpn.com CNAME .
 dns.williamlwu.com CNAME .
 dns.wkwkwk.fun CNAME .
@@ -1345,6 +1350,7 @@ doh.libredns.gr CNAME .
 doh.luigi.nexific.it CNAME .
 doh.lujiacai.top CNAME .
 doh.lululu.eu.org CNAME .
+doh.lululujp.eu.org CNAME .
 doh.lv CNAME .
 doh.mcasviper.de CNAME .
 doh.micronets.in CNAME .
@@ -1420,7 +1426,6 @@ download.dehb.ru CNAME .
 dpeddi.myddns.com CNAME .
 dpserver87.ddns.net CNAME .
 dr3d.my.id CNAME .
-draco.plan9-ns2.com CNAME .
 dr-adguard.de CNAME .
 drahonn.pro CNAME .
 drive.dehb.ru CNAME .
@@ -1486,7 +1491,6 @@ filmgardi.ml CNAME .
 filter.chyperx.cc CNAME .
 filya.fb.i81.ru CNAME .
 findmethedns.info CNAME .
-firefox.dns.nextdns.io CNAME .
 firewall.darknet.bg CNAME .
 fk4mil.pl CNAME .
 flumuffel.de CNAME .
@@ -1527,6 +1531,7 @@ gaoadmin.win CNAME .
 garage.jjlizz.com CNAME .
 garanphomai.ga CNAME .
 gate.oliver-pietsch.de CNAME .
+gateway.baltes.info CNAME .
 gateway-el.cname.ustclug.org CNAME .
 gb-bir-w-1.nashkan.net CNAME .
 gb-cov-w-1.nashkan.net CNAME .
@@ -1632,6 +1637,7 @@ hr.i81.ru CNAME .
 hshh.org CNAME .
 httpdns-push.heytapmobile.com CNAME .
 hubertdns.com CNAME .
+hydra.plan9-ns1.com CNAME .
 hyperspace.toxopeus.it CNAME .
 hz1.h.indust.me CNAME .
 ibksturm.synology.me CNAME .
@@ -1843,6 +1849,7 @@ melbicom-server.site CNAME .
 meudns.minhacasainteligente.cf CNAME .
 mg.zbr2464.buzz CNAME .
 michiganska.com CNAME .
+mikatos.de CNAME .
 mikewaddick.com CNAME .
 mimile.despagne.net CNAME .
 mimile.despagne.ovh CNAME .
@@ -2183,6 +2190,7 @@ security.cloudflare-dns.com CNAME .
 security.cloudflaredns.com CNAME .
 seedboxhome.firefenix.cf CNAME .
 seedboxhome.phucbui.top CNAME .
+selsby.info CNAME .
 serbri.net CNAME .
 sergeykobzar.com.ua CNAME .
 server01.dr-adguard.de CNAME .
@@ -2312,6 +2320,7 @@ think-howling.com CNAME .
 tiger.dns.qwer.pw CNAME .
 timmes.nl CNAME .
 timothytimothy.cf CNAME .
+t.jimmy.best CNAME .
 tj.jamesxue.xyz CNAME .
 tjucker-ch.internet-box.ch CNAME .
 tk31z.com CNAME .
@@ -2593,6 +2602,7 @@ yingroad.top CNAME .
 your-dns.run CNAME .
 yovbak.com CNAME .
 yrc.synology.me CNAME .
+ys.cloud-sekeng.com CNAME .
 ytpom.tk CNAME .
 yvanliang.tech CNAME .
 yyaan.com CNAME .
