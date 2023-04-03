@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2023-04-01 02:47:40 (UTC)
+! Last updated: 2023-04-02 02:34:13 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -107,6 +107,7 @@
 ||adguard.aminetwork.biz^
 ||adguard.avdkishore.dev^
 ||adguard-aws.charraud.eu^
+||adguard.baltes.info^
 ||adguard.beliefanx.cn^
 ||adguard.beliefanx.me^
 ||adguard.betamax65.de^
@@ -414,6 +415,7 @@
 ||bluewall.cloud^
 ||bobstrecansky.com^
 ||box.negaforce.com^
+||bravedns.com^
 ||brb.pp.ua^
 ||bropines.online^
 ||br-sao-w-1.nashkan.net^
@@ -438,6 +440,7 @@
 ||callies-online.site^
 ||carioka.dyndns.org^
 ||carrotegg.club^
+||catdns.org^
 ||catsimple.cf^
 ||cattery.noddos.top^
 ||ca-yyc.doh.sb^
@@ -779,7 +782,6 @@
 ||dns.cybereager.net^
 ||dns.d309044.eu^
 ||dns.d365.in^
-||dns.d4d.moe^
 ||dns.d96.info^
 ||dns.darktraffic.cloud^
 ||dns.david888.com^
@@ -935,6 +937,7 @@
 ||dns.joaofidelix.com.br^
 ||dns.joey01245.nl^
 ||dns.jstockley.com^
+||dns.juancamos.com^
 ||dns.jucker.engineering^
 ||dns.jungle-im.ir^
 ||dns.junhengyun.com^
@@ -1066,6 +1069,7 @@
 ||dns.paesa.es^
 ||dns.pakkalin.com^
 ||dns.pakuchi-tree.ml^
+||dns.patrickbianchi.com^
 ||dns.pawitra.net^
 ||dns.perzarys.eu^
 ||dns.phucbui.top^
@@ -1219,6 +1223,7 @@
 ||dns-weblock.wevpn.com^
 ||dns.webstor.net^
 ||dnswebvsn.com^
+||dns.wellstsai.com^
 ||dns.wevpn.com^
 ||dns.williamlwu.com^
 ||dns.wkwkwk.fun^
@@ -1341,6 +1346,7 @@
 ||doh.luigi.nexific.it^
 ||doh.lujiacai.top^
 ||doh.lululu.eu.org^
+||doh.lululujp.eu.org^
 ||doh.lv^
 ||doh.mcasviper.de^
 ||doh.micronets.in^
@@ -1416,7 +1422,6 @@
 ||dpeddi.myddns.com^
 ||dpserver87.ddns.net^
 ||dr3d.my.id^
-||draco.plan9-ns2.com^
 ||dr-adguard.de^
 ||drahonn.pro^
 ||drive.dehb.ru^
@@ -1482,7 +1487,6 @@
 ||filter.chyperx.cc^
 ||filya.fb.i81.ru^
 ||findmethedns.info^
-||firefox.dns.nextdns.io^
 ||firewall.darknet.bg^
 ||fk4mil.pl^
 ||flumuffel.de^
@@ -1523,6 +1527,7 @@
 ||garage.jjlizz.com^
 ||garanphomai.ga^
 ||gate.oliver-pietsch.de^
+||gateway.baltes.info^
 ||gateway-el.cname.ustclug.org^
 ||gb-bir-w-1.nashkan.net^
 ||gb-cov-w-1.nashkan.net^
@@ -1628,6 +1633,7 @@
 ||hshh.org^
 ||httpdns-push.heytapmobile.com^
 ||hubertdns.com^
+||hydra.plan9-ns1.com^
 ||hyperspace.toxopeus.it^
 ||hz1.h.indust.me^
 ||ibksturm.synology.me^
@@ -1839,6 +1845,7 @@
 ||meudns.minhacasainteligente.cf^
 ||mg.zbr2464.buzz^
 ||michiganska.com^
+||mikatos.de^
 ||mikewaddick.com^
 ||mimile.despagne.net^
 ||mimile.despagne.ovh^
@@ -2179,6 +2186,7 @@
 ||security.cloudflaredns.com^
 ||seedboxhome.firefenix.cf^
 ||seedboxhome.phucbui.top^
+||selsby.info^
 ||serbri.net^
 ||sergeykobzar.com.ua^
 ||server01.dr-adguard.de^
@@ -2308,6 +2316,7 @@
 ||tiger.dns.qwer.pw^
 ||timmes.nl^
 ||timothytimothy.cf^
+||t.jimmy.best^
 ||tj.jamesxue.xyz^
 ||tjucker-ch.internet-box.ch^
 ||tk31z.com^
@@ -2589,6 +2598,7 @@
 ||your-dns.run^
 ||yovbak.com^
 ||yrc.synology.me^
+||ys.cloud-sekeng.com^
 ||ytpom.tk^
 ||yvanliang.tech^
 ||yyaan.com^
