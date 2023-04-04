@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2304030222 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2304040220 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2023-04-03 02:22:36 (UTC)
+; Last updated: 2023-04-04 02:20:09 (UTC)
 ;
 ; See https://jpgpi250.github.io/piholemanual/doc/Unbound%20response%20policy%20zones.pdf
 ; Report issues at https://github.com/jpgpi250/piholemanual/issues
@@ -81,6 +81,7 @@ adg.dankatapich.eu.org CNAME .
 adg.geili.me CNAME .
 adg.herry.dev CNAME .
 adghome.joseph.com.ph CNAME .
+adghs.de CNAME .
 adgh.skyview.click CNAME .
 adg.jmdesign.uk CNAME .
 adg.jnorton.us CNAME .
@@ -277,6 +278,7 @@ ad.ttdd.one CNAME .
 ad.visbran.fr CNAME .
 ae-fuj-w-1.nashkan.net CNAME .
 ae-fuj-w-2.nashkan.net CNAME .
+ae-fuj-w-3.nashkan.net CNAME .
 ae-fuj-w-4.nashkan.net CNAME .
 ag01.de.hallmen.it CNAME .
 agafon.site CNAME .
@@ -395,6 +397,7 @@ bcandrade.ml CNAME .
 bcsmts.com CNAME .
 beacon.dog CNAME .
 beautifulcity.eu.org CNAME .
+beautifulthings.eu.org CNAME .
 bebracraft.ru CNAME .
 belfort.fltn.us CNAME .
 bg-sof-w-3.nashkan.net CNAME .
@@ -540,10 +543,12 @@ de-fsn-o-1.nashkan.net CNAME .
 de-fsn-o-2.nashkan.net CNAME .
 de-fsn-w-12.nashkan.net CNAME .
 de-fsn-w-1.nashkan.net CNAME .
+de-fsn-w-1.tegant.net CNAME .
 de-fsn-w-21.nashkan.net CNAME .
 de-fsn-w-22.nashkan.net CNAME .
 de-fsn-w-23.nashkan.net CNAME .
 de-fsn-w-2.nashkan.net CNAME .
+de-fsn-w-2.tegant.net CNAME .
 de-fsn-w-31.nashkan.net CNAME .
 de-fsn-w-32.nashkan.net CNAME .
 de-fsn-w-33.nashkan.net CNAME .
@@ -1430,7 +1435,6 @@ download.dehb.ru CNAME .
 dpeddi.myddns.com CNAME .
 dpserver87.ddns.net CNAME .
 dr3d.my.id CNAME .
-draco.plan9-ns2.com CNAME .
 dr-adguard.de CNAME .
 drahonn.pro CNAME .
 drive.dehb.ru CNAME .
@@ -1455,7 +1459,6 @@ echoe1yidzu4ioo5.myfritz.net CNAME .
 eddi.usgovtrafficmanager.net CNAME .
 edgar.tobkar.net CNAME .
 edgy-dns.com CNAME .
-edns.233py.com CNAME .
 ee-tll.doh.sb CNAME .
 elc.meudns.minhacasainteligente.cf CNAME .
 eliatofani.ovh CNAME .
@@ -1646,6 +1649,7 @@ hubertdns.com CNAME .
 hubsora.eastasia.cloudapp.azure.com CNAME .
 hyperspace.toxopeus.it CNAME .
 hz1.h.indust.me CNAME .
+i.233py.com CNAME .
 ibksturm.synology.me CNAME .
 ibuki.cgnat.net CNAME .
 id.lkbin.ga CNAME .
@@ -1815,6 +1819,7 @@ lux1.nixnet.xyz CNAME .
 lux.sn0w.nl CNAME .
 lv1.nixnet.xyz CNAME .
 lv-rig-w-1.nashkan.net CNAME .
+lv-rig-w-2.nashkan.net CNAME .
 maddino.dedyn.io CNAME .
 madrid.ciscofreak.com CNAME .
 maikel.greppie.nl CNAME .
@@ -1839,7 +1844,6 @@ mask-api.fe.apple-dns.net CNAME .
 mask-api.icloud.com CNAME .
 mask.apple-dns.net CNAME .
 mask-h2.icloud.com CNAME .
-mask.icloud.com CNAME .
 masters-of-cloud.de CNAME .
 matrix.soeding.ddnss.de CNAME .
 matthias-prost.com CNAME .
@@ -2161,6 +2165,7 @@ rjmva.com CNAME .
 rml.mobi CNAME .
 roboticsbenchmarking.xyz CNAME .
 ro-buc-w-1.nashkan.net CNAME .
+ro-buc-w-2.nashkan.net CNAME .
 roc.net.sys.of.icu CNAME .
 roma.vpn.geshido.ru CNAME .
 rootserver.live CNAME .
@@ -2187,6 +2192,7 @@ scrole.shop CNAME .
 sdns.uplenk.com CNAME .
 sdvizhkov.ru CNAME .
 seanyan.ddns.net CNAME .
+secure-4ud.de CNAME .
 secureadguarddns.charleslondon.online CNAME .
 secure.anudeep.me CNAME .
 secure.avastdns.com CNAME .
@@ -2239,6 +2245,7 @@ shaa.line.pm CNAME .
 shard.ender.fr CNAME .
 shield.afixer.app CNAME .
 shiestyro.world CNAME .
+sh.telex.app CNAME .
 sh.totoro.pub CNAME .
 shybbw.myz.info CNAME .
 siddeus.synology.me CNAME .
@@ -2391,6 +2398,7 @@ us-central.adhole.org CNAME .
 us-chi-w-1.nashkan.net CNAME .
 us-chi-w-2.nashkan.net CNAME .
 us-chi-w-3.nashkan.net CNAME .
+us-chi-w-4.nashkan.net CNAME .
 us-dal-w-1.nashkan.net CNAME .
 us-dal-w-3.nashkan.net CNAME .
 us-dal-w-4.nashkan.net CNAME .
@@ -2516,6 +2524,7 @@ www.atomicvps.xyz CNAME .
 www.axell24.ml CNAME .
 www.az2q.xyz CNAME .
 www.beautifulcity.eu.org CNAME .
+www.beautifulthings.eu.org CNAME .
 www.c-dns.com CNAME .
 www.chithra.dilli.dev CNAME .
 www.chlaebi.info CNAME .
