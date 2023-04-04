@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2023-04-02 02:34:13 (UTC)
+! Last updated: 2023-04-03 02:36:37 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -375,6 +375,7 @@
 ||axell24.ml^
 ||az2q.xyz^
 ||azagramac.duckdns.org^
+||azbs.ddmm.eu.org^
 ||b5lwtlgyqyly1typvyshftccwxuhk3zq.space^
 ||banhbaothiu.site^
 ||ban.ppppppeeesss.info^
@@ -415,7 +416,6 @@
 ||bluewall.cloud^
 ||bobstrecansky.com^
 ||box.negaforce.com^
-||bravedns.com^
 ||brb.pp.ua^
 ||bropines.online^
 ||br-sao-w-1.nashkan.net^
@@ -775,6 +775,7 @@
 ||dns.comss.one^
 ||dns.connect.fail^
 ||dns.cretu.xyz^
+||dns.crop3ox.website^
 ||dns.crownor.com^
 ||dns.cryptomize.com^
 ||dns.cuehosting.com^
@@ -782,7 +783,9 @@
 ||dns.cybereager.net^
 ||dns.d309044.eu^
 ||dns.d365.in^
+||dns.d4d.moe^
 ||dns.d96.info^
+||dns.daddyparodz.com^
 ||dns.darktraffic.cloud^
 ||dns.david888.com^
 ||dns.davidruhmann.com^
@@ -1402,6 +1405,7 @@
 ||doh.xfinity.com^
 ||doh.zephyrus.id^
 ||dominatrix.brandonsli.com^
+||donghovietkid.cloud^
 ||dop.privatedns.org^
 ||do.shimul.me^
 ||dot.360.cn^
@@ -1422,6 +1426,7 @@
 ||dpeddi.myddns.com^
 ||dpserver87.ddns.net^
 ||dr3d.my.id^
+||draco.plan9-ns2.com^
 ||dr-adguard.de^
 ||drahonn.pro^
 ||drive.dehb.ru^
@@ -1490,6 +1495,7 @@
 ||firewall.darknet.bg^
 ||fk4mil.pl^
 ||flumuffel.de^
+||fly.flylcc.cc^
 ||forum.ginovs.nl^
 ||fr1.eastjoin.tk^
 ||fra2.eyecay.xyz^
@@ -1633,7 +1639,7 @@
 ||hshh.org^
 ||httpdns-push.heytapmobile.com^
 ||hubertdns.com^
-||hydra.plan9-ns1.com^
+||hubsora.eastasia.cloudapp.azure.com^
 ||hyperspace.toxopeus.it^
 ||hz1.h.indust.me^
 ||ibksturm.synology.me^
@@ -1717,6 +1723,7 @@
 ||keeflix.chenu.ch^
 ||keithchung.hopto.org^
 ||keithchunguat.hopto.org^
+||kellerbier-home.de^
 ||kendentil.org.uk^
 ||kenit.me^
 ||kennethhuang.com^
@@ -1914,6 +1921,7 @@
 ||nl-ams.doh.sb^
 ||nl-ams-w-3.nashkan.net^
 ||nl.galaskar.ga^
+||noaaf500.site^
 ||noadsapp.net^
 ||noads.cloud^
 ||noads.dns.vladpro.ru^
@@ -2301,6 +2309,7 @@
 ||td-doh.dns.t53.de^
 ||telex.app^
 ||terminal.racinas.com^
+||teslacoils.org.uk^
 ||test.5ososea.com^
 ||testaghome.meshkov.info^
 ||test.dnsteam.globuscs.info^
@@ -2327,6 +2336,7 @@
 ||tlz.asia^
 ||toaster.lol^
 ||todns.work^
+||tokyodns.songnguyen.name.vn^
 ||tor.cloudflare-dns.com^
 ||torettohome.com^
 ||torrents.racinas.com^
