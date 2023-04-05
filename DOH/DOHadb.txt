@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2023-04-03 02:36:37 (UTC)
+! Last updated: 2023-04-04 02:34:10 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -77,6 +77,7 @@
 ||adg.geili.me^
 ||adg.herry.dev^
 ||adghome.joseph.com.ph^
+||adghs.de^
 ||adgh.skyview.click^
 ||adg.jmdesign.uk^
 ||adg.jnorton.us^
@@ -273,6 +274,7 @@
 ||ad.visbran.fr^
 ||ae-fuj-w-1.nashkan.net^
 ||ae-fuj-w-2.nashkan.net^
+||ae-fuj-w-3.nashkan.net^
 ||ae-fuj-w-4.nashkan.net^
 ||ag01.de.hallmen.it^
 ||agafon.site^
@@ -391,6 +393,7 @@
 ||bcsmts.com^
 ||beacon.dog^
 ||beautifulcity.eu.org^
+||beautifulthings.eu.org^
 ||bebracraft.ru^
 ||belfort.fltn.us^
 ||bg-sof-w-3.nashkan.net^
@@ -536,10 +539,12 @@
 ||de-fsn-o-2.nashkan.net^
 ||de-fsn-w-12.nashkan.net^
 ||de-fsn-w-1.nashkan.net^
+||de-fsn-w-1.tegant.net^
 ||de-fsn-w-21.nashkan.net^
 ||de-fsn-w-22.nashkan.net^
 ||de-fsn-w-23.nashkan.net^
 ||de-fsn-w-2.nashkan.net^
+||de-fsn-w-2.tegant.net^
 ||de-fsn-w-31.nashkan.net^
 ||de-fsn-w-32.nashkan.net^
 ||de-fsn-w-33.nashkan.net^
@@ -1426,7 +1431,6 @@
 ||dpeddi.myddns.com^
 ||dpserver87.ddns.net^
 ||dr3d.my.id^
-||draco.plan9-ns2.com^
 ||dr-adguard.de^
 ||drahonn.pro^
 ||drive.dehb.ru^
@@ -1451,7 +1455,6 @@
 ||eddi.usgovtrafficmanager.net^
 ||edgar.tobkar.net^
 ||edgy-dns.com^
-||edns.233py.com^
 ||ee-tll.doh.sb^
 ||elc.meudns.minhacasainteligente.cf^
 ||eliatofani.ovh^
@@ -1642,6 +1645,7 @@
 ||hubsora.eastasia.cloudapp.azure.com^
 ||hyperspace.toxopeus.it^
 ||hz1.h.indust.me^
+||i.233py.com^
 ||ibksturm.synology.me^
 ||ibuki.cgnat.net^
 ||id.lkbin.ga^
@@ -1811,6 +1815,7 @@
 ||lux.sn0w.nl^
 ||lv1.nixnet.xyz^
 ||lv-rig-w-1.nashkan.net^
+||lv-rig-w-2.nashkan.net^
 ||maddino.dedyn.io^
 ||madrid.ciscofreak.com^
 ||maikel.greppie.nl^
@@ -1835,7 +1840,6 @@
 ||mask-api.icloud.com^
 ||mask.apple-dns.net^
 ||mask-h2.icloud.com^
-||mask.icloud.com^
 ||masters-of-cloud.de^
 ||matrix.soeding.ddnss.de^
 ||matthias-prost.com^
@@ -2157,6 +2161,7 @@
 ||rml.mobi^
 ||roboticsbenchmarking.xyz^
 ||ro-buc-w-1.nashkan.net^
+||ro-buc-w-2.nashkan.net^
 ||roc.net.sys.of.icu^
 ||roma.vpn.geshido.ru^
 ||rootserver.live^
@@ -2183,6 +2188,7 @@
 ||sdns.uplenk.com^
 ||sdvizhkov.ru^
 ||seanyan.ddns.net^
+||secure-4ud.de^
 ||secureadguarddns.charleslondon.online^
 ||secure.anudeep.me^
 ||secure.avastdns.com^
@@ -2235,6 +2241,7 @@
 ||shard.ender.fr^
 ||shield.afixer.app^
 ||shiestyro.world^
+||sh.telex.app^
 ||sh.totoro.pub^
 ||shybbw.myz.info^
 ||siddeus.synology.me^
@@ -2387,6 +2394,7 @@
 ||us-chi-w-1.nashkan.net^
 ||us-chi-w-2.nashkan.net^
 ||us-chi-w-3.nashkan.net^
+||us-chi-w-4.nashkan.net^
 ||us-dal-w-1.nashkan.net^
 ||us-dal-w-3.nashkan.net^
 ||us-dal-w-4.nashkan.net^
@@ -2512,6 +2520,7 @@
 ||www.axell24.ml^
 ||www.az2q.xyz^
 ||www.beautifulcity.eu.org^
+||www.beautifulthings.eu.org^
 ||www.c-dns.com^
 ||www.chithra.dilli.dev^
 ||www.chlaebi.info^
