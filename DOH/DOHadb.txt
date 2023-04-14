@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2023-04-12 02:17:45 (UTC)
+! Last updated: 2023-04-13 02:40:27 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -83,6 +83,7 @@
 ||argon.molinero.dev^
 ||arm2.nzcow.com^
 ||a.safe.ns.dnslify.com^
+||asia.dnscepat.id^
 ||at.pzhg.me^
 ||au01.dns4me.net^
 ||au02.dns4me.net^
@@ -226,6 +227,7 @@
 ||dns.dnswarden.com^
 ||dns-doh.dnsforfamily.com^
 ||dnsdoh.dnsforfamily.com^
+||dns-doh-no-safe-search.dnsforfamily.com^
 ||dnsdohnosafesearch.dnsforfamily.com^
 ||dns-dot.dnsforfamily.com^
 ||dns.dyn1.de^
@@ -281,6 +283,7 @@
 ||dns.l.ovpn.bond^
 ||dnslow.me^
 ||dns.lsho.top^
+||dns.maybe.icu^
 ||dns.meeo.win^
 ||dns.melalandia.tk^
 ||dns.molinero.dev^
@@ -295,7 +298,6 @@
 ||dns.nixnet.xyz^
 ||dns.njal.la^
 ||dnsnl.alekberg.net^
-||dnsnl-noads.alekberg.net^
 ||dnsnlnoads.alekberg.net^
 ||dns-nosec.quad9.net^
 ||dns.novg.net^
@@ -392,10 +394,10 @@
 ||doh.appliedprivacy.net^
 ||doh.asecdns.com^
 ||doh.au.ahadns.net^
+||doh.beauty^
 ||doh.blahdns.com^
 ||doh.blockerdns.com^
 ||doh.bortzmeyer.fr^
-||doh.buzz^
 ||doh.captnemo.in^
 ||doh.ccb-net.it^
 ||doh.centraleu.pi-dns.com^
@@ -559,7 +561,6 @@
 ||fly.io^
 ||forum.ginovs.nl^
 ||fr-dns1.bancuh.com^
-||freebox.sillundil.ovh^
 ||free.bravedns.com^
 ||freedns.controld.com^
 ||freedom.mydns.network^
@@ -570,7 +571,6 @@
 ||gateway-el.cname.ustclug.org^
 ||getdnsapi.net^
 ||ggrbb.xyz^
-||gm-dns-01.southcentralus.azurecontainer.io^
 ||google-public-dns-a.google.com^
 ||google-public-dns-b.google.com^
 ||hahnjo.de^
@@ -631,7 +631,6 @@
 ||kronos.plan9-dns.com^
 ||kronos.plan9dns.com^
 ||kr-sel.doh.sb^
-||ks1.plop.cc^
 ||kswro.web.id^
 ||kudns.kescher.at^
 ||kyashi.fun^
@@ -708,7 +707,6 @@
 ||p1.freedns.controld.com^
 ||p2.freedns.controld.com^
 ||p3.freedns.controld.com^
-||pair02-02.ihatemy.live^
 ||pates.services.sfr.fr.casepp.sfr.fr^
 ||pdns.faelix.net^
 ||per.adfilter.net^
@@ -844,6 +842,7 @@
 ||us.novali.date^
 ||us-ny-alula.heliumcloud.cc^
 ||uw-dns.rubyfish.cn^
+||vador.sillundil.ovh^
 ||v.dnscrypt.uk^
 ||vmd45200.contabo.wallura.eu^
 ||vpn.charraud.eu^
