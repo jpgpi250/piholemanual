@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2023-04-14 02:27:55 (UTC)
+! Last updated: 2023-04-15 02:12:32 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -13,8 +13,8 @@
 ||15815d9ce5f441edaa1f33f62761ff16.pacloudflare.com^
 ||1a.ns.ozer.im^
 ||1dot1dot1dot1.cloudflare-dns.com^
+||1dot1dot1dot1.cloudflaredns.com^
 ||360.233py.com^
-||8888.google^
 ||abel.waringer-atg.de^
 ||a-bld.sys-adm.in^
 ||adblock.borjalopez.eu^
@@ -40,6 +40,7 @@
 ||adguard.shuting.idv.tw^
 ||adguard.wirimij.nl^
 ||adguard.zachitect.com^
+||adl.adfilter.net^
 ||aihe.app^
 ||alexpollard.synology.me^
 ||alpha-dns.de^
@@ -48,9 +49,9 @@
 ||amd1.sjp.loukky.com^
 ||andrei-se.ru^
 ||antidns.s.tuna.tsinghua.edu.cn^
-||anycast.censurfridns.dk^
 ||anycast.dns.nextdns.io^
 ||anycast.ffmuc.net^
+||anycast.uncensoreddns.org^
 ||a.passcloud.xyz^
 ||arashi.eu.org^
 ||ares.collectivemedia.network^
@@ -68,6 +69,7 @@
 ||blackhole.myon.lu^
 ||bld.sys-adm.in^
 ||blitz-setup.ahadns.com^
+||bravedns.com^
 ||br.servers.legat.ml^
 ||buc-m2.illmods.com^
 ||c0654f90.4l2.cn.cname.hcnamecdn.com^
@@ -81,6 +83,7 @@
 ||cc210d2cb801.sn.mynetname.net^
 ||c-c.eve.surf^
 ||c.cicitt.ch^
+||chanhome.xyz^
 ||chaos-system.de^
 ||chewbacca.meganerd.nl^
 ||chlaebi.synology.me^
@@ -105,6 +108,7 @@
 ||de-fra.doh.sb^
 ||de.teradns.org^
 ||dns01.flm9.net^
+||dns0.eu^
 ||dns10.quad9.net^
 ||dns11.quad9.net^
 ||dns12.quad9.net^
@@ -114,6 +118,7 @@
 ||dns1.in-berlin.de^
 ||dns1.ipv6.dnscrypt.ca^
 ||dns1.ryan-palmer.com^
+||dns1.ryanpalmer.com^
 ||dns1.steering.nextdns.io^
 ||dns2.dnscrypt.ca^
 ||dns2.ipv6.dnscrypt.ca^
@@ -127,7 +132,6 @@
 ||dns.aa.net.uk^
 ||dns.adguard.com^
 ||dnsadguard.co.uk^
-||dns.adguard-dns.com^
 ||dns.alidns.com^
 ||dns.almir1904.eu^
 ||dns.anonymous.pw^
@@ -165,10 +169,13 @@
 ||dns.daw.dev^
 ||dns.decloudus.com^
 ||dns.digitale-gesellschaft.ch^
+||dns.digitalegesellschaft.ch^
 ||dns.digitalsize.net^
 ||dns.dnshome.de^
 ||dns.dnswarden.com^
-||dns-doh-no-safe-search.dnsforfamily.com^
+||dns-doh.dnsforfamily.com^
+||dnsdoh.dnsforfamily.com^
+||dnsdohnosafesearch.dnsforfamily.com^
 ||dns.dyn1.de^
 ||dns.east.comss.one^
 ||dns.eddi.net^
@@ -180,6 +187,7 @@
 ||dns.eu-frankfurt-1.oci.oraclecloud.net^
 ||dns.eu-frankfurt-1.oraclecloud.com^
 ||dns-family.adguard.com^
+||dnsfamily.adguard.com^
 ||dns.fancyorg.at^
 ||dns.flatuslifir.is^
 ||dnsforge.de^
@@ -188,6 +196,8 @@
 ||dns.futuredns.me^
 ||dns.gi.co.id^
 ||dns.ginovs.nl^
+||dns.google^
+||dns.google.com^
 ||dns.grqu.de^
 ||dns.ha-dvin.pp.ua^
 ||dns.hafidzradhival.my.id^
@@ -228,6 +238,7 @@
 ||dns.nhtsky.com^
 ||dns.njal.la^
 ||dnsnl.alekberg.net^
+||dnsnlnoads.alekberg.net^
 ||dns-nosec.quad9.net^
 ||dns.novg.net^
 ||dns.npe.bz^
@@ -247,8 +258,9 @@
 ||dns.rubyfish.cn^
 ||dns-sandbox-3291100252b8f52b.elb.us-east-1.amazonaws.com^
 ||dns.scapetical.com^
+||dnsse.alekberg.net^
 ||dns.sellan.fr^
-||dnsse-noads.alekberg.net^
+||dnssenoads.alekberg.net^
 ||dns.shecan.ir^
 ||dns.silen.org^
 ||dns.slinkyman.net^
@@ -272,6 +284,7 @@
 ||dns.uk-london-1.oci.oraclecloud.net^
 ||dns.uk-london-1.oraclecloud.com^
 ||dns-unfiltered.adguard.com^
+||dnsunfiltered.adguard.com^
 ||dns.us-ashburn-1.oci.oraclecloud.com^
 ||dns.us-ashburn-1.oci.oraclecloud.net^
 ||dns.us-ashburn-1.oraclecloud.com^
@@ -295,13 +308,15 @@
 ||doh2.b-cdn.net^
 ||doh2.gslb2.xfinity.com^
 ||doh-2.seby.io^
+||doh2.seby.io^
 ||doh.360.cn^
 ||doh.42l.fr^
+||doh.apad.pro^
 ||doh.apad.pro.cdn.cloudflare.net^
-||doh.applied-privacy.net^
+||doh.appliedprivacy.net^
 ||doh.au.ahadns.net^
-||doh.beauty^
 ||doh.bortzmeyer.fr^
+||doh.buzz^
 ||doh.captnemo.in^
 ||doh.ccb-net.it^
 ||doh.centraleu.pi-dns.com^
@@ -335,6 +350,7 @@
 ||doh.ibr.cs.tu-bs.de^
 ||doh.in.ahadns.net^
 ||doh.infotek.net.id^
+||dohipv6.crypto.sx^
 ||doh.it.ahadns.net^
 ||doh.iucc.ac.il^
 ||doh.jeroenhd.nl^
@@ -344,11 +360,11 @@
 ||doh.li^
 ||doh.libredns.gr^
 ||doh.luigi.nexific.it^
-||doh.lv^
 ||doh.micronets.in^
 ||doh.mullvad.net^
 ||doh.nala.ru^
 ||doh.neowutran.ovh^
+||doh.nic.lv^
 ||doh.niyawe.de^
 ||doh.nl.ahadns.net^
 ||doh.no.ahadns.net^
@@ -361,6 +377,7 @@
 ||doh.powerdns.org^
 ||doh-primary-pool.detoxifypornblocker.com^
 ||doh-primary-pool.goodbyegambling.com^
+||doh.pub^
 ||doh.pyry.me^
 ||doh.qis.io^
 ||doh.quickline.ch^
@@ -394,6 +411,7 @@
 ||easyhandshake.com^
 ||eddi.usgovtrafficmanager.net^
 ||edgy-dns.com^
+||edns.233py.com^
 ||ee-tll.doh.sb^
 ||esel.stusta.mhn.de^
 ||eu1.dns.lavate.ch^
@@ -404,6 +422,7 @@
 ||europe-west.avastdns.com^
 ||family.canadianshield.cira.ca^
 ||family.cloudflare-dns.com^
+||family.cloudflaredns.com^
 ||fcpsunleashed.org^
 ||feelnosorry.com^
 ||forum.ginovs.nl^
@@ -421,6 +440,7 @@
 ||haswell-www.a.guindehi.ch^
 ||heimdall.ff0x.ca^
 ||helios.plan9-dns.com^
+||helios.plan9dns.com^
 ||hitian.me^
 ||hk2.ooroot.com^
 ||hk-hkg.doh.sb^
@@ -430,7 +450,6 @@
 ||httpdns-push.heytapmobile.com^
 ||hubsora.eastasia.cloudapp.azure.com^
 ||hz1.h.indust.me^
-||i.233py.com^
 ||ibksturm.synology.me^
 ||ibuki.cgnat.net^
 ||id.terra.my.id^
@@ -453,16 +472,19 @@
 ||jpdns.cola16.app^
 ||jp-kix.doh.sb^
 ||jp-nrt.doh.sb^
+||jp.tiarap.org^
 ||jp.tiar.app^
 ||kaitain.restena.lu^
 ||keeflix.chenu.ch^
 ||kent6.ajaest.net^
 ||kent6.dyn.ajaest.net^
+||kids.dns0.eu^
 ||kozak.ujwie.co^
 ||kr1.ooroot.com^
 ||kr2.ooroot.com^
 ||kr.loukky.com^
 ||kronos.plan9-dns.com^
+||kronos.plan9dns.com^
 ||kr-sel.doh.sb^
 ||ks1.plop.cc^
 ||kswro.web.id^
@@ -481,6 +503,7 @@
 ||mask-api.fe.apple-dns.net^
 ||mask-api.icloud.com^
 ||mask.apple-dns.net^
+||mask-h2.icloud.com^
 ||mask.icloud.com^
 ||masters-of-cloud.de^
 ||meudns.minhacasainteligente.cf^
@@ -530,6 +553,7 @@
 ||ordns.he.net^
 ||pair02-02.ihatemy.live^
 ||pates.services.sfr.fr.casepp.sfr.fr^
+||per.adfilter.net^
 ||pi1.node15.com^
 ||piekacz.pl^
 ||pihole1.hoerli.net^
@@ -540,6 +564,7 @@
 ||pixie.porkbun.com^
 ||please.dontsteal.my.id^
 ||pluton.plan9-dns.com^
+||pluton.plan9dns.com^
 ||polaris.mrmartian.co^
 ||pope.cnblw.me^
 ||preview.dnsteam.globuscs.info^
@@ -578,8 +603,10 @@
 ||rumpelsepp.org^
 ||sa01.dns4me.net^
 ||sby-doh.limotelu.org^
+||sbydoh.limotelu.org^
 ||secure-dns.dns-ga.de^
 ||security.cloudflare-dns.com^
+||security.cloudflaredns.com^
 ||server.pragmasec.nl^
 ||sexybody.myqnapcloud.com^
 ||sg01.dns4me.net^
@@ -603,6 +630,7 @@
 ||surfbelow.com^
 ||swoletux.ave.zone^
 ||syd1.norgannetworks.net.au^
+||syd.adfilter.net^
 ||td-doh.dns.t53.de^
 ||testaghome.meshkov.info^
 ||test.dnsteam.globuscs.info^
@@ -619,6 +647,7 @@
 ||uk.adhole.org^
 ||uk-lon.doh.sb^
 ||uk.teradns.org^
+||unicast.censurfridns.dk^
 ||unicast.uncensoreddns.org^
 ||urology.wiki^
 ||us01.dns4me.net^
