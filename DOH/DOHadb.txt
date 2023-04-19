@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2023-04-17 02:29:53 (UTC)
+! Last updated: 2023-04-18 02:18:10 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -46,10 +46,10 @@
 ||alexpollard.synology.me^
 ||alpha-dns.de^
 ||alpha.rferee.dev^
+||amd0.nzcow.com^
 ||amd1.sjp.loukky.com^
 ||andrei-se.ru^
 ||antidns.s.tuna.tsinghua.edu.cn^
-||anycast.censurfridns.dk^
 ||anycast.dns.nextdns.io^
 ||anycast.ffmuc.net^
 ||anycast.uncensoreddns.org^
@@ -62,6 +62,7 @@
 ||au01.dns4me.net^
 ||au02.dns4me.net^
 ||au-syd.doh.sb^
+||auto-cn-hk-8000.go-behind.one^
 ||awan.ftp.sh^
 ||aws.haoxuan.xyz^
 ||basic.bravedns.com^
@@ -94,6 +95,7 @@
 ||cloud.tezoi.com^
 ||cluster-0.gac.edu^
 ||cluster-1.gac.edu^
+||cname-for-doh.go-behind.one^
 ||commons.host^
 ||crd.circl.lu^
 ||cubedns.com^
@@ -134,6 +136,7 @@
 ||dns.adguard-dns.com^
 ||dns.alidns.com^
 ||dns.almir1904.eu^
+||dns.anonymous.pw^
 ||dns.api.globus.org^
 ||dns.api.integration.globuscs.info^
 ||dns.api.preview.globus.org^
@@ -164,7 +167,6 @@
 ||dns.cmrg.net^
 ||dns.colorfreedom.org^
 ||dns.comss.one^
-||dns.d4d.moe^
 ||dns.david888.com^
 ||dns.daw.dev^
 ||dns.decloudus.com^
@@ -173,8 +175,8 @@
 ||dns.digitalsize.net^
 ||dns.dnshome.de^
 ||dns.dnswarden.com^
-||dns-doh.dnsforfamily.com^
 ||dnsdoh.dnsforfamily.com^
+||dns-doh-no-safe-search.dnsforfamily.com^
 ||dnsdohnosafesearch.dnsforfamily.com^
 ||dns.dyn1.de^
 ||dns.east.comss.one^
@@ -237,6 +239,7 @@
 ||dns.nhtsky.com^
 ||dns.njal.la^
 ||dnsnl.alekberg.net^
+||dnsnl-noads.alekberg.net^
 ||dnsnlnoads.alekberg.net^
 ||dns-nosec.quad9.net^
 ||dns.novg.net^
@@ -315,8 +318,8 @@
 ||doh.applied-privacy.net^
 ||doh.appliedprivacy.net^
 ||doh.au.ahadns.net^
+||doh.beauty^
 ||doh.bortzmeyer.fr^
-||doh.buzz^
 ||doh.captnemo.in^
 ||doh.ccb-net.it^
 ||doh.centraleu.pi-dns.com^
@@ -411,7 +414,6 @@
 ||easyhandshake.com^
 ||eddi.usgovtrafficmanager.net^
 ||edgy-dns.com^
-||edns.233py.com^
 ||ee-tll.doh.sb^
 ||esel.stusta.mhn.de^
 ||eu1.dns.lavate.ch^
@@ -444,12 +446,14 @@
 ||hitian.me^
 ||hk2.ooroot.com^
 ||hk-hkg.doh.sb^
+||hk-only.go-behind.one^
 ||home.rassadnikov.ru^
 ||home.tuankhaiit.com^
 ||hshh.org^
 ||httpdns-push.heytapmobile.com^
 ||hubsora.eastasia.cloudapp.azure.com^
 ||hz1.h.indust.me^
+||i.233py.com^
 ||ibksturm.synology.me^
 ||ibuki.cgnat.net^
 ||id.terra.my.id^
@@ -584,7 +588,6 @@
 ||racinas.com^
 ||radia.bortzmeyer.org^
 ||rayneau.fr^
-||rdjcloud.duckdns.org^
 ||rdns.faelix.net^
 ||res-acst1.absolight.net^
 ||res-acst2.absolight.net^
@@ -648,7 +651,6 @@
 ||uk.adhole.org^
 ||uk-lon.doh.sb^
 ||uk.teradns.org^
-||unicast.censurfridns.dk^
 ||unicast.uncensoreddns.org^
 ||urology.wiki^
 ||us01.dns4me.net^
