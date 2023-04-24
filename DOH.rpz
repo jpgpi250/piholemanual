@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2304230207 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2304240215 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2023-04-23 02:07:36 (UTC)
+; Last updated: 2023-04-24 02:15:47 (UTC)
 ;
 ; See https://jpgpi250.github.io/piholemanual/doc/Unbound%20response%20policy%20zones.pdf
 ; Report issues at https://github.com/jpgpi250/piholemanual/issues
@@ -54,7 +54,6 @@ amd0.nzcow.com CNAME .
 amd1.sjp.loukky.com CNAME .
 andrei-se.ru CNAME .
 antidns.s.tuna.tsinghua.edu.cn CNAME .
-anycast.censurfridns.dk CNAME .
 anycast.dns.nextdns.io CNAME .
 anycast.ffmuc.net CNAME .
 anycast.uncensoreddns.org CNAME .
@@ -70,12 +69,12 @@ au-syd.doh.sb CNAME .
 auto-cn-hk-8000.go-behind.one CNAME .
 awan.ftp.sh CNAME .
 aws.haoxuan.xyz CNAME .
+basic.bravedns.com CNAME .
 basic.rethinkdns.com CNAME .
 blackhole.myon.lu CNAME .
 bld.sys-adm.in CNAME .
 blitz.ahadns.com CNAME .
 blitz-setup.ahadns.com CNAME .
-bravedns.com CNAME .
 br.servers.legat.ml CNAME .
 buc-m2.illmods.com CNAME .
 c0654f90.4l2.cn.cname.hcnamecdn.com CNAME .
@@ -94,7 +93,6 @@ chaos-system.de CNAME .
 chewbacca.meganerd.nl CNAME .
 chlaebi.synology.me CNAME .
 chrome.cloudflare-dns.com CNAME .
-chromium.dns.nextdns.io CNAME .
 clientdns3.softcom.net CNAME .
 cloudflare-dns.com CNAME .
 cloud.tezoi.com CNAME .
@@ -128,6 +126,7 @@ dns1.ryanpalmer.com CNAME .
 dns1.steering.nextdns.io CNAME .
 dns2.dnscrypt.ca CNAME .
 dns2.ipv6.dnscrypt.ca CNAME .
+dns2.nextdns.io CNAME .
 dns2.steering.nextdns.io CNAME .
 dns2vps.porteii.com CNAME .
 dns4me.net CNAME .
@@ -138,7 +137,6 @@ dns9.quad9.net CNAME .
 dns.aa.net.uk CNAME .
 dns.adguard.com CNAME .
 dnsadguard.co.uk CNAME .
-dns.adguard-dns.com CNAME .
 dns.alidns.com CNAME .
 dns.almir1904.eu CNAME .
 dns.anonymous.pw CNAME .
@@ -266,7 +264,6 @@ dns-sandbox-3291100252b8f52b.elb.us-east-1.amazonaws.com CNAME .
 dns.scapetical.com CNAME .
 dnsse.alekberg.net CNAME .
 dns.sellan.fr CNAME .
-dnsse-noads.alekberg.net CNAME .
 dnssenoads.alekberg.net CNAME .
 dns.shecan.ir CNAME .
 dns.silen.org CNAME .
@@ -323,8 +320,8 @@ doh.apad.pro.cdn.cloudflare.net CNAME .
 doh.applied-privacy.net CNAME .
 doh.appliedprivacy.net CNAME .
 doh.au.ahadns.net CNAME .
+doh.beauty CNAME .
 doh.bortzmeyer.fr CNAME .
-doh.buzz CNAME .
 doh.captnemo.in CNAME .
 doh.ccb-net.it CNAME .
 doh.centraleu.pi-dns.com CNAME .
@@ -419,7 +416,6 @@ eaereaper.ru CNAME .
 easyhandshake.com CNAME .
 eddi.usgovtrafficmanager.net CNAME .
 edgy-dns.com CNAME .
-edns.233py.com CNAME .
 ee-tll.doh.sb CNAME .
 esel.stusta.mhn.de CNAME .
 eu1.dns.lavate.ch CNAME .
@@ -459,6 +455,7 @@ hshh.org CNAME .
 httpdns-push.heytapmobile.com CNAME .
 hubsora.eastasia.cloudapp.azure.com CNAME .
 hz1.h.indust.me CNAME .
+i.233py.com CNAME .
 ibksturm.synology.me CNAME .
 ibuki.cgnat.net CNAME .
 id.terra.my.id CNAME .
