@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2023-04-23 02:16:49 (UTC)
+! Last updated: 2023-04-24 02:24:59 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -50,7 +50,6 @@
 ||amd1.sjp.loukky.com^
 ||andrei-se.ru^
 ||antidns.s.tuna.tsinghua.edu.cn^
-||anycast.censurfridns.dk^
 ||anycast.dns.nextdns.io^
 ||anycast.ffmuc.net^
 ||anycast.uncensoreddns.org^
@@ -66,12 +65,12 @@
 ||auto-cn-hk-8000.go-behind.one^
 ||awan.ftp.sh^
 ||aws.haoxuan.xyz^
+||basic.bravedns.com^
 ||basic.rethinkdns.com^
 ||blackhole.myon.lu^
 ||bld.sys-adm.in^
 ||blitz.ahadns.com^
 ||blitz-setup.ahadns.com^
-||bravedns.com^
 ||br.servers.legat.ml^
 ||buc-m2.illmods.com^
 ||c0654f90.4l2.cn.cname.hcnamecdn.com^
@@ -90,7 +89,6 @@
 ||chewbacca.meganerd.nl^
 ||chlaebi.synology.me^
 ||chrome.cloudflare-dns.com^
-||chromium.dns.nextdns.io^
 ||clientdns3.softcom.net^
 ||cloudflare-dns.com^
 ||cloud.tezoi.com^
@@ -124,6 +122,7 @@
 ||dns1.steering.nextdns.io^
 ||dns2.dnscrypt.ca^
 ||dns2.ipv6.dnscrypt.ca^
+||dns2.nextdns.io^
 ||dns2.steering.nextdns.io^
 ||dns2vps.porteii.com^
 ||dns4me.net^
@@ -134,7 +133,6 @@
 ||dns.aa.net.uk^
 ||dns.adguard.com^
 ||dnsadguard.co.uk^
-||dns.adguard-dns.com^
 ||dns.alidns.com^
 ||dns.almir1904.eu^
 ||dns.anonymous.pw^
@@ -262,7 +260,6 @@
 ||dns.scapetical.com^
 ||dnsse.alekberg.net^
 ||dns.sellan.fr^
-||dnsse-noads.alekberg.net^
 ||dnssenoads.alekberg.net^
 ||dns.shecan.ir^
 ||dns.silen.org^
@@ -319,8 +316,8 @@
 ||doh.applied-privacy.net^
 ||doh.appliedprivacy.net^
 ||doh.au.ahadns.net^
+||doh.beauty^
 ||doh.bortzmeyer.fr^
-||doh.buzz^
 ||doh.captnemo.in^
 ||doh.ccb-net.it^
 ||doh.centraleu.pi-dns.com^
@@ -415,7 +412,6 @@
 ||easyhandshake.com^
 ||eddi.usgovtrafficmanager.net^
 ||edgy-dns.com^
-||edns.233py.com^
 ||ee-tll.doh.sb^
 ||esel.stusta.mhn.de^
 ||eu1.dns.lavate.ch^
@@ -455,6 +451,7 @@
 ||httpdns-push.heytapmobile.com^
 ||hubsora.eastasia.cloudapp.azure.com^
 ||hz1.h.indust.me^
+||i.233py.com^
 ||ibksturm.synology.me^
 ||ibuki.cgnat.net^
 ||id.terra.my.id^
