@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2304290217 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2304300226 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2023-04-29 02:17:14 (UTC)
+; Last updated: 2023-04-30 02:26:01 (UTC)
 ;
 ; See https://jpgpi250.github.io/piholemanual/doc/Unbound%20response%20policy%20zones.pdf
 ; Report issues at https://github.com/jpgpi250/piholemanual/issues
@@ -194,7 +194,6 @@ dns.alloxr.info CNAME .
 dns.almir1904.eu CNAME .
 dns.alvosec.com CNAME .
 dns.andrewnw.xyz CNAME .
-dns.anonymous.pw CNAME .
 dns.api.globus.org CNAME .
 dns.apigw.online CNAME .
 dns.api.integration.globuscs.info CNAME .
@@ -236,6 +235,7 @@ dns.comss.one CNAME .
 dns.connect.fail CNAME .
 dns.cwlys.com CNAME .
 dns.d365.in CNAME .
+dns.d4d.moe CNAME .
 dns.d94.xyz CNAME .
 dns.d96.info CNAME .
 dns.david888.com CNAME .
@@ -436,10 +436,8 @@ doh.360.cn CNAME .
 doh.42l.fr CNAME .
 doh.apad.pro CNAME .
 doh.apad.pro.cdn.cloudflare.net CNAME .
-doh.applied-privacy.net CNAME .
 doh.appliedprivacy.net CNAME .
 doh.au.ahadns.net CNAME .
-doh.beauty CNAME .
 doh.boje8.me CNAME .
 doh.bortzmeyer.fr CNAME .
 doh.bt.com CNAME .
@@ -489,11 +487,11 @@ doh.la.ahadns.net CNAME .
 doh.li CNAME .
 doh.libredns.gr CNAME .
 doh.luigi.nexific.it CNAME .
-doh.lv CNAME .
 doh.micronets.in CNAME .
 doh.mullvad.net CNAME .
 doh.nala.ru CNAME .
 doh.neowutran.ovh CNAME .
+doh.nic.lv CNAME .
 doh.niyawe.de CNAME .
 doh.nl.ahadns.net CNAME .
 doh.no.ahadns.net CNAME .
@@ -668,6 +666,7 @@ meudns.minhacasainteligente.cf CNAME .
 michiganska.com CNAME .
 mimile.despagne.net CNAME .
 mimile.despagne.ovh CNAME .
+mina.harrache.info CNAME .
 mitron.one CNAME .
 montmorot.duckdns.org CNAME .
 msr177.com CNAME .
@@ -841,6 +840,7 @@ uk01.dns4me.net CNAME .
 uk.adhole.org CNAME .
 uk-lon.doh.sb CNAME .
 uk.teradns.org CNAME .
+unicast.censurfridns.dk CNAME .
 unicast.uncensoreddns.org CNAME .
 urology.wiki CNAME .
 us01.dns4me.net CNAME .
@@ -873,7 +873,6 @@ www.taufner.net CNAME .
 wyx.cloud CNAME .
 xenergy.cc CNAME .
 xray.krnl.eu CNAME .
-yario.ru CNAME .
 yarp.lefolgoc.net CNAME .
 ychen.cf CNAME .
 ychen.ga CNAME .
