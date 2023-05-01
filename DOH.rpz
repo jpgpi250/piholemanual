@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2304300226 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2305010220 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2023-04-30 02:26:01 (UTC)
+; Last updated: 2023-05-01 02:20:49 (UTC)
 ;
 ; See https://jpgpi250.github.io/piholemanual/doc/Unbound%20response%20policy%20zones.pdf
 ; Report issues at https://github.com/jpgpi250/piholemanual/issues
@@ -15,13 +15,10 @@ $TTL 30
 ;   I (jpgpi250) can not be held liable for any false positive or damage caused by the use of the datasets offered.
 ;
 15815d9ce5f441edaa1f33f62761ff16.pacloudflare.com CNAME .
-180.0rz.space CNAME .
 1a.ns.ozer.im CNAME .
 1dot1dot1dot1.cloudflare-dns.com CNAME .
 1dot1dot1dot1.cloudflaredns.com CNAME .
-214214214.xyz.cdn.dnsv1.com.cn CNAME .
 360.233py.com CNAME .
-3kvgy5uo.slt-dk.sched.tdnsv8.com CNAME .
 8888.google CNAME .
 aattwwss.duckdns.org CNAME .
 abel.waringer-atg.de CNAME .
@@ -185,15 +182,16 @@ dns.886886886.xyz CNAME .
 dns8.org CNAME .
 dns9.quad9.net CNAME .
 dns.aa.net.uk CNAME .
-dns.aaytorr.com CNAME .
 dns.adguard.com CNAME .
 dnsadguard.co.uk CNAME .
+dns.adguard-dns.com CNAME .
 dns.adrianlam.com CNAME .
 dns.alidns.com CNAME .
 dns.alloxr.info CNAME .
 dns.almir1904.eu CNAME .
 dns.alvosec.com CNAME .
 dns.andrewnw.xyz CNAME .
+dns.anonymous.pw CNAME .
 dns.api.globus.org CNAME .
 dns.apigw.online CNAME .
 dns.api.integration.globuscs.info CNAME .
@@ -208,6 +206,7 @@ dns.asdw.fun.cdn.cloudflare.net CNAME .
 dns.azsopro.net CNAME .
 dns.b33.space CNAME .
 dns.b612.me CNAME .
+dns.bayas.dev CNAME .
 dns.bebasid.com CNAME .
 dns.belnet.be CNAME .
 dns.benpro.fr CNAME .
@@ -235,7 +234,6 @@ dns.comss.one CNAME .
 dns.connect.fail CNAME .
 dns.cwlys.com CNAME .
 dns.d365.in CNAME .
-dns.d4d.moe CNAME .
 dns.d94.xyz CNAME .
 dns.d96.info CNAME .
 dns.david888.com CNAME .
@@ -438,10 +436,10 @@ doh.apad.pro CNAME .
 doh.apad.pro.cdn.cloudflare.net CNAME .
 doh.appliedprivacy.net CNAME .
 doh.au.ahadns.net CNAME .
+doh.beauty CNAME .
 doh.boje8.me CNAME .
 doh.bortzmeyer.fr CNAME .
 doh.bt.com CNAME .
-doh.buzz CNAME .
 doh.captnemo.in CNAME .
 doh.ccb-net.it CNAME .
 doh.centraleu.pi-dns.com CNAME .
