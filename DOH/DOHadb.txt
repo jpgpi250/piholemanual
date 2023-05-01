@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2023-04-29 02:27:01 (UTC)
+! Last updated: 2023-04-30 02:35:46 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -190,7 +190,6 @@
 ||dns.almir1904.eu^
 ||dns.alvosec.com^
 ||dns.andrewnw.xyz^
-||dns.anonymous.pw^
 ||dns.api.globus.org^
 ||dns.apigw.online^
 ||dns.api.integration.globuscs.info^
@@ -232,6 +231,7 @@
 ||dns.connect.fail^
 ||dns.cwlys.com^
 ||dns.d365.in^
+||dns.d4d.moe^
 ||dns.d94.xyz^
 ||dns.d96.info^
 ||dns.david888.com^
@@ -432,10 +432,8 @@
 ||doh.42l.fr^
 ||doh.apad.pro^
 ||doh.apad.pro.cdn.cloudflare.net^
-||doh.applied-privacy.net^
 ||doh.appliedprivacy.net^
 ||doh.au.ahadns.net^
-||doh.beauty^
 ||doh.boje8.me^
 ||doh.bortzmeyer.fr^
 ||doh.bt.com^
@@ -485,11 +483,11 @@
 ||doh.li^
 ||doh.libredns.gr^
 ||doh.luigi.nexific.it^
-||doh.lv^
 ||doh.micronets.in^
 ||doh.mullvad.net^
 ||doh.nala.ru^
 ||doh.neowutran.ovh^
+||doh.nic.lv^
 ||doh.niyawe.de^
 ||doh.nl.ahadns.net^
 ||doh.no.ahadns.net^
@@ -664,6 +662,7 @@
 ||michiganska.com^
 ||mimile.despagne.net^
 ||mimile.despagne.ovh^
+||mina.harrache.info^
 ||mitron.one^
 ||montmorot.duckdns.org^
 ||msr177.com^
@@ -837,6 +836,7 @@
 ||uk.adhole.org^
 ||uk-lon.doh.sb^
 ||uk.teradns.org^
+||unicast.censurfridns.dk^
 ||unicast.uncensoreddns.org^
 ||urology.wiki^
 ||us01.dns4me.net^
@@ -869,7 +869,6 @@
 ||wyx.cloud^
 ||xenergy.cc^
 ||xray.krnl.eu^
-||yario.ru^
 ||yarp.lefolgoc.net^
 ||ychen.cf^
 ||ychen.ga^
