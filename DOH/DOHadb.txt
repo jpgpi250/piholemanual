@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2023-04-30 02:35:46 (UTC)
+! Last updated: 2023-05-01 02:30:34 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -11,13 +11,10 @@
 !   I (jpgpi250) can not be held liable for any false positive or damage caused by the use of the datasets offered.
 !
 ||15815d9ce5f441edaa1f33f62761ff16.pacloudflare.com^
-||180.0rz.space^
 ||1a.ns.ozer.im^
 ||1dot1dot1dot1.cloudflare-dns.com^
 ||1dot1dot1dot1.cloudflaredns.com^
-||214214214.xyz.cdn.dnsv1.com.cn^
 ||360.233py.com^
-||3kvgy5uo.slt-dk.sched.tdnsv8.com^
 ||8888.google^
 ||aattwwss.duckdns.org^
 ||abel.waringer-atg.de^
@@ -181,15 +178,16 @@
 ||dns8.org^
 ||dns9.quad9.net^
 ||dns.aa.net.uk^
-||dns.aaytorr.com^
 ||dns.adguard.com^
 ||dnsadguard.co.uk^
+||dns.adguard-dns.com^
 ||dns.adrianlam.com^
 ||dns.alidns.com^
 ||dns.alloxr.info^
 ||dns.almir1904.eu^
 ||dns.alvosec.com^
 ||dns.andrewnw.xyz^
+||dns.anonymous.pw^
 ||dns.api.globus.org^
 ||dns.apigw.online^
 ||dns.api.integration.globuscs.info^
@@ -204,6 +202,7 @@
 ||dns.azsopro.net^
 ||dns.b33.space^
 ||dns.b612.me^
+||dns.bayas.dev^
 ||dns.bebasid.com^
 ||dns.belnet.be^
 ||dns.benpro.fr^
@@ -231,7 +230,6 @@
 ||dns.connect.fail^
 ||dns.cwlys.com^
 ||dns.d365.in^
-||dns.d4d.moe^
 ||dns.d94.xyz^
 ||dns.d96.info^
 ||dns.david888.com^
@@ -434,10 +432,10 @@
 ||doh.apad.pro.cdn.cloudflare.net^
 ||doh.appliedprivacy.net^
 ||doh.au.ahadns.net^
+||doh.beauty^
 ||doh.boje8.me^
 ||doh.bortzmeyer.fr^
 ||doh.bt.com^
-||doh.buzz^
 ||doh.captnemo.in^
 ||doh.ccb-net.it^
 ||doh.centraleu.pi-dns.com^
