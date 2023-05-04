@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2305030237 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2305040232 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2023-05-03 02:37:44 (UTC)
+; Last updated: 2023-05-04 02:32:19 (UTC)
 ;
 ; See https://jpgpi250.github.io/piholemanual/doc/Unbound%20response%20policy%20zones.pdf
 ; Report issues at https://github.com/jpgpi250/piholemanual/issues
@@ -508,7 +508,6 @@ doh2.seby.io CNAME .
 doh.360.cn CNAME .
 doh.42l.fr CNAME .
 doh.apad.pro CNAME .
-doh.apad.pro.cdn.cloudflare.net CNAME .
 doh.applied-privacy.net CNAME .
 doh.appliedprivacy.net CNAME .
 doh.asecdns.com CNAME .
@@ -834,11 +833,13 @@ neatdns.ustclug.org CNAME .
 nl-ams2.doh.sb CNAME .
 nl-ams.doh.sb CNAME .
 ns.00dani.me CNAME .
+ns0.fdn.fr CNAME .
 ns.0.l.ovpn.bond CNAME .
 ns1.95997.ip-ns.net CNAME .
 ns1.dnsprivacy.at CNAME .
 ns1-doh.iriseden.fr CNAME .
 ns1.dotls.org CNAME .
+ns1.fdn.fr CNAME .
 ns1.flodns.net CNAME .
 ns1.opennameserver.org CNAME .
 ns1.qquack.org CNAME .
@@ -895,6 +896,7 @@ pates.services.sfr.fr.casepp.sfr.fr CNAME .
 pdns.faelix.net CNAME .
 per.adfilter.net CNAME .
 pi1.node15.com CNAME .
+piekacz.pl CNAME .
 pihole1.hoerli.net CNAME .
 pihole2.hoerli.net CNAME .
 pihole3.hoerli.net CNAME .
@@ -1087,3 +1089,4 @@ zephyrus.id CNAME .
 zero.dns0.eu CNAME .
 zougloub.eu CNAME .
 zrh1-ns01.monzoon.net CNAME .
+zxcvb.pp.ua CNAME .
