@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2305040232 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2305050243 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2023-05-04 02:32:19 (UTC)
+; Last updated: 2023-05-05 02:43:08 (UTC)
 ;
 ; See https://jpgpi250.github.io/piholemanual/doc/Unbound%20response%20policy%20zones.pdf
 ; Report issues at https://github.com/jpgpi250/piholemanual/issues
@@ -20,6 +20,7 @@ $TTL 30
 1a.ns.ozer.im CNAME .
 1dot1dot1dot1.cloudflare-dns.com CNAME .
 1dot1dot1dot1.cloudflaredns.com CNAME .
+214214214.xyz.cdn.dnsv1.com.cn CNAME .
 233py.com CNAME .
 2.dnscrypt-cert.blahdns.com CNAME .
 2.dnscrypt-cert.browser.yandex.net CNAME .
@@ -60,13 +61,17 @@ adguard.avdkishore.dev CNAME .
 adguard.beliefanx.cn CNAME .
 adguard.bitteeinbyte.de CNAME .
 adguard.cloudmini.net CNAME .
+adguard.clroot.io CNAME .
+adguard.ddns.network CNAME .
 adguard.dekonix.ru CNAME .
 adguard.depieri.net CNAME .
 adguard.dessoi.cloud CNAME .
 adguard-dns.rouga.ch CNAME .
 adguard.dtness.com CNAME .
 adguard.ef67daisuki.club CNAME .
+adguard.elashri.xyz CNAME .
 adguard.ender.fr CNAME .
+adguard.fresh-waffles.online CNAME .
 adguard.gbrossi.com.br CNAME .
 adguard.haneulo.com CNAME .
 adguardh.ga CNAME .
@@ -76,6 +81,7 @@ adguard-ironhide.ultima-thule.ru CNAME .
 adguard.jfchenier.ca CNAME .
 adguard.k0rap.com CNAME .
 adguard-kartoffel.zernico.de CNAME .
+adguard.kss.ovh CNAME .
 adguard.lege.despagne.net CNAME .
 adguard.meddy94.de CNAME .
 adguard.nielsvoorn.nl CNAME .
@@ -508,6 +514,7 @@ doh2.seby.io CNAME .
 doh.360.cn CNAME .
 doh.42l.fr CNAME .
 doh.apad.pro CNAME .
+doh.apad.pro.cdn.cloudflare.net CNAME .
 doh.applied-privacy.net CNAME .
 doh.appliedprivacy.net CNAME .
 doh.asecdns.com CNAME .
@@ -728,6 +735,7 @@ hk-hkg.doh.sb CNAME .
 hk-only.go-behind.one CNAME .
 hole.elbschloss.xyz CNAME .
 home27.duckdns.org CNAME .
+home.ddns.network CNAME .
 home.rassadnikov.ru CNAME .
 home.tuankhaiit.com CNAME .
 hshh.org CNAME .
