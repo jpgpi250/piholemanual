@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2023-05-03 02:48:02 (UTC)
+! Last updated: 2023-05-04 02:42:37 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -504,7 +504,6 @@
 ||doh.360.cn^
 ||doh.42l.fr^
 ||doh.apad.pro^
-||doh.apad.pro.cdn.cloudflare.net^
 ||doh.applied-privacy.net^
 ||doh.appliedprivacy.net^
 ||doh.asecdns.com^
@@ -830,11 +829,13 @@
 ||nl-ams2.doh.sb^
 ||nl-ams.doh.sb^
 ||ns.00dani.me^
+||ns0.fdn.fr^
 ||ns.0.l.ovpn.bond^
 ||ns1.95997.ip-ns.net^
 ||ns1.dnsprivacy.at^
 ||ns1-doh.iriseden.fr^
 ||ns1.dotls.org^
+||ns1.fdn.fr^
 ||ns1.flodns.net^
 ||ns1.opennameserver.org^
 ||ns1.qquack.org^
@@ -891,6 +892,7 @@
 ||pdns.faelix.net^
 ||per.adfilter.net^
 ||pi1.node15.com^
+||piekacz.pl^
 ||pihole1.hoerli.net^
 ||pihole2.hoerli.net^
 ||pihole3.hoerli.net^
@@ -1083,3 +1085,4 @@
 ||zero.dns0.eu^
 ||zougloub.eu^
 ||zrh1-ns01.monzoon.net^
+||zxcvb.pp.ua^
