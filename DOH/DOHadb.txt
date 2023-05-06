@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2023-05-04 02:42:37 (UTC)
+! Last updated: 2023-05-05 02:53:26 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -16,6 +16,7 @@
 ||1a.ns.ozer.im^
 ||1dot1dot1dot1.cloudflare-dns.com^
 ||1dot1dot1dot1.cloudflaredns.com^
+||214214214.xyz.cdn.dnsv1.com.cn^
 ||233py.com^
 ||2.dnscrypt-cert.blahdns.com^
 ||2.dnscrypt-cert.browser.yandex.net^
@@ -56,13 +57,17 @@
 ||adguard.beliefanx.cn^
 ||adguard.bitteeinbyte.de^
 ||adguard.cloudmini.net^
+||adguard.clroot.io^
+||adguard.ddns.network^
 ||adguard.dekonix.ru^
 ||adguard.depieri.net^
 ||adguard.dessoi.cloud^
 ||adguard-dns.rouga.ch^
 ||adguard.dtness.com^
 ||adguard.ef67daisuki.club^
+||adguard.elashri.xyz^
 ||adguard.ender.fr^
+||adguard.fresh-waffles.online^
 ||adguard.gbrossi.com.br^
 ||adguard.haneulo.com^
 ||adguardh.ga^
@@ -72,6 +77,7 @@
 ||adguard.jfchenier.ca^
 ||adguard.k0rap.com^
 ||adguard-kartoffel.zernico.de^
+||adguard.kss.ovh^
 ||adguard.lege.despagne.net^
 ||adguard.meddy94.de^
 ||adguard.nielsvoorn.nl^
@@ -504,6 +510,7 @@
 ||doh.360.cn^
 ||doh.42l.fr^
 ||doh.apad.pro^
+||doh.apad.pro.cdn.cloudflare.net^
 ||doh.applied-privacy.net^
 ||doh.appliedprivacy.net^
 ||doh.asecdns.com^
@@ -724,6 +731,7 @@
 ||hk-only.go-behind.one^
 ||hole.elbschloss.xyz^
 ||home27.duckdns.org^
+||home.ddns.network^
 ||home.rassadnikov.ru^
 ||home.tuankhaiit.com^
 ||hshh.org^
