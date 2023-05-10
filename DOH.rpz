@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2305090228 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2305100234 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2023-05-09 02:28:57 (UTC)
+; Last updated: 2023-05-10 02:34:54 (UTC)
 ;
 ; See https://jpgpi250.github.io/piholemanual/doc/Unbound%20response%20policy%20zones.pdf
 ; Report issues at https://github.com/jpgpi250/piholemanual/issues
@@ -15,13 +15,10 @@ $TTL 30
 ;   I (jpgpi250) can not be held liable for any false positive or damage caused by the use of the datasets offered.
 ;
 15815d9ce5f441edaa1f33f62761ff16.pacloudflare.com CNAME .
-180.0rz.space CNAME .
 1a.ns.ozer.im CNAME .
 1dot1dot1dot1.cloudflare-dns.com CNAME .
 1dot1dot1dot1.cloudflaredns.com CNAME .
-214214214.xyz.cdn.dnsv1.com.cn CNAME .
 360.233py.com CNAME .
-3kvgy5uo.slt-dk.sched.tdnsv8.com CNAME .
 501w.net CNAME .
 8888.google CNAME .
 aattwwss.duckdns.org CNAME .
@@ -107,19 +104,18 @@ auto-cn-hk-8000.go-behind.one CNAME .
 awan.ftp.sh CNAME .
 aws.haoxuan.xyz CNAME .
 axaxa.fun CNAME .
-basic.bravedns.com CNAME .
 basic.rethinkdns.com CNAME .
 bcandrade.ml CNAME .
 blackhole.myon.lu CNAME .
 bld.sys-adm.in CNAME .
 blitz.ahadns.com CNAME .
+blitz-setup.ahadns.com CNAME .
 block.abstergo.it CNAME .
 blockerads.multimediaconcept.fr CNAME .
 bluemood.me CNAME .
 bravedns.com CNAME .
 br.servers.legat.ml CNAME .
 buc-m2.illmods.com CNAME .
-c0654f90.4l2.cn.cname.hcnamecdn.com CNAME .
 c4c707e5-73cd-4272-9f05-0cf16c39e48a.pub.instances.scw.cloud CNAME .
 ca01.dns4me.net CNAME .
 ca02.dns4me.net CNAME .
@@ -142,6 +138,7 @@ cloud.tezoi.com CNAME .
 cluster-0.gac.edu CNAME .
 cluster-1.gac.edu CNAME .
 cname-for-doh.go-behind.one CNAME .
+cn-cent-cu-1y.dns.hanwuss.loongapi.com CNAME .
 commons.host CNAME .
 cossxiu.ga CNAME .
 crd.circl.lu CNAME .
@@ -193,7 +190,6 @@ dns9.quad9.net CNAME .
 dns.aa.net.uk CNAME .
 dns.adguard.com CNAME .
 dnsadguard.co.uk CNAME .
-dns.adguard-dns.com CNAME .
 dns.adrianlam.com CNAME .
 dns.alidns.com CNAME .
 dns.alloxr.info CNAME .
@@ -256,7 +252,6 @@ dns.dnshome.de CNAME .
 dns.dnswarden.com CNAME .
 dns-doh.dnsforfamily.com CNAME .
 dnsdoh.dnsforfamily.com CNAME .
-dns-doh-no-safe-search.dnsforfamily.com CNAME .
 dnsdohnosafesearch.dnsforfamily.com CNAME .
 dns.dutchwhite.nl CNAME .
 dns.dyn1.de CNAME .
@@ -362,6 +357,7 @@ dns.oszx.co CNAME .
 dns.ovpn.bond CNAME .
 dns.paesa.es CNAME .
 dns.panszelescik.pl CNAME .
+dns.pietjacobs.be CNAME .
 dns.porteii.com CNAME .
 dns.privilab.net CNAME .
 dns-prod-bc43efde54c7e228.elb.us-east-1.amazonaws.com CNAME .
@@ -661,6 +657,7 @@ lab-1.sellan.fr CNAME .
 lab.sellan.fr CNAME .
 lastentarvike.fi CNAME .
 lindung.pp.ua CNAME .
+line.pm CNAME .
 lion.dns.qwer.pw CNAME .
 lion.yazilimatolye.com CNAME .
 lkbin.ga CNAME .
@@ -741,7 +738,6 @@ pates.services.sfr.fr.casepp.sfr.fr CNAME .
 pdns.faelix.net CNAME .
 per.adfilter.net CNAME .
 pi1.node15.com CNAME .
-piekacz.pl CNAME .
 pihole1.hoerli.net CNAME .
 pihole2.hoerli.net CNAME .
 pihole3.hoerli.net CNAME .
@@ -785,7 +781,6 @@ resolver2.absolight.net CNAME .
 resolver3.absolight.net CNAME .
 resolver4.dns.openinternet.io CNAME .
 resolver.cloudflare-eth.com CNAME .
-resolver-eu.lelux.fi CNAME .
 resolver.noaddns.com CNAME .
 resolver.r0cket.net CNAME .
 resolver.rferee.dev CNAME .
