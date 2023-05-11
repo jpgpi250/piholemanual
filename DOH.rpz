@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2305100234 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2305110227 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2023-05-10 02:34:54 (UTC)
+; Last updated: 2023-05-11 02:27:42 (UTC)
 ;
 ; See https://jpgpi250.github.io/piholemanual/doc/Unbound%20response%20policy%20zones.pdf
 ; Report issues at https://github.com/jpgpi250/piholemanual/issues
@@ -15,11 +15,13 @@ $TTL 30
 ;   I (jpgpi250) can not be held liable for any false positive or damage caused by the use of the datasets offered.
 ;
 15815d9ce5f441edaa1f33f62761ff16.pacloudflare.com CNAME .
+180.0rz.space CNAME .
 1a.ns.ozer.im CNAME .
-1dot1dot1dot1.cloudflare-dns.com CNAME .
 1dot1dot1dot1.cloudflaredns.com CNAME .
+214214214.xyz.cdn.dnsv1.com.cn CNAME .
 360.233py.com CNAME .
 501w.net CNAME .
+77980.bodis.com CNAME .
 8888.google CNAME .
 aattwwss.duckdns.org CNAME .
 abel.waringer-atg.de CNAME .
@@ -104,6 +106,7 @@ auto-cn-hk-8000.go-behind.one CNAME .
 awan.ftp.sh CNAME .
 aws.haoxuan.xyz CNAME .
 axaxa.fun CNAME .
+basic.bravedns.com CNAME .
 basic.rethinkdns.com CNAME .
 bcandrade.ml CNAME .
 blackhole.myon.lu CNAME .
@@ -113,7 +116,6 @@ blitz-setup.ahadns.com CNAME .
 block.abstergo.it CNAME .
 blockerads.multimediaconcept.fr CNAME .
 bluemood.me CNAME .
-bravedns.com CNAME .
 br.servers.legat.ml CNAME .
 buc-m2.illmods.com CNAME .
 c4c707e5-73cd-4272-9f05-0cf16c39e48a.pub.instances.scw.cloud CNAME .
@@ -560,7 +562,6 @@ eu-opush-heytapmobile-pubgw-1244993624.eu-west-3.elb.amazonaws.com CNAME .
 europe.avastdns.com CNAME .
 europe.doh.sb CNAME .
 europe-west.avastdns.com CNAME .
-every1dns.com CNAME .
 externalmobiel.lekdijk.online CNAME .
 family.5ososea.com CNAME .
 family.canadianshield.cira.ca CNAME .
@@ -657,7 +658,6 @@ lab-1.sellan.fr CNAME .
 lab.sellan.fr CNAME .
 lastentarvike.fi CNAME .
 lindung.pp.ua CNAME .
-line.pm CNAME .
 lion.dns.qwer.pw CNAME .
 lion.yazilimatolye.com CNAME .
 lkbin.ga CNAME .
@@ -738,6 +738,7 @@ pates.services.sfr.fr.casepp.sfr.fr CNAME .
 pdns.faelix.net CNAME .
 per.adfilter.net CNAME .
 pi1.node15.com CNAME .
+piekacz.pl CNAME .
 pihole1.hoerli.net CNAME .
 pihole2.hoerli.net CNAME .
 pihole3.hoerli.net CNAME .
@@ -781,6 +782,7 @@ resolver2.absolight.net CNAME .
 resolver3.absolight.net CNAME .
 resolver4.dns.openinternet.io CNAME .
 resolver.cloudflare-eth.com CNAME .
+resolver-eu.lelux.fi CNAME .
 resolver.noaddns.com CNAME .
 resolver.r0cket.net CNAME .
 resolver.rferee.dev CNAME .
@@ -857,6 +859,7 @@ uk.adhole.org CNAME .
 uk-lon.doh.sb CNAME .
 uk.teradns.org CNAME .
 unfiltered.adguard-dns.com CNAME .
+unicast.censurfridns.dk CNAME .
 unicast.uncensoreddns.org CNAME .
 urology.wiki CNAME .
 us01.dns4me.net CNAME .
@@ -884,6 +887,7 @@ www.caifuwu.com CNAME .
 www.c-dns.com CNAME .
 www.dnsadguard.co.uk CNAME .
 www.elshad-adgh-dns.ru CNAME .
+www.masters-of-cloud.de CNAME .
 www.morbitzer.de CNAME .
 www.muxyuji.ru CNAME .
 www.taufner.net CNAME .
