@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2023-05-09 02:38:48 (UTC)
+! Last updated: 2023-05-10 02:44:47 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -11,13 +11,10 @@
 !   I (jpgpi250) can not be held liable for any false positive or damage caused by the use of the datasets offered.
 !
 ||15815d9ce5f441edaa1f33f62761ff16.pacloudflare.com^
-||180.0rz.space^
 ||1a.ns.ozer.im^
 ||1dot1dot1dot1.cloudflare-dns.com^
 ||1dot1dot1dot1.cloudflaredns.com^
-||214214214.xyz.cdn.dnsv1.com.cn^
 ||360.233py.com^
-||3kvgy5uo.slt-dk.sched.tdnsv8.com^
 ||501w.net^
 ||8888.google^
 ||aattwwss.duckdns.org^
@@ -103,19 +100,18 @@
 ||awan.ftp.sh^
 ||aws.haoxuan.xyz^
 ||axaxa.fun^
-||basic.bravedns.com^
 ||basic.rethinkdns.com^
 ||bcandrade.ml^
 ||blackhole.myon.lu^
 ||bld.sys-adm.in^
 ||blitz.ahadns.com^
+||blitz-setup.ahadns.com^
 ||block.abstergo.it^
 ||blockerads.multimediaconcept.fr^
 ||bluemood.me^
 ||bravedns.com^
 ||br.servers.legat.ml^
 ||buc-m2.illmods.com^
-||c0654f90.4l2.cn.cname.hcnamecdn.com^
 ||c4c707e5-73cd-4272-9f05-0cf16c39e48a.pub.instances.scw.cloud^
 ||ca01.dns4me.net^
 ||ca02.dns4me.net^
@@ -138,6 +134,7 @@
 ||cluster-0.gac.edu^
 ||cluster-1.gac.edu^
 ||cname-for-doh.go-behind.one^
+||cn-cent-cu-1y.dns.hanwuss.loongapi.com^
 ||commons.host^
 ||cossxiu.ga^
 ||crd.circl.lu^
@@ -189,7 +186,6 @@
 ||dns.aa.net.uk^
 ||dns.adguard.com^
 ||dnsadguard.co.uk^
-||dns.adguard-dns.com^
 ||dns.adrianlam.com^
 ||dns.alidns.com^
 ||dns.alloxr.info^
@@ -252,7 +248,6 @@
 ||dns.dnswarden.com^
 ||dns-doh.dnsforfamily.com^
 ||dnsdoh.dnsforfamily.com^
-||dns-doh-no-safe-search.dnsforfamily.com^
 ||dnsdohnosafesearch.dnsforfamily.com^
 ||dns.dutchwhite.nl^
 ||dns.dyn1.de^
@@ -358,6 +353,7 @@
 ||dns.ovpn.bond^
 ||dns.paesa.es^
 ||dns.panszelescik.pl^
+||dns.pietjacobs.be^
 ||dns.porteii.com^
 ||dns.privilab.net^
 ||dns-prod-bc43efde54c7e228.elb.us-east-1.amazonaws.com^
@@ -657,6 +653,7 @@
 ||lab.sellan.fr^
 ||lastentarvike.fi^
 ||lindung.pp.ua^
+||line.pm^
 ||lion.dns.qwer.pw^
 ||lion.yazilimatolye.com^
 ||lkbin.ga^
@@ -737,7 +734,6 @@
 ||pdns.faelix.net^
 ||per.adfilter.net^
 ||pi1.node15.com^
-||piekacz.pl^
 ||pihole1.hoerli.net^
 ||pihole2.hoerli.net^
 ||pihole3.hoerli.net^
@@ -781,7 +777,6 @@
 ||resolver3.absolight.net^
 ||resolver4.dns.openinternet.io^
 ||resolver.cloudflare-eth.com^
-||resolver-eu.lelux.fi^
 ||resolver.noaddns.com^
 ||resolver.r0cket.net^
 ||resolver.rferee.dev^
