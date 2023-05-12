@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2023-05-10 02:44:47 (UTC)
+! Last updated: 2023-05-11 02:37:34 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -11,11 +11,13 @@
 !   I (jpgpi250) can not be held liable for any false positive or damage caused by the use of the datasets offered.
 !
 ||15815d9ce5f441edaa1f33f62761ff16.pacloudflare.com^
+||180.0rz.space^
 ||1a.ns.ozer.im^
-||1dot1dot1dot1.cloudflare-dns.com^
 ||1dot1dot1dot1.cloudflaredns.com^
+||214214214.xyz.cdn.dnsv1.com.cn^
 ||360.233py.com^
 ||501w.net^
+||77980.bodis.com^
 ||8888.google^
 ||aattwwss.duckdns.org^
 ||abel.waringer-atg.de^
@@ -100,6 +102,7 @@
 ||awan.ftp.sh^
 ||aws.haoxuan.xyz^
 ||axaxa.fun^
+||basic.bravedns.com^
 ||basic.rethinkdns.com^
 ||bcandrade.ml^
 ||blackhole.myon.lu^
@@ -109,7 +112,6 @@
 ||block.abstergo.it^
 ||blockerads.multimediaconcept.fr^
 ||bluemood.me^
-||bravedns.com^
 ||br.servers.legat.ml^
 ||buc-m2.illmods.com^
 ||c4c707e5-73cd-4272-9f05-0cf16c39e48a.pub.instances.scw.cloud^
@@ -556,7 +558,6 @@
 ||europe.avastdns.com^
 ||europe.doh.sb^
 ||europe-west.avastdns.com^
-||every1dns.com^
 ||externalmobiel.lekdijk.online^
 ||family.5ososea.com^
 ||family.canadianshield.cira.ca^
@@ -653,7 +654,6 @@
 ||lab.sellan.fr^
 ||lastentarvike.fi^
 ||lindung.pp.ua^
-||line.pm^
 ||lion.dns.qwer.pw^
 ||lion.yazilimatolye.com^
 ||lkbin.ga^
@@ -734,6 +734,7 @@
 ||pdns.faelix.net^
 ||per.adfilter.net^
 ||pi1.node15.com^
+||piekacz.pl^
 ||pihole1.hoerli.net^
 ||pihole2.hoerli.net^
 ||pihole3.hoerli.net^
@@ -777,6 +778,7 @@
 ||resolver3.absolight.net^
 ||resolver4.dns.openinternet.io^
 ||resolver.cloudflare-eth.com^
+||resolver-eu.lelux.fi^
 ||resolver.noaddns.com^
 ||resolver.r0cket.net^
 ||resolver.rferee.dev^
@@ -853,6 +855,7 @@
 ||uk-lon.doh.sb^
 ||uk.teradns.org^
 ||unfiltered.adguard-dns.com^
+||unicast.censurfridns.dk^
 ||unicast.uncensoreddns.org^
 ||urology.wiki^
 ||us01.dns4me.net^
@@ -880,6 +883,7 @@
 ||www.c-dns.com^
 ||www.dnsadguard.co.uk^
 ||www.elshad-adgh-dns.ru^
+||www.masters-of-cloud.de^
 ||www.morbitzer.de^
 ||www.muxyuji.ru^
 ||www.taufner.net^
