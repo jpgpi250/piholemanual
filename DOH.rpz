@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2305140239 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2305150241 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2023-05-14 02:39:03 (UTC)
+; Last updated: 2023-05-15 02:41:50 (UTC)
 ;
 ; See https://jpgpi250.github.io/piholemanual/doc/Unbound%20response%20policy%20zones.pdf
 ; Report issues at https://github.com/jpgpi250/piholemanual/issues
@@ -19,7 +19,7 @@ $TTL 30
 1and1-dns.de CNAME .
 1a.ns.ozer.im CNAME .
 1dot1dot1dot1.cloudflare-dns.com CNAME .
-214214214.xyz.cdn.dnsv1.com.cn CNAME .
+1dot1dot1dot1.cloudflaredns.com CNAME .
 233py.com CNAME .
 2.dnscrypt-cert.blahdns.com CNAME .
 2.dnscrypt-cert.browser.yandex.net CNAME .
@@ -33,9 +33,7 @@ $TTL 30
 2.dnscrypt-cert.quad9.net CNAME .
 2.dnscrypt-cert.shield-2.dnsbycomodo.com CNAME .
 360.233py.com CNAME .
-3kvgy5uo.slt-dk.sched.tdnsv8.com CNAME .
 501w.net CNAME .
-77980.bodis.com CNAME .
 878223.parkingcrew.net CNAME .
 8888.google CNAME .
 aattwwss.duckdns.org CNAME .
@@ -211,6 +209,7 @@ dns1.ipv6.dnscrypt.ca CNAME .
 dns1.irumatech.com CNAME .
 dns1.nextdns.io CNAME .
 dns1.ryan-palmer.com CNAME .
+dns1.ryanpalmer.com CNAME .
 dns1.steering.nextdns.io CNAME .
 dns.233py.com CNAME .
 dns.233py.com.cdn.cloudflare.net CNAME .
@@ -258,7 +257,6 @@ dns.asdw.fun.cdn.cloudflare.net CNAME .
 dns.azsopro.net CNAME .
 dns.b33.space CNAME .
 dns.b612.me CNAME .
-dns.bayas.dev CNAME .
 dns.bebasid.com CNAME .
 dns.belnet.be CNAME .
 dns.benpro.fr CNAME .
@@ -294,13 +292,16 @@ dns.daw.dev CNAME .
 dns.decloudus.com CNAME .
 dns.dgea.fr CNAME .
 dns.digitale-gesellschaft.ch CNAME .
+dns.digitalegesellschaft.ch CNAME .
 dns.digitalsize.net CNAME .
 dns.dnshome.de CNAME .
 dns.dns-over-https.com CNAME .
 dns.dnsoverhttps.net CNAME .
 dns.dnswarden.com CNAME .
 dns-doh.dnsforfamily.com CNAME .
+dnsdoh.dnsforfamily.com CNAME .
 dns-doh-no-safe-search.dnsforfamily.com CNAME .
+dnsdohnosafesearch.dnsforfamily.com CNAME .
 dns-dot.dnsforfamily.com CNAME .
 dns.dutchwhite.nl CNAME .
 dns.dyn1.de CNAME .
@@ -318,6 +319,7 @@ dns.eu-frankfurt-1.oci.oraclecloud.net CNAME .
 dns.eu-frankfurt-1.oraclecloud.com CNAME .
 dns.extrawdw.net CNAME .
 dns-family.adguard.com CNAME .
+dnsfamily.adguard.com CNAME .
 dns.fancyorg.at CNAME .
 dns.faze.dev CNAME .
 dns.filipccz.eu CNAME .
@@ -397,6 +399,7 @@ dns.nixnet.xyz CNAME .
 dns.njal.la CNAME .
 dnsnl.alekberg.net CNAME .
 dnsnl-noads.alekberg.net CNAME .
+dnsnlnoads.alekberg.net CNAME .
 dns.norvig.dk CNAME .
 dns-nosec.quad9.net CNAME .
 dns.novali.date CNAME .
@@ -437,6 +440,7 @@ dnsse.alekberg.net CNAME .
 dns-secondary.cloudnx.cloud CNAME .
 dns.sellan.fr CNAME .
 dnsse-noads.alekberg.net CNAME .
+dnssenoads.alekberg.net CNAME .
 dns.shecan.ir CNAME .
 dns.shimul.me CNAME .
 dns.silen.org CNAME .
@@ -468,6 +472,7 @@ dns.uk-london-1.oci.oraclecloud.net CNAME .
 dns.uk-london-1.oraclecloud.com CNAME .
 dns.unerror.network CNAME .
 dns-unfiltered.adguard.com CNAME .
+dnsunfiltered.adguard.com CNAME .
 dns.us-ashburn-1.oci.oraclecloud.com CNAME .
 dns.us-ashburn-1.oci.oraclecloud.net CNAME .
 dns.us-ashburn-1.oraclecloud.com CNAME .
@@ -500,8 +505,10 @@ doh2.b-cdn.net CNAME .
 doh2.blahdns.com CNAME .
 doh2.gslb2.xfinity.com CNAME .
 doh-2.seby.io CNAME .
+doh2.seby.io CNAME .
 doh.360.cn CNAME .
 doh.42l.fr CNAME .
+doh.apad.pro CNAME .
 doh.apad.pro.cdn.cloudflare.net CNAME .
 doh.applied-privacy.net CNAME .
 doh.appliedprivacy.net CNAME .
@@ -554,6 +561,7 @@ doh.ibr.cs.tu-bs.de CNAME .
 doh.in.ahadns.net CNAME .
 doh.infotek.net.id CNAME .
 doh-ipv6.crypto.sx CNAME .
+dohipv6.crypto.sx CNAME .
 doh.it.ahadns.net CNAME .
 doh.iucc.ac.il CNAME .
 doh.jeroenhd.nl CNAME .
@@ -676,6 +684,7 @@ family.5ososea.com CNAME .
 family.adguard-dns.com CNAME .
 family.canadianshield.cira.ca CNAME .
 family.cloudflare-dns.com CNAME .
+family.cloudflaredns.com CNAME .
 family-filter-dns.cleanbrowsing.org CNAME .
 family.freedns.controld.com CNAME .
 fcpsunleashed.org CNAME .
@@ -713,6 +722,7 @@ hahnjo.de CNAME .
 haswell-www.a.guindehi.ch CNAME .
 heimdall.ff0x.ca CNAME .
 helios.plan9-dns.com CNAME .
+helios.plan9dns.com CNAME .
 hitian.me CNAME .
 hk2.ooroot.com CNAME .
 hk-hkg.doh.sb CNAME .
@@ -774,6 +784,7 @@ kracon.anycast.censurfridns.dk CNAME .
 kracon.anycast.uncensoreddns.org CNAME .
 kr.loukky.com CNAME .
 kronos.plan9-dns.com CNAME .
+kronos.plan9dns.com CNAME .
 kr-sel.doh.sb CNAME .
 krtekvpn.duckdns.org CNAME .
 ks1.plop.cc CNAME .
@@ -870,7 +881,6 @@ opennic2.i2pd.xyz CNAME .
 opennic.i2pd.xyz CNAME .
 opennic.tenta.io CNAME .
 ora1.nocnik.org CNAME .
-oracle2.herry.dev CNAME .
 oraclejp2.chungyu.com CNAME .
 orau.lz0724.com CNAME .
 ordns.he.net CNAME .
@@ -895,6 +905,7 @@ pihole.datamatter.co.za CNAME .
 pihole.gcp.pathofgrace.com CNAME .
 pixie.porkbun.com CNAME .
 pluton.plan9-dns.com CNAME .
+pluton.plan9dns.com CNAME .
 polaris.mrmartian.co CNAME .
 pope.cnblw.me CNAME .
 preview.dnsteam.globuscs.info CNAME .
@@ -954,6 +965,7 @@ sa01.dns4me.net CNAME .
 safeservedns.com CNAME .
 sbdns.co.in CNAME .
 sby-doh.limotelu.org CNAME .
+sbydoh.limotelu.org CNAME .
 sdns.233py.com CNAME .
 secure.avastdns.com CNAME .
 secure-dns.dns-ga.de CNAME .
@@ -961,6 +973,7 @@ securedns.vendorvista.xyz CNAME .
 securenet.mhsystems.net CNAME .
 secure.onedns.cc CNAME .
 security.cloudflare-dns.com CNAME .
+security.cloudflaredns.com CNAME .
 security-filter-dns.cleanbrowsing.org CNAME .
 server.felixf.eu CNAME .
 server.pragmasec.nl CNAME .
