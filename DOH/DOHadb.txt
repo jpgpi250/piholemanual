@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2023-05-14 02:49:23 (UTC)
+! Last updated: 2023-05-15 02:52:13 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -15,7 +15,7 @@
 ||1and1-dns.de^
 ||1a.ns.ozer.im^
 ||1dot1dot1dot1.cloudflare-dns.com^
-||214214214.xyz.cdn.dnsv1.com.cn^
+||1dot1dot1dot1.cloudflaredns.com^
 ||233py.com^
 ||2.dnscrypt-cert.blahdns.com^
 ||2.dnscrypt-cert.browser.yandex.net^
@@ -29,9 +29,7 @@
 ||2.dnscrypt-cert.quad9.net^
 ||2.dnscrypt-cert.shield-2.dnsbycomodo.com^
 ||360.233py.com^
-||3kvgy5uo.slt-dk.sched.tdnsv8.com^
 ||501w.net^
-||77980.bodis.com^
 ||878223.parkingcrew.net^
 ||8888.google^
 ||aattwwss.duckdns.org^
@@ -207,6 +205,7 @@
 ||dns1.irumatech.com^
 ||dns1.nextdns.io^
 ||dns1.ryan-palmer.com^
+||dns1.ryanpalmer.com^
 ||dns1.steering.nextdns.io^
 ||dns.233py.com^
 ||dns.233py.com.cdn.cloudflare.net^
@@ -254,7 +253,6 @@
 ||dns.azsopro.net^
 ||dns.b33.space^
 ||dns.b612.me^
-||dns.bayas.dev^
 ||dns.bebasid.com^
 ||dns.belnet.be^
 ||dns.benpro.fr^
@@ -290,13 +288,16 @@
 ||dns.decloudus.com^
 ||dns.dgea.fr^
 ||dns.digitale-gesellschaft.ch^
+||dns.digitalegesellschaft.ch^
 ||dns.digitalsize.net^
 ||dns.dnshome.de^
 ||dns.dns-over-https.com^
 ||dns.dnsoverhttps.net^
 ||dns.dnswarden.com^
 ||dns-doh.dnsforfamily.com^
+||dnsdoh.dnsforfamily.com^
 ||dns-doh-no-safe-search.dnsforfamily.com^
+||dnsdohnosafesearch.dnsforfamily.com^
 ||dns-dot.dnsforfamily.com^
 ||dns.dutchwhite.nl^
 ||dns.dyn1.de^
@@ -314,6 +315,7 @@
 ||dns.eu-frankfurt-1.oraclecloud.com^
 ||dns.extrawdw.net^
 ||dns-family.adguard.com^
+||dnsfamily.adguard.com^
 ||dns.fancyorg.at^
 ||dns.faze.dev^
 ||dns.filipccz.eu^
@@ -393,6 +395,7 @@
 ||dns.njal.la^
 ||dnsnl.alekberg.net^
 ||dnsnl-noads.alekberg.net^
+||dnsnlnoads.alekberg.net^
 ||dns.norvig.dk^
 ||dns-nosec.quad9.net^
 ||dns.novali.date^
@@ -433,6 +436,7 @@
 ||dns-secondary.cloudnx.cloud^
 ||dns.sellan.fr^
 ||dnsse-noads.alekberg.net^
+||dnssenoads.alekberg.net^
 ||dns.shecan.ir^
 ||dns.shimul.me^
 ||dns.silen.org^
@@ -464,6 +468,7 @@
 ||dns.uk-london-1.oraclecloud.com^
 ||dns.unerror.network^
 ||dns-unfiltered.adguard.com^
+||dnsunfiltered.adguard.com^
 ||dns.us-ashburn-1.oci.oraclecloud.com^
 ||dns.us-ashburn-1.oci.oraclecloud.net^
 ||dns.us-ashburn-1.oraclecloud.com^
@@ -496,8 +501,10 @@
 ||doh2.blahdns.com^
 ||doh2.gslb2.xfinity.com^
 ||doh-2.seby.io^
+||doh2.seby.io^
 ||doh.360.cn^
 ||doh.42l.fr^
+||doh.apad.pro^
 ||doh.apad.pro.cdn.cloudflare.net^
 ||doh.applied-privacy.net^
 ||doh.appliedprivacy.net^
@@ -550,6 +557,7 @@
 ||doh.in.ahadns.net^
 ||doh.infotek.net.id^
 ||doh-ipv6.crypto.sx^
+||dohipv6.crypto.sx^
 ||doh.it.ahadns.net^
 ||doh.iucc.ac.il^
 ||doh.jeroenhd.nl^
@@ -672,6 +680,7 @@
 ||family.adguard-dns.com^
 ||family.canadianshield.cira.ca^
 ||family.cloudflare-dns.com^
+||family.cloudflaredns.com^
 ||family-filter-dns.cleanbrowsing.org^
 ||family.freedns.controld.com^
 ||fcpsunleashed.org^
@@ -709,6 +718,7 @@
 ||haswell-www.a.guindehi.ch^
 ||heimdall.ff0x.ca^
 ||helios.plan9-dns.com^
+||helios.plan9dns.com^
 ||hitian.me^
 ||hk2.ooroot.com^
 ||hk-hkg.doh.sb^
@@ -770,6 +780,7 @@
 ||kracon.anycast.uncensoreddns.org^
 ||kr.loukky.com^
 ||kronos.plan9-dns.com^
+||kronos.plan9dns.com^
 ||kr-sel.doh.sb^
 ||krtekvpn.duckdns.org^
 ||ks1.plop.cc^
@@ -866,7 +877,6 @@
 ||opennic.i2pd.xyz^
 ||opennic.tenta.io^
 ||ora1.nocnik.org^
-||oracle2.herry.dev^
 ||oraclejp2.chungyu.com^
 ||orau.lz0724.com^
 ||ordns.he.net^
@@ -891,6 +901,7 @@
 ||pihole.gcp.pathofgrace.com^
 ||pixie.porkbun.com^
 ||pluton.plan9-dns.com^
+||pluton.plan9dns.com^
 ||polaris.mrmartian.co^
 ||pope.cnblw.me^
 ||preview.dnsteam.globuscs.info^
@@ -950,6 +961,7 @@
 ||safeservedns.com^
 ||sbdns.co.in^
 ||sby-doh.limotelu.org^
+||sbydoh.limotelu.org^
 ||sdns.233py.com^
 ||secure.avastdns.com^
 ||secure-dns.dns-ga.de^
@@ -957,6 +969,7 @@
 ||securenet.mhsystems.net^
 ||secure.onedns.cc^
 ||security.cloudflare-dns.com^
+||security.cloudflaredns.com^
 ||security-filter-dns.cleanbrowsing.org^
 ||server.felixf.eu^
 ||server.pragmasec.nl^
