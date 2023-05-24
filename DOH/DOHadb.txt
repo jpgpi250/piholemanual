@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2023-05-22 03:04:10 (UTC)
+! Last updated: 2023-05-23 02:58:48 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -441,6 +441,7 @@
 ||au-syd-w-2.nashkan.net^
 ||au-syd-w-3.nashkan.net^
 ||au.teradns.org^
+||auto-cn-hk-8000.go-behind.one^
 ||autodiscover.elshad-adgh-dns.ru^
 ||autodiscover.promsdns.com^
 ||automaton-mm1.duckdns.org^
@@ -918,7 +919,6 @@
 ||dns.cloudtrust.solutions^
 ||dns.cloudyun.top^
 ||dns.cmrg.net^
-||dns.codepays.net^
 ||dns.coixia.com^
 ||dns.colorfreedom.org^
 ||dns.comeonjames.club^
@@ -959,6 +959,7 @@
 ||dns.dnsoverhttps.net^
 ||dns.dnswarden.com^
 ||dnsdoh.art^
+||dns.doh.best^
 ||dns-doh.dnsforfamily.com^
 ||dnsdoh.dnsforfamily.com^
 ||dns-doh-no-safe-search.dnsforfamily.com^
@@ -1524,6 +1525,7 @@
 ||doh.de.blahdns.com^
 ||doh.defaultroutes.de^
 ||doh.disconnect.app^
+||doh.dns1.lonet.org^
 ||doh.dns4all.eu^
 ||doh.dns.apple.com^
 ||doh.dns.apple.com.v.aaplimg.com^
@@ -1616,6 +1618,7 @@
 ||doh.pyry.me^
 ||doh.qis.io^
 ||doh.quickline.ch^
+||doh.rdns.vond.net^
 ||doh.rezhajul.io^
 ||doh.safesurfer.io^
 ||doh.sandbox.opendns.com^
@@ -1627,6 +1630,7 @@
 ||dohsg.tonedtanya.com^
 ||doh.sidnlabs.nl^
 ||doh.southam.family^
+||doh.sungai.stream^
 ||doh.syshero.org^
 ||doh.technochat.in^
 ||doh.this.web.id^
@@ -1912,6 +1916,7 @@
 ||hk-hkg.doh.sb^
 ||hk.mangosysdns.com^
 ||hk.meidouling.com^
+||hk-only.go-behind.one^
 ||hk-w-1.nashkan.net^
 ||hk-w-4.nashkan.net^
 ||hk.wooy.cool^
@@ -2428,6 +2433,7 @@
 ||phucbui.top^
 ||pi1.node15.com^
 ||pi.daryllswer.net^
+||piekacz.pl^
 ||pihole1.hoerli.net^
 ||pihole2.hoerli.net^
 ||pihole3.hoerli.net^
