@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2023-05-23 02:58:48 (UTC)
+! Last updated: 2023-05-24 03:31:59 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -378,7 +378,6 @@
 ||alpha-dns.de^
 ||alpha.rferee.dev^
 ||altvpn.ppm.mrhost.biz^
-||amd0.nzcow.com^
 ||amd1.sjp.loukky.com^
 ||amgr.ddns.net^
 ||amigo.vpn.i81.ru^
@@ -415,8 +414,6 @@
 ||area51.mywire.org^
 ||arespctw.tk^
 ||argon.molinero.dev^
-||arm2.nzcow.com^
-||arm3.nzcow.com^
 ||armorrush.eu.org^
 ||as17820865.click^
 ||a.safe.ns.dnslify.com^
@@ -518,7 +515,6 @@
 ||bytant.link^
 ||c1.ownvps.ml^
 ||c3.ownvps.ml^
-||c4c707e5-73cd-4272-9f05-0cf16c39e48a.pub.instances.scw.cloud^
 ||c4.ownvps.ml^
 ||c5.ownvps.ml^
 ||c6.ownvps.ml^
@@ -589,7 +585,6 @@
 ||cname-for-doh.go-behind.one^
 ||cn-cent-cu-1y.dns.hanwuss.loongapi.com^
 ||cnnic-chinatelecom-chinamobile-chinaunicom--bili-d.dahi.icu^
-||cnnic-chinatelecom-chinamobile-chinaunicom--bili-d.dahi.icu.cdn.cloudflare.net^
 ||colean.go.ro^
 ||commons.host^
 ||comss.one^
@@ -617,7 +612,6 @@
 ||d2.shabi.icu^
 ||d3.shabi.icu^
 ||d3.supremum.io^
-||d.adguard-dns.com^
 ||daisukivn.asuscomm.com^
 ||dakulov.synology.me^
 ||dandelionsprout.asuscomm.com^
@@ -631,7 +625,6 @@
 ||daswieddodeushtuhaw.xyz^
 ||davidcampos.duckdns.org^
 ||davidzeh.eu.org^
-||dawnings.cn^
 ||dbbs.dns.databyte-network.com^
 ||dclab.live^
 ||ddd2.loukky.com^
@@ -1246,6 +1239,7 @@
 ||dns.opendns.com^
 ||dns.opnsource.com.au^
 ||dns.opopop.fun^
+||dns.ord.chriswang.work^
 ||dns.osmenoga.com^
 ||dns.oszx.co^
 ||dnsotls.lab.nic.cl^
@@ -1281,7 +1275,9 @@
 ||dns.psycla.be^
 ||dns.pub^
 ||dns-public.ibakerserver.pt^
+||dns.pumpkinvrar.com^
 ||dns.pumplex.com^
+||dns.purbalinggakab.go.id^
 ||dns.puthiyedath.tk^
 ||dns.qkc.fr^
 ||dns.quad9.net^
@@ -1718,7 +1714,6 @@
 ||dub.r.rnet.ie^
 ||ducphuclee.tech^
 ||dukun.de^
-||dumbledore.steinr.eu^
 ||dupatruwi22.fun^
 ||duyyen.cf^
 ||duyyen.tk^
@@ -1796,6 +1791,7 @@
 ||flumuffel.de^
 ||fly.flylcc.cc^
 ||fly.io^
+||fonfrodo.asuscomm.com^
 ||forum.ginovs.nl^
 ||fr1.dnswarden.com^
 ||fr1.eastjoin.tk^
@@ -2045,6 +2041,7 @@
 ||jurre-home.duckdns.org^
 ||justfor.myasustor.com^
 ||justlife.fun^
+||k03vds.duckdns.org^
 ||k0rtus-gg.ru^
 ||kaans.io^
 ||kaiser.int.eu.org^
@@ -2061,8 +2058,6 @@
 ||kendentil.org.uk^
 ||kenit.me^
 ||kennethhuang.com^
-||kent6.ajaest.net^
-||kent6.dyn.ajaest.net^
 ||kerio.dns.amigo-mgn.ru^
 ||keymiagar.ir^
 ||khsan.com^
@@ -2138,6 +2133,7 @@
 ||lkbin.ga^
 ||lmkatest.ru^
 ||lmz.meudns.minhacasainteligente.cf^
+||locaweb.moleniuk.com^
 ||loli.sektehalodavid.click^
 ||lon-dns.bitdefender.net^
 ||lops.lol^
@@ -2695,7 +2691,6 @@
 ||steff.sbs^
 ||storage.jjlizz.com^
 ||storydoh.kinergetica.com^
-||strata.gurupannu.com^
 ||stream.securely.sh^
 ||streltsov.net^
 ||stuxen.duckdns.org^
@@ -2706,7 +2701,6 @@
 ||surve.dehb.ru^
 ||sv3.minhduc.pw^
 ||switch.ch^
-||swoletux.ave.zone^
 ||syd1.norgannetworks.net.au^
 ||syd.adfilter.net^
 ||syd.core.access.zznet.fun^
@@ -2853,7 +2847,6 @@
 ||v2.xx3210766.live^
 ||v3.passby.ga^
 ||v6.rubyfish.cn^
-||vador.sillundil.ovh^
 ||valis.sx^
 ||vallecerroazul.com^
 ||valleverde.icu^
