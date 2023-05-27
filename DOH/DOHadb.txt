@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2023-05-25 02:59:49 (UTC)
+! Last updated: 2023-05-26 03:01:48 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -23,6 +23,7 @@
 ||1.11i.eu^
 ||13qnpxtzym14adjlrcub15.sergeykobzar.com.ua^
 ||15815d9ce5f441edaa1f33f62761ff16.pacloudflare.com^
+||180.0rz.space^
 ||1and1-dns.de^
 ||1a.ns.ozer.im^
 ||1b.ns.ozer.im^
@@ -56,7 +57,6 @@
 ||501w.net^
 ||53.slepov.dev^
 ||6692.giize.com^
-||77980.bodis.com^
 ||878223.parkingcrew.net^
 ||8888.google^
 ||94169.ip-ns.net^
@@ -588,7 +588,6 @@
 ||cluster-1.gac.edu^
 ||c.malicioustation.icu^
 ||cname-for-doh.go-behind.one^
-||cname.vercel-dns.com^
 ||cn-cent-cu-1y.dns.hanwuss.loongapi.com^
 ||cnnic-chinatelecom-chinamobile-chinaunicom--bili-d.dahi.icu^
 ||cnnic-chinatelecom-chinamobile-chinaunicom--bili-d.dahi.icu.cdn.cloudflare.net^
@@ -672,7 +671,6 @@
 ||deic-ore.anycast.censurfridns.dk^
 ||deic-ore.anycast.censurfridns.nu^
 ||deic-ore.anycast.uncensoreddns.org^
-||dentdns.ca^
 ||de-nue-w-1.nashkan.net^
 ||de-nue-w-2.nashkan.net^
 ||de-passage.9273082020.ru^
@@ -1936,6 +1934,7 @@
 ||home.501w.net^
 ||home.basthorst.eu^
 ||home.bruckmoser.it^
+||home.ddns.network^
 ||home.dlinkddns.com^
 ||homedns.gumeniuk.com^
 ||home.f7b6h9.tk^
@@ -2216,7 +2215,6 @@
 ||mkrepair.ddns.net^
 ||mo0on15.com^
 ||mocha.r.rnet.ie^
-||montmorot.duckdns.org^
 ||morbitzer.de^
 ||mozilla.cloudflare-dns.com^
 ||mr-romero.com^
@@ -2441,6 +2439,7 @@
 ||phucbui.top^
 ||pi1.node15.com^
 ||pi.daryllswer.net^
+||piekacz.pl^
 ||pihole1.hoerli.net^
 ||pihole2.hoerli.net^
 ||pihole3.hoerli.net^
