@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2305280311 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2305290256 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2023-05-28 03:11:53 (UTC)
+; Last updated: 2023-05-29 02:56:24 (UTC)
 ;
 ; See https://jpgpi250.github.io/piholemanual/doc/Unbound%20response%20policy%20zones.pdf
 ; Report issues at https://github.com/jpgpi250/piholemanual/issues
@@ -26,6 +26,7 @@ $TTL 30
 1111.cloudflare-dns.com CNAME .
 1.11i.eu CNAME .
 13qnpxtzym14adjlrcub15.sergeykobzar.com.ua CNAME .
+140.238.202.136.sslip.io CNAME .
 15815d9ce5f441edaa1f33f62761ff16.pacloudflare.com CNAME .
 180.0rz.space CNAME .
 1and1-dns.de CNAME .
@@ -1273,7 +1274,6 @@ dns.pawitra.net CNAME .
 dns.perzarys.eu CNAME .
 dns.phucbui.top CNAME .
 dns.phuctran.cloud CNAME .
-dns.pietjacobs.be CNAME .
 dnspod.clzapp.com CNAME .
 dns.porteii.com CNAME .
 dns-primary.giaan.org CNAME .
@@ -1937,7 +1937,10 @@ home27.duckdns.org CNAME .
 home3.brosena.xyz CNAME .
 home.501w.net CNAME .
 home.basthorst.eu CNAME .
+home-bitteeinbyte.ddnss.de CNAME .
+home.bitteeinbyte.de CNAME .
 home.bruckmoser.it CNAME .
+home.ddns.network CNAME .
 home.dlinkddns.com CNAME .
 homedns.gumeniuk.com CNAME .
 home.f7b6h9.tk CNAME .
@@ -2012,6 +2015,7 @@ itlikehell.ru CNAME .
 it-pal-w-1.nashkan.net CNAME .
 ivanromanov.ru CNAME .
 ivnkn.xyz CNAME .
+ixhome.ixghzx.ml CNAME .
 jabber-germany.de CNAME .
 jabber-server.de CNAME .
 jackyes.ovh CNAME .
@@ -2025,7 +2029,6 @@ jenanga.ipv64.net CNAME .
 jit.ddns.net CNAME .
 jjm.asia CNAME .
 jkdsm.com CNAME .
-jo2hchbwidzdfsoi.myfritz.net CNAME .
 jonasdevries.de CNAME .
 joy096speed.pp.ua CNAME .
 jp01.just-a-web.com CNAME .
@@ -2104,7 +2107,6 @@ kr.pigs.eu.org CNAME .
 kr-sel.doh.sb CNAME .
 krtekvpn.duckdns.org CNAME .
 kr.telex.app CNAME .
-ks1.plop.cc CNAME .
 k-s-edition.ru CNAME .
 ksedns.ru CNAME .
 kswro.web.id CNAME .
@@ -2420,6 +2422,7 @@ p3.freedns.controld.com CNAME .
 p549314cd.dip0.t-ipconnect.de CNAME .
 pacificrack.rczcm.com CNAME .
 paimon.sev.monster CNAME .
+pair02-02.ihatemy.live CNAME .
 palazzoddns.tk CNAME .
 paskam.tk CNAME .
 pass12335.myds.me CNAME .
@@ -2441,6 +2444,7 @@ photo.dehb.ru CNAME .
 phucbui.top CNAME .
 pi1.node15.com CNAME .
 pi.daryllswer.net CNAME .
+piekacz.pl CNAME .
 pihole1.hoerli.net CNAME .
 pihole2.hoerli.net CNAME .
 pihole3.hoerli.net CNAME .
