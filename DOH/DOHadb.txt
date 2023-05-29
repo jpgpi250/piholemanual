@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2023-05-27 02:59:52 (UTC)
+! Last updated: 2023-05-28 03:26:58 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -57,7 +57,7 @@
 ||501w.net^
 ||53.slepov.dev^
 ||6692.giize.com^
-||77980.bodis.com^
+||878223.parkingcrew.net^
 ||8888.google^
 ||94169.ip-ns.net^
 ||a11.diplo.es^
@@ -1934,7 +1934,6 @@
 ||home.501w.net^
 ||home.basthorst.eu^
 ||home.bruckmoser.it^
-||home.ddns.network^
 ||home.dlinkddns.com^
 ||homedns.gumeniuk.com^
 ||home.f7b6h9.tk^
@@ -2009,7 +2008,6 @@
 ||it-pal-w-1.nashkan.net^
 ||ivanromanov.ru^
 ||ivnkn.xyz^
-||ixhome.ixghzx.ml^
 ||jabber-germany.de^
 ||jabber-server.de^
 ||jackyes.ovh^
@@ -2102,6 +2100,7 @@
 ||kr-sel.doh.sb^
 ||krtekvpn.duckdns.org^
 ||kr.telex.app^
+||ks1.plop.cc^
 ||k-s-edition.ru^
 ||ksedns.ru^
 ||kswro.web.id^
@@ -2417,7 +2416,6 @@
 ||p549314cd.dip0.t-ipconnect.de^
 ||pacificrack.rczcm.com^
 ||paimon.sev.monster^
-||pair02-02.ihatemy.live^
 ||palazzoddns.tk^
 ||paskam.tk^
 ||pass12335.myds.me^
@@ -2439,7 +2437,6 @@
 ||phucbui.top^
 ||pi1.node15.com^
 ||pi.daryllswer.net^
-||piekacz.pl^
 ||pihole1.hoerli.net^
 ||pihole2.hoerli.net^
 ||pihole3.hoerli.net^
@@ -2651,6 +2648,7 @@
 ||sg.yepdns.com^
 ||shaa.line.pm^
 ||shalenkov.dev^
+||shard.ender.fr^
 ||shield.afixer.app^
 ||shiestyro.world^
 ||sh.telex.app^
