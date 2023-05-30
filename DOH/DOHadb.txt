@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2023-05-28 03:26:58 (UTC)
+! Last updated: 2023-05-29 03:11:33 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -22,6 +22,7 @@
 ||1111.cloudflare-dns.com^
 ||1.11i.eu^
 ||13qnpxtzym14adjlrcub15.sergeykobzar.com.ua^
+||140.238.202.136.sslip.io^
 ||15815d9ce5f441edaa1f33f62761ff16.pacloudflare.com^
 ||180.0rz.space^
 ||1and1-dns.de^
@@ -1269,7 +1270,6 @@
 ||dns.perzarys.eu^
 ||dns.phucbui.top^
 ||dns.phuctran.cloud^
-||dns.pietjacobs.be^
 ||dnspod.clzapp.com^
 ||dns.porteii.com^
 ||dns-primary.giaan.org^
@@ -1933,7 +1933,10 @@
 ||home3.brosena.xyz^
 ||home.501w.net^
 ||home.basthorst.eu^
+||home-bitteeinbyte.ddnss.de^
+||home.bitteeinbyte.de^
 ||home.bruckmoser.it^
+||home.ddns.network^
 ||home.dlinkddns.com^
 ||homedns.gumeniuk.com^
 ||home.f7b6h9.tk^
@@ -2008,6 +2011,7 @@
 ||it-pal-w-1.nashkan.net^
 ||ivanromanov.ru^
 ||ivnkn.xyz^
+||ixhome.ixghzx.ml^
 ||jabber-germany.de^
 ||jabber-server.de^
 ||jackyes.ovh^
@@ -2021,7 +2025,6 @@
 ||jit.ddns.net^
 ||jjm.asia^
 ||jkdsm.com^
-||jo2hchbwidzdfsoi.myfritz.net^
 ||jonasdevries.de^
 ||joy096speed.pp.ua^
 ||jp01.just-a-web.com^
@@ -2100,7 +2103,6 @@
 ||kr-sel.doh.sb^
 ||krtekvpn.duckdns.org^
 ||kr.telex.app^
-||ks1.plop.cc^
 ||k-s-edition.ru^
 ||ksedns.ru^
 ||kswro.web.id^
@@ -2416,6 +2418,7 @@
 ||p549314cd.dip0.t-ipconnect.de^
 ||pacificrack.rczcm.com^
 ||paimon.sev.monster^
+||pair02-02.ihatemy.live^
 ||palazzoddns.tk^
 ||paskam.tk^
 ||pass12335.myds.me^
@@ -2437,6 +2440,7 @@
 ||phucbui.top^
 ||pi1.node15.com^
 ||pi.daryllswer.net^
+||piekacz.pl^
 ||pihole1.hoerli.net^
 ||pihole2.hoerli.net^
 ||pihole3.hoerli.net^
