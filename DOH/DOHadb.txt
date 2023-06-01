@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2023-05-30 03:28:44 (UTC)
+! Last updated: 2023-05-31 03:50:39 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -58,7 +58,7 @@
 ||501w.net^
 ||53.slepov.dev^
 ||6692.giize.com^
-||77980.bodis.com^
+||878223.parkingcrew.net^
 ||8888.google^
 ||94169.ip-ns.net^
 ||a11.diplo.es^
@@ -139,6 +139,7 @@
 ||adguard2.unima.ac.id^
 ||adguard3.ota.moe^
 ||adguard.aa4.co.uk^
+||adguard.abd.ong^
 ||adguard.abdullahabas.online^
 ||adguard.acrobyte.org^
 ||adguard.agadez.net^
@@ -157,6 +158,7 @@
 ||adguard.chanhome.xyz^
 ||adguard.chriskutschker.de^
 ||adguard.clawsucht.nrw^
+||adguard.cloud-chen.idv.tw^
 ||adguard.cloudmini.net^
 ||adguard.clroot.io^
 ||adguard.cnbeining.com^
@@ -204,6 +206,7 @@
 ||adguard-home.server-on.net^
 ||adguardhome.takkunn.pgw.jp^
 ||adguardhome-vps.couli.fr^
+||adguardhulst.duckdns.org^
 ||adguard.ihatemy.live^
 ||adguard.infrapod.nl^
 ||adguard-ironhide.ultima-thule.ru^
@@ -379,7 +382,6 @@
 ||alpha-dns.de^
 ||alpha.rferee.dev^
 ||altvpn.ppm.mrhost.biz^
-||amd0.nzcow.com^
 ||amd1.sjp.loukky.com^
 ||amgr.ddns.net^
 ||amigo.vpn.i81.ru^
@@ -417,8 +419,6 @@
 ||area51.mywire.org^
 ||arespctw.tk^
 ||argon.molinero.dev^
-||arm2.nzcow.com^
-||arm3.nzcow.com^
 ||armorrush.eu.org^
 ||as17820865.click^
 ||a.safe.ns.dnslify.com^
@@ -520,7 +520,6 @@
 ||bytant.link^
 ||c1.ownvps.ml^
 ||c3.ownvps.ml^
-||c4c707e5-73cd-4272-9f05-0cf16c39e48a.pub.instances.scw.cloud^
 ||c4.ownvps.ml^
 ||c5.ownvps.ml^
 ||c6.ownvps.ml^
@@ -619,7 +618,6 @@
 ||d2.shabi.icu^
 ||d3.shabi.icu^
 ||d3.supremum.io^
-||d.adguard-dns.com^
 ||daisukivn.asuscomm.com^
 ||dakulov.synology.me^
 ||dandelionsprout.asuscomm.com^
@@ -633,7 +631,6 @@
 ||daswieddodeushtuhaw.xyz^
 ||davidcampos.duckdns.org^
 ||davidzeh.eu.org^
-||dawnings.cn^
 ||dbbs.dns.databyte-network.com^
 ||dclab.live^
 ||ddd2.loukky.com^
@@ -1302,6 +1299,7 @@
 ||dns.reckoningslug.name^
 ||dns.redroot.me^
 ||dns.req1.fr^
+||dns.rhscz.eu^
 ||dns.rin.sh^
 ||dns.rjls.me^
 ||dns.rjoc.me^
@@ -1493,6 +1491,7 @@
 ||doh3.almir1904.eu^
 ||doh.42l.fr^
 ||doh.4l2.cn^
+||doh.5000g.org^
 ||doh.abmb.win^
 ||doh.adguardhome.site^
 ||doh.afna.link^
@@ -1623,7 +1622,6 @@
 ||doh.pyry.me^
 ||doh.qis.io^
 ||doh.quickline.ch^
-||doh.rdns.vond.net^
 ||doh.rezhajul.io^
 ||doh.safesurfer.io^
 ||doh.sandbox.opendns.com^
@@ -1723,7 +1721,6 @@
 ||dub.r.rnet.ie^
 ||ducphuclee.tech^
 ||dukun.de^
-||dumbledore.steinr.eu^
 ||dupatruwi22.fun^
 ||duyyen.cf^
 ||duyyen.tk^
@@ -1863,6 +1860,7 @@
 ||git.andrewnw.xyz^
 ||git.racinas.com^
 ||glory.of.god.9l3.com^
+||glvm.ru^
 ||gm-dns-01.southcentralus.azurecontainer.io^
 ||gn6hoasz2o4tveit.dynv6.net^
 ||go10go10.tonedtanya.com^
@@ -2068,8 +2066,6 @@
 ||kendentil.org.uk^
 ||kenit.me^
 ||kennethhuang.com^
-||kent6.ajaest.net^
-||kent6.dyn.ajaest.net^
 ||kerio.dns.amigo-mgn.ru^
 ||keymiagar.ir^
 ||khsan.com^
@@ -2484,6 +2480,7 @@
 ||promsdns.com^
 ||pro.shecan.ir^
 ||protected.canadianshield.cira.ca^
+||prysiazhniuk.pp.ua^
 ||ps1.modr.club^
 ||ps-tel-w-2.nashkan.net^
 ||pt-lis-w-1.nashkan.net^
@@ -2510,6 +2507,7 @@
 ||rachel.jeroenhd.nl^
 ||racinas.com^
 ||radia.bortzmeyer.org^
+||rafi.dynns.com^
 ||rauladguard.online^
 ||ray1.wewa.work^
 ||ray3.wewa.work^
@@ -2703,7 +2701,6 @@
 ||steff.sbs^
 ||storage.jjlizz.com^
 ||storydoh.kinergetica.com^
-||strata.gurupannu.com^
 ||stream.securely.sh^
 ||streltsov.net^
 ||stuxen.duckdns.org^
@@ -2713,8 +2710,8 @@
 ||surt.ml^
 ||surve.dehb.ru^
 ||sv3.minhduc.pw^
+||sweethome.in.eu.org^
 ||switch.ch^
-||swoletux.ave.zone^
 ||syd1.norgannetworks.net.au^
 ||syd.adfilter.net^
 ||syd.core.access.zznet.fun^
@@ -2861,7 +2858,6 @@
 ||v2.xx3210766.live^
 ||v3.passby.ga^
 ||v6.rubyfish.cn^
-||vador.sillundil.ovh^
 ||valis.sx^
 ||vallecerroazul.com^
 ||valleverde.icu^
@@ -2933,6 +2929,7 @@
 ||wantaquddin.com^
 ||wccw.cc^
 ||wdns.233py.com^
+||webdock.ccp.giize.com^
 ||webmeel.pragmasec.nl^
 ||web.pasi.cat^
 ||web-rated.ie^
