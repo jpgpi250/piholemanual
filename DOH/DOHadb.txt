@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2023-06-02 03:16:58 (UTC)
+! Last updated: 2023-06-03 03:19:36 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -58,7 +58,7 @@
 ||501w.net^
 ||53.slepov.dev^
 ||6692.giize.com^
-||878223.parkingcrew.net^
+||77980.bodis.com^
 ||8888.google^
 ||94169.ip-ns.net^
 ||a11.diplo.es^
@@ -1885,6 +1885,7 @@
 ||greppie.nl^
 ||groupy.ga^
 ||groupy.su^
+||gtm-sg-5r538sziu04.go-behind.one^
 ||guardhome.fatihkuyuk.com.tr^
 ||guardians.jenspoelitz.de^
 ||guard.izzledudetech.com^
@@ -1927,7 +1928,6 @@
 ||hk-hkg.doh.sb^
 ||hk.mangosysdns.com^
 ||hk.meidouling.com^
-||hk-only.go-behind.one^
 ||hk-w-1.nashkan.net^
 ||hk-w-4.nashkan.net^
 ||hk.wooy.cool^
@@ -2447,7 +2447,6 @@
 ||phucbui.top^
 ||pi1.node15.com^
 ||pi.daryllswer.net^
-||piekacz.pl^
 ||pihole1.hoerli.net^
 ||pihole2.hoerli.net^
 ||pihole3.hoerli.net^
