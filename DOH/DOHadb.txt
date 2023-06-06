@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2023-06-04 03:05:25 (UTC)
+! Last updated: 2023-06-05 03:48:54 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -58,7 +58,7 @@
 ||501w.net^
 ||53.slepov.dev^
 ||6692.giize.com^
-||77980.bodis.com^
+||878223.parkingcrew.net^
 ||8888.google^
 ||94169.ip-ns.net^
 ||a11.diplo.es^
@@ -246,6 +246,7 @@
 ||adguard.myhomelab.tech^
 ||adguard.mywebdoma.in^
 ||adguard.netmasc.services^
+||adguard.nhatlong.work^
 ||adguard.nielsenhost.dk^
 ||adguard.nielsvoorn.nl^
 ||adguard.niko-sem.com^
@@ -382,7 +383,6 @@
 ||alpha-dns.de^
 ||alpha.rferee.dev^
 ||altvpn.ppm.mrhost.biz^
-||amd0.nzcow.com^
 ||amd1.sjp.loukky.com^
 ||amgr.ddns.net^
 ||amigo.vpn.i81.ru^
@@ -401,6 +401,7 @@
 ||an.loliconapp.top^
 ||a.ns.dnslify.com^
 ||ant.dns.qwer.pw^
+||antidns.s.tuna.tsinghua.edu.cn^
 ||anycast.censurfridns.dk^
 ||anycast.censurfridns.nu^
 ||anycast.dns.nextdns.io^
@@ -419,8 +420,6 @@
 ||area51.mywire.org^
 ||arespctw.tk^
 ||argon.molinero.dev^
-||arm2.nzcow.com^
-||arm3.nzcow.com^
 ||armorrush.eu.org^
 ||as17820865.click^
 ||a.safe.ns.dnslify.com^
@@ -445,6 +444,7 @@
 ||au-syd-w-2.nashkan.net^
 ||au-syd-w-3.nashkan.net^
 ||au.teradns.org^
+||auto-cn-hk-8000.go-behind.one^
 ||autodiscover.elshad-adgh-dns.ru^
 ||autodiscover.promsdns.com^
 ||automaton-mm1.duckdns.org^
@@ -521,7 +521,6 @@
 ||bytant.link^
 ||c1.ownvps.ml^
 ||c3.ownvps.ml^
-||c4c707e5-73cd-4272-9f05-0cf16c39e48a.pub.instances.scw.cloud^
 ||c4.ownvps.ml^
 ||c5.ownvps.ml^
 ||c6.ownvps.ml^
@@ -589,6 +588,7 @@
 ||cluster-0.gac.edu^
 ||cluster-1.gac.edu^
 ||c.malicioustation.icu^
+||cname-for-doh.go-behind.one^
 ||cn-cent-cu-1.y.dns.hanwuss.loongapi.com^
 ||cnnic-chinatelecom-chinamobile-chinaunicom--bili-d.dahi.icu^
 ||cnnic-chinatelecom-chinamobile-chinaunicom--bili-d.dahi.icu.cdn.cloudflare.net^
@@ -619,7 +619,6 @@
 ||d2.shabi.icu^
 ||d3.shabi.icu^
 ||d3.supremum.io^
-||d.adguard-dns.com^
 ||daisukivn.asuscomm.com^
 ||dakulov.synology.me^
 ||dandelionsprout.asuscomm.com^
@@ -633,7 +632,6 @@
 ||daswieddodeushtuhaw.xyz^
 ||davidcampos.duckdns.org^
 ||davidzeh.eu.org^
-||dawnings.cn^
 ||dbbs.dns.databyte-network.com^
 ||dclab.live^
 ||ddd2.loukky.com^
@@ -769,6 +767,7 @@
 ||dns2.keipert.me^
 ||dns2.klcd.eu^
 ||dns2.lfac.ml^
+||dns2.linzefeng.top^
 ||dns2.luan.contact^
 ||dns2.n3120.wang^
 ||dns2.nextcloudend.info^
@@ -837,6 +836,7 @@
 ||dns.alpo.me^
 ||dns.altairzone.it^
 ||dns.alvosec.com^
+||dns.ambiya.net^
 ||dns.amigo-mgn.ru^
 ||dns-ams.pdf-docs.ru^
 ||dns.andrewnw.xyz^
@@ -927,7 +927,6 @@
 ||dns.comss.one^
 ||dns.connect.fail^
 ||dns.containerpi.com^
-||dns.cooluc.com^
 ||dns.cretu.xyz^
 ||dns.crop3ox.website^
 ||dns.crownor.com^
@@ -1071,6 +1070,7 @@
 ||dnshk.eve.surf^
 ||dns.homelabapp.com^
 ||dns.hopper.org.uk^
+||dns.hostingim.com^
 ||dns.hostux.net^
 ||dns.hotta.page^
 ||dns.housedenolf.be^
@@ -1355,6 +1355,7 @@
 ||dns.struchkov.dev^
 ||dns.stud.cloud^
 ||dns.stvsk.ml^
+||dns.sumanrajsolutions.in^
 ||dns.supercluster.io^
 ||dns.surenic.net^
 ||dns.surfshark.com^
@@ -1724,7 +1725,6 @@
 ||dub.r.rnet.ie^
 ||ducphuclee.tech^
 ||dukun.de^
-||dumbledore.steinr.eu^
 ||dupatruwi22.fun^
 ||duyyen.cf^
 ||duyyen.tk^
@@ -1882,6 +1882,7 @@
 ||greppie.nl^
 ||groupy.ga^
 ||groupy.su^
+||gtm-sg-5r538sziu04.go-behind.one^
 ||guardhome.fatihkuyuk.com.tr^
 ||guardians.jenspoelitz.de^
 ||guard.izzledudetech.com^
@@ -2070,8 +2071,6 @@
 ||kendentil.org.uk^
 ||kenit.me^
 ||kennethhuang.com^
-||kent6.ajaest.net^
-||kent6.dyn.ajaest.net^
 ||kerio.dns.amigo-mgn.ru^
 ||keymiagar.ir^
 ||khsan.com^
@@ -2144,7 +2143,6 @@
 ||lion.yazilimatolye.com^
 ||lipunyushka.ru^
 ||live.jjlizz.com^
-||lkbin.ga^
 ||lmkatest.ru^
 ||lmz.meudns.minhacasainteligente.cf^
 ||locaweb.moleniuk.com^
@@ -2282,6 +2280,7 @@
 ||next.miao.ninja^
 ||ngc0226.ddns.net^
 ||ng-lag-w-1.nashkan.net^
+||nhatlong.work^
 ||nicktruehome.ddns.net^
 ||nilanjan.me^
 ||nilanjan.rocks^
@@ -2421,8 +2420,8 @@
 ||p3.freedns.controld.com^
 ||p549314cd.dip0.t-ipconnect.de^
 ||pacificrack.rczcm.com^
+||pad3w.pp.ua^
 ||paimon.sev.monster^
-||pair02-02.ihatemy.live^
 ||palazzoddns.tk^
 ||paskam.tk^
 ||pass12335.myds.me^
@@ -2708,7 +2707,6 @@
 ||steff.sbs^
 ||storage.jjlizz.com^
 ||storydoh.kinergetica.com^
-||strata.gurupannu.com^
 ||stream.securely.sh^
 ||streltsov.net^
 ||stuxen.duckdns.org^
@@ -2720,7 +2718,6 @@
 ||sv3.minhduc.pw^
 ||sweethome.in.eu.org^
 ||switch.ch^
-||swoletux.ave.zone^
 ||syd1.norgannetworks.net.au^
 ||syd.adfilter.net^
 ||syd.core.access.zznet.fun^
