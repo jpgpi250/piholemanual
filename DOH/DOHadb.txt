@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2023-06-05 03:48:54 (UTC)
+! Last updated: 2023-06-06 03:47:32 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -24,7 +24,6 @@
 ||13qnpxtzym14adjlrcub15.sergeykobzar.com.ua^
 ||140.238.202.136.sslip.io^
 ||15815d9ce5f441edaa1f33f62761ff16.pacloudflare.com^
-||180.0rz.space^
 ||1and1-dns.de^
 ||1a.ns.ozer.im^
 ||1b.ns.ozer.im^
@@ -54,11 +53,12 @@
 ||360.233py.com^
 ||360dns.pub^
 ||3krkr.tonedtanya.com^
+||3x2y.tk^
 ||4dscape.net^
 ||501w.net^
 ||53.slepov.dev^
 ||6692.giize.com^
-||878223.parkingcrew.net^
+||77980.bodis.com^
 ||8888.google^
 ||94169.ip-ns.net^
 ||a11.diplo.es^
@@ -136,6 +136,7 @@
 ||adguard2.kapuyhome.hu^
 ||adguard2.leadmon.net^
 ||adguard2.ota.moe^
+||adguard2.richardapplegate.io^
 ||adguard2.unima.ac.id^
 ||adguard3.ota.moe^
 ||adguard.aa4.co.uk^
@@ -358,6 +359,7 @@
 ||ag.linux.repair^
 ||ag.marschi.de^
 ||agp01.tek411.com^
+||agp02.tek411.com^
 ||ag.ssrahul96.xyz^
 ||ag.wntrmute.net^
 ||ahadns.net^
@@ -610,6 +612,7 @@
 ||curses.cloud^
 ||cvt-ic-us-adns-001.clearviewtechnology.net^
 ||cyliu.idv.tw^
+||cynntex.fun^
 ||cynntex.site^
 ||cytrynowepole.tk^
 ||cz-ces-w-1.nashkan.net^
@@ -703,6 +706,7 @@
 ||dns03.almir1904.eu^
 ||dns0.eu^
 ||dns.0ooo.icu^
+||dns0.permafrostmiami.com^
 ||dns0.tardishost.ru^
 ||dns10.quad9.net^
 ||dns11.quad9.net^
@@ -817,6 +821,7 @@
 ||dns.ac-weather.com^
 ||dns.adblocker.eu.org^
 ||dns.adguard.beltoev.ru^
+||dns-adguard.cloudnx.cloud^
 ||dns.adguard.com^
 ||dnsadguard.co.uk^
 ||dnsadguard.ddns.net^
@@ -1267,6 +1272,7 @@
 ||dns.panszelescik.pl^
 ||dns.patrickbianchi.com^
 ||dns.pawitra.net^
+||dns-pdx.bastnet.co^
 ||dns.perzarys.eu^
 ||dns.phucbui.top^
 ||dns.phuctran.cloud^
@@ -1453,6 +1459,7 @@
 ||dns.ymv8.cn^
 ||dns.youni.win^
 ||dns.ytpom.tk^
+||dns-yul.bastnet.co^
 ||dns.yumenashyi.com^
 ||dns.yunmoc.top^
 ||dns.yyaan.com^
@@ -2217,7 +2224,6 @@
 ||mkrepair.ddns.net^
 ||mo0on15.com^
 ||mocha.r.rnet.ie^
-||montmorot.duckdns.org^
 ||morbitzer.de^
 ||mozilla.cloudflare-dns.com^
 ||mr-romero.com^
@@ -2422,6 +2428,7 @@
 ||pacificrack.rczcm.com^
 ||pad3w.pp.ua^
 ||paimon.sev.monster^
+||pair02-02.ihatemy.live^
 ||palazzoddns.tk^
 ||paskam.tk^
 ||pass12335.myds.me^
@@ -2508,6 +2515,7 @@
 ||qwenty.ru^
 ||r1bnc.com^
 ||r1bnc.eu.org^
+||r4u2c9i5.stackpathcdn.com^
 ||rabanete.duckdns.org^
 ||rabenhain.net^
 ||rachel.jeroenhd.nl^
@@ -2567,6 +2575,7 @@
 ||ro-buc-w-2.nashkan.net^
 ||roc.net.sys.of.icu^
 ||roma.vpn.geshido.ru^
+||rootdns.anir0y.in^
 ||rootserver.live^
 ||ros.osmenoga.com^
 ||roucious.dyndns-remote.com^
@@ -2694,6 +2703,7 @@
 ||sradg.eastus.cloudapp.azure.com^
 ||sradminfk.ddns.net^
 ||srv1.web-mx.eu^
+||srv2.data-host.de^
 ||srv5.jiripocta.cz^
 ||srv-revprox-01.atakorah.com^
 ||ssh-storage.ru^
@@ -2929,6 +2939,7 @@
 ||vvmm.me^
 ||v.yuhui.tk^
 ||w0125ca5.kasserver.com^
+||w5ppr.us^
 ||waguns.net^
 ||walker.mynetgear.com^
 ||wallymna.space^
@@ -2944,10 +2955,12 @@
 ||wg.req1.fr^
 ||whax.eu.org^
 ||wifi.dns.amigo-mgn.ru^
+||wikipeter.me^
 ||win10virtual.fb.i81.ru^
 ||win-d7snj2gu70b.duckdns.org^
 ||wir.rbs-net.ru^
 ||wmapi.cn^
+||woalongit.synology.me^
 ||wolfdogcat.online^
 ||www.040910.top^
 ||www.22dnsipv4.asia^
