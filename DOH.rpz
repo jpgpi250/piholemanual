@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2306070309 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2306080320 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2023-06-07 03:09:45 (UTC)
+; Last updated: 2023-06-08 03:20:11 (UTC)
 ;
 ; See https://jpgpi250.github.io/piholemanual/doc/Unbound%20response%20policy%20zones.pdf
 ; Report issues at https://github.com/jpgpi250/piholemanual/issues
@@ -2271,7 +2271,6 @@ n5.lsasss.com CNAME .
 nafni.one CNAME .
 name.my-station.ru CNAME .
 name.wehao.net CNAME .
-narvi.slvrsrvr.de CNAME .
 nas1403.duckdns.org CNAME .
 nas302.ddns.net CNAME .
 nas.dehb.ru CNAME .
@@ -2297,6 +2296,7 @@ new.nhunor.com CNAME .
 next.miao.ninja CNAME .
 ngc0226.ddns.net CNAME .
 ng-lag-w-1.nashkan.net CNAME .
+nhatlong.work CNAME .
 nicktruehome.ddns.net CNAME .
 nilanjan.me CNAME .
 nilanjan.rocks CNAME .
@@ -3014,6 +3014,7 @@ www.elshad-adgh-dns.ru CNAME .
 www.eweyo.ru CNAME .
 www.feelnosorry.com CNAME .
 www.ga3inur.ru CNAME .
+www.gbrossi.com.br CNAME .
 www.ggrbb.xyz CNAME .
 www.greppie.nl CNAME .
 www.guard.izzledudetech.com CNAME .
