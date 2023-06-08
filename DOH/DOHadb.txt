@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2023-06-06 03:47:32 (UTC)
+! Last updated: 2023-06-07 03:25:21 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -24,6 +24,7 @@
 ||13qnpxtzym14adjlrcub15.sergeykobzar.com.ua^
 ||140.238.202.136.sslip.io^
 ||15815d9ce5f441edaa1f33f62761ff16.pacloudflare.com^
+||180.0rz.space^
 ||1and1-dns.de^
 ||1a.ns.ozer.im^
 ||1b.ns.ozer.im^
@@ -58,7 +59,6 @@
 ||501w.net^
 ||53.slepov.dev^
 ||6692.giize.com^
-||77980.bodis.com^
 ||8888.google^
 ||94169.ip-ns.net^
 ||a11.diplo.es^
@@ -385,6 +385,7 @@
 ||alpha-dns.de^
 ||alpha.rferee.dev^
 ||altvpn.ppm.mrhost.biz^
+||amd0.nzcow.com^
 ||amd1.sjp.loukky.com^
 ||amgr.ddns.net^
 ||amigo.vpn.i81.ru^
@@ -422,6 +423,8 @@
 ||area51.mywire.org^
 ||arespctw.tk^
 ||argon.molinero.dev^
+||arm2.nzcow.com^
+||arm3.nzcow.com^
 ||armorrush.eu.org^
 ||as17820865.click^
 ||a.safe.ns.dnslify.com^
@@ -523,6 +526,7 @@
 ||bytant.link^
 ||c1.ownvps.ml^
 ||c3.ownvps.ml^
+||c4c707e5-73cd-4272-9f05-0cf16c39e48a.pub.instances.scw.cloud^
 ||c4.ownvps.ml^
 ||c5.ownvps.ml^
 ||c6.ownvps.ml^
@@ -622,6 +626,7 @@
 ||d2.shabi.icu^
 ||d3.shabi.icu^
 ||d3.supremum.io^
+||d.adguard-dns.com^
 ||daisukivn.asuscomm.com^
 ||dakulov.synology.me^
 ||dandelionsprout.asuscomm.com^
@@ -635,6 +640,7 @@
 ||daswieddodeushtuhaw.xyz^
 ||davidcampos.duckdns.org^
 ||davidzeh.eu.org^
+||dawnings.cn^
 ||dbbs.dns.databyte-network.com^
 ||dclab.live^
 ||ddd2.loukky.com^
@@ -1732,6 +1738,7 @@
 ||dub.r.rnet.ie^
 ||ducphuclee.tech^
 ||dukun.de^
+||dumbledore.steinr.eu^
 ||dupatruwi22.fun^
 ||duyyen.cf^
 ||duyyen.tk^
@@ -1849,7 +1856,6 @@
 ||garage.jjlizz.com^
 ||garanphomai.ga^
 ||gate.oliver-pietsch.de^
-||gateway.baltes.info^
 ||gateway-el.cname.ustclug.org^
 ||gateway.fomichev.cloud^
 ||gb-bir-w-1.nashkan.net^
@@ -2078,6 +2084,8 @@
 ||kendentil.org.uk^
 ||kenit.me^
 ||kennethhuang.com^
+||kent6.ajaest.net^
+||kent6.dyn.ajaest.net^
 ||kerio.dns.amigo-mgn.ru^
 ||keymiagar.ir^
 ||khsan.com^
@@ -2111,7 +2119,6 @@
 ||kr-sel.doh.sb^
 ||krtekvpn.duckdns.org^
 ||kr.telex.app^
-||ks1.plop.cc^
 ||k-s-edition.ru^
 ||ksedns.ru^
 ||kswro.web.id^
@@ -2164,7 +2171,6 @@
 ||lt-vil-w-3.nashkan.net^
 ||luba.fb.i81.ru^
 ||luba.vpn.i81.ru^
-||lululu.eu.org^
 ||lux1.nixnet.xyz^
 ||lux.sn0w.nl^
 ||lv1.nixnet.xyz^
@@ -2224,6 +2230,7 @@
 ||mkrepair.ddns.net^
 ||mo0on15.com^
 ||mocha.r.rnet.ie^
+||montmorot.duckdns.org^
 ||morbitzer.de^
 ||mozilla.cloudflare-dns.com^
 ||mr-romero.com^
@@ -2286,7 +2293,6 @@
 ||next.miao.ninja^
 ||ngc0226.ddns.net^
 ||ng-lag-w-1.nashkan.net^
-||nhatlong.work^
 ||nicktruehome.ddns.net^
 ||nilanjan.me^
 ||nilanjan.rocks^
@@ -2717,6 +2723,7 @@
 ||steff.sbs^
 ||storage.jjlizz.com^
 ||storydoh.kinergetica.com^
+||strata.gurupannu.com^
 ||stream.securely.sh^
 ||streltsov.net^
 ||stuxen.duckdns.org^
@@ -2728,6 +2735,7 @@
 ||sv3.minhduc.pw^
 ||sweethome.in.eu.org^
 ||switch.ch^
+||swoletux.ave.zone^
 ||syd1.norgannetworks.net.au^
 ||syd.adfilter.net^
 ||syd.core.access.zznet.fun^
