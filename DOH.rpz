@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2306090306 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2306100310 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2023-06-09 03:06:05 (UTC)
+; Last updated: 2023-06-10 03:10:41 (UTC)
 ;
 ; See https://jpgpi250.github.io/piholemanual/doc/Unbound%20response%20policy%20zones.pdf
 ; Report issues at https://github.com/jpgpi250/piholemanual/issues
@@ -63,6 +63,7 @@ $TTL 30
 501w.net CNAME .
 53.slepov.dev CNAME .
 6692.giize.com CNAME .
+77980.bodis.com CNAME .
 8888.google CNAME .
 94169.ip-ns.net CNAME .
 a11.diplo.es CNAME .
@@ -1860,6 +1861,7 @@ gaoadmin.win CNAME .
 garage.jjlizz.com CNAME .
 garanphomai.ga CNAME .
 gate.oliver-pietsch.de CNAME .
+gateway.baltes.info CNAME .
 gateway-el.cname.ustclug.org CNAME .
 gateway.fomichev.cloud CNAME .
 gb-bir-w-1.nashkan.net CNAME .
@@ -2175,6 +2177,7 @@ lt-vil-w-2.nashkan.net CNAME .
 lt-vil-w-3.nashkan.net CNAME .
 luba.fb.i81.ru CNAME .
 luba.vpn.i81.ru CNAME .
+lululu.eu.org CNAME .
 lux1.nixnet.xyz CNAME .
 lux.sn0w.nl CNAME .
 lv1.nixnet.xyz CNAME .
@@ -2438,6 +2441,7 @@ p549314cd.dip0.t-ipconnect.de CNAME .
 pacificrack.rczcm.com CNAME .
 pad3w.pp.ua CNAME .
 paimon.sev.monster CNAME .
+pair02-02.ihatemy.live CNAME .
 palazzoddns.tk CNAME .
 paskam.tk CNAME .
 pass12335.myds.me CNAME .
