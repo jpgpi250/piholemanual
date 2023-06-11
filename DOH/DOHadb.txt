@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2023-06-09 03:21:39 (UTC)
+! Last updated: 2023-06-10 03:25:56 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -59,6 +59,7 @@
 ||501w.net^
 ||53.slepov.dev^
 ||6692.giize.com^
+||77980.bodis.com^
 ||8888.google^
 ||94169.ip-ns.net^
 ||a11.diplo.es^
@@ -1856,6 +1857,7 @@
 ||garage.jjlizz.com^
 ||garanphomai.ga^
 ||gate.oliver-pietsch.de^
+||gateway.baltes.info^
 ||gateway-el.cname.ustclug.org^
 ||gateway.fomichev.cloud^
 ||gb-bir-w-1.nashkan.net^
@@ -2171,6 +2173,7 @@
 ||lt-vil-w-3.nashkan.net^
 ||luba.fb.i81.ru^
 ||luba.vpn.i81.ru^
+||lululu.eu.org^
 ||lux1.nixnet.xyz^
 ||lux.sn0w.nl^
 ||lv1.nixnet.xyz^
@@ -2434,6 +2437,7 @@
 ||pacificrack.rczcm.com^
 ||pad3w.pp.ua^
 ||paimon.sev.monster^
+||pair02-02.ihatemy.live^
 ||palazzoddns.tk^
 ||paskam.tk^
 ||pass12335.myds.me^
