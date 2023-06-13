@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2306120309 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2306130304 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2023-06-12 03:09:42 (UTC)
+; Last updated: 2023-06-13 03:04:47 (UTC)
 ;
 ; See https://jpgpi250.github.io/piholemanual/doc/Unbound%20response%20policy%20zones.pdf
 ; Report issues at https://github.com/jpgpi250/piholemanual/issues
@@ -1401,6 +1401,7 @@ dns-tls.bitwiseshift.net CNAME .
 dns-tls.chamberirc.net CNAME .
 dns.tls-data.de CNAME .
 dnstls.mobik.com CNAME .
+dnstls.neutopia.org CNAME .
 dns.tlz.asia CNAME .
 dns.tomitomix.net CNAME .
 dns.tracker.ink CNAME .
@@ -2178,7 +2179,6 @@ lt-vil-w-2.nashkan.net CNAME .
 lt-vil-w-3.nashkan.net CNAME .
 luba.fb.i81.ru CNAME .
 luba.vpn.i81.ru CNAME .
-lululu.eu.org CNAME .
 lux1.nixnet.xyz CNAME .
 lux.sn0w.nl CNAME .
 lv1.nixnet.xyz CNAME .
@@ -2308,6 +2308,7 @@ ninny.duckdns.org CNAME .
 nl-ams2.doh.sb CNAME .
 nl-ams.doh.sb CNAME .
 nl-ams-w-3.nashkan.net CNAME .
+nlb.gbrossi.com.br CNAME .
 nl.galaskar.ga CNAME .
 noaaf500.site CNAME .
 noadsapp.net CNAME .
@@ -2414,6 +2415,7 @@ opennic.tenta.io CNAME .
 open-resolver1.unima.ac.id CNAME .
 opera.cloudflare-dns.com CNAME .
 ora1.nocnik.org CNAME .
+oracle2.herry.dev CNAME .
 oracle5.losfa.xyz CNAME .
 oracle6.losfa.xyz CNAME .
 oracle.cepheus0.com CNAME .
@@ -3017,7 +3019,6 @@ www.elshad-adgh-dns.ru CNAME .
 www.eweyo.ru CNAME .
 www.feelnosorry.com CNAME .
 www.ga3inur.ru CNAME .
-www.gbrossi.com.br CNAME .
 www.ggrbb.xyz CNAME .
 www.greppie.nl CNAME .
 www.guard.izzledudetech.com CNAME .
