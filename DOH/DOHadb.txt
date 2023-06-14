@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2023-06-12 03:25:38 (UTC)
+! Last updated: 2023-06-13 03:20:02 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -1397,6 +1397,7 @@
 ||dns-tls.chamberirc.net^
 ||dns.tls-data.de^
 ||dnstls.mobik.com^
+||dnstls.neutopia.org^
 ||dns.tlz.asia^
 ||dns.tomitomix.net^
 ||dns.tracker.ink^
@@ -2174,7 +2175,6 @@
 ||lt-vil-w-3.nashkan.net^
 ||luba.fb.i81.ru^
 ||luba.vpn.i81.ru^
-||lululu.eu.org^
 ||lux1.nixnet.xyz^
 ||lux.sn0w.nl^
 ||lv1.nixnet.xyz^
@@ -2304,6 +2304,7 @@
 ||nl-ams2.doh.sb^
 ||nl-ams.doh.sb^
 ||nl-ams-w-3.nashkan.net^
+||nlb.gbrossi.com.br^
 ||nl.galaskar.ga^
 ||noaaf500.site^
 ||noadsapp.net^
@@ -2410,6 +2411,7 @@
 ||open-resolver1.unima.ac.id^
 ||opera.cloudflare-dns.com^
 ||ora1.nocnik.org^
+||oracle2.herry.dev^
 ||oracle5.losfa.xyz^
 ||oracle6.losfa.xyz^
 ||oracle.cepheus0.com^
@@ -3013,7 +3015,6 @@
 ||www.eweyo.ru^
 ||www.feelnosorry.com^
 ||www.ga3inur.ru^
-||www.gbrossi.com.br^
 ||www.ggrbb.xyz^
 ||www.greppie.nl^
 ||www.guard.izzledudetech.com^
