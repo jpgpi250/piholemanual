@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2023-06-13 03:20:02 (UTC)
+! Last updated: 2023-06-14 03:52:28 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -187,6 +187,7 @@
 ||adguard.emperorslounge.net^
 ||adguard.ender.fr^
 ||adguard.eximpius.xyz^
+||adguard.exium.net^
 ||adguard.ext.rizult.net^
 ||adguard.firestrike-services.de^
 ||adguard.forst.one^
@@ -298,6 +299,7 @@
 ||adguard.styxnetwork.org^
 ||adguard.superbest.eu.org^
 ||adguard.taufner.net^
+||adguard.tetnet.net^
 ||adguard.thatisfun.in^
 ||adguard.tigrex.net^
 ||adguard.titov.es^
@@ -310,6 +312,7 @@
 ||adguard.yamamoto.ren^
 ||adguard.yoandev.co^
 ||adguard.youroute.ru^
+||adguard.youshitsune.tech^
 ||adguard.zachitect.com^
 ||adg.yuzi.one^
 ||adh.blogcuahieu.com^
@@ -386,7 +389,6 @@
 ||alpha-dns.de^
 ||alpha.rferee.dev^
 ||altvpn.ppm.mrhost.biz^
-||amd0.nzcow.com^
 ||amd1.sjp.loukky.com^
 ||amgr.ddns.net^
 ||amigo.vpn.i81.ru^
@@ -424,8 +426,6 @@
 ||area51.mywire.org^
 ||arespctw.tk^
 ||argon.molinero.dev^
-||arm2.nzcow.com^
-||arm3.nzcow.com^
 ||armorrush.eu.org^
 ||as17820865.click^
 ||a.safe.ns.dnslify.com^
@@ -441,6 +441,7 @@
 ||atomicvps.xyz^
 ||at.pzhg.me^
 ||atsilva.link^
+||at-wie-w-2.nashkan.net^
 ||au01.dns4me.net^
 ||au02.dns4me.net^
 ||aucnier.my.id^
@@ -602,7 +603,9 @@
 ||commons.host^
 ||comss.one^
 ||comss.ru^
+||connect.edmoon.co.uk^
 ||connect.fcpsunleashed.org^
+||connect.moonficonnect.com^
 ||contacts.dehb.ru^
 ||cossxiu.ga^
 ||craft.vps.pw^
@@ -626,7 +629,6 @@
 ||d2.shabi.icu^
 ||d3.shabi.icu^
 ||d3.supremum.io^
-||d.adguard-dns.com^
 ||daisukivn.asuscomm.com^
 ||dakulov.synology.me^
 ||dandelionsprout.asuscomm.com^
@@ -640,7 +642,6 @@
 ||daswieddodeushtuhaw.xyz^
 ||davidcampos.duckdns.org^
 ||davidzeh.eu.org^
-||dawnings.cn^
 ||dbbs.dns.databyte-network.com^
 ||dclab.live^
 ||ddd2.loukky.com^
@@ -705,6 +706,7 @@
 ||dmit.xxxxxxxxx.gq^
 ||dn5.talesam.org^
 ||dn.ckjack.com^
+||dns.010812.xyz^
 ||dns01.almir1904.eu^
 ||dns01.flm9.net^
 ||dns-01.hir.app^
@@ -1027,6 +1029,7 @@
 ||dns.fc.idv.tw^
 ||dns.febryandana.xyz^
 ||dns.feedbot.xyz^
+||dns.feldy.my.id^
 ||dns.filipccz.eu^
 ||dns.firefenix.cf^
 ||dns.flatuslifir.is^
@@ -1364,6 +1367,7 @@
 ||dns.spok.fun^
 ||dns.sstomp.nl^
 ||dns.startupstack.tech^
+||dns.stdev.su^
 ||dns.stevenz.net^
 ||dns.struchkov.dev^
 ||dns.stud.cloud^
@@ -1740,7 +1744,6 @@
 ||dub.r.rnet.ie^
 ||ducphuclee.tech^
 ||dukun.de^
-||dumbledore.steinr.eu^
 ||dupatruwi22.fun^
 ||duyyen.cf^
 ||duyyen.tk^
@@ -1931,6 +1934,7 @@
 ||hk.1662001.xyz^
 ||hk22.hujiajun.com^
 ||hk2.ooroot.com^
+||hk2.ss.startagegames.com^
 ||hk-az2.cattery.work^
 ||hkd.nicefly2099.cf^
 ||hk-dns.cattery.work^
@@ -2087,8 +2091,6 @@
 ||kendentil.org.uk^
 ||kenit.me^
 ||kennethhuang.com^
-||kent6.ajaest.net^
-||kent6.dyn.ajaest.net^
 ||kerio.dns.amigo-mgn.ru^
 ||keymiagar.ir^
 ||khsan.com^
@@ -2728,7 +2730,6 @@
 ||steff.sbs^
 ||storage.jjlizz.com^
 ||storydoh.kinergetica.com^
-||strata.gurupannu.com^
 ||stream.securely.sh^
 ||streltsov.net^
 ||stuxen.duckdns.org^
@@ -2740,7 +2741,6 @@
 ||sv3.minhduc.pw^
 ||sweethome.in.eu.org^
 ||switch.ch^
-||swoletux.ave.zone^
 ||syd1.norgannetworks.net.au^
 ||syd.adfilter.net^
 ||syd.core.access.zznet.fun^
@@ -2887,7 +2887,6 @@
 ||v2.xx3210766.live^
 ||v3.passby.ga^
 ||v6.rubyfish.cn^
-||vador.sillundil.ovh^
 ||valis.sx^
 ||vallecerroazul.com^
 ||valleverde.icu^
@@ -2965,6 +2964,7 @@
 ||web.pasi.cat^
 ||web-rated.ie^
 ||webredir.vip.gandi.net^
+||welcomeeverybody.eu.org^
 ||wg.req1.fr^
 ||whax.eu.org^
 ||wifi.dns.amigo-mgn.ru^
@@ -3060,6 +3060,7 @@
 ||www.tlz.asia^
 ||www.urology.wiki^
 ||www.vpnhellings.nl^
+||www.welcomeeverybody.eu.org^
 ||www.wzybigman.xyz^
 ||www.xantirealityx.net^
 ||www.yario.ru^
@@ -3098,6 +3099,7 @@
 ||ys.cloud-sekeng.com^
 ||ytpom.tk^
 ||yuhui.tk^
+||yunyun.is.my.waifu.cz^
 ||yvanliang.tech^
 ||yyaan.com^
 ||yyqsite.top^
