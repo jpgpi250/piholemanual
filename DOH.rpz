@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2306150312 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2306160252 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2023-06-15 03:12:08 (UTC)
+; Last updated: 2023-06-16 02:52:54 (UTC)
 ;
 ; See https://jpgpi250.github.io/piholemanual/doc/Unbound%20response%20policy%20zones.pdf
 ; Report issues at https://github.com/jpgpi250/piholemanual/issues
@@ -63,7 +63,7 @@ $TTL 30
 501w.net CNAME .
 53.slepov.dev CNAME .
 6692.giize.com CNAME .
-878223.parkingcrew.net CNAME .
+77980.bodis.com CNAME .
 8888.google CNAME .
 94169.ip-ns.net CNAME .
 a11.diplo.es CNAME .
@@ -2483,7 +2483,6 @@ pihole4.hoerli.net CNAME .
 pihole.aws.ketan.dev CNAME .
 pihole.datamatter.co.za CNAME .
 piholeddns.duckdns.org CNAME .
-pihole.gcp.pathofgrace.com CNAME .
 pihole.mulu.at CNAME .
 pi.homeanywhere.org CNAME .
 pinus-test.aeza.network CNAME .
