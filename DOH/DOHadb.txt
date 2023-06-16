@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2023-06-14 03:52:28 (UTC)
+! Last updated: 2023-06-15 03:27:54 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -359,6 +359,7 @@
 ||agh.kyashi.fun^
 ||ag.homedevenv.com^
 ||ag.hostme.co.il^
+||agh.printk.info^
 ||agh.xinfeng16m.top^
 ||ag.linux.repair^
 ||ag.marschi.de^
@@ -389,11 +390,11 @@
 ||alpha-dns.de^
 ||alpha.rferee.dev^
 ||altvpn.ppm.mrhost.biz^
+||amd0.nzcow.com^
 ||amd1.sjp.loukky.com^
 ||amgr.ddns.net^
 ||amigo.vpn.i81.ru^
 ||a.mole.cf^
-||ams.nl.agh-dns.net^
 ||amz.long-nguyen.info^
 ||an81.ddns.net^
 ||an81dns.ru^
@@ -426,6 +427,8 @@
 ||area51.mywire.org^
 ||arespctw.tk^
 ||argon.molinero.dev^
+||arm2.nzcow.com^
+||arm3.nzcow.com^
 ||armorrush.eu.org^
 ||as17820865.click^
 ||a.safe.ns.dnslify.com^
@@ -596,7 +599,7 @@
 ||cluster-1.gac.edu^
 ||c.malicioustation.icu^
 ||cname-for-doh.go-behind.one^
-||cn-cent-cu-1.y.dns.hanwuss.loongapi.com^
+||cn-js-zj-ct-1.c.cli.loongapi.com^
 ||cnnic-chinatelecom-chinamobile-chinaunicom--bili-d.dahi.icu^
 ||cnnic-chinatelecom-chinamobile-chinaunicom--bili-d.dahi.icu.cdn.cloudflare.net^
 ||colean.go.ro^
@@ -629,6 +632,7 @@
 ||d2.shabi.icu^
 ||d3.shabi.icu^
 ||d3.supremum.io^
+||d.adguard-dns.com^
 ||daisukivn.asuscomm.com^
 ||dakulov.synology.me^
 ||dandelionsprout.asuscomm.com^
@@ -642,6 +646,7 @@
 ||daswieddodeushtuhaw.xyz^
 ||davidcampos.duckdns.org^
 ||davidzeh.eu.org^
+||dawnings.cn^
 ||dbbs.dns.databyte-network.com^
 ||dclab.live^
 ||ddd2.loukky.com^
@@ -1744,6 +1749,7 @@
 ||dub.r.rnet.ie^
 ||ducphuclee.tech^
 ||dukun.de^
+||dumbledore.steinr.eu^
 ||dupatruwi22.fun^
 ||duyyen.cf^
 ||duyyen.tk^
@@ -1956,7 +1962,7 @@
 ||home3.brosena.xyz^
 ||home.501w.net^
 ||home.basthorst.eu^
-||home-bitteeinbyte.ddnss.de^
+||home-bitteeinbyte.ddns.net^
 ||home.bitteeinbyte.de^
 ||home.bruckmoser.it^
 ||home.ddns.network^
@@ -2091,6 +2097,8 @@
 ||kendentil.org.uk^
 ||kenit.me^
 ||kennethhuang.com^
+||kent6.ajaest.net^
+||kent6.dyn.ajaest.net^
 ||kerio.dns.amigo-mgn.ru^
 ||keymiagar.ir^
 ||khsan.com^
@@ -2730,6 +2738,7 @@
 ||steff.sbs^
 ||storage.jjlizz.com^
 ||storydoh.kinergetica.com^
+||strata.gurupannu.com^
 ||stream.securely.sh^
 ||streltsov.net^
 ||stuxen.duckdns.org^
@@ -2741,6 +2750,7 @@
 ||sv3.minhduc.pw^
 ||sweethome.in.eu.org^
 ||switch.ch^
+||swoletux.ave.zone^
 ||syd1.norgannetworks.net.au^
 ||syd.adfilter.net^
 ||syd.core.access.zznet.fun^
@@ -2887,6 +2897,7 @@
 ||v2.xx3210766.live^
 ||v3.passby.ga^
 ||v6.rubyfish.cn^
+||vador.sillundil.ovh^
 ||valis.sx^
 ||vallecerroazul.com^
 ||valleverde.icu^
