@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2306160252 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2306170239 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2023-06-16 02:52:54 (UTC)
+; Last updated: 2023-06-17 02:39:37 (UTC)
 ;
 ; See https://jpgpi250.github.io/piholemanual/doc/Unbound%20response%20policy%20zones.pdf
 ; Report issues at https://github.com/jpgpi250/piholemanual/issues
@@ -564,7 +564,6 @@ c-dns.com CNAME .
 cdzopi.duckdns.org CNAME .
 cedricreitz.com CNAME .
 ch01adguardho.me CNAME .
-chanhome.xyz CNAME .
 chaos.altendorfme.com CNAME .
 chaos-system.de CNAME .
 chenc79.online CNAME .
@@ -1969,7 +1968,6 @@ home.basthorst.eu CNAME .
 home-bitteeinbyte.ddns.net CNAME .
 home.bitteeinbyte.de CNAME .
 home.bruckmoser.it CNAME .
-home.ddns.network CNAME .
 home.dlinkddns.com CNAME .
 homedns.gumeniuk.com CNAME .
 home.f7b6h9.tk CNAME .
@@ -2404,7 +2402,6 @@ odon.de CNAME .
 odvr.nic.cz CNAME .
 offermans.net CNAME .
 office.heimtec.com CNAME .
-oguska.com CNAME .
 okijara.com CNAME .
 oko.haneulo.com CNAME .
 olga.dns.amigo-mgn.ru CNAME .
@@ -2483,6 +2480,7 @@ pihole4.hoerli.net CNAME .
 pihole.aws.ketan.dev CNAME .
 pihole.datamatter.co.za CNAME .
 piholeddns.duckdns.org CNAME .
+pihole.gcp.pathofgrace.com CNAME .
 pihole.mulu.at CNAME .
 pi.homeanywhere.org CNAME .
 pinus-test.aeza.network CNAME .
