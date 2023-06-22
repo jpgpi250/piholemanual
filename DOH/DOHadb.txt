@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2023-06-20 03:00:57 (UTC)
+! Last updated: 2023-06-21 03:43:33 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -59,7 +59,7 @@
 ||501w.net^
 ||53.slepov.dev^
 ||6692.giize.com^
-||77980.bodis.com^
+||878223.parkingcrew.net^
 ||8888.google^
 ||94169.ip-ns.net^
 ||a11.diplo.es^
@@ -117,6 +117,7 @@
 ||adg.pssv.top^
 ||adg.rokh.biz^
 ||adg.ssy123.xyz^
+||adg.swh123.xyz^
 ||adguard01.dns.infrapod.nl^
 ||adguard01.infrapod.nl^
 ||adguard01.wydler.eu^
@@ -334,6 +335,7 @@
 ||adtec.aidentec.top^
 ||ad.timefine.org^
 ||ad.ttdd.one^
+||ad.tzockt.beer^
 ||adult-filter-dns.cleanbrowsing.org^
 ||adult-filter-dot.dnswarden.com^
 ||ad.visbran.fr^
@@ -390,7 +392,6 @@
 ||alpha-dns.de^
 ||alpha.rferee.dev^
 ||altvpn.ppm.mrhost.biz^
-||amd0.nzcow.com^
 ||amd1.sjp.loukky.com^
 ||amgr.ddns.net^
 ||amigo.vpn.i81.ru^
@@ -427,8 +428,6 @@
 ||area51.mywire.org^
 ||arespctw.tk^
 ||argon.molinero.dev^
-||arm2.nzcow.com^
-||arm3.nzcow.com^
 ||armorrush.eu.org^
 ||as17820865.click^
 ||a.safe.ns.dnslify.com^
@@ -469,6 +468,7 @@
 ||azagramac.duckdns.org^
 ||azbs.ddmm.eu.org^
 ||azure.cloudflare-dns.com^
+||b2u7d7r9.stackpathcdn.com^
 ||b5lwtlgyqyly1typvyshftccwxuhk3zq.space^
 ||banhbaothiu.site^
 ||ban.ppppppeeesss.info^
@@ -632,7 +632,6 @@
 ||d2.shabi.icu^
 ||d3.shabi.icu^
 ||d3.supremum.io^
-||d.adguard-dns.com^
 ||daisukivn.asuscomm.com^
 ||dakulov.synology.me^
 ||dandelionsprout.asuscomm.com^
@@ -646,7 +645,6 @@
 ||daswieddodeushtuhaw.xyz^
 ||davidcampos.duckdns.org^
 ||davidzeh.eu.org^
-||dawnings.cn^
 ||dbbs.dns.databyte-network.com^
 ||dclab.live^
 ||ddd2.loukky.com^
@@ -937,6 +935,7 @@
 ||dns.cloud.ionutl.ro^
 ||dns.cloudlinz.de^
 ||dns.cloudlnk.net^
+||dns.cloudnx.cloud^
 ||dns.cloudtrust.solutions^
 ||dns.cloudyun.top^
 ||dns.cmrg.net^
@@ -985,6 +984,7 @@
 ||dns-doh-no-safe-search.dnsforfamily.com^
 ||dnsdohnosafesearch.dnsforfamily.com^
 ||dns.domsku.com^
+||dns.dooks.uk^
 ||dns-dot.dnsforfamily.com^
 ||dns.dream-hosting.ovh^
 ||dns.dreamworker.idv.tw^
@@ -1246,6 +1246,7 @@
 ||dns.nnet.services^
 ||dns.noad.me^
 ||dns.noehring.org^
+||dns.nonomi.cc^
 ||dns.noobel.cn^
 ||dns.norgan.net^
 ||dns.norvig.dk^
@@ -1749,7 +1750,6 @@
 ||dub.r.rnet.ie^
 ||ducphuclee.tech^
 ||dukun.de^
-||dumbledore.steinr.eu^
 ||dupatruwi22.fun^
 ||duyyen.cf^
 ||duyyen.tk^
@@ -1965,7 +1965,6 @@
 ||home-bitteeinbyte.ddns.net^
 ||home.bitteeinbyte.de^
 ||home.bruckmoser.it^
-||home.ddns.network^
 ||home.dlinkddns.com^
 ||homedns.gumeniuk.com^
 ||home.f7b6h9.tk^
@@ -2005,6 +2004,7 @@
 ||ibksturm.synology.me^
 ||ibuki.cgnat.net^
 ||id.lkbin.ga^
+||id.local.v.ua^
 ||id-pon-w-1.nashkan.net^
 ||id.terra.my.id^
 ||ie-dub-w-1.nashkan.net^
@@ -2055,6 +2055,7 @@
 ||jjm.asia^
 ||jkdsm.com^
 ||jonasdevries.de^
+||jonesboyz.duckdns.org^
 ||joy096speed.pp.ua^
 ||jp01.just-a-web.com^
 ||jp1.f7b6h9.tk^
@@ -2097,8 +2098,6 @@
 ||kendentil.org.uk^
 ||kenit.me^
 ||kennethhuang.com^
-||kent6.ajaest.net^
-||kent6.dyn.ajaest.net^
 ||kerio.dns.amigo-mgn.ru^
 ||keymiagar.ir^
 ||khsan.com^
@@ -2240,6 +2239,7 @@
 ||mimile.despagne.ovh^
 ||mimir.netwerk.io^
 ||mina.harrache.info^
+||minilla.store^
 ||mitron.one^
 ||mkrepair.ddns.net^
 ||mo0on15.com^
@@ -2448,7 +2448,6 @@
 ||pacificrack.rczcm.com^
 ||pad3w.pp.ua^
 ||paimon.sev.monster^
-||pair02-02.ihatemy.live^
 ||palazzoddns.tk^
 ||paskam.tk^
 ||pass12335.myds.me^
@@ -2737,7 +2736,6 @@
 ||steff.sbs^
 ||storage.jjlizz.com^
 ||storydoh.kinergetica.com^
-||strata.gurupannu.com^
 ||stream.securely.sh^
 ||streltsov.net^
 ||stuxen.duckdns.org^
@@ -2749,7 +2747,6 @@
 ||sv3.minhduc.pw^
 ||sweethome.in.eu.org^
 ||switch.ch^
-||swoletux.ave.zone^
 ||syd1.norgannetworks.net.au^
 ||syd.adfilter.net^
 ||syd.core.access.zznet.fun^
