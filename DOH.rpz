@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2306220310 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2306230334 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2023-06-22 03:10:10 (UTC)
+; Last updated: 2023-06-23 03:34:27 (UTC)
 ;
 ; See https://jpgpi250.github.io/piholemanual/doc/Unbound%20response%20policy%20zones.pdf
 ; Report issues at https://github.com/jpgpi250/piholemanual/issues
@@ -64,6 +64,7 @@ $TTL 30
 53.slepov.dev CNAME .
 6692.giize.com CNAME .
 77980.bodis.com CNAME .
+878223.parkingcrew.net CNAME .
 8888.google CNAME .
 94169.ip-ns.net CNAME .
 a11.diplo.es CNAME .
@@ -460,6 +461,7 @@ au-syd.doh.sb CNAME .
 au-syd-w-2.nashkan.net CNAME .
 au-syd-w-3.nashkan.net CNAME .
 au.teradns.org CNAME .
+auto-cn-hk-8000.go-behind.one CNAME .
 autodiscover.elshad-adgh-dns.ru CNAME .
 autodiscover.promsdns.com CNAME .
 automaton-mm1.duckdns.org CNAME .
@@ -604,6 +606,7 @@ clubsv.duckdns.org CNAME .
 cluster-0.gac.edu CNAME .
 cluster-1.gac.edu CNAME .
 c.malicioustation.icu CNAME .
+cname-for-doh.go-behind.one CNAME .
 cn-js-zj-ct-1.c.cli.loongapi.com CNAME .
 cnnic-chinatelecom-chinamobile-chinaunicom--bili-d.dahi.icu CNAME .
 cnnic-chinatelecom-chinamobile-chinaunicom--bili-d.dahi.icu.cdn.cloudflare.net CNAME .
@@ -1556,6 +1559,7 @@ doh-ch.blahdns.com CNAME .
 doh.chi.ahadns.net CNAME .
 doh.cleanbrowsing.org CNAME .
 doh.cloud-sekeng.com CNAME .
+doh.cornes.me CNAME .
 doh.cox.net CNAME .
 doh.crypto.sx CNAME .
 doh.datacore.ch CNAME .
@@ -1628,6 +1632,7 @@ doh.lululujp.eu.org CNAME .
 doh.lv CNAME .
 doh.mcasviper.de CNAME .
 doh.micronets.in CNAME .
+doh.mmmalia.com CNAME .
 doh.moeyk.com CNAME .
 doh.mullvad.net CNAME .
 doh.nala.ru CNAME .
@@ -1677,6 +1682,7 @@ doh.tiarap.org CNAME .
 doh.tiar.app CNAME .
 doh.totoro.pub CNAME .
 dohtrial.att.net CNAME .
+doh.tvk.rwth-aachen.de CNAME .
 doh.ubd.ac.id CNAME .
 doh.umbrella.com CNAME .
 doh.us.dnswarden.com CNAME .
@@ -1707,6 +1713,7 @@ dot.cox.net CNAME .
 dot-de.blahdns.com CNAME .
 dotdns.cryptroute.com CNAME .
 dot-dns.zmy.cloud CNAME .
+dotdown.netlify.app CNAME .
 dot.eastas.pi-dns.com CNAME .
 dot.eastau.pi-dns.com CNAME .
 dot.eastus.pi-dns.com CNAME .
@@ -1914,6 +1921,7 @@ greenhamadguard.com.au CNAME .
 greppie.nl CNAME .
 groupy.ga CNAME .
 groupy.su CNAME .
+gtm-sg-5r538sziu04.go-behind.one CNAME .
 guardhome.fatihkuyuk.com.tr CNAME .
 guardians.jenspoelitz.de CNAME .
 guard.izzledudetech.com CNAME .
@@ -2277,6 +2285,7 @@ mydns.an2kin.cyou CNAME .
 mydns.bielperes.me CNAME .
 mydns.server-way.tk CNAME .
 myhottiemama.de CNAME .
+myip.mmmalia.com CNAME .
 mykewl.pro CNAME .
 myownadguard.ovh CNAME .
 mypihole.hopto.org CNAME .
@@ -2315,6 +2324,7 @@ new.nhunor.com CNAME .
 next.miao.ninja CNAME .
 ngc0226.ddns.net CNAME .
 ng-lag-w-1.nashkan.net CNAME .
+nhatlong.work CNAME .
 nicktruehome.ddns.net CNAME .
 nilanjan.me CNAME .
 nilanjan.rocks CNAME .
