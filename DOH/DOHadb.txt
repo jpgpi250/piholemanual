@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2023-06-22 03:25:38 (UTC)
+! Last updated: 2023-06-23 03:50:18 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -60,6 +60,7 @@
 ||53.slepov.dev^
 ||6692.giize.com^
 ||77980.bodis.com^
+||878223.parkingcrew.net^
 ||8888.google^
 ||94169.ip-ns.net^
 ||a11.diplo.es^
@@ -456,6 +457,7 @@
 ||au-syd-w-2.nashkan.net^
 ||au-syd-w-3.nashkan.net^
 ||au.teradns.org^
+||auto-cn-hk-8000.go-behind.one^
 ||autodiscover.elshad-adgh-dns.ru^
 ||autodiscover.promsdns.com^
 ||automaton-mm1.duckdns.org^
@@ -600,6 +602,7 @@
 ||cluster-0.gac.edu^
 ||cluster-1.gac.edu^
 ||c.malicioustation.icu^
+||cname-for-doh.go-behind.one^
 ||cn-js-zj-ct-1.c.cli.loongapi.com^
 ||cnnic-chinatelecom-chinamobile-chinaunicom--bili-d.dahi.icu^
 ||cnnic-chinatelecom-chinamobile-chinaunicom--bili-d.dahi.icu.cdn.cloudflare.net^
@@ -1552,6 +1555,7 @@
 ||doh.chi.ahadns.net^
 ||doh.cleanbrowsing.org^
 ||doh.cloud-sekeng.com^
+||doh.cornes.me^
 ||doh.cox.net^
 ||doh.crypto.sx^
 ||doh.datacore.ch^
@@ -1624,6 +1628,7 @@
 ||doh.lv^
 ||doh.mcasviper.de^
 ||doh.micronets.in^
+||doh.mmmalia.com^
 ||doh.moeyk.com^
 ||doh.mullvad.net^
 ||doh.nala.ru^
@@ -1673,6 +1678,7 @@
 ||doh.tiar.app^
 ||doh.totoro.pub^
 ||dohtrial.att.net^
+||doh.tvk.rwth-aachen.de^
 ||doh.ubd.ac.id^
 ||doh.umbrella.com^
 ||doh.us.dnswarden.com^
@@ -1703,6 +1709,7 @@
 ||dot-de.blahdns.com^
 ||dotdns.cryptroute.com^
 ||dot-dns.zmy.cloud^
+||dotdown.netlify.app^
 ||dot.eastas.pi-dns.com^
 ||dot.eastau.pi-dns.com^
 ||dot.eastus.pi-dns.com^
@@ -1910,6 +1917,7 @@
 ||greppie.nl^
 ||groupy.ga^
 ||groupy.su^
+||gtm-sg-5r538sziu04.go-behind.one^
 ||guardhome.fatihkuyuk.com.tr^
 ||guardians.jenspoelitz.de^
 ||guard.izzledudetech.com^
@@ -2273,6 +2281,7 @@
 ||mydns.bielperes.me^
 ||mydns.server-way.tk^
 ||myhottiemama.de^
+||myip.mmmalia.com^
 ||mykewl.pro^
 ||myownadguard.ovh^
 ||mypihole.hopto.org^
@@ -2311,6 +2320,7 @@
 ||next.miao.ninja^
 ||ngc0226.ddns.net^
 ||ng-lag-w-1.nashkan.net^
+||nhatlong.work^
 ||nicktruehome.ddns.net^
 ||nilanjan.me^
 ||nilanjan.rocks^
