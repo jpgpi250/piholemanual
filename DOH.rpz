@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2306230334 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2306240312 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2023-06-23 03:34:27 (UTC)
+; Last updated: 2023-06-24 03:12:58 (UTC)
 ;
 ; See https://jpgpi250.github.io/piholemanual/doc/Unbound%20response%20policy%20zones.pdf
 ; Report issues at https://github.com/jpgpi250/piholemanual/issues
@@ -63,7 +63,6 @@ $TTL 30
 501w.net CNAME .
 53.slepov.dev CNAME .
 6692.giize.com CNAME .
-77980.bodis.com CNAME .
 878223.parkingcrew.net CNAME .
 8888.google CNAME .
 94169.ip-ns.net CNAME .
@@ -1968,7 +1967,6 @@ hk.meidouling.com CNAME .
 hk-w-1.nashkan.net CNAME .
 hk-w-4.nashkan.net CNAME .
 hk.wooy.cool CNAME .
-hk.yyaan.com CNAME .
 hoarfox.us CNAME .
 ho.hostme.co.il CNAME .
 hole.elbschloss.xyz CNAME .
