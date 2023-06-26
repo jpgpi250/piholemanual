@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2023-06-24 03:28:14 (UTC)
+! Last updated: 2023-06-25 03:25:02 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -59,6 +59,7 @@
 ||501w.net^
 ||53.slepov.dev^
 ||6692.giize.com^
+||77980.bodis.com^
 ||878223.parkingcrew.net^
 ||8888.google^
 ||94169.ip-ns.net^
@@ -456,6 +457,7 @@
 ||au-syd-w-2.nashkan.net^
 ||au-syd-w-3.nashkan.net^
 ||au.teradns.org^
+||auth.phclinz.de^
 ||auto-cn-hk-8000.go-behind.one^
 ||autodiscover.elshad-adgh-dns.ru^
 ||autodiscover.promsdns.com^
@@ -1175,7 +1177,6 @@
 ||dns.lat-team.com^
 ||dns.lfac.ml^
 ||dns.lfac.xyz^
-||dns.lightmaster.pw^
 ||dns.lildinosaur.com^
 ||dns.lilith.cloud^
 ||dns.linkr.ninja^
@@ -2142,7 +2143,6 @@
 ||kr-sel.doh.sb^
 ||krtekvpn.duckdns.org^
 ||kr.telex.app^
-||ks1.plop.cc^
 ||k-s-edition.ru^
 ||ksedns.ru^
 ||kswro.web.id^
