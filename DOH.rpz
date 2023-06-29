@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2306280325 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2306290310 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2023-06-28 03:25:45 (UTC)
+; Last updated: 2023-06-29 03:10:11 (UTC)
 ;
 ; See https://jpgpi250.github.io/piholemanual/doc/Unbound%20response%20policy%20zones.pdf
 ; Report issues at https://github.com/jpgpi250/piholemanual/issues
@@ -1849,7 +1849,6 @@ flumuffel.de CNAME .
 fly.flylcc.cc CNAME .
 fly.io CNAME .
 fonfrodo.asuscomm.com CNAME .
-forum.ginovs.nl CNAME .
 fr1.dnswarden.com CNAME .
 fr1.eastjoin.tk CNAME .
 fra1.eyecay.xyz CNAME .
@@ -1985,7 +1984,6 @@ home.basthorst.eu CNAME .
 home-bitteeinbyte.ddns.net CNAME .
 home.bitteeinbyte.de CNAME .
 home.bruckmoser.it CNAME .
-home.ddns.network CNAME .
 home.dlinkddns.com CNAME .
 homedns.gumeniuk.com CNAME .
 home.f7b6h9.tk CNAME .
@@ -2427,6 +2425,7 @@ odon.de CNAME .
 odvr.nic.cz CNAME .
 offermans.net CNAME .
 office.heimtec.com CNAME .
+oguska.com CNAME .
 okijara.com CNAME .
 oko.haneulo.com CNAME .
 olga.dns.amigo-mgn.ru CNAME .
@@ -2564,7 +2563,6 @@ r1bnc.com CNAME .
 r1bnc.eu.org CNAME .
 r4u2c9i5.stackpathcdn.com CNAME .
 rabanete.duckdns.org CNAME .
-rabenhain.net CNAME .
 rachel.jeroenhd.nl CNAME .
 racinas.com CNAME .
 radia.bortzmeyer.org CNAME .
