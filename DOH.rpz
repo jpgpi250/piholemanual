@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2307030319 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2307040307 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2023-07-03 03:19:53 (UTC)
+; Last updated: 2023-07-04 03:07:59 (UTC)
 ;
 ; See https://jpgpi250.github.io/piholemanual/doc/Unbound%20response%20policy%20zones.pdf
 ; Report issues at https://github.com/jpgpi250/piholemanual/issues
@@ -411,6 +411,7 @@ an.kanahanazawa.com CNAME .
 an.loliconapp.top CNAME .
 a.ns.dnslify.com CNAME .
 ant.dns.qwer.pw CNAME .
+antidns.s.tuna.tsinghua.edu.cn CNAME .
 anycast.censurfridns.dk CNAME .
 anycast.censurfridns.nu CNAME .
 anycast.dns.nextdns.io CNAME .
@@ -881,6 +882,7 @@ dns-asia.wugui.zone CNAME .
 dns.atsilva.link CNAME .
 dns.audet.cloud CNAME .
 dnsaws.rasp.tv CNAME .
+dns.axiomos.xyz CNAME .
 dns.aykanbacaksoy.de CNAME .
 dns.azcom.dev CNAME .
 dns.azsopro.net CNAME .
@@ -1323,6 +1325,7 @@ dns.quad9.net CNAME .
 dns.quickline.ch CNAME .
 dns.qwkurl.com CNAME .
 dns.r00l.pp.ua CNAME .
+dns.radityaharya.com CNAME .
 dns.radityaharya.me CNAME .
 dns.rafal.top CNAME .
 dns.rafn.is CNAME .
@@ -1420,6 +1423,7 @@ dns.tlz.asia CNAME .
 dns.tomitomix.net CNAME .
 dns.tracker.ink CNAME .
 dns.truong.fi CNAME .
+dns.tsgmcoinfra.com CNAME .
 dns.tticus.art CNAME .
 dns.tuankhaiit.com CNAME .
 dns.tuna.tsinghua.edu.cn CNAME .
@@ -1447,6 +1451,7 @@ dns.vaguthu.mv CNAME .
 dns.vault-101.net CNAME .
 dns.vdl.io CNAME .
 dns.venya.tech CNAME .
+dns.victorhachard.fr CNAME .
 dns.vietdns.vn CNAME .
 dns.vinnyp.xyz CNAME .
 dns.vinokurov.tk CNAME .
@@ -2145,7 +2150,6 @@ kr.pigs.eu.org CNAME .
 kr-sel.doh.sb CNAME .
 krtekvpn.duckdns.org CNAME .
 kr.telex.app CNAME .
-ks1.plop.cc CNAME .
 k-s-edition.ru CNAME .
 ksedns.ru CNAME .
 kswro.web.id CNAME .
@@ -2319,7 +2323,6 @@ new.nhunor.com CNAME .
 next.miao.ninja CNAME .
 ngc0226.ddns.net CNAME .
 ng-lag-w-1.nashkan.net CNAME .
-nhatlong.work CNAME .
 nicktruehome.ddns.net CNAME .
 nilanjan.me CNAME .
 nilanjan.rocks CNAME .
@@ -2397,6 +2400,7 @@ nxtcld.chriskutschker.de CNAME .
 ny1.nixnet.xyz CNAME .
 ny.teradns.org CNAME .
 nz01.dns4me.net CNAME .
+nzitdog.onthewifi.com CNAME .
 o1.lt CNAME .
 ociamd1.fatucloud.gosprout.org CNAME .
 ocl.smaccs.site CNAME .
@@ -2436,6 +2440,7 @@ oracle2.herry.dev CNAME .
 oracle5.losfa.xyz CNAME .
 oracle6.losfa.xyz CNAME .
 oracle.cepheus0.com CNAME .
+oraclecloud.onthewifi.com CNAME .
 oraclejp2.chungyu.com CNAME .
 oracle-lab01.crmd.co.za CNAME .
 oradns.anbitech.com CNAME .
@@ -2443,6 +2448,7 @@ orau.lz0724.com CNAME .
 ora.yingroad.top CNAME .
 ordns.he.net CNAME .
 o.rsaikat.com CNAME .
+ortudns.com CNAME .
 oryx.wallymna.space CNAME .
 osefcorp.duckdns.org CNAME .
 ourcraft.ddnss.de CNAME .
@@ -2512,6 +2518,7 @@ porttwo.bigbangtheory.monster CNAME .
 pqh.ddns.net CNAME .
 premiumtier-network.instadart.net CNAME .
 preview.dnsteam.globuscs.info CNAME .
+primary-dns.victorhachard.fr CNAME .
 privacydns.go6lab.si CNAME .
 privacy.plumedns.com CNAME .
 private.adguard.wessels-net.nl CNAME .
@@ -2638,6 +2645,7 @@ sdns.uplenk.com CNAME .
 sdvizhkov.ru CNAME .
 seanyan.ddns.net CNAME .
 seaofbits.com CNAME .
+secondary-dns.victorhachard.fr CNAME .
 secure-4ud.de CNAME .
 secureadguarddns.charleslondon.online CNAME .
 secure.anudeep.me CNAME .
@@ -2757,6 +2765,7 @@ surfbelow.com CNAME .
 surt.ml CNAME .
 surve.dehb.ru CNAME .
 sv3.minhduc.pw CNAME .
+sv.oispace.eu.org CNAME .
 sweethome.in.eu.org CNAME .
 switch.ch CNAME .
 syd1.norgannetworks.net.au CNAME .
