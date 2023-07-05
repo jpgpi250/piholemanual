@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2023-07-03 03:35:01 (UTC)
+! Last updated: 2023-07-04 03:23:14 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -407,6 +407,7 @@
 ||an.loliconapp.top^
 ||a.ns.dnslify.com^
 ||ant.dns.qwer.pw^
+||antidns.s.tuna.tsinghua.edu.cn^
 ||anycast.censurfridns.dk^
 ||anycast.censurfridns.nu^
 ||anycast.dns.nextdns.io^
@@ -877,6 +878,7 @@
 ||dns.atsilva.link^
 ||dns.audet.cloud^
 ||dnsaws.rasp.tv^
+||dns.axiomos.xyz^
 ||dns.aykanbacaksoy.de^
 ||dns.azcom.dev^
 ||dns.azsopro.net^
@@ -1319,6 +1321,7 @@
 ||dns.quickline.ch^
 ||dns.qwkurl.com^
 ||dns.r00l.pp.ua^
+||dns.radityaharya.com^
 ||dns.radityaharya.me^
 ||dns.rafal.top^
 ||dns.rafn.is^
@@ -1416,6 +1419,7 @@
 ||dns.tomitomix.net^
 ||dns.tracker.ink^
 ||dns.truong.fi^
+||dns.tsgmcoinfra.com^
 ||dns.tticus.art^
 ||dns.tuankhaiit.com^
 ||dns.tuna.tsinghua.edu.cn^
@@ -1443,6 +1447,7 @@
 ||dns.vault-101.net^
 ||dns.vdl.io^
 ||dns.venya.tech^
+||dns.victorhachard.fr^
 ||dns.vietdns.vn^
 ||dns.vinnyp.xyz^
 ||dns.vinokurov.tk^
@@ -2141,7 +2146,6 @@
 ||kr-sel.doh.sb^
 ||krtekvpn.duckdns.org^
 ||kr.telex.app^
-||ks1.plop.cc^
 ||k-s-edition.ru^
 ||ksedns.ru^
 ||kswro.web.id^
@@ -2315,7 +2319,6 @@
 ||next.miao.ninja^
 ||ngc0226.ddns.net^
 ||ng-lag-w-1.nashkan.net^
-||nhatlong.work^
 ||nicktruehome.ddns.net^
 ||nilanjan.me^
 ||nilanjan.rocks^
@@ -2393,6 +2396,7 @@
 ||ny1.nixnet.xyz^
 ||ny.teradns.org^
 ||nz01.dns4me.net^
+||nzitdog.onthewifi.com^
 ||o1.lt^
 ||ociamd1.fatucloud.gosprout.org^
 ||ocl.smaccs.site^
@@ -2432,6 +2436,7 @@
 ||oracle5.losfa.xyz^
 ||oracle6.losfa.xyz^
 ||oracle.cepheus0.com^
+||oraclecloud.onthewifi.com^
 ||oraclejp2.chungyu.com^
 ||oracle-lab01.crmd.co.za^
 ||oradns.anbitech.com^
@@ -2439,6 +2444,7 @@
 ||ora.yingroad.top^
 ||ordns.he.net^
 ||o.rsaikat.com^
+||ortudns.com^
 ||oryx.wallymna.space^
 ||osefcorp.duckdns.org^
 ||ourcraft.ddnss.de^
@@ -2508,6 +2514,7 @@
 ||pqh.ddns.net^
 ||premiumtier-network.instadart.net^
 ||preview.dnsteam.globuscs.info^
+||primary-dns.victorhachard.fr^
 ||privacydns.go6lab.si^
 ||privacy.plumedns.com^
 ||private.adguard.wessels-net.nl^
@@ -2634,6 +2641,7 @@
 ||sdvizhkov.ru^
 ||seanyan.ddns.net^
 ||seaofbits.com^
+||secondary-dns.victorhachard.fr^
 ||secure-4ud.de^
 ||secureadguarddns.charleslondon.online^
 ||secure.anudeep.me^
@@ -2753,6 +2761,7 @@
 ||surt.ml^
 ||surve.dehb.ru^
 ||sv3.minhduc.pw^
+||sv.oispace.eu.org^
 ||sweethome.in.eu.org^
 ||switch.ch^
 ||syd1.norgannetworks.net.au^
