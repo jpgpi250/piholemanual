@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2023-07-05 03:06:47 (UTC)
+! Last updated: 2023-07-06 03:57:44 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -455,7 +455,6 @@
 ||au-syd-w-3.nashkan.net^
 ||au.teradns.org^
 ||auth.phclinz.de^
-||auto-cn-hk-8000.go-behind.one^
 ||autodiscover.elshad-adgh-dns.ru^
 ||autodiscover.promsdns.com^
 ||automaton-mm1.duckdns.org^
@@ -600,8 +599,6 @@
 ||cluster-0.gac.edu^
 ||cluster-1.gac.edu^
 ||c.malicioustation.icu^
-||cname-for-doh.go-behind.one^
-||cn-js-zj-ct-1.c.cli.loongapi.com^
 ||cnnic-chinatelecom-chinamobile-chinaunicom--bili-d.dahi.icu^
 ||cnnic-chinatelecom-chinamobile-chinaunicom--bili-d.dahi.icu.cdn.cloudflare.net^
 ||colean.go.ro^
@@ -1377,6 +1374,7 @@
 ||dns.silentlybren.com^
 ||dnssilo.top^
 ||dns.simplylinux.ch^
+||dns.sips.my.id^
 ||dns.siry.de^
 ||dns.skrep.eu^
 ||dns.skrep.in^
@@ -1926,7 +1924,6 @@
 ||greppie.nl^
 ||groupy.ga^
 ||groupy.su^
-||gtm-sg-5r538sziu04.go-behind.one^
 ||guardhome.fatihkuyuk.com.tr^
 ||guardians.jenspoelitz.de^
 ||guard.izzledudetech.com^
@@ -1985,7 +1982,6 @@
 ||home-bitteeinbyte.ddns.net^
 ||home.bitteeinbyte.de^
 ||home.bruckmoser.it^
-||home.ddns.network^
 ||home.dlinkddns.com^
 ||homedns.gumeniuk.com^
 ||home.f7b6h9.tk^
@@ -2805,7 +2801,6 @@
 ||testaghome.meshkov.info^
 ||test.dnsteam.globuscs.info^
 ||test.fatucloud.gosprout.org^
-||tezoi.duckdns.org^
 ||thanh933.cf^
 ||thanos.pleumkungz.com^
 ||thebeloveduck.duckdns.org^
