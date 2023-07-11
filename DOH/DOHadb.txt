@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2023-07-08 03:48:38 (UTC)
+! Last updated: 2023-07-10 04:05:41 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -59,6 +59,7 @@
 ||501w.net^
 ||53.slepov.dev^
 ||6692.giize.com^
+||77980.bodis.com^
 ||878223.parkingcrew.net^
 ||8888.google^
 ||94169.ip-ns.net^
@@ -392,7 +393,6 @@
 ||alpha-dns.de^
 ||alpha.rferee.dev^
 ||altvpn.ppm.mrhost.biz^
-||amd0.nzcow.com^
 ||amd1.sjp.loukky.com^
 ||amgr.ddns.net^
 ||amigo.vpn.i81.ru^
@@ -430,8 +430,6 @@
 ||area51.mywire.org^
 ||arespctw.tk^
 ||argon.molinero.dev^
-||arm2.nzcow.com^
-||arm3.nzcow.com^
 ||armorrush.eu.org^
 ||as17820865.click^
 ||a.safe.ns.dnslify.com^
@@ -457,7 +455,6 @@
 ||au-syd-w-2.nashkan.net^
 ||au-syd-w-3.nashkan.net^
 ||au.teradns.org^
-||auth.phclinz.de^
 ||auto-cn-hk-8000.go-behind.one^
 ||autodiscover.elshad-adgh-dns.ru^
 ||autodiscover.promsdns.com^
@@ -606,6 +603,7 @@
 ||cname-for-doh.go-behind.one^
 ||cnnic-chinatelecom-chinamobile-chinaunicom--bili-d.dahi.icu^
 ||cnnic-chinatelecom-chinamobile-chinaunicom--bili-d.dahi.icu.cdn.cloudflare.net^
+||cn.turngreatwall.com^
 ||colean.go.ro^
 ||commons.host^
 ||comss.one^
@@ -638,7 +636,6 @@
 ||d2.shabi.icu^
 ||d3.shabi.icu^
 ||d3.supremum.io^
-||d.adguard-dns.com^
 ||daisukivn.asuscomm.com^
 ||dakulov.synology.me^
 ||dandelionsprout.asuscomm.com^
@@ -652,7 +649,6 @@
 ||daswieddodeushtuhaw.xyz^
 ||davidcampos.duckdns.org^
 ||davidzeh.eu.org^
-||dawnings.cn^
 ||dbbs.dns.databyte-network.com^
 ||dclab.live^
 ||ddd2.loukky.com^
@@ -1204,6 +1200,7 @@
 ||dns.lusk.xyz^
 ||dns.lyhlyh.xyz^
 ||dns.m78.asia^
+||dns.mafyuh.io^
 ||dns.magnon-box.tk^
 ||dns.magnon.duckdns.org^
 ||dns.majaroboan.de^
@@ -1244,6 +1241,7 @@
 ||dns.mysvc.de^
 ||dns.mzrme.cn^
 ||dns.n23.io^
+||dns.narl.app^
 ||dns.nas-server.ru^
 ||dns.nayemador.com^
 ||dns.ndo.dev^
@@ -1779,7 +1777,6 @@
 ||dub.r.rnet.ie^
 ||ducphuclee.tech^
 ||dukun.de^
-||dumbledore.steinr.eu^
 ||dupatruwi22.fun^
 ||duyyen.cf^
 ||duyyen.tk^
@@ -1996,7 +1993,6 @@
 ||home-bitteeinbyte.ddns.net^
 ||home.bitteeinbyte.de^
 ||home.bruckmoser.it^
-||home.ddns.network^
 ||home.dlinkddns.com^
 ||homedns.gumeniuk.com^
 ||home.f7b6h9.tk^
@@ -2017,6 +2013,7 @@
 ||home.wriedts.de^
 ||hoofoo.icu^
 ||hooliganska.duckdns.org^
+||horns.world^
 ||host.dlun.tk^
 ||hostedadguard.greatharts.com^
 ||housedenolf.be^
@@ -2070,6 +2067,7 @@
 ||irre.li^
 ||i.solutics.ec^
 ||itlikehell.ru^
+||itnerden.no^
 ||it-pal-w-1.nashkan.net^
 ||ivanromanov.ru^
 ||ivnkn.xyz^
@@ -2087,6 +2085,7 @@
 ||jit.ddns.net^
 ||jjm.asia^
 ||jkdsm.com^
+||joannalee.asuscomm.com^
 ||jonasdevries.de^
 ||jonesboyz.duckdns.org^
 ||joy096speed.pp.ua^
@@ -2132,8 +2131,6 @@
 ||kendentil.org.uk^
 ||kenit.me^
 ||kennethhuang.com^
-||kent6.ajaest.net^
-||kent6.dyn.ajaest.net^
 ||kerio.dns.amigo-mgn.ru^
 ||keymiagar.ir^
 ||khsan.com^
@@ -2192,6 +2189,7 @@
 ||leecurrylawfirm.com^
 ||lekdijk.online^
 ||lelux.fi^
+||lemonpiesite.duckdns.org^
 ||lena.fb.i81.ru^
 ||leochen-dns.ddns.net^
 ||levislondon-proxy.nerdpol.ovh^
@@ -2277,7 +2275,6 @@
 ||mimile.despagne.ovh^
 ||mimir.netwerk.io^
 ||minilla.store^
-||mitron.one^
 ||mkrepair.ddns.net^
 ||mo0on15.com^
 ||mocha.r.rnet.ie^
@@ -2308,6 +2305,7 @@
 ||mykewl.pro^
 ||myownadguard.ovh^
 ||mypihole.hopto.org^
+||mysabeendns.hopto.org^
 ||mysys.net^
 ||mzs1.ddns.net^
 ||n0.eu^
@@ -2476,6 +2474,7 @@
 ||outie.8ws.net^
 ||outiejr.8ws.net^
 ||overwatch.ddns.net^
+||ovh.panszelescik.pl^
 ||owa.elshad-adgh-dns.ru^
 ||owa.promsdns.com^
 ||p0.freedns.controld.com^
@@ -2508,6 +2507,7 @@
 ||phucbui.top^
 ||pi1.node15.com^
 ||pi.daryllswer.net^
+||piekacz.pl^
 ||pihole1.hoerli.net^
 ||pihole2.hoerli.net^
 ||pihole3.hoerli.net^
@@ -2780,7 +2780,6 @@
 ||steff.sbs^
 ||storage.jjlizz.com^
 ||storydoh.kinergetica.com^
-||strata.gurupannu.com^
 ||stream.securely.sh^
 ||streltsov.net^
 ||stuxen.duckdns.org^
@@ -2793,7 +2792,6 @@
 ||sv.oispace.eu.org^
 ||sweethome.in.eu.org^
 ||switch.ch^
-||swoletux.ave.zone^
 ||syd1.norgannetworks.net.au^
 ||syd.adfilter.net^
 ||syd.core.access.zznet.fun^
@@ -2870,6 +2868,7 @@
 ||ua-kyv-w-1.nashkan.net^
 ||ublock-dns-resolver-01.swedencentral.cloudapp.azure.com^
 ||ublock-dns-resolver-02.northeurope.cloudapp.azure.com^
+||ublock-dns-resolver-03.westeurope.cloudapp.azure.com^
 ||ueni.dyndns.org^
 ||uk01.dns4me.net^
 ||uk.adhole.org^
@@ -2941,7 +2940,6 @@
 ||v2.xx3210766.live^
 ||v3.passby.ga^
 ||v6.rubyfish.cn^
-||vador.sillundil.ovh^
 ||valis.sx^
 ||vallecerroazul.com^
 ||valleverde.icu^
