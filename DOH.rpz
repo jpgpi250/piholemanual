@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2307150347 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2307160351 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2023-07-15 03:47:33 (UTC)
+; Last updated: 2023-07-16 03:51:28 (UTC)
 ;
 ; See https://jpgpi250.github.io/piholemanual/doc/Unbound%20response%20policy%20zones.pdf
 ; Report issues at https://github.com/jpgpi250/piholemanual/issues
@@ -28,6 +28,7 @@ $TTL 30
 13qnpxtzym14adjlrcub15.sergeykobzar.com.ua CNAME .
 140.238.202.136.sslip.io CNAME .
 15815d9ce5f441edaa1f33f62761ff16.pacloudflare.com CNAME .
+180.0rz.space CNAME .
 1and1-dns.de CNAME .
 1a.ns.ozer.im CNAME .
 1b.ns.ozer.im CNAME .
@@ -740,6 +741,7 @@ dns.010812.xyz CNAME .
 dns01.almir1904.eu CNAME .
 dns01.flm9.net CNAME .
 dns-01.hir.app CNAME .
+dns01.woosahdigitalhosted.com CNAME .
 dns02.almir1904.eu CNAME .
 dns03.almir1904.eu CNAME .
 dns0.eu CNAME .
@@ -770,6 +772,7 @@ dns1.irumatech.com CNAME .
 dns1.klcd.eu CNAME .
 dns1.luan.contact CNAME .
 dns1.n3120.wang CNAME .
+dns1.newapi.host CNAME .
 dns1.nextdns.io CNAME .
 dns1.nielsdb.be CNAME .
 dns1.niub.one CNAME .
@@ -814,6 +817,7 @@ dns2.lfac.ml CNAME .
 dns2.linzefeng.top CNAME .
 dns2.luan.contact CNAME .
 dns2.n3120.wang CNAME .
+dns2.newapi.host CNAME .
 dns2.nextcloudend.info CNAME .
 dns2.nextdns.io CNAME .
 dns2.niub.one CNAME .
@@ -1086,6 +1090,7 @@ dns.foximao.cn CNAME .
 dns.frank-ruan.com CNAME .
 dns.frankychen.me CNAME .
 dns.freegod.ml CNAME .
+dns-free.link CNAME .
 dns.freequensi.com CNAME .
 dns.freyja.pw CNAME .
 dnsfr.markovskilab.com CNAME .
@@ -1349,6 +1354,7 @@ dns-primary.giaan.org CNAME .
 dns.privacy.cm CNAME .
 dns-privacy.puregeni.us CNAME .
 dns.privado.ovh CNAME .
+dns.privdns.org CNAME .
 dns.privilab.net CNAME .
 dns-prod-bc43efde54c7e228.elb.us-east-1.amazonaws.com CNAME .
 dns.proximit.org CNAME .
@@ -1750,6 +1756,7 @@ dominatrix.brandonsli.com CNAME .
 donghovietkid.cloud CNAME .
 dop.privatedns.org CNAME .
 do.shimul.me CNAME .
+dosvid.tk CNAME .
 dot1.applied-privacy.net CNAME .
 dot1.appliedprivacy.net CNAME .
 dot.360.cn CNAME .
@@ -1872,6 +1879,7 @@ family.cloudflaredns.com CNAME .
 family.dns.vladpro.ru CNAME .
 family-filter-dns.cleanbrowsing.org CNAME .
 family.freedns.controld.com CNAME .
+family.privdns.org CNAME .
 faradns.net CNAME .
 fatia.org CNAME .
 fb.i81.ru CNAME .
@@ -2393,7 +2401,6 @@ new.nhunor.com CNAME .
 next.miao.ninja CNAME .
 ngc0226.ddns.net CNAME .
 ng-lag-w-1.nashkan.net CNAME .
-nhatlong.work CNAME .
 nicktruehome.ddns.net CNAME .
 nilanjan.me CNAME .
 nilanjan.rocks CNAME .
@@ -2603,6 +2610,7 @@ private-dns.ddns.net CNAME .
 private.sunday.eu.org CNAME .
 private.supplies.eu.org CNAME .
 privatnas.servebeer.com CNAME .
+privdns.duckdns.org CNAME .
 privdns.org CNAME .
 project-evoex.de CNAME .
 promsdns.com CNAME .
@@ -2818,6 +2826,7 @@ skww726.cf CNAME .
 skyline.vvvvvei.win CNAME .
 sky.rethinkdns.com CNAME .
 slambenchmarking.buzz CNAME .
+sm5q237c0.g666gle.me CNAME .
 smtp.greppie.nl CNAME .
 soay38us0r7goa7.cmsdp.my.id CNAME .
 soeding.ddnss.de CNAME .
