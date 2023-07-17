@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2023-07-15 04:03:10 (UTC)
+! Last updated: 2023-07-16 04:07:02 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -24,6 +24,7 @@
 ||13qnpxtzym14adjlrcub15.sergeykobzar.com.ua^
 ||140.238.202.136.sslip.io^
 ||15815d9ce5f441edaa1f33f62761ff16.pacloudflare.com^
+||180.0rz.space^
 ||1and1-dns.de^
 ||1a.ns.ozer.im^
 ||1b.ns.ozer.im^
@@ -736,6 +737,7 @@
 ||dns01.almir1904.eu^
 ||dns01.flm9.net^
 ||dns-01.hir.app^
+||dns01.woosahdigitalhosted.com^
 ||dns02.almir1904.eu^
 ||dns03.almir1904.eu^
 ||dns0.eu^
@@ -766,6 +768,7 @@
 ||dns1.klcd.eu^
 ||dns1.luan.contact^
 ||dns1.n3120.wang^
+||dns1.newapi.host^
 ||dns1.nextdns.io^
 ||dns1.nielsdb.be^
 ||dns1.niub.one^
@@ -810,6 +813,7 @@
 ||dns2.linzefeng.top^
 ||dns2.luan.contact^
 ||dns2.n3120.wang^
+||dns2.newapi.host^
 ||dns2.nextcloudend.info^
 ||dns2.nextdns.io^
 ||dns2.niub.one^
@@ -1082,6 +1086,7 @@
 ||dns.frank-ruan.com^
 ||dns.frankychen.me^
 ||dns.freegod.ml^
+||dns-free.link^
 ||dns.freequensi.com^
 ||dns.freyja.pw^
 ||dnsfr.markovskilab.com^
@@ -1345,6 +1350,7 @@
 ||dns.privacy.cm^
 ||dns-privacy.puregeni.us^
 ||dns.privado.ovh^
+||dns.privdns.org^
 ||dns.privilab.net^
 ||dns-prod-bc43efde54c7e228.elb.us-east-1.amazonaws.com^
 ||dns.proximit.org^
@@ -1746,6 +1752,7 @@
 ||donghovietkid.cloud^
 ||dop.privatedns.org^
 ||do.shimul.me^
+||dosvid.tk^
 ||dot1.applied-privacy.net^
 ||dot1.appliedprivacy.net^
 ||dot.360.cn^
@@ -1868,6 +1875,7 @@
 ||family.dns.vladpro.ru^
 ||family-filter-dns.cleanbrowsing.org^
 ||family.freedns.controld.com^
+||family.privdns.org^
 ||faradns.net^
 ||fatia.org^
 ||fb.i81.ru^
@@ -2389,7 +2397,6 @@
 ||next.miao.ninja^
 ||ngc0226.ddns.net^
 ||ng-lag-w-1.nashkan.net^
-||nhatlong.work^
 ||nicktruehome.ddns.net^
 ||nilanjan.me^
 ||nilanjan.rocks^
@@ -2599,6 +2606,7 @@
 ||private.sunday.eu.org^
 ||private.supplies.eu.org^
 ||privatnas.servebeer.com^
+||privdns.duckdns.org^
 ||privdns.org^
 ||project-evoex.de^
 ||promsdns.com^
@@ -2814,6 +2822,7 @@
 ||skyline.vvvvvei.win^
 ||sky.rethinkdns.com^
 ||slambenchmarking.buzz^
+||sm5q237c0.g666gle.me^
 ||smtp.greppie.nl^
 ||soay38us0r7goa7.cmsdp.my.id^
 ||soeding.ddnss.de^
