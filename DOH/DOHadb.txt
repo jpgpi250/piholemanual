@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2023-07-16 04:07:02 (UTC)
+! Last updated: 2023-07-17 03:24:57 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -178,6 +178,7 @@
 ||adguard.demaks.org^
 ||adguard.depieri.net^
 ||adguard.dessoi.cloud^
+||adguard.discounthost.co.uk^
 ||adguard.djay.tk^
 ||adguarddns.otroid.net^
 ||adguard-dns.rouga.ch^
@@ -266,6 +267,7 @@
 ||adguard.oms-ctr.ru^
 ||adguard.ondrejsramek.cz^
 ||adguard.onlyfriends.info^
+||adguard.ota.moe^
 ||adguard.ouate2phoque.ovh^
 ||adguardo.viewdns.net^
 ||adguard.piekacz.pl^
@@ -413,6 +415,7 @@
 ||andrei-se.ru^
 ||andresmanuel.duckdns.org^
 ||andrewnw.xyz^
+||android.hfecr.com^
 ||andz21.dynv6.net^
 ||anggityuls.my.id^
 ||anixlab.com^
@@ -468,7 +471,6 @@
 ||au-syd-w-2.nashkan.net^
 ||au-syd-w-3.nashkan.net^
 ||au.teradns.org^
-||auto-cn-hk-8000.go-behind.one^
 ||autodiscover.elshad-adgh-dns.ru^
 ||autodiscover.promsdns.com^
 ||automaton-mm1.duckdns.org^
@@ -619,7 +621,6 @@
 ||cluster-0.gac.edu^
 ||cluster-1.gac.edu^
 ||c.malicioustation.icu^
-||cname-for-doh.go-behind.one^
 ||cnnic-chinatelecom-chinamobile-chinaunicom--bili-d.dahi.icu^
 ||cnnic-chinatelecom-chinamobile-chinaunicom--bili-d.dahi.icu.cdn.cloudflare.net^
 ||cn.turngreatwall.com^
@@ -810,6 +811,7 @@
 ||dns2.keipert.me^
 ||dns2.klcd.eu^
 ||dns2.lfac.ml^
+||dns2.lfac.xyz^
 ||dns2.linzefeng.top^
 ||dns2.luan.contact^
 ||dns2.n3120.wang^
@@ -1007,6 +1009,7 @@
 ||dns-de.veho.de^
 ||dns.developer.li^
 ||dns.dgea.fr^
+||dns.digitaladapt.com^
 ||dns.digitale-gesellschaft.ch^
 ||dns.digitalegesellschaft.ch^
 ||dns.digitalsize.net^
@@ -1058,6 +1061,7 @@
 ||dns.eu-frankfurt-1.oci.oraclecloud.com^
 ||dns.eu-frankfurt-1.oci.oraclecloud.net^
 ||dns.eu-frankfurt-1.oraclecloud.com^
+||dns.exitstat.us^
 ||dns.ext4.in^
 ||dns-ext.familiamichels.com.br^
 ||dns.extrawdw.net^
@@ -1199,6 +1203,7 @@
 ||dns.kolar-it.com^
 ||dns.korzhyk.pp.ua^
 ||dns.kosan.moe^
+||dns.kozich.net^
 ||dns.kr.chavy.dev^
 ||dns.krishanshamod.live^
 ||dns.kumar-abhishek.me^
@@ -1394,6 +1399,7 @@
 ||dns.rubyfish.cn^
 ||dns.sac.rebl.eu.org^
 ||dns.safeith.com^
+||dns.sakuraseasons.com^
 ||dns-sandbox-3291100252b8f52b.elb.us-east-1.amazonaws.com^
 ||dns.sarak.as^
 ||dns.sb^
@@ -1981,7 +1987,6 @@
 ||greppie.nl^
 ||groupy.ga^
 ||groupy.su^
-||gtm-sg-5r538sziu04.go-behind.one^
 ||guardhome.fatihkuyuk.com.tr^
 ||guardians.jenspoelitz.de^
 ||guard.izzledudetech.com^
@@ -2040,6 +2045,7 @@
 ||home-bitteeinbyte.ddns.net^
 ||home.bitteeinbyte.de^
 ||home.bruckmoser.it^
+||home.ddns.network^
 ||home.dlinkddns.com^
 ||homedns.gumeniuk.com^
 ||home.f7b6h9.tk^
@@ -2333,6 +2339,7 @@
 ||mo0on15.com^
 ||moaz-adguard.duckdns.org^
 ||mocha.r.rnet.ie^
+||mojserwer.myasustor.com^
 ||montmorot.duckdns.org^
 ||morbitzer.de^
 ||mozilla.cloudflare-dns.com^
@@ -2397,6 +2404,7 @@
 ||next.miao.ninja^
 ||ngc0226.ddns.net^
 ||ng-lag-w-1.nashkan.net^
+||nhatlong.work^
 ||nicktruehome.ddns.net^
 ||nilanjan.me^
 ||nilanjan.rocks^
@@ -2566,6 +2574,7 @@
 ||phucbui.top^
 ||pi1.node15.com^
 ||pi.daryllswer.net^
+||piekacz.pl^
 ||pihole1.hoerli.net^
 ||pihole2.hoerli.net^
 ||pihole3.hoerli.net^
@@ -2653,6 +2662,7 @@
 ||rdns-a.adtech-it.com^
 ||rdns.faelix.net^
 ||reaperserver.ddns.net^
+||reidun.digitaladapt.com^
 ||remote.sufly.top^
 ||res-acst1.absolight.net^
 ||res-acst2.absolight.net^
@@ -3007,8 +3017,10 @@
 ||v2raye.com^
 ||v2.xm706v.com^
 ||v2.xx3210766.live^
+||v3.passby.eu.org^
 ||v3.passby.ga^
 ||v6.rubyfish.cn^
+||vador.sillundil.ovh^
 ||valis.sx^
 ||vallecerroazul.com^
 ||valleverde.icu^
@@ -3238,7 +3250,6 @@
 ||zak.ath.cx^
 ||zakshinovh.duckdns.org^
 ||zblank.cn^
-||zephyrus.id^
 ||zero.dns0.eu^
 ||zetland.rm-ni.uk^
 ||zougloub.eu^
