@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2023-07-19 03:41:12 (UTC)
+! Last updated: 2023-07-20 03:50:35 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -21,10 +21,10 @@
 ||1.0rz.space^
 ||1111.cloudflare-dns.com^
 ||1.11i.eu^
-||122.859421.xyz^
 ||13qnpxtzym14adjlrcub15.sergeykobzar.com.ua^
 ||140.238.202.136.sslip.io^
 ||15815d9ce5f441edaa1f33f62761ff16.pacloudflare.com^
+||180.0rz.space^
 ||1and1-dns.de^
 ||1a.ns.ozer.im^
 ||1b.ns.ozer.im^
@@ -61,7 +61,6 @@
 ||53.slepov.dev^
 ||6692.giize.com^
 ||77980.bodis.com^
-||878223.parkingcrew.net^
 ||8888.google^
 ||94169.ip-ns.net^
 ||a11.diplo.es^
@@ -155,6 +154,7 @@
 ||adguard.aminetwork.biz^
 ||adguard.avdkishore.dev^
 ||adguard-aws.charraud.eu^
+||adguard-aws.gdmn.dev^
 ||adguard.baltes.info^
 ||adguard.beliefanx.cn^
 ||adguard.beliefanx.me^
@@ -311,6 +311,7 @@
 ||adguard.styxnetwork.org^
 ||adguard.superbest.eu.org^
 ||adguard.taufner.net^
+||adguard.tenkoff.ru^
 ||adguard.tetnet.net^
 ||adguard.thatisfun.in^
 ||adguard.tigrex.net^
@@ -840,6 +841,7 @@
 ||dns3.afastserver.com^
 ||dns.3dcapitaltrust.net^
 ||dns3.h0schi.cloud^
+||dns.3jh.org^
 ||dns3.sas-wres.cc^
 ||dns3.wistarip.com^
 ||dns.4ab.nl^
@@ -1053,6 +1055,7 @@
 ||dns.ekipapi.com^
 ||dns.eknetwork.eu^
 ||dns.eksl.one^
+||dns.electrotm.org^
 ||dns.elemental.software^
 ||dns.ele.xyz^
 ||dns.ellichua.com^
@@ -1433,7 +1436,6 @@
 ||dns.silentlybren.com^
 ||dnssilo.top^
 ||dns.simplylinux.ch^
-||dns.sips.my.id^
 ||dns.siry.de^
 ||dns.skrep.eu^
 ||dns.skrep.in^
@@ -1495,6 +1497,7 @@
 ||dns.uk-london-1.oci.oraclecloud.net^
 ||dns.uk-london-1.oraclecloud.com^
 ||dns-uk.su4ka.icu^
+||dns.umbrella.com^
 ||dns.umbrellapants.xyz^
 ||dns.unerror.network^
 ||dns-unfiltered.adguard.com^
@@ -1889,6 +1892,7 @@
 ||family-filter-dns.cleanbrowsing.org^
 ||family.freedns.controld.com^
 ||family.privdns.org^
+||familyshield.opendns.com^
 ||faradns.net^
 ||fatia.org^
 ||fb.i81.ru^
@@ -1908,7 +1912,6 @@
 ||filter.chyperx.cc^
 ||filya.fb.i81.ru^
 ||findmethedns.info^
-||firefenix.duckdns.org^
 ||firefox.dns.nextdns.io^
 ||firewall.darknet.bg^
 ||fk4mil.pl^
@@ -1931,7 +1934,6 @@
 ||free.shecan.ir^
 ||freeside.wntrmute.net^
 ||freestaila.synology.me^
-||free.svipss.top^
 ||friend.bedro.cloud^
 ||frog.dns.qwer.pw^
 ||frontpace.co.uk^
@@ -1955,6 +1957,7 @@
 ||garage.jjlizz.com^
 ||garanphomai.ga^
 ||gate.oliver-pietsch.de^
+||gateway.baltes.info^
 ||gateway-el.cname.ustclug.org^
 ||gateway.fomichev.cloud^
 ||gb-bir-w-1.nashkan.net^
@@ -2137,7 +2140,6 @@
 ||it-pal-w-1.nashkan.net^
 ||ivanromanov.ru^
 ||ivnkn.xyz^
-||ixhome.ixghzx.ml^
 ||jabber-germany.de^
 ||jabber-server.de^
 ||jackyes.ovh^
@@ -2415,6 +2417,7 @@
 ||next.miao.ninja^
 ||ngc0226.ddns.net^
 ||ng-lag-w-1.nashkan.net^
+||nhatlong.work^
 ||nicktruehome.ddns.net^
 ||nilanjan.me^
 ||nilanjan.rocks^
@@ -2422,6 +2425,7 @@
 ||nl-ams2.doh.sb^
 ||nl-ams.doh.sb^
 ||nl-ams-w-3.nashkan.net^
+||nlb.gbrossi.com.br^
 ||nl.galaskar.ga^
 ||noadsapp.net^
 ||noads.cloud^
@@ -2583,6 +2587,7 @@
 ||phucbui.top^
 ||pi1.node15.com^
 ||pi.daryllswer.net^
+||piekacz.pl^
 ||pihole1.hoerli.net^
 ||pihole2.hoerli.net^
 ||pihole3.hoerli.net^
@@ -2741,6 +2746,7 @@
 ||saikoudns.tk^
 ||sakuraknight2023.top^
 ||sams.adg.siudzinski.net^
+||sandbox.opendns.com^
 ||sannidhya.duckdns.org^
 ||saruman.freeddns.org^
 ||sbdns.co.in^
@@ -2843,6 +2849,7 @@
 ||slambenchmarking.buzz^
 ||sm5q237c0.g666gle.me^
 ||smtp.greppie.nl^
+||snd.jaxif.com^
 ||soay38us0r7goa7.cmsdp.my.id^
 ||soeding.ddnss.de^
 ||solution.w10.life^
@@ -2850,6 +2857,7 @@
 ||spacedns.org^
 ||sradg.eastus.cloudapp.azure.com^
 ||sradminfk.ddns.net^
+||srm.name^
 ||srv1.web-mx.eu^
 ||srv2.data-host.de^
 ||srv5.jiripocta.cz^
@@ -2916,6 +2924,7 @@
 ||thefuturegg.xyz^
 ||the.nafni.one^
 ||think-howling.com^
+||tienpham.id.vn^
 ||tiger.dns.qwer.pw^
 ||timmes.nl^
 ||timothytimothy.cf^
@@ -3034,7 +3043,6 @@
 ||v3.passby.eu.org^
 ||v3.passby.ga^
 ||v6.rubyfish.cn^
-||vador.sillundil.ovh^
 ||valis.sx^
 ||vallecerroazul.com^
 ||valleverde.icu^
@@ -3089,6 +3097,7 @@
 ||vpn.vokuev.org^
 ||vps1.jnraptor.net^
 ||vps2.jnraptor.net^
+||vps4.scho.io^
 ||vps-77f564f3.vps.ovh.us^
 ||vps.alloxr.info^
 ||vps.avc.cx^
