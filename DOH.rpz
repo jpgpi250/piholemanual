@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2307240324 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2307250347 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2023-07-24 03:24:31 (UTC)
+; Last updated: 2023-07-25 03:47:04 (UTC)
 ;
 ; See https://jpgpi250.github.io/piholemanual/doc/Unbound%20response%20policy%20zones.pdf
 ; Report issues at https://github.com/jpgpi250/piholemanual/issues
@@ -28,7 +28,6 @@ $TTL 30
 13qnpxtzym14adjlrcub15.sergeykobzar.com.ua CNAME .
 140.238.202.136.sslip.io CNAME .
 15815d9ce5f441edaa1f33f62761ff16.pacloudflare.com CNAME .
-180.0rz.space CNAME .
 1and1-dns.de CNAME .
 1a.ns.ozer.im CNAME .
 1b.ns.ozer.im CNAME .
@@ -433,6 +432,7 @@ a.ns.dnslify.com CNAME .
 ant.dns.qwer.pw CNAME .
 antidns.s.tuna.tsinghua.edu.cn CNAME .
 anti-tahrim.bazipardaz.com CNAME .
+antivirus.bebasid.com CNAME .
 antonyfrompnz.space CNAME .
 anycast.censurfridns.dk CNAME .
 anycast.censurfridns.nu CNAME .
@@ -482,7 +482,6 @@ au-syd-w-2.nashkan.net CNAME .
 au-syd-w-3.nashkan.net CNAME .
 au.teradns.org CNAME .
 auth.phclinz.de CNAME .
-auto-cn-hk-8000.go-behind.one CNAME .
 autodiscover.elshad-adgh-dns.ru CNAME .
 autodiscover.promsdns.com CNAME .
 automaton-mm1.duckdns.org CNAME .
@@ -636,7 +635,6 @@ clubsv.duckdns.org CNAME .
 cluster-0.gac.edu CNAME .
 cluster-1.gac.edu CNAME .
 c.malicioustation.icu CNAME .
-cname-for-doh.go-behind.one CNAME .
 cnnic-chinatelecom-chinamobile-chinaunicom--bili-d.dahi.icu CNAME .
 cnnic-chinatelecom-chinamobile-chinaunicom--bili-d.dahi.icu.cdn.cloudflare.net CNAME .
 cn.turngreatwall.com CNAME .
@@ -1978,7 +1976,6 @@ gaoadmin.win CNAME .
 garage.jjlizz.com CNAME .
 garanphomai.ga CNAME .
 gate.oliver-pietsch.de CNAME .
-gateway.baltes.info CNAME .
 gateway-el.cname.ustclug.org CNAME .
 gateway.fomichev.cloud CNAME .
 gb-bir-w-1.nashkan.net CNAME .
@@ -2020,7 +2017,6 @@ greenhamadguard.com.au CNAME .
 greppie.nl CNAME .
 groupy.ga CNAME .
 groupy.su CNAME .
-gtm-sg-5r538sziu04.go-behind.one CNAME .
 guardhome.fatihkuyuk.com.tr CNAME .
 guardians.jenspoelitz.de CNAME .
 guard.izzledudetech.com CNAME .
@@ -2041,7 +2037,6 @@ hanahira.dev CNAME .
 haswell-www.a.guindehi.ch CNAME .
 hcu.icu CNAME .
 hc.xiwen1988.top CNAME .
-heimdall.ff0x.ca CNAME .
 helios.plan9-dns.com CNAME .
 helios.plan9dns.com CNAME .
 hellojonathan.xyz CNAME .
@@ -2445,7 +2440,6 @@ new.nhunor.com CNAME .
 next.miao.ninja CNAME .
 ngc0226.ddns.net CNAME .
 ng-lag-w-1.nashkan.net CNAME .
-nhatlong.work CNAME .
 nicktruehome.ddns.net CNAME .
 nilanjan.me CNAME .
 nilanjan.rocks CNAME .
@@ -2552,7 +2546,6 @@ olivier-adguard.duckdns.org CNAME .
 one.nafni.one CNAME .
 one.one.one.one CNAME .
 onevps-dns.pivb.vip CNAME .
-onlyfriends.info CNAME .
 o--o.duckdns.org CNAME .
 opencdn.jomodns.com CNAME .
 open.dns0.eu CNAME .
@@ -2948,6 +2941,7 @@ testaghome.meshkov.info CNAME .
 testdjango.live CNAME .
 test.dnsteam.globuscs.info CNAME .
 test.fatucloud.gosprout.org CNAME .
+tezoi.duckdns.org CNAME .
 thanh933.cf CNAME .
 thanos.pleumkungz.com CNAME .
 thebeloveduck.duckdns.org CNAME .
