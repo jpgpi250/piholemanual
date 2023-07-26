@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2023-07-24 03:42:59 (UTC)
+! Last updated: 2023-07-25 04:05:19 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -24,7 +24,6 @@
 ||13qnpxtzym14adjlrcub15.sergeykobzar.com.ua^
 ||140.238.202.136.sslip.io^
 ||15815d9ce5f441edaa1f33f62761ff16.pacloudflare.com^
-||180.0rz.space^
 ||1and1-dns.de^
 ||1a.ns.ozer.im^
 ||1b.ns.ozer.im^
@@ -429,6 +428,7 @@
 ||ant.dns.qwer.pw^
 ||antidns.s.tuna.tsinghua.edu.cn^
 ||anti-tahrim.bazipardaz.com^
+||antivirus.bebasid.com^
 ||antonyfrompnz.space^
 ||anycast.censurfridns.dk^
 ||anycast.censurfridns.nu^
@@ -478,7 +478,6 @@
 ||au-syd-w-3.nashkan.net^
 ||au.teradns.org^
 ||auth.phclinz.de^
-||auto-cn-hk-8000.go-behind.one^
 ||autodiscover.elshad-adgh-dns.ru^
 ||autodiscover.promsdns.com^
 ||automaton-mm1.duckdns.org^
@@ -632,7 +631,6 @@
 ||cluster-0.gac.edu^
 ||cluster-1.gac.edu^
 ||c.malicioustation.icu^
-||cname-for-doh.go-behind.one^
 ||cnnic-chinatelecom-chinamobile-chinaunicom--bili-d.dahi.icu^
 ||cnnic-chinatelecom-chinamobile-chinaunicom--bili-d.dahi.icu.cdn.cloudflare.net^
 ||cn.turngreatwall.com^
@@ -1974,7 +1972,6 @@
 ||garage.jjlizz.com^
 ||garanphomai.ga^
 ||gate.oliver-pietsch.de^
-||gateway.baltes.info^
 ||gateway-el.cname.ustclug.org^
 ||gateway.fomichev.cloud^
 ||gb-bir-w-1.nashkan.net^
@@ -2016,7 +2013,6 @@
 ||greppie.nl^
 ||groupy.ga^
 ||groupy.su^
-||gtm-sg-5r538sziu04.go-behind.one^
 ||guardhome.fatihkuyuk.com.tr^
 ||guardians.jenspoelitz.de^
 ||guard.izzledudetech.com^
@@ -2037,7 +2033,6 @@
 ||haswell-www.a.guindehi.ch^
 ||hcu.icu^
 ||hc.xiwen1988.top^
-||heimdall.ff0x.ca^
 ||helios.plan9-dns.com^
 ||helios.plan9dns.com^
 ||hellojonathan.xyz^
@@ -2441,7 +2436,6 @@
 ||next.miao.ninja^
 ||ngc0226.ddns.net^
 ||ng-lag-w-1.nashkan.net^
-||nhatlong.work^
 ||nicktruehome.ddns.net^
 ||nilanjan.me^
 ||nilanjan.rocks^
@@ -2548,7 +2542,6 @@
 ||one.nafni.one^
 ||one.one.one.one^
 ||onevps-dns.pivb.vip^
-||onlyfriends.info^
 ||o--o.duckdns.org^
 ||opencdn.jomodns.com^
 ||open.dns0.eu^
@@ -2944,6 +2937,7 @@
 ||testdjango.live^
 ||test.dnsteam.globuscs.info^
 ||test.fatucloud.gosprout.org^
+||tezoi.duckdns.org^
 ||thanh933.cf^
 ||thanos.pleumkungz.com^
 ||thebeloveduck.duckdns.org^
