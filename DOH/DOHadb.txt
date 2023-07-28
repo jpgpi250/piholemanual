@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2023-07-26 03:07:19 (UTC)
+! Last updated: 2023-07-27 03:16:17 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -3306,6 +3306,7 @@
 ||zak.ath.cx^
 ||zakshinovh.duckdns.org^
 ||zblank.cn^
+||zephyrus.id^
 ||zero.dns0.eu^
 ||zetland.rm-ni.uk^
 ||zougloub.eu^
