@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2023-07-27 03:16:17 (UTC)
+! Last updated: 2023-07-28 03:27:36 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -202,6 +202,7 @@
 ||adguard.fresh-waffles.online^
 ||adguard.gambini.org^
 ||adguard.gbrossi.com.br^
+||adguard.gouasmi.site^
 ||adguard.grantbruneau.com^
 ||adguard.green1052.com^
 ||adguard.haneulo.com^
@@ -422,6 +423,7 @@
 ||android.hfecr.com^
 ||andz21.dynv6.net^
 ||anggityuls.my.id^
+||anhphamhn82.uk^
 ||anixlab.com^
 ||an.kanahanazawa.com^
 ||an.loliconapp.top^
@@ -450,8 +452,6 @@
 ||arespctw.tk^
 ||argon.molinero.dev^
 ||arkadia100.pl^
-||arm2.nzcow.com^
-||arm3.nzcow.com^
 ||armorrush.eu.org^
 ||as17820865.click^
 ||a.safe.ns.dnslify.com^
@@ -478,7 +478,6 @@
 ||au-syd-w-2.nashkan.net^
 ||au-syd-w-3.nashkan.net^
 ||au.teradns.org^
-||auth.phclinz.de^
 ||auto-cn-hk-8000.go-behind.one^
 ||autodiscover.elshad-adgh-dns.ru^
 ||autodiscover.promsdns.com^
@@ -671,7 +670,6 @@
 ||d3.shabi.icu^
 ||d3.supremum.io^
 ||dac-one.nayemador.com^
-||d.adguard-dns.com^
 ||daisukivn.asuscomm.com^
 ||dakulov.synology.me^
 ||dandelionsprout.asuscomm.com^
@@ -685,7 +683,6 @@
 ||daswieddodeushtuhaw.xyz^
 ||davidcampos.duckdns.org^
 ||davidzeh.eu.org^
-||dawnings.cn^
 ||dbbs.dns.databyte-network.com^
 ||dclab.live^
 ||ddd2.loukky.com^
@@ -907,6 +904,7 @@
 ||dns.ambiya.net^
 ||dns.amigo-mgn.ru^
 ||dns-ams.pdf-docs.ru^
+||dns.amxd.de^
 ||dns.andrewnw.xyz^
 ||dns.andreykiv.com^
 ||dns.anonymous.pw^
@@ -1450,6 +1448,7 @@
 ||dnssilo.top^
 ||dns.simplylinux.ch^
 ||dns.siry.de^
+||dns.sitdns.com^
 ||dns.skrep.eu^
 ||dns.skrep.in^
 ||dns.skrzypiec.pl^
@@ -1851,7 +1850,6 @@
 ||dub.r.rnet.ie^
 ||ducphuclee.tech^
 ||dukun.de^
-||dumbledore.steinr.eu^
 ||dupatruwi22.fun^
 ||dus.ysbs.uk^
 ||duyyen.cf^
@@ -2222,8 +2220,6 @@
 ||kendentil.org.uk^
 ||kenit.me^
 ||kennethhuang.com^
-||kent6.ajaest.net^
-||kent6.dyn.ajaest.net^
 ||kerio.dns.amigo-mgn.ru^
 ||keymiagar.ir^
 ||khsan.com^
@@ -2370,7 +2366,6 @@
 ||mimile.despagne.ovh^
 ||mimir.netwerk.io^
 ||minilla.store^
-||mitron.one^
 ||mkrepair.ddns.net^
 ||mo0on15.com^
 ||moaz-adguard.duckdns.org^
@@ -2628,6 +2623,7 @@
 ||pistada.com^
 ||pitnetdns.ga^
 ||pixie.porkbun.com^
+||plantationlight.ddns.net^
 ||planty.ddns.us^
 ||plex.i.solutics.ec^
 ||pliszka.ml^
@@ -2899,7 +2895,6 @@
 ||steff.sbs^
 ||storage.jjlizz.com^
 ||storydoh.kinergetica.com^
-||strata.gurupannu.com^
 ||stream.securely.sh^
 ||streltsov.net^
 ||stuxen.duckdns.org^
@@ -2912,7 +2907,6 @@
 ||sv.oispace.eu.org^
 ||sweethome.in.eu.org^
 ||switch.ch^
-||swoletux.ave.zone^
 ||syd1.norgannetworks.net.au^
 ||syd.adfilter.net^
 ||syd.core.access.zznet.fun^
@@ -3071,7 +3065,6 @@
 ||v3.passby.eu.org^
 ||v3.passby.ga^
 ||v6.rubyfish.cn^
-||vador.sillundil.ovh^
 ||valis.sx^
 ||vallecerroazul.com^
 ||valleverde.icu^
