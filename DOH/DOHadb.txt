@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2023-07-28 03:27:36 (UTC)
+! Last updated: 2023-07-29 03:32:00 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -163,6 +163,7 @@
 ||adguard.borgwardtech.net^
 ||adguard.brandonsli.com^
 ||adguard.bwasson.com^
+||adguard.cepenjak.com^
 ||adguard.chanhome.xyz^
 ||adguard.chriskutschker.de^
 ||adguard.clawsucht.nrw^
@@ -210,6 +211,7 @@
 ||adguardhom.ddns.net^
 ||adguardhome.atakorah.com^
 ||adguardhome.dev^
+||adguardhome.eastasia.cloudapp.azure.com^
 ||adguardhome.fr.couli.fr^
 ||adguardhome.kirmanak.gq^
 ||adguardhome.lukemulvaney.com^
@@ -219,6 +221,7 @@
 ||adguard-home.server-on.net^
 ||adguardhome.takkunn.pgw.jp^
 ||adguardhome-vps.couli.fr^
+||adguardhome.westeurope.cloudapp.azure.com^
 ||adguardhulst.duckdns.org^
 ||adguard.ihatemy.live^
 ||adguard.infrapod.nl^
@@ -243,6 +246,7 @@
 ||adguard.kss.ovh^
 ||adguard.lalantha.xyz^
 ||adguard.laurenlaufman.com^
+||adguard.lchao.me^
 ||adguard.lege.despagne.net^
 ||adguard.lilis.xin^
 ||adguard.lspcr.space^
@@ -431,7 +435,6 @@
 ||ant.dns.qwer.pw^
 ||antidns.s.tuna.tsinghua.edu.cn^
 ||anti-tahrim.bazipardaz.com^
-||antivirus.bebasid.com^
 ||antonyfrompnz.space^
 ||anycast.censurfridns.dk^
 ||anycast.censurfridns.nu^
@@ -559,6 +562,7 @@
 ||bw.i81.ru^
 ||bytant.link^
 ||c1.ownvps.ml^
+||c1.yydsgod.eu.org^
 ||c3.ownvps.ml^
 ||c4.ownvps.ml^
 ||c5.ownvps.ml^
@@ -634,7 +638,6 @@
 ||c.malicioustation.icu^
 ||cname-for-doh.go-behind.one^
 ||cnnic-chinatelecom-chinamobile-chinaunicom--bili-d.dahi.icu^
-||cnnic-chinatelecom-chinamobile-chinaunicom--bili-d.dahi.icu.cdn.cloudflare.net^
 ||cn.turngreatwall.com^
 ||colean.go.ro^
 ||commons.host^
@@ -920,7 +923,6 @@
 ||dns.api.test.globuscs.info^
 ||dns.aquilenet.fr^
 ||dns.arapurayil.com^
-||dns.arroudlohgpg.site^
 ||dns.artikel10.org^
 ||dns.asdw.fun^
 ||dns.asf1992labs.tk^
@@ -1227,6 +1229,7 @@
 ||dns.kozich.net^
 ||dns.kr.chavy.dev^
 ||dns.krishanshamod.live^
+||dns.kriswerry.nl^
 ||dns.krol.cloud^
 ||dns.kumar-abhishek.me^
 ||dns.kutovoy.dev^
@@ -1474,6 +1477,7 @@
 ||dns.switch.ch^
 ||dns.syaifullah.com^
 ||dns.t53.de^
+||dns.tacomafia.net^
 ||dns.tapawan.ca^
 ||dns.teaminfo.fr^
 ||dns.techcpu.net^
@@ -1540,6 +1544,7 @@
 ||dnsvs.duckdns.org^
 ||dns.wakgood.net^
 ||dns.walshnet.co.uk^
+||dns.wang.art^
 ||dns.warexify.com^
 ||dns.wargan.io^
 ||dns.warpnine.de^
@@ -1983,6 +1988,7 @@
 ||gb-lon-w-5.nashkan.net^
 ||gclouddns.com^
 ||gcplog.seggs.cn^
+||gcp.tacomafia.net^
 ||ge.libaced.one^
 ||genscorp.es^
 ||georgia.ddns.net^
@@ -2043,6 +2049,7 @@
 ||heoyun.com^
 ||hermes.ohai.ca^
 ||hewittnet.us^
+||h.gjrick.tw^
 ||hgns.harriganhome.ga^
 ||hi.greatpiller.shop^
 ||hitian.me^
@@ -2075,9 +2082,9 @@
 ||home-bitteeinbyte.ddns.net^
 ||home.bitteeinbyte.de^
 ||home.bruckmoser.it^
-||home.ddns.network^
 ||home.dlinkddns.com^
 ||homedns.gumeniuk.com^
+||homeemoh.ddns.net^
 ||home.f7b6h9.tk^
 ||home.fc.idv.tw^
 ||home.firefenix.cf^
@@ -2450,6 +2457,7 @@
 ||noads.cloud^
 ||noads.dns.vladpro.ru^
 ||noads.imbuffering.com^
+||node3.b4el.ru^
 ||nongdanthanky.com^
 ||no-osl-w-1.nashkan.net^
 ||note11.diplo.es^
@@ -2583,6 +2591,7 @@
 ||p549314cd.dip0.t-ipconnect.de^
 ||pacificrack.rczcm.com^
 ||pad3w.pp.ua^
+||padermail.net^
 ||paimon.sev.monster^
 ||pair02-02.ihatemy.live^
 ||palazzoddns.tk^
@@ -2852,7 +2861,6 @@
 ||singapore.fuckll.com^
 ||sink.nolo.ltd^
 ||sip.amigo-mgn.ru^
-||sips.my.id^
 ||sitdns.com^
 ||site-1.duckdns.org^
 ||site-2.duckdns.org^
