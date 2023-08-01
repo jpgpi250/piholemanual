@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2023-07-30 03:23:57 (UTC)
+! Last updated: 2023-07-31 03:25:41 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -433,7 +433,6 @@
 ||an.loliconapp.top^
 ||a.ns.dnslify.com^
 ||ant.dns.qwer.pw^
-||antidns.s.tuna.tsinghua.edu.cn^
 ||anti-tahrim.bazipardaz.com^
 ||antonyfrompnz.space^
 ||anycast.censurfridns.dk^
@@ -484,6 +483,7 @@
 ||au-syd-w-3.nashkan.net^
 ||au.teradns.org^
 ||auth.phclinz.de^
+||auto-cn-hk-8000.go-behind.one^
 ||autodiscover.elshad-adgh-dns.ru^
 ||autodiscover.promsdns.com^
 ||automaton-mm1.duckdns.org^
@@ -638,6 +638,7 @@
 ||cluster-0.gac.edu^
 ||cluster-1.gac.edu^
 ||c.malicioustation.icu^
+||cname-for-doh.go-behind.one^
 ||cnnic-chinatelecom-chinamobile-chinaunicom--bili-d.dahi.icu^
 ||cn.turngreatwall.com^
 ||colean.go.ro^
@@ -2025,6 +2026,7 @@
 ||greppie.nl^
 ||groupy.ga^
 ||groupy.su^
+||gtm-sg-5r538sziu04.go-behind.one^
 ||guardhome.fatihkuyuk.com.tr^
 ||guardians.jenspoelitz.de^
 ||guard.izzledudetech.com^
@@ -2569,6 +2571,7 @@
 ||open-resolver1.unima.ac.id^
 ||opera.cloudflare-dns.com^
 ||ora1.nocnik.org^
+||oracle2.herry.dev^
 ||oracle5.losfa.xyz^
 ||oracle6.losfa.xyz^
 ||oracle.cepheus0.com^
