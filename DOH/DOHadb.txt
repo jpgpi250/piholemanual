@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2023-07-31 03:25:41 (UTC)
+! Last updated: 2023-08-01 03:18:56 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -433,6 +433,7 @@
 ||an.loliconapp.top^
 ||a.ns.dnslify.com^
 ||ant.dns.qwer.pw^
+||antidns.s.tuna.tsinghua.edu.cn^
 ||anti-tahrim.bazipardaz.com^
 ||antonyfrompnz.space^
 ||anycast.censurfridns.dk^
@@ -2801,7 +2802,6 @@
 ||secureadguarddns.charleslondon.online^
 ||secure.anudeep.me^
 ||secure.avastdns.com^
-||secure-dns.dns-ga.de^
 ||securedns.vendorvista.xyz^
 ||securenet.mhsystems.net^
 ||secure.onedns.cc^
