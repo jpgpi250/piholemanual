@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2023-08-01 03:18:56 (UTC)
+! Last updated: 2023-08-02 03:45:49 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -75,6 +75,7 @@
 ||ad2.heronet.nl^
 ||ad.aghaaliagha.tk^
 ||adampowell.pro^
+||adb.aadityakushwaha.com^
 ||adb-home.xaoimoon.fr^
 ||adblock.any.dns.nixnet.xyz^
 ||adblock.borjalopez.eu^
@@ -314,6 +315,7 @@
 ||adguard.spyrisk.fr^
 ||adguard.sscw.win^
 ||adguard.stealbit.com^
+||adguard.streamlas.fr^
 ||adguard.styxnetwork.org^
 ||adguard.superbest.eu.org^
 ||adguard.taufner.net^
@@ -335,6 +337,7 @@
 ||adguard.youshitsune.tech^
 ||adguard.zachitect.com^
 ||adg.yuzi.one^
+||adg.yybyy.wiki^
 ||adh.blogcuahieu.com^
 ||adh.haoqing.site^
 ||adh.sigma.monster^
@@ -455,8 +458,6 @@
 ||arespctw.tk^
 ||argon.molinero.dev^
 ||arkadia100.pl^
-||arm2.nzcow.com^
-||arm3.nzcow.com^
 ||armorrush.eu.org^
 ||as17820865.click^
 ||a.safe.ns.dnslify.com^
@@ -483,7 +484,6 @@
 ||au-syd-w-2.nashkan.net^
 ||au-syd-w-3.nashkan.net^
 ||au.teradns.org^
-||auth.phclinz.de^
 ||auto-cn-hk-8000.go-behind.one^
 ||autodiscover.elshad-adgh-dns.ru^
 ||autodiscover.promsdns.com^
@@ -623,6 +623,7 @@
 ||clearweb.woodbridge.club^
 ||clientdns3.softcom.net^
 ||cloud10.ownvps.ml^
+||cloud.198.games^
 ||cloud6.ownvps.ml^
 ||cloud8.ownvps.ml^
 ||cloud.centralgenerator.net^
@@ -676,7 +677,6 @@
 ||d3.shabi.icu^
 ||d3.supremum.io^
 ||dac-one.nayemador.com^
-||d.adguard-dns.com^
 ||daisukivn.asuscomm.com^
 ||dakulov.synology.me^
 ||dandelionsprout.asuscomm.com^
@@ -690,7 +690,6 @@
 ||daswieddodeushtuhaw.xyz^
 ||davidcampos.duckdns.org^
 ||davidzeh.eu.org^
-||dawnings.cn^
 ||dbbs.dns.databyte-network.com^
 ||dclab.live^
 ||ddd2.loukky.com^
@@ -800,6 +799,7 @@
 ||dns1.ryan-palmer.com^
 ||dns1.ryanpalmer.com^
 ||dns1.sarak.as^
+||dns1.sarakas.net^
 ||dns1-secure.wifire.it^
 ||dns1.slvrsrvr.de^
 ||dns1.steering.nextdns.io^
@@ -844,7 +844,9 @@
 ||dns2.porteii.com^
 ||dns2.quickline.ch^
 ||dns2.rhscz.eu^
+||dns2.saferbfc.org^
 ||dns2.sarak.as^
+||dns2.sarakas.net^
 ||dns2.sas-wres.cc^
 ||dns2.srv-home.fr^
 ||dns2.steering.nextdns.io^
@@ -928,6 +930,7 @@
 ||dns.api.test.globuscs.info^
 ||dns.aquilenet.fr^
 ||dns.arapurayil.com^
+||dns.ares-taiwan.com^
 ||dns.artikel10.org^
 ||dns.asdw.fun^
 ||dns.asf1992labs.tk^
@@ -1075,6 +1078,7 @@
 ||dns.electrotm.org^
 ||dns.elemental.software^
 ||dns.ele.xyz^
+||dns.elhabhab.com^
 ||dns.ellichua.com^
 ||dns.emeraldonion.org^
 ||dns.emiliyan.com^
@@ -1141,6 +1145,7 @@
 ||dns.grusdas.net^
 ||dns-guard1.cryptroute.com^
 ||dns-guard2.cryptroute.com^
+||dns.guoxueziyuan.com^
 ||dns.h0me.cc^
 ||dns.h0schi.cloud^
 ||dns.h81.pl^
@@ -1209,6 +1214,7 @@
 ||dns.jungle-im.ir^
 ||dns.junhengyun.com^
 ||dns.jupitr.cc^
+||dns.jupitrdns.com^
 ||dns.jupitrdns.net^
 ||dns.just-hosting.net^
 ||dns.justinnetworkingsolutions.com^
@@ -1247,6 +1253,7 @@
 ||dns.larsdebruin.net^
 ||dns.lars-lehmann.net^
 ||dns.lat-team.com^
+||dns.lehonganh.id.vn^
 ||dns.lfac.ml^
 ||dns.lfac.xyz^
 ||dns.lgprk.com^
@@ -1431,6 +1438,7 @@
 ||dns.sakuraseasons.com^
 ||dns-sandbox-3291100252b8f52b.elb.us-east-1.amazonaws.com^
 ||dns.sarak.as^
+||dns.sarakas.net^
 ||dns.sb^
 ||dns.sbstructure.ir^
 ||dns.scapetical.com^
@@ -1439,6 +1447,7 @@
 ||dnsse.alekberg.net^
 ||dns-secondary.cloudnx.cloud^
 ||dns-secure.wifire.it^
+||dnss.egormix.com^
 ||dns.sellan.fr^
 ||dnsse-noads.alekberg.net^
 ||dnssenoads.alekberg.net^
@@ -1562,6 +1571,7 @@
 ||dns.wellstsai.com^
 ||dns.wevpn.com^
 ||dns.why4free.top^
+||dns.wibenson.cloud^
 ||dns.williamlwu.com^
 ||dns.wkwkwk.fun^
 ||dns.wns.watch^
@@ -1860,7 +1870,6 @@
 ||dub.r.rnet.ie^
 ||ducphuclee.tech^
 ||dukun.de^
-||dumbledore.steinr.eu^
 ||dupatruwi22.fun^
 ||dus.ysbs.uk^
 ||duyyen.cf^
@@ -1904,6 +1913,7 @@
 ||europe.avastdns.com^
 ||europe.doh.sb^
 ||europe-west.avastdns.com^
+||everovpn.co^
 ||eweyo-de1.duckdns.org^
 ||eweyo.duckdns.org^
 ||eweyo.ru^
@@ -1987,6 +1997,7 @@
 ||gateway.baltes.info^
 ||gateway-el.cname.ustclug.org^
 ||gateway.fomichev.cloud^
+||gateway.mcebox.com^
 ||gb-bir-w-1.nashkan.net^
 ||gb-cov-w-1.nashkan.net^
 ||gb-lon-w-1.nashkan.net^
@@ -2088,7 +2099,6 @@
 ||home-bitteeinbyte.ddns.net^
 ||home.bitteeinbyte.de^
 ||home.bruckmoser.it^
-||home.ddns.network^
 ||home.dlinkddns.com^
 ||homedns.gumeniuk.com^
 ||homeemoh.ddns.net^
@@ -2214,6 +2224,7 @@
 ||jupiter1013.tk^
 ||jurre-home.duckdns.org^
 ||justfor.myasustor.com^
+||justhost.bedro.cloud^
 ||justlife.fun^
 ||k03vds.duckdns.org^
 ||k0rtus-gg.ru^
@@ -2234,8 +2245,6 @@
 ||kendentil.org.uk^
 ||kenit.me^
 ||kennethhuang.com^
-||kent6.ajaest.net^
-||kent6.dyn.ajaest.net^
 ||kerio.dns.amigo-mgn.ru^
 ||keymiagar.ir^
 ||khsan.com^
@@ -2340,6 +2349,7 @@
 ||mail.elshad-adgh-dns.ru^
 ||mailer.amlegion.org^
 ||mail-ext.extrageneric.com^
+||mailkyb.co^
 ||mail.pragmasec.nl^
 ||mail.promsdns.com^
 ||mainframe.dewed.de^
@@ -2382,7 +2392,6 @@
 ||mimile.despagne.ovh^
 ||mimir.netwerk.io^
 ||minilla.store^
-||mitron.one^
 ||mkrepair.ddns.net^
 ||mo0on15.com^
 ||moaz-adguard.duckdns.org^
@@ -2450,6 +2459,7 @@
 ||neptune.alpo.me^
 ||neta.a-desg.cc^
 ||netherlands.plumedns.com^
+||newlibrarian.myqnapcloud.com^
 ||new.nhunor.com^
 ||next.miao.ninja^
 ||ngc0226.ddns.net^
@@ -2789,6 +2799,7 @@
 ||sannidhya.duckdns.org^
 ||saruman.freeddns.org^
 ||sbdns.co.in^
+||sb.nanhang.xyz^
 ||sby-doh.limotelu.org^
 ||sbydoh.limotelu.org^
 ||scrole.shop^
@@ -2870,7 +2881,6 @@
 ||singapore.fuckll.com^
 ||sink.nolo.ltd^
 ||sip.amigo-mgn.ru^
-||sips.my.id^
 ||sitdns.com^
 ||site-1.duckdns.org^
 ||site-2.duckdns.org^
@@ -2903,6 +2913,7 @@
 ||srv-revprox-01.atakorah.com^
 ||s.salome.my.id^
 ||ssh-storage.ru^
+||ssydb.gq^
 ||staging.dnsteam.globuscs.info^
 ||stalent.ovh^
 ||standard.kxy.ink^
@@ -2913,7 +2924,6 @@
 ||steff.sbs^
 ||storage.jjlizz.com^
 ||storydoh.kinergetica.com^
-||strata.gurupannu.com^
 ||stream.securely.sh^
 ||streltsov.net^
 ||stuxen.duckdns.org^
@@ -2926,7 +2936,6 @@
 ||sv.oispace.eu.org^
 ||sweethome.in.eu.org^
 ||switch.ch^
-||swoletux.ave.zone^
 ||syd1.norgannetworks.net.au^
 ||syd.adfilter.net^
 ||syd.core.access.zznet.fun^
@@ -3085,7 +3094,6 @@
 ||v3.passby.eu.org^
 ||v3.passby.ga^
 ||v6.rubyfish.cn^
-||vador.sillundil.ovh^
 ||valis.sx^
 ||vallecerroazul.com^
 ||valleverde.icu^
