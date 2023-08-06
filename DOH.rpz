@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2308050309 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2308060308 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2023-08-05 03:09:02 (UTC)
+; Last updated: 2023-08-06 03:08:12 (UTC)
 ;
 ; See https://jpgpi250.github.io/piholemanual/doc/Unbound%20response%20policy%20zones.pdf
 ; Report issues at https://github.com/jpgpi250/piholemanual/issues
@@ -2209,7 +2209,6 @@ ivnkn.xyz CNAME .
 jabber-germany.de CNAME .
 jabber-server.de CNAME .
 jackyes.ovh CNAME .
-jammerxd.dev CNAME .
 jarjar.meganerd.nl CNAME .
 jatadguardhome.duckdns.org CNAME .
 jaye.sh CNAME .
@@ -2304,7 +2303,6 @@ kr.pigs.eu.org CNAME .
 kr-sel.doh.sb CNAME .
 krtekvpn.duckdns.org CNAME .
 kr.telex.app CNAME .
-ks1.plop.cc CNAME .
 k-s-edition.ru CNAME .
 ksedns.ru CNAME .
 kswro.web.id CNAME .
@@ -2667,6 +2665,7 @@ photo.dehb.ru CNAME .
 phucbui.top CNAME .
 pi1.node15.com CNAME .
 pi.daryllswer.net CNAME .
+piekacz.pl CNAME .
 pihole1.hoerli.net CNAME .
 pihole2.hoerli.net CNAME .
 pihole3.hoerli.net CNAME .
@@ -2750,6 +2749,7 @@ ray1.wewa.work CNAME .
 ray3.wewa.work CNAME .
 rayneau.fr CNAME .
 rblade.asuscomm.com CNAME .
+rdjcloud.duckdns.org CNAME .
 rdjdns.ajraspi.xyz CNAME .
 rdns-a.adtech-it.com CNAME .
 rdns.faelix.net CNAME .
@@ -2826,7 +2826,6 @@ saikoudns.tk CNAME .
 sakuraknight2023.top CNAME .
 sams.adg.siudzinski.net CNAME .
 sandbox.opendns.com CNAME .
-sannidhya.duckdns.org CNAME .
 saruman.freeddns.org CNAME .
 sbdns.co.in CNAME .
 sb.nanhang.xyz CNAME .
@@ -3000,7 +2999,6 @@ testaghome.meshkov.info CNAME .
 testdjango.live CNAME .
 test.dnsteam.globuscs.info CNAME .
 test.fatucloud.gosprout.org CNAME .
-tezoi.duckdns.org CNAME .
 thanh933.cf CNAME .
 thanos.pleumkungz.com CNAME .
 thebeloveduck.duckdns.org CNAME .
