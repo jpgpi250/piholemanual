@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2308080259 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2308090301 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2023-08-08 02:59:36 (UTC)
+; Last updated: 2023-08-09 03:01:58 (UTC)
 ;
 ; See https://jpgpi250.github.io/piholemanual/doc/Unbound%20response%20policy%20zones.pdf
 ; Report issues at https://github.com/jpgpi250/piholemanual/issues
@@ -27,6 +27,7 @@ $TTL 30
 1.11i.eu CNAME .
 13qnpxtzym14adjlrcub15.sergeykobzar.com.ua CNAME .
 140.238.202.136.sslip.io CNAME .
+15815d9ce5f441edaa1f33f62761ff16.pacloudflare.com CNAME .
 180.0rz.space CNAME .
 1and1-dns.de CNAME .
 1a.ns.ozer.im CNAME .
@@ -607,7 +608,6 @@ cdzopi.duckdns.org CNAME .
 cedricreitz.com CNAME .
 ch01adguardho.me CNAME .
 chandr1000.net CNAME .
-chanhome.xyz CNAME .
 chaos.altendorfme.com CNAME .
 chaos-system.de CNAME .
 cheema.com.pk CNAME .
@@ -1281,6 +1281,7 @@ dns.linkr.ninja CNAME .
 dns.liumuze.org CNAME .
 dns.ljq87.top CNAME .
 dns.loony-tech.de CNAME .
+dns.l.ovpn.bond CNAME .
 dnslow.me CNAME .
 dns.lsho.top CNAME .
 dns.luan.contact CNAME .
@@ -2519,7 +2520,6 @@ ns.00dani.me CNAME .
 ns01.hostrocket.com.ua CNAME .
 ns01.lflemming.space CNAME .
 ns0.fdn.fr CNAME .
-ns.0.l.ovpn.bond CNAME .
 ns1.1899.com.mx CNAME .
 ns1.95997.ip-ns.net CNAME .
 ns1.bit-trails.nl CNAME .
@@ -2643,7 +2643,6 @@ pacificrack.rczcm.com CNAME .
 pad3w.pp.ua CNAME .
 padermail.net CNAME .
 paimon.sev.monster CNAME .
-pair02-02.ihatemy.live CNAME .
 palazzoddns.tk CNAME .
 paskam.tk CNAME .
 pass12335.myds.me CNAME .
@@ -2667,7 +2666,6 @@ photo.dehb.ru CNAME .
 phucbui.top CNAME .
 pi1.node15.com CNAME .
 pi.daryllswer.net CNAME .
-piekacz.pl CNAME .
 pihole1.hoerli.net CNAME .
 pihole2.hoerli.net CNAME .
 pihole3.hoerli.net CNAME .
@@ -3189,8 +3187,8 @@ vpn-tw.teng.sh CNAME .
 vpn.vokuev.org CNAME .
 vps1.jnraptor.net CNAME .
 vps2.jnraptor.net CNAME .
+vps-33e5a7f3.vps.ovh.us CNAME .
 vps4.scho.io CNAME .
-vps-77f564f3.vps.ovh.us CNAME .
 vps.alloxr.info CNAME .
 vps.avc.cx CNAME .
 vpservice.cf CNAME .
