@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2023-08-08 03:18:02 (UTC)
+! Last updated: 2023-08-09 03:20:33 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -23,6 +23,7 @@
 ||1.11i.eu^
 ||13qnpxtzym14adjlrcub15.sergeykobzar.com.ua^
 ||140.238.202.136.sslip.io^
+||15815d9ce5f441edaa1f33f62761ff16.pacloudflare.com^
 ||180.0rz.space^
 ||1and1-dns.de^
 ||1a.ns.ozer.im^
@@ -603,7 +604,6 @@
 ||cedricreitz.com^
 ||ch01adguardho.me^
 ||chandr1000.net^
-||chanhome.xyz^
 ||chaos.altendorfme.com^
 ||chaos-system.de^
 ||cheema.com.pk^
@@ -1277,6 +1277,7 @@
 ||dns.liumuze.org^
 ||dns.ljq87.top^
 ||dns.loony-tech.de^
+||dns.l.ovpn.bond^
 ||dnslow.me^
 ||dns.lsho.top^
 ||dns.luan.contact^
@@ -2515,7 +2516,6 @@
 ||ns01.hostrocket.com.ua^
 ||ns01.lflemming.space^
 ||ns0.fdn.fr^
-||ns.0.l.ovpn.bond^
 ||ns1.1899.com.mx^
 ||ns1.95997.ip-ns.net^
 ||ns1.bit-trails.nl^
@@ -2639,7 +2639,6 @@
 ||pad3w.pp.ua^
 ||padermail.net^
 ||paimon.sev.monster^
-||pair02-02.ihatemy.live^
 ||palazzoddns.tk^
 ||paskam.tk^
 ||pass12335.myds.me^
@@ -2663,7 +2662,6 @@
 ||phucbui.top^
 ||pi1.node15.com^
 ||pi.daryllswer.net^
-||piekacz.pl^
 ||pihole1.hoerli.net^
 ||pihole2.hoerli.net^
 ||pihole3.hoerli.net^
@@ -3185,8 +3183,8 @@
 ||vpn.vokuev.org^
 ||vps1.jnraptor.net^
 ||vps2.jnraptor.net^
+||vps-33e5a7f3.vps.ovh.us^
 ||vps4.scho.io^
-||vps-77f564f3.vps.ovh.us^
 ||vps.alloxr.info^
 ||vps.avc.cx^
 ||vpservice.cf^
