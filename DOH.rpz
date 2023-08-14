@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2308130344 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2308140313 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2023-08-13 03:44:09 (UTC)
+; Last updated: 2023-08-14 03:13:44 (UTC)
 ;
 ; See https://jpgpi250.github.io/piholemanual/doc/Unbound%20response%20policy%20zones.pdf
 ; Report issues at https://github.com/jpgpi250/piholemanual/issues
@@ -209,6 +209,7 @@ adguard.frece.de CNAME .
 adguard.fresh-waffles.online CNAME .
 adguard.gambini.org CNAME .
 adguard.gbrossi.com.br CNAME .
+adguard.gewete.cloud CNAME .
 adguard.gouasmi.site CNAME .
 adguard.grantbruneau.com CNAME .
 adguard.green1052.com CNAME .
@@ -360,6 +361,7 @@ ad.nods.in CNAME .
 adns.kreonet.net CNAME .
 adns.lighthousemd.co CNAME .
 adns.onlinetools.rocks CNAME .
+ad.orvvkoi.date CNAME .
 ads-doh.securedns.eu CNAME .
 ads-eu.landgame.net CNAME .
 adsfree.ddns.net CNAME .
@@ -871,6 +873,7 @@ dns2.steering.nextdns.io CNAME .
 dns2.superstefan.ml CNAME .
 dns2.sytes.net CNAME .
 dns.2t9.de CNAME .
+dns-2.trust2it.ch CNAME .
 dns2.vinc.me CNAME .
 dns2vps.porteii.com CNAME .
 dns3.afastserver.com CNAME .
@@ -1158,6 +1161,7 @@ dns.ghexu.com CNAME .
 dns.ghost.pm CNAME .
 dns.gi.co.id CNAME .
 dns.ginovs.nl CNAME .
+dns.giorgiooppo.it CNAME .
 dns.glorydns.com CNAME .
 dns.gnb09.id CNAME .
 dns.gochance.link CNAME .
@@ -2043,6 +2047,7 @@ gaoadmin.win CNAME .
 garage.jjlizz.com CNAME .
 garanphomai.ga CNAME .
 gate.oliver-pietsch.de CNAME .
+gateway.baltes.info CNAME .
 gateway-el.cname.ustclug.org CNAME .
 gateway.fomichev.cloud CNAME .
 gateway.mcebox.com CNAME .
@@ -2150,6 +2155,7 @@ home.basthorst.eu CNAME .
 home-bitteeinbyte.ddns.net CNAME .
 home.bitteeinbyte.de CNAME .
 home.bruckmoser.it CNAME .
+home.ddns.network CNAME .
 home.dlinkddns.com CNAME .
 homedns.gumeniuk.com CNAME .
 homeemoh.ddns.net CNAME .
@@ -2332,6 +2338,7 @@ kr.pigs.eu.org CNAME .
 kr-sel.doh.sb CNAME .
 krtekvpn.duckdns.org CNAME .
 kr.telex.app CNAME .
+kr-x64-2.lov.host CNAME .
 ks1.plop.cc CNAME .
 k-s-edition.ru CNAME .
 ksedns.ru CNAME .
@@ -2439,6 +2446,7 @@ meiju444.tk CNAME .
 melbicom-server.site CNAME .
 meudns.minhacasainteligente.cf CNAME .
 mg.zbr2464.buzz CNAME .
+mia.dns4sec.com CNAME .
 michiganska.com CNAME .
 mikatos.de CNAME .
 mikewaddick.com CNAME .
@@ -2527,6 +2535,7 @@ ninny.duckdns.org CNAME .
 nl-ams2.doh.sb CNAME .
 nl-ams.doh.sb CNAME .
 nl-ams-w-3.nashkan.net CNAME .
+nlb.gbrossi.com.br CNAME .
 nl.galaskar.ga CNAME .
 noadsapp.net CNAME .
 noads.cloud CNAME .
@@ -2588,7 +2597,9 @@ ns.dnsviewer.org CNAME .
 nsec.arnor.org CNAME .
 ns.hjk.kr CNAME .
 ns.hjk.me CNAME .
+ns.lov.host CNAME .
 ns.mtsoln.com CNAME .
+ns.postoverall.xyz CNAME .
 ns.ral9005.org CNAME .
 ns.slynx.net CNAME .
 ns.solutics.ec CNAME .
@@ -2629,6 +2640,7 @@ olivier-adguard.duckdns.org CNAME .
 one.nafni.one CNAME .
 one.one.one.one CNAME .
 onevps-dns.pivb.vip CNAME .
+onlyfriends.info CNAME .
 o--o.duckdns.org CNAME .
 opencdn.jomodns.com CNAME .
 open.dns0.eu CNAME .
@@ -2670,6 +2682,7 @@ pacificrack.rczcm.com CNAME .
 pad3w.pp.ua CNAME .
 padermail.net CNAME .
 paimon.sev.monster CNAME .
+pair02-02.ihatemy.live CNAME .
 palazzoddns.tk CNAME .
 paskam.tk CNAME .
 pass12335.myds.me CNAME .
@@ -2678,9 +2691,11 @@ pccoach.ddns.net CNAME .
 pcd96.duckdns.org CNAME .
 pc.dns.adguard.beltoev.ru CNAME .
 pcgo.fun CNAME .
+pcjco.ovh CNAME .
 pcornet.freeboxos.fr CNAME .
 pdns.faelix.net CNAME .
 pdns.fatlab.llc CNAME .
+pdns.itxe.net CNAME .
 p.dns.sh-box.ru CNAME .
 pedo.sektehalodavid.click CNAME .
 per.adfilter.net CNAME .
@@ -2945,6 +2960,7 @@ sin.core.access.zznet.fun CNAME .
 singapore.fuckll.com CNAME .
 sink.nolo.ltd CNAME .
 sip.amigo-mgn.ru CNAME .
+sips.my.id CNAME .
 sitdns.com CNAME .
 site-1.duckdns.org CNAME .
 site-2.duckdns.org CNAME .
@@ -3176,6 +3192,7 @@ virga.pp.ua CNAME .
 virmamp33.sytes.net CNAME .
 visitoid.online CNAME .
 v.itsa.cc CNAME .
+vlad1.cryptoguard.su CNAME .
 vlad.dns.amigo-mgn.ru CNAME .
 vlad.dns.vladpro.ru CNAME .
 vladpro.ru CNAME .
@@ -3332,6 +3349,7 @@ www.nocfmc.cc CNAME .
 www.olivier-raspberrypi.changeip.org CNAME .
 www.ovpn.bond CNAME .
 www.paskam.tk CNAME .
+www.pcjco.ovh CNAME .
 www.pi1plus.duckdns.org CNAME .
 www.promsdns.com CNAME .
 www.pukanuragan.ru CNAME .
