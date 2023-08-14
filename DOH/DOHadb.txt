@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2023-08-12 03:37:36 (UTC)
+! Last updated: 2023-08-13 04:02:59 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -22,8 +22,8 @@
 ||1111.cloudflare-dns.com^
 ||1.11i.eu^
 ||13qnpxtzym14adjlrcub15.sergeykobzar.com.ua^
-||140.238.202.136.sslip.io^
 ||15815d9ce5f441edaa1f33f62761ff16.pacloudflare.com^
+||180.0rz.space^
 ||1and1-dns.de^
 ||1a.ns.ozer.im^
 ||1b.ns.ozer.im^
@@ -50,6 +50,7 @@
 ||2.dns.noridev.moe^
 ||2wired.hopto.org^
 ||3.11i.eu^
+||317252.xyz^
 ||360.233py.com^
 ||360dns.pub^
 ||3krkr.tonedtanya.com^
@@ -110,6 +111,7 @@
 ||adgh.catfluori.de^
 ||adg.herry.dev^
 ||adgh.laufan.cn^
+||adghome.joeszef.com^
 ||adghome.joseph.com.ph^
 ||adghs.de^
 ||adgh.skyview.click^
@@ -206,6 +208,7 @@
 ||adguard.gouasmi.site^
 ||adguard.grantbruneau.com^
 ||adguard.green1052.com^
+||adguard.hack3r.de^
 ||adguard.haneulo.com^
 ||adguardh.ga^
 ||adguardhom.ddns.net^
@@ -251,6 +254,7 @@
 ||adguard.lilis.xin^
 ||adguard.lspcr.space^
 ||adguard.mapor.co^
+||adguard.marto.si^
 ||adguard.mattiafenzi.uk^
 ||adguard.meddy94.de^
 ||adguard.metahost.co.za^
@@ -926,6 +930,7 @@
 ||dns.amigo-mgn.ru^
 ||dns-ams.pdf-docs.ru^
 ||dns.amxd.de^
+||dns.analyticshopsystemblock.top^
 ||dns.andrewnw.xyz^
 ||dns.andreykiv.com^
 ||dns.anonymous.pw^
@@ -999,6 +1004,7 @@
 ||dns.cearhome.top^
 ||dns.cfiec.net^
 ||dns.chadeyron.fr^
+||dns.chaosen3.co.uk^
 ||dns.chenu.ch^
 ||dns.chinh.tk^
 ||dns.chriscsc.me^
@@ -1204,6 +1210,7 @@
 ||dns.inforlogia.com^
 ||dns.infosec.xyz^
 ||dns.insec.link^
+||dns.internal.espresso-tasse.de^
 ||dns.internal.hosmatic.com^
 ||dns.invisv.com^
 ||dns.ipegg.top^
@@ -1337,6 +1344,7 @@
 ||dns.mzrme.cn^
 ||dns.n23.io^
 ||dns.narl.app^
+||dns.nashi.us.to^
 ||dns.nas-server.ru^
 ||dns.nayemador.com^
 ||dns.ndo.dev^
@@ -1351,6 +1359,7 @@
 ||dns.nieto.app^
 ||dns.nietostuff.com^
 ||dns.nikolagjorgjijoski.com^
+||dns.ningkelle.id^
 ||dns.nixnet.xyz^
 ||dns.njal.la^
 ||dnsnl.alekberg.net^
@@ -1441,6 +1450,7 @@
 ||dns.rasks.ru^
 ||dns.rasp.tv^
 ||dns.rassadnikov.ru^
+||dns.rayanbab.com^
 ||dns.reckoningslug.name^
 ||dns.redroot.me^
 ||dns.req1.fr^
@@ -1514,6 +1524,7 @@
 ||dns-sv-id01.aucnier.my.id^
 ||dns-sv-my01.aucnier.my.id^
 ||dns.swehosting.se^
+||dns.swin.pro^
 ||dns.switch.ch^
 ||dns.syaifullah.com^
 ||dns.t53.de^
@@ -1530,7 +1541,7 @@
 ||dns.thierryserver.nl^
 ||dns.thore.cloud^
 ||dns.timboeh.me^
-||dns.timochan.cn^
+||dns.timvo.net^
 ||dns.tipsy.coffee^
 ||dns.tkhome.nl^
 ||dns-tls.bitwiseshift.net^
@@ -1764,6 +1775,7 @@
 ||doh.micronets.in^
 ||doh.mmmalia.com^
 ||doh.moeyk.com^
+||doh.morizt.id^
 ||doh.mullvad.net^
 ||doh.nala.ru^
 ||doh.neowutran.ovh^
@@ -1852,7 +1864,6 @@
 ||dot.es.ahadns.net^
 ||dot.ffmuc.net^
 ||dot-fi.blahdns.com^
-||dot.futa.gg^
 ||doth.huque.com^
 ||dot.in.ahadns.net^
 ||dot.it.ahadns.net^
@@ -1924,6 +1935,7 @@
 ||elez-wq.github.io^
 ||eliatofani.ovh^
 ||elshad-adgh-dns.ru^
+||emby.rasp.tv^
 ||emmmmm.me^
 ||emozee.cf^
 ||end.pub^
@@ -2027,7 +2039,6 @@
 ||garage.jjlizz.com^
 ||garanphomai.ga^
 ||gate.oliver-pietsch.de^
-||gateway.baltes.info^
 ||gateway-el.cname.ustclug.org^
 ||gateway.fomichev.cloud^
 ||gateway.mcebox.com^
@@ -2037,6 +2048,7 @@
 ||gb-lon-w-4.nashkan.net^
 ||gb-lon-w-5.nashkan.net^
 ||gclouddns.com^
+||gc.nocfmc.cc^
 ||gcplog.seggs.cn^
 ||gcp.tacomafia.net^
 ||ge.libaced.one^
@@ -2168,6 +2180,7 @@
 ||httpdns.meituan.com^
 ||httpdns-push.heytapmobile.com^
 ||httpdns-sc.aliyuncs.com^
+||huaweicloud-dns.itbbs.org^
 ||hubertdns.com^
 ||hubsora.eastasia.cloudapp.azure.com^
 ||hyperspace.toxopeus.it^
@@ -2222,6 +2235,7 @@
 ||jabber-germany.de^
 ||jabber-server.de^
 ||jackyes.ovh^
+||james-solomon.com^
 ||jarjar.meganerd.nl^
 ||jatadguardhome.duckdns.org^
 ||jaye.sh^
@@ -2509,7 +2523,6 @@
 ||nl-ams2.doh.sb^
 ||nl-ams.doh.sb^
 ||nl-ams-w-3.nashkan.net^
-||nlb.gbrossi.com.br^
 ||nl.galaskar.ga^
 ||noadsapp.net^
 ||noads.cloud^
@@ -2612,7 +2625,6 @@
 ||one.nafni.one^
 ||one.one.one.one^
 ||onevps-dns.pivb.vip^
-||onlyfriends.info^
 ||o--o.duckdns.org^
 ||opencdn.jomodns.com^
 ||open.dns0.eu^
@@ -2654,7 +2666,6 @@
 ||pad3w.pp.ua^
 ||padermail.net^
 ||paimon.sev.monster^
-||pair02-02.ihatemy.live^
 ||palazzoddns.tk^
 ||paskam.tk^
 ||pass12335.myds.me^
@@ -2854,6 +2865,7 @@
 ||sdvizhkov.ru^
 ||seanyan.ddns.net^
 ||seaofbits.com^
+||secforads3.ch^
 ||secondary-dns.victorhachard.fr^
 ||secure-4ud.de^
 ||secureadguarddns.charleslondon.online^
@@ -2929,7 +2941,6 @@
 ||singapore.fuckll.com^
 ||sink.nolo.ltd^
 ||sip.amigo-mgn.ru^
-||sips.my.id^
 ||sitdns.com^
 ||site-1.duckdns.org^
 ||site-2.duckdns.org^
@@ -3144,7 +3155,6 @@
 ||v3.passby.eu.org^
 ||v3.passby.ga^
 ||v6.rubyfish.cn^
-||vador.sillundil.ovh^
 ||valis.sx^
 ||vallecerroazul.com^
 ||valleverde.icu^
@@ -3204,6 +3214,7 @@
 ||vps4.scho.io^
 ||vps.alloxr.info^
 ||vps.avc.cx^
+||vpschito.duckdns.org^
 ||vpservice.cf^
 ||vps.fleuryk.ovh^
 ||vps.grussenmeyer.com^
@@ -3248,6 +3259,7 @@
 ||www.91557.cn^
 ||www.acomit.lk^
 ||www.adguard.chriskutschker.de^
+||www.adguard.marto.si^
 ||www.adguard-server.cf^
 ||www.agafon.site^
 ||www.agafon.space^
@@ -3313,12 +3325,15 @@
 ||www.myadguardhome.me^
 ||www.nilanjan.rocks^
 ||www.nocfmc.cc^
+||www.olivier-raspberrypi.changeip.org^
 ||www.ovpn.bond^
 ||www.paskam.tk^
+||www.pi1plus.duckdns.org^
 ||www.promsdns.com^
 ||www.pukanuragan.ru^
 ||www.qwenty.ru^
 ||www.radiac.xyz^
+||www.secforads3.ch^
 ||www.sergeykobzar.com.ua^
 ||www.sitdns.com^
 ||www.skillzdns.ru^
