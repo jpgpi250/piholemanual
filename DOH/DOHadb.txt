@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2023-08-13 04:02:59 (UTC)
+! Last updated: 2023-08-14 03:32:32 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -205,6 +205,7 @@
 ||adguard.fresh-waffles.online^
 ||adguard.gambini.org^
 ||adguard.gbrossi.com.br^
+||adguard.gewete.cloud^
 ||adguard.gouasmi.site^
 ||adguard.grantbruneau.com^
 ||adguard.green1052.com^
@@ -356,6 +357,7 @@
 ||adns.kreonet.net^
 ||adns.lighthousemd.co^
 ||adns.onlinetools.rocks^
+||ad.orvvkoi.date^
 ||ads-doh.securedns.eu^
 ||ads-eu.landgame.net^
 ||adsfree.ddns.net^
@@ -867,6 +869,7 @@
 ||dns2.superstefan.ml^
 ||dns2.sytes.net^
 ||dns.2t9.de^
+||dns-2.trust2it.ch^
 ||dns2.vinc.me^
 ||dns2vps.porteii.com^
 ||dns3.afastserver.com^
@@ -1154,6 +1157,7 @@
 ||dns.ghost.pm^
 ||dns.gi.co.id^
 ||dns.ginovs.nl^
+||dns.giorgiooppo.it^
 ||dns.glorydns.com^
 ||dns.gnb09.id^
 ||dns.gochance.link^
@@ -2039,6 +2043,7 @@
 ||garage.jjlizz.com^
 ||garanphomai.ga^
 ||gate.oliver-pietsch.de^
+||gateway.baltes.info^
 ||gateway-el.cname.ustclug.org^
 ||gateway.fomichev.cloud^
 ||gateway.mcebox.com^
@@ -2146,6 +2151,7 @@
 ||home-bitteeinbyte.ddns.net^
 ||home.bitteeinbyte.de^
 ||home.bruckmoser.it^
+||home.ddns.network^
 ||home.dlinkddns.com^
 ||homedns.gumeniuk.com^
 ||homeemoh.ddns.net^
@@ -2328,6 +2334,7 @@
 ||kr-sel.doh.sb^
 ||krtekvpn.duckdns.org^
 ||kr.telex.app^
+||kr-x64-2.lov.host^
 ||ks1.plop.cc^
 ||k-s-edition.ru^
 ||ksedns.ru^
@@ -2435,6 +2442,7 @@
 ||melbicom-server.site^
 ||meudns.minhacasainteligente.cf^
 ||mg.zbr2464.buzz^
+||mia.dns4sec.com^
 ||michiganska.com^
 ||mikatos.de^
 ||mikewaddick.com^
@@ -2523,6 +2531,7 @@
 ||nl-ams2.doh.sb^
 ||nl-ams.doh.sb^
 ||nl-ams-w-3.nashkan.net^
+||nlb.gbrossi.com.br^
 ||nl.galaskar.ga^
 ||noadsapp.net^
 ||noads.cloud^
@@ -2584,7 +2593,9 @@
 ||nsec.arnor.org^
 ||ns.hjk.kr^
 ||ns.hjk.me^
+||ns.lov.host^
 ||ns.mtsoln.com^
+||ns.postoverall.xyz^
 ||ns.ral9005.org^
 ||ns.slynx.net^
 ||ns.solutics.ec^
@@ -2625,6 +2636,7 @@
 ||one.nafni.one^
 ||one.one.one.one^
 ||onevps-dns.pivb.vip^
+||onlyfriends.info^
 ||o--o.duckdns.org^
 ||opencdn.jomodns.com^
 ||open.dns0.eu^
@@ -2666,6 +2678,7 @@
 ||pad3w.pp.ua^
 ||padermail.net^
 ||paimon.sev.monster^
+||pair02-02.ihatemy.live^
 ||palazzoddns.tk^
 ||paskam.tk^
 ||pass12335.myds.me^
@@ -2674,9 +2687,11 @@
 ||pcd96.duckdns.org^
 ||pc.dns.adguard.beltoev.ru^
 ||pcgo.fun^
+||pcjco.ovh^
 ||pcornet.freeboxos.fr^
 ||pdns.faelix.net^
 ||pdns.fatlab.llc^
+||pdns.itxe.net^
 ||p.dns.sh-box.ru^
 ||pedo.sektehalodavid.click^
 ||per.adfilter.net^
@@ -2941,6 +2956,7 @@
 ||singapore.fuckll.com^
 ||sink.nolo.ltd^
 ||sip.amigo-mgn.ru^
+||sips.my.id^
 ||sitdns.com^
 ||site-1.duckdns.org^
 ||site-2.duckdns.org^
@@ -3172,6 +3188,7 @@
 ||virmamp33.sytes.net^
 ||visitoid.online^
 ||v.itsa.cc^
+||vlad1.cryptoguard.su^
 ||vlad.dns.amigo-mgn.ru^
 ||vlad.dns.vladpro.ru^
 ||vladpro.ru^
@@ -3328,6 +3345,7 @@
 ||www.olivier-raspberrypi.changeip.org^
 ||www.ovpn.bond^
 ||www.paskam.tk^
+||www.pcjco.ovh^
 ||www.pi1plus.duckdns.org^
 ||www.promsdns.com^
 ||www.pukanuragan.ru^
