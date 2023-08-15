@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2308140313 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2308150317 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2023-08-14 03:13:44 (UTC)
+; Last updated: 2023-08-15 03:17:39 (UTC)
 ;
 ; See https://jpgpi250.github.io/piholemanual/doc/Unbound%20response%20policy%20zones.pdf
 ; Report issues at https://github.com/jpgpi250/piholemanual/issues
@@ -188,8 +188,10 @@ adguard.demaks.org CNAME .
 adguard.depieri.net CNAME .
 adguard.derminecrafter2020.de CNAME .
 adguard.dessoi.cloud CNAME .
+adguard.digitalsewer.com CNAME .
 adguard.discounthost.co.uk CNAME .
 adguard.djay.tk CNAME .
+adguard-dns.eu.org CNAME .
 adguarddns.otroid.net CNAME .
 adguard-dns.rouga.ch CNAME .
 adguard-dns.turker.info CNAME .
@@ -401,6 +403,7 @@ agh.noton.tk CNAME .
 ag.homedevenv.com CNAME .
 ag.hostme.co.il CNAME .
 agh.printk.info CNAME .
+aghvm1.mastomi.id CNAME .
 agh.xinfeng16m.top CNAME .
 ag.linux.repair CNAME .
 ag.marschi.de CNAME .
@@ -420,6 +423,7 @@ akaboom.ru CNAME .
 akhil.ddns.net CNAME .
 akhilkalwakurthy.dyndns.org CNAME .
 akr177.com CNAME .
+akylah.zapto.org CNAME .
 alexpollard.synology.me CNAME .
 alihk-dns.itbbs.org CNAME .
 a.lilinth.com CNAME .
@@ -554,6 +558,7 @@ block.abstergo.it CNAME .
 block.buck.ovh CNAME .
 blockemall.xyz CNAME .
 blockerads.multimediaconcept.fr CNAME .
+blocker.thethorsens.org CNAME .
 block.freegod.ml CNAME .
 blog.kimiblock.top CNAME .
 blokit.esohjay.tk CNAME .
@@ -607,6 +612,7 @@ cc.3eto.com CNAME .
 ccadguard.ddns.net CNAME .
 c-c.eve.surf CNAME .
 c.cicitt.ch CNAME .
+cc.somimobile.com CNAME .
 ccyykk.top CNAME .
 cdn.implementsfreedom.studio CNAME .
 c-dns.com CNAME .
@@ -1972,6 +1978,7 @@ family.adguard-dns.com CNAME .
 family.canadianshield.cira.ca CNAME .
 family.cloudflare-dns.com CNAME .
 family.cloudflaredns.com CNAME .
+family.dns.ningkelle.id CNAME .
 family.dns.vladpro.ru CNAME .
 family-filter-dns.cleanbrowsing.org CNAME .
 family.freedns.controld.com CNAME .
@@ -2400,6 +2407,7 @@ lux.sn0w.nl CNAME .
 lv1.nixnet.xyz CNAME .
 lv-rig-w-1.nashkan.net CNAME .
 lv-rig-w-2.nashkan.net CNAME .
+lwhjszcnzjhz.site CNAME .
 maddino.dedyn.io CNAME .
 madrid.ciscofreak.com CNAME .
 maikel.greppie.nl CNAME .
@@ -3017,6 +3025,7 @@ sv3.minhduc.pw CNAME .
 sv.oispace.eu.org CNAME .
 sweethome.in.eu.org CNAME .
 switch.ch CNAME .
+syd1.norgannetworks.net.au CNAME .
 syd.adfilter.net CNAME .
 syd.core.access.zznet.fun CNAME .
 syd-docker.lspcr.space CNAME .
@@ -3136,6 +3145,7 @@ us-chi-w-1.nashkan.net CNAME .
 us-chi-w-2.nashkan.net CNAME .
 us-chi-w-3.nashkan.net CNAME .
 us-chi-w-4.nashkan.net CNAME .
+usc-vm1-gcp-tomiashari15.mastomi.id CNAME .
 us-dal-w-1.nashkan.net CNAME .
 us-dal-w-3.nashkan.net CNAME .
 us-dal-w-4.nashkan.net CNAME .
