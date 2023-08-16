@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2023-08-14 03:32:32 (UTC)
+! Last updated: 2023-08-15 03:36:44 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -184,8 +184,10 @@
 ||adguard.depieri.net^
 ||adguard.derminecrafter2020.de^
 ||adguard.dessoi.cloud^
+||adguard.digitalsewer.com^
 ||adguard.discounthost.co.uk^
 ||adguard.djay.tk^
+||adguard-dns.eu.org^
 ||adguarddns.otroid.net^
 ||adguard-dns.rouga.ch^
 ||adguard-dns.turker.info^
@@ -397,6 +399,7 @@
 ||ag.homedevenv.com^
 ||ag.hostme.co.il^
 ||agh.printk.info^
+||aghvm1.mastomi.id^
 ||agh.xinfeng16m.top^
 ||ag.linux.repair^
 ||ag.marschi.de^
@@ -416,6 +419,7 @@
 ||akhil.ddns.net^
 ||akhilkalwakurthy.dyndns.org^
 ||akr177.com^
+||akylah.zapto.org^
 ||alexpollard.synology.me^
 ||alihk-dns.itbbs.org^
 ||a.lilinth.com^
@@ -550,6 +554,7 @@
 ||block.buck.ovh^
 ||blockemall.xyz^
 ||blockerads.multimediaconcept.fr^
+||blocker.thethorsens.org^
 ||block.freegod.ml^
 ||blog.kimiblock.top^
 ||blokit.esohjay.tk^
@@ -603,6 +608,7 @@
 ||ccadguard.ddns.net^
 ||c-c.eve.surf^
 ||c.cicitt.ch^
+||cc.somimobile.com^
 ||ccyykk.top^
 ||cdn.implementsfreedom.studio^
 ||c-dns.com^
@@ -1968,6 +1974,7 @@
 ||family.canadianshield.cira.ca^
 ||family.cloudflare-dns.com^
 ||family.cloudflaredns.com^
+||family.dns.ningkelle.id^
 ||family.dns.vladpro.ru^
 ||family-filter-dns.cleanbrowsing.org^
 ||family.freedns.controld.com^
@@ -2396,6 +2403,7 @@
 ||lv1.nixnet.xyz^
 ||lv-rig-w-1.nashkan.net^
 ||lv-rig-w-2.nashkan.net^
+||lwhjszcnzjhz.site^
 ||maddino.dedyn.io^
 ||madrid.ciscofreak.com^
 ||maikel.greppie.nl^
@@ -3013,6 +3021,7 @@
 ||sv.oispace.eu.org^
 ||sweethome.in.eu.org^
 ||switch.ch^
+||syd1.norgannetworks.net.au^
 ||syd.adfilter.net^
 ||syd.core.access.zznet.fun^
 ||syd-docker.lspcr.space^
@@ -3132,6 +3141,7 @@
 ||us-chi-w-2.nashkan.net^
 ||us-chi-w-3.nashkan.net^
 ||us-chi-w-4.nashkan.net^
+||usc-vm1-gcp-tomiashari15.mastomi.id^
 ||us-dal-w-1.nashkan.net^
 ||us-dal-w-3.nashkan.net^
 ||us-dal-w-4.nashkan.net^
