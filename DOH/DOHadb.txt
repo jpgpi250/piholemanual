@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2023-08-16 03:23:17 (UTC)
+! Last updated: 2023-08-17 03:35:06 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -23,7 +23,6 @@
 ||1.11i.eu^
 ||13qnpxtzym14adjlrcub15.sergeykobzar.com.ua^
 ||15815d9ce5f441edaa1f33f62761ff16.pacloudflare.com^
-||180.0rz.space^
 ||1and1-dns.de^
 ||1a.ns.ozer.im^
 ||1b.ns.ozer.im^
@@ -2778,6 +2777,7 @@
 ||public-dns-a.dns.sb^
 ||public-dns-b.dns.sb^
 ||public.dns.iij.jp^
+||publique.gouasmi.site^
 ||pukanuragan.ru^
 ||punono.duckdns.org^
 ||puredns.org^
