@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2023-08-17 03:35:06 (UTC)
+! Last updated: 2023-08-18 03:41:31 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -22,7 +22,9 @@
 ||1111.cloudflare-dns.com^
 ||1.11i.eu^
 ||13qnpxtzym14adjlrcub15.sergeykobzar.com.ua^
+||1438109-cc23219.tw1.ru^
 ||15815d9ce5f441edaa1f33f62761ff16.pacloudflare.com^
+||180.0rz.space^
 ||1and1-dns.de^
 ||1a.ns.ozer.im^
 ||1b.ns.ozer.im^
@@ -264,6 +266,7 @@
 ||adguard.mjanson.de^
 ||adguard.mjthemelancholy.xyz^
 ||adguard.mokocup.cf^
+||adguard.mokocup.dev^
 ||adguard.mrmartian.co^
 ||adguard.mulu.at^
 ||adguard.myddns.me^
@@ -471,8 +474,6 @@
 ||arespctw.tk^
 ||argon.molinero.dev^
 ||arkadia100.pl^
-||arm2.nzcow.com^
-||arm3.nzcow.com^
 ||armorrush.eu.org^
 ||as17820865.click^
 ||a.safe.ns.dnslify.com^
@@ -498,7 +499,6 @@
 ||au-syd-w-2.nashkan.net^
 ||au-syd-w-3.nashkan.net^
 ||au.teradns.org^
-||auth.phclinz.de^
 ||auto-cn-hk-8000.go-behind.one^
 ||autodiscover.elshad-adgh-dns.ru^
 ||autodiscover.promsdns.com^
@@ -542,6 +542,7 @@
 ||bigart-dns.tk^
 ||bili.cccc.cyou^
 ||bilidon.dnsuser.info^
+||b-ipv4.bhadrikais.my.id^
 ||birnenwasser.ddnss.de^
 ||b.jtt.ink^
 ||blackhole.aflr.io^
@@ -554,6 +555,7 @@
 ||blitz-setup.ahadns.com^
 ||block.abstergo.it^
 ||block.buck.ovh^
+||blockdns.tty6335.com^
 ||blockemall.xyz^
 ||blockerads.multimediaconcept.fr^
 ||blocker.thethorsens.org^
@@ -696,7 +698,6 @@
 ||d3.shabi.icu^
 ||d3.supremum.io^
 ||dac-one.nayemador.com^
-||d.adguard-dns.com^
 ||daisukivn.asuscomm.com^
 ||dakulov.synology.me^
 ||dandelionsprout.asuscomm.com^
@@ -710,7 +711,6 @@
 ||daswieddodeushtuhaw.xyz^
 ||davidcampos.duckdns.org^
 ||davidzeh.eu.org^
-||dawnings.cn^
 ||dbbs.dns.databyte-network.com^
 ||dclab.live^
 ||ddd2.loukky.com^
@@ -781,6 +781,7 @@
 ||dns-01.hir.app^
 ||dns01.woosahdigitalhosted.com^
 ||dns02.almir1904.eu^
+||dns02.oceanprint.com.br^
 ||dns03.almir1904.eu^
 ||dns0.eu^
 ||dns.0ooo.icu^
@@ -1337,6 +1338,7 @@
 ||dns.mipauns.com^
 ||dns.mirandil.ru^
 ||dns.misland.net^
+||dns.mocn.top^
 ||dns.moesite.top^
 ||dns.mokyun.cn^
 ||dns.molinero.dev^
@@ -1699,6 +1701,7 @@
 ||doh.au.ahadns.net^
 ||doh.beauty^
 ||doh.best^
+||doh.bhadrikais.my.id^
 ||doh.blahdns.com^
 ||doh.blockerdns.com^
 ||doh.boje8.me^
@@ -1923,7 +1926,6 @@
 ||dub.r.rnet.ie^
 ||ducphuclee.tech^
 ||dukun.de^
-||dumbledore.steinr.eu^
 ||dupatruwi22.fun^
 ||dus.ysbs.uk^
 ||duyyen.cf^
@@ -1937,7 +1939,6 @@
 ||dyn-ip.borjalopez.eu^
 ||ea-dns.rubyfish.cn^
 ||eaereaper.ru^
-||eajtech.com^
 ||easyhandshake.com^
 ||ec2-52-12-183-214.us-west-2.compute.amazonaws.com^
 ||echoe1yidzu4ioo5.myfritz.net^
@@ -1952,6 +1953,7 @@
 ||eliatofani.ovh^
 ||elshad-adgh-dns.ru^
 ||emby.rasp.tv^
+||embyserver.eu.org^
 ||emmmmm.me^
 ||emozee.cf^
 ||end.pub^
@@ -2056,7 +2058,6 @@
 ||garage.jjlizz.com^
 ||garanphomai.ga^
 ||gate.oliver-pietsch.de^
-||gateway.baltes.info^
 ||gateway-el.cname.ustclug.org^
 ||gateway.fomichev.cloud^
 ||gateway.mcebox.com^
@@ -2278,6 +2279,7 @@
 ||jp-dns1.bancuh.com^
 ||jpdns.cola16.app^
 ||jp.dns.ikataruto.com^
+||jpginformatica.com^
 ||jp.gridns.xyz^
 ||jp.hm3.day^
 ||jp.kano.sh^
@@ -2314,8 +2316,6 @@
 ||kendentil.org.uk^
 ||kenit.me^
 ||kennethhuang.com^
-||kent6.ajaest.net^
-||kent6.dyn.ajaest.net^
 ||kerio.dns.amigo-mgn.ru^
 ||keymiagar.ir^
 ||khsan.com^
@@ -2694,7 +2694,6 @@
 ||pad3w.pp.ua^
 ||padermail.net^
 ||paimon.sev.monster^
-||pair02-02.ihatemy.live^
 ||palazzoddns.tk^
 ||paskam.tk^
 ||pass12335.myds.me^
@@ -2925,6 +2924,7 @@
 ||server.felixf.eu^
 ||server.labs.tk^
 ||server.pragmasec.nl^
+||serverrmha1.ddnsku.my.id^
 ||server.unp.im^
 ||server-way.tk^
 ||serveur-yan.synology.me^
@@ -3018,7 +3018,6 @@
 ||steff.sbs^
 ||storage.jjlizz.com^
 ||storydoh.kinergetica.com^
-||strata.gurupannu.com^
 ||stream.securely.sh^
 ||streltsov.net^
 ||stuxen.duckdns.org^
@@ -3031,7 +3030,6 @@
 ||sv.oispace.eu.org^
 ||sweethome.in.eu.org^
 ||switch.ch^
-||swoletux.ave.zone^
 ||syd1.norgannetworks.net.au^
 ||syd.adfilter.net^
 ||syd.core.access.zznet.fun^
@@ -3245,6 +3243,7 @@
 ||vpn-ru-msk.pakharenko.ru^
 ||vpn.rynet.link^
 ||vpn.sakhwow.ru^
+||vpnto.bhadrikais.my.id^
 ||vpn-tw.teng.sh^
 ||vpn.vokuev.org^
 ||vps1.jnraptor.net^
@@ -3276,6 +3275,7 @@
 ||wccw.cc^
 ||wdns.233py.com^
 ||webdock.ccp.giize.com^
+||webmail.jpginformatica.com^
 ||webmeel.pragmasec.nl^
 ||web.pasi.cat^
 ||web-rated.ie^
@@ -3346,6 +3346,7 @@
 ||www.interestingly.eu.org^
 ||www.ivanromanov.ru^
 ||www.jabber-germany.de^
+||www.jpginformatica.com^
 ||www.khsan.com^
 ||www.kintyre.uk^
 ||www.kn10.top^
