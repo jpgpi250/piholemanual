@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2308180322 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2308190325 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2023-08-18 03:22:39 (UTC)
+; Last updated: 2023-08-19 03:25:51 (UTC)
 ;
 ; See https://jpgpi250.github.io/piholemanual/doc/Unbound%20response%20policy%20zones.pdf
 ; Report issues at https://github.com/jpgpi250/piholemanual/issues
@@ -32,6 +32,7 @@ $TTL 30
 1and1-dns.de CNAME .
 1a.ns.ozer.im CNAME .
 1b.ns.ozer.im CNAME .
+1dns.dev CNAME .
 1.dns.noridev.moe CNAME .
 1dot1dot1dot1.cloudflare-dns.com CNAME .
 1dot1dot1dot1.cloudflaredns.com CNAME .
@@ -90,6 +91,7 @@ adblock.doh.mullvad.net CNAME .
 adblock-dot.dnswarden.com CNAME .
 adblock.junacell.my.id CNAME .
 adblock-larssonshus.duckdns.org CNAME .
+adblock.leenit.kr CNAME .
 adblock.lux1.dns.nixnet.xyz CNAME .
 adblock.lv1.dns.nixnet.xyz CNAME .
 adblock.mydns.network CNAME .
@@ -213,6 +215,7 @@ adguard.fresh-waffles.online CNAME .
 adguard.gambini.org CNAME .
 adguard.gbrossi.com.br CNAME .
 adguard.gewete.cloud CNAME .
+adguard.glbd.fr CNAME .
 adguard.gouasmi.site CNAME .
 adguard.grantbruneau.com CNAME .
 adguard.green1052.com CNAME .
@@ -391,6 +394,7 @@ agafon.site CNAME .
 agafon.space CNAME .
 ag.apollohct.com CNAME .
 agathe.tobkar.net CNAME .
+ag.brianlee.fun CNAME .
 ag.crowsnest.id CNAME .
 ag-dns-01.cloud.judsen.io CNAME .
 ag.felixf.eu CNAME .
@@ -1467,6 +1471,7 @@ dns.radityaharya.com CNAME .
 dns.radityaharya.me CNAME .
 dns.rafal.top CNAME .
 dns.rafn.is CNAME .
+dns.ramansarda.com CNAME .
 dns.rasks.ru CNAME .
 dns.rasp.tv CNAME .
 dns.rassadnikov.ru CNAME .
@@ -1489,6 +1494,7 @@ dns.rrinformatica.it CNAME .
 dns.rsnetwork.be CNAME .
 dns.rtin.fyi CNAME .
 dns.rubyfish.cn CNAME .
+dns.s3cure.us CNAME .
 dns.sac.rebl.eu.org CNAME .
 dns.safeith.com CNAME .
 dns.sakuraseasons.com CNAME .
@@ -1503,6 +1509,7 @@ dns.schwaab.me CNAME .
 dnsse.alekberg.net CNAME .
 dns-secondary.cloudnx.cloud CNAME .
 dns-secure.wifire.it CNAME .
+dns.seekfor.top CNAME .
 dnss.egormix.com CNAME .
 dns.sellan.fr CNAME .
 dnsse-noads.alekberg.net CNAME .
@@ -2062,6 +2069,7 @@ gaoadmin.win CNAME .
 garage.jjlizz.com CNAME .
 garanphomai.ga CNAME .
 gate.oliver-pietsch.de CNAME .
+gateway.baltes.info CNAME .
 gateway-el.cname.ustclug.org CNAME .
 gateway.fomichev.cloud CNAME .
 gateway.mcebox.com CNAME .
@@ -2073,7 +2081,6 @@ gb-lon-w-5.nashkan.net CNAME .
 gclouddns.com CNAME .
 gc.nocfmc.cc CNAME .
 gcplog.seggs.cn CNAME .
-gcp.tacomafia.net CNAME .
 ge.libaced.one CNAME .
 genscorp.es CNAME .
 georgia.ddns.net CNAME .
@@ -2633,6 +2640,7 @@ nz01.dns4me.net CNAME .
 nzitdog.onthewifi.com CNAME .
 o1.lt CNAME .
 ociamd1.fatucloud.gosprout.org CNAME .
+oci.tacomafia.net CNAME .
 ocl.smaccs.site CNAME .
 ocp.cincloud.top CNAME .
 oculta.me CNAME .
@@ -2993,6 +3001,7 @@ skww726.cf CNAME .
 skyline.vvvvvei.win CNAME .
 sky.rethinkdns.com CNAME .
 slambenchmarking.buzz CNAME .
+slb.japaneast.cloudapp.azure.com CNAME .
 sm5q237c0.g666gle.me CNAME .
 smtp.greppie.nl CNAME .
 snd.jaxif.com CNAME .
@@ -3001,6 +3010,7 @@ soeding.ddnss.de CNAME .
 solution.w10.life CNAME .
 soncms.id.vn CNAME .
 soncms.me CNAME .
+sorannbb.buzz CNAME .
 spacedns.org CNAME .
 sradg.eastus.cloudapp.azure.com CNAME .
 sradminfk.ddns.net CNAME .
@@ -3194,7 +3204,6 @@ v2.xx3210766.live CNAME .
 v3.passby.eu.org CNAME .
 v3.passby.ga CNAME .
 v6.rubyfish.cn CNAME .
-vador.sillundil.ovh CNAME .
 valis.sx CNAME .
 vallecerroazul.com CNAME .
 valleverde.icu CNAME .
@@ -3267,6 +3276,7 @@ vsrv15195.customer.xenway.de CNAME .
 vudy.ru CNAME .
 vvmm.me CNAME .
 v.yuhui.tk CNAME .
+v.yuwentian.com CNAME .
 w0125ca5.kasserver.com CNAME .
 w5ppr.us CNAME .
 waguns.net CNAME .
@@ -3449,6 +3459,7 @@ zblank.cn CNAME .
 zephyrus.id CNAME .
 zero.dns0.eu CNAME .
 zetland.rm-ni.uk CNAME .
+zh.sorannbb.buzz CNAME .
 zougloub.eu CNAME .
 zrh1-ns01.monzoon.net CNAME .
 zxcvb.pp.ua CNAME .
