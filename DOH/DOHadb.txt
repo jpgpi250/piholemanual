@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2023-08-18 03:41:31 (UTC)
+! Last updated: 2023-08-19 03:44:58 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -28,6 +28,7 @@
 ||1and1-dns.de^
 ||1a.ns.ozer.im^
 ||1b.ns.ozer.im^
+||1dns.dev^
 ||1.dns.noridev.moe^
 ||1dot1dot1dot1.cloudflare-dns.com^
 ||1dot1dot1dot1.cloudflaredns.com^
@@ -86,6 +87,7 @@
 ||adblock-dot.dnswarden.com^
 ||adblock.junacell.my.id^
 ||adblock-larssonshus.duckdns.org^
+||adblock.leenit.kr^
 ||adblock.lux1.dns.nixnet.xyz^
 ||adblock.lv1.dns.nixnet.xyz^
 ||adblock.mydns.network^
@@ -209,6 +211,7 @@
 ||adguard.gambini.org^
 ||adguard.gbrossi.com.br^
 ||adguard.gewete.cloud^
+||adguard.glbd.fr^
 ||adguard.gouasmi.site^
 ||adguard.grantbruneau.com^
 ||adguard.green1052.com^
@@ -387,6 +390,7 @@
 ||agafon.space^
 ||ag.apollohct.com^
 ||agathe.tobkar.net^
+||ag.brianlee.fun^
 ||ag.crowsnest.id^
 ||ag-dns-01.cloud.judsen.io^
 ||ag.felixf.eu^
@@ -1463,6 +1467,7 @@
 ||dns.radityaharya.me^
 ||dns.rafal.top^
 ||dns.rafn.is^
+||dns.ramansarda.com^
 ||dns.rasks.ru^
 ||dns.rasp.tv^
 ||dns.rassadnikov.ru^
@@ -1485,6 +1490,7 @@
 ||dns.rsnetwork.be^
 ||dns.rtin.fyi^
 ||dns.rubyfish.cn^
+||dns.s3cure.us^
 ||dns.sac.rebl.eu.org^
 ||dns.safeith.com^
 ||dns.sakuraseasons.com^
@@ -1499,6 +1505,7 @@
 ||dnsse.alekberg.net^
 ||dns-secondary.cloudnx.cloud^
 ||dns-secure.wifire.it^
+||dns.seekfor.top^
 ||dnss.egormix.com^
 ||dns.sellan.fr^
 ||dnsse-noads.alekberg.net^
@@ -2058,6 +2065,7 @@
 ||garage.jjlizz.com^
 ||garanphomai.ga^
 ||gate.oliver-pietsch.de^
+||gateway.baltes.info^
 ||gateway-el.cname.ustclug.org^
 ||gateway.fomichev.cloud^
 ||gateway.mcebox.com^
@@ -2069,7 +2077,6 @@
 ||gclouddns.com^
 ||gc.nocfmc.cc^
 ||gcplog.seggs.cn^
-||gcp.tacomafia.net^
 ||ge.libaced.one^
 ||genscorp.es^
 ||georgia.ddns.net^
@@ -2629,6 +2636,7 @@
 ||nzitdog.onthewifi.com^
 ||o1.lt^
 ||ociamd1.fatucloud.gosprout.org^
+||oci.tacomafia.net^
 ||ocl.smaccs.site^
 ||ocp.cincloud.top^
 ||oculta.me^
@@ -2989,6 +2997,7 @@
 ||skyline.vvvvvei.win^
 ||sky.rethinkdns.com^
 ||slambenchmarking.buzz^
+||slb.japaneast.cloudapp.azure.com^
 ||sm5q237c0.g666gle.me^
 ||smtp.greppie.nl^
 ||snd.jaxif.com^
@@ -2997,6 +3006,7 @@
 ||solution.w10.life^
 ||soncms.id.vn^
 ||soncms.me^
+||sorannbb.buzz^
 ||spacedns.org^
 ||sradg.eastus.cloudapp.azure.com^
 ||sradminfk.ddns.net^
@@ -3190,7 +3200,6 @@
 ||v3.passby.eu.org^
 ||v3.passby.ga^
 ||v6.rubyfish.cn^
-||vador.sillundil.ovh^
 ||valis.sx^
 ||vallecerroazul.com^
 ||valleverde.icu^
@@ -3263,6 +3272,7 @@
 ||vudy.ru^
 ||vvmm.me^
 ||v.yuhui.tk^
+||v.yuwentian.com^
 ||w0125ca5.kasserver.com^
 ||w5ppr.us^
 ||waguns.net^
@@ -3445,6 +3455,7 @@
 ||zephyrus.id^
 ||zero.dns0.eu^
 ||zetland.rm-ni.uk^
+||zh.sorannbb.buzz^
 ||zougloub.eu^
 ||zrh1-ns01.monzoon.net^
 ||zxcvb.pp.ua^
