@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2023-08-21 02:48:41 (UTC)
+! Last updated: 2023-08-22 02:53:10 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -478,6 +478,8 @@
 ||arespctw.tk^
 ||argon.molinero.dev^
 ||arkadia100.pl^
+||arm2.nzcow.com^
+||arm3.nzcow.com^
 ||armorrush.eu.org^
 ||as17820865.click^
 ||a.safe.ns.dnslify.com^
@@ -503,6 +505,7 @@
 ||au-syd-w-2.nashkan.net^
 ||au-syd-w-3.nashkan.net^
 ||au.teradns.org^
+||auth.phclinz.de^
 ||auto-cn-hk-8000.go-behind.one^
 ||autodiscover.elshad-adgh-dns.ru^
 ||autodiscover.promsdns.com^
@@ -510,7 +513,6 @@
 ||a.vvvglass.com^
 ||awan.ftp.sh^
 ||awsdns.vpnrf.com^
-||aws.haoxuan.xyz^
 ||aws.razor1911.xyz^
 ||axaxa.fun^
 ||axell24.ml^
@@ -702,6 +704,7 @@
 ||d3.shabi.icu^
 ||d3.supremum.io^
 ||dac-one.nayemador.com^
+||d.adguard-dns.com^
 ||daisukivn.asuscomm.com^
 ||dakulov.synology.me^
 ||dandelionsprout.asuscomm.com^
@@ -715,6 +718,7 @@
 ||daswieddodeushtuhaw.xyz^
 ||davidcampos.duckdns.org^
 ||davidzeh.eu.org^
+||dawnings.cn^
 ||dbbs.dns.databyte-network.com^
 ||dclab.live^
 ||ddd2.loukky.com^
@@ -1438,6 +1442,7 @@
 ||dns.phucbui.top^
 ||dns.phuctran.cloud^
 ||dns.pieterdherde.com^
+||dns.pietjacobs.be^
 ||dns.pldweb.net^
 ||dnspod.clzapp.com^
 ||dns.porteii.com^
@@ -1933,6 +1938,7 @@
 ||dub.r.rnet.ie^
 ||ducphuclee.tech^
 ||dukun.de^
+||dumbledore.steinr.eu^
 ||dupatruwi22.fun^
 ||dus.ysbs.uk^
 ||duyyen.cf^
@@ -1946,6 +1952,7 @@
 ||dyn-ip.borjalopez.eu^
 ||ea-dns.rubyfish.cn^
 ||eaereaper.ru^
+||eajtech.com^
 ||easyhandshake.com^
 ||ec2-52-12-183-214.us-west-2.compute.amazonaws.com^
 ||echoe1yidzu4ioo5.myfritz.net^
@@ -1956,7 +1963,6 @@
 ||edns.233py.com^
 ||ee-tll.doh.sb^
 ||elc.meudns.minhacasainteligente.cf^
-||elez-wq.github.io^
 ||eliatofani.ovh^
 ||elshad-adgh-dns.ru^
 ||emby.rasp.tv^
@@ -2066,7 +2072,6 @@
 ||garage.jjlizz.com^
 ||garanphomai.ga^
 ||gate.oliver-pietsch.de^
-||gateway.baltes.info^
 ||gateway-el.cname.ustclug.org^
 ||gateway.fomichev.cloud^
 ||gateway.mcebox.com^
@@ -2325,6 +2330,8 @@
 ||kendentil.org.uk^
 ||kenit.me^
 ||kennethhuang.com^
+||kent6.ajaest.net^
+||kent6.dyn.ajaest.net^
 ||kerio.dns.amigo-mgn.ru^
 ||keymiagar.ir^
 ||khsan.com^
@@ -2730,7 +2737,6 @@
 ||phucbui.top^
 ||pi1.node15.com^
 ||pi.daryllswer.net^
-||piekacz.pl^
 ||pihole1.hoerli.net^
 ||pihole2.hoerli.net^
 ||pihole3.hoerli.net^
@@ -2778,6 +2784,7 @@
 ||promsdns.com^
 ||pro.shecan.ir^
 ||protected.canadianshield.cira.ca^
+||proxy.haoxuan.xyz^
 ||proxy.uz^
 ||prysiazhniuk.pp.ua^
 ||ps1.modr.club^
@@ -3030,6 +3037,7 @@
 ||steff.sbs^
 ||storage.jjlizz.com^
 ||storydoh.kinergetica.com^
+||strata.gurupannu.com^
 ||stream.securely.sh^
 ||streltsov.net^
 ||stuxen.duckdns.org^
@@ -3042,6 +3050,7 @@
 ||sv.oispace.eu.org^
 ||sweethome.in.eu.org^
 ||switch.ch^
+||swoletux.ave.zone^
 ||syd1.norgannetworks.net.au^
 ||syd.adfilter.net^
 ||syd.core.access.zznet.fun^
@@ -3201,6 +3210,7 @@
 ||v3.passby.eu.org^
 ||v3.passby.ga^
 ||v6.rubyfish.cn^
+||vador.sillundil.ovh^
 ||valis.sx^
 ||vallecerroazul.com^
 ||valleverde.icu^
