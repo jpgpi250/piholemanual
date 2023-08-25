@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2023-08-23 02:22:14 (UTC)
+! Last updated: 2023-08-24 03:00:35 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -24,7 +24,6 @@
 ||13qnpxtzym14adjlrcub15.sergeykobzar.com.ua^
 ||1438109-cc23219.tw1.ru^
 ||15815d9ce5f441edaa1f33f62761ff16.pacloudflare.com^
-||180.0rz.space^
 ||1and1-dns.de^
 ||1a.ns.ozer.im^
 ||1b.ns.ozer.im^
@@ -478,8 +477,6 @@
 ||arespctw.tk^
 ||argon.molinero.dev^
 ||arkadia100.pl^
-||arm2.nzcow.com^
-||arm3.nzcow.com^
 ||armorrush.eu.org^
 ||as17820865.click^
 ||a.safe.ns.dnslify.com^
@@ -505,7 +502,6 @@
 ||au-syd-w-2.nashkan.net^
 ||au-syd-w-3.nashkan.net^
 ||au.teradns.org^
-||auth.phclinz.de^
 ||auto-cn-hk-8000.go-behind.one^
 ||autodiscover.elshad-adgh-dns.ru^
 ||autodiscover.promsdns.com^
@@ -704,7 +700,6 @@
 ||d3.shabi.icu^
 ||d3.supremum.io^
 ||dac-one.nayemador.com^
-||d.adguard-dns.com^
 ||daisukivn.asuscomm.com^
 ||dakulov.synology.me^
 ||dandelionsprout.asuscomm.com^
@@ -718,7 +713,6 @@
 ||daswieddodeushtuhaw.xyz^
 ||davidcampos.duckdns.org^
 ||davidzeh.eu.org^
-||dawnings.cn^
 ||dbbs.dns.databyte-network.com^
 ||dclab.live^
 ||ddd2.loukky.com^
@@ -1217,6 +1211,7 @@
 ||dns.hostux.net^
 ||dns.hotta.page^
 ||dns.housedenolf.be^
+||dns.hubservices.vn^
 ||dns.hung-quach.com^
 ||dns.huseynov.work^
 ||dns.hva.li^
@@ -1304,6 +1299,7 @@
 ||dns.lars-lehmann.net^
 ||dnslas.netrope.com^
 ||dns.lat-team.com^
+||dns.lat-team.xyz^
 ||dns.lehonganh.id.vn^
 ||dns.lfac.ml^
 ||dns.lfac.xyz^
@@ -1479,6 +1475,7 @@
 ||dns.rayanbab.com^
 ||dns.reckoningslug.name^
 ||dns.redroot.me^
+||dns.repressoh.it^
 ||dns.req1.fr^
 ||dns.retakecs.com^
 ||dns.rhscz.eu^
@@ -1651,6 +1648,7 @@
 ||dns.xyzz.live^
 ||dns.yameenassotally.com^
 ||dns.ygonline.de^
+||dns.yingroad.top^
 ||dns.ymv8.cn^
 ||dns.youni.win^
 ||dns.ytpom.tk^
@@ -1938,7 +1936,6 @@
 ||dub.r.rnet.ie^
 ||ducphuclee.tech^
 ||dukun.de^
-||dumbledore.steinr.eu^
 ||dupatruwi22.fun^
 ||dus.ysbs.uk^
 ||duyyen.cf^
@@ -1952,7 +1949,6 @@
 ||dyn-ip.borjalopez.eu^
 ||ea-dns.rubyfish.cn^
 ||eaereaper.ru^
-||eajtech.com^
 ||easyhandshake.com^
 ||ec2-52-12-183-214.us-west-2.compute.amazonaws.com^
 ||echoe1yidzu4ioo5.myfritz.net^
@@ -1988,6 +1984,7 @@
 ||eweyo.duckdns.org^
 ||eweyo.ru^
 ||example.doh.blockerdns.com^
+||exns1.exalto.nu^
 ||externalmobiel.lekdijk.online^
 ||f1.dns.s3cure.me^
 ||family.5ososea.com^
@@ -2238,6 +2235,7 @@
 ||i.iscx.xyz^
 ||ikarosalpha.xyz^
 ||ilcha.ru^
+||imdxl.ruimdxl.ru^
 ||in02.localnet.dev^
 ||in-blr.doh.sb^
 ||incaseineeditoneday.com^
@@ -2329,8 +2327,6 @@
 ||kendentil.org.uk^
 ||kenit.me^
 ||kennethhuang.com^
-||kent6.ajaest.net^
-||kent6.dyn.ajaest.net^
 ||kerio.dns.amigo-mgn.ru^
 ||keymiagar.ir^
 ||khsan.com^
@@ -2509,6 +2505,7 @@
 ||mydevpn.eu^
 ||mydns.an2kin.cyou^
 ||mydns.bielperes.me^
+||mydns.cloud^
 ||mydns.server-way.tk^
 ||myhottiemama.de^
 ||myip.mmmalia.com^
@@ -2900,7 +2897,6 @@
 ||sakuraknight2023.top^
 ||sams.adg.siudzinski.net^
 ||sandbox.opendns.com^
-||sannidhya.duckdns.org^
 ||saruman.freeddns.org^
 ||saya.rnrkurir.com^
 ||sbdns.co.in^
@@ -2990,7 +2986,6 @@
 ||singapore.fuckll.com^
 ||sink.nolo.ltd^
 ||sip.amigo-mgn.ru^
-||sips.my.id^
 ||sitdns.com^
 ||site-1.duckdns.org^
 ||site-2.duckdns.org^
@@ -3037,7 +3032,6 @@
 ||steff.sbs^
 ||storage.jjlizz.com^
 ||storydoh.kinergetica.com^
-||strata.gurupannu.com^
 ||stream.securely.sh^
 ||streltsov.net^
 ||stuxen.duckdns.org^
@@ -3047,10 +3041,10 @@
 ||surt.ml^
 ||surve.dehb.ru^
 ||sv3.minhduc.pw^
+||svg33.eu^
 ||sv.oispace.eu.org^
 ||sweethome.in.eu.org^
 ||switch.ch^
-||swoletux.ave.zone^
 ||syd1.norgannetworks.net.au^
 ||syd.adfilter.net^
 ||syd.core.access.zznet.fun^
@@ -3210,7 +3204,6 @@
 ||v3.passby.eu.org^
 ||v3.passby.ga^
 ||v6.rubyfish.cn^
-||vador.sillundil.ovh^
 ||valis.sx^
 ||vallecerroazul.com^
 ||valleverde.icu^
@@ -3363,6 +3356,7 @@
 ||www.guard.izzledudetech.com^
 ||www.guoyingwei.top^
 ||www.hlll.fun^
+||www.imdxl.ru^
 ||www.incaseineeditoneday.com^
 ||www.interestingly.eu.org^
 ||www.ivanromanov.ru^
@@ -3402,6 +3396,7 @@
 ||www.streltsov.net^
 ||www.sufly.top^
 ||www.surfbelow.com^
+||www.svg33.eu^
 ||www.szyrzyk.pl^
 ||www.taufner.net^
 ||www.timothytimothy.cf^
