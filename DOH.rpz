@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2308250159 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2308260204 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2023-08-25 01:59:54 (UTC)
+; Last updated: 2023-08-26 02:04:42 (UTC)
 ;
 ; See https://jpgpi250.github.io/piholemanual/doc/Unbound%20response%20policy%20zones.pdf
 ; Report issues at https://github.com/jpgpi250/piholemanual/issues
@@ -492,6 +492,7 @@ asbordns.ddns.net CNAME .
 asdfcomparator.tk CNAME .
 asia.dnscepat.id CNAME .
 a.sinafreenet.ml CNAME .
+astra.ender.fr CNAME .
 a.sunday.eu.org CNAME .
 atarikid.com CNAME .
 atelier.alica.idv.tw CNAME .
@@ -2209,7 +2210,6 @@ home.pragmasec.nl CNAME .
 home.psociety.de CNAME .
 home.qbak.net CNAME .
 home.quentin-stoeckel.fr CNAME .
-home.rassadnikov.ru CNAME .
 home.snow-sugar.net CNAME .
 home.tuankhaiit.com CNAME .
 home.wriedts.de CNAME .
@@ -2577,7 +2577,6 @@ ninny.duckdns.org CNAME .
 nl-ams2.doh.sb CNAME .
 nl-ams.doh.sb CNAME .
 nl-ams-w-3.nashkan.net CNAME .
-nlb.gbrossi.com.br CNAME .
 nl.galaskar.ga CNAME .
 noadsapp.net CNAME .
 noads.cloud CNAME .
@@ -2751,7 +2750,6 @@ photo.dehb.ru CNAME .
 phucbui.top CNAME .
 pi1.node15.com CNAME .
 pi.daryllswer.net CNAME .
-piekacz.pl CNAME .
 pihole1.hoerli.net CNAME .
 pihole2.hoerli.net CNAME .
 pihole3.hoerli.net CNAME .
@@ -2808,7 +2806,6 @@ pt-lis-w-1.nashkan.net CNAME .
 public-dns-a.dns.sb CNAME .
 public-dns-b.dns.sb CNAME .
 public.dns.iij.jp CNAME .
-publique.gouasmi.site CNAME .
 pukanuragan.ru CNAME .
 punono.duckdns.org CNAME .
 puredns.org CNAME .
@@ -2989,7 +2986,6 @@ sg-w-5.nashkan.net CNAME .
 sg.yepdns.com CNAME .
 shaa.line.pm CNAME .
 shalenkov.dev CNAME .
-shard.ender.fr CNAME .
 shield.afixer.app CNAME .
 shieldsup.spearing.net CNAME .
 shiestyro.world CNAME .
