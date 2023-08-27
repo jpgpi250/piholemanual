@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2023-08-25 02:19:06 (UTC)
+! Last updated: 2023-08-26 02:23:46 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -488,6 +488,7 @@
 ||asdfcomparator.tk^
 ||asia.dnscepat.id^
 ||a.sinafreenet.ml^
+||astra.ender.fr^
 ||a.sunday.eu.org^
 ||atarikid.com^
 ||atelier.alica.idv.tw^
@@ -2205,7 +2206,6 @@
 ||home.psociety.de^
 ||home.qbak.net^
 ||home.quentin-stoeckel.fr^
-||home.rassadnikov.ru^
 ||home.snow-sugar.net^
 ||home.tuankhaiit.com^
 ||home.wriedts.de^
@@ -2573,7 +2573,6 @@
 ||nl-ams2.doh.sb^
 ||nl-ams.doh.sb^
 ||nl-ams-w-3.nashkan.net^
-||nlb.gbrossi.com.br^
 ||nl.galaskar.ga^
 ||noadsapp.net^
 ||noads.cloud^
@@ -2747,7 +2746,6 @@
 ||phucbui.top^
 ||pi1.node15.com^
 ||pi.daryllswer.net^
-||piekacz.pl^
 ||pihole1.hoerli.net^
 ||pihole2.hoerli.net^
 ||pihole3.hoerli.net^
@@ -2804,7 +2802,6 @@
 ||public-dns-a.dns.sb^
 ||public-dns-b.dns.sb^
 ||public.dns.iij.jp^
-||publique.gouasmi.site^
 ||pukanuragan.ru^
 ||punono.duckdns.org^
 ||puredns.org^
@@ -2985,7 +2982,6 @@
 ||sg.yepdns.com^
 ||shaa.line.pm^
 ||shalenkov.dev^
-||shard.ender.fr^
 ||shield.afixer.app^
 ||shieldsup.spearing.net^
 ||shiestyro.world^
