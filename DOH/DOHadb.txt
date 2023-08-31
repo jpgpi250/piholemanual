@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2023-08-29 02:33:10 (UTC)
+! Last updated: 2023-08-30 02:25:36 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -428,6 +428,7 @@
 ||akhilkalwakurthy.dyndns.org^
 ||akr177.com^
 ||akylah.zapto.org^
+||aleafy.ddns.net^
 ||alexpollard.synology.me^
 ||alihk-dns.itbbs.org^
 ||a.lilinth.com^
@@ -2187,8 +2188,6 @@
 ||home3.brosena.xyz^
 ||home.501w.net^
 ||home.basthorst.eu^
-||home-bitteeinbyte.ddns.net^
-||home.bitteeinbyte.de^
 ||home.bruckmoser.it^
 ||home.ddns.network^
 ||home.dlinkddns.com^
@@ -2377,6 +2376,7 @@
 ||krtekvpn.duckdns.org^
 ||kr.telex.app^
 ||kr-x64-2.lov.host^
+||ks1.plop.cc^
 ||k-s-edition.ru^
 ||ksedns.ru^
 ||kswro.web.id^
@@ -2748,7 +2748,6 @@
 ||phucbui.top^
 ||pi1.node15.com^
 ||pi.daryllswer.net^
-||piekacz.pl^
 ||pihole1.hoerli.net^
 ||pihole2.hoerli.net^
 ||pihole3.hoerli.net^
@@ -3466,7 +3465,6 @@
 ||ys.cloud-sekeng.com^
 ||ytpom.tk^
 ||yuhui.tk^
-||yumenashyi.tpddns.cn^
 ||yunyun.is.my.waifu.cz^
 ||yuripe.ccnt.fr^
 ||yvanliang.tech^
