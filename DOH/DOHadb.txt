@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2023-09-03 02:11:32 (UTC)
+! Last updated: 2023-09-04 03:04:23 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -21,8 +21,6 @@
 ||1111.cloudflare-dns.com^
 ||1.11i.eu^
 ||13qnpxtzym14adjlrcub15.sergeykobzar.com.ua^
-||15815d9ce5f441edaa1f33f62761ff16.pacloudflare.com^
-||180.0rz.space^
 ||1and1-dns.de^
 ||1a.ns.ozer.im^
 ||1b.ns.ozer.im^
@@ -1967,7 +1965,6 @@
 ||d.x2jz.cn^
 ||dycn.vip^
 ||dyhw.ddns.net^
-||dyn-ip.borjalopez.eu^
 ||ea-dns.rubyfish.cn^
 ||eaereaper.ru^
 ||eajtech.com^
@@ -2093,7 +2090,6 @@
 ||garage.jjlizz.com^
 ||garanphomai.ga^
 ||gate.oliver-pietsch.de^
-||gateway.baltes.info^
 ||gateway-el.cname.ustclug.org^
 ||gateway.fomichev.cloud^
 ||gateway.mcebox.com^
@@ -2708,7 +2704,6 @@
 ||open-resolver1.unima.ac.id^
 ||opera.cloudflare-dns.com^
 ||ora1.nocnik.org^
-||oracle2.herry.dev^
 ||oracle5.losfa.xyz^
 ||oracle6.losfa.xyz^
 ||oracle.cepheus0.com^
@@ -2789,7 +2784,6 @@
 ||pluton.plan9dns.com^
 ||pl-waw-w-1.nashkan.net^
 ||pl-waw-w-2.nashkan.net^
-||polaris.mrmartian.co^
 ||pope.cnblw.me^
 ||pop.novacia.com.ua^
 ||portal.iddqd.uk^
@@ -3110,6 +3104,7 @@
 ||testdjango.live^
 ||test.dnsteam.globuscs.info^
 ||test.fatucloud.gosprout.org^
+||tezoi.duckdns.org^
 ||thanh933.cf^
 ||thanos.pleumkungz.com^
 ||thebeloveduck.duckdns.org^
