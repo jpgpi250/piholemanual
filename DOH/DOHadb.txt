@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2023-09-05 02:10:18 (UTC)
+! Last updated: 2023-09-06 02:16:51 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -20,6 +20,7 @@
 ||1.0rz.space^
 ||1111.cloudflare-dns.com^
 ||1.11i.eu^
+||122.859421.xyz^
 ||13qnpxtzym14adjlrcub15.sergeykobzar.com.ua^
 ||180.0rz.space^
 ||1and1-dns.de^
@@ -58,10 +59,10 @@
 ||501w.net^
 ||53.slepov.dev^
 ||6692.giize.com^
-||77980.bodis.com^
 ||8888.google^
 ||94169.ip-ns.net^
 ||a11.diplo.es^
+||a5135324.csie.io^
 ||aalqudah.site^
 ||aattwwss.duckdns.org^
 ||abel.waringer-atg.de^
@@ -92,6 +93,7 @@
 ||adblock.mydns.network^
 ||adblock.ny1.dns.nixnet.xyz^
 ||adblock.robinlanckman.com^
+||adblock.weresolve.in^
 ||adb.nods.in^
 ||adb-wan.xaoimoon.fr^
 ||adc.789910.xyz^
@@ -127,6 +129,7 @@
 ||adg.swh123.xyz^
 ||adguard01.dns.infrapod.nl^
 ||adguard01.infrapod.nl^
+||adguard01.root-p.de^
 ||adguard01.wydler.eu^
 ||adguard01.zitronen-server.de^
 ||adguard02.dns.infrapod.nl^
@@ -245,6 +248,7 @@
 ||adguard.jpjb.net^
 ||adguard.jwhan99.xyz^
 ||adguard.k0rap.com^
+||adguard.kantinyoyok.xyz^
 ||adguard-kartoffel.zernico.de^
 ||adguard.kaytek.org^
 ||adguard.kenzohost.de^
@@ -291,6 +295,7 @@
 ||adguard.ouate2phoque.ovh^
 ||adguardo.viewdns.net^
 ||adguard.piekacz.pl^
+||adguard.planckstudio.in^
 ||adguard.plumedns.com^
 ||adguard.polemarch.live^
 ||adguard.pouifamily.fr^
@@ -482,8 +487,6 @@
 ||arespctw.tk^
 ||argon.molinero.dev^
 ||arkadia100.pl^
-||arm2.nzcow.com^
-||arm3.nzcow.com^
 ||armorrush.eu.org^
 ||as17820865.click^
 ||a.safe.ns.dnslify.com^
@@ -496,6 +499,7 @@
 ||atarikid.com^
 ||atelier.alica.idv.tw^
 ||atlantic.dyn1.de^
+||atlas.cllctv.site^
 ||atl.firestorrrm.com^
 ||atomicvps.xyz^
 ||at.pzhg.me^
@@ -510,7 +514,6 @@
 ||au-syd-w-2.nashkan.net^
 ||au-syd-w-3.nashkan.net^
 ||au.teradns.org^
-||auth.phclinz.de^
 ||auto-cn-hk-8000.go-behind.one^
 ||autodiscover.elshad-adgh-dns.ru^
 ||autodiscover.promsdns.com^
@@ -602,6 +605,7 @@
 ||c4.ownvps.ml^
 ||c5.ownvps.ml^
 ||c6.ownvps.ml^
+||c6.yydsgod.eu.org^
 ||ca01.dns4me.net^
 ||ca02.dns4me.net^
 ||ca-bhs-w-2.nashkan.net^
@@ -710,7 +714,6 @@
 ||d3.shabi.icu^
 ||d3.supremum.io^
 ||dac-one.nayemador.com^
-||d.adguard-dns.com^
 ||daisukivn.asuscomm.com^
 ||dakulov.synology.me^
 ||dandelionsprout.asuscomm.com^
@@ -724,7 +727,6 @@
 ||daswieddodeushtuhaw.xyz^
 ||davidcampos.duckdns.org^
 ||davidzeh.eu.org^
-||dawnings.cn^
 ||dbbs.dns.databyte-network.com^
 ||dclab.live^
 ||ddd2.loukky.com^
@@ -1214,6 +1216,7 @@
 ||dns.harrache.info^
 ||dns.hee.ink^
 ||dns.herkhof.nl^
+||dns.hesitance.site^
 ||dns.hinet.net^
 ||dns.hinytz.com^
 ||dns.hitmw.cn^
@@ -1955,7 +1958,6 @@
 ||dub.r.rnet.ie^
 ||ducphuclee.tech^
 ||dukun.de^
-||dumbledore.steinr.eu^
 ||dupatruwi22.fun^
 ||dus.ysbs.uk^
 ||duyyen.cf^
@@ -1969,7 +1971,6 @@
 ||dyn-ip.borjalopez.eu^
 ||ea-dns.rubyfish.cn^
 ||eaereaper.ru^
-||eajtech.com^
 ||easyhandshake.com^
 ||ec2-52-12-183-214.us-west-2.compute.amazonaws.com^
 ||echoe1yidzu4ioo5.myfritz.net^
@@ -2042,6 +2043,7 @@
 ||filya.fb.i81.ru^
 ||filya.vd.i81.ru^
 ||findmethedns.info^
+||firefenix.duckdns.org^
 ||firefox.dns.nextdns.io^
 ||firewall.darknet.bg^
 ||fishtail-pkr-dns.dhengaanil.com.np^
@@ -2350,8 +2352,6 @@
 ||kendentil.org.uk^
 ||kenit.me^
 ||kennethhuang.com^
-||kent6.ajaest.net^
-||kent6.dyn.ajaest.net^
 ||kerio.dns.amigo-mgn.ru^
 ||keymiagar.ir^
 ||khsan.com^
@@ -2764,7 +2764,6 @@
 ||phucbui.top^
 ||pi1.node15.com^
 ||pi.daryllswer.net^
-||piekacz.pl^
 ||pihole1.hoerli.net^
 ||pihole2.hoerli.net^
 ||pihole3.hoerli.net^
@@ -3064,7 +3063,6 @@
 ||steff.sbs^
 ||storage.jjlizz.com^
 ||storydoh.kinergetica.com^
-||strata.gurupannu.com^
 ||stream.securely.sh^
 ||streltsov.net^
 ||stuxen.duckdns.org^
@@ -3078,7 +3076,6 @@
 ||sv.oispace.eu.org^
 ||sweethome.in.eu.org^
 ||switch.ch^
-||swoletux.ave.zone^
 ||syd1.norgannetworks.net.au^
 ||syd.adfilter.net^
 ||syd.core.access.zznet.fun^
@@ -3230,6 +3227,7 @@
 ||v1550018.hosted-by-vdsina.ru^
 ||v1552270.hosted-by-vdsina.ru^
 ||v1586767.hosted-by-vdsina.ru^
+||v2040223.hosted-by-vdsina.ru^
 ||v2-1.huwenqiang.xyz^
 ||v2.dionysus.beauty^
 ||v2raye.com^
@@ -3238,7 +3236,6 @@
 ||v3.passby.eu.org^
 ||v3.passby.ga^
 ||v6.rubyfish.cn^
-||vador.sillundil.ovh^
 ||valis.sx^
 ||vallecerroazul.com^
 ||valleverde.icu^
@@ -3309,6 +3306,7 @@
 ||vps.fleuryk.ovh^
 ||vps.grussenmeyer.com^
 ||vps.jmarkin.ru^
+||vps.skrzypiec.pl^
 ||vpsus3.pzhg.me^
 ||vps.vokuev.org^
 ||vsrv15195.customer.xenway.de^
@@ -3318,6 +3316,7 @@
 ||v.yuwentian.com^
 ||w0125ca5.kasserver.com^
 ||w5ppr.us^
+||wabu.ddns.net^
 ||waguns.net^
 ||walker.mynetgear.com^
 ||wallymna.space^
@@ -3426,6 +3425,7 @@
 ||www.pcjco.ovh^
 ||www.pi1plus.duckdns.org^
 ||www.promsdns.com^
+||www.pssv.top^
 ||www.pukanuragan.ru^
 ||www.qwenty.ru^
 ||www.radiac.xyz^
