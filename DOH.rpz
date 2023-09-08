@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2309070225 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2309080211 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2023-09-07 02:25:24 (UTC)
+; Last updated: 2023-09-08 02:11:54 (UTC)
 ;
 ; See https://jpgpi250.github.io/piholemanual/doc/Unbound%20response%20policy%20zones.pdf
 ; Report issues at https://github.com/jpgpi250/piholemanual/issues
@@ -237,7 +237,6 @@ adguardhome.ponetwork.duckdns.org CNAME .
 adguard-home.server-on.net CNAME .
 adguardhome.takkunn.pgw.jp CNAME .
 adguardhome-vps.couli.fr CNAME .
-adguardhome.westeurope.cloudapp.azure.com CNAME .
 adguardhulst.duckdns.org CNAME .
 adguard.ihatemy.live CNAME .
 adguard.imru.aquadev.io CNAME .
@@ -743,6 +742,7 @@ ddd.loukky.com CNAME .
 d.dh.ci CNAME .
 ddns.bigmaomao.xyz CNAME .
 ddns.haha2048.site CNAME .
+ddns.l2h8.cn CNAME .
 ddns.oii.im CNAME .
 ddns.one23.one CNAME .
 debian-01.eastasia.cloudapp.azure.com CNAME .
@@ -2102,6 +2102,7 @@ gaoadmin.win CNAME .
 garage.jjlizz.com CNAME .
 garanphomai.ga CNAME .
 gate.oliver-pietsch.de CNAME .
+gateway.baltes.info CNAME .
 gateway-el.cname.ustclug.org CNAME .
 gateway.fomichev.cloud CNAME .
 gateway.mcebox.com CNAME .
@@ -2928,6 +2929,7 @@ ru-mow.doh.sb CNAME .
 rumpelsepp.org CNAME .
 s.101818.xyz CNAME .
 s1.soft88.click CNAME .
+s3cure.us CNAME .
 s.960423.xyz CNAME .
 sa01.dns4me.net CNAME .
 sabeendns.hopto.org CNAME .
@@ -3016,7 +3018,6 @@ shield.afixer.app CNAME .
 shieldsup.spearing.net CNAME .
 shiestyro.world CNAME .
 sh.telex.app CNAME .
-sh.totoro.pub CNAME .
 shybbw.myz.info CNAME .
 siddeus.synology.me CNAME .
 s.idsam.com CNAME .
@@ -3201,6 +3202,7 @@ us02.dns4me.net CNAME .
 us1.blissdns.net CNAME .
 us1.dns.lavate.ch CNAME .
 us1.intellsystemworld.xyz CNAME .
+us5.wan.hc7z.com CNAME .
 us-atl-w-1.nashkan.net CNAME .
 us-atl-w-2.nashkan.net CNAME .
 us-central.adhole.org CNAME .
