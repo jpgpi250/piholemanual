@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2023-09-07 02:44:37 (UTC)
+! Last updated: 2023-09-08 02:33:19 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -233,7 +233,6 @@
 ||adguard-home.server-on.net^
 ||adguardhome.takkunn.pgw.jp^
 ||adguardhome-vps.couli.fr^
-||adguardhome.westeurope.cloudapp.azure.com^
 ||adguardhulst.duckdns.org^
 ||adguard.ihatemy.live^
 ||adguard.imru.aquadev.io^
@@ -739,6 +738,7 @@
 ||d.dh.ci^
 ||ddns.bigmaomao.xyz^
 ||ddns.haha2048.site^
+||ddns.l2h8.cn^
 ||ddns.oii.im^
 ||ddns.one23.one^
 ||debian-01.eastasia.cloudapp.azure.com^
@@ -2098,6 +2098,7 @@
 ||garage.jjlizz.com^
 ||garanphomai.ga^
 ||gate.oliver-pietsch.de^
+||gateway.baltes.info^
 ||gateway-el.cname.ustclug.org^
 ||gateway.fomichev.cloud^
 ||gateway.mcebox.com^
@@ -2924,6 +2925,7 @@
 ||rumpelsepp.org^
 ||s.101818.xyz^
 ||s1.soft88.click^
+||s3cure.us^
 ||s.960423.xyz^
 ||sa01.dns4me.net^
 ||sabeendns.hopto.org^
@@ -3012,7 +3014,6 @@
 ||shieldsup.spearing.net^
 ||shiestyro.world^
 ||sh.telex.app^
-||sh.totoro.pub^
 ||shybbw.myz.info^
 ||siddeus.synology.me^
 ||s.idsam.com^
@@ -3197,6 +3198,7 @@
 ||us1.blissdns.net^
 ||us1.dns.lavate.ch^
 ||us1.intellsystemworld.xyz^
+||us5.wan.hc7z.com^
 ||us-atl-w-1.nashkan.net^
 ||us-atl-w-2.nashkan.net^
 ||us-central.adhole.org^
