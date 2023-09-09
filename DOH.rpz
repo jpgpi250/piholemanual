@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2309080211 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2309090213 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2023-09-08 02:11:54 (UTC)
+; Last updated: 2023-09-09 02:13:25 (UTC)
 ;
 ; See https://jpgpi250.github.io/piholemanual/doc/Unbound%20response%20policy%20zones.pdf
 ; Report issues at https://github.com/jpgpi250/piholemanual/issues
@@ -808,6 +808,7 @@ dns02.almir1904.eu CNAME .
 dns02.oceanprint.com.br CNAME .
 dns03.almir1904.eu CNAME .
 dns0.eu CNAME .
+dns.0.l.ovpn.bond CNAME .
 dns.0ooo.icu CNAME .
 dns0.permafrostmiami.com CNAME .
 dns0.tardishost.ru CNAME .
@@ -1696,6 +1697,7 @@ dns.zxi7.cn CNAME .
 dns.zzuhacker.cn CNAME .
 dnx.niko-sem.com CNAME .
 dnx.tttpai.com CNAME .
+dnx.tttpai.com.w.kunlunaq.com CNAME .
 docker-hub.ir CNAME .
 dockernet.vpsburti.com CNAME .
 doctorbrobotnik.com CNAME .
@@ -2737,6 +2739,7 @@ outie.8ws.net CNAME .
 outiejr.8ws.net CNAME .
 overwatch.ddns.net CNAME .
 ovh.panszelescik.pl CNAME .
+ovpn.bond CNAME .
 owa.elshad-adgh-dns.ru CNAME .
 owa.promsdns.com CNAME .
 p0.freedns.controld.com CNAME .
@@ -2929,7 +2932,6 @@ ru-mow.doh.sb CNAME .
 rumpelsepp.org CNAME .
 s.101818.xyz CNAME .
 s1.soft88.click CNAME .
-s3cure.us CNAME .
 s.960423.xyz CNAME .
 sa01.dns4me.net CNAME .
 sabeendns.hopto.org CNAME .
@@ -3352,6 +3354,7 @@ wg.req1.fr CNAME .
 whax.eu.org CNAME .
 whitegeek.icu CNAME .
 wifi.dns.amigo-mgn.ru CNAME .
+wikimedia-dns.org CNAME .
 wikipeter.me CNAME .
 win10virtual.fb.i81.ru CNAME .
 win10virtual.vd.i81.ru CNAME .
