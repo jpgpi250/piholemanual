@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2023-09-08 02:33:19 (UTC)
+! Last updated: 2023-09-09 02:32:33 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -804,6 +804,7 @@
 ||dns02.oceanprint.com.br^
 ||dns03.almir1904.eu^
 ||dns0.eu^
+||dns.0.l.ovpn.bond^
 ||dns.0ooo.icu^
 ||dns0.permafrostmiami.com^
 ||dns0.tardishost.ru^
@@ -1692,6 +1693,7 @@
 ||dns.zzuhacker.cn^
 ||dnx.niko-sem.com^
 ||dnx.tttpai.com^
+||dnx.tttpai.com.w.kunlunaq.com^
 ||docker-hub.ir^
 ||dockernet.vpsburti.com^
 ||doctorbrobotnik.com^
@@ -2733,6 +2735,7 @@
 ||outiejr.8ws.net^
 ||overwatch.ddns.net^
 ||ovh.panszelescik.pl^
+||ovpn.bond^
 ||owa.elshad-adgh-dns.ru^
 ||owa.promsdns.com^
 ||p0.freedns.controld.com^
@@ -2925,7 +2928,6 @@
 ||rumpelsepp.org^
 ||s.101818.xyz^
 ||s1.soft88.click^
-||s3cure.us^
 ||s.960423.xyz^
 ||sa01.dns4me.net^
 ||sabeendns.hopto.org^
@@ -3348,6 +3350,7 @@
 ||whax.eu.org^
 ||whitegeek.icu^
 ||wifi.dns.amigo-mgn.ru^
+||wikimedia-dns.org^
 ||wikipeter.me^
 ||win10virtual.fb.i81.ru^
 ||win10virtual.vd.i81.ru^
