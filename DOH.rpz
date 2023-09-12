@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2309110208 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2309120153 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2023-09-11 02:08:48 (UTC)
+; Last updated: 2023-09-12 01:53:02 (UTC)
 ;
 ; See https://jpgpi250.github.io/piholemanual/doc/Unbound%20response%20policy%20zones.pdf
 ; Report issues at https://github.com/jpgpi250/piholemanual/issues
@@ -16,6 +16,7 @@ $TTL 30
 ;
 1001.cloudflare-dns.com CNAME .
 1111.cloudflare-dns.com CNAME .
+122.859421.xyz CNAME .
 180.0rz.space CNAME .
 1and1-dns.de CNAME .
 1a.ns.ozer.im CNAME .
@@ -370,7 +371,6 @@ dns.google CNAME .
 dns.google.com CNAME .
 dns.grqu.de CNAME .
 dns.ha-dvin.pp.ua CNAME .
-dns.hafidzradhival.my.id CNAME .
 dns.hahnjo.de CNAME .
 dns.hanahira.dev CNAME .
 dns.hanmey.de CNAME .
@@ -724,7 +724,6 @@ dot-sg.blahdns.com CNAME .
 dot.tiar.app CNAME .
 dot.westus.pi-dns.com CNAME .
 dot.xfinity.com CNAME .
-dpeddi.myddns.com CNAME .
 d.toairs.com CNAME .
 dukun.de CNAME .
 dumbledore.steinr.eu CNAME .
@@ -769,6 +768,7 @@ fdns2.dismail.de CNAME .
 feelnosorry.com CNAME .
 fi.doh.dns.snopyta.org CNAME .
 fi.dot.dns.snopyta.org CNAME .
+firefenix.duckdns.org CNAME .
 firefox.dns.nextdns.io CNAME .
 fly.io CNAME .
 forum.ginovs.nl CNAME .
@@ -806,7 +806,7 @@ hk2.ooroot.com CNAME .
 hk-hkg.doh.sb CNAME .
 hole.elbschloss.xyz CNAME .
 home27.duckdns.org CNAME .
-home.ddns.network CNAME .
+home.phucbui.top CNAME .
 home.tuankhaiit.com CNAME .
 hshh.org CNAME .
 httpdns.meituan.com CNAME .
@@ -881,6 +881,7 @@ l.o.ovpn.bond CNAME .
 l.ovpn.bond CNAME .
 lux1.nixnet.xyz CNAME .
 lv1.nixnet.xyz CNAME .
+mail.4-the.win CNAME .
 mail.data.haus CNAME .
 mailer.amlegion.org CNAME .
 mailkyb.co CNAME .
@@ -985,6 +986,7 @@ pdns.faelix.net CNAME .
 pdns.itxe.net CNAME .
 per.adfilter.net CNAME .
 pi1.node15.com CNAME .
+piekacz.pl CNAME .
 pihole1.hoerli.net CNAME .
 pihole2.hoerli.net CNAME .
 pihole3.hoerli.net CNAME .
