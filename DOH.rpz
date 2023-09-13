@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2309120153 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2309130212 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2023-09-12 01:53:02 (UTC)
+; Last updated: 2023-09-13 02:12:48 (UTC)
 ;
 ; See https://jpgpi250.github.io/piholemanual/doc/Unbound%20response%20policy%20zones.pdf
 ; Report issues at https://github.com/jpgpi250/piholemanual/issues
@@ -16,7 +16,6 @@ $TTL 30
 ;
 1001.cloudflare-dns.com CNAME .
 1111.cloudflare-dns.com CNAME .
-122.859421.xyz CNAME .
 180.0rz.space CNAME .
 1and1-dns.de CNAME .
 1a.ns.ozer.im CNAME .
@@ -78,11 +77,13 @@ adguardhome.atakorah.com CNAME .
 adguard.ihatemy.live CNAME .
 adguard-ironhide.ultima-thule.ru CNAME .
 adguard.jfchenier.ca CNAME .
+adguard.kantinyoyok.xyz CNAME .
 adguard-kartoffel.zernico.de CNAME .
 adguard.konikoni428.com CNAME .
 adguard.kss.ovh CNAME .
 adguard.lege.despagne.net CNAME .
 adguard.meddy94.de CNAME .
+adguard.mrmartian.co CNAME .
 adguard.nielsvoorn.nl CNAME .
 adguard.onlyfriends.info CNAME .
 adguard.piekacz.pl CNAME .
@@ -275,6 +276,7 @@ dns.api.sandbox.globuscs.info CNAME .
 dns.api.staging.globuscs.info CNAME .
 dns.api.test.globuscs.info CNAME .
 dns.aquilenet.fr CNAME .
+dns.arapurayil.com CNAME .
 dns.artikel10.org CNAME .
 dns-asia.wugui.zone CNAME .
 dns.azsopro.net CNAME .
@@ -285,6 +287,7 @@ dns.belnet.be CNAME .
 dns.benpro.fr CNAME .
 dns.beta.gandi.net CNAME .
 dns.bitdefender.net CNAME .
+dns.bitgeek.in CNAME .
 dns.blokada.org CNAME .
 dns.bobstrecansky.com CNAME .
 dns.bofh.in CNAME .
@@ -293,6 +296,7 @@ dns.bw.i81.ru CNAME .
 dnscache.e-utp.net CNAME .
 dns.carson-family.com CNAME .
 dns.ceai.com.tw CNAME .
+dns.cfiec.net CNAME .
 dns.chenu.ch CNAME .
 dns.chromeina.top CNAME .
 dns.circl.lu CNAME .
@@ -400,6 +404,7 @@ dns.kernel-error.de CNAME .
 dns.kescher.at CNAME .
 dns.keweon.center CNAME .
 dns.kosan.moe CNAME .
+dns.larsdebruin.net CNAME .
 dns.lars-lehmann.net CNAME .
 dns.linkr.ninja CNAME .
 dns.l.o.ovpn.bond CNAME .
@@ -720,10 +725,12 @@ dot.pl.ahadns.net CNAME .
 dot.pub CNAME .
 dot.quickline.ch CNAME .
 dot.seby.io CNAME .
+dot.securedns.eu CNAME .
 dot-sg.blahdns.com CNAME .
 dot.tiar.app CNAME .
 dot.westus.pi-dns.com CNAME .
 dot.xfinity.com CNAME .
+dpeddi.myddns.com CNAME .
 d.toairs.com CNAME .
 dukun.de CNAME .
 dumbledore.steinr.eu CNAME .
@@ -768,7 +775,6 @@ fdns2.dismail.de CNAME .
 feelnosorry.com CNAME .
 fi.doh.dns.snopyta.org CNAME .
 fi.dot.dns.snopyta.org CNAME .
-firefenix.duckdns.org CNAME .
 firefox.dns.nextdns.io CNAME .
 fly.io CNAME .
 forum.ginovs.nl CNAME .
@@ -806,7 +812,7 @@ hk2.ooroot.com CNAME .
 hk-hkg.doh.sb CNAME .
 hole.elbschloss.xyz CNAME .
 home27.duckdns.org CNAME .
-home.phucbui.top CNAME .
+home.ddns.network CNAME .
 home.tuankhaiit.com CNAME .
 hshh.org CNAME .
 httpdns.meituan.com CNAME .
@@ -833,6 +839,7 @@ irre.li CNAME .
 ivnkn.xyz CNAME .
 jabber-germany.de CNAME .
 jackyes.ovh CNAME .
+jarjar.meganerd.nl CNAME .
 jcdns.fun CNAME .
 jit.ddns.net CNAME .
 jp2.ooroot.com CNAME .
@@ -986,7 +993,6 @@ pdns.faelix.net CNAME .
 pdns.itxe.net CNAME .
 per.adfilter.net CNAME .
 pi1.node15.com CNAME .
-piekacz.pl CNAME .
 pihole1.hoerli.net CNAME .
 pihole2.hoerli.net CNAME .
 pihole3.hoerli.net CNAME .
@@ -1167,6 +1173,7 @@ w0125ca5.kasserver.com CNAME .
 wantaquddin.com CNAME .
 wdns.233py.com CNAME .
 webredir.vip.gandi.net CNAME .
+wikimedia-dns.org CNAME .
 www.caifuwu.com CNAME .
 www.c-dns.com CNAME .
 www.dnsadguard.co.uk CNAME .
