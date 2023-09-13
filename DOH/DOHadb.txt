@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2023-09-11 02:21:11 (UTC)
+! Last updated: 2023-09-12 02:05:30 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -12,6 +12,7 @@
 !
 ||1001.cloudflare-dns.com^
 ||1111.cloudflare-dns.com^
+||122.859421.xyz^
 ||180.0rz.space^
 ||1and1-dns.de^
 ||1a.ns.ozer.im^
@@ -366,7 +367,6 @@
 ||dns.google.com^
 ||dns.grqu.de^
 ||dns.ha-dvin.pp.ua^
-||dns.hafidzradhival.my.id^
 ||dns.hahnjo.de^
 ||dns.hanahira.dev^
 ||dns.hanmey.de^
@@ -720,7 +720,6 @@
 ||dot.tiar.app^
 ||dot.westus.pi-dns.com^
 ||dot.xfinity.com^
-||dpeddi.myddns.com^
 ||d.toairs.com^
 ||dukun.de^
 ||dumbledore.steinr.eu^
@@ -765,6 +764,7 @@
 ||feelnosorry.com^
 ||fi.doh.dns.snopyta.org^
 ||fi.dot.dns.snopyta.org^
+||firefenix.duckdns.org^
 ||firefox.dns.nextdns.io^
 ||fly.io^
 ||forum.ginovs.nl^
@@ -802,7 +802,7 @@
 ||hk-hkg.doh.sb^
 ||hole.elbschloss.xyz^
 ||home27.duckdns.org^
-||home.ddns.network^
+||home.phucbui.top^
 ||home.tuankhaiit.com^
 ||hshh.org^
 ||httpdns.meituan.com^
@@ -877,6 +877,7 @@
 ||l.ovpn.bond^
 ||lux1.nixnet.xyz^
 ||lv1.nixnet.xyz^
+||mail.4-the.win^
 ||mail.data.haus^
 ||mailer.amlegion.org^
 ||mailkyb.co^
@@ -981,6 +982,7 @@
 ||pdns.itxe.net^
 ||per.adfilter.net^
 ||pi1.node15.com^
+||piekacz.pl^
 ||pihole1.hoerli.net^
 ||pihole2.hoerli.net^
 ||pihole3.hoerli.net^
