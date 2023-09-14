@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2023-09-12 02:05:30 (UTC)
+! Last updated: 2023-09-13 02:25:18 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -12,7 +12,6 @@
 !
 ||1001.cloudflare-dns.com^
 ||1111.cloudflare-dns.com^
-||122.859421.xyz^
 ||180.0rz.space^
 ||1and1-dns.de^
 ||1a.ns.ozer.im^
@@ -74,11 +73,13 @@
 ||adguard.ihatemy.live^
 ||adguard-ironhide.ultima-thule.ru^
 ||adguard.jfchenier.ca^
+||adguard.kantinyoyok.xyz^
 ||adguard-kartoffel.zernico.de^
 ||adguard.konikoni428.com^
 ||adguard.kss.ovh^
 ||adguard.lege.despagne.net^
 ||adguard.meddy94.de^
+||adguard.mrmartian.co^
 ||adguard.nielsvoorn.nl^
 ||adguard.onlyfriends.info^
 ||adguard.piekacz.pl^
@@ -271,6 +272,7 @@
 ||dns.api.staging.globuscs.info^
 ||dns.api.test.globuscs.info^
 ||dns.aquilenet.fr^
+||dns.arapurayil.com^
 ||dns.artikel10.org^
 ||dns-asia.wugui.zone^
 ||dns.azsopro.net^
@@ -281,6 +283,7 @@
 ||dns.benpro.fr^
 ||dns.beta.gandi.net^
 ||dns.bitdefender.net^
+||dns.bitgeek.in^
 ||dns.blokada.org^
 ||dns.bobstrecansky.com^
 ||dns.bofh.in^
@@ -289,6 +292,7 @@
 ||dnscache.e-utp.net^
 ||dns.carson-family.com^
 ||dns.ceai.com.tw^
+||dns.cfiec.net^
 ||dns.chenu.ch^
 ||dns.chromeina.top^
 ||dns.circl.lu^
@@ -396,6 +400,7 @@
 ||dns.kescher.at^
 ||dns.keweon.center^
 ||dns.kosan.moe^
+||dns.larsdebruin.net^
 ||dns.lars-lehmann.net^
 ||dns.linkr.ninja^
 ||dns.l.o.ovpn.bond^
@@ -716,10 +721,12 @@
 ||dot.pub^
 ||dot.quickline.ch^
 ||dot.seby.io^
+||dot.securedns.eu^
 ||dot-sg.blahdns.com^
 ||dot.tiar.app^
 ||dot.westus.pi-dns.com^
 ||dot.xfinity.com^
+||dpeddi.myddns.com^
 ||d.toairs.com^
 ||dukun.de^
 ||dumbledore.steinr.eu^
@@ -764,7 +771,6 @@
 ||feelnosorry.com^
 ||fi.doh.dns.snopyta.org^
 ||fi.dot.dns.snopyta.org^
-||firefenix.duckdns.org^
 ||firefox.dns.nextdns.io^
 ||fly.io^
 ||forum.ginovs.nl^
@@ -802,7 +808,7 @@
 ||hk-hkg.doh.sb^
 ||hole.elbschloss.xyz^
 ||home27.duckdns.org^
-||home.phucbui.top^
+||home.ddns.network^
 ||home.tuankhaiit.com^
 ||hshh.org^
 ||httpdns.meituan.com^
@@ -829,6 +835,7 @@
 ||ivnkn.xyz^
 ||jabber-germany.de^
 ||jackyes.ovh^
+||jarjar.meganerd.nl^
 ||jcdns.fun^
 ||jit.ddns.net^
 ||jp2.ooroot.com^
@@ -982,7 +989,6 @@
 ||pdns.itxe.net^
 ||per.adfilter.net^
 ||pi1.node15.com^
-||piekacz.pl^
 ||pihole1.hoerli.net^
 ||pihole2.hoerli.net^
 ||pihole3.hoerli.net^
@@ -1163,6 +1169,7 @@
 ||wantaquddin.com^
 ||wdns.233py.com^
 ||webredir.vip.gandi.net^
+||wikimedia-dns.org^
 ||www.caifuwu.com^
 ||www.c-dns.com^
 ||www.dnsadguard.co.uk^
