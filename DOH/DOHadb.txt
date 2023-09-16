@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2023-09-14 02:52:22 (UTC)
+! Last updated: 2023-09-15 02:24:23 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -68,6 +68,7 @@
 ||abel.waringer-atg.de^
 ||abovetheclouds.fun^
 ||abrarvanwebhosting.tk^
+||abstergo.it^
 ||acomit.lk^
 ||ad1guard.duckdns.org^
 ||ad1.heronet.nl^
@@ -483,6 +484,8 @@
 ||arespctw.tk^
 ||argon.molinero.dev^
 ||arkadia100.pl^
+||arm2.nzcow.com^
+||arm3.nzcow.com^
 ||armorrush.eu.org^
 ||as17820865.click^
 ||a.safe.ns.dnslify.com^
@@ -510,6 +513,7 @@
 ||au-syd-w-2.nashkan.net^
 ||au-syd-w-3.nashkan.net^
 ||au.teradns.org^
+||auth.phclinz.de^
 ||auto-cn-hk-8000.go-behind.one^
 ||autodiscover.elshad-adgh-dns.ru^
 ||autodiscover.promsdns.com^
@@ -623,6 +627,7 @@
 ||c.cicitt.ch^
 ||cc.somimobile.com^
 ||ccyykk.top^
+||cdl-lb-1356093980.us-east-1.elb.amazonaws.com^
 ||cdn.implementsfreedom.studio^
 ||c-dns.com^
 ||cedricreitz.com^
@@ -706,6 +711,7 @@
 ||d3.shabi.icu^
 ||d3.supremum.io^
 ||dac-one.nayemador.com^
+||d.adguard-dns.com^
 ||daisukivn.asuscomm.com^
 ||dakulov.synology.me^
 ||dandelionsprout.asuscomm.com^
@@ -719,6 +725,7 @@
 ||daswieddodeushtuhaw.xyz^
 ||davidcampos.duckdns.org^
 ||davidzeh.eu.org^
+||dawnings.cn^
 ||dbbs.dns.databyte-network.com^
 ||dclab.live^
 ||ddd2.loukky.com^
@@ -1676,7 +1683,6 @@
 ||dns.zzuhacker.cn^
 ||dnx.niko-sem.com^
 ||dnx.tttpai.com^
-||dnx.tttpai.com.w.kunlunaq.com^
 ||docker-hub.ir^
 ||dockernet.vpsburti.com^
 ||doctorbrobotnik.com^
@@ -1853,7 +1859,6 @@
 ||dohsg.tonedtanya.com^
 ||doh.sidnlabs.nl^
 ||doh.southam.family^
-||doh.sungai.stream^
 ||doh.syshero.org^
 ||doh.technochat.in^
 ||doh.this.web.id^
@@ -1944,6 +1949,7 @@
 ||dub.r.rnet.ie^
 ||ducphuclee.tech^
 ||dukun.de^
+||dumbledore.steinr.eu^
 ||dupatruwi22.fun^
 ||dus.ysbs.uk^
 ||duyyen.cf^
@@ -1957,6 +1963,7 @@
 ||dyn-ip.borjalopez.eu^
 ||ea-dns.rubyfish.cn^
 ||eaereaper.ru^
+||eajtech.com^
 ||easyhandshake.com^
 ||ec2-52-12-183-214.us-west-2.compute.amazonaws.com^
 ||echoe1yidzu4ioo5.myfritz.net^
@@ -2145,6 +2152,7 @@
 ||haswell-www.a.guindehi.ch^
 ||hcu.icu^
 ||hc.xiwen1988.top^
+||heimdall.ff0x.ca^
 ||helios.plan9-dns.com^
 ||helios.plan9dns.com^
 ||hellojonathan.xyz^
@@ -2183,6 +2191,7 @@
 ||home.501w.net^
 ||home.basthorst.eu^
 ||home.bruckmoser.it^
+||home.ddns.network^
 ||home.dlinkddns.com^
 ||homedns.gumeniuk.com^
 ||homeemoh.ddns.net^
@@ -2200,6 +2209,7 @@
 ||home.psociety.de^
 ||home.qbak.net^
 ||home.quentin-stoeckel.fr^
+||home.skrzypiec.pl^
 ||home.snow-sugar.net^
 ||home.tuankhaiit.com^
 ||home.wriedts.de^
@@ -2334,6 +2344,8 @@
 ||kendentil.org.uk^
 ||kenit.me^
 ||kennethhuang.com^
+||kent6.ajaest.net^
+||kent6.dyn.ajaest.net^
 ||kerio.dns.amigo-mgn.ru^
 ||keymiagar.ir^
 ||khsan.com^
@@ -2745,6 +2757,7 @@
 ||phucbui.top^
 ||pi1.node15.com^
 ||pi.daryllswer.net^
+||piekacz.pl^
 ||pihole1.hoerli.net^
 ||pihole2.hoerli.net^
 ||pihole3.hoerli.net^
@@ -3041,6 +3054,7 @@
 ||steff.sbs^
 ||storage.jjlizz.com^
 ||storydoh.kinergetica.com^
+||strata.gurupannu.com^
 ||stream.securely.sh^
 ||streltsov.net^
 ||stuxen.duckdns.org^
@@ -3054,6 +3068,7 @@
 ||sv.oispace.eu.org^
 ||sweethome.in.eu.org^
 ||switch.ch^
+||swoletux.ave.zone^
 ||syd1.norgannetworks.net.au^
 ||syd.adfilter.net^
 ||syd.core.access.zznet.fun^
@@ -3085,6 +3100,7 @@
 ||testdjango.live^
 ||test.dnsteam.globuscs.info^
 ||test.fatucloud.gosprout.org^
+||tezoi.duckdns.org^
 ||thanh933.cf^
 ||thanos.pleumkungz.com^
 ||thebeloveduck.duckdns.org^
@@ -3160,6 +3176,7 @@
 ||unixfox.duckdns.org^
 ||uradoori.org^
 ||uranus.plonknet.com^
+||urlforward.namebright.com^
 ||urology.wiki^
 ||us01.dns4me.net^
 ||us02.dns4me.net^
@@ -3214,6 +3231,7 @@
 ||v3.passby.eu.org^
 ||v3.passby.ga^
 ||v6.rubyfish.cn^
+||vador.sillundil.ovh^
 ||valis.sx^
 ||vallecerroazul.com^
 ||valleverde.icu^
@@ -3284,7 +3302,6 @@
 ||vps.fleuryk.ovh^
 ||vps.grussenmeyer.com^
 ||vps.jmarkin.ru^
-||vps.skrzypiec.pl^
 ||vpsus3.pzhg.me^
 ||vps.vokuev.org^
 ||vsrv15195.customer.xenway.de^
