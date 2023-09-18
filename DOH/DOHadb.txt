@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2023-09-16 02:06:54 (UTC)
+! Last updated: 2023-09-17 02:43:46 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -66,9 +66,9 @@
 ||aalqudah.site^
 ||aattwwss.duckdns.org^
 ||abel.waringer-atg.de^
+||ablock.fuckit.ovh^
 ||abovetheclouds.fun^
 ||abrarvanwebhosting.tk^
-||abstergo.it^
 ||acomit.lk^
 ||ad1guard.duckdns.org^
 ||ad1.heronet.nl^
@@ -108,6 +108,7 @@
 ||adfree.usableprivacy.net^
 ||adg2.felhocskek.hu^
 ||adg2.spacework.com.mx^
+||adg.acrobyte.org^
 ||adgaurd.lingmont.net^
 ||adg.dankatapich.eu.org^
 ||adgdns.duckdns.org^
@@ -173,6 +174,7 @@
 ||adguard.cepenjak.com^
 ||adguard.chanhome.xyz^
 ||adguard.chriskutschker.de^
+||adguard.cinicollerico.top^
 ||adguard.clawsucht.nrw^
 ||adguardcloud.bwasson.com^
 ||adguard.cloud-chen.idv.tw^
@@ -434,6 +436,7 @@
 ||a.lilinth.com^
 ||alisa.dns.amigo-mgn.ru^
 ||alisa.fb.i81.ru^
+||alisa.hr.i81.ru^
 ||alisa.vd.i81.ru^
 ||alisa.vpn.i81.ru^
 ||all.dns.mullvad.net^
@@ -443,6 +446,8 @@
 ||altvpn.ppm.mrhost.biz^
 ||amd1.sjp.loukky.com^
 ||amgr.ddns.net^
+||amigo.hr.i81.ru^
+||amigo.px.i81.ru^
 ||amigo.vd.i81.ru^
 ||amigo.vpn.i81.ru^
 ||a.mole.cf^
@@ -461,7 +466,6 @@
 ||an.loliconapp.top^
 ||a.ns.dnslify.com^
 ||ant.dns.qwer.pw^
-||antidns.s.tuna.tsinghua.edu.cn^
 ||anti-tahrim.bazipardaz.com^
 ||antivirus.bebasid.com^
 ||antonyfrompnz.space^
@@ -484,10 +488,9 @@
 ||arespctw.tk^
 ||argon.molinero.dev^
 ||arkadia100.pl^
-||arm2.nzcow.com^
-||arm3.nzcow.com^
 ||armorrush.eu.org^
 ||as17820865.click^
+||as6604t-04.myasustor.com^
 ||a.safe.ns.dnslify.com^
 ||asbordns.ddns.net^
 ||asdfcomparator.tk^
@@ -513,7 +516,6 @@
 ||au-syd-w-2.nashkan.net^
 ||au-syd-w-3.nashkan.net^
 ||au.teradns.org^
-||auth.phclinz.de^
 ||auto-cn-hk-8000.go-behind.one^
 ||autodiscover.elshad-adgh-dns.ru^
 ||autodiscover.promsdns.com^
@@ -576,6 +578,7 @@
 ||blokit.esohjay.tk^
 ||blokuj.ujwie.co^
 ||bluecomet.eu.org^
+||bluedns.xyz^
 ||bluemood.me^
 ||bluewall.cloud^
 ||b.ns.dnslify.com^
@@ -628,6 +631,7 @@
 ||cc.somimobile.com^
 ||ccyykk.top^
 ||cdl-lb-1356093980.us-east-1.elb.amazonaws.com^
+||cdn.0ms.dev^
 ||cdn.implementsfreedom.studio^
 ||c-dns.com^
 ||cedricreitz.com^
@@ -660,6 +664,7 @@
 ||cloud.198.games^
 ||cloud6.ownvps.ml^
 ||cloud8.ownvps.ml^
+||cloud8.yydsgod.eu.org^
 ||cloud.centralgenerator.net^
 ||cloudflare-dns.com^
 ||cloudflare-gateway.com^
@@ -711,7 +716,6 @@
 ||d3.shabi.icu^
 ||d3.supremum.io^
 ||dac-one.nayemador.com^
-||d.adguard-dns.com^
 ||daisukivn.asuscomm.com^
 ||dakulov.synology.me^
 ||dandelionsprout.asuscomm.com^
@@ -725,7 +729,6 @@
 ||daswieddodeushtuhaw.xyz^
 ||davidcampos.duckdns.org^
 ||davidzeh.eu.org^
-||dawnings.cn^
 ||dbbs.dns.databyte-network.com^
 ||dclab.live^
 ||ddd2.loukky.com^
@@ -845,6 +848,7 @@
 ||dns1.tardishost.ru^
 ||dns1.taterdns.nl^
 ||dns1.techeasy.org^
+||dns-1.trust2it.ch^
 ||dns.209.wf^
 ||dns.233py.com^
 ||dns.233py.com.cdn.cloudflare.net^
@@ -943,6 +947,7 @@
 ||dns.aerro.in^
 ||dns.aganin.org^
 ||dnsaguard1.duckdns.org^
+||dns.ahmgam.com^
 ||dns.ahmgam.me^
 ||dns.ahyxluo.ltd^
 ||dns.ai6.ir^
@@ -1145,6 +1150,7 @@
 ||dns.ext4.in^
 ||dns-ext.familiamichels.com.br^
 ||dns.extrawdw.net^
+||dns.fafr.fun^
 ||dns.fahr.in^
 ||dns.familiamichels.com.br^
 ||dns-family.adguard.com^
@@ -1225,7 +1231,9 @@
 ||dns.hostux.net^
 ||dns.hotta.page^
 ||dns.housedenolf.be^
+||dns.hr.i81.ru^
 ||dns.hubservices.vn^
+||dns.hugo0.moe^
 ||dns.hung-quach.com^
 ||dns.huseynov.work^
 ||dns.hva.li^
@@ -1633,6 +1641,7 @@
 ||dns.vladpro.ru^
 ||dns.vlo.cc^
 ||dns.vmath.my.id^
+||dns.vpn.i81.ru^
 ||dnsvps.porteii.com^
 ||dnsvs.duckdns.org^
 ||dns.wakgood.net^
@@ -1648,6 +1657,7 @@
 ||dnswebvsn.com^
 ||dns.weixin.qq.com.cn^
 ||dns.wellstsai.com^
+||dns.whwangpan.top^
 ||dns.why4free.top^
 ||dns.wibenson.cloud^
 ||dns.williamlwu.com^
@@ -1949,7 +1959,6 @@
 ||dub.r.rnet.ie^
 ||ducphuclee.tech^
 ||dukun.de^
-||dumbledore.steinr.eu^
 ||dupatruwi22.fun^
 ||dus.ysbs.uk^
 ||duyyen.cf^
@@ -1963,10 +1972,10 @@
 ||dyn-ip.borjalopez.eu^
 ||ea-dns.rubyfish.cn^
 ||eaereaper.ru^
-||eajtech.com^
 ||easyhandshake.com^
 ||ec2-52-12-183-214.us-west-2.compute.amazonaws.com^
 ||echoe1yidzu4ioo5.myfritz.net^
+||ecs-auto.fanscloud.net^
 ||ecs-doh.dnswarden.com^
 ||eddi.usgovtrafficmanager.net^
 ||edgar.tobkar.net^
@@ -2015,6 +2024,7 @@
 ||family.privdns.org^
 ||family.puredns.org^
 ||familyshield.opendns.com^
+||fanscloud.net^
 ||faradns.net^
 ||fatia.org^
 ||fb.i81.ru^
@@ -2034,7 +2044,9 @@
 ||filmgardi.ml^
 ||filter.chyperx.cc^
 ||filya.fb.i81.ru^
+||filya.hr.i81.ru^
 ||filya.vd.i81.ru^
+||filya.vpn.i81.ru^
 ||findmethedns.info^
 ||firefox.dns.nextdns.io^
 ||firewall.darknet.bg^
@@ -2188,6 +2200,7 @@
 ||hole.elbschloss.xyz^
 ||home27.duckdns.org^
 ||home3.brosena.xyz^
+||home47a.mooo.com^
 ||home.501w.net^
 ||home.basthorst.eu^
 ||home.bruckmoser.it^
@@ -2207,6 +2220,7 @@
 ||home.phucbui.top^
 ||home.pragmasec.nl^
 ||home.psociety.de^
+||home.px.i81.ru^
 ||home.qbak.net^
 ||home.quentin-stoeckel.fr^
 ||home.skrzypiec.pl^
@@ -2245,6 +2259,7 @@
 ||igor.bw.i81.ru^
 ||igor.dns.amigo-mgn.ru^
 ||igor.fb.i81.ru^
+||igor.hr.i81.ru^
 ||igor.vd.i81.ru^
 ||igor.vpn.i81.ru^
 ||ihctw.synology.me^
@@ -2344,8 +2359,6 @@
 ||kendentil.org.uk^
 ||kenit.me^
 ||kennethhuang.com^
-||kent6.ajaest.net^
-||kent6.dyn.ajaest.net^
 ||kerio.dns.amigo-mgn.ru^
 ||keymiagar.ir^
 ||khsan.com^
@@ -2364,6 +2377,7 @@
 ||kotys.bw.i81.ru^
 ||kotys.dns.amigo-mgn.ru^
 ||kotys.fb.i81.ru^
+||kotys.hr.i81.ru^
 ||kotys.vd.i81.ru^
 ||kotys.vpn.i81.ru^
 ||kozak.ujwie.co^
@@ -2407,7 +2421,9 @@
 ||lelux.fi^
 ||lemonpiesite.duckdns.org^
 ||lena.fb.i81.ru^
+||lena.hr.i81.ru^
 ||lena.vd.i81.ru^
+||lena.vpn.i81.ru^
 ||leochen-dns.ddns.net^
 ||levislondon-proxy.nerdpol.ovh^
 ||lf-ns-001.my.to^
@@ -2438,6 +2454,7 @@
 ||lt-vil-w-2.nashkan.net^
 ||lt-vil-w-3.nashkan.net^
 ||luba.fb.i81.ru^
+||luba.hr.i81.ru^
 ||luba.vd.i81.ru^
 ||luba.vpn.i81.ru^
 ||lux1.nixnet.xyz^
@@ -2573,6 +2590,7 @@
 ||newlibrarian.myqnapcloud.com^
 ||new.nhunor.com^
 ||next.miao.ninja^
+||nfti.duckdns.org^
 ||ngc0226.ddns.net^
 ||ng-lag-w-1.nashkan.net^
 ||nicktruehome.ddns.net^
@@ -2682,6 +2700,7 @@
 ||oko.haneulo.com^
 ||olga.dns.amigo-mgn.ru^
 ||olga.fb.i81.ru^
+||olga.hr.i81.ru^
 ||olga.vd.i81.ru^
 ||olga.vpn.i81.ru^
 ||olivier-adguard.duckdns.org^
@@ -2757,7 +2776,6 @@
 ||phucbui.top^
 ||pi1.node15.com^
 ||pi.daryllswer.net^
-||piekacz.pl^
 ||pihole1.hoerli.net^
 ||pihole2.hoerli.net^
 ||pihole3.hoerli.net^
@@ -3015,6 +3033,7 @@
 ||siyazia.duckdns.org^
 ||sj2.2333www.tk^
 ||s.justlife.fun^
+||sk.9727158.xyz^
 ||sk-bra-w-1.nashkan.net^
 ||skillzdns.ru^
 ||skioso.top^
@@ -3026,6 +3045,7 @@
 ||sm5q237c0.g666gle.me^
 ||smtp.greppie.nl^
 ||snd.jaxif.com^
+||snoke.meganerd.nl^
 ||soay38us0r7goa7.cmsdp.my.id^
 ||soeding.ddnss.de^
 ||solution.w10.life^
@@ -3054,7 +3074,6 @@
 ||steff.sbs^
 ||storage.jjlizz.com^
 ||storydoh.kinergetica.com^
-||strata.gurupannu.com^
 ||stream.securely.sh^
 ||streltsov.net^
 ||stuxen.duckdns.org^
@@ -3068,7 +3087,6 @@
 ||sv.oispace.eu.org^
 ||sweethome.in.eu.org^
 ||switch.ch^
-||swoletux.ave.zone^
 ||syd1.norgannetworks.net.au^
 ||syd.adfilter.net^
 ||syd.core.access.zznet.fun^
@@ -3239,7 +3257,9 @@
 ||vanced.racinas.com^
 ||varganet.org^
 ||vasya.fb.i81.ru^
+||vasya.hr.i81.ru^
 ||vasya.vd.i81.ru^
+||vasya.vpn.i81.ru^
 ||vault.lisl.ink^
 ||vcdriy.top^
 ||vd.i81.ru^
@@ -3265,9 +3285,12 @@
 ||v.or2o.ml^
 ||vovadeti.fb.i81.ru^
 ||vova.fb.i81.ru^
+||vova.hr.i81.ru^
 ||vovale.dns.amigo-mgn.ru^
 ||vovale.fb.i81.ru^
+||vovale.hr.i81.ru^
 ||vovale.vd.i81.ru^
+||vovale.vpn.i81.ru^
 ||vova.vd.i81.ru^
 ||vova.vpn.i81.ru^
 ||vpn0109.voodonline.fr^
@@ -3335,7 +3358,9 @@
 ||wikimedia-dns.org^
 ||wikipeter.me^
 ||win10virtual.fb.i81.ru^
+||win10virtual.hr.i81.ru^
 ||win10virtual.vd.i81.ru^
+||win10virtual.vpn.i81.ru^
 ||win-d7snj2gu70b.duckdns.org^
 ||wir.rbs-net.ru^
 ||wmapi.cn^
@@ -3385,6 +3410,7 @@
 ||www.eaereaper.ru^
 ||www.elshad-adgh-dns.ru^
 ||www.eweyo.ru^
+||www.fanscloud.net^
 ||www.feelnosorry.com^
 ||www.ggrbb.xyz^
 ||www.greppie.nl^
@@ -3487,6 +3513,7 @@
 ||yvanliang.tech^
 ||yy.80208020.xyz^
 ||yyaan.com^
+||yyc.ink^
 ||yyqsite.top^
 ||za-joh-w-2.nashkan.net^
 ||zak.ath.cx^
