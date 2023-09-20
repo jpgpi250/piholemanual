@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2309190200 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2309200213 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2023-09-19 02:00:20 (UTC)
+; Last updated: 2023-09-20 02:13:37 (UTC)
 ;
 ; See https://jpgpi250.github.io/piholemanual/doc/Unbound%20response%20policy%20zones.pdf
 ; Report issues at https://github.com/jpgpi250/piholemanual/issues
@@ -639,7 +639,6 @@ c-c.eve.surf CNAME .
 c.cicitt.ch CNAME .
 cc.somimobile.com CNAME .
 ccyykk.top CNAME .
-cdl-lb-1356093980.us-east-1.elb.amazonaws.com CNAME .
 cdn.0ms.dev CNAME .
 cdn.implementsfreedom.studio CNAME .
 c-dns.com CNAME .
@@ -692,7 +691,6 @@ cname-for-doh.go-behind.one CNAME .
 cnnic-chinatelecom-chinamobile-chinaunicom--bili-d.dahi.icu CNAME .
 cn.turngreatwall.com CNAME .
 colean.go.ro CNAME .
-comingsoon.namebright.com CNAME .
 commons.host CNAME .
 comss.one CNAME .
 comss.ru CNAME .
@@ -1920,6 +1918,7 @@ dot.chi.ahadns.net CNAME .
 dot.cox.net CNAME .
 dot-de.blahdns.com CNAME .
 dotdns.cryptroute.com CNAME .
+dot.dns-ga.de CNAME .
 dot-dns.zmy.cloud CNAME .
 dotdown.netlify.app CNAME .
 dot.eastas.pi-dns.com CNAME .
@@ -2793,7 +2792,6 @@ photo.dehb.ru CNAME .
 phucbui.top CNAME .
 pi1.node15.com CNAME .
 pi.daryllswer.net CNAME .
-piekacz.pl CNAME .
 pihole1.hoerli.net CNAME .
 pihole2.hoerli.net CNAME .
 pihole3.hoerli.net CNAME .
