@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2023-09-19 02:19:50 (UTC)
+! Last updated: 2023-09-20 02:33:14 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -635,7 +635,6 @@
 ||c.cicitt.ch^
 ||cc.somimobile.com^
 ||ccyykk.top^
-||cdl-lb-1356093980.us-east-1.elb.amazonaws.com^
 ||cdn.0ms.dev^
 ||cdn.implementsfreedom.studio^
 ||c-dns.com^
@@ -688,7 +687,6 @@
 ||cnnic-chinatelecom-chinamobile-chinaunicom--bili-d.dahi.icu^
 ||cn.turngreatwall.com^
 ||colean.go.ro^
-||comingsoon.namebright.com^
 ||commons.host^
 ||comss.one^
 ||comss.ru^
@@ -1916,6 +1914,7 @@
 ||dot.cox.net^
 ||dot-de.blahdns.com^
 ||dotdns.cryptroute.com^
+||dot.dns-ga.de^
 ||dot-dns.zmy.cloud^
 ||dotdown.netlify.app^
 ||dot.eastas.pi-dns.com^
@@ -2789,7 +2788,6 @@
 ||phucbui.top^
 ||pi1.node15.com^
 ||pi.daryllswer.net^
-||piekacz.pl^
 ||pihole1.hoerli.net^
 ||pihole2.hoerli.net^
 ||pihole3.hoerli.net^
