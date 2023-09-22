@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2023-09-20 02:33:14 (UTC)
+! Last updated: 2023-09-21 02:28:49 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -2407,7 +2407,6 @@
 ||krtekvpn.duckdns.org^
 ||kr.telex.app^
 ||kr-x64-2.lov.host^
-||ks1.plop.cc^
 ||k-s-edition.ru^
 ||ksedns.ru^
 ||kudns.kescher.at^
@@ -2788,6 +2787,7 @@
 ||phucbui.top^
 ||pi1.node15.com^
 ||pi.daryllswer.net^
+||piekacz.pl^
 ||pihole1.hoerli.net^
 ||pihole2.hoerli.net^
 ||pihole3.hoerli.net^
@@ -2969,6 +2969,7 @@
 ||secureadguarddns.charleslondon.online^
 ||secure.anudeep.me^
 ||secure.avastdns.com^
+||secure-dns.dns-ga.de^
 ||securedns.vendorvista.xyz^
 ||securenet.mhsystems.net^
 ||secure.onedns.cc^
