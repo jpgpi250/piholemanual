@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2023-09-21 02:28:49 (UTC)
+! Last updated: 2023-09-22 02:53:22 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -64,6 +64,7 @@
 ||a11.diplo.es^
 ||a5135324.csie.io^
 ||aalqudah.site^
+||aang7.com^
 ||aattwwss.duckdns.org^
 ||abel.waringer-atg.de^
 ||ablock.fuckit.ovh^
@@ -254,6 +255,7 @@
 ||adguard-kartoffel.zernico.de^
 ||adguard.kaytek.org^
 ||adguard.kenzohost.de^
+||adguard.kibaofficial.net^
 ||adguard.kinnee.net^
 ||adguard.kngnet.de^
 ||adguard.konikoni428.com^
@@ -422,6 +424,7 @@
 ||ahadns.net^
 ||ahboy.asuscomm.com^
 ||ahcek.com^
+||ah.tr1n.me^
 ||aimuz.me^
 ||airmaxcloud.ml^
 ||aizi.app^
@@ -490,8 +493,6 @@
 ||arespctw.tk^
 ||argon.molinero.dev^
 ||arkadia100.pl^
-||arm2.nzcow.com^
-||arm3.nzcow.com^
 ||armorrush.eu.org^
 ||as17820865.click^
 ||as6604t-04.myasustor.com^
@@ -520,7 +521,6 @@
 ||au-syd-w-2.nashkan.net^
 ||au-syd-w-3.nashkan.net^
 ||au.teradns.org^
-||auth.phclinz.de^
 ||auto-cn-hk-8000.go-behind.one^
 ||autodiscover.elshad-adgh-dns.ru^
 ||autodiscover.promsdns.com^
@@ -720,7 +720,7 @@
 ||d3.shabi.icu^
 ||d3.supremum.io^
 ||dac-one.nayemador.com^
-||d.adguard-dns.com^
+||dadns.one^
 ||daisukivn.asuscomm.com^
 ||dakulov.synology.me^
 ||dandelionsprout.asuscomm.com^
@@ -732,9 +732,9 @@
 ||dart.kpsn.org^
 ||darya.persiannit.net^
 ||daswieddodeushtuhaw.xyz^
+||dat.privatedns.org^
 ||davidcampos.duckdns.org^
 ||davidzeh.eu.org^
-||dawnings.cn^
 ||dbbs.dns.databyte-network.com^
 ||dclab.live^
 ||ddd2.loukky.com^
@@ -1351,6 +1351,7 @@
 ||dns.magnon-box.tk^
 ||dns.magnon.duckdns.org^
 ||dns.majaroboan.de^
+||dns.malhuda.com^
 ||dns.malwarelul.download^
 ||dns.maolaohei.xyz^
 ||dns.maomengte.com^
@@ -1376,6 +1377,7 @@
 ||dns.molinero.dev^
 ||dns.moog.sh^
 ||dns.moonssif.com^
+||dns.moonwx.net^
 ||dns.moulticast.net^
 ||dns.mrkaran.dev^
 ||dns.msameh.tk^
@@ -1678,6 +1680,7 @@
 ||dns.xryen.com^
 ||dns.xyzz.live^
 ||dns.yameenassotally.com^
+||dns.yandex.ru^
 ||dns.ygonline.de^
 ||dns.yingroad.top^
 ||dns.ymv8.cn^
@@ -1967,7 +1970,6 @@
 ||dub.r.rnet.ie^
 ||ducphuclee.tech^
 ||dukun.de^
-||dumbledore.steinr.eu^
 ||dupatruwi22.fun^
 ||dus.ysbs.uk^
 ||duyyen.cf^
@@ -1981,7 +1983,6 @@
 ||dyn-ip.borjalopez.eu^
 ||ea-dns.rubyfish.cn^
 ||eaereaper.ru^
-||eajtech.com^
 ||easyhandshake.com^
 ||ec2-52-12-183-214.us-west-2.compute.amazonaws.com^
 ||echoe1yidzu4ioo5.myfritz.net^
@@ -2029,6 +2030,7 @@
 ||family.cloudflaredns.com^
 ||family.dns.ningkelle.id^
 ||family.dns.vladpro.ru^
+||family.dns.yandex.ru^
 ||family-filter-dns.cleanbrowsing.org^
 ||family.freedns.controld.com^
 ||family.privdns.org^
@@ -2321,6 +2323,7 @@
 ||jjm.asia^
 ||jkdsm.com^
 ||jonasdevries.de^
+||jonathanaugusto.freeddns.org^
 ||jonesboyz.duckdns.org^
 ||joy096speed.pp.ua^
 ||jp01.just-a-web.com^
@@ -2330,6 +2333,7 @@
 ||jp3.meidouling.com^
 ||jp.68360612.xyz^
 ||jp-dns1.bancuh.com^
+||jpdns.billyau.net^
 ||jpdns.cola16.app^
 ||jp.dns.ikataruto.com^
 ||jp.gridns.xyz^
@@ -2369,8 +2373,6 @@
 ||kendentil.org.uk^
 ||kenit.me^
 ||kennethhuang.com^
-||kent6.ajaest.net^
-||kent6.dyn.ajaest.net^
 ||kerio.dns.amigo-mgn.ru^
 ||keymiagar.ir^
 ||khsan.com^
@@ -2407,6 +2409,7 @@
 ||krtekvpn.duckdns.org^
 ||kr.telex.app^
 ||kr-x64-2.lov.host^
+||ks1.plop.cc^
 ||k-s-edition.ru^
 ||ksedns.ru^
 ||kudns.kescher.at^
@@ -2679,6 +2682,7 @@
 ||ns.slynx.net^
 ||ns.solutics.ec^
 ||ns.tkdns.ru^
+||ns.try-dns.online^
 ||ntu.ssooss.win^
 ||nudnud.com^
 ||nukys.ca^
@@ -2900,6 +2904,7 @@
 ||resolver.cloudflare-eth.com^
 ||resolver-eu.haringstad.com^
 ||resolver-eu.lelux.fi^
+||resolver.frank-ruan.com^
 ||resolver.noaddns.com^
 ||resolver.r0cket.net^
 ||resolver.rferee.dev^
@@ -2945,6 +2950,7 @@
 ||s.960423.xyz^
 ||sa01.dns4me.net^
 ||sabeendns.hopto.org^
+||safe.dns.yandex.ru^
 ||safeservedns.com^
 ||sagutxustech.com^
 ||saikoudns.tk^
@@ -2965,6 +2971,9 @@
 ||seaofbits.com^
 ||secforads3.ch^
 ||secondary-dns.victorhachard.fr^
+||secondary.dns.yandex.ru^
+||secondary.family.dns.yandex.ru^
+||secondary.safe.dns.yandex.ru^
 ||secure-4ud.de^
 ||secureadguarddns.charleslondon.online^
 ||secure.anudeep.me^
@@ -3087,7 +3096,6 @@
 ||steff.sbs^
 ||storage.jjlizz.com^
 ||storydoh.kinergetica.com^
-||strata.gurupannu.com^
 ||stream.securely.sh^
 ||streltsov.net^
 ||stuxen.duckdns.org^
@@ -3101,7 +3109,6 @@
 ||sv.oispace.eu.org^
 ||sweethome.in.eu.org^
 ||switch.ch^
-||swoletux.ave.zone^
 ||syd1.norgannetworks.net.au^
 ||syd.adfilter.net^
 ||syd.core.access.zznet.fun^
@@ -3263,7 +3270,6 @@
 ||v3.passby.eu.org^
 ||v3.passby.ga^
 ||v6.rubyfish.cn^
-||vador.sillundil.ovh^
 ||valis.sx^
 ||vallecerroazul.com^
 ||valleverde.icu^
