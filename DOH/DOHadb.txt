@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2023-09-26 02:26:00 (UTC)
+! Last updated: 2023-09-27 02:53:28 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -169,6 +169,7 @@
 ||adguard.beliefanx.cn^
 ||adguard.beliefanx.me^
 ||adguard.betamax65.de^
+||adguard.biandrestreso.com^
 ||adguard.bitteeinbyte.de^
 ||adguard.borgwardtech.net^
 ||adguard.brandonsli.com^
@@ -373,6 +374,7 @@
 ||adns.lighthousemd.co^
 ||adns.onlinetools.rocks^
 ||ad.orvvkoi.date^
+||ads.breitenfurt.us^
 ||ads-doh.securedns.eu^
 ||ads-eu.landgame.net^
 ||adsfree.ddns.net^
@@ -474,6 +476,7 @@
 ||anti-tahrim.bazipardaz.com^
 ||antivirus.bebasid.com^
 ||antonyfrompnz.space^
+||anycast.0ms.dev^
 ||anycast.censurfridns.dk^
 ||anycast.censurfridns.nu^
 ||anycast.dns.nextdns.io^
@@ -493,8 +496,6 @@
 ||arespctw.tk^
 ||argon.molinero.dev^
 ||arkadia100.pl^
-||arm2.nzcow.com^
-||arm3.nzcow.com^
 ||armorrush.eu.org^
 ||as17820865.click^
 ||as6604t-04.myasustor.com^
@@ -523,7 +524,6 @@
 ||au-syd-w-2.nashkan.net^
 ||au-syd-w-3.nashkan.net^
 ||au.teradns.org^
-||auth.phclinz.de^
 ||auto-cn-hk-8000.go-behind.one^
 ||autodiscover.elshad-adgh-dns.ru^
 ||autodiscover.promsdns.com^
@@ -594,6 +594,7 @@
 ||box.negaforce.com^
 ||bravedns.com^
 ||brb.pp.ua^
+||breitenfurt.us^
 ||bropines.online^
 ||br-sao-w-1.nashkan.net^
 ||br.servers.legat.ml^
@@ -723,7 +724,6 @@
 ||d3.shabi.icu^
 ||d3.supremum.io^
 ||dac-one.nayemador.com^
-||d.adguard-dns.com^
 ||dadns.one^
 ||daisukivn.asuscomm.com^
 ||dakulov.synology.me^
@@ -739,7 +739,6 @@
 ||dat.privatedns.org^
 ||davidcampos.duckdns.org^
 ||davidzeh.eu.org^
-||dawnings.cn^
 ||dbbs.dns.databyte-network.com^
 ||dclab.live^
 ||ddd2.loukky.com^
@@ -1412,6 +1411,7 @@
 ||dns.ngc7331.top^
 ||dns.nguyendn.com^
 ||dns.nhtsky.com^
+||dns.nhunor.com^
 ||dns.nicolas.vip^
 ||dns.nieto.app^
 ||dns.nietostuff.com^
@@ -1680,6 +1680,8 @@
 ||dns.worthmind.net^
 ||dns.wpice.ru^
 ||dns.wugui.zone^
+||dns.xiayang.space^
+||dns.xie.ke^
 ||dns.xinwujiang.cn^
 ||dns.xn--29ab3cg3bhgt.xn--y9a3aq^
 ||dns.xryen.com^
@@ -1975,7 +1977,6 @@
 ||dub.r.rnet.ie^
 ||ducphuclee.tech^
 ||dukun.de^
-||dumbledore.steinr.eu^
 ||dupatruwi22.fun^
 ||dus.ysbs.uk^
 ||duyyen.cf^
@@ -1989,7 +1990,6 @@
 ||dyn-ip.borjalopez.eu^
 ||ea-dns.rubyfish.cn^
 ||eaereaper.ru^
-||eajtech.com^
 ||easyhandshake.com^
 ||ec2-52-12-183-214.us-west-2.compute.amazonaws.com^
 ||echoe1yidzu4ioo5.myfritz.net^
@@ -2380,8 +2380,6 @@
 ||kendentil.org.uk^
 ||kenit.me^
 ||kennethhuang.com^
-||kent6.ajaest.net^
-||kent6.dyn.ajaest.net^
 ||kerio.dns.amigo-mgn.ru^
 ||keymiagar.ir^
 ||khsan.com^
@@ -2867,6 +2865,7 @@
 ||qlee0001.eastasia.cloudapp.azure.com^
 ||qlee.eastasia.cloudapp.azure.com^
 ||qlf-doh.inria.fr^
+||qq-sg-1.node.xieke.org^
 ||quantum-age.cn^
 ||query.hdns.io^
 ||qwenty.ru^
@@ -2965,6 +2964,7 @@
 ||sakuraknight2023.top^
 ||sams.adg.siudzinski.net^
 ||sandbox.opendns.com^
+||sarawut.ddns.net^
 ||saruman.freeddns.org^
 ||saya.rnrkurir.com^
 ||sbdns.co.in^
@@ -3104,7 +3104,6 @@
 ||steff.sbs^
 ||storage.jjlizz.com^
 ||storydoh.kinergetica.com^
-||strata.gurupannu.com^
 ||stream.securely.sh^
 ||streltsov.net^
 ||stuxen.duckdns.org^
@@ -3118,7 +3117,6 @@
 ||sv.oispace.eu.org^
 ||sweethome.in.eu.org^
 ||switch.ch^
-||swoletux.ave.zone^
 ||syd1.norgannetworks.net.au^
 ||syd.adfilter.net^
 ||syd.core.access.zznet.fun^
@@ -3187,6 +3185,7 @@
 ||tr-izm-w-1.nashkan.net^
 ||trojan.nowave.top^
 ||trr.dns.nextdns.io^
+||trytackle.ddns.net^
 ||ttag.dns.nomu.pw^
 ||tuandns.duckdns.org^
 ||tuanvpn.freeddns.org^
@@ -3511,6 +3510,7 @@
 ||xantirealityx.net^
 ||xenergy.cc^
 ||xiaolong.link^
+||xie.ke^
 ||xkariak.asuscomm.com^
 ||xm.ln7371.top^
 ||xn--80aecoigf4aatn.xn--p1ai^
