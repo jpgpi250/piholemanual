@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2023-09-27 02:53:28 (UTC)
+! Last updated: 2023-09-28 03:12:56 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -70,11 +70,11 @@
 ||ablock.fuckit.ovh^
 ||abovetheclouds.fun^
 ||abrarvanwebhosting.tk^
-||abstergo.it^
 ||acomit.lk^
 ||ad1guard.duckdns.org^
 ||ad1.heronet.nl^
 ||ad2.heronet.nl^
+||ad.344556.xyz^
 ||ad4msan.win^
 ||ad.aghaaliagha.tk^
 ||adampowell.pro^
@@ -107,6 +107,7 @@
 ||ad.dscw.io^
 ||ad.emekm.fr^
 ||adenvps.cf^
+||adf-114.neta.otrofda.nl^
 ||adfree.usableprivacy.net^
 ||adg2.felhocskek.hu^
 ||adg2.spacework.com.mx^
@@ -431,6 +432,7 @@
 ||airmaxcloud.ml^
 ||aizi.app^
 ||a.jij.kr^
+||akaboom.fun^
 ||akaboom.ru^
 ||akhil.ddns.net^
 ||akhilkalwakurthy.dyndns.org^
@@ -1119,6 +1121,7 @@
 ||dnsdohnosafesearch.dnsforfamily.com^
 ||dns.domsku.com^
 ||dns.dooks.uk^
+||dns.doserver.top^
 ||dns-dot.dnsforfamily.com^
 ||dns.doubleangels.com^
 ||dns.dream-hosting.ovh^
@@ -1192,6 +1195,7 @@
 ||dns.freyja.pw^
 ||dnsfr.markovskilab.com^
 ||dns.froth.zone^
+||dns.fullaccesstointernet.jp.eu.org^
 ||d-n-s.fun^
 ||dns.futuredns.me^
 ||dns.gametest.eu.org^
@@ -1403,6 +1407,7 @@
 ||dns.nas-server.ru^
 ||dns.nayemador.com^
 ||dns.ndo.dev^
+||dns.netraptor.com.au^
 ||dns.netrope.com^
 ||dns.netrve.net^
 ||dns.neubsi.at^
@@ -1471,11 +1476,11 @@
 ||dns.patrickbianchi.com^
 ||dns.pawitra.net^
 ||dns-pdx.bastnet.co^
+||dns.periactes.com^
 ||dns.perzarys.eu^
 ||dns.phucbui.top^
 ||dns.phuctran.cloud^
 ||dns.pieterdherde.com^
-||dns.pietjacobs.be^
 ||dns.pldweb.net^
 ||dnspod.clzapp.com^
 ||dns.porteii.com^
@@ -1630,6 +1635,7 @@
 ||dns.unerror.network^
 ||dns-unfiltered.adguard.com^
 ||dnsunfiltered.adguard.com^
+||dns.unitech.company^
 ||dns.unx.io^
 ||dns.uplenk.com^
 ||dns.us-ashburn-1.oci.oraclecloud.com^
@@ -1906,6 +1912,7 @@
 ||doh.xcom.pro^
 ||doh.xfinity.com^
 ||doh.zephyrus.id^
+||domainexpired.dnspod.cn^
 ||dominatrix.brandonsli.com^
 ||donghovietkid.cloud^
 ||dop.privatedns.org^
@@ -2059,6 +2066,7 @@
 ||fi.doh.dns.snopyta.org^
 ||fi.dot.dns.snopyta.org^
 ||fi-hel-w-2.nashkan.net^
+||fi.jelebruh.xyz^
 ||file.dehb.ru^
 ||filmgardi.ml^
 ||filter.chyperx.cc^
@@ -2105,6 +2113,7 @@
 ||fuchur.pentament.de^
 ||fukuda.ccnt.fr^
 ||fullaccesstointernet.int.eu.org^
+||fullaccesstointernet.jp.eu.org^
 ||funti.cc^
 ||fvpn.jarvishome.ru^
 ||fwgw.orangepipc.mywire.org^
@@ -2332,6 +2341,7 @@
 ||jonasdevries.de^
 ||jonathanaugusto.freeddns.org^
 ||jonesboyz.duckdns.org^
+||josephfamily.org^
 ||joy096speed.pp.ua^
 ||jp01.just-a-web.com^
 ||jp1.f7b6h9.tk^
@@ -2517,6 +2527,7 @@
 ||masters-of-cloud.de^
 ||mathease.cn^
 ||matrix.soeding.ddnss.de^
+||mattgreggs.tech^
 ||matthias-prost.com^
 ||matvey.dns.vladpro.ru^
 ||mavrikk.duckdns.org^
@@ -2621,7 +2632,6 @@
 ||nl-ams2.doh.sb^
 ||nl-ams.doh.sb^
 ||nl-ams-w-3.nashkan.net^
-||nlb.gbrossi.com.br^
 ||nl.galaskar.ga^
 ||noadsapp.net^
 ||noads.cloud^
@@ -2797,7 +2807,6 @@
 ||phucbui.top^
 ||pi1.node15.com^
 ||pi.daryllswer.net^
-||piekacz.pl^
 ||pihole1.hoerli.net^
 ||pihole2.hoerli.net^
 ||pihole3.hoerli.net^
@@ -2933,6 +2942,7 @@
 ||rjmva.com^
 ||rlobato.duckdns.org^
 ||rml.mobi^
+||robinlanckman.com^
 ||roboticsbenchmarking.xyz^
 ||ro-buc-w-1.nashkan.net^
 ||ro-buc-w-2.nashkan.net^
@@ -3279,7 +3289,6 @@
 ||v3.passby.eu.org^
 ||v3.passby.ga^
 ||v6.rubyfish.cn^
-||vador.sillundil.ovh^
 ||valis.sx^
 ||vallecerroazul.com^
 ||valleverde.icu^
@@ -3370,6 +3379,7 @@
 ||wallymna.space^
 ||wanam.ddns.net^
 ||wantaquddin.com^
+||warrier120120.duckdns.org^
 ||warrier120-dns.duckdns.org^
 ||warrier120s-adguard-home.duckdns.org^
 ||wccw.cc^
