@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2023-09-28 03:12:56 (UTC)
+! Last updated: 2023-09-29 02:57:22 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -54,9 +54,11 @@
 ||360dns.pub^
 ||3krkr.tonedtanya.com^
 ||3x2y.tk^
+||45-76-84-146.colo.xandodigital.net^
 ||4dscape.net^
 ||501w.net^
 ||53.slepov.dev^
+||5rsmj9wyxfyqbhtv.l2h8.online^
 ||6692.giize.com^
 ||77980.bodis.com^
 ||8888.google^
@@ -70,6 +72,7 @@
 ||ablock.fuckit.ovh^
 ||abovetheclouds.fun^
 ||abrarvanwebhosting.tk^
+||abstergo.it^
 ||acomit.lk^
 ||ad1guard.duckdns.org^
 ||ad1.heronet.nl^
@@ -127,11 +130,13 @@
 ||adg.jnorton.us^
 ||adg.nods.in^
 ||adg.pssv.top^
+||adg.qwqwe.link^
 ||adg.rokh.biz^
 ||adg.siudzinski.net^
 ||adg.ssy123.xyz^
 ||adg.swh123.xyz^
 ||adguard01.dns.infrapod.nl^
+||adguard01.homepeter.de^
 ||adguard01.infrapod.nl^
 ||adguard01.root-p.de^
 ||adguard01.wydler.eu^
@@ -418,6 +423,7 @@
 ||agh.printk.info^
 ||aghvm1.mastomi.id^
 ||agh.xinfeng16m.top^
+||agh-yz.russel053.com^
 ||ag.linux.repair^
 ||ag.marschi.de^
 ||agp01.tek411.com^
@@ -556,6 +562,7 @@
 ||bc10ef2.online-server.cloud^
 ||bcandrade.ml^
 ||bcsmts.com^
+||bdbt.net^
 ||beacon.dog^
 ||beacon.fengli.love^
 ||beautifulcity.eu.org^
@@ -737,6 +744,7 @@
 ||darthodroid.duckdns.org^
 ||dart.kpsn.org^
 ||darya.persiannit.net^
+||dash.flylcc.cc^
 ||daswieddodeushtuhaw.xyz^
 ||dat.privatedns.org^
 ||davidcampos.duckdns.org^
@@ -1020,6 +1028,7 @@
 ||dns.beta.gandi.net^
 ||dns.bezainf.tk^
 ||dns.billyau.ne^
+||dns.billyau.net^
 ||dns.bin.st^
 ||dns.bitdefender.net^
 ||dns.bitgeek.in^
@@ -1096,6 +1105,7 @@
 ||dns.david888.com^
 ||dns.davidruhmann.com^
 ||dns.daw.dev^
+||dns.ddtw.online^
 ||dns.decisivedevops.com^
 ||dns.decloudus.com^
 ||dns.deekshith.in^
@@ -1248,6 +1258,7 @@
 ||dns.hr.i81.ru^
 ||dns.hubservices.vn^
 ||dns.hugo0.moe^
+||dns.hujiayucc.cn^
 ||dns.hung-quach.com^
 ||dns.huseynov.work^
 ||dns.hva.li^
@@ -1481,6 +1492,7 @@
 ||dns.phucbui.top^
 ||dns.phuctran.cloud^
 ||dns.pieterdherde.com^
+||dns.pietjacobs.be^
 ||dns.pldweb.net^
 ||dnspod.clzapp.com^
 ||dns.porteii.com^
@@ -1614,8 +1626,10 @@
 ||dns-tls.chamberirc.net^
 ||dns.tls-data.de^
 ||dnstls.mobik.com^
+||dnstls.neutopia.org^
 ||dns.tlz.asia^
 ||dns.tomitomix.net^
+||dns.tooizi.eu^
 ||dns.tracker.ink^
 ||dns.truong.fi^
 ||dns.tsgmcoinfra.com^
@@ -1849,6 +1863,7 @@
 ||doh.mcasviper.de^
 ||doh.micronets.in^
 ||doh.mmmalia.com^
+||doh.mn-bonn.de^
 ||doh.moeyk.com^
 ||doh.morizt.id^
 ||doh.mullvad.net^
@@ -2063,6 +2078,7 @@
 ||felipefalcao.me^
 ||felipefalcao.ninja^
 ||fezgate.ovh^
+||fggdd.top^
 ||fi.doh.dns.snopyta.org^
 ||fi.dot.dns.snopyta.org^
 ||fi-hel-w-2.nashkan.net^
@@ -2079,6 +2095,7 @@
 ||firewall.darknet.bg^
 ||fishtail-pkr-dns.dhengaanil.com.np^
 ||fk4mil.pl^
+||flukeadopt.de^
 ||flumuffel.de^
 ||fly.flylcc.cc^
 ||fly.io^
@@ -2155,6 +2172,7 @@
 ||glvm.ru^
 ||gm-dns-01.southcentralus.azurecontainer.io^
 ||gn6hoasz2o4tveit.dynv6.net^
+||gn-z11.franscois.co.za^
 ||go10go10.tonedtanya.com^
 ||goga7777777.bissnes.org^
 ||go.icoding168.xyz^
@@ -2552,6 +2570,7 @@
 ||mimir.netwerk.io^
 ||minilla.store^
 ||mkrepair.ddns.net^
+||mkvvpssrv12.freemyip.com^
 ||mo0on15.com^
 ||moaz-adguard.duckdns.org^
 ||mocha.r.rnet.ie^
@@ -2632,6 +2651,7 @@
 ||nl-ams2.doh.sb^
 ||nl-ams.doh.sb^
 ||nl-ams-w-3.nashkan.net^
+||nlb.gbrossi.com.br^
 ||nl.galaskar.ga^
 ||noadsapp.net^
 ||noads.cloud^
@@ -2694,6 +2714,7 @@
 ||ns.hjk.me^
 ||ns.lov.host^
 ||ns.mtsoln.com^
+||ns.palvikt.us^
 ||ns.postoverall.xyz^
 ||ns.ral9005.org^
 ||ns.slynx.net^
@@ -2750,7 +2771,6 @@
 ||open-resolver1.unima.ac.id^
 ||opera.cloudflare-dns.com^
 ||ora1.nocnik.org^
-||oracle2.herry.dev^
 ||oracle5.losfa.xyz^
 ||oracle6.losfa.xyz^
 ||oracle.cepheus0.com^
@@ -2807,6 +2827,7 @@
 ||phucbui.top^
 ||pi1.node15.com^
 ||pi.daryllswer.net^
+||piekacz.pl^
 ||pihole1.hoerli.net^
 ||pihole2.hoerli.net^
 ||pihole3.hoerli.net^
@@ -3116,6 +3137,7 @@
 ||storydoh.kinergetica.com^
 ||stream.securely.sh^
 ||streltsov.net^
+||strk12-filter.mtbroadband.us^
 ||stuxen.duckdns.org^
 ||suanr.top^
 ||sunnygyl.com^
@@ -3289,6 +3311,7 @@
 ||v3.passby.eu.org^
 ||v3.passby.ga^
 ||v6.rubyfish.cn^
+||vador.sillundil.ovh^
 ||valis.sx^
 ||vallecerroazul.com^
 ||valleverde.icu^
@@ -3334,6 +3357,7 @@
 ||vova.vpn.i81.ru^
 ||vpn0109.voodonline.fr^
 ||vpn.adrielso.tec.br^
+||vpn.bearbob.studio^
 ||vpn.bezainf.tk^
 ||vpn.ccnt.fr^
 ||vpn.charraud.eu^
@@ -3364,6 +3388,7 @@
 ||vps.fleuryk.ovh^
 ||vps.grussenmeyer.com^
 ||vps.jmarkin.ru^
+||vps.techrich.net^
 ||vpsus3.pzhg.me^
 ||vps.vokuev.org^
 ||vsrv15195.customer.xenway.de^
@@ -3372,6 +3397,7 @@
 ||v.yuhui.tk^
 ||v.yuwentian.com^
 ||w0125ca5.kasserver.com^
+||w401.itarmy.co.za^
 ||w5ppr.us^
 ||wabu.ddns.net^
 ||waguns.net^
