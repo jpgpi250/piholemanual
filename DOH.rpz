@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2309300311 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2310010207 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2023-09-30 03:11:10 (UTC)
+; Last updated: 2023-10-01 02:07:28 (UTC)
 ;
 ; See https://jpgpi250.github.io/piholemanual/doc/Unbound%20response%20policy%20zones.pdf
 ; Report issues at https://github.com/jpgpi250/piholemanual/issues
@@ -25,6 +25,7 @@ $TTL 30
 1111.cloudflare-dns.com CNAME .
 1.11i.eu CNAME .
 13qnpxtzym14adjlrcub15.sergeykobzar.com.ua CNAME .
+180.0rz.space CNAME .
 1and1-dns.de CNAME .
 1a.ns.ozer.im CNAME .
 1b.ns.ozer.im CNAME .
@@ -509,6 +510,8 @@ area51.mywire.org CNAME .
 arespctw.tk CNAME .
 argon.molinero.dev CNAME .
 arkadia100.pl CNAME .
+arm2.nzcow.com CNAME .
+arm3.nzcow.com CNAME .
 armorrush.eu.org CNAME .
 as17820865.click CNAME .
 as6604t-04.myasustor.com CNAME .
@@ -537,6 +540,7 @@ au-syd.doh.sb CNAME .
 au-syd-w-2.nashkan.net CNAME .
 au-syd-w-3.nashkan.net CNAME .
 au.teradns.org CNAME .
+auth.phclinz.de CNAME .
 auto-cn-hk-8000.go-behind.one CNAME .
 autodiscover.elshad-adgh-dns.ru CNAME .
 autodiscover.promsdns.com CNAME .
@@ -608,6 +612,7 @@ bobstrecansky.com CNAME .
 box.negaforce.com CNAME .
 bravedns.com CNAME .
 brb.pp.ua CNAME .
+breitenfurt.us CNAME .
 bropines.online CNAME .
 br-sao-w-1.nashkan.net CNAME .
 br.servers.legat.ml CNAME .
@@ -738,6 +743,7 @@ d2.shabi.icu CNAME .
 d3.shabi.icu CNAME .
 d3.supremum.io CNAME .
 dac-one.nayemador.com CNAME .
+d.adguard-dns.com CNAME .
 dadns.one CNAME .
 daisukivn.asuscomm.com CNAME .
 dakulov.synology.me CNAME .
@@ -754,6 +760,7 @@ daswieddodeushtuhaw.xyz CNAME .
 dat.privatedns.org CNAME .
 davidcampos.duckdns.org CNAME .
 davidzeh.eu.org CNAME .
+dawnings.cn CNAME .
 dbbs.dns.databyte-network.com CNAME .
 dclab.live CNAME .
 ddd2.loukky.com CNAME .
@@ -1890,6 +1897,11 @@ doh.ny.ahadns.net CNAME .
 doh.one23.one CNAME .
 doh.onedns.net CNAME .
 doh.opendns.com CNAME .
+doh.phdns1.lonet.org CNAME .
+doh.phdns2.lonet.org CNAME .
+doh.phdns3.lonet.org CNAME .
+doh.phdns4.lonet.org CNAME .
+doh.phdns5.lonet.org CNAME .
 doh.pi-dns.com CNAME .
 doh.pl.ahadns.net CNAME .
 doh.plop.cc CNAME .
@@ -2007,6 +2019,7 @@ dubere.home.ro CNAME .
 dub.r.rnet.ie CNAME .
 ducphuclee.tech CNAME .
 dukun.de CNAME .
+dumbledore.steinr.eu CNAME .
 dupatruwi22.fun CNAME .
 dus.ysbs.uk CNAME .
 duyyen.cf CNAME .
@@ -2020,6 +2033,7 @@ dyhw.ddns.net CNAME .
 dyn-ip.borjalopez.eu CNAME .
 ea-dns.rubyfish.cn CNAME .
 eaereaper.ru CNAME .
+eajtech.com CNAME .
 easyhandshake.com CNAME .
 ec2-52-12-183-214.us-west-2.compute.amazonaws.com CNAME .
 echoe1yidzu4ioo5.myfritz.net CNAME .
@@ -2152,6 +2166,7 @@ gaoadmin.win CNAME .
 garage.jjlizz.com CNAME .
 garanphomai.ga CNAME .
 gate.oliver-pietsch.de CNAME .
+gateway.baltes.info CNAME .
 gateway-el.cname.ustclug.org CNAME .
 gateway.fomichev.cloud CNAME .
 gateway.mcebox.com CNAME .
@@ -2258,6 +2273,7 @@ home47a.mooo.com CNAME .
 home.501w.net CNAME .
 home.basthorst.eu CNAME .
 home.bruckmoser.it CNAME .
+home.ddns.network CNAME .
 home.dlinkddns.com CNAME .
 homedns.gumeniuk.com CNAME .
 homeemoh.ddns.net CNAME .
@@ -2415,6 +2431,8 @@ kellerbier-home.de CNAME .
 kendentil.org.uk CNAME .
 kenit.me CNAME .
 kennethhuang.com CNAME .
+kent6.ajaest.net CNAME .
+kent6.dyn.ajaest.net CNAME .
 kerio.dns.amigo-mgn.ru CNAME .
 keymiagar.ir CNAME .
 khsan.com CNAME .
@@ -2539,7 +2557,6 @@ main.nn7.pw CNAME .
 maku-tech.com CNAME .
 manage.fcpsunleashed.org CNAME .
 management.alexpollard.net CNAME .
-mana.harrache.info CNAME .
 marcrnt.ddnss.de CNAME .
 marginnote.ga CNAME .
 markolll.ru CNAME .
@@ -2780,6 +2797,7 @@ opennic.tenta.io CNAME .
 open-resolver1.unima.ac.id CNAME .
 opera.cloudflare-dns.com CNAME .
 ora1.nocnik.org CNAME .
+oracle2.herry.dev CNAME .
 oracle5.losfa.xyz CNAME .
 oracle6.losfa.xyz CNAME .
 oracle.cepheus0.com CNAME .
@@ -2836,6 +2854,7 @@ photo.dehb.ru CNAME .
 phucbui.top CNAME .
 pi1.node15.com CNAME .
 pi.daryllswer.net CNAME .
+piekacz.pl CNAME .
 pihole1.hoerli.net CNAME .
 pihole2.hoerli.net CNAME .
 pihole3.hoerli.net CNAME .
@@ -2860,6 +2879,7 @@ pluton.plan9-dns.com CNAME .
 pluton.plan9dns.com CNAME .
 pl-waw-w-1.nashkan.net CNAME .
 pl-waw-w-2.nashkan.net CNAME .
+polaris.mrmartian.co CNAME .
 pope.cnblw.me CNAME .
 pop.novacia.com.ua CNAME .
 portal.iddqd.uk CNAME .
@@ -3142,6 +3162,7 @@ steering.nextdns.io CNAME .
 steff.sbs CNAME .
 storage.jjlizz.com CNAME .
 storydoh.kinergetica.com CNAME .
+strata.gurupannu.com CNAME .
 stream.securely.sh CNAME .
 streltsov.net CNAME .
 strk12-filter.mtbroadband.us CNAME .
@@ -3156,6 +3177,7 @@ svg33.eu CNAME .
 sv.oispace.eu.org CNAME .
 sweethome.in.eu.org CNAME .
 switch.ch CNAME .
+swoletux.ave.zone CNAME .
 syd1.norgannetworks.net.au CNAME .
 syd.adfilter.net CNAME .
 syd.core.access.zznet.fun CNAME .
