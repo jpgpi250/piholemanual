@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2023-09-29 02:57:22 (UTC)
+! Last updated: 2023-09-30 03:30:38 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -21,7 +21,6 @@
 ||1111.cloudflare-dns.com^
 ||1.11i.eu^
 ||13qnpxtzym14adjlrcub15.sergeykobzar.com.ua^
-||180.0rz.space^
 ||1and1-dns.de^
 ||1a.ns.ozer.im^
 ||1b.ns.ozer.im^
@@ -298,6 +297,7 @@
 ||adguard.nn7.pw^
 ||adguard.nocnik.org^
 ||adguard.notggle.tk^
+||adguardo.jimtay.uk^
 ||adguard.oms-ctr.ru^
 ||adguard.ondrejsramek.cz^
 ||adguard.onlyfriends.info^
@@ -335,6 +335,7 @@
 ||adguard.sems.org^
 ||adguard-server.cf^
 ||adguard.serverhostig.eu^
+||adguard-sg.linode.haberl.io^
 ||adguard.shoupperuser.com^
 ||adguard.shutgaming.net^
 ||adguard.shuting.idv.tw^
@@ -603,11 +604,11 @@
 ||box.negaforce.com^
 ||bravedns.com^
 ||brb.pp.ua^
-||breitenfurt.us^
 ||bropines.online^
 ||br-sao-w-1.nashkan.net^
 ||br.servers.legat.ml^
 ||b.safe.ns.dnslify.com^
+||btb.dog^
 ||bubu-cloud.myds.me^
 ||buc-m2.illmods.com^
 ||bunch-o-nerds.com^
@@ -797,6 +798,7 @@
 ||de.teradns.org^
 ||deus-server.duckdns.org^
 ||dev.reallemc.com^
+||dev-rv.eu^
 ||devsimo.it^
 ||dgca.myds.me^
 ||dhlifeus-micro1.dns.3456.kr^
@@ -928,6 +930,7 @@
 ||dns.3jh.org^
 ||dns3.sas-wres.cc^
 ||dns3.wistarip.com^
+||dns.45t3r1x.uk^
 ||dns.4ab.nl^
 ||dns4me.net^
 ||dns4me.xyz^
@@ -1296,6 +1299,7 @@
 ||dns.jerryw.cn^
 ||dns.jimirobaer.be^
 ||dns.jinwoo.dev^
+||dns.jnmj.cc^
 ||dns.joaofidelix.com.br^
 ||dns.joey01245.nl^
 ||dns.jstockley.com^
@@ -1354,9 +1358,7 @@
 ||dns.liumuze.org^
 ||dns.ljq87.top^
 ||dns.loony-tech.de^
-||dns.l.o.ovpn.bond^
 ||dns.lostvpn.ru^
-||dns.l.ovpn.bond^
 ||dnslow.me^
 ||dns.lsho.top^
 ||dns.luan.contact^
@@ -1462,7 +1464,6 @@
 ||dns.ofdoom.net^
 ||dns.oguska.com^
 ||dns.oii.im^
-||dns.o.l.ovpn.bond^
 ||dns.onp.cloud^
 ||dns.opendns.com^
 ||dns.opnsource.com.au^
@@ -1704,6 +1705,7 @@
 ||dns.xie.ke^
 ||dns.xinwujiang.cn^
 ||dns.xn--29ab3cg3bhgt.xn--y9a3aq^
+||dns.x.ovpn.bond^
 ||dns.xryen.com^
 ||dns.xyzz.live^
 ||dns.yameenassotally.com^
@@ -1834,6 +1836,7 @@
 ||doh.ibr.cs.tu-bs.de^
 ||doh.in.ahadns.net^
 ||doh.infotek.net.id^
+||doh.infracell.net^
 ||doh-ipv6.crypto.sx^
 ||dohipv6.crypto.sx^
 ||doh.it.ahadns.net^
@@ -1931,6 +1934,7 @@
 ||dominatrix.brandonsli.com^
 ||donghovietkid.cloud^
 ||dop.privatedns.org^
+||dorkanddoodle.duckdns.org^
 ||do.shimul.me^
 ||dosvid.tk^
 ||dot1.applied-privacy.net^
@@ -2127,6 +2131,7 @@
 ||fr-sbg-w-4.nashkan.net^
 ||fsrv.waltercasanova.tech^
 ||ftgfw.tk^
+||fuangkhon.com^
 ||fuchur.pentament.de^
 ||fukuda.ccnt.fr^
 ||fullaccesstointernet.int.eu.org^
@@ -2143,7 +2148,6 @@
 ||garage.jjlizz.com^
 ||garanphomai.ga^
 ||gate.oliver-pietsch.de^
-||gateway.baltes.info^
 ||gateway-el.cname.ustclug.org^
 ||gateway.fomichev.cloud^
 ||gateway.mcebox.com^
@@ -2250,7 +2254,6 @@
 ||home.501w.net^
 ||home.basthorst.eu^
 ||home.bruckmoser.it^
-||home.ddns.network^
 ||home.dlinkddns.com^
 ||homedns.gumeniuk.com^
 ||homeemoh.ddns.net^
@@ -2493,7 +2496,6 @@
 ||locaweb.moleniuk.com^
 ||loli.sektehalodavid.click^
 ||lon-dns.bitdefender.net^
-||l.o.ovpn.bond^
 ||lops.lol^
 ||lorc17-dns.komeho.info^
 ||loudsheep.ddns.net^
@@ -2512,6 +2514,7 @@
 ||lv-rig-w-1.nashkan.net^
 ||lv-rig-w-2.nashkan.net^
 ||lwhjszcnzjhz.site^
+||l.x.ovpn.bond^
 ||maddino.dedyn.io^
 ||madrid.ciscofreak.com^
 ||madrot.net^
@@ -2713,6 +2716,8 @@
 ||ns.hjk.kr^
 ||ns.hjk.me^
 ||ns.lov.host^
+||ns.l.ovpn.bond^
+||ns.l.x.ovpn.bond^
 ||ns.mtsoln.com^
 ||ns.palvikt.us^
 ||ns.postoverall.xyz^
@@ -2721,6 +2726,7 @@
 ||ns.solutics.ec^
 ||ns.tkdns.ru^
 ||ns.try-dns.online^
+||ns.x.l.ovpn.bond^
 ||ntu.ssooss.win^
 ||nudnud.com^
 ||nukys.ca^
@@ -2761,7 +2767,6 @@
 ||onevps-dns.pivb.vip^
 ||onlyfriends.info^
 ||o--o.duckdns.org^
-||o.ovpn.bond^
 ||opencdn.jomodns.com^
 ||open.dns0.eu^
 ||opennic1.eth-services.de^
@@ -2827,7 +2832,6 @@
 ||phucbui.top^
 ||pi1.node15.com^
 ||pi.daryllswer.net^
-||piekacz.pl^
 ||pihole1.hoerli.net^
 ||pihole2.hoerli.net^
 ||pihole3.hoerli.net^
@@ -2852,7 +2856,6 @@
 ||pluton.plan9dns.com^
 ||pl-waw-w-1.nashkan.net^
 ||pl-waw-w-2.nashkan.net^
-||polaris.mrmartian.co^
 ||pope.cnblw.me^
 ||pop.novacia.com.ua^
 ||portal.iddqd.uk^
@@ -3478,6 +3481,7 @@
 ||www.eweyo.ru^
 ||www.fanscloud.net^
 ||www.feelnosorry.com^
+||www.fuangkhon.com^
 ||www.ggrbb.xyz^
 ||www.greppie.nl^
 ||www.guard.izzledudetech.com^
@@ -3545,6 +3549,7 @@
 ||x861g.duckdns.org^
 ||xantirealityx.net^
 ||xenergy.cc^
+||xfer.au^
 ||xiaolong.link^
 ||xie.ke^
 ||xkariak.asuscomm.com^
