@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2023-10-06 02:27:35 (UTC)
+! Last updated: 2023-10-07 02:23:18 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -11,15 +11,10 @@
 !   I (jpgpi250) can not be held liable for any false positive or damage caused by the use of the datasets offered.
 !
 ||0099domain.ecuplshsj.cn^
-||01qnpxtzym02adjlrcub03.sergeykobzar.com.ua^
-||04qnpxtzym05adjlrcub06.sergeykobzar.com.ua^
-||07qnpxtzym08adjlrcub09.sergeykobzar.com.ua^
 ||1001.cloudflare-dns.com^
-||10qnpxtzym11adjlrcub12.sergeykobzar.com.ua^
 ||1.0rz.space^
 ||1111.cloudflare-dns.com^
 ||1.11i.eu^
-||13qnpxtzym14adjlrcub15.sergeykobzar.com.ua^
 ||180.0rz.space^
 ||1and1-dns.de^
 ||1a.ns.ozer.im^
@@ -28,7 +23,6 @@
 ||1.dns.noridev.moe^
 ||1dot1dot1dot1.cloudflare-dns.com^
 ||1dot1dot1dot1.cloudflaredns.com^
-||1qaz.de^
 ||2.0rz.space^
 ||2.11i.eu^
 ||233py.com^
@@ -51,7 +45,6 @@
 ||3x2y.tk^
 ||45-76-84-146.colo.xandodigital.net^
 ||501w.net^
-||5rsmj9wyxfyqbhtv.l2h8.online^
 ||77980.bodis.com^
 ||8888.google^
 ||a11.diplo.es^
@@ -86,7 +79,6 @@
 ||adblock.lv1.dns.nixnet.xyz^
 ||adblock.mydns.network^
 ||adblock.ny1.dns.nixnet.xyz^
-||adblock.robinlanckman.com^
 ||adblock.weresolve.in^
 ||adb-wan.xaoimoon.fr^
 ||adc.789910.xyz^
@@ -95,7 +87,6 @@
 ||addns.clubbase.club^
 ||addns.jpr.space^
 ||ad.dscw.io^
-||ad.emekm.fr^
 ||adf-114.neta.otrofda.nl^
 ||adfree.usableprivacy.net^
 ||adg2.spacework.com.mx^
@@ -106,7 +97,6 @@
 ||adgh.catfluori.de^
 ||adg.herry.dev^
 ||adghome.joeszef.com^
-||adghome.joseph.com.ph^
 ||adghs.de^
 ||adg.jmdesign.uk^
 ||adg.jnorton.us^
@@ -146,7 +136,6 @@
 ||adguard.almanasports.com^
 ||adguard.aminetwork.biz^
 ||adguard.avdkishore.dev^
-||adguard-aws.charraud.eu^
 ||adguard-aws.gdmn.dev^
 ||adguard.baltes.info^
 ||adguard.beliefanx.cn^
@@ -161,7 +150,6 @@
 ||adguardcloud.bwasson.com^
 ||adguard.cloud-chen.idv.tw^
 ||adguard.cloudmini.net^
-||adguard.clroot.io^
 ||adguard.cnbeining.com^
 ||adguard.dashofsunny.com^
 ||adguard.ddns.net^
@@ -184,13 +172,10 @@
 ||adguard.eximpius.xyz^
 ||adguard.exium.net^
 ||adguard.ext.devkon.org^
-||adguard.ext.rizult.net^
 ||adguard.fija-web.net^
 ||adguard.firestrike-services.de^
 ||adguard-fra.linode.haberl.io^
-||adguard.frece.de^
 ||adguard.fresh-waffles.online^
-||adguard.gambini.org^
 ||adguard.gbrossi.com.br^
 ||adguard.gewete.cloud^
 ||adguard.glbd.fr^
@@ -259,12 +244,9 @@
 ||adguard.racinas.com^
 ||adguard.rdekuyper.nl^
 ||adguard.rennes.despagne.net^
-||adguard.richardapplegate.io^
 ||adguard.ro0t.us^
 ||adguard.rowdyengeesje.nl^
 ||adguard.rubengarrido.com^
-||adguard.samuelthomasfamily.net^
-||adguard.schandlserver.de^
 ||adguard.searom.ovh^
 ||adguard.sekular.pl^
 ||adguard.sems.org^
@@ -297,15 +279,12 @@
 ||adg.yybyy.wiki^
 ||adh.51st.top^
 ||adh.blogcuahieu.com^
-||adh.haoqing.site^
-||adh.sigma.monster^
 ||adl.adfilter.net^
 ||ad.lsal.fr^
 ||admace.net^
 ||admin.dotls.org^
 ||ad.nods.in^
 ||adns.kreonet.net^
-||adns.lighthousemd.co^
 ||adns.onlinetools.rocks^
 ||ad.orvvkoi.date^
 ||ads.breitenfurt.us^
@@ -351,10 +330,7 @@
 ||ahadns.net^
 ||ahcek.com^
 ||ah.tr1n.me^
-||aimuz.me^
-||aizi.app^
 ||akaboom.fun^
-||akaboom.ru^
 ||akhilkalwakurthy.dyndns.org^
 ||akr177.com^
 ||akylah.zapto.org^
@@ -389,7 +365,6 @@
 ||anti-tahrim.bazipardaz.com^
 ||antivirus.bebasid.com^
 ||antonyfrompnz.space^
-||anycast.0ms.dev^
 ||anycast.censurfridns.dk^
 ||anycast.censurfridns.nu^
 ||anycast.dns.nextdns.io^
@@ -429,7 +404,6 @@
 ||au.teradns.org^
 ||auto-cn-hk-8000.go-behind.one^
 ||awan.ftp.sh^
-||awsdns.vpnrf.com^
 ||aws.razor1911.xyz^
 ||ax.ns1net.com^
 ||azagramac.duckdns.org^
@@ -437,11 +411,9 @@
 ||azure.cloudflare-dns.com^
 ||b2u7d7r9.stackpathcdn.com^
 ||baedns.duckdns.org^
-||ban.ppppppeeesss.info^
 ||base.dns.mullvad.net^
 ||basic.bravedns.com^
 ||basic.rethinkdns.com^
-||bastnet.co^
 ||batcavenetwork.com^
 ||batshitcrazy.ddns.net^
 ||bbbtest.site^
@@ -449,10 +421,8 @@
 ||bdbt.net^
 ||beacon.dog^
 ||beacon.fengli.love^
-||beautifulcity.eu.org^
 ||beautifullife.eu.org^
 ||beautifulthings.eu.org^
-||bebracraft.ru^
 ||b.family.ns.dnslify.com^
 ||bg-sof-w-3.nashkan.net^
 ||bigart-dns.tk^
@@ -468,7 +438,6 @@
 ||blitz.ahadns.com^
 ||blitz-setup.ahadns.com^
 ||block.abstergo.it^
-||blockemall.xyz^
 ||blockerads.multimediaconcept.fr^
 ||blocker.thethorsens.org^
 ||blog.kimiblock.top^
@@ -489,7 +458,6 @@
 ||buc-m2.illmods.com^
 ||bunch-o-nerds.com^
 ||bushmancastle.duckdns.org^
-||bvo.giize.com^
 ||bwg.seggs.cn^
 ||bwh2.telex.app^
 ||bytant.link^
@@ -546,12 +514,10 @@
 ||cloud.samutz.com^
 ||cloudsrv.charitosnet.de^
 ||cloud.tezoi.com^
-||clubsv.duckdns.org^
 ||cluster-0.gac.edu^
 ||cluster-1.gac.edu^
 ||c.malicioustation.icu^
 ||cname-for-doh.go-behind.one^
-||cnnic-chinatelecom-chinamobile-chinaunicom--bili-d.dahi.icu^
 ||cn.turngreatwall.com^
 ||commons.host^
 ||comss.one^
@@ -726,6 +692,7 @@
 ||dns-2.trust2it.ch^
 ||dns2.vinc.me^
 ||dns2vps.porteii.com^
+||dns2.ztmzzz.win^
 ||dns.3dcapitaltrust.net^
 ||dns.3jh.org^
 ||dns3.wistarip.com^
@@ -1567,6 +1534,7 @@
 ||doh.viatech.com.tw^
 ||doh.vpnglobal.my.id^
 ||doh.wangyaomin.com^
+||doh.weleven.top^
 ||doh.westeu.pi-dns.com^
 ||doh.westus.pi-dns.com^
 ||doh.wewitro.net^
@@ -1980,6 +1948,7 @@
 ||krtekvpn.duckdns.org^
 ||kr.telex.app^
 ||kr-x64-2.lov.host^
+||ks1.plop.cc^
 ||k-s-edition.ru^
 ||ksedns.ru^
 ||kudns.kescher.at^
@@ -2009,7 +1978,6 @@
 ||levislondon-proxy.nerdpol.ovh^
 ||lf-ns-001.my.to^
 ||libye.in^
-||lighthousemd.co^
 ||lighthouse.rycerz.cloud^
 ||lilibox.duckdns.org^
 ||lilibox.freeboxos.fr^
@@ -2093,7 +2061,6 @@
 ||moaz-adguard.duckdns.org^
 ||mocha.r.rnet.ie^
 ||mojserwer.myasustor.com^
-||montmorot.duckdns.org^
 ||morbitzer.de^
 ||moto.adg.siudzinski.net^
 ||mozilla.cloudflare-dns.com^
@@ -2360,6 +2327,7 @@
 ||qq-sg-1.node.xieke.org^
 ||quantum-age.cn^
 ||query.hdns.io^
+||query.shenl.in^
 ||qwenty.ru^
 ||r1bnc.com^
 ||r1bnc.eu.org^
@@ -2419,7 +2387,6 @@
 ||rin.sh^
 ||rlobato.duckdns.org^
 ||rml.mobi^
-||robinlanckman.com^
 ||ro-buc-w-1.nashkan.net^
 ||ro-buc-w-2.nashkan.net^
 ||roma.vpn.geshido.ru^
@@ -2602,6 +2569,7 @@
 ||think-howling.com^
 ||tienpham.id.vn^
 ||tiger.dns.qwer.pw^
+||timedns.org^
 ||timmes.nl^
 ||timothytimothy.cf^
 ||t.jimmy.best^
@@ -2769,6 +2737,7 @@
 ||vps.techrich.net^
 ||vpsus3.pzhg.me^
 ||vps.vokuev.org^
+||vps.ztmzzz.win^
 ||vsrv15195.customer.xenway.de^
 ||vudy.ru^
 ||vvmm.me^
