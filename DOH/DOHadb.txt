@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2023-10-09 02:37:14 (UTC)
+! Last updated: 2023-10-10 02:21:37 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -1334,7 +1334,6 @@
 ||dns.wugui.zone^
 ||dns.xiayang.space^
 ||dns.xie.ke^
-||dns.x.ovpn.bond^
 ||dns.yameenassotally.com^
 ||dns.yandex.ru^
 ||dns.ygonline.de^
@@ -2002,13 +2001,13 @@
 ||lion.yazilimatolye.com^
 ||lipunyushka.ru^
 ||live.jjlizz.com^
+||l.l.ovpn.bond^
 ||lmz.meudns.minhacasainteligente.cf^
 ||locaweb.moleniuk.com^
 ||lon-dns.bitdefender.net^
 ||lorc17-dns.komeho.info^
 ||loudsheep.ddns.net^
 ||lova.long-nguyen.info^
-||l.ovpn.bond^
 ||lqh280.iok.la^
 ||lt-vil-w-2.nashkan.net^
 ||lt-vil-w-3.nashkan.net^
@@ -2021,7 +2020,6 @@
 ||lv-rig-w-1.nashkan.net^
 ||lv-rig-w-2.nashkan.net^
 ||lwhjszcnzjhz.site^
-||l.x.ovpn.bond^
 ||madrot.net^
 ||maikel.greppie.nl^
 ||mail.4-the.win^
@@ -2124,6 +2122,7 @@
 ||next.miao.ninja^
 ||nfti.duckdns.org^
 ||ng-lag-w-1.nashkan.net^
+||nhatlong.work^
 ||nicktruehome.ddns.net^
 ||nilanjan.me^
 ||nilanjan.rocks^
@@ -2184,8 +2183,6 @@
 ||ns.hjk.kr^
 ||ns.hjk.me^
 ||ns.lov.host^
-||ns.l.ovpn.bond^
-||ns.l.x.ovpn.bond^
 ||ns.mtsoln.com^
 ||ns.osipenko.space^
 ||ns.palvikt.us^
@@ -2195,7 +2192,6 @@
 ||ns.solutics.ec^
 ||ns.tkdns.ru^
 ||ns.try-dns.online^
-||ns.x.l.ovpn.bond^
 ||ntu.ssooss.win^
 ||nudnud.com^
 ||nukys.ca^
