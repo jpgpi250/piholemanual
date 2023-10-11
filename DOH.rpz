@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2310100203 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2310110253 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2023-10-10 02:03:37 (UTC)
+; Last updated: 2023-10-11 02:53:51 (UTC)
 ;
 ; See https://jpgpi250.github.io/piholemanual/doc/Unbound%20response%20policy%20zones.pdf
 ; Report issues at https://github.com/jpgpi250/piholemanual/issues
@@ -409,7 +409,6 @@ au-syd-w-2.nashkan.net CNAME .
 au-syd-w-3.nashkan.net CNAME .
 au.teradns.org CNAME .
 auth.phclinz.de CNAME .
-auto-cn-hk-8000.go-behind.one CNAME .
 awan.ftp.sh CNAME .
 aws.razor1911.xyz CNAME .
 ax.ns1net.com CNAME .
@@ -1392,7 +1391,6 @@ doh.apad.pro.cdn.cloudflare.net CNAME .
 doh.applied-privacy.net CNAME .
 doh.appliedprivacy.net CNAME .
 doh.armadillodns.net CNAME .
-doh.asecdns.com CNAME .
 doh.asia.dnswarden.com CNAME .
 doh.au.ahadns.net CNAME .
 doh.azoris.ovh CNAME .
@@ -1561,7 +1559,6 @@ dosvid.tk CNAME .
 dot1.applied-privacy.net CNAME .
 dot1.appliedprivacy.net CNAME .
 dot.360.cn CNAME .
-dot.asecdns.com CNAME .
 dot.au.ahadns.net CNAME .
 dot.centraleu.pi-dns.com CNAME .
 dot-ch.blahdns.com CNAME .
@@ -1730,7 +1727,6 @@ gaia.plonknet.com CNAME .
 galileo.math.unipd.it CNAME .
 gambling-goat.khaosadv.com CNAME .
 gate.oliver-pietsch.de CNAME .
-gateway.baltes.info CNAME .
 gateway-el.cname.ustclug.org CNAME .
 gateway.fomichev.cloud CNAME .
 gateway.mcebox.com CNAME .
@@ -1768,7 +1764,6 @@ gpchubjk.dnsfish.com CNAME .
 green2.jnraptor.net CNAME .
 greenhamadguard.com.au CNAME .
 greppie.nl CNAME .
-gtm-sg-5r538sziu04.go-behind.one CNAME .
 guardhome.fatihkuyuk.com.tr CNAME .
 guard-linodefree.tk CNAME .
 guard.magic-pics.tk CNAME .
@@ -2077,7 +2072,6 @@ mo0on15.com CNAME .
 moaz-adguard.duckdns.org CNAME .
 mocha.r.rnet.ie CNAME .
 mojserwer.myasustor.com CNAME .
-montmorot.duckdns.org CNAME .
 morbitzer.de CNAME .
 moto.adg.siudzinski.net CNAME .
 mozilla.cloudflare-dns.com CNAME .
@@ -2316,7 +2310,6 @@ private.adguard.wessels-net.nl CNAME .
 private.canadianshield.cira.ca CNAME .
 private.supplies.eu.org CNAME .
 privatnas.servebeer.com CNAME .
-privdns.duckdns.org CNAME .
 project-evoex.de CNAME .
 promsdns.com CNAME .
 pro.shecan.ir CNAME .
@@ -2357,7 +2350,6 @@ ra.r2ss.tk CNAME .
 rauladguard.online CNAME .
 rayneau.fr CNAME .
 rblade.asuscomm.com CNAME .
-rdjcloud.duckdns.org CNAME .
 rdjdns.ajraspi.xyz CNAME .
 rdns-a.adtech-it.com CNAME .
 rdns.faelix.net CNAME .
@@ -2582,7 +2574,6 @@ testaghome.meshkov.info CNAME .
 testdjango.live CNAME .
 test.dnsteam.globuscs.info CNAME .
 tetra.aeins.at CNAME .
-tezoi.duckdns.org CNAME .
 thebeloveduck.duckdns.org CNAME .
 thecremeens.com CNAME .
 thefuturegg.xyz CNAME .
