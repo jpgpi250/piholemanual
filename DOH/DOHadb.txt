@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2023-10-10 02:21:37 (UTC)
+! Last updated: 2023-10-11 03:11:55 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -405,7 +405,6 @@
 ||au-syd-w-3.nashkan.net^
 ||au.teradns.org^
 ||auth.phclinz.de^
-||auto-cn-hk-8000.go-behind.one^
 ||awan.ftp.sh^
 ||aws.razor1911.xyz^
 ||ax.ns1net.com^
@@ -1388,7 +1387,6 @@
 ||doh.applied-privacy.net^
 ||doh.appliedprivacy.net^
 ||doh.armadillodns.net^
-||doh.asecdns.com^
 ||doh.asia.dnswarden.com^
 ||doh.au.ahadns.net^
 ||doh.azoris.ovh^
@@ -1557,7 +1555,6 @@
 ||dot1.applied-privacy.net^
 ||dot1.appliedprivacy.net^
 ||dot.360.cn^
-||dot.asecdns.com^
 ||dot.au.ahadns.net^
 ||dot.centraleu.pi-dns.com^
 ||dot-ch.blahdns.com^
@@ -1726,7 +1723,6 @@
 ||galileo.math.unipd.it^
 ||gambling-goat.khaosadv.com^
 ||gate.oliver-pietsch.de^
-||gateway.baltes.info^
 ||gateway-el.cname.ustclug.org^
 ||gateway.fomichev.cloud^
 ||gateway.mcebox.com^
@@ -1764,7 +1760,6 @@
 ||green2.jnraptor.net^
 ||greenhamadguard.com.au^
 ||greppie.nl^
-||gtm-sg-5r538sziu04.go-behind.one^
 ||guardhome.fatihkuyuk.com.tr^
 ||guard-linodefree.tk^
 ||guard.magic-pics.tk^
@@ -2073,7 +2068,6 @@
 ||moaz-adguard.duckdns.org^
 ||mocha.r.rnet.ie^
 ||mojserwer.myasustor.com^
-||montmorot.duckdns.org^
 ||morbitzer.de^
 ||moto.adg.siudzinski.net^
 ||mozilla.cloudflare-dns.com^
@@ -2312,7 +2306,6 @@
 ||private.canadianshield.cira.ca^
 ||private.supplies.eu.org^
 ||privatnas.servebeer.com^
-||privdns.duckdns.org^
 ||project-evoex.de^
 ||promsdns.com^
 ||pro.shecan.ir^
@@ -2353,7 +2346,6 @@
 ||rauladguard.online^
 ||rayneau.fr^
 ||rblade.asuscomm.com^
-||rdjcloud.duckdns.org^
 ||rdjdns.ajraspi.xyz^
 ||rdns-a.adtech-it.com^
 ||rdns.faelix.net^
@@ -2578,7 +2570,6 @@
 ||testdjango.live^
 ||test.dnsteam.globuscs.info^
 ||tetra.aeins.at^
-||tezoi.duckdns.org^
 ||thebeloveduck.duckdns.org^
 ||thecremeens.com^
 ||thefuturegg.xyz^
