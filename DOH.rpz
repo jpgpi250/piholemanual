@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2310130244 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2310140247 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2023-10-13 02:44:58 (UTC)
+; Last updated: 2023-10-14 02:47:04 (UTC)
 ;
 ; See https://jpgpi250.github.io/piholemanual/doc/Unbound%20response%20policy%20zones.pdf
 ; Report issues at https://github.com/jpgpi250/piholemanual/issues
@@ -49,6 +49,7 @@ $TTL 30
 3x2y.tk CNAME .
 45-76-84-146.colo.xandodigital.net CNAME .
 501w.net CNAME .
+77980.bodis.com CNAME .
 8888.google CNAME .
 a11.diplo.es CNAME .
 a5135324.csie.io CNAME .
@@ -1938,7 +1939,6 @@ kr-sel.doh.sb CNAME .
 krtekvpn.duckdns.org CNAME .
 kr.telex.app CNAME .
 kr-x64-2.lov.host CNAME .
-ks1.plop.cc CNAME .
 k-s-edition.ru CNAME .
 ksedns.ru CNAME .
 kudns.kescher.at CNAME .
@@ -2100,6 +2100,7 @@ new.nhunor.com CNAME .
 next.miao.ninja CNAME .
 nfti.duckdns.org CNAME .
 ng-lag-w-1.nashkan.net CNAME .
+nhatlong.work CNAME .
 nicktruehome.ddns.net CNAME .
 nilanjan.me CNAME .
 nilanjan.rocks CNAME .
@@ -2500,6 +2501,7 @@ smtp.greppie.nl CNAME .
 snd.jaxif.com CNAME .
 snoke.meganerd.nl CNAME .
 soeding.ddnss.de CNAME .
+soldier.terumi.club CNAME .
 solution.w10.life CNAME .
 soncms.id.vn CNAME .
 sorannbb.buzz CNAME .
