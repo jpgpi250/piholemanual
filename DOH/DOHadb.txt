@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2023-10-15 03:06:53 (UTC)
+! Last updated: 2023-10-16 02:45:50 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -375,6 +375,8 @@
 ||area51.mywire.org^
 ||argon.molinero.dev^
 ||arkadia100.pl^
+||arm2.nzcow.com^
+||arm3.nzcow.com^
 ||armorrush.eu.org^
 ||as17820865.click^
 ||as6604t-04.myasustor.com^
@@ -397,6 +399,7 @@
 ||au-syd-w-2.nashkan.net^
 ||au-syd-w-3.nashkan.net^
 ||au.teradns.org^
+||auth.phclinz.de^
 ||auto-cn-hk-8000.go-behind.one^
 ||awan.ftp.sh^
 ||aws.razor1911.xyz^
@@ -404,6 +407,7 @@
 ||azagramac.duckdns.org^
 ||azbs.ddmm.eu.org^
 ||azure.cloudflare-dns.com^
+||b2u7d7r9.stackpathcdn.com^
 ||baedns.duckdns.org^
 ||base.dns.mullvad.net^
 ||basic.bravedns.com^
@@ -541,6 +545,8 @@
 ||d3.shabi.icu^
 ||d3.supremum.io^
 ||d3vy.ru^
+||dac-one.nayemador.com^
+||d.adguard-dns.com^
 ||dadns.one^
 ||dakulov.synology.me^
 ||dandelionsprout.asuscomm.com^
@@ -555,11 +561,13 @@
 ||dat.privatedns.org^
 ||daverotaquio.net^
 ||davidcampos.duckdns.org^
+||dawnings.cn^
 ||dbbs.dns.databyte-network.com^
 ||ddd2.loukky.com^
 ||ddd.loukky.com^
 ||ddns.bigmaomao.xyz^
 ||ddns.haha2048.site^
+||ddns.l2h8.cn^
 ||ddns.oii.im^
 ||debian-01.eastasia.cloudapp.azure.com^
 ||de-dus.doh.sb^
@@ -1579,6 +1587,7 @@
 ||d.smart365.tk^
 ||d.toairs.com^
 ||dukun.de^
+||dumbledore.steinr.eu^
 ||dupatruwi22.fun^
 ||dus.ysbs.uk^
 ||duyyen.tk^
@@ -1586,6 +1595,8 @@
 ||dycn.vip^
 ||dyn-ip.borjalopez.eu^
 ||ea-dns.rubyfish.cn^
+||eaereaper.ru^
+||eajtech.com^
 ||easyhandshake.com^
 ||ec2-52-12-183-214.us-west-2.compute.amazonaws.com^
 ||echoe1yidzu4ioo5.myfritz.net^
@@ -1637,6 +1648,7 @@
 ||faradns.net^
 ||fatia.org^
 ||fb.i81.ru^
+||fcpsunleashed.org^
 ||fdns1.dismail.de^
 ||fdns2.dismail.de^
 ||feelnosorry.com^
@@ -1889,6 +1901,8 @@
 ||keithchunguat.hopto.org^
 ||kellerbier-home.de^
 ||kenit.me^
+||kent6.ajaest.net^
+||kent6.dyn.ajaest.net^
 ||kerio.dns.amigo-mgn.ru^
 ||keymiagar.ir^
 ||khsan.com^
@@ -1951,6 +1965,7 @@
 ||levislondon-proxy.nerdpol.ovh^
 ||lf-ns-001.my.to^
 ||libye.in^
+||lighthousemd.co^
 ||lighthouse.rycerz.cloud^
 ||lilibox.duckdns.org^
 ||lilibox.freeboxos.fr^
@@ -2033,6 +2048,7 @@
 ||moaz-adguard.duckdns.org^
 ||mocha.r.rnet.ie^
 ||mojserwer.myasustor.com^
+||montmorot.duckdns.org^
 ||morbitzer.de^
 ||moto.adg.siudzinski.net^
 ||mozilla.cloudflare-dns.com^
@@ -2187,7 +2203,6 @@
 ||opennic.tenta.io^
 ||open-resolver1.unima.ac.id^
 ||opera.cloudflare-dns.com^
-||ora1.nocnik.org^
 ||oracle2.herry.dev^
 ||oracle5.losfa.xyz^
 ||oracle.cepheus0.com^
@@ -2264,6 +2279,7 @@
 ||private.adguard.wessels-net.nl^
 ||private.canadianshield.cira.ca^
 ||privatnas.servebeer.com^
+||privdns.duckdns.org^
 ||project-evoex.de^
 ||promsdns.com^
 ||pro.shecan.ir^
@@ -2286,13 +2302,13 @@
 ||qaz.tw^
 ||qbak.no-ip.eu^
 ||qlf-doh.inria.fr^
-||qq-sg-1.node.xieke.org^
 ||quantum-age.cn^
 ||query.hdns.io^
 ||query.shenl.in^
 ||qwenty.ru^
 ||r1bnc.com^
 ||r1bnc.eu.org^
+||r4u2c9i5.stackpathcdn.com^
 ||rabanete.duckdns.org^
 ||rabenhain.net^
 ||rachel.jeroenhd.nl^
@@ -2457,6 +2473,7 @@
 ||site-1.duckdns.org^
 ||site-2.duckdns.org^
 ||sitecreation.biz.ua^
+||s.justlife.fun^
 ||sk.9727158.xyz^
 ||sk-bra-w-1.nashkan.net^
 ||skillzdns.ru^
@@ -2469,6 +2486,7 @@
 ||snd.jaxif.com^
 ||snoke.meganerd.nl^
 ||soeding.ddnss.de^
+||soldier.terumi.club^
 ||solution.w10.life^
 ||soncms.id.vn^
 ||sorannbb.buzz^
@@ -2488,6 +2506,7 @@
 ||staycute.xyz^
 ||steering.nextdns.io^
 ||steff.sbs^
+||strata.gurupannu.com^
 ||strk12-filter.mtbroadband.us^
 ||stuxen.duckdns.org^
 ||sunnygyl.com^
@@ -2498,6 +2517,8 @@
 ||sv.oispace.eu.org^
 ||sweethome.in.eu.org^
 ||switch.ch^
+||swoletux.ave.zone^
+||syd1.norgannetworks.net.au^
 ||syd.adfilter.net^
 ||syd.core.access.zznet.fun^
 ||syd-docker.lspcr.space^
@@ -2631,6 +2652,7 @@
 ||v2.xx3210766.live^
 ||v3.passby.eu.org^
 ||v6.rubyfish.cn^
+||vador.sillundil.ovh^
 ||vallecerroazul.com^
 ||valleverde.icu^
 ||vanced.racinas.com^
@@ -2698,6 +2720,7 @@
 ||vsrv15195.customer.xenway.de^
 ||vudy.ru^
 ||v.yuwentian.com^
+||w0125ca5.kasserver.com^
 ||w401.itarmy.co.za^
 ||w5ppr.us^
 ||wabu.ddns.net^
