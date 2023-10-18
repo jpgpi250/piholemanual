@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2310170242 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2310180227 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2023-10-17 02:42:26 (UTC)
+; Last updated: 2023-10-18 02:27:45 (UTC)
 ;
 ; See https://jpgpi250.github.io/piholemanual/doc/Unbound%20response%20policy%20zones.pdf
 ; Report issues at https://github.com/jpgpi250/piholemanual/issues
@@ -19,6 +19,7 @@ $TTL 30
 1.0rz.space CNAME .
 1111.cloudflare-dns.com CNAME .
 1.11i.eu CNAME .
+180.0rz.space CNAME .
 1and1-dns.de CNAME .
 1a.ns.ozer.im CNAME .
 1b.ns.ozer.im CNAME .
@@ -2096,6 +2097,7 @@ new.nhunor.com CNAME .
 next.miao.ninja CNAME .
 nfti.duckdns.org CNAME .
 ng-lag-w-1.nashkan.net CNAME .
+nhatlong.work CNAME .
 nicktruehome.ddns.net CNAME .
 nilanjan.me CNAME .
 nilanjan.rocks CNAME .
@@ -2111,6 +2113,7 @@ noads.vdl.io CNAME .
 node3.b4el.ru CNAME .
 no-osl-w-1.nashkan.net CNAME .
 note.dehb.ru CNAME .
+nott.digitaladapt.com CNAME .
 novikovfamily.info CNAME .
 nrt.core.access.zznet.fun CNAME .
 nrusimha.crabdance.com CNAME .
@@ -2718,7 +2721,6 @@ vps.grussenmeyer.com CNAME .
 vps.jmarkin.ru CNAME .
 vps.techrich.net CNAME .
 vpsus3.pzhg.me CNAME .
-vps.vokuev.org CNAME .
 vps.ztmzzz.win CNAME .
 vsrv15195.customer.xenway.de CNAME .
 vudy.ru CNAME .
