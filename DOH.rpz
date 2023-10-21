@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2310200228 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2310210235 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2023-10-20 02:28:42 (UTC)
+; Last updated: 2023-10-21 02:35:58 (UTC)
 ;
 ; See https://jpgpi250.github.io/piholemanual/doc/Unbound%20response%20policy%20zones.pdf
 ; Report issues at https://github.com/jpgpi250/piholemanual/issues
@@ -19,7 +19,6 @@ $TTL 30
 1.0rz.space CNAME .
 1111.cloudflare-dns.com CNAME .
 1.11i.eu CNAME .
-180.0rz.space CNAME .
 1and1-dns.de CNAME .
 1a.ns.ozer.im CNAME .
 1b.ns.ozer.im CNAME .
@@ -458,7 +457,6 @@ bluemood.me CNAME .
 b.ns.dnslify.com CNAME .
 bobstrecansky.com CNAME .
 bravedns.com CNAME .
-breitenfurt.us CNAME .
 br-sao-w-1.nashkan.net CNAME .
 br.servers.legat.ml CNAME .
 b.safe.ns.dnslify.com CNAME .
@@ -1145,6 +1143,7 @@ dns.paxavemedia.com CNAME .
 dns.periactes.com CNAME .
 dns.phucbui.top CNAME .
 dns.pieterdherde.com CNAME .
+dns.pietjacobs.be CNAME .
 dnspod.clzapp.com CNAME .
 dns.porteii.com CNAME .
 dns.pragmasec.nl CNAME .
@@ -1704,6 +1703,7 @@ fwgw.orangepipc.mywire.org CNAME .
 gaia.plonknet.com CNAME .
 galileo.math.unipd.it CNAME .
 gambling-goat.khaosadv.com CNAME .
+gateway.baltes.info CNAME .
 gateway-el.cname.ustclug.org CNAME .
 gateway.fomichev.cloud CNAME .
 gateway.mcebox.com CNAME .
@@ -1755,8 +1755,10 @@ gustamadh.dynv6.net CNAME .
 gwps.duckdns.org CNAME .
 gztech.me CNAME .
 hahnjo.de CNAME .
+hanahira.dev CNAME .
 haswell-www.a.guindehi.ch CNAME .
 hc.xiwen1988.top CNAME .
+heimdall.ff0x.ca CNAME .
 helios.plan9-dns.com CNAME .
 helios.plan9dns.com CNAME .
 heoyun.com CNAME .
