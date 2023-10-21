@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2023-10-19 02:29:29 (UTC)
+! Last updated: 2023-10-20 02:45:44 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -380,6 +380,8 @@
 ||area51.mywire.org^
 ||argon.molinero.dev^
 ||arkadia100.pl^
+||arm2.nzcow.com^
+||arm3.nzcow.com^
 ||armorrush.eu.org^
 ||arvilx3.ddns.net^
 ||as17820865.click^
@@ -403,6 +405,7 @@
 ||au-syd-w-2.nashkan.net^
 ||au-syd-w-3.nashkan.net^
 ||au.teradns.org^
+||auth.phclinz.de^
 ||auto-cn-hk-8000.go-behind.one^
 ||awan.ftp.sh^
 ||aws.razor1911.xyz^
@@ -410,6 +413,7 @@
 ||azagramac.duckdns.org^
 ||azbs.ddmm.eu.org^
 ||azure.cloudflare-dns.com^
+||b2u7d7r9.stackpathcdn.com^
 ||baedns.duckdns.org^
 ||base.dns.mullvad.net^
 ||basic.bravedns.com^
@@ -547,6 +551,8 @@
 ||d3.shabi.icu^
 ||d3.supremum.io^
 ||d3vy.ru^
+||dac-one.nayemador.com^
+||d.adguard-dns.com^
 ||dadns.one^
 ||dakulov.synology.me^
 ||dandelionsprout.asuscomm.com^
@@ -562,11 +568,13 @@
 ||dat.privatedns.org^
 ||daverotaquio.net^
 ||davidcampos.duckdns.org^
+||dawnings.cn^
 ||dbbs.dns.databyte-network.com^
 ||ddd2.loukky.com^
 ||ddd.loukky.com^
 ||ddns.bigmaomao.xyz^
 ||ddns.haha2048.site^
+||ddns.l2h8.cn^
 ||ddns.oii.im^
 ||debian-01.eastasia.cloudapp.azure.com^
 ||de-dus.doh.sb^
@@ -1133,7 +1141,6 @@
 ||dns.periactes.com^
 ||dns.phucbui.top^
 ||dns.pieterdherde.com^
-||dns.pietjacobs.be^
 ||dnspod.clzapp.com^
 ||dns.porteii.com^
 ||dns.pragmasec.nl^
@@ -1584,6 +1591,7 @@
 ||d.smart365.tk^
 ||d.toairs.com^
 ||dukun.de^
+||dumbledore.steinr.eu^
 ||dupatruwi22.fun^
 ||dus.ysbs.uk^
 ||duyyen.tk^
@@ -1591,8 +1599,9 @@
 ||dycn.vip^
 ||dyn-ip.borjalopez.eu^
 ||ea-dns.rubyfish.cn^
+||eaereaper.ru^
+||eajtech.com^
 ||easyhandshake.com^
-||ec2-52-12-183-214.us-west-2.compute.amazonaws.com^
 ||echoe1yidzu4ioo5.myfritz.net^
 ||ecs-auto.fanscloud.net^
 ||ecs-doh.dnswarden.com^
@@ -1640,8 +1649,10 @@
 ||fanscloud.net^
 ||faradns.net^
 ||fb.i81.ru^
+||fcpsunleashed.org^
 ||fdns1.dismail.de^
 ||fdns2.dismail.de^
+||feelnosorry.com^
 ||felipefalcao.ninja^
 ||fezgate.ovh^
 ||fggdd.top^
@@ -1740,10 +1751,8 @@
 ||gwps.duckdns.org^
 ||gztech.me^
 ||hahnjo.de^
-||hanahira.dev^
 ||haswell-www.a.guindehi.ch^
 ||hc.xiwen1988.top^
-||heimdall.ff0x.ca^
 ||helios.plan9-dns.com^
 ||helios.plan9dns.com^
 ||heoyun.com^
@@ -1767,6 +1776,7 @@
 ||home.501w.net^
 ||home.basthorst.eu^
 ||home.bruckmoser.it^
+||home.ddns.network^
 ||homedns.gumeniuk.com^
 ||home.fc.idv.tw^
 ||home.jobytan.com^
@@ -1876,6 +1886,8 @@
 ||keithchunguat.hopto.org^
 ||kellerbier-home.de^
 ||kenit.me^
+||kent6.ajaest.net^
+||kent6.dyn.ajaest.net^
 ||keymiagar.ir^
 ||khsan.com^
 ||kids.5ososea.com^
@@ -1932,6 +1944,7 @@
 ||lf-ns-001.my.to^
 ||libye.in^
 ||life.flylcc.cc^
+||lighthousemd.co^
 ||lighthouse.rycerz.cloud^
 ||lilibox.duckdns.org^
 ||lilibox.freeboxos.fr^
@@ -2008,6 +2021,7 @@
 ||moaz-adguard.duckdns.org^
 ||mocha.r.rnet.ie^
 ||mojserwer.myasustor.com^
+||montmorot.duckdns.org^
 ||morbitzer.de^
 ||moto.adg.siudzinski.net^
 ||mozilla.cloudflare-dns.com^
@@ -2063,7 +2077,6 @@
 ||node3.b4el.ru^
 ||no-osl-w-1.nashkan.net^
 ||note.dehb.ru^
-||nott.digitaladapt.com^
 ||novikovfamily.info^
 ||nrt.core.access.zznet.fun^
 ||nrusimha.crabdance.com^
@@ -2223,6 +2236,7 @@
 ||private.adguard.wessels-net.nl^
 ||private.canadianshield.cira.ca^
 ||privatnas.servebeer.com^
+||privdns.duckdns.org^
 ||project-evoex.de^
 ||promsdns.com^
 ||pro.shecan.ir^
@@ -2250,6 +2264,7 @@
 ||qwenty.ru^
 ||r1bnc.com^
 ||r1bnc.eu.org^
+||r4u2c9i5.stackpathcdn.com^
 ||rabenhain.net^
 ||rachel.jeroenhd.nl^
 ||racinas.com^
@@ -2365,7 +2380,6 @@
 ||serveur-yan.synology.me^
 ||service.c698fc0a.cfd^
 ||services.akierry.io^
-||sexybody.myqnapcloud.com^
 ||sg01.dns4me.net^
 ||sg01.localnet.dev^
 ||sg1-1.362430.xyz^
@@ -2403,6 +2417,7 @@
 ||site-1.duckdns.org^
 ||site-2.duckdns.org^
 ||sitecreation.biz.ua^
+||s.justlife.fun^
 ||sk.9727158.xyz^
 ||sk-bra-w-1.nashkan.net^
 ||skillzdns.ru^
@@ -2414,6 +2429,7 @@
 ||snd.jaxif.com^
 ||snoke.meganerd.nl^
 ||soeding.ddnss.de^
+||soldier.terumi.club^
 ||solution.w10.life^
 ||soncms.id.vn^
 ||sorannbb.buzz^
@@ -2433,6 +2449,7 @@
 ||staycute.xyz^
 ||steering.nextdns.io^
 ||steff.sbs^
+||strata.gurupannu.com^
 ||strk12-filter.mtbroadband.us^
 ||stuxen.duckdns.org^
 ||sunnygyl.com^
@@ -2443,6 +2460,8 @@
 ||sv.oispace.eu.org^
 ||sweethome.in.eu.org^
 ||switch.ch^
+||swoletux.ave.zone^
+||syd1.norgannetworks.net.au^
 ||syd.adfilter.net^
 ||syd.core.access.zznet.fun^
 ||syd-docker.lspcr.space^
@@ -2563,6 +2582,7 @@
 ||v2.xx3210766.live^
 ||v3.passby.eu.org^
 ||v6.rubyfish.cn^
+||vador.sillundil.ovh^
 ||vallecerroazul.com^
 ||valleverde.icu^
 ||vanced.racinas.com^
@@ -2622,6 +2642,7 @@
 ||vsrv15195.customer.xenway.de^
 ||vudy.ru^
 ||v.yuwentian.com^
+||w0125ca5.kasserver.com^
 ||w401.itarmy.co.za^
 ||w5ppr.us^
 ||wabu.ddns.net^
@@ -2639,6 +2660,7 @@
 ||wg.req1.fr^
 ||whitegeek.icu^
 ||wikimedia-dns.org^
+||wikimediadns.org^
 ||wikipeter.me^
 ||win10virtual.fb.i81.ru^
 ||win10virtual.hr.i81.ru^
