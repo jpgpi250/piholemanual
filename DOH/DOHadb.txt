@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2023-10-20 02:45:44 (UTC)
+! Last updated: 2023-10-21 02:53:04 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -15,7 +15,6 @@
 ||1.0rz.space^
 ||1111.cloudflare-dns.com^
 ||1.11i.eu^
-||180.0rz.space^
 ||1and1-dns.de^
 ||1a.ns.ozer.im^
 ||1b.ns.ozer.im^
@@ -454,7 +453,6 @@
 ||b.ns.dnslify.com^
 ||bobstrecansky.com^
 ||bravedns.com^
-||breitenfurt.us^
 ||br-sao-w-1.nashkan.net^
 ||br.servers.legat.ml^
 ||b.safe.ns.dnslify.com^
@@ -1141,6 +1139,7 @@
 ||dns.periactes.com^
 ||dns.phucbui.top^
 ||dns.pieterdherde.com^
+||dns.pietjacobs.be^
 ||dnspod.clzapp.com^
 ||dns.porteii.com^
 ||dns.pragmasec.nl^
@@ -1700,6 +1699,7 @@
 ||gaia.plonknet.com^
 ||galileo.math.unipd.it^
 ||gambling-goat.khaosadv.com^
+||gateway.baltes.info^
 ||gateway-el.cname.ustclug.org^
 ||gateway.fomichev.cloud^
 ||gateway.mcebox.com^
@@ -1751,8 +1751,10 @@
 ||gwps.duckdns.org^
 ||gztech.me^
 ||hahnjo.de^
+||hanahira.dev^
 ||haswell-www.a.guindehi.ch^
 ||hc.xiwen1988.top^
+||heimdall.ff0x.ca^
 ||helios.plan9-dns.com^
 ||helios.plan9dns.com^
 ||heoyun.com^
