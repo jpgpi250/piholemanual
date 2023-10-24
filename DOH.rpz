@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2310230244 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2310240222 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2023-10-23 02:44:55 (UTC)
+; Last updated: 2023-10-24 02:22:09 (UTC)
 ;
 ; See https://jpgpi250.github.io/piholemanual/doc/Unbound%20response%20policy%20zones.pdf
 ; Report issues at https://github.com/jpgpi250/piholemanual/issues
@@ -575,7 +575,6 @@ daswieddodeushtuhaw.xyz CNAME .
 dat.privatedns.org CNAME .
 daverotaquio.net CNAME .
 davidcampos.duckdns.org CNAME .
-dawnings.cn CNAME .
 dbbs.dns.databyte-network.com CNAME .
 ddd2.loukky.com CNAME .
 ddd.loukky.com CNAME .
@@ -1225,6 +1224,7 @@ dns.spil.co.id CNAME .
 dns.spok.fun CNAME .
 dns.sshub.win CNAME .
 dns.sstomp.nl CNAME .
+dns-staging-alb-849259019.us-east-1.elb.amazonaws.com CNAME .
 dns.startupstack.tech CNAME .
 dns.stdev.su CNAME .
 dns.stevenz.net CNAME .
@@ -1707,6 +1707,7 @@ fwgw.orangepipc.mywire.org CNAME .
 gaia.plonknet.com CNAME .
 galileo.math.unipd.it CNAME .
 gambling-goat.khaosadv.com CNAME .
+gateway.baltes.info CNAME .
 gateway-el.cname.ustclug.org CNAME .
 gateway.fomichev.cloud CNAME .
 gateway.mcebox.com CNAME .
@@ -1785,7 +1786,6 @@ home47a.mooo.com CNAME .
 home.501w.net CNAME .
 home.basthorst.eu CNAME .
 home.bruckmoser.it CNAME .
-home.ddns.network CNAME .
 homedns.gumeniuk.com CNAME .
 home.fc.idv.tw CNAME .
 home.jobytan.com CNAME .
@@ -2076,6 +2076,7 @@ net.tt6.net CNAME .
 newlibrarian.myqnapcloud.com CNAME .
 next.miao.ninja CNAME .
 nfti.duckdns.org CNAME .
+nhatlong.work CNAME .
 nicktruehome.ddns.net CNAME .
 nilanjan.me CNAME .
 nilanjan.rocks CNAME .
@@ -2097,6 +2098,7 @@ nrusimha.crabdance.com CNAME .
 ns.00dani.me CNAME .
 ns0.fdn.fr CNAME .
 ns1.1899.com.mx CNAME .
+ns1.95997.ip-ns.net CNAME .
 ns1.bit-trails.nl CNAME .
 ns1.dnsprivacy.at CNAME .
 ns1.doh.best CNAME .
@@ -2225,6 +2227,7 @@ photo.dehb.ru CNAME .
 phucbui.top CNAME .
 pi1.node15.com CNAME .
 pi.daryllswer.net CNAME .
+piekacz.pl CNAME .
 pihole1.hoerli.net CNAME .
 pihole2.hoerli.net CNAME .
 pihole3.hoerli.net CNAME .
@@ -2271,7 +2274,6 @@ q3i6k7j3.stackpathcdn.com CNAME .
 qaz.tw CNAME .
 qbak.no-ip.eu CNAME .
 qlf-doh.inria.fr CNAME .
-qq-sg-1.node.xieke.org CNAME .
 quantum-age.cn CNAME .
 query.hdns.io CNAME .
 query.shenl.in CNAME .
