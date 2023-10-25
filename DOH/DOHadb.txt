@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2023-10-23 03:01:57 (UTC)
+! Last updated: 2023-10-24 02:39:09 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -571,7 +571,6 @@
 ||dat.privatedns.org^
 ||daverotaquio.net^
 ||davidcampos.duckdns.org^
-||dawnings.cn^
 ||dbbs.dns.databyte-network.com^
 ||ddd2.loukky.com^
 ||ddd.loukky.com^
@@ -1221,6 +1220,7 @@
 ||dns.spok.fun^
 ||dns.sshub.win^
 ||dns.sstomp.nl^
+||dns-staging-alb-849259019.us-east-1.elb.amazonaws.com^
 ||dns.startupstack.tech^
 ||dns.stdev.su^
 ||dns.stevenz.net^
@@ -1703,6 +1703,7 @@
 ||gaia.plonknet.com^
 ||galileo.math.unipd.it^
 ||gambling-goat.khaosadv.com^
+||gateway.baltes.info^
 ||gateway-el.cname.ustclug.org^
 ||gateway.fomichev.cloud^
 ||gateway.mcebox.com^
@@ -1781,7 +1782,6 @@
 ||home.501w.net^
 ||home.basthorst.eu^
 ||home.bruckmoser.it^
-||home.ddns.network^
 ||homedns.gumeniuk.com^
 ||home.fc.idv.tw^
 ||home.jobytan.com^
@@ -2072,6 +2072,7 @@
 ||newlibrarian.myqnapcloud.com^
 ||next.miao.ninja^
 ||nfti.duckdns.org^
+||nhatlong.work^
 ||nicktruehome.ddns.net^
 ||nilanjan.me^
 ||nilanjan.rocks^
@@ -2093,6 +2094,7 @@
 ||ns.00dani.me^
 ||ns0.fdn.fr^
 ||ns1.1899.com.mx^
+||ns1.95997.ip-ns.net^
 ||ns1.bit-trails.nl^
 ||ns1.dnsprivacy.at^
 ||ns1.doh.best^
@@ -2221,6 +2223,7 @@
 ||phucbui.top^
 ||pi1.node15.com^
 ||pi.daryllswer.net^
+||piekacz.pl^
 ||pihole1.hoerli.net^
 ||pihole2.hoerli.net^
 ||pihole3.hoerli.net^
@@ -2267,7 +2270,6 @@
 ||qaz.tw^
 ||qbak.no-ip.eu^
 ||qlf-doh.inria.fr^
-||qq-sg-1.node.xieke.org^
 ||quantum-age.cn^
 ||query.hdns.io^
 ||query.shenl.in^
