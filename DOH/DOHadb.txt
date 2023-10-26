@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2023-10-24 02:39:09 (UTC)
+! Last updated: 2023-10-25 02:47:30 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -499,7 +499,6 @@
 ||chaos.altendorfme.com^
 ||chaos-system.de^
 ||chertila.tk^
-||chewbacca.meganerd.nl^
 ||chlaebi.synology.me^
 ||chno.xyz^
 ||chrome.cloudflare-dns.com^
@@ -1782,6 +1781,7 @@
 ||home.501w.net^
 ||home.basthorst.eu^
 ||home.bruckmoser.it^
+||home.ddns.network^
 ||homedns.gumeniuk.com^
 ||home.fc.idv.tw^
 ||home.jobytan.com^
@@ -2072,7 +2072,6 @@
 ||newlibrarian.myqnapcloud.com^
 ||next.miao.ninja^
 ||nfti.duckdns.org^
-||nhatlong.work^
 ||nicktruehome.ddns.net^
 ||nilanjan.me^
 ||nilanjan.rocks^
@@ -2393,7 +2392,6 @@
 ||serveur-yan.synology.me^
 ||service.c698fc0a.cfd^
 ||services.akierry.io^
-||sexybody.myqnapcloud.com^
 ||sg01.dns4me.net^
 ||sg01.localnet.dev^
 ||sg1-1.362430.xyz^
