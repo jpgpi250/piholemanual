@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2023-10-25 02:47:30 (UTC)
+! Last updated: 2023-10-26 02:41:01 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -161,6 +161,7 @@
 ||adguard.dessoi.cloud^
 ||adguard.digitalsewer.com^
 ||adguard.discounthost.co.uk^
+||adguard-dns.com^
 ||adguard-dns.eu.org^
 ||adguard-dns.rouga.ch^
 ||adguarddomain515364.com^
@@ -1182,7 +1183,7 @@
 ||dns.rubyfish.cn^
 ||dns.sac.rebl.eu.org^
 ||dns.safeith.com^
-||dns-sandbox-3291100252b8f52b.elb.us-east-1.amazonaws.com^
+||dns-sandbox-alb-275183166.us-east-1.elb.amazonaws.com^
 ||dns.sarak.as^
 ||dns.sarakas.net^
 ||dns.sb^
@@ -1528,7 +1529,6 @@
 ||doh.xcom.pro^
 ||doh.xfinity.com^
 ||doh.zephyrus.id^
-||domainexpired.dnspod.cn^
 ||dominatrix.brandonsli.com^
 ||donghovietkid.cloud^
 ||dorkanddoodle.duckdns.org^
@@ -2072,6 +2072,7 @@
 ||newlibrarian.myqnapcloud.com^
 ||next.miao.ninja^
 ||nfti.duckdns.org^
+||nhatlong.work^
 ||nicktruehome.ddns.net^
 ||nilanjan.me^
 ||nilanjan.rocks^
@@ -2196,6 +2197,7 @@
 ||outie.8ws.net^
 ||outiejr.8ws.net^
 ||ovh.panszelescik.pl^
+||ovpn.bond^
 ||p0.freedns.controld.com^
 ||p1.freedns.controld.com^
 ||p2.freedns.controld.com^
@@ -2222,7 +2224,6 @@
 ||phucbui.top^
 ||pi1.node15.com^
 ||pi.daryllswer.net^
-||piekacz.pl^
 ||pihole1.hoerli.net^
 ||pihole2.hoerli.net^
 ||pihole3.hoerli.net^
@@ -2392,6 +2393,7 @@
 ||serveur-yan.synology.me^
 ||service.c698fc0a.cfd^
 ||services.akierry.io^
+||sexybody.myqnapcloud.com^
 ||sg01.dns4me.net^
 ||sg01.localnet.dev^
 ||sg1-1.362430.xyz^
@@ -2525,7 +2527,6 @@
 ||trr.dns.nextdns.io^
 ||trytackle.ddns.net^
 ||ttag.dns.nomu.pw^
-||tuandns.duckdns.org^
 ||tungdnsne.duckdns.org^
 ||tungtsbn2000.viewdns.net^
 ||tv.jjlizz.com^
