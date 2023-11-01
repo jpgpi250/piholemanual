@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2310310310 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2311010323 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2023-10-31 03:10:47 (UTC)
+; Last updated: 2023-11-01 03:23:28 (UTC)
 ;
 ; See https://jpgpi250.github.io/piholemanual/doc/Unbound%20response%20policy%20zones.pdf
 ; Report issues at https://github.com/jpgpi250/piholemanual/issues
@@ -49,6 +49,7 @@ $TTL 30
 3x2y.tk CNAME .
 45-76-84-146.colo.xandodigital.net CNAME .
 501w.net CNAME .
+77980.bodis.com CNAME .
 8888.google CNAME .
 a11.diplo.es CNAME .
 a5135324.csie.io CNAME .
@@ -118,11 +119,13 @@ adguard01.root-p.de CNAME .
 adguard01.zitronen-server.de CNAME .
 adguard02.dns.infrapod.nl CNAME .
 adguard02.infrapod.nl CNAME .
+adguard1.bonis.de CNAME .
 adguard1.forst.one CNAME .
 adguard1.jsanagustin.net CNAME .
 adguard1.leadmon.net CNAME .
 adguard1.njy.jsanagustin.net CNAME .
 adguard2.atl.jsanagustin.net CNAME .
+adguard2.bonis.de CNAME .
 adguard2.cloudmini.net CNAME .
 adguard2.dsns.cloud CNAME .
 adguard2.frece.de CNAME .
@@ -144,6 +147,7 @@ adguard.baltes.info CNAME .
 adguard.beliefanx.cn CNAME .
 adguard.betamax65.de CNAME .
 adguard.biandrestreso.com CNAME .
+adguard.bonis.de CNAME .
 adguard.brandonsli.com CNAME .
 adguard.bwasson.com CNAME .
 adguard.cepenjak.com CNAME .
@@ -154,6 +158,7 @@ adguardcloud.bwasson.com CNAME .
 adguard.cloud-chen.idv.tw CNAME .
 adguard.cloudmini.net CNAME .
 adguard.cnbeining.com CNAME .
+adguard.crestfallen.de CNAME .
 adguard.dashofsunny.com CNAME .
 adguard.ddns.net CNAME .
 adguard.dehb.ru CNAME .
@@ -1041,6 +1046,7 @@ dns.kutovoy.dev CNAME .
 dns.l337.site CNAME .
 dns.labar.re CNAME .
 dns.laison.ltd CNAME .
+dns.landerbrauver.ru CNAME .
 dns.larsdebruin.net CNAME .
 dns.lars-lehmann.net CNAME .
 dns.lat-team.xyz CNAME .
@@ -1140,7 +1146,6 @@ dns.odirf.de CNAME .
 dns.ofdoom.net CNAME .
 dns.onp.cloud CNAME .
 dns.opendns.com CNAME .
-dns.opnsource.com.au CNAME .
 dns.opopop.fun CNAME .
 dns.ord.chriswang.work CNAME .
 dns.osmenoga.com CNAME .
@@ -1340,6 +1345,7 @@ dns.wibenson.cloud CNAME .
 dns.wns.watch CNAME .
 dns.woexp.ru CNAME .
 dns.worthmind.net CNAME .
+dns.wryhf.net CNAME .
 dns.wugui.zone CNAME .
 dns.xiayang.space CNAME .
 dns.xie.ke CNAME .
@@ -1771,6 +1777,7 @@ guard.magic-pics.tk CNAME .
 guard.sntrk.ru CNAME .
 guard.thefather.cloud CNAME .
 guard.yps.tw CNAME .
+guidetoworld.link CNAME .
 guilherme.tec.br CNAME .
 gunag.duckdns.org CNAME .
 guoyingwei.top CNAME .
@@ -1807,6 +1814,7 @@ home47a.mooo.com CNAME .
 home.501w.net CNAME .
 home.basthorst.eu CNAME .
 home.bruckmoser.it CNAME .
+home.ddns.network CNAME .
 homedns.gumeniuk.com CNAME .
 home.fc.idv.tw CNAME .
 home.jobytan.com CNAME .
@@ -1901,6 +1909,7 @@ jp-kix.doh.sb CNAME .
 jp.meidouling.com CNAME .
 jp-nrt.doh.sb CNAME .
 jpok.996333.xyz CNAME .
+jp.ray0512.win CNAME .
 jp.tiarap.org CNAME .
 jp.tiar.app CNAME .
 jp-tyo-w-1.nashkan.net CNAME .
@@ -1987,7 +1996,6 @@ lion.dns.qwer.pw CNAME .
 lion.yazilimatolye.com CNAME .
 lipunyushka.ru CNAME .
 live.jjlizz.com CNAME .
-l.l.ovpn.bond CNAME .
 lmz.meudns.minhacasainteligente.cf CNAME .
 locaweb.moleniuk.com CNAME .
 lon-dns.bitdefender.net CNAME .
@@ -2370,6 +2378,7 @@ routerdieb-dns.de CNAME .
 router.racinas.com CNAME .
 route.yuanmingming.com CNAME .
 rpz-public-resolver1.rrdns.pch.net CNAME .
+rslsonc.marsgo.top CNAME .
 ru-mos-w-2.nashkan.net CNAME .
 ru-mow.doh.sb CNAME .
 rumpelsepp.org CNAME .
@@ -2403,6 +2412,7 @@ secureadguarddns.charleslondon.online CNAME .
 secure.anudeep.me CNAME .
 secure.avastdns.com CNAME .
 secure-dns.dns-ga.de CNAME .
+secure-dns.pleumkungz.com CNAME .
 securenet.mhsystems.net CNAME .
 secure.odomail.com CNAME .
 secure.onedns.cc CNAME .
@@ -2683,6 +2693,7 @@ vps.avc.cx CNAME .
 vpschito.duckdns.org CNAME .
 vps.fleuryk.ovh CNAME .
 vps.grussenmeyer.com CNAME .
+vps.iamdevilmafia.online CNAME .
 vps.jmarkin.ru CNAME .
 vps.techrich.net CNAME .
 vpsus3.pzhg.me CNAME .
@@ -2808,6 +2819,7 @@ yanggan.eu.org CNAME .
 yarp.lefolgoc.net CNAME .
 ychen.cf CNAME .
 ychen.gq CNAME .
+ycy3.hyf.cool CNAME .
 yory2cave.hopto.me CNAME .
 your-dns.run CNAME .
 yovbak.com CNAME .
