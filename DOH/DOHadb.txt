@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2023-10-31 03:27:52 (UTC)
+! Last updated: 2023-11-01 03:40:38 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -45,6 +45,7 @@
 ||3x2y.tk^
 ||45-76-84-146.colo.xandodigital.net^
 ||501w.net^
+||77980.bodis.com^
 ||8888.google^
 ||a11.diplo.es^
 ||a5135324.csie.io^
@@ -114,11 +115,13 @@
 ||adguard01.zitronen-server.de^
 ||adguard02.dns.infrapod.nl^
 ||adguard02.infrapod.nl^
+||adguard1.bonis.de^
 ||adguard1.forst.one^
 ||adguard1.jsanagustin.net^
 ||adguard1.leadmon.net^
 ||adguard1.njy.jsanagustin.net^
 ||adguard2.atl.jsanagustin.net^
+||adguard2.bonis.de^
 ||adguard2.cloudmini.net^
 ||adguard2.dsns.cloud^
 ||adguard2.frece.de^
@@ -140,6 +143,7 @@
 ||adguard.beliefanx.cn^
 ||adguard.betamax65.de^
 ||adguard.biandrestreso.com^
+||adguard.bonis.de^
 ||adguard.brandonsli.com^
 ||adguard.bwasson.com^
 ||adguard.cepenjak.com^
@@ -150,6 +154,7 @@
 ||adguard.cloud-chen.idv.tw^
 ||adguard.cloudmini.net^
 ||adguard.cnbeining.com^
+||adguard.crestfallen.de^
 ||adguard.dashofsunny.com^
 ||adguard.ddns.net^
 ||adguard.dehb.ru^
@@ -1037,6 +1042,7 @@
 ||dns.l337.site^
 ||dns.labar.re^
 ||dns.laison.ltd^
+||dns.landerbrauver.ru^
 ||dns.larsdebruin.net^
 ||dns.lars-lehmann.net^
 ||dns.lat-team.xyz^
@@ -1136,7 +1142,6 @@
 ||dns.ofdoom.net^
 ||dns.onp.cloud^
 ||dns.opendns.com^
-||dns.opnsource.com.au^
 ||dns.opopop.fun^
 ||dns.ord.chriswang.work^
 ||dns.osmenoga.com^
@@ -1336,6 +1341,7 @@
 ||dns.wns.watch^
 ||dns.woexp.ru^
 ||dns.worthmind.net^
+||dns.wryhf.net^
 ||dns.wugui.zone^
 ||dns.xiayang.space^
 ||dns.xie.ke^
@@ -1767,6 +1773,7 @@
 ||guard.sntrk.ru^
 ||guard.thefather.cloud^
 ||guard.yps.tw^
+||guidetoworld.link^
 ||guilherme.tec.br^
 ||gunag.duckdns.org^
 ||guoyingwei.top^
@@ -1803,6 +1810,7 @@
 ||home.501w.net^
 ||home.basthorst.eu^
 ||home.bruckmoser.it^
+||home.ddns.network^
 ||homedns.gumeniuk.com^
 ||home.fc.idv.tw^
 ||home.jobytan.com^
@@ -1897,6 +1905,7 @@
 ||jp.meidouling.com^
 ||jp-nrt.doh.sb^
 ||jpok.996333.xyz^
+||jp.ray0512.win^
 ||jp.tiarap.org^
 ||jp.tiar.app^
 ||jp-tyo-w-1.nashkan.net^
@@ -1983,7 +1992,6 @@
 ||lion.yazilimatolye.com^
 ||lipunyushka.ru^
 ||live.jjlizz.com^
-||l.l.ovpn.bond^
 ||lmz.meudns.minhacasainteligente.cf^
 ||locaweb.moleniuk.com^
 ||lon-dns.bitdefender.net^
@@ -2366,6 +2374,7 @@
 ||router.racinas.com^
 ||route.yuanmingming.com^
 ||rpz-public-resolver1.rrdns.pch.net^
+||rslsonc.marsgo.top^
 ||ru-mos-w-2.nashkan.net^
 ||ru-mow.doh.sb^
 ||rumpelsepp.org^
@@ -2399,6 +2408,7 @@
 ||secure.anudeep.me^
 ||secure.avastdns.com^
 ||secure-dns.dns-ga.de^
+||secure-dns.pleumkungz.com^
 ||securenet.mhsystems.net^
 ||secure.odomail.com^
 ||secure.onedns.cc^
@@ -2679,6 +2689,7 @@
 ||vpschito.duckdns.org^
 ||vps.fleuryk.ovh^
 ||vps.grussenmeyer.com^
+||vps.iamdevilmafia.online^
 ||vps.jmarkin.ru^
 ||vps.techrich.net^
 ||vpsus3.pzhg.me^
@@ -2804,6 +2815,7 @@
 ||yarp.lefolgoc.net^
 ||ychen.cf^
 ||ychen.gq^
+||ycy3.hyf.cool^
 ||yory2cave.hopto.me^
 ||your-dns.run^
 ||yovbak.com^
