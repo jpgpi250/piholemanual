@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2023-11-01 03:40:38 (UTC)
+! Last updated: 2023-11-02 03:57:54 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -392,6 +392,8 @@
 ||area51.mywire.org^
 ||argon.molinero.dev^
 ||arkadia100.pl^
+||arm2.nzcow.com^
+||arm3.nzcow.com^
 ||armorrush.eu.org^
 ||arvilx3.ddns.net^
 ||as17820865.click^
@@ -415,6 +417,7 @@
 ||au-syd-w-2.nashkan.net^
 ||au-syd-w-3.nashkan.net^
 ||au.teradns.org^
+||auth.phclinz.de^
 ||auto-cn-hk-8000.go-behind.one^
 ||awan.ftp.sh^
 ||aws.razor1911.xyz^
@@ -422,6 +425,7 @@
 ||azagramac.duckdns.org^
 ||azbs.ddmm.eu.org^
 ||azure.cloudflare-dns.com^
+||b2u7d7r9.stackpathcdn.com^
 ||baedns.duckdns.org^
 ||base.dns.mullvad.net^
 ||basic.bravedns.com^
@@ -530,9 +534,7 @@
 ||cluster-0.gac.edu^
 ||cluster-1.gac.edu^
 ||c.malicioustation.icu^
-||cn1.hanwuss.loongapi.com^
 ||cname-for-doh.go-behind.one^
-||cn-eu-1.y.dns.hanwuss.loongapi.com^
 ||cn.turngreatwall.com^
 ||commons.host^
 ||comss.one^
@@ -562,6 +564,7 @@
 ||d3.shabi.icu^
 ||d3.supremum.io^
 ||d3vy.ru^
+||dac-one.nayemador.com^
 ||d.adguard-dns.com^
 ||dadns.one^
 ||dakulov.synology.me^
@@ -1172,7 +1175,7 @@
 ||dns-privacy.puregeni.us^
 ||dns.privado.ovh^
 ||dns.privilab.net^
-||dns-prod-bc43efde54c7e228.elb.us-east-1.amazonaws.com^
+||dns-prod-alb-194669935.us-east-1.elb.amazonaws.com^
 ||dns.psociety.de^
 ||dns.pub^
 ||dns-public.ibakerserver.pt^
@@ -1622,6 +1625,7 @@
 ||d.smart365.tk^
 ||d.toairs.com^
 ||dukun.de^
+||dumbledore.steinr.eu^
 ||dupatruwi22.fun^
 ||dus.ysbs.uk^
 ||duyyen.tk^
@@ -1629,6 +1633,8 @@
 ||dycn.vip^
 ||dyn-ip.borjalopez.eu^
 ||ea-dns.rubyfish.cn^
+||eaereaper.ru^
+||eajtech.com^
 ||easyhandshake.com^
 ||echoe1yidzu4ioo5.myfritz.net^
 ||ecs-auto.fanscloud.net^
@@ -1680,6 +1686,7 @@
 ||fb.i81.ru^
 ||fdns1.dismail.de^
 ||fdns2.dismail.de^
+||feelnosorry.com^
 ||felipefalcao.ninja^
 ||fezgate.ovh^
 ||fggdd.top^
@@ -1926,6 +1933,8 @@
 ||keithchunguat.hopto.org^
 ||kellerbier-home.de^
 ||kenit.me^
+||kent6.ajaest.net^
+||kent6.dyn.ajaest.net^
 ||keymiagar.ir^
 ||khsan.com^
 ||kids.5ososea.com^
@@ -1955,7 +1964,6 @@
 ||krtekvpn.duckdns.org^
 ||kr.telex.app^
 ||kr-x64-2.lov.host^
-||ks1.plop.cc^
 ||k-s-edition.ru^
 ||ksedns.ru^
 ||kudns.kescher.at^
@@ -1983,6 +1991,7 @@
 ||lf-ns-001.my.to^
 ||libye.in^
 ||life.flylcc.cc^
+||lighthousemd.co^
 ||lighthouse.rycerz.cloud^
 ||lilibox.duckdns.org^
 ||lilibox.freeboxos.fr^
@@ -2285,6 +2294,7 @@
 ||private.adguard.wessels-net.nl^
 ||private.canadianshield.cira.ca^
 ||privatnas.servebeer.com^
+||privdns.duckdns.org^
 ||project-evoex.de^
 ||promsdns.com^
 ||pro.shecan.ir^
@@ -2312,6 +2322,7 @@
 ||qwenty.ru^
 ||r1bnc.com^
 ||r1bnc.eu.org^
+||r4u2c9i5.stackpathcdn.com^
 ||rabenhain.net^
 ||rachel.jeroenhd.nl^
 ||racinas.com^
@@ -2431,7 +2442,6 @@
 ||serveur-yan.synology.me^
 ||service.c698fc0a.cfd^
 ||services.akierry.io^
-||sexybody.myqnapcloud.com^
 ||sg01.dns4me.net^
 ||sg01.localnet.dev^
 ||sg1-1.362430.xyz^
@@ -2439,7 +2449,6 @@
 ||sg1.dnswarden.com^
 ||sg2.ooroot.com^
 ||sg2.tt502.eu.org^
-||sg.adhole.org^
 ||sg-dns1.bancuh.com^
 ||sg-dns2.bancuh.com^
 ||sg.gridns.xyz^
@@ -2470,6 +2479,7 @@
 ||site-1.duckdns.org^
 ||site-2.duckdns.org^
 ||sitecreation.biz.ua^
+||s.justlife.fun^
 ||sk.9727158.xyz^
 ||sk-bra-w-1.nashkan.net^
 ||skillzdns.ru^
@@ -2481,6 +2491,7 @@
 ||snd.jaxif.com^
 ||snoke.meganerd.nl^
 ||soeding.ddnss.de^
+||soldier.terumi.club^
 ||solution.w10.life^
 ||soncms.id.vn^
 ||sorannbb.buzz^
@@ -2500,6 +2511,7 @@
 ||staycute.xyz^
 ||steering.nextdns.io^
 ||steff.sbs^
+||strata.gurupannu.com^
 ||strk12-filter.mtbroadband.us^
 ||stuxen.duckdns.org^
 ||sunnygyl.com^
@@ -2510,6 +2522,7 @@
 ||sv.oispace.eu.org^
 ||sweethome.in.eu.org^
 ||switch.ch^
+||swoletux.ave.zone^
 ||syd1.norgannetworks.net.au^
 ||syd.adfilter.net^
 ||syd.core.access.zznet.fun^
@@ -2576,7 +2589,6 @@
 ||ubuntu1.adgw.tk^
 ||ueni.dyndns.org^
 ||uk01.dns4me.net^
-||uk.adhole.org^
 ||uk-lon.doh.sb^
 ||uk.teradns.org^
 ||uncensored.any.dns.nixnet.xyz^
@@ -2603,7 +2615,6 @@
 ||us1.intellsystemworld.xyz^
 ||us5.wan.hc7z.com^
 ||us-atl-w-2.nashkan.net^
-||us-central.adhole.org^
 ||us-chi-w-1.nashkan.net^
 ||us-chi-w-3.nashkan.net^
 ||us-chi-w-4.nashkan.net^
@@ -2612,7 +2623,6 @@
 ||us-den-w-1.nashkan.net^
 ||us-den-w-2.nashkan.net^
 ||us.doh.cloudveil.org^
-||us-east.adhole.org^
 ||us-jac-w-1.nashkan.net^
 ||us-la-w-4.nashkan.net^
 ||usname.freecdn.one^
@@ -2697,6 +2707,7 @@
 ||vsrv15195.customer.xenway.de^
 ||vudy.ru^
 ||v.yuwentian.com^
+||w0125ca5.kasserver.com^
 ||w401.itarmy.co.za^
 ||w5ppr.us^
 ||wabu.ddns.net^
