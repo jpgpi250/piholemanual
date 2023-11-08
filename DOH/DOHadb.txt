@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2023-11-06 03:38:07 (UTC)
+! Last updated: 2023-11-07 03:53:17 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -108,6 +108,7 @@
 ||adg.rokh.biz^
 ||adg.siudzinski.net^
 ||adg.swh123.xyz^
+||adg.tshost.no^
 ||adguard01.dns.infrapod.nl^
 ||adguard01.homepeter.de^
 ||adguard01.infrapod.nl^
@@ -373,7 +374,6 @@
 ||an.loliconapp.top^
 ||a.ns.dnslify.com^
 ||ant.dns.qwer.pw^
-||antidns.s.tuna.tsinghua.edu.cn^
 ||anti-tahrim.bazipardaz.com^
 ||antivirus.bebasid.com^
 ||antonyfrompnz.space^
@@ -1082,6 +1082,7 @@
 ||dns.minliny.com^
 ||dns.mipauns.com^
 ||dns.mlxysf.pp.ua^
+||dns.mni.li^
 ||dns.mocn.top^
 ||dns.moesite.top^
 ||dns.mokyun.cn^
@@ -1561,6 +1562,7 @@
 ||doh.xcom.pro^
 ||doh.xfinity.com^
 ||doh.zephyrus.id^
+||doh.zln.wtf^
 ||dominatrix.brandonsli.com^
 ||donghovietkid.cloud^
 ||dorkanddoodle.duckdns.org^
@@ -1963,7 +1965,6 @@
 ||krtekvpn.duckdns.org^
 ||kr.telex.app^
 ||kr-x64-2.lov.host^
-||ks1.plop.cc^
 ||k-s-edition.ru^
 ||ksedns.ru^
 ||kudns.kescher.at^
@@ -2109,12 +2110,12 @@
 ||neatdns.ustclug.org^
 ||nebula.neo7.kim^
 ||nebula.tru.io^
+||nemless.dedyn.io^
 ||netcat.one^
 ||net.tt6.net^
 ||newlibrarian.myqnapcloud.com^
 ||next.miao.ninja^
 ||nfti.duckdns.org^
-||nhatlong.work^
 ||nicktruehome.ddns.net^
 ||nilanjan.me^
 ||nilanjan.rocks^
@@ -2286,7 +2287,6 @@
 ||pluton.plan9dns.com^
 ||pl-waw-w-1.nashkan.net^
 ||pl-waw-w-2.nashkan.net^
-||polaris.mrmartian.co^
 ||pope.cnblw.me^
 ||portal.iddqd.uk^
 ||pqh.ddns.net^
@@ -2444,7 +2444,6 @@
 ||serveur-yan.synology.me^
 ||service.c698fc0a.cfd^
 ||services.akierry.io^
-||sexybody.myqnapcloud.com^
 ||sg01.dns4me.net^
 ||sg01.localnet.dev^
 ||sg1-1.362430.xyz^
