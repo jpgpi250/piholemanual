@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2023-11-10 03:45:57 (UTC)
+! Last updated: 2023-11-11 03:44:17 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -45,7 +45,6 @@
 ||3x2y.tk^
 ||45-76-84-146.colo.xandodigital.net^
 ||501w.net^
-||77980.bodis.com^
 ||8888.google^
 ||a11.diplo.es^
 ||a5135324.csie.io^
@@ -538,9 +537,7 @@
 ||cluster-0.gac.edu^
 ||cluster-1.gac.edu^
 ||c.malicioustation.icu^
-||cn1.hanwuss.loongapi.com^
 ||cname-for-doh.go-behind.one^
-||cn-eu-1.y.dns.hanwuss.loongapi.com^
 ||cn.turngreatwall.com^
 ||commons.host^
 ||comss.one^
@@ -1743,6 +1740,7 @@
 ||gaia.plonknet.com^
 ||galileo.math.unipd.it^
 ||gambling-goat.khaosadv.com^
+||gateway.baltes.info^
 ||gateway-el.cname.ustclug.org^
 ||gateway.fomichev.cloud^
 ||gateway.mcebox.com^
@@ -2008,6 +2006,7 @@
 ||lion.yazilimatolye.com^
 ||lipunyushka.ru^
 ||live.jjlizz.com^
+||l.l.ovpn.bond^
 ||lmz.meudns.minhacasainteligente.cf^
 ||locaweb.moleniuk.com^
 ||lon-dns.bitdefender.net^
@@ -2332,7 +2331,6 @@
 ||r1bnc.eu.org^
 ||r4u2c9i5.stackpathcdn.com^
 ||rabenhain.net^
-||rachel.jeroenhd.nl^
 ||racinas.com^
 ||radia.bortzmeyer.org^
 ||rafi.dynns.com^
@@ -2450,7 +2448,6 @@
 ||serveur-yan.synology.me^
 ||service.c698fc0a.cfd^
 ||services.akierry.io^
-||sexybody.myqnapcloud.com^
 ||sg01.dns4me.net^
 ||sg01.localnet.dev^
 ||sg1-1.362430.xyz^
