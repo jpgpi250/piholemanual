@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2023-11-12 03:30:41 (UTC)
+! Last updated: 2023-11-13 03:30:33 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -189,6 +189,7 @@
 ||adguard.kantinyoyok.xyz^
 ||adguard-kartoffel.zernico.de^
 ||adguard.kibaofficial.net^
+||adguard.kiboko.it^
 ||adguard.kngnet.de^
 ||adguard.konikoni428.com^
 ||adguard.koshonsa.fr^
@@ -540,6 +541,7 @@
 ||dev.camelstrike.xyz^
 ||d.gametechnet.com^
 ||dgca.myds.me^
+||d.hansj.cc^
 ||dhlifeus-micro1.dns.3456.kr^
 ||diblock.rnrkurir.com^
 ||digitalsewer.com^
@@ -555,6 +557,7 @@
 ||dns01.woosahdigitalhosted.com^
 ||dns02.almir1904.eu^
 ||dns02.oceanprint.com.br^
+||dns02.wewa.me^
 ||dns03.almir1904.eu^
 ||dns0.eu^
 ||dns.0ooo.icu^
@@ -601,6 +604,7 @@
 ||dns.23-4.cn^
 ||dns.240527.xyz^
 ||dns2.alekberg.net^
+||dns2.bartoszturek.online^
 ||dns.2.bsh4.com^
 ||dns2.cantello.media^
 ||dns2.cbio.top^
@@ -611,6 +615,7 @@
 ||dns2.guidocioni.it^
 ||dns2.h0schi.cloud^
 ||dns2.home-albrecht.com^
+||dns2.idsam.com^
 ||dns2.ipv6.dnscrypt.ca^
 ||dns2.klcd.eu^
 ||dns2.lfac.xyz^
@@ -663,6 +668,7 @@
 ||dns.abdullahabas.online^
 ||dns.ac-weather.com^
 ||dns.adblocker.eu.org^
+||dns.adguard0808.cloudns.ph^
 ||dns.adguard.com^
 ||dnsadguard.co.uk^
 ||dns.adguard-dns.com^
@@ -783,6 +789,7 @@
 ||dns.dnshome.de^
 ||dns.dns-over-https.com^
 ||dns.dnsoverhttps.net^
+||dns.dnssilo.top^
 ||dns.dnswarden.com^
 ||dnsdoh.art^
 ||dns.doh.best^
@@ -812,6 +819,7 @@
 ||dnsenc.com^
 ||dns.enderblocks.net^
 ||dns.energized.pro^
+||dns.engineer-lib.ru^
 ||dns-enzel.de^
 ||dnses.alekberg.net^
 ||dns.esegece.com^
@@ -1081,6 +1089,7 @@
 ||dns.phucbui.top^
 ||dns.pieterdherde.com^
 ||dns.pietjacobs.be^
+||dns.pmxu.link^
 ||dnspod.clzapp.com^
 ||dns.porteii.com^
 ||dns.pragmasec.nl^
@@ -1122,6 +1131,7 @@
 ||dns.rubyfish.cn^
 ||dns.sac.rebl.eu.org^
 ||dns.safeith.com^
+||dns.safko.eu^
 ||dns-sandbox-alb-275183166.us-east-1.elb.amazonaws.com^
 ||dns.sarak.as^
 ||dns.sarakas.net^
@@ -1198,6 +1208,7 @@
 ||dns.tomitomix.net^
 ||dns.tooizi.eu^
 ||dns.tracker.ink^
+||dns.trifanov-online.ru^
 ||dns.truong.fi^
 ||dns.trust404.win^
 ||dns.tuankhaiit.com^
@@ -1475,6 +1486,7 @@
 ||doh.xfinity.com^
 ||doh.zephyrus.id^
 ||doh.zln.wtf^
+||domainexpired.dnspod.cn^
 ||dominatrix.brandonsli.com^
 ||donghovietkid.cloud^
 ||dorkanddoodle.duckdns.org^
@@ -1526,6 +1538,7 @@
 ||douglas.mebrak.fr^
 ||douglaster.com^
 ||download.dehb.ru^
+||dpeddi.myddns.com^
 ||dpserver87.ddns.net^
 ||dr3d.my.id^
 ||dr-adguard.de^
@@ -1553,6 +1566,7 @@
 ||edgy-dns.com^
 ||edns.233py.com^
 ||ee-tll.doh.sb^
+||egshe.myqnapcloud.com^
 ||elc.meudns.minhacasainteligente.cf^
 ||eliatofani.ovh^
 ||elshad-adgh-dns.ru^
@@ -1600,6 +1614,7 @@
 ||fggdd.top^
 ||fi.doh.dns.snopyta.org^
 ||fi.dot.dns.snopyta.org^
+||fi-hel-w-1.nashkan.net^
 ||fi-hel-w-2.nashkan.net^
 ||fi.jelebruh.xyz^
 ||file.dehb.ru^
@@ -1739,6 +1754,7 @@
 ||home.qbak.net^
 ||home.skrzypiec.pl^
 ||home.snow-sugar.net^
+||home.supelrafal.pl^
 ||home.tuankhaiit.com^
 ||home.wriedts.de^
 ||hooliganska.duckdns.org^
@@ -1939,7 +1955,6 @@
 ||mainframe.dewed.de^
 ||main.zhhz.cc^
 ||management.alexpollard.net^
-||marcrnt.ddnss.de^
 ||marimuttz.asuscomm.com^
 ||markolll.ru^
 ||mask-api.fe.apple-dns.net^
@@ -2036,6 +2051,7 @@
 ||node3.b4el.ru^
 ||nonanon.pl^
 ||no-osl-w-1.nashkan.net^
+||notebait.ddnsfree.com^
 ||note.dehb.ru^
 ||novikovfamily.info^
 ||nrt.core.access.zznet.fun^
@@ -2224,6 +2240,7 @@
 ||qual.cuprum.ru^
 ||quantum-age.cn^
 ||query.hdns.io^
+||query.mobyds.com^
 ||query.shenl.in^
 ||qwenty.ru^
 ||r1bnc.com^
@@ -2404,6 +2421,7 @@
 ||srgaghome.freemyip.com^
 ||srm.name^
 ||srv1.web-mx.eu^
+||srv2.bartoszturek.online^
 ||srv2.data-host.de^
 ||srv5.jiripocta.cz^
 ||srv-revprox-01.atakorah.com^
@@ -2590,6 +2608,7 @@
 ||vpn.nbvalente.fr^
 ||vpn.rynet.link^
 ||vpn.sakhwow.ru^
+||vpn.stroialliance.com^
 ||vpnto.bhadrikais.my.id^
 ||vpn-tw.teng.sh^
 ||vpn.vokuev.org^
@@ -2700,6 +2719,7 @@
 ||www.timothytimothy.cf^
 ||www.urology.wiki^
 ||www.vpnhellings.nl^
+||www.vpn.stroialliance.com^
 ||www.whitegeek.icu^
 ||www.xantirealityx.net^
 ||www.yuanmingming.com^
