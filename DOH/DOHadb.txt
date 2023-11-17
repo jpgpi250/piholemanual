@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2023-11-15 03:13:49 (UTC)
+! Last updated: 2023-11-16 03:18:23 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -43,6 +43,7 @@
 ||3x2y.tk^
 ||45-76-84-146.colo.xandodigital.net^
 ||501w.net^
+||77980.bodis.com^
 ||8888.google^
 ||a5135324.csie.io^
 ||aalqudah.site^
@@ -110,6 +111,7 @@
 ||adguard1.jsanagustin.net^
 ||adguard1.leadmon.net^
 ||adguard1.njy.jsanagustin.net^
+||adguard2.atl.jsanagustin.net^
 ||adguard2.bonis.de^
 ||adguard2.cloudmini.net^
 ||adguard2.dsns.cloud^
@@ -348,6 +350,8 @@
 ||area51.mywire.org^
 ||argon.molinero.dev^
 ||arkadia100.pl^
+||arm2.nzcow.com^
+||arm3.nzcow.com^
 ||armorrush.eu.org^
 ||arvilx3.ddns.net^
 ||as17820865.click^
@@ -369,6 +373,7 @@
 ||au-syd-w-2.nashkan.net^
 ||au-syd-w-3.nashkan.net^
 ||au.teradns.org^
+||auth.phclinz.de^
 ||auto-cn-hk-8000.go-behind.one^
 ||awan.ftp.sh^
 ||aws.razor1911.xyz^
@@ -377,6 +382,7 @@
 ||azbs.ddmm.eu.org^
 ||azure.cloudflare-dns.com^
 ||azure.quydang.name.vn^
+||b2u7d7r9.stackpathcdn.com^
 ||baedns.duckdns.org^
 ||base.dns.mullvad.net^
 ||basic.bravedns.com^
@@ -482,6 +488,7 @@
 ||comss.one^
 ||comss.ru^
 ||connectix.xyz^
+||connect.moonficonnect.com^
 ||contacts.dehb.ru^
 ||cpux.ru^
 ||craft.vps.pw^
@@ -1559,12 +1566,15 @@
 ||d.smart365.tk^
 ||d.toairs.com^
 ||dukun.de^
+||dumbledore.steinr.eu^
 ||dupatruwi22.fun^
 ||dus.ysbs.uk^
 ||duyyen.tk^
 ||dycn.vip^
 ||dyn-ip.borjalopez.eu^
 ||ea-dns.rubyfish.cn^
+||eaereaper.ru^
+||eajtech.com^
 ||easyhandshake.com^
 ||echoe1yidzu4ioo5.myfritz.net^
 ||ecs-auto.fanscloud.net^
@@ -1617,6 +1627,7 @@
 ||fb.i81.ru^
 ||fdns1.dismail.de^
 ||fdns2.dismail.de^
+||feelnosorry.com^
 ||felipefalcao.ninja^
 ||fezgate.ovh^
 ||fggdd.top^
@@ -1867,6 +1878,8 @@
 ||keithchunguat.hopto.org^
 ||kellerbier-home.de^
 ||kenit.me^
+||kent6.ajaest.net^
+||kent6.dyn.ajaest.net^
 ||keymiagar.ir^
 ||khsan.com^
 ||kids.5ososea.com^
@@ -1925,6 +1938,7 @@
 ||lf-ns-001.my.to^
 ||libye.in^
 ||life.flylcc.cc^
+||lighthousemd.co^
 ||lighthouse.rycerz.cloud^
 ||lilibox.duckdns.org^
 ||lilibox.freeboxos.fr^
@@ -1934,6 +1948,7 @@
 ||lion.yazilimatolye.com^
 ||lipunyushka.ru^
 ||live.jjlizz.com^
+||l.l.ovpn.bond^
 ||lmz.meudns.minhacasainteligente.cf^
 ||locaweb.moleniuk.com^
 ||lon-dns.bitdefender.net^
@@ -2050,6 +2065,7 @@
 ||newlibrarian.myqnapcloud.com^
 ||next.miao.ninja^
 ||nfti.duckdns.org^
+||nhatlong.work^
 ||nicktruehome.ddns.net^
 ||nilanjan.me^
 ||nilanjan.rocks^
@@ -2207,7 +2223,6 @@
 ||phucbui.top^
 ||pi1.node15.com^
 ||pi.daryllswer.net^
-||piekacz.pl^
 ||pihole1.hoerli.net^
 ||pihole2.hoerli.net^
 ||pihole3.hoerli.net^
@@ -2231,6 +2246,7 @@
 ||private.adguard.wessels-net.nl^
 ||private.canadianshield.cira.ca^
 ||privatnas.servebeer.com^
+||privdns.duckdns.org^
 ||project-evoex.de^
 ||promsdns.com^
 ||pro.shecan.ir^
@@ -2260,6 +2276,7 @@
 ||qwenty.ru^
 ||r1bnc.com^
 ||r1bnc.eu.org^
+||r4u2c9i5.stackpathcdn.com^
 ||rabenhain.net^
 ||rachel.jeroenhd.nl^
 ||racinas.com^
@@ -2380,7 +2397,6 @@
 ||serveur-yan.synology.me^
 ||service.c698fc0a.cfd^
 ||services.akierry.io^
-||sexybody.myqnapcloud.com^
 ||sg01.dns4me.net^
 ||sg01.localnet.dev^
 ||sg1-1.362430.xyz^
@@ -2413,11 +2429,13 @@
 ||sinas85.synology.me^
 ||sin.core.access.zznet.fun^
 ||sink.nolo.ltd^
+||sin-one.adorsnet.work^
 ||sips.my.id^
 ||sitdns.com^
 ||site-1.duckdns.org^
 ||site-2.duckdns.org^
 ||sitecreation.biz.ua^
+||s.justlife.fun^
 ||sk.9727158.xyz^
 ||sk-bra-w-1.nashkan.net^
 ||skillzdns.ru^
@@ -2429,6 +2447,7 @@
 ||snd.jaxif.com^
 ||snoke.meganerd.nl^
 ||soeding.ddnss.de^
+||soldier.terumi.club^
 ||solution.w10.life^
 ||sorannbb.buzz^
 ||spacedns.org^
@@ -2448,16 +2467,19 @@
 ||staycute.xyz^
 ||steering.nextdns.io^
 ||steff.sbs^
+||strata.gurupannu.com^
 ||strk12-filter.mtbroadband.us^
 ||stuxen.duckdns.org^
 ||sunnygyl.com^
 ||surfbelow.com^
+||surobe.southeastasia.cloudapp.azure.com^
 ||surve.dehb.ru^
 ||sv3.minhduc.pw^
 ||svg33.eu^
 ||sv.oispace.eu.org^
 ||sweethome.in.eu.org^
 ||switch.ch^
+||swoletux.ave.zone^
 ||syd1.norgannetworks.net.au^
 ||syd.adfilter.net^
 ||syd.core.access.zznet.fun^
@@ -2550,7 +2572,6 @@
 ||us1.blissdns.net^
 ||us1.dns.lavate.ch^
 ||us1.intellsystemworld.xyz^
-||us5.wan.hc7z.com^
 ||us-atl-w-2.nashkan.net^
 ||us-chi-w-1.nashkan.net^
 ||us-chi-w-3.nashkan.net^
@@ -2588,6 +2609,7 @@
 ||vasya.hr.i81.ru^
 ||vasya.vd.i81.ru^
 ||vasya.vpn.i81.ru^
+||vault-101.net^
 ||vault.charraud.eu^
 ||vcdriy.top^
 ||vd.i81.ru^
@@ -2644,6 +2666,7 @@
 ||vsrv15195.customer.xenway.de^
 ||vudy.ru^
 ||v.yuwentian.com^
+||w0125ca5.kasserver.com^
 ||w401.itarmy.co.za^
 ||w5ppr.us^
 ||wabu.ddns.net^
@@ -2682,6 +2705,7 @@
 ||www.beautifullife.eu.org^
 ||www.beautifulthings.eu.org^
 ||www.bilidon.info^
+||www.caifuwu.com^
 ||www.c-dns.com^
 ||www.chlaebi.info^
 ||www.chungocoai.name.vn^
