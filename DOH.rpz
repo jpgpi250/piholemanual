@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2311170300 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2311180312 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2023-11-17 03:00:18 (UTC)
+; Last updated: 2023-11-18 03:12:41 (UTC)
 ;
 ; See https://jpgpi250.github.io/piholemanual/doc/Unbound%20response%20policy%20zones.pdf
 ; Report issues at https://github.com/jpgpi250/piholemanual/issues
@@ -1836,7 +1836,6 @@ it-pal-w-1.nashkan.net CNAME .
 ivnkn.xyz CNAME .
 jabber-germany.de CNAME .
 jabber-server.de CNAME .
-jack-black-adguard.duckdns.org CNAME .
 jackyes.ovh CNAME .
 jarjar.meganerd.nl CNAME .
 jcdns.fun CNAME .
@@ -1855,6 +1854,7 @@ jp.68360612.xyz CNAME .
 jp-dns1.bancuh.com CNAME .
 jpdns.billyau.net CNAME .
 jpdns.cola16.app CNAME .
+jpginformatica.com CNAME .
 jp.gridns.xyz CNAME .
 jp-kix.doh.sb CNAME .
 jp.meidouling.com CNAME .
@@ -1951,7 +1951,6 @@ lion.dns.qwer.pw CNAME .
 lion.yazilimatolye.com CNAME .
 lipunyushka.ru CNAME .
 live.jjlizz.com CNAME .
-l.l.ovpn.bond CNAME .
 lmz.meudns.minhacasainteligente.cf CNAME .
 locaweb.moleniuk.com CNAME .
 lon-dns.bitdefender.net CNAME .
@@ -2068,7 +2067,6 @@ net.tt6.net CNAME .
 newlibrarian.myqnapcloud.com CNAME .
 next.miao.ninja CNAME .
 nfti.duckdns.org CNAME .
-nhatlong.work CNAME .
 nicktruehome.ddns.net CNAME .
 nilanjan.me CNAME .
 nilanjan.rocks CNAME .
@@ -2226,6 +2224,7 @@ photo.dehb.ru CNAME .
 phucbui.top CNAME .
 pi1.node15.com CNAME .
 pi.daryllswer.net CNAME .
+piekacz.pl CNAME .
 pihole1.hoerli.net CNAME .
 pihole2.hoerli.net CNAME .
 pihole3.hoerli.net CNAME .
