@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2023-11-17 03:17:19 (UTC)
+! Last updated: 2023-11-18 03:29:48 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -1832,7 +1832,6 @@
 ||ivnkn.xyz^
 ||jabber-germany.de^
 ||jabber-server.de^
-||jack-black-adguard.duckdns.org^
 ||jackyes.ovh^
 ||jarjar.meganerd.nl^
 ||jcdns.fun^
@@ -1851,6 +1850,7 @@
 ||jp-dns1.bancuh.com^
 ||jpdns.billyau.net^
 ||jpdns.cola16.app^
+||jpginformatica.com^
 ||jp.gridns.xyz^
 ||jp-kix.doh.sb^
 ||jp.meidouling.com^
@@ -1947,7 +1947,6 @@
 ||lion.yazilimatolye.com^
 ||lipunyushka.ru^
 ||live.jjlizz.com^
-||l.l.ovpn.bond^
 ||lmz.meudns.minhacasainteligente.cf^
 ||locaweb.moleniuk.com^
 ||lon-dns.bitdefender.net^
@@ -2064,7 +2063,6 @@
 ||newlibrarian.myqnapcloud.com^
 ||next.miao.ninja^
 ||nfti.duckdns.org^
-||nhatlong.work^
 ||nicktruehome.ddns.net^
 ||nilanjan.me^
 ||nilanjan.rocks^
@@ -2222,6 +2220,7 @@
 ||phucbui.top^
 ||pi1.node15.com^
 ||pi.daryllswer.net^
+||piekacz.pl^
 ||pihole1.hoerli.net^
 ||pihole2.hoerli.net^
 ||pihole3.hoerli.net^
