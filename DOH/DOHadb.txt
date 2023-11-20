@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2023-11-18 03:29:48 (UTC)
+! Last updated: 2023-11-19 03:26:00 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -814,7 +814,6 @@
 ||dns.doubleangels.com^
 ||dns.dreamworker.idv.tw^
 ||dns.dutchwhite.nl^
-||dns.dyn1.de^
 ||dns.east.comss.one^
 ||dns.edc-pws.com^
 ||dns.eddi.net^
@@ -1640,7 +1639,6 @@
 ||filya.hr.i81.ru^
 ||filya.vd.i81.ru^
 ||filya.vpn.i81.ru^
-||firefenix.duckdns.org^
 ||firefox.dns.nextdns.io^
 ||fishtail-pkr-dns.dhengaanil.com.np^
 ||flat.loisy.it^
@@ -1679,6 +1677,7 @@
 ||gaia.plonknet.com^
 ||galileo.math.unipd.it^
 ||gambling-goat.khaosadv.com^
+||gateway.baltes.info^
 ||gateway-el.cname.ustclug.org^
 ||gateway.fomichev.cloud^
 ||gateway.mcebox.com^
@@ -1832,6 +1831,7 @@
 ||ivnkn.xyz^
 ||jabber-germany.de^
 ||jabber-server.de^
+||jack-black-adguard.duckdns.org^
 ||jackyes.ovh^
 ||jarjar.meganerd.nl^
 ||jcdns.fun^
@@ -2244,7 +2244,6 @@
 ||private.adguard.wessels-net.nl^
 ||private.canadianshield.cira.ca^
 ||privatnas.servebeer.com^
-||privdns.duckdns.org^
 ||project-evoex.de^
 ||promsdns.com^
 ||pro.shecan.ir^
