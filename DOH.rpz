@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2311190308 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2311200305 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2023-11-19 03:08:47 (UTC)
+; Last updated: 2023-11-20 03:05:10 (UTC)
 ;
 ; See https://jpgpi250.github.io/piholemanual/doc/Unbound%20response%20policy%20zones.pdf
 ; Report issues at https://github.com/jpgpi250/piholemanual/issues
@@ -818,6 +818,7 @@ dns-dot.dnsforfamily.com CNAME .
 dns.doubleangels.com CNAME .
 dns.dreamworker.idv.tw CNAME .
 dns.dutchwhite.nl CNAME .
+dns.dyn1.de CNAME .
 dns.east.comss.one CNAME .
 dns.edc-pws.com CNAME .
 dns.eddi.net CNAME .
@@ -1643,6 +1644,7 @@ file.dehb.ru CNAME .
 filya.hr.i81.ru CNAME .
 filya.vd.i81.ru CNAME .
 filya.vpn.i81.ru CNAME .
+firefenix.duckdns.org CNAME .
 firefox.dns.nextdns.io CNAME .
 fishtail-pkr-dns.dhengaanil.com.np CNAME .
 flat.loisy.it CNAME .
@@ -1715,6 +1717,7 @@ google-public-dns-a.google.com CNAME .
 google-public-dns-b.google.com CNAME .
 gosuntrip.com CNAME .
 gpchubjk.dnsfish.com CNAME .
+grape.991123.xyz CNAME .
 green2.jnraptor.net CNAME .
 greenhamadguard.com.au CNAME .
 greppie.nl CNAME .
@@ -1736,6 +1739,7 @@ gwps.duckdns.org CNAME .
 gztech.me CNAME .
 hahnjo.de CNAME .
 hanahira.dev CNAME .
+hanliang.fortiddns.com CNAME .
 haswell-www.a.guindehi.ch CNAME .
 hc.xiwen1988.top CNAME .
 heimdall.ff0x.ca CNAME .
@@ -1763,6 +1767,7 @@ home47a.mooo.com CNAME .
 home.501w.net CNAME .
 home.basthorst.eu CNAME .
 home.bruckmoser.it CNAME .
+home.chadeyron.fr CNAME .
 home.ddns.network CNAME .
 homedns.gumeniuk.com CNAME .
 home.fc.idv.tw CNAME .
@@ -1951,6 +1956,7 @@ lion.dns.qwer.pw CNAME .
 lion.yazilimatolye.com CNAME .
 lipunyushka.ru CNAME .
 live.jjlizz.com CNAME .
+l.l.ovpn.bond CNAME .
 lmz.meudns.minhacasainteligente.cf CNAME .
 locaweb.moleniuk.com CNAME .
 lon-dns.bitdefender.net CNAME .
@@ -2248,6 +2254,7 @@ privacy.plumedns.com CNAME .
 private.adguard.wessels-net.nl CNAME .
 private.canadianshield.cira.ca CNAME .
 privatnas.servebeer.com CNAME .
+privdns.duckdns.org CNAME .
 project-evoex.de CNAME .
 promsdns.com CNAME .
 pro.shecan.ir CNAME .
@@ -2398,7 +2405,6 @@ server.unp.im CNAME .
 serveur-yan.synology.me CNAME .
 service.c698fc0a.cfd CNAME .
 services.akierry.io CNAME .
-sexybody.myqnapcloud.com CNAME .
 sg01.dns4me.net CNAME .
 sg01.localnet.dev CNAME .
 sg1-1.362430.xyz CNAME .
