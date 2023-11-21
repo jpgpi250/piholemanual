@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2311200305 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2311210300 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2023-11-20 03:05:10 (UTC)
+; Last updated: 2023-11-21 03:00:30 (UTC)
 ;
 ; See https://jpgpi250.github.io/piholemanual/doc/Unbound%20response%20policy%20zones.pdf
 ; Report issues at https://github.com/jpgpi250/piholemanual/issues
@@ -57,7 +57,6 @@ abel.waringer-atg.de CNAME .
 ablock.fuckit.ovh CNAME .
 abovetheclouds.fun CNAME .
 abrarvanwebhosting.tk CNAME .
-abstergo.it CNAME .
 acomit.lk CNAME .
 ad1guard.duckdns.org CNAME .
 ad1.heronet.nl CNAME .
@@ -486,7 +485,9 @@ cloudsrv.charitosnet.de CNAME .
 cloud.tezoi.com CNAME .
 cluster-0.gac.edu CNAME .
 cluster-1.gac.edu CNAME .
+cn1.hanwuss.loongapi.com CNAME .
 cname-for-doh.go-behind.one CNAME .
+cn-eu-1.y.dns.hanwuss.loongapi.com CNAME .
 cn.turngreatwall.com CNAME .
 commons.host CNAME .
 comss.one CNAME .
@@ -818,7 +819,6 @@ dns-dot.dnsforfamily.com CNAME .
 dns.doubleangels.com CNAME .
 dns.dreamworker.idv.tw CNAME .
 dns.dutchwhite.nl CNAME .
-dns.dyn1.de CNAME .
 dns.east.comss.one CNAME .
 dns.edc-pws.com CNAME .
 dns.eddi.net CNAME .
@@ -1664,6 +1664,7 @@ fr-dns1.bancuh.com CNAME .
 fr-dns2.bancuh.com CNAME .
 free.bravedns.com CNAME .
 freedns.controld.com CNAME .
+freedom.mydns.network CNAME .
 freekdz.ddns.net CNAME .
 free.shecan.ir CNAME .
 freeside.wntrmute.net CNAME .
@@ -1768,7 +1769,6 @@ home.501w.net CNAME .
 home.basthorst.eu CNAME .
 home.bruckmoser.it CNAME .
 home.chadeyron.fr CNAME .
-home.ddns.network CNAME .
 homedns.gumeniuk.com CNAME .
 home.fc.idv.tw CNAME .
 home.jobytan.com CNAME .
@@ -2071,6 +2071,7 @@ nemless.dedyn.io CNAME .
 netcat.one CNAME .
 net.tt6.net CNAME .
 newlibrarian.myqnapcloud.com CNAME .
+new.pragmasec.nl CNAME .
 next.miao.ninja CNAME .
 nfti.duckdns.org CNAME .
 nicktruehome.ddns.net CNAME .
@@ -2230,7 +2231,6 @@ photo.dehb.ru CNAME .
 phucbui.top CNAME .
 pi1.node15.com CNAME .
 pi.daryllswer.net CNAME .
-piekacz.pl CNAME .
 pihole1.hoerli.net CNAME .
 pihole2.hoerli.net CNAME .
 pihole3.hoerli.net CNAME .
@@ -2405,6 +2405,7 @@ server.unp.im CNAME .
 serveur-yan.synology.me CNAME .
 service.c698fc0a.cfd CNAME .
 services.akierry.io CNAME .
+sexybody.myqnapcloud.com CNAME .
 sg01.dns4me.net CNAME .
 sg01.localnet.dev CNAME .
 sg1-1.362430.xyz CNAME .
@@ -2463,7 +2464,6 @@ sradg.eastus.cloudapp.azure.com CNAME .
 srgaghome.freemyip.com CNAME .
 srm.name CNAME .
 srv1.web-mx.eu CNAME .
-srv2.bartoszturek.online CNAME .
 srv2.data-host.de CNAME .
 srv5.jiripocta.cz CNAME .
 srv-revprox-01.atakorah.com CNAME .
@@ -2580,7 +2580,6 @@ us02.dns4me.net CNAME .
 us1.blissdns.net CNAME .
 us1.dns.lavate.ch CNAME .
 us1.intellsystemworld.xyz CNAME .
-us5.wan.hc7z.com CNAME .
 us-atl-w-2.nashkan.net CNAME .
 us-chi-w-1.nashkan.net CNAME .
 us-chi-w-3.nashkan.net CNAME .
