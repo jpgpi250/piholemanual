@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2023-11-19 03:26:00 (UTC)
+! Last updated: 2023-11-20 03:22:19 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -814,6 +814,7 @@
 ||dns.doubleangels.com^
 ||dns.dreamworker.idv.tw^
 ||dns.dutchwhite.nl^
+||dns.dyn1.de^
 ||dns.east.comss.one^
 ||dns.edc-pws.com^
 ||dns.eddi.net^
@@ -1639,6 +1640,7 @@
 ||filya.hr.i81.ru^
 ||filya.vd.i81.ru^
 ||filya.vpn.i81.ru^
+||firefenix.duckdns.org^
 ||firefox.dns.nextdns.io^
 ||fishtail-pkr-dns.dhengaanil.com.np^
 ||flat.loisy.it^
@@ -1711,6 +1713,7 @@
 ||google-public-dns-b.google.com^
 ||gosuntrip.com^
 ||gpchubjk.dnsfish.com^
+||grape.991123.xyz^
 ||green2.jnraptor.net^
 ||greenhamadguard.com.au^
 ||greppie.nl^
@@ -1732,6 +1735,7 @@
 ||gztech.me^
 ||hahnjo.de^
 ||hanahira.dev^
+||hanliang.fortiddns.com^
 ||haswell-www.a.guindehi.ch^
 ||hc.xiwen1988.top^
 ||heimdall.ff0x.ca^
@@ -1759,6 +1763,7 @@
 ||home.501w.net^
 ||home.basthorst.eu^
 ||home.bruckmoser.it^
+||home.chadeyron.fr^
 ||home.ddns.network^
 ||homedns.gumeniuk.com^
 ||home.fc.idv.tw^
@@ -1947,6 +1952,7 @@
 ||lion.yazilimatolye.com^
 ||lipunyushka.ru^
 ||live.jjlizz.com^
+||l.l.ovpn.bond^
 ||lmz.meudns.minhacasainteligente.cf^
 ||locaweb.moleniuk.com^
 ||lon-dns.bitdefender.net^
@@ -2244,6 +2250,7 @@
 ||private.adguard.wessels-net.nl^
 ||private.canadianshield.cira.ca^
 ||privatnas.servebeer.com^
+||privdns.duckdns.org^
 ||project-evoex.de^
 ||promsdns.com^
 ||pro.shecan.ir^
@@ -2394,7 +2401,6 @@
 ||serveur-yan.synology.me^
 ||service.c698fc0a.cfd^
 ||services.akierry.io^
-||sexybody.myqnapcloud.com^
 ||sg01.dns4me.net^
 ||sg01.localnet.dev^
 ||sg1-1.362430.xyz^
