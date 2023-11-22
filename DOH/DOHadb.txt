@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2023-11-20 03:22:19 (UTC)
+! Last updated: 2023-11-21 03:17:30 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -53,7 +53,6 @@
 ||ablock.fuckit.ovh^
 ||abovetheclouds.fun^
 ||abrarvanwebhosting.tk^
-||abstergo.it^
 ||acomit.lk^
 ||ad1guard.duckdns.org^
 ||ad1.heronet.nl^
@@ -482,7 +481,9 @@
 ||cloud.tezoi.com^
 ||cluster-0.gac.edu^
 ||cluster-1.gac.edu^
+||cn1.hanwuss.loongapi.com^
 ||cname-for-doh.go-behind.one^
+||cn-eu-1.y.dns.hanwuss.loongapi.com^
 ||cn.turngreatwall.com^
 ||commons.host^
 ||comss.one^
@@ -814,7 +815,6 @@
 ||dns.doubleangels.com^
 ||dns.dreamworker.idv.tw^
 ||dns.dutchwhite.nl^
-||dns.dyn1.de^
 ||dns.east.comss.one^
 ||dns.edc-pws.com^
 ||dns.eddi.net^
@@ -1660,6 +1660,7 @@
 ||fr-dns2.bancuh.com^
 ||free.bravedns.com^
 ||freedns.controld.com^
+||freedom.mydns.network^
 ||freekdz.ddns.net^
 ||free.shecan.ir^
 ||freeside.wntrmute.net^
@@ -1764,7 +1765,6 @@
 ||home.basthorst.eu^
 ||home.bruckmoser.it^
 ||home.chadeyron.fr^
-||home.ddns.network^
 ||homedns.gumeniuk.com^
 ||home.fc.idv.tw^
 ||home.jobytan.com^
@@ -2067,6 +2067,7 @@
 ||netcat.one^
 ||net.tt6.net^
 ||newlibrarian.myqnapcloud.com^
+||new.pragmasec.nl^
 ||next.miao.ninja^
 ||nfti.duckdns.org^
 ||nicktruehome.ddns.net^
@@ -2226,7 +2227,6 @@
 ||phucbui.top^
 ||pi1.node15.com^
 ||pi.daryllswer.net^
-||piekacz.pl^
 ||pihole1.hoerli.net^
 ||pihole2.hoerli.net^
 ||pihole3.hoerli.net^
@@ -2401,6 +2401,7 @@
 ||serveur-yan.synology.me^
 ||service.c698fc0a.cfd^
 ||services.akierry.io^
+||sexybody.myqnapcloud.com^
 ||sg01.dns4me.net^
 ||sg01.localnet.dev^
 ||sg1-1.362430.xyz^
@@ -2459,7 +2460,6 @@
 ||srgaghome.freemyip.com^
 ||srm.name^
 ||srv1.web-mx.eu^
-||srv2.bartoszturek.online^
 ||srv2.data-host.de^
 ||srv5.jiripocta.cz^
 ||srv-revprox-01.atakorah.com^
@@ -2576,7 +2576,6 @@
 ||us1.blissdns.net^
 ||us1.dns.lavate.ch^
 ||us1.intellsystemworld.xyz^
-||us5.wan.hc7z.com^
 ||us-atl-w-2.nashkan.net^
 ||us-chi-w-1.nashkan.net^
 ||us-chi-w-3.nashkan.net^
