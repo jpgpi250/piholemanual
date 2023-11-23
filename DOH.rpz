@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2311220255 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2311230255 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2023-11-22 02:55:03 (UTC)
+; Last updated: 2023-11-23 02:55:58 (UTC)
 ;
 ; See https://jpgpi250.github.io/piholemanual/doc/Unbound%20response%20policy%20zones.pdf
 ; Report issues at https://github.com/jpgpi250/piholemanual/issues
@@ -321,7 +321,6 @@ alisa.vd.i81.ru CNAME .
 alisa.vpn.i81.ru CNAME .
 all.dns.mullvad.net CNAME .
 alpha1.jnraptor.net CNAME .
-alpha.rferee.dev CNAME .
 amd1.sjp.loukky.com CNAME .
 amigo.hr.i81.ru CNAME .
 amigo.px.i81.ru CNAME .
@@ -435,6 +434,7 @@ b.safe.ns.dnslify.com CNAME .
 btb.dog CNAME .
 buc-m2.illmods.com CNAME .
 bunch-o-nerds.com CNAME .
+bushido.node.rferee.dev CNAME .
 bushmancastle.duckdns.org CNAME .
 bwh2.telex.app CNAME .
 bwh.why4free.top CNAME .
@@ -826,6 +826,7 @@ dns-dot.dnsforfamily.com CNAME .
 dns.doubleangels.com CNAME .
 dns.dreamworker.idv.tw CNAME .
 dns.dutchwhite.nl CNAME .
+dns.dyn1.de CNAME .
 dns.east.comss.one CNAME .
 dns.edc-pws.com CNAME .
 dns.eddi.net CNAME .
@@ -1028,7 +1029,6 @@ dns.milangeorge.com CNAME .
 dns.minliny.com CNAME .
 dns.mipauns.com CNAME .
 dns.mlxysf.pp.ua CNAME .
-dns.mni.li CNAME .
 dns.mocn.top CNAME .
 dns.moesite.top CNAME .
 dns.molinero.dev CNAME .
@@ -1230,6 +1230,7 @@ dns.tkhome.nl CNAME .
 dns-tls.bitwiseshift.net CNAME .
 dns.tls-data.de CNAME .
 dnstls.mobik.com CNAME .
+dnstls.neutopia.org CNAME .
 dns.tomitomix.net CNAME .
 dns.tooizi.eu CNAME .
 dns.tracker.ink CNAME .
@@ -1852,6 +1853,7 @@ it-pal-w-1.nashkan.net CNAME .
 ivnkn.xyz CNAME .
 jabber-germany.de CNAME .
 jabber-server.de CNAME .
+jack-black-adguard.duckdns.org CNAME .
 jackyes.ovh CNAME .
 jarjar.meganerd.nl CNAME .
 jcdns.fun CNAME .
@@ -2049,7 +2051,6 @@ mo0on15.com CNAME .
 moaz-adguard.duckdns.org CNAME .
 mocha.r.rnet.ie CNAME .
 mojserwer.myasustor.com CNAME .
-montmorot.duckdns.org CNAME .
 moonbd.top CNAME .
 morbitzer.de CNAME .
 moto.adg.siudzinski.net CNAME .
@@ -2089,7 +2090,6 @@ ndns.233py.com CNAME .
 neatdns.ustclug.org CNAME .
 nebula.neo7.kim CNAME .
 nebula.tru.io CNAME .
-nemless.dedyn.io CNAME .
 netcat.one CNAME .
 net.tt6.net CNAME .
 newlibrarian.myqnapcloud.com CNAME .
