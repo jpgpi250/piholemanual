@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2023-11-22 03:12:28 (UTC)
+! Last updated: 2023-11-23 03:13:28 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -317,7 +317,6 @@
 ||alisa.vpn.i81.ru^
 ||all.dns.mullvad.net^
 ||alpha1.jnraptor.net^
-||alpha.rferee.dev^
 ||amd1.sjp.loukky.com^
 ||amigo.hr.i81.ru^
 ||amigo.px.i81.ru^
@@ -431,6 +430,7 @@
 ||btb.dog^
 ||buc-m2.illmods.com^
 ||bunch-o-nerds.com^
+||bushido.node.rferee.dev^
 ||bushmancastle.duckdns.org^
 ||bwh2.telex.app^
 ||bwh.why4free.top^
@@ -822,6 +822,7 @@
 ||dns.doubleangels.com^
 ||dns.dreamworker.idv.tw^
 ||dns.dutchwhite.nl^
+||dns.dyn1.de^
 ||dns.east.comss.one^
 ||dns.edc-pws.com^
 ||dns.eddi.net^
@@ -1024,7 +1025,6 @@
 ||dns.minliny.com^
 ||dns.mipauns.com^
 ||dns.mlxysf.pp.ua^
-||dns.mni.li^
 ||dns.mocn.top^
 ||dns.moesite.top^
 ||dns.molinero.dev^
@@ -1226,6 +1226,7 @@
 ||dns-tls.bitwiseshift.net^
 ||dns.tls-data.de^
 ||dnstls.mobik.com^
+||dnstls.neutopia.org^
 ||dns.tomitomix.net^
 ||dns.tooizi.eu^
 ||dns.tracker.ink^
@@ -1848,6 +1849,7 @@
 ||ivnkn.xyz^
 ||jabber-germany.de^
 ||jabber-server.de^
+||jack-black-adguard.duckdns.org^
 ||jackyes.ovh^
 ||jarjar.meganerd.nl^
 ||jcdns.fun^
@@ -2045,7 +2047,6 @@
 ||moaz-adguard.duckdns.org^
 ||mocha.r.rnet.ie^
 ||mojserwer.myasustor.com^
-||montmorot.duckdns.org^
 ||moonbd.top^
 ||morbitzer.de^
 ||moto.adg.siudzinski.net^
@@ -2085,7 +2086,6 @@
 ||neatdns.ustclug.org^
 ||nebula.neo7.kim^
 ||nebula.tru.io^
-||nemless.dedyn.io^
 ||netcat.one^
 ||net.tt6.net^
 ||newlibrarian.myqnapcloud.com^
