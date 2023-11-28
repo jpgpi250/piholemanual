@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2311270326 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2311280314 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2023-11-27 03:26:11 (UTC)
+; Last updated: 2023-11-28 03:14:59 (UTC)
 ;
 ; See https://jpgpi250.github.io/piholemanual/doc/Unbound%20response%20policy%20zones.pdf
 ; Report issues at https://github.com/jpgpi250/piholemanual/issues
@@ -19,6 +19,7 @@ $TTL 30
 1.0rz.space CNAME .
 1111.cloudflare-dns.com CNAME .
 1.11i.eu CNAME .
+180.0rz.space CNAME .
 1and1-dns.de CNAME .
 1a.ns.ozer.im CNAME .
 1b.ns.ozer.im CNAME .
@@ -331,6 +332,7 @@ ams01.dnscry.pt CNAME .
 ams02.dnscry.pt CNAME .
 an81.ddns.net CNAME .
 an81dns.ru CNAME .
+andrei-se.ru CNAME .
 andrewnw.xyz CNAME .
 android.hfecr.com CNAME .
 andz21.dynv6.net CNAME .
@@ -338,6 +340,7 @@ anhphamhn82.uk CNAME .
 an.loliconapp.top CNAME .
 a.ns.dnslify.com CNAME .
 ant.dns.qwer.pw CNAME .
+antidns.s.tuna.tsinghua.edu.cn CNAME .
 antivirus.bebasid.com CNAME .
 antonyfrompnz.space CNAME .
 anycast.censurfridns.dk CNAME .
@@ -1627,6 +1630,7 @@ fwgw.orangepipc.mywire.org CNAME .
 gaia.plonknet.com CNAME .
 galileo.math.unipd.it CNAME .
 gambling-goat.khaosadv.com CNAME .
+gateway.baltes.info CNAME .
 gateway-el.cname.ustclug.org CNAME .
 gateway.fomichev.cloud CNAME .
 gateway.mcebox.com CNAME .
@@ -1761,6 +1765,7 @@ it-pal-w-1.nashkan.net CNAME .
 ivnkn.xyz CNAME .
 jabber-germany.de CNAME .
 jabber-server.de CNAME .
+jack-black-adguard.duckdns.org CNAME .
 jackyes.ovh CNAME .
 jambi.undo.it CNAME .
 jarjar.meganerd.nl CNAME .
@@ -2013,6 +2018,7 @@ ninny.duckdns.org CNAME .
 nl-ams2.doh.sb CNAME .
 nl-ams.doh.sb CNAME .
 nl-ams-w-3.nashkan.net CNAME .
+nlb.gbrossi.com.br CNAME .
 noadsapp.net CNAME .
 noads.dns.vladpro.ru CNAME .
 noads.imbuffering.com CNAME .
@@ -2100,7 +2106,6 @@ odon.de CNAME .
 odvr.nic.cz CNAME .
 offermans.net CNAME .
 office.heimtec.com CNAME .
-o.i.ovpn.bond CNAME .
 okijara.com CNAME .
 oko.haneulo.com CNAME .
 olga.hr.i81.ru CNAME .
@@ -2348,7 +2353,6 @@ server.unp.im CNAME .
 serveur-yan.synology.me CNAME .
 service.c698fc0a.cfd CNAME .
 services.akierry.io CNAME .
-sexybody.myqnapcloud.com CNAME .
 sg01.dns4me.net CNAME .
 sg01.localnet.dev CNAME .
 sg1-1.362430.xyz CNAME .
@@ -2388,6 +2392,7 @@ sitdns.com CNAME .
 site-1.duckdns.org CNAME .
 site-2.duckdns.org CNAME .
 sitecreation.biz.ua CNAME .
+s.justlife.fun CNAME .
 sk.9727158.xyz CNAME .
 sk-bra-w-1.nashkan.net CNAME .
 skillzdns.ru CNAME .
@@ -2425,6 +2430,7 @@ sto01.dnscry.pt CNAME .
 strata.gurupannu.com CNAME .
 strk12-filter.mtbroadband.us CNAME .
 stuxen.duckdns.org CNAME .
+sundalandia.pp.ua CNAME .
 sunnygyl.com CNAME .
 surfbelow.com CNAME .
 surobe.southeastasia.cloudapp.azure.com CNAME .
@@ -2659,7 +2665,6 @@ vps309.brueggus.de CNAME .
 vps310.brueggus.de CNAME .
 vps311.brueggus.de CNAME .
 vps312.brueggus.de CNAME .
-vps313.brueggus.de CNAME .
 vps32.brueggus.de CNAME .
 vps-33e5a7f3.vps.ovh.us CNAME .
 vps4.scho.io CNAME .
