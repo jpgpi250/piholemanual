@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2023-11-26 03:40:25 (UTC)
+! Last updated: 2023-11-27 03:43:26 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -15,7 +15,6 @@
 ||1.0rz.space^
 ||1111.cloudflare-dns.com^
 ||1.11i.eu^
-||180.0rz.space^
 ||1and1-dns.de^
 ||1a.ns.ozer.im^
 ||1b.ns.ozer.im^
@@ -335,7 +334,6 @@
 ||an.loliconapp.top^
 ||a.ns.dnslify.com^
 ||ant.dns.qwer.pw^
-||antidns.s.tuna.tsinghua.edu.cn^
 ||antivirus.bebasid.com^
 ||antonyfrompnz.space^
 ||anycast.censurfridns.dk^
@@ -1565,6 +1563,7 @@
 ||family.dns.yandex.ru^
 ||family-filter-dns.cleanbrowsing.org^
 ||family.freedns.controld.com^
+||family.mydns.network^
 ||family.puredns.org^
 ||familyshield.opendns.com^
 ||fanscloud.net^
@@ -1585,7 +1584,6 @@
 ||filya.hr.i81.ru^
 ||filya.vd.i81.ru^
 ||filya.vpn.i81.ru^
-||firefenix.duckdns.org^
 ||firefox.dns.nextdns.io^
 ||fishtail-pkr-dns.dhengaanil.com.np^
 ||flat.loisy.it^
@@ -1651,6 +1649,7 @@
 ||google-public-dns-b.google.com^
 ||gosuntrip.com^
 ||gpchubjk.dnsfish.com^
+||grape.991123.xyz^
 ||green2.jnraptor.net^
 ||greppie.nl^
 ||gtm-sg-5r538sziu04.go-behind.one^
@@ -1758,7 +1757,6 @@
 ||ivnkn.xyz^
 ||jabber-germany.de^
 ||jabber-server.de^
-||jack-black-adguard.duckdns.org^
 ||jackyes.ovh^
 ||jambi.undo.it^
 ||jarjar.meganerd.nl^
@@ -2386,7 +2384,6 @@
 ||site-1.duckdns.org^
 ||site-2.duckdns.org^
 ||sitecreation.biz.ua^
-||s.justlife.fun^
 ||sk.9727158.xyz^
 ||sk-bra-w-1.nashkan.net^
 ||skillzdns.ru^
@@ -2658,6 +2655,7 @@
 ||vps310.brueggus.de^
 ||vps311.brueggus.de^
 ||vps312.brueggus.de^
+||vps313.brueggus.de^
 ||vps32.brueggus.de^
 ||vps-33e5a7f3.vps.ovh.us^
 ||vps4.scho.io^
