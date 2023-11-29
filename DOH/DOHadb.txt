@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2023-11-27 03:43:26 (UTC)
+! Last updated: 2023-11-28 03:32:17 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -15,6 +15,7 @@
 ||1.0rz.space^
 ||1111.cloudflare-dns.com^
 ||1.11i.eu^
+||180.0rz.space^
 ||1and1-dns.de^
 ||1a.ns.ozer.im^
 ||1b.ns.ozer.im^
@@ -327,6 +328,7 @@
 ||ams02.dnscry.pt^
 ||an81.ddns.net^
 ||an81dns.ru^
+||andrei-se.ru^
 ||andrewnw.xyz^
 ||android.hfecr.com^
 ||andz21.dynv6.net^
@@ -334,6 +336,7 @@
 ||an.loliconapp.top^
 ||a.ns.dnslify.com^
 ||ant.dns.qwer.pw^
+||antidns.s.tuna.tsinghua.edu.cn^
 ||antivirus.bebasid.com^
 ||antonyfrompnz.space^
 ||anycast.censurfridns.dk^
@@ -1623,6 +1626,7 @@
 ||gaia.plonknet.com^
 ||galileo.math.unipd.it^
 ||gambling-goat.khaosadv.com^
+||gateway.baltes.info^
 ||gateway-el.cname.ustclug.org^
 ||gateway.fomichev.cloud^
 ||gateway.mcebox.com^
@@ -1757,6 +1761,7 @@
 ||ivnkn.xyz^
 ||jabber-germany.de^
 ||jabber-server.de^
+||jack-black-adguard.duckdns.org^
 ||jackyes.ovh^
 ||jambi.undo.it^
 ||jarjar.meganerd.nl^
@@ -2009,6 +2014,7 @@
 ||nl-ams2.doh.sb^
 ||nl-ams.doh.sb^
 ||nl-ams-w-3.nashkan.net^
+||nlb.gbrossi.com.br^
 ||noadsapp.net^
 ||noads.dns.vladpro.ru^
 ||noads.imbuffering.com^
@@ -2096,7 +2102,6 @@
 ||odvr.nic.cz^
 ||offermans.net^
 ||office.heimtec.com^
-||o.i.ovpn.bond^
 ||okijara.com^
 ||oko.haneulo.com^
 ||olga.hr.i81.ru^
@@ -2344,7 +2349,6 @@
 ||serveur-yan.synology.me^
 ||service.c698fc0a.cfd^
 ||services.akierry.io^
-||sexybody.myqnapcloud.com^
 ||sg01.dns4me.net^
 ||sg01.localnet.dev^
 ||sg1-1.362430.xyz^
@@ -2384,6 +2388,7 @@
 ||site-1.duckdns.org^
 ||site-2.duckdns.org^
 ||sitecreation.biz.ua^
+||s.justlife.fun^
 ||sk.9727158.xyz^
 ||sk-bra-w-1.nashkan.net^
 ||skillzdns.ru^
@@ -2421,6 +2426,7 @@
 ||strata.gurupannu.com^
 ||strk12-filter.mtbroadband.us^
 ||stuxen.duckdns.org^
+||sundalandia.pp.ua^
 ||sunnygyl.com^
 ||surfbelow.com^
 ||surobe.southeastasia.cloudapp.azure.com^
@@ -2655,7 +2661,6 @@
 ||vps310.brueggus.de^
 ||vps311.brueggus.de^
 ||vps312.brueggus.de^
-||vps313.brueggus.de^
 ||vps32.brueggus.de^
 ||vps-33e5a7f3.vps.ovh.us^
 ||vps4.scho.io^
