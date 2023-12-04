@@ -4,10 +4,29 @@
 # existing (duplicate) entries will not cause an error ('insert or ignore' in the sqlite3 statement).
 # existing entries will not be updated (no change).
 
+gravitydb="/etc/pihole/gravity.db"
+
+# eye candy / color
+RED='\033[0;91m'
+GREEN='\033[0;92m'
+BLUE='\033[0;94m'
+NC='\033[0m' # No Color
+NOK=" [${RED}!${NC}] "
+INFO=" [${BLUE}i${NC}] "
+
+dbversion=$(pihole-FTL sqlite3 "${gravitydb}" ".timeout = 2000" \
+	"SELECT value FROM 'info' \
+		WHERE property = 'version';")
+if [[ "${dbversion}" != "17" ]]; then
+	echo -e "${NOK}This script was written for gravity database version 17 ${GREEN}(current version: ${dbversion})${NC}."
+	echo -e "${INFO}Open an issue on GitHub (https://github.com/jpgpi250/piholemanual/issues)."
+	exit
+fi
+
 sudo curl https://raw.githubusercontent.com/mmotti/pihole-regex/master/regex.list -o /home/pi/regex.list
 while read -r regex; do
 	if [[ ${regex} = ^* ]]; then
-		sudo pihole-FTL sqlite3 "/etc/pihole/gravity.db" "insert or ignore into domainlist (domain, type, enabled, comment) values ('$regex', 3, 1, 'mmotti regex');"
+		sudo pihole-FTL sqlite3 "${gravitydb}" "insert or ignore into domainlist (domain, type, enabled, comment) values ('$regex', 3, 1, 'mmotti regex');"
 	fi
 done < /home/pi/regex.list
 	
