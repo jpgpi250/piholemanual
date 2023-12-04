@@ -16,23 +16,6 @@
 workdir="/home/pi"
 gravitydb="/etc/pihole/gravity.db"
 
-#wget https://v.firebog.net/hosts/lists.php?type=tick -O $workdir/firebog.list
-wget https://v.firebog.net/hosts/lists.php?type=nocross -O ${workdir}/firebog.list
-#wget https://v.firebog.net/hosts/lists.php?type=all -O $workdir/firebog.list
-
-comment="firebog nocross"
-
-# remove quidsub lists (malformed)
-sed -i '/quidsup/d' ${workdir}/firebog.list
-# remove cameleon list (Last updated : 2018-03-17)
-sed -i '/cameleon/d' ${workdir}/firebog.list
-# remove hosts-file.net (blocklists are dead)
-sed -i '/hosts-file.net/d' ${workdir}/firebog.list
-# remove ssl.bblck.me/blacklists/hosts-file.txt (blocklist is dead)
-sed -i '/ssl.bblck.me/d' ${workdir}/firebog.list
-# remove hosts.nfz.moe/basic/hosts (blocklist is dead)
-sed -i '/hosts.nfz.moe/d' ${workdir}/firebog.list
-
 # eye candy / color
 RED='\033[0;91m'
 GREEN='\033[0;92m'
@@ -44,19 +27,28 @@ INFO=" [${BLUE}i${NC}] "
 dbversion=$(pihole-FTL sqlite3 "${gravitydb}" ".timeout = 2000" \
 	"SELECT value FROM 'info' \
 		WHERE property = 'version';")
-if [[ "${dbversion}" != "15" ]]; then
-	echo -e "${NOK}This script was written for gravity database version 15 ${GREEN}(current version: ${dbversion})${NC}."
+if [[ "${dbversion}" != "17" ]]; then
+	echo -e "${NOK}This script was written for gravity database version 17 ${GREEN}(current version: ${dbversion})${NC}."
 	echo -e "${INFO}Open an issue on GitHub (https://github.com/jpgpi250/piholemanual/issues)."
 	exit
 fi
+
+#wget https://v.firebog.net/hosts/lists.php?type=tick -O $workdir/firebog.list
+wget https://v.firebog.net/hosts/lists.php?type=nocross -O ${workdir}/firebog.list
+#wget https://v.firebog.net/hosts/lists.php?type=all -O $workdir/firebog.list
+
+comment="firebog nocross"
+
+# remove quidsub lists (malformed)
+sed -i '/quidsup/d' ${workdir}/firebog.list
 
 timestamp=$(date +"%s")
 
 while read nocross; do
 	sudo pihole-FTL sqlite3 "${gravitydb}"  ".timeout = 2000" \
 		"insert or ignore into adlist \
-			(address, enabled, date_added, date_modified, comment, date_updated, number, invalid_domains, status) \
-			values ('${nocross}', 1, '${timestamp}', '${timestamp}', '${comment}', 0, 0, 0, 0);"
+			(address, enabled, type) \
+			values ('${nocross}', 1, 0);"
 done < ${workdir}/firebog.list
 
 pihole restartdns reload-lists
