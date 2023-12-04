@@ -1,9 +1,7 @@
 #!/bin/bash
 
-# fastcgi-php is no longer part of pi-hole since v5.15
-if ! ls -l /etc/lighttpd/conf-enabled/ | grep -q "fastcgi-php"; then
-	sudo lighttpd-enable-mod fastcgi-php
-fi
+# this script requires your webserver is php enabled, read the manual for details.
+# fastcgi-php needs to be enabled, read the manual for details.
 
 # add lighttpd server-status config file (if it doesn't exist)
 if ! [ -f "/etc/lighttpd/conf-available/51-serverstatus.conf" ]; then
