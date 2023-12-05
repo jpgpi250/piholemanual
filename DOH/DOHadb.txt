@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2023-12-03 03:36:27 (UTC)
+! Last updated: 2023-12-04 03:32:08 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -1566,7 +1566,6 @@
 ||exns1.exalto.nu^
 ||extended.dns.mullvad.net^
 ||externalmobiel.lekdijk.online^
-||f03a0e2fa9f5.sn.mynetname.net^
 ||f1.dns.s3cure.me^
 ||family.5ososea.com^
 ||family.adguard-dns.com^
@@ -1600,7 +1599,6 @@
 ||filya.hr.i81.ru^
 ||filya.vd.i81.ru^
 ||filya.vpn.i81.ru^
-||firefenix.duckdns.org^
 ||firefox.dns.nextdns.io^
 ||fishtail-pkr-dns.dhengaanil.com.np^
 ||flat.loisy.it^
@@ -1641,7 +1639,6 @@
 ||galileo.math.unipd.it^
 ||gambling-goat.khaosadv.com^
 ||gate.blackrain.sbs^
-||gateway.baltes.info^
 ||gateway-el.cname.ustclug.org^
 ||gateway.fomichev.cloud^
 ||gateway.mcebox.com^
@@ -1668,6 +1665,7 @@
 ||google-public-dns-b.google.com^
 ||gosuntrip.com^
 ||gpchubjk.dnsfish.com^
+||grape.991123.xyz^
 ||green2.jnraptor.net^
 ||greppie.nl^
 ||gtm-sg-5r538sziu04.go-behind.one^
@@ -1684,7 +1682,6 @@
 ||gztech.me^
 ||hahnjo.de^
 ||hanahira.dev^
-||haswell-www.a.guindehi.ch^
 ||heimdall.ff0x.ca^
 ||helios.plan9-dns.com^
 ||helios.plan9dns.com^
@@ -1992,6 +1989,7 @@
 ||ndns.233py.com^
 ||neatdns.ustclug.org^
 ||nebula.tru.io^
+||nemless.dedyn.io^
 ||netcat.one^
 ||netcup.mismat.ch^
 ||net.tt6.net^
@@ -2092,7 +2090,6 @@
 ||odoh-target-se.alekberg.net^
 ||odvr.nic.cz^
 ||office.heimtec.com^
-||o.i.ovpn.bond^
 ||oko.haneulo.com^
 ||olga.hr.i81.ru^
 ||olga.vd.i81.ru^
@@ -2152,7 +2149,6 @@
 ||phx01.dnscry.pt^
 ||pi1.node15.com^
 ||pi.daryllswer.net^
-||piekacz.pl^
 ||pihole1.hoerli.net^
 ||pihole2.hoerli.net^
 ||pihole3.hoerli.net^
@@ -2605,7 +2601,6 @@
 ||vps310.brueggus.de^
 ||vps311.brueggus.de^
 ||vps312.brueggus.de^
-||vps313.brueggus.de^
 ||vps32.brueggus.de^
 ||vps-33e5a7f3.vps.ovh.us^
 ||vps4.scho.io^
