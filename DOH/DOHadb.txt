@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2023-12-05 03:32:27 (UTC)
+! Last updated: 2023-12-06 03:31:26 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -258,6 +258,7 @@
 ||adg.yybyy.wiki^
 ||adh.51st.top^
 ||adh.blogcuahieu.com^
+||adh.fastpacefixit.info^
 ||ad.hy131212.tk^
 ||adl.adfilter.net^
 ||admace.net^
@@ -463,6 +464,7 @@
 ||chanhome.xyz^
 ||chaos.altendorfme.com^
 ||chaos-system.de^
+||chenrouter.chironys.com^
 ||chertila.tk^
 ||chlaebi.synology.me^
 ||chno.xyz^
@@ -488,7 +490,6 @@
 ||cluster-0.gac.edu^
 ||cluster-1.gac.edu^
 ||cname-for-doh.go-behind.one^
-||cn-cname-cf.dahi.icu^
 ||cn.turngreatwall.com^
 ||coe01.dnscry.pt^
 ||common.dot.dns.yandex.net^
@@ -518,6 +519,7 @@
 ||dadns.one^
 ||dakulov.synology.me^
 ||dandelionsprout.asuscomm.com^
+||daniel0705.synology.me^
 ||d.apemlegit.my.id^
 ||darkhole.uint64.dev^
 ||darkness.is.my.waifu.cz^
@@ -691,6 +693,7 @@
 ||dns.ahmgam.com^
 ||dns.ahyxluo.ltd^
 ||dns.ai6.ir^
+||dns.albony.xyz^
 ||dns.alekberg.net^
 ||dns.alidns.com^
 ||dns.alloxr.info^
@@ -732,6 +735,7 @@
 ||dns.billyau.net^
 ||dns.bitdefender.net^
 ||dns.bitgeek.in^
+||dns.blaze-sk.ru^
 ||dns.blokada.org^
 ||dns.bluestarnc.com^
 ||dns.bobstrecansky.com^
@@ -786,6 +790,7 @@
 ||dns.decky.eu^
 ||dns.decloudus.com^
 ||dns.deekshith.in^
+||dns.demirse.com^
 ||dns.developer.li^
 ||dns.dgea.fr^
 ||dns.dhemant.observer^
@@ -930,6 +935,7 @@
 ||dns.jean.im^
 ||dns.jens-server.de^
 ||dns.jhangy.us^
+||dns.jianyi.studio^
 ||dns.jimirobaer.be^
 ||dns.jinwoo.dev^
 ||dns.jnmj.cc^
@@ -1053,7 +1059,6 @@
 ||dns.ofdoom.net^
 ||dns.onp.cloud^
 ||dns.opendns.com^
-||dns.opnsource.com.au^
 ||dns.ord.chriswang.work^
 ||dns.osmenoga.com^
 ||dns.oszx.co^
@@ -1074,7 +1079,6 @@
 ||dns.philqoo.com^
 ||dns.phucbui.top^
 ||dns.pieterdherde.com^
-||dns.pietjacobs.be^
 ||dns.pmxu.link^
 ||dnspod.clzapp.com^
 ||dns.porteii.com^
@@ -1146,8 +1150,10 @@
 ||dns.slinkyman.net^
 ||dnss.lol^
 ||dns.smnetwork.live^
+||dns.sootoon.xyz^
 ||dns.spil.co.id^
 ||dns.spok.fun^
+||dns.srijan.site^
 ||dns.sshub.win^
 ||dns.sstomp.nl^
 ||dns-staging-alb-849259019.us-east-1.elb.amazonaws.com^
@@ -1170,6 +1176,7 @@
 ||dns.tesem.dog^
 ||dns-test-alb-2081756747.us-east-1.elb.amazonaws.com^
 ||dns.thebuckners.org^
+||dns.thegodfatheriam.tk^
 ||dns.theres.one^
 ||dns.therifleman.name^
 ||dns.thore.cloud^
@@ -1404,6 +1411,7 @@
 ||doh.netweaver.uk^
 ||doh.nexen.cloud^
 ||doh.nic.lv^
+||doh.niyaru.online^
 ||doh.niyawe.de^
 ||doh.nl.ahadns.net^
 ||doh.no.ahadns.net^
@@ -1632,10 +1640,12 @@
 ||galileo.math.unipd.it^
 ||gambling-goat.khaosadv.com^
 ||gate.blackrain.sbs^
+||gateway.baltes.info^
 ||gateway-el.cname.ustclug.org^
 ||gateway.fomichev.cloud^
 ||gb-bir-w-1.nashkan.net^
 ||gb-cov-w-1.nashkan.net^
+||gb-cov-w-f-1.nashkan.net^
 ||gb-cov-w-p-1.nashkan.net^
 ||gb-lon-w-1.nashkan.net^
 ||gb-lon-w-4.nashkan.net^
@@ -1657,10 +1667,10 @@
 ||google-public-dns-b.google.com^
 ||gosuntrip.com^
 ||gpchubjk.dnsfish.com^
-||grape.991123.xyz^
 ||green2.jnraptor.net^
 ||greppie.nl^
 ||gtm-sg-5r538sziu04.go-behind.one^
+||guard.19kom.de^
 ||guardhome.fatihkuyuk.com.tr^
 ||guard-linodefree.tk^
 ||guard.magic-pics.tk^
@@ -1674,10 +1684,12 @@
 ||hahnjo.de^
 ||hanahira.dev^
 ||haswell-www.a.guindehi.ch^
+||hdf084sqbme.sn.mynetname.net^
 ||heimdall.ff0x.ca^
 ||helios.plan9-dns.com^
 ||helios.plan9dns.com^
 ||heoyun.com^
+||hermes.cllctv.site^
 ||hermes.kurup.in^
 ||hf5099h2pr6.sn.mynetname.net^
 ||h.gjrick.tw^
@@ -1760,6 +1772,7 @@
 ||ivnkn.xyz^
 ||jabber-germany.de^
 ||jabber-server.de^
+||jack-black-adguard.duckdns.org^
 ||jackyes.ovh^
 ||jambi.undo.it^
 ||jarjar.meganerd.nl^
@@ -1961,6 +1974,7 @@
 ||n4.zmy.cloud^
 ||n5.lsasss.com^
 ||naganohara-yoimiya.momokko.moe^
+||nanopi.cybergroove.net^
 ||narrowgate.online^
 ||nas.dasisp.com^
 ||nas.dehb.ru^
@@ -1988,6 +2002,7 @@
 ||nl-ams2.doh.sb^
 ||nl-ams.doh.sb^
 ||nl-ams-w-3.nashkan.net^
+||nlb.gbrossi.com.br^
 ||noads.api.org.pl^
 ||noadsapp.net^
 ||noads.dns.vladpro.ru^
@@ -2004,6 +2019,7 @@
 ||ns.00dani.me^
 ||ns0.fdn.fr^
 ||ns1.1899.com.mx^
+||ns1.95997.ip-ns.net^
 ||ns1.bit-trails.nl^
 ||ns1.depotthai.army^
 ||ns1.dnsprivacy.at^
@@ -2072,7 +2088,6 @@
 ||odoh-target-se.alekberg.net^
 ||odvr.nic.cz^
 ||office.heimtec.com^
-||o.i.ovpn.bond^
 ||oko.haneulo.com^
 ||olga.hr.i81.ru^
 ||olga.vd.i81.ru^
@@ -2104,12 +2119,14 @@
 ||outie.8ws.net^
 ||outiejr.8ws.net^
 ||ovh.panszelescik.pl^
+||owndns.dedyn.io^
 ||p0.freedns.controld.com^
 ||p1.freedns.controld.com^
 ||p2.freedns.controld.com^
 ||p3.freedns.controld.com^
 ||pad3w.pp.ua^
 ||padermail.net^
+||paimon.sev.monster^
 ||paranoia.mydns.network^
 ||paskam.tk^
 ||pates.services.sfr.fr.casepp.sfr.fr^
@@ -2243,6 +2260,7 @@
 ||ru-mow.doh.sb^
 ||rumpelsepp.org^
 ||sa01.dns4me.net^
+||sacarino.es^
 ||safe.dns.yandex.ru^
 ||safe.dot.dns.yandex.net^
 ||safeservedns.com^
@@ -2258,6 +2276,7 @@
 ||sby-doh.limotelu.org^
 ||sbydoh.limotelu.org^
 ||scottdylewski.com^
+||sdns22.gkonuralp.com^
 ||sdns.233py.com^
 ||sdns.pro^
 ||sdvizhkov.ru^
@@ -2293,7 +2312,6 @@
 ||serveur-yan.synology.me^
 ||service.c698fc0a.cfd^
 ||servicesgov.dev^
-||sexybody.myqnapcloud.com^
 ||sg01.dns4me.net^
 ||sg.101818.xyz^
 ||sg-119.cattery.work^
@@ -2384,6 +2402,7 @@
 ||testaghome.meshkov.info^
 ||test.dnsteam.globuscs.info^
 ||tetra.aeins.at^
+||tezoi.duckdns.org^
 ||thebeloveduck.duckdns.org^
 ||thefamilypuls.com^
 ||tienpham.id.vn^
@@ -2592,6 +2611,7 @@
 ||warrier120120.duckdns.org^
 ||waw01.dnscry.pt^
 ||waw02.dnscry.pt^
+||wd.noimjosh.com^
 ||wdns.233py.com^
 ||webmail.jpginformatica.com^
 ||webmeel.pragmasec.nl^
