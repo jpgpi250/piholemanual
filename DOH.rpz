@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2312070303 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2312080320 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2023-12-07 03:03:48 (UTC)
+; Last updated: 2023-12-08 03:20:37 (UTC)
 ;
 ; See https://jpgpi250.github.io/piholemanual/doc/Unbound%20response%20policy%20zones.pdf
 ; Report issues at https://github.com/jpgpi250/piholemanual/issues
@@ -501,7 +501,6 @@ cloud.tezoi.com CNAME .
 cluster-0.gac.edu CNAME .
 cluster-1.gac.edu CNAME .
 cname-for-doh.go-behind.one CNAME .
-cn-cname-cf.dahi.icu CNAME .
 cn.turngreatwall.com CNAME .
 coe01.dnscry.pt CNAME .
 common.dot.dns.yandex.net CNAME .
@@ -1205,6 +1204,7 @@ dns.tkhome.nl CNAME .
 dns-tls.bitwiseshift.net CNAME .
 dns.tls-data.de CNAME .
 dnstls.mobik.com CNAME .
+dnstls.neutopia.org CNAME .
 dns.tolink.group CNAME .
 dns.tomitomix.net CNAME .
 dns.tooizi.eu CNAME .
@@ -1323,7 +1323,6 @@ doh.abmb.win CNAME .
 dohadghome.duckdns.org CNAME .
 doh.almir1904.eu CNAME .
 doh.apad.pro CNAME .
-doh.apad.pro.cdn.cloudflare.net CNAME .
 doh.applied-privacy.net CNAME .
 doh.appliedprivacy.net CNAME .
 doh.armadillodns.net CNAME .
@@ -1584,7 +1583,6 @@ example.doh.blockerdns.com CNAME .
 exns1.exalto.nu CNAME .
 extended.dns.mullvad.net CNAME .
 externalmobiel.lekdijk.online CNAME .
-f03a0e2fa9f5.sn.mynetname.net CNAME .
 f1.dns.s3cure.me CNAME .
 family.5ososea.com CNAME .
 family.adguard-dns.com CNAME .
@@ -1702,6 +1700,7 @@ gustamadh.dynv6.net CNAME .
 gztech.me CNAME .
 hahnjo.de CNAME .
 hanahira.dev CNAME .
+haswell-www.a.guindehi.ch CNAME .
 hdf084sqbme.sn.mynetname.net CNAME .
 heimdall.ff0x.ca CNAME .
 helios.plan9-dns.com CNAME .
@@ -1775,6 +1774,7 @@ ikarosalpha.xyz CNAME .
 ime-ingenierias.xyz CNAME .
 in-blr.doh.sb CNAME .
 ines.zfn.uni-bremen.de CNAME .
+inf-wan.vip.meituan.com CNAME .
 ingenmannsland.online CNAME .
 integration.dnsteam.globuscs.info CNAME .
 internetsehat.bebasid.com CNAME .
@@ -1789,7 +1789,6 @@ it-pal-w-1.nashkan.net CNAME .
 ivnkn.xyz CNAME .
 jabber-germany.de CNAME .
 jabber-server.de CNAME .
-jack-black-adguard.duckdns.org CNAME .
 jackyes.ovh CNAME .
 jambi.undo.it CNAME .
 jarjar.meganerd.nl CNAME .
@@ -2010,7 +2009,6 @@ nat64.tuxis.nl CNAME .
 naw01.dnscry.pt CNAME .
 ndns.233py.com CNAME .
 nebula.tru.io CNAME .
-nemless.dedyn.io CNAME .
 netcat.one CNAME .
 netcup.mismat.ch CNAME .
 net.tt6.net CNAME .
@@ -2339,7 +2337,6 @@ server.unp.im CNAME .
 serveur-yan.synology.me CNAME .
 service.c698fc0a.cfd CNAME .
 servicesgov.dev CNAME .
-sexybody.myqnapcloud.com CNAME .
 sg01.dns4me.net CNAME .
 sg.101818.xyz CNAME .
 sg-119.cattery.work CNAME .
