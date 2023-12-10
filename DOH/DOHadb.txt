@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2023-12-08 03:37:49 (UTC)
+! Last updated: 2023-12-09 03:26:18 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -342,7 +342,6 @@
 ||an.loliconapp.top^
 ||a.ns.dnslify.com^
 ||ant.dns.qwer.pw^
-||antidns.s.tuna.tsinghua.edu.cn^
 ||antivirus.bebasid.com^
 ||antonyfrompnz.space^
 ||anycast.censurfridns.dk^
@@ -527,6 +526,7 @@
 ||dadns.one^
 ||dakulov.synology.me^
 ||dandelionsprout.asuscomm.com^
+||daniel0705.synology.me^
 ||d.apemlegit.my.id^
 ||darkhole.uint64.dev^
 ||darkness.is.my.waifu.cz^
@@ -1319,6 +1319,7 @@
 ||dohadghome.duckdns.org^
 ||doh.almir1904.eu^
 ||doh.apad.pro^
+||doh.apad.pro.cdn.cloudflare.net^
 ||doh.applied-privacy.net^
 ||doh.appliedprivacy.net^
 ||doh.armadillodns.net^
@@ -1579,6 +1580,7 @@
 ||exns1.exalto.nu^
 ||extended.dns.mullvad.net^
 ||externalmobiel.lekdijk.online^
+||f03a0e2fa9f5.sn.mynetname.net^
 ||f1.dns.s3cure.me^
 ||family.5ososea.com^
 ||family.adguard-dns.com^
@@ -1696,7 +1698,6 @@
 ||gztech.me^
 ||hahnjo.de^
 ||hanahira.dev^
-||haswell-www.a.guindehi.ch^
 ||hdf084sqbme.sn.mynetname.net^
 ||heimdall.ff0x.ca^
 ||helios.plan9-dns.com^
@@ -1785,6 +1786,7 @@
 ||ivnkn.xyz^
 ||jabber-germany.de^
 ||jabber-server.de^
+||jack-black-adguard.duckdns.org^
 ||jackyes.ovh^
 ||jambi.undo.it^
 ||jarjar.meganerd.nl^
@@ -2145,6 +2147,7 @@
 ||p3.freedns.controld.com^
 ||pad3w.pp.ua^
 ||padermail.net^
+||paimon.sev.monster^
 ||paranoia.mydns.network^
 ||paskam.tk^
 ||pates.services.sfr.fr.casepp.sfr.fr^
