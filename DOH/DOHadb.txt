@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2023-12-09 03:26:18 (UTC)
+! Last updated: 2023-12-10 02:57:37 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -342,6 +342,7 @@
 ||an.loliconapp.top^
 ||a.ns.dnslify.com^
 ||ant.dns.qwer.pw^
+||antidns.s.tuna.tsinghua.edu.cn^
 ||antivirus.bebasid.com^
 ||antonyfrompnz.space^
 ||anycast.censurfridns.dk^
@@ -496,6 +497,7 @@
 ||cluster-0.gac.edu^
 ||cluster-1.gac.edu^
 ||cname-for-doh.go-behind.one^
+||cn-cname-cf.dahi.icu^
 ||cn.turngreatwall.com^
 ||coe01.dnscry.pt^
 ||common.dot.dns.yandex.net^
@@ -1478,7 +1480,6 @@
 ||doh.xcom.pro^
 ||doh.xfinity.com^
 ||doh.zephyrus.id^
-||domainexpired.dnspod.cn^
 ||domen-dns.ru^
 ||door.plasmadancer.ru^
 ||dorkanddoodle.duckdns.org^
@@ -1638,6 +1639,7 @@
 ||freekdz.ddns.net^
 ||free.shecan.ir^
 ||freeside.wntrmute.net^
+||free.svipss.top^
 ||friend.bedro.cloud^
 ||frog.dns.qwer.pw^
 ||fr-par-w-1.nashkan.net^
@@ -2038,7 +2040,6 @@
 ||ns.00dani.me^
 ||ns0.fdn.fr^
 ||ns1.1899.com.mx^
-||ns1.95997.ip-ns.net^
 ||ns1.bit-trails.nl^
 ||ns1.depotthai.army^
 ||ns1.dnsprivacy.at^
@@ -2336,6 +2337,7 @@
 ||serveur-yan.synology.me^
 ||service.c698fc0a.cfd^
 ||servicesgov.dev^
+||sexybody.myqnapcloud.com^
 ||sg01.dns4me.net^
 ||sg.101818.xyz^
 ||sg-119.cattery.work^
@@ -2707,6 +2709,7 @@
 ||www.pcjco.ovh^
 ||www.personal-dns.site^
 ||www.pi1plus.duckdns.org^
+||www.pssv.top^
 ||www.pukanuragan.ru^
 ||www.qwenty.ru^
 ||www.richardo.net^
