@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2312100240 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2312110305 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2023-12-10 02:40:56 (UTC)
+; Last updated: 2023-12-11 03:05:58 (UTC)
 ;
 ; See https://jpgpi250.github.io/piholemanual/doc/Unbound%20response%20policy%20zones.pdf
 ; Report issues at https://github.com/jpgpi250/piholemanual/issues
@@ -501,7 +501,6 @@ cloud.tezoi.com CNAME .
 cluster-0.gac.edu CNAME .
 cluster-1.gac.edu CNAME .
 cname-for-doh.go-behind.one CNAME .
-cn-cname-cf.dahi.icu CNAME .
 cn.turngreatwall.com CNAME .
 coe01.dnscry.pt CNAME .
 common.dot.dns.yandex.net CNAME .
@@ -1585,7 +1584,6 @@ example.doh.blockerdns.com CNAME .
 exns1.exalto.nu CNAME .
 extended.dns.mullvad.net CNAME .
 externalmobiel.lekdijk.online CNAME .
-f03a0e2fa9f5.sn.mynetname.net CNAME .
 f1.dns.s3cure.me CNAME .
 family.5ososea.com CNAME .
 family.adguard-dns.com CNAME .
@@ -1643,7 +1641,6 @@ freedom.mydns.network CNAME .
 freekdz.ddns.net CNAME .
 free.shecan.ir CNAME .
 freeside.wntrmute.net CNAME .
-free.svipss.top CNAME .
 friend.bedro.cloud CNAME .
 frog.dns.qwer.pw CNAME .
 fr-par-w-1.nashkan.net CNAME .
@@ -1687,7 +1684,6 @@ google-public-dns-a.google.com CNAME .
 google-public-dns-b.google.com CNAME .
 gosuntrip.com CNAME .
 gpchubjk.dnsfish.com CNAME .
-grape.991123.xyz CNAME .
 green2.jnraptor.net CNAME .
 greppie.nl CNAME .
 gtm-sg-5r538sziu04.go-behind.one CNAME .
@@ -1704,6 +1700,7 @@ gustamadh.dynv6.net CNAME .
 gztech.me CNAME .
 hahnjo.de CNAME .
 hanahira.dev CNAME .
+haswell-www.a.guindehi.ch CNAME .
 hdf084sqbme.sn.mynetname.net CNAME .
 heimdall.ff0x.ca CNAME .
 helios.plan9-dns.com CNAME .
@@ -2044,6 +2041,7 @@ nrusimha.crabdance.com CNAME .
 ns.00dani.me CNAME .
 ns0.fdn.fr CNAME .
 ns1.1899.com.mx CNAME .
+ns1.95997.ip-ns.net CNAME .
 ns1.bit-trails.nl CNAME .
 ns1.depotthai.army CNAME .
 ns1.dnsprivacy.at CNAME .
@@ -2112,7 +2110,6 @@ odoh-target-noads-se.alekberg.net CNAME .
 odoh-target-se.alekberg.net CNAME .
 odvr.nic.cz CNAME .
 office.heimtec.com CNAME .
-o.i.ovpn.bond CNAME .
 oko.haneulo.com CNAME .
 olga.hr.i81.ru CNAME .
 olga.vd.i81.ru CNAME .
@@ -2341,7 +2338,6 @@ server.unp.im CNAME .
 serveur-yan.synology.me CNAME .
 service.c698fc0a.cfd CNAME .
 servicesgov.dev CNAME .
-sexybody.myqnapcloud.com CNAME .
 sg01.dns4me.net CNAME .
 sg.101818.xyz CNAME .
 sg-119.cattery.work CNAME .
@@ -2713,7 +2709,6 @@ www.olivier-raspberrypi.changeip.org CNAME .
 www.pcjco.ovh CNAME .
 www.personal-dns.site CNAME .
 www.pi1plus.duckdns.org CNAME .
-www.pssv.top CNAME .
 www.pukanuragan.ru CNAME .
 www.qwenty.ru CNAME .
 www.richardo.net CNAME .
