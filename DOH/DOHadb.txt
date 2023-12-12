@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2023-12-10 02:57:37 (UTC)
+! Last updated: 2023-12-11 03:22:41 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -497,7 +497,6 @@
 ||cluster-0.gac.edu^
 ||cluster-1.gac.edu^
 ||cname-for-doh.go-behind.one^
-||cn-cname-cf.dahi.icu^
 ||cn.turngreatwall.com^
 ||coe01.dnscry.pt^
 ||common.dot.dns.yandex.net^
@@ -1581,7 +1580,6 @@
 ||exns1.exalto.nu^
 ||extended.dns.mullvad.net^
 ||externalmobiel.lekdijk.online^
-||f03a0e2fa9f5.sn.mynetname.net^
 ||f1.dns.s3cure.me^
 ||family.5ososea.com^
 ||family.adguard-dns.com^
@@ -1639,7 +1637,6 @@
 ||freekdz.ddns.net^
 ||free.shecan.ir^
 ||freeside.wntrmute.net^
-||free.svipss.top^
 ||friend.bedro.cloud^
 ||frog.dns.qwer.pw^
 ||fr-par-w-1.nashkan.net^
@@ -1683,7 +1680,6 @@
 ||google-public-dns-b.google.com^
 ||gosuntrip.com^
 ||gpchubjk.dnsfish.com^
-||grape.991123.xyz^
 ||green2.jnraptor.net^
 ||greppie.nl^
 ||gtm-sg-5r538sziu04.go-behind.one^
@@ -1700,6 +1696,7 @@
 ||gztech.me^
 ||hahnjo.de^
 ||hanahira.dev^
+||haswell-www.a.guindehi.ch^
 ||hdf084sqbme.sn.mynetname.net^
 ||heimdall.ff0x.ca^
 ||helios.plan9-dns.com^
@@ -2040,6 +2037,7 @@
 ||ns.00dani.me^
 ||ns0.fdn.fr^
 ||ns1.1899.com.mx^
+||ns1.95997.ip-ns.net^
 ||ns1.bit-trails.nl^
 ||ns1.depotthai.army^
 ||ns1.dnsprivacy.at^
@@ -2108,7 +2106,6 @@
 ||odoh-target-se.alekberg.net^
 ||odvr.nic.cz^
 ||office.heimtec.com^
-||o.i.ovpn.bond^
 ||oko.haneulo.com^
 ||olga.hr.i81.ru^
 ||olga.vd.i81.ru^
@@ -2337,7 +2334,6 @@
 ||serveur-yan.synology.me^
 ||service.c698fc0a.cfd^
 ||servicesgov.dev^
-||sexybody.myqnapcloud.com^
 ||sg01.dns4me.net^
 ||sg.101818.xyz^
 ||sg-119.cattery.work^
@@ -2709,7 +2705,6 @@
 ||www.pcjco.ovh^
 ||www.personal-dns.site^
 ||www.pi1plus.duckdns.org^
-||www.pssv.top^
 ||www.pukanuragan.ru^
 ||www.qwenty.ru^
 ||www.richardo.net^
