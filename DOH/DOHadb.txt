@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2023-12-13 03:24:56 (UTC)
+! Last updated: 2023-12-14 03:17:46 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -461,7 +461,6 @@
 ||callies-online.site^
 ||calm-crown.freemyip.com^
 ||canadianshield.cira.ca^
-||carioka.dyndns.org^
 ||catdns.org^
 ||cattery2.noddos.top^
 ||ca-yyc.doh.sb^
@@ -504,6 +503,7 @@
 ||cluster-0.gac.edu^
 ||cluster-1.gac.edu^
 ||cname-for-doh.go-behind.one^
+||cn-cname-cf.dahi.icu^
 ||cn.turngreatwall.com^
 ||coe01.dnscry.pt^
 ||common.dot.dns.yandex.net^
@@ -1694,6 +1694,7 @@
 ||google-public-dns-b.google.com^
 ||gosuntrip.com^
 ||gpchubjk.dnsfish.com^
+||grape.991123.xyz^
 ||green2.jnraptor.net^
 ||greppie.nl^
 ||gtm-sg-5r538sziu04.go-behind.one^
@@ -1737,7 +1738,6 @@
 ||home47a.mooo.com^
 ||home.basthorst.eu^
 ||home.bruckmoser.it^
-||home.ddns.network^
 ||homedns.gumeniuk.com^
 ||home.fc.idv.tw^
 ||homeguard.sleziona.org^
@@ -2202,9 +2202,9 @@
 ||private.adguard.wessels-net.nl^
 ||privatebard.com^
 ||private.canadianshield.cira.ca^
-||private.dns.ovpn.bond^
 ||privatnas.servebeer.com^
 ||privdns.duckdns.org^
+||project-evoex.de^
 ||promsdns.com^
 ||pro.shecan.ir^
 ||protected.canadianshield.cira.ca^
@@ -2222,6 +2222,7 @@
 ||pukanuragan.ru^
 ||punono.duckdns.org^
 ||puredns.org^
+||pvt.dns.tls.relay.ovpn.bond^
 ||q3i6k7j3.stackpathcdn.com^
 ||qaz.tw^
 ||qbak.no-ip.eu^
@@ -2380,7 +2381,6 @@
 ||sitdns.com^
 ||site-1.duckdns.org^
 ||site-2.duckdns.org^
-||s.justlife.fun^
 ||sk.9727158.xyz^
 ||sk-bra-w-1.nashkan.net^
 ||skww726.cf^
@@ -2554,7 +2554,6 @@
 ||vasya.hr.i81.ru^
 ||vasya.vd.i81.ru^
 ||vasya.vpn.i81.ru^
-||vault-101.net^
 ||vd.i81.ru^
 ||v.dnscrypt.uk^
 ||vie01.dnscry.pt^
