@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2023-12-17 03:18:08 (UTC)
+! Last updated: 2023-12-18 03:25:06 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -97,6 +97,7 @@
 ||adg.geili.me^
 ||adgh.catfluori.de^
 ||adg.herry.dev^
+||adghno80443.duckdns.org^
 ||adghome2.mail-endpoint.com^
 ||adghome.charleschan.net^
 ||adghome.joeszef.com^
@@ -179,6 +180,7 @@
 ||adguard.h4nt3r.com^
 ||adguard.hack3r.de^
 ||adguard.haneulo.com^
+||adguard.helpdesk38.ru^
 ||adguardhome.atakorah.com^
 ||adguardhome.ddns.net^
 ||adguardhome.fr.couli.fr^
@@ -291,6 +293,7 @@
 ||ad.visbran.fr^
 ||ad.wiqi.app^
 ||ad.wwhhkg.com^
+||ae-dub-w-f-2.nashkan.net^
 ||ae-dub-w-p-1.nashkan.net^
 ||ae-fuj-w-1.nashkan.net^
 ||ae-fuj-w-2.nashkan.net^
@@ -318,6 +321,7 @@
 ||ag.linux.repair^
 ||ag.marschi.de^
 ||agp01.tek411.com^
+||ag.sageton.pl^
 ||ag.ssrahul96.xyz^
 ||ag.wntrmute.net^
 ||ahadns.net^
@@ -337,6 +341,7 @@
 ||all.dns.mullvad.net^
 ||a.lolg.ru^
 ||alpha1.jnraptor.net^
+||amd1.sjp.loukky.com^
 ||amigo.hr.i81.ru^
 ||amigo.px.i81.ru^
 ||amigo.vd.i81.ru^
@@ -404,6 +409,7 @@
 ||azure.quydang.name.vn^
 ||baedns.duckdns.org^
 ||barnabech.fr^
+||barsipgpt.com^
 ||base.dns.mullvad.net^
 ||basic.bravedns.com^
 ||basic.rethinkdns.com^
@@ -461,6 +467,7 @@
 ||bwh2.telex.app^
 ||bwh.why4free.top^
 ||bw.marsgo.top^
+||c0ntroller.de^
 ||c6.yydsgod.eu.org^
 ||ca01.dns4me.net^
 ||ca02.dns4me.net^
@@ -471,6 +478,7 @@
 ||canadianshield.cira.ca^
 ||carioka.dyndns.org^
 ||carlyu.top^
+||cask.duckdns.org^
 ||catdns.org^
 ||cattery2.noddos.top^
 ||ca-yyc.doh.sb^
@@ -512,6 +520,7 @@
 ||cloud.tezoi.com^
 ||cluster-0.gac.edu^
 ||cluster-1.gac.edu^
+||cn-cname-cf.dahi.icu^
 ||cn.turngreatwall.com^
 ||coe01.dnscry.pt^
 ||common.dot.dns.yandex.net^
@@ -542,6 +551,7 @@
 ||dadns.one^
 ||dakulov.synology.me^
 ||dandelionsprout.asuscomm.com^
+||daniel0705.synology.me^
 ||d.apemlegit.my.id^
 ||darkhole.uint64.dev^
 ||darkness.is.my.waifu.cz^
@@ -773,6 +783,7 @@
 ||dns.brionesserver.net^
 ||dns-br.leonardo.tec.br^
 ||dns.bw.i81.ru^
+||dns.c0ntroller.de^
 ||dnscache.e-utp.net^
 ||dns.canavan.co^
 ||dns.carson-family.com^
@@ -838,6 +849,7 @@
 ||dnsdohnosafesearch.dnsforfamily.com^
 ||dns.dooks.uk^
 ||dns.doserver.top^
+||dns.doso.es^
 ||dns-dot.dnsforfamily.com^
 ||dns.doubleangels.com^
 ||dns.dreamworker.idv.tw^
@@ -1095,6 +1107,7 @@
 ||dns.ord.chriswang.work^
 ||dns.osmenoga.com^
 ||dns.oszx.co^
+||dns.otezz.net^
 ||dnsotls.lab.nic.cl^
 ||dns.ours.luxe^
 ||dnsovertls1.sinodun.com^
@@ -1760,7 +1773,6 @@
 ||home47a.mooo.com^
 ||home.basthorst.eu^
 ||home.bruckmoser.it^
-||home.ddns.network^
 ||homedns.gumeniuk.com^
 ||home.fc.idv.tw^
 ||homeguard.sleziona.org^
@@ -1819,6 +1831,7 @@
 ||i.passcloud.xyz^
 ||ipoac.nl^
 ||irgrdns.nullapp.xyz^
+||i.roadanywhere.tk^
 ||irre.li^
 ||ist01.dnscry.pt^
 ||itlikehell.ru^
@@ -1880,6 +1893,7 @@
 ||kintoun.alves.cc^
 ||kirov.v6.rocks^
 ||kiv01.dnscry.pt^
+||kk.sshub.win^
 ||km5uy2rh.svipcdn.cn^
 ||knight1.de^
 ||korzhov.dev^
@@ -1962,6 +1976,7 @@
 ||mad01.dnscry.pt^
 ||madrot.net^
 ||maikel.greppie.nl^
+||mail.4-the.win^
 ||mail.andrewnw.xyz^
 ||mail.data.haus^
 ||mailer.amlegion.org^
@@ -2007,7 +2022,6 @@
 ||mkvvpssrv12.freemyip.com^
 ||mo0on15.com^
 ||moaz-adguard.duckdns.org^
-||montmorot.duckdns.org^
 ||moonbd.top^
 ||morbitzer.de^
 ||moto.adg.siudzinski.net^
@@ -2062,7 +2076,6 @@
 ||nl-ams2.doh.sb^
 ||nl-ams.doh.sb^
 ||nl-ams-w-3.nashkan.net^
-||nlb.gbrossi.com.br^
 ||nlname.freecdn.one^
 ||noads.api.org.pl^
 ||noadsapp.net^
@@ -2169,6 +2182,7 @@
 ||opera.cloudflare-dns.com^
 ||op.qusite.cn^
 ||ora1.nocnik.org^
+||oracle2.herry.dev^
 ||oraclejp2.chungyu.com^
 ||oradns.anbitech.com^
 ||orau.lz0724.com^
@@ -2190,6 +2204,7 @@
 ||p3.freedns.controld.com^
 ||pad3w.pp.ua^
 ||padermail.net^
+||paimon.sev.monster^
 ||par01.dnscry.pt^
 ||paranoia.mydns.network^
 ||paskam.tk^
@@ -2225,6 +2240,7 @@
 ||pl-waw-w-2.nashkan.net^
 ||pope.cnblw.me^
 ||portal.iddqd.uk^
+||postalsv1.mkid.top^
 ||pqh.ddns.net^
 ||preview.dnsteam.globuscs.info^
 ||prg01.dnscry.pt^
@@ -2262,6 +2278,7 @@
 ||query.hdns.io^
 ||query.mobyds.com^
 ||query.shenl.in^
+||quic.lol^
 ||qwenty.ru^
 ||r1bnc.com^
 ||r1bnc.eu.org^
@@ -2335,6 +2352,7 @@
 ||sams.adg.siudzinski.net^
 ||samsdns1943.net^
 ||sandbox.opendns.com^
+||sanjosehy.analyticshopsystemblock.top^
 ||saomai.dynu.com^
 ||sarawut.ddns.net^
 ||saruman.freeddns.org^
@@ -2433,13 +2451,13 @@
 ||socolov.home.ro^
 ||sof01.dnscry.pt^
 ||solution.w10.life^
-||sorannbb.buzz^
 ||spacedns.org^
 ||sradg2.eastus.cloudapp.azure.com^
 ||sradg.eastus.cloudapp.azure.com^
 ||srgaghome.freemyip.com^
 ||sriedmueadguard.casa^
 ||srv1.web-mx.eu^
+||srv2.bartoszturek.online^
 ||srv5.jiripocta.cz^
 ||srv-revprox-01.atakorah.com^
 ||ssh-storage.ru^
@@ -2549,6 +2567,8 @@
 ||us02.dns4me.net^
 ||us1.blissdns.net^
 ||us1.dns.lavate.ch^
+||us5.wan.hc7z.com^
+||us-ash-w-f-1.nashkan.net^
 ||us-atl-w-2.nashkan.net^
 ||us-chi-w-3.nashkan.net^
 ||us-chi-w-4.nashkan.net^
@@ -2596,6 +2616,7 @@
 ||vlad.dns.vladpro.ru^
 ||vladpro.ru^
 ||vmd45200.contabo.wallura.eu^
+||vm.delfini.online^
 ||vm.mytm.cc^
 ||vmok.ru^
 ||vn.dns.abpvn.com^
@@ -2668,7 +2689,6 @@
 ||vps310.brueggus.de^
 ||vps311.brueggus.de^
 ||vps312.brueggus.de^
-||vps313.brueggus.de^
 ||vps314.brueggus.de^
 ||vps315.brueggus.de^
 ||vps316.brueggus.de^
@@ -2711,6 +2731,7 @@
 ||vps356.brueggus.de^
 ||vps4.scho.io^
 ||vps66.brueggus.de^
+||vps-amgr.duckdns.org^
 ||vps.avc.cx^
 ||vpschito.duckdns.org^
 ||vps.filatov.link^
