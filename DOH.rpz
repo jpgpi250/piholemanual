@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2312260308 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2312270248 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2023-12-26 03:08:12 (UTC)
+; Last updated: 2023-12-27 02:48:28 (UTC)
 ;
 ; See https://jpgpi250.github.io/piholemanual/doc/Unbound%20response%20policy%20zones.pdf
 ; Report issues at https://github.com/jpgpi250/piholemanual/issues
@@ -399,6 +399,7 @@ at-wie-w-2.nashkan.net CNAME .
 au01.dns4me.net CNAME .
 au02.dns4me.net CNAME .
 audio.dehb.ru CNAME .
+augandnap.arandomdomain.net CNAME .
 augne.dns.walshnet.co.uk CNAME .
 au-syd.doh.sb CNAME .
 au-syd-w-2.nashkan.net CNAME .
@@ -528,6 +529,7 @@ cloud.tezoi.com CNAME .
 cluster-0.gac.edu CNAME .
 cluster-1.gac.edu CNAME .
 cname-for-doh.go-behind.one CNAME .
+cn-cname-cf.dahi.icu CNAME .
 cn.turngreatwall.com CNAME .
 coe01.dnscry.pt CNAME .
 common.dot.dns.yandex.net CNAME .
@@ -558,6 +560,7 @@ d.adguard-dns.com CNAME .
 dadns.one CNAME .
 dakulov.synology.me CNAME .
 dandelionsprout.asuscomm.com CNAME .
+daniel0705.synology.me CNAME .
 d.apemlegit.my.id CNAME .
 darkhole.uint64.dev CNAME .
 darkness.is.my.waifu.cz CNAME .
@@ -1090,6 +1093,7 @@ dns.nextdns.io CNAME .
 dns.nguyendn.com CNAME .
 dns.nguyenhoane.io.vn CNAME .
 dns.nhtsky.com CNAME .
+dns.niccoli.cc CNAME .
 dns.nicolas.vip CNAME .
 dns.nieto.app CNAME .
 dns.ningkelle.id CNAME .
@@ -1138,6 +1142,7 @@ dns.pernika.net CNAME .
 dns.philqoo.com CNAME .
 dns.phucbui.top CNAME .
 dns.pieterdherde.com CNAME .
+dns.pietjacobs.be CNAME .
 dns.pmxu.link CNAME .
 dnspod.clzapp.com CNAME .
 dns.porteii.com CNAME .
@@ -1163,7 +1168,6 @@ dns.ramansarda.com CNAME .
 dns.rayanbab.com CNAME .
 dns.reckoningslug.name CNAME .
 dns.redroot.me CNAME .
-d.n.s.relay.ovpn.bond CNAME .
 dns.repressoh.it CNAME .
 dns.req1.fr CNAME .
 dns.resoft.org CNAME .
@@ -1265,6 +1269,7 @@ dns.transdata.top CNAME .
 dns.trifanov-online.ru CNAME .
 dns.truong.fi CNAME .
 dns.trust404.win CNAME .
+dns.tryk.app CNAME .
 dns.tuankhaiit.com CNAME .
 dns.tuna.tsinghua.edu.cn CNAME .
 dns.twnic.tw CNAME .
@@ -1601,6 +1606,7 @@ dus.ysbs.uk CNAME .
 duyyen.tk CNAME .
 dynamic.enzonix.com CNAME .
 dyn-ip.borjalopez.eu CNAME .
+e23aad3.online-server.cloud CNAME .
 ea-dns.rubyfish.cn CNAME .
 eamonn.dns.walshnet.co.uk CNAME .
 easyhandshake.com CNAME .
@@ -1753,7 +1759,6 @@ gva01.dnscry.pt CNAME .
 gztech.me CNAME .
 hahnjo.de CNAME .
 hanahira.dev CNAME .
-haswell-www.a.guindehi.ch CNAME .
 hcm.quydang.name.vn CNAME .
 heimdall.ff0x.ca CNAME .
 hel01.dnscry.pt CNAME .
@@ -2075,7 +2080,6 @@ nat64.tuxis.nl CNAME .
 naw01.dnscry.pt CNAME .
 ndns.233py.com CNAME .
 nebula.tru.io CNAME .
-nemless.dedyn.io CNAME .
 netcat.one CNAME .
 netcup.mismat.ch CNAME .
 net.tt6.net CNAME .
@@ -2101,6 +2105,7 @@ noads.dns.vladpro.ru CNAME .
 noads.imbuffering.com CNAME .
 noads.vdl.io CNAME .
 node3.b4el.ru CNAME .
+node9.servernode.store CNAME .
 nonanon.pl CNAME .
 no-osl-w-1.nashkan.net CNAME .
 notebait.ddnsfree.com CNAME .
@@ -2247,6 +2252,7 @@ phl01.dnscry.pt CNAME .
 phucbui.top CNAME .
 phx01.dnscry.pt CNAME .
 pi1.node15.com CNAME .
+pi4.jnraptor.net CNAME .
 pi.daryllswer.net CNAME .
 piekacz.pl CNAME .
 pihole1.hoerli.net CNAME .
@@ -2279,6 +2285,7 @@ privpn.me CNAME .
 project-evoex.de CNAME .
 pro.shecan.ir CNAME .
 protected.canadianshield.cira.ca CNAME .
+proxjdf.jamesferrand.fr CNAME .
 proxy.ext.devkon.org CNAME .
 proxy.haoxuan.xyz CNAME .
 proxy.landerbrauver.ru CNAME .
@@ -2430,7 +2437,6 @@ serveur-yan.synology.me CNAME .
 service.c698fc0a.cfd CNAME .
 servicesgov.dev CNAME .
 se-sto-w-2.nashkan.net CNAME .
-sexybody.myqnapcloud.com CNAME .
 sg01.dns4me.net CNAME .
 sg.101818.xyz CNAME .
 sg-119.cattery.work CNAME .
@@ -2512,7 +2518,6 @@ svg33.eu CNAME .
 sweethome.in.eu.org CNAME .
 switch.ch CNAME .
 syd01.dnscry.pt CNAME .
-syd1.norgannetworks.net.au CNAME .
 syd.adfilter.net CNAME .
 syd.core.access.zznet.fun CNAME .
 syre.pp.ua CNAME .
@@ -2634,7 +2639,7 @@ v2.xm706v.com CNAME .
 v2.xx3210766.live CNAME .
 v3.passby.eu.org CNAME .
 v6.rubyfish.cn CNAME .
-vador.sillundil.ovh CNAME .
+v7.frame-one.cc CNAME .
 vallecerroazul.com CNAME .
 vanced.sytes.net CNAME .
 vancrafter.click CNAME .
