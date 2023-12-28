@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2023-12-26 03:25:23 (UTC)
+! Last updated: 2023-12-27 03:05:38 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -395,6 +395,7 @@
 ||au01.dns4me.net^
 ||au02.dns4me.net^
 ||audio.dehb.ru^
+||augandnap.arandomdomain.net^
 ||augne.dns.walshnet.co.uk^
 ||au-syd.doh.sb^
 ||au-syd-w-2.nashkan.net^
@@ -524,6 +525,7 @@
 ||cluster-0.gac.edu^
 ||cluster-1.gac.edu^
 ||cname-for-doh.go-behind.one^
+||cn-cname-cf.dahi.icu^
 ||cn.turngreatwall.com^
 ||coe01.dnscry.pt^
 ||common.dot.dns.yandex.net^
@@ -554,6 +556,7 @@
 ||dadns.one^
 ||dakulov.synology.me^
 ||dandelionsprout.asuscomm.com^
+||daniel0705.synology.me^
 ||d.apemlegit.my.id^
 ||darkhole.uint64.dev^
 ||darkness.is.my.waifu.cz^
@@ -1086,6 +1089,7 @@
 ||dns.nguyendn.com^
 ||dns.nguyenhoane.io.vn^
 ||dns.nhtsky.com^
+||dns.niccoli.cc^
 ||dns.nicolas.vip^
 ||dns.nieto.app^
 ||dns.ningkelle.id^
@@ -1134,6 +1138,7 @@
 ||dns.philqoo.com^
 ||dns.phucbui.top^
 ||dns.pieterdherde.com^
+||dns.pietjacobs.be^
 ||dns.pmxu.link^
 ||dnspod.clzapp.com^
 ||dns.porteii.com^
@@ -1159,7 +1164,6 @@
 ||dns.rayanbab.com^
 ||dns.reckoningslug.name^
 ||dns.redroot.me^
-||d.n.s.relay.ovpn.bond^
 ||dns.repressoh.it^
 ||dns.req1.fr^
 ||dns.resoft.org^
@@ -1261,6 +1265,7 @@
 ||dns.trifanov-online.ru^
 ||dns.truong.fi^
 ||dns.trust404.win^
+||dns.tryk.app^
 ||dns.tuankhaiit.com^
 ||dns.tuna.tsinghua.edu.cn^
 ||dns.twnic.tw^
@@ -1597,6 +1602,7 @@
 ||duyyen.tk^
 ||dynamic.enzonix.com^
 ||dyn-ip.borjalopez.eu^
+||e23aad3.online-server.cloud^
 ||ea-dns.rubyfish.cn^
 ||eamonn.dns.walshnet.co.uk^
 ||easyhandshake.com^
@@ -1749,7 +1755,6 @@
 ||gztech.me^
 ||hahnjo.de^
 ||hanahira.dev^
-||haswell-www.a.guindehi.ch^
 ||hcm.quydang.name.vn^
 ||heimdall.ff0x.ca^
 ||hel01.dnscry.pt^
@@ -2071,7 +2076,6 @@
 ||naw01.dnscry.pt^
 ||ndns.233py.com^
 ||nebula.tru.io^
-||nemless.dedyn.io^
 ||netcat.one^
 ||netcup.mismat.ch^
 ||net.tt6.net^
@@ -2097,6 +2101,7 @@
 ||noads.imbuffering.com^
 ||noads.vdl.io^
 ||node3.b4el.ru^
+||node9.servernode.store^
 ||nonanon.pl^
 ||no-osl-w-1.nashkan.net^
 ||notebait.ddnsfree.com^
@@ -2243,6 +2248,7 @@
 ||phucbui.top^
 ||phx01.dnscry.pt^
 ||pi1.node15.com^
+||pi4.jnraptor.net^
 ||pi.daryllswer.net^
 ||piekacz.pl^
 ||pihole1.hoerli.net^
@@ -2275,6 +2281,7 @@
 ||project-evoex.de^
 ||pro.shecan.ir^
 ||protected.canadianshield.cira.ca^
+||proxjdf.jamesferrand.fr^
 ||proxy.ext.devkon.org^
 ||proxy.haoxuan.xyz^
 ||proxy.landerbrauver.ru^
@@ -2426,7 +2433,6 @@
 ||service.c698fc0a.cfd^
 ||servicesgov.dev^
 ||se-sto-w-2.nashkan.net^
-||sexybody.myqnapcloud.com^
 ||sg01.dns4me.net^
 ||sg.101818.xyz^
 ||sg-119.cattery.work^
@@ -2508,7 +2514,6 @@
 ||sweethome.in.eu.org^
 ||switch.ch^
 ||syd01.dnscry.pt^
-||syd1.norgannetworks.net.au^
 ||syd.adfilter.net^
 ||syd.core.access.zznet.fun^
 ||syre.pp.ua^
@@ -2630,7 +2635,7 @@
 ||v2.xx3210766.live^
 ||v3.passby.eu.org^
 ||v6.rubyfish.cn^
-||vador.sillundil.ovh^
+||v7.frame-one.cc^
 ||vallecerroazul.com^
 ||vanced.sytes.net^
 ||vancrafter.click^
