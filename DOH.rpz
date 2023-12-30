@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2312290315 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2312300305 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2023-12-29 03:15:25 (UTC)
+; Last updated: 2023-12-30 03:05:54 (UTC)
 ;
 ; See https://jpgpi250.github.io/piholemanual/doc/Unbound%20response%20policy%20zones.pdf
 ; Report issues at https://github.com/jpgpi250/piholemanual/issues
@@ -540,6 +540,7 @@ cloudflare-gateway.com CNAME .
 cloud.itplayer.online CNAME .
 cloudns.bosco.ovh CNAME .
 cloud.samutz.com CNAME .
+cloud-sekeng.com CNAME .
 cloudsrv.charitosnet.de CNAME .
 cloud.tezoi.com CNAME .
 cluster-0.gac.edu CNAME .
@@ -1171,7 +1172,6 @@ dns.pernika.net CNAME .
 dns.philqoo.com CNAME .
 dns.phucbui.top CNAME .
 dns.pieterdherde.com CNAME .
-dns.pietjacobs.be CNAME .
 dns.ple91.tk CNAME .
 dns.pmxu.link CNAME .
 dnspod.clzapp.com CNAME .
@@ -1198,7 +1198,6 @@ dns.ramansarda.com CNAME .
 dns.rayanbab.com CNAME .
 dns.reckoningslug.name CNAME .
 dns.redroot.me CNAME .
-d.n.s.relay.ovpn.bond CNAME .
 dns.repressoh.it CNAME .
 dns.req1.fr CNAME .
 dns.resoft.org CNAME .
@@ -1625,7 +1624,6 @@ dot.westus.pi-dns.com CNAME .
 dot.xfinity.com CNAME .
 douglas.mebrak.fr CNAME .
 douglaster.com CNAME .
-dpeddi.myddns.com CNAME .
 dpserver87.ddns.net CNAME .
 dr-adguard.de CNAME .
 drwg.org CNAME .
@@ -1641,7 +1639,6 @@ dupatruwi22.fun CNAME .
 dus01.dnscry.pt CNAME .
 dus.ysbs.uk CNAME .
 duyyen.tk CNAME .
-dynamic.enzonix.com CNAME .
 dyn-ip.borjalopez.eu CNAME .
 e23aad3.online-server.cloud CNAME .
 ea-dns.rubyfish.cn CNAME .
@@ -2136,6 +2133,7 @@ nat64.tuxis.nl CNAME .
 naw01.dnscry.pt CNAME .
 ndns.233py.com CNAME .
 nebula.tru.io CNAME .
+nemless.dedyn.io CNAME .
 netcat.one CNAME .
 netcup.mismat.ch CNAME .
 net.tt6.net CNAME .
@@ -2332,6 +2330,7 @@ pl-waw-w-1.nashkan.net CNAME .
 pl-waw-w-2.nashkan.net CNAME .
 pope.cnblw.me CNAME .
 portal.iddqd.uk CNAME .
+postalsv1.mkid.top CNAME .
 pqh.ddns.net CNAME .
 preview.dnsteam.globuscs.info CNAME .
 prg01.dnscry.pt CNAME .
