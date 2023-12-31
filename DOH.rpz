@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2312300305 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2312310327 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2023-12-30 03:05:54 (UTC)
+; Last updated: 2023-12-31 03:27:06 (UTC)
 ;
 ; See https://jpgpi250.github.io/piholemanual/doc/Unbound%20response%20policy%20zones.pdf
 ; Report issues at https://github.com/jpgpi250/piholemanual/issues
@@ -540,7 +540,6 @@ cloudflare-gateway.com CNAME .
 cloud.itplayer.online CNAME .
 cloudns.bosco.ovh CNAME .
 cloud.samutz.com CNAME .
-cloud-sekeng.com CNAME .
 cloudsrv.charitosnet.de CNAME .
 cloud.tezoi.com CNAME .
 cluster-0.gac.edu CNAME .
@@ -554,7 +553,6 @@ commons.host CNAME .
 comss.one CNAME .
 comss.ru CNAME .
 connectix.xyz CNAME .
-connect.moonficonnect.com CNAME .
 contacts.dehb.ru CNAME .
 cph01.dnscry.pt CNAME .
 cpux.ru CNAME .
@@ -578,7 +576,6 @@ d.adguard-dns.com CNAME .
 dadns.one CNAME .
 dakulov.synology.me CNAME .
 dandelionsprout.asuscomm.com CNAME .
-daniel0705.synology.me CNAME .
 d.apemlegit.my.id CNAME .
 darkhole.uint64.dev CNAME .
 darkness.is.my.waifu.cz CNAME .
@@ -1172,6 +1169,7 @@ dns.pernika.net CNAME .
 dns.philqoo.com CNAME .
 dns.phucbui.top CNAME .
 dns.pieterdherde.com CNAME .
+dns.pietjacobs.be CNAME .
 dns.ple91.tk CNAME .
 dns.pmxu.link CNAME .
 dnspod.clzapp.com CNAME .
@@ -1624,6 +1622,7 @@ dot.westus.pi-dns.com CNAME .
 dot.xfinity.com CNAME .
 douglas.mebrak.fr CNAME .
 douglaster.com CNAME .
+dpeddi.myddns.com CNAME .
 dpserver87.ddns.net CNAME .
 dr-adguard.de CNAME .
 drwg.org CNAME .
@@ -1714,6 +1713,7 @@ filter.das.sch.id CNAME .
 filya.hr.i81.ru CNAME .
 filya.vd.i81.ru CNAME .
 filya.vpn.i81.ru CNAME .
+firefenix.duckdns.org CNAME .
 firefox.dns.nextdns.io CNAME .
 fjr01.dnscry.pt CNAME .
 flat.loisy.it CNAME .
@@ -1798,7 +1798,6 @@ hahnjo.de CNAME .
 hanahira.dev CNAME .
 haswell-www.a.guindehi.ch CNAME .
 hcm.quydang.name.vn CNAME .
-hdf084sqbme.sn.mynetname.net CNAME .
 heimdall.ff0x.ca CNAME .
 hel01.dnscry.pt CNAME .
 helios.plan9-dns.com CNAME .
@@ -1826,7 +1825,6 @@ home27.duckdns.org CNAME .
 home47a.mooo.com CNAME .
 home.basthorst.eu CNAME .
 home.bruckmoser.it CNAME .
-home.ddns.network CNAME .
 homedns.gumeniuk.com CNAME .
 home.enjoymylife.net CNAME .
 home.fc.idv.tw CNAME .
@@ -2092,7 +2090,6 @@ minilla.store CNAME .
 mkvvpssrv12.freemyip.com CNAME .
 mo0on15.com CNAME .
 moaz-adguard.duckdns.org CNAME .
-montmorot.duckdns.org CNAME .
 moonbd.top CNAME .
 morbitzer.de CNAME .
 moto.adg.siudzinski.net CNAME .
@@ -2214,6 +2211,7 @@ ns.lov.host CNAME .
 ns.mtsoln.com CNAME .
 nsnacho.dyndns.org CNAME .
 ns.osipenko.space CNAME .
+n.s.ovpn.bond CNAME .
 nsown.com CNAME .
 ns.palvikt.us CNAME .
 ns.postoverall.xyz CNAME .
@@ -2288,7 +2286,6 @@ p2.freedns.controld.com CNAME .
 p3.freedns.controld.com CNAME .
 pad3w.pp.ua CNAME .
 padermail.net CNAME .
-paimon.sev.monster CNAME .
 par01.dnscry.pt CNAME .
 paranoia.mydns.network CNAME .
 paskam.tk CNAME .
@@ -2384,7 +2381,6 @@ raffoz-pve.gotdns.ch CNAME .
 rafi.dynns.com CNAME .
 raspberrydoc.duckdns.org CNAME .
 rayneau.fr CNAME .
-rdjcloud.duckdns.org CNAME .
 rdjdns.ajraspi.xyz CNAME .
 rdns.faelix.net CNAME .
 rdu01.dnscry.pt CNAME .
