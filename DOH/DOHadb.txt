@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2023-12-29 03:32:53 (UTC)
+! Last updated: 2023-12-30 03:23:24 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -536,6 +536,7 @@
 ||cloud.itplayer.online^
 ||cloudns.bosco.ovh^
 ||cloud.samutz.com^
+||cloud-sekeng.com^
 ||cloudsrv.charitosnet.de^
 ||cloud.tezoi.com^
 ||cluster-0.gac.edu^
@@ -1167,7 +1168,6 @@
 ||dns.philqoo.com^
 ||dns.phucbui.top^
 ||dns.pieterdherde.com^
-||dns.pietjacobs.be^
 ||dns.ple91.tk^
 ||dns.pmxu.link^
 ||dnspod.clzapp.com^
@@ -1194,7 +1194,6 @@
 ||dns.rayanbab.com^
 ||dns.reckoningslug.name^
 ||dns.redroot.me^
-||d.n.s.relay.ovpn.bond^
 ||dns.repressoh.it^
 ||dns.req1.fr^
 ||dns.resoft.org^
@@ -1621,7 +1620,6 @@
 ||dot.xfinity.com^
 ||douglas.mebrak.fr^
 ||douglaster.com^
-||dpeddi.myddns.com^
 ||dpserver87.ddns.net^
 ||dr-adguard.de^
 ||drwg.org^
@@ -1637,7 +1635,6 @@
 ||dus01.dnscry.pt^
 ||dus.ysbs.uk^
 ||duyyen.tk^
-||dynamic.enzonix.com^
 ||dyn-ip.borjalopez.eu^
 ||e23aad3.online-server.cloud^
 ||ea-dns.rubyfish.cn^
@@ -2132,6 +2129,7 @@
 ||naw01.dnscry.pt^
 ||ndns.233py.com^
 ||nebula.tru.io^
+||nemless.dedyn.io^
 ||netcat.one^
 ||netcup.mismat.ch^
 ||net.tt6.net^
@@ -2328,6 +2326,7 @@
 ||pl-waw-w-2.nashkan.net^
 ||pope.cnblw.me^
 ||portal.iddqd.uk^
+||postalsv1.mkid.top^
 ||pqh.ddns.net^
 ||preview.dnsteam.globuscs.info^
 ||prg01.dnscry.pt^
