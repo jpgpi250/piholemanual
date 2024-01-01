@@ -16,9 +16,6 @@ The official pihole documentation can be found [here](https://docs.pi-hole.net/)
     * response policy zones (RPZ), explained [here](https://jpgpi250.github.io/piholemanual/doc/Unbound%20response%20policy%20zones.pdf).
     * suricata rules, explained in the [pfsense](https://jpgpi250.github.io/piholemanual/doc/Block%20DOH%20with%20pfsense.pdf) document (section 10).
 
-NOTICE (08/2022): The DoHexception lists are deprecated, read the DoH manual to find out how to create local exception aliases.
-- The deprecated lists will remain available, to allow users to implement the new policy.
-
 # Terms of Services (ToS)
 By using the scripts and datasets, you agree that:
 - The scripts and datasets can be used for both, commercial and non-commercial purpose without any limitations (CC0 - No Rights Reserved).
