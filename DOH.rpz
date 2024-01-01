@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2312310327 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2401010315 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2023-12-31 03:27:06 (UTC)
+; Last updated: 2024-01-01 03:15:55 (UTC)
 ;
 ; See https://jpgpi250.github.io/piholemanual/doc/Unbound%20response%20policy%20zones.pdf
 ; Report issues at https://github.com/jpgpi250/piholemanual/issues
@@ -545,7 +545,6 @@ cloud.tezoi.com CNAME .
 cluster-0.gac.edu CNAME .
 cluster-1.gac.edu CNAME .
 cname-for-doh.go-behind.one CNAME .
-cn-cname-cf.dahi.icu CNAME .
 cn.turngreatwall.com CNAME .
 coe01.dnscry.pt CNAME .
 common.dot.dns.yandex.net CNAME .
@@ -553,6 +552,7 @@ commons.host CNAME .
 comss.one CNAME .
 comss.ru CNAME .
 connectix.xyz CNAME .
+connect.moonficonnect.com CNAME .
 contacts.dehb.ru CNAME .
 cph01.dnscry.pt CNAME .
 cpux.ru CNAME .
@@ -576,6 +576,7 @@ d.adguard-dns.com CNAME .
 dadns.one CNAME .
 dakulov.synology.me CNAME .
 dandelionsprout.asuscomm.com CNAME .
+daniel0705.synology.me CNAME .
 d.apemlegit.my.id CNAME .
 darkhole.uint64.dev CNAME .
 darkness.is.my.waifu.cz CNAME .
@@ -1825,6 +1826,7 @@ home27.duckdns.org CNAME .
 home47a.mooo.com CNAME .
 home.basthorst.eu CNAME .
 home.bruckmoser.it CNAME .
+home.ddns.network CNAME .
 homedns.gumeniuk.com CNAME .
 home.enjoymylife.net CNAME .
 home.fc.idv.tw CNAME .
@@ -1919,6 +1921,7 @@ jp.dns.bliod.eu.org CNAME .
 jpdns.cola16.app CNAME .
 jpginformatica.com CNAME .
 jp.gridns.xyz CNAME .
+jpjb.net CNAME .
 jp-kix.doh.sb CNAME .
 jp-nrt.doh.sb CNAME .
 jpok.996333.xyz CNAME .
@@ -2014,6 +2017,7 @@ lion.dns.qwer.pw CNAME .
 lion.yazilimatolye.com CNAME .
 live.jjlizz.com CNAME .
 llk01.dnscry.pt CNAME .
+l.l.ovpn.bond CNAME .
 lmz.meudns.minhacasainteligente.cf CNAME .
 local.sufly.top CNAME .
 locaweb.moleniuk.com CNAME .
@@ -2090,6 +2094,7 @@ minilla.store CNAME .
 mkvvpssrv12.freemyip.com CNAME .
 mo0on15.com CNAME .
 moaz-adguard.duckdns.org CNAME .
+montmorot.duckdns.org CNAME .
 moonbd.top CNAME .
 morbitzer.de CNAME .
 moto.adg.siudzinski.net CNAME .
@@ -2150,7 +2155,6 @@ nl.adg.ghostzone.wtf CNAME .
 nl-ams2.doh.sb CNAME .
 nl-ams.doh.sb CNAME .
 nl-ams-w-3.nashkan.net CNAME .
-nlb.gbrossi.com.br CNAME .
 nl-dro-w-f-1.nashkan.net CNAME .
 nlname.freecdn.one CNAME .
 noads.api.org.pl CNAME .
@@ -2211,7 +2215,6 @@ ns.lov.host CNAME .
 ns.mtsoln.com CNAME .
 nsnacho.dyndns.org CNAME .
 ns.osipenko.space CNAME .
-n.s.ovpn.bond CNAME .
 nsown.com CNAME .
 ns.palvikt.us CNAME .
 ns.postoverall.xyz CNAME .
@@ -2225,6 +2228,7 @@ nudnud.com CNAME .
 nue01.dnscry.pt CNAME .
 nue2.moderateinfra.net CNAME .
 nukys.ca CNAME .
+null.ovpn.bond CNAME .
 ny1.nixnet.xyz CNAME .
 nyc01.dnscry.pt CNAME .
 ny.teradns.org CNAME .
@@ -2278,7 +2282,6 @@ outdoorchair.us CNAME .
 outie.8ws.net CNAME .
 outiejr.8ws.net CNAME .
 ovh.panszelescik.pl CNAME .
-ovpn.bond CNAME .
 owndns.dedyn.io CNAME .
 p0.freedns.controld.com CNAME .
 p1.freedns.controld.com CNAME .
@@ -2286,6 +2289,7 @@ p2.freedns.controld.com CNAME .
 p3.freedns.controld.com CNAME .
 pad3w.pp.ua CNAME .
 padermail.net CNAME .
+paimon.sev.monster CNAME .
 par01.dnscry.pt CNAME .
 paranoia.mydns.network CNAME .
 paskam.tk CNAME .
@@ -2381,6 +2385,7 @@ raffoz-pve.gotdns.ch CNAME .
 rafi.dynns.com CNAME .
 raspberrydoc.duckdns.org CNAME .
 rayneau.fr CNAME .
+rdjcloud.duckdns.org CNAME .
 rdjdns.ajraspi.xyz CNAME .
 rdns.faelix.net CNAME .
 rdu01.dnscry.pt CNAME .
@@ -2498,6 +2503,7 @@ serveur-yan.synology.me CNAME .
 service.c698fc0a.cfd CNAME .
 servicesgov.dev CNAME .
 se-sto-w-2.nashkan.net CNAME .
+sexybody.myqnapcloud.com CNAME .
 sg01.dns4me.net CNAME .
 sg.101818.xyz CNAME .
 sg-119.cattery.work CNAME .
@@ -2802,7 +2808,6 @@ vps309.brueggus.de CNAME .
 vps310.brueggus.de CNAME .
 vps311.brueggus.de CNAME .
 vps312.brueggus.de CNAME .
-vps313.brueggus.de CNAME .
 vps314.brueggus.de CNAME .
 vps315.brueggus.de CNAME .
 vps316.brueggus.de CNAME .
