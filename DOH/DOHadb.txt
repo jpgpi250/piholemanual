@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2023-12-30 03:23:24 (UTC)
+! Last updated: 2023-12-31 03:44:22 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -536,7 +536,6 @@
 ||cloud.itplayer.online^
 ||cloudns.bosco.ovh^
 ||cloud.samutz.com^
-||cloud-sekeng.com^
 ||cloudsrv.charitosnet.de^
 ||cloud.tezoi.com^
 ||cluster-0.gac.edu^
@@ -550,7 +549,6 @@
 ||comss.one^
 ||comss.ru^
 ||connectix.xyz^
-||connect.moonficonnect.com^
 ||contacts.dehb.ru^
 ||cph01.dnscry.pt^
 ||cpux.ru^
@@ -574,7 +572,6 @@
 ||dadns.one^
 ||dakulov.synology.me^
 ||dandelionsprout.asuscomm.com^
-||daniel0705.synology.me^
 ||d.apemlegit.my.id^
 ||darkhole.uint64.dev^
 ||darkness.is.my.waifu.cz^
@@ -1168,6 +1165,7 @@
 ||dns.philqoo.com^
 ||dns.phucbui.top^
 ||dns.pieterdherde.com^
+||dns.pietjacobs.be^
 ||dns.ple91.tk^
 ||dns.pmxu.link^
 ||dnspod.clzapp.com^
@@ -1620,6 +1618,7 @@
 ||dot.xfinity.com^
 ||douglas.mebrak.fr^
 ||douglaster.com^
+||dpeddi.myddns.com^
 ||dpserver87.ddns.net^
 ||dr-adguard.de^
 ||drwg.org^
@@ -1710,6 +1709,7 @@
 ||filya.hr.i81.ru^
 ||filya.vd.i81.ru^
 ||filya.vpn.i81.ru^
+||firefenix.duckdns.org^
 ||firefox.dns.nextdns.io^
 ||fjr01.dnscry.pt^
 ||flat.loisy.it^
@@ -1794,7 +1794,6 @@
 ||hanahira.dev^
 ||haswell-www.a.guindehi.ch^
 ||hcm.quydang.name.vn^
-||hdf084sqbme.sn.mynetname.net^
 ||heimdall.ff0x.ca^
 ||hel01.dnscry.pt^
 ||helios.plan9-dns.com^
@@ -1822,7 +1821,6 @@
 ||home47a.mooo.com^
 ||home.basthorst.eu^
 ||home.bruckmoser.it^
-||home.ddns.network^
 ||homedns.gumeniuk.com^
 ||home.enjoymylife.net^
 ||home.fc.idv.tw^
@@ -2088,7 +2086,6 @@
 ||mkvvpssrv12.freemyip.com^
 ||mo0on15.com^
 ||moaz-adguard.duckdns.org^
-||montmorot.duckdns.org^
 ||moonbd.top^
 ||morbitzer.de^
 ||moto.adg.siudzinski.net^
@@ -2210,6 +2207,7 @@
 ||ns.mtsoln.com^
 ||nsnacho.dyndns.org^
 ||ns.osipenko.space^
+||n.s.ovpn.bond^
 ||nsown.com^
 ||ns.palvikt.us^
 ||ns.postoverall.xyz^
@@ -2284,7 +2282,6 @@
 ||p3.freedns.controld.com^
 ||pad3w.pp.ua^
 ||padermail.net^
-||paimon.sev.monster^
 ||par01.dnscry.pt^
 ||paranoia.mydns.network^
 ||paskam.tk^
@@ -2380,7 +2377,6 @@
 ||rafi.dynns.com^
 ||raspberrydoc.duckdns.org^
 ||rayneau.fr^
-||rdjcloud.duckdns.org^
 ||rdjdns.ajraspi.xyz^
 ||rdns.faelix.net^
 ||rdu01.dnscry.pt^
