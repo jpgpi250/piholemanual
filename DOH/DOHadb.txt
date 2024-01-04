@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2024-01-02 07:34:17 (UTC)
+! Last updated: 2024-01-03 02:57:57 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -1718,7 +1718,6 @@
 ||extended.dns.mullvad.net^
 ||externalmobiel.lekdijk.online^
 ||eyg01.dnscry.pt^
-||f03a0e2fa9f5.sn.mynetname.net^
 ||f1.dns.s3cure.me^
 ||family.5ososea.com^
 ||family.adguard-dns.com^
@@ -1837,7 +1836,6 @@
 ||gva01.dnscry.pt^
 ||gztech.me^
 ||hahnjo.de^
-||hanahira.dev^
 ||haswell-www.a.guindehi.ch^
 ||hcm.quydang.name.vn^
 ||heimdall.ff0x.ca^
@@ -1868,6 +1866,7 @@
 ||home47a.mooo.com^
 ||home.basthorst.eu^
 ||home.bruckmoser.it^
+||home.chadeyron.fr^
 ||home.dlinkddns.com^
 ||homedns.gumeniuk.com^
 ||home.enjoymylife.net^
@@ -2201,7 +2200,6 @@
 ||nl-ams2.doh.sb^
 ||nl-ams.doh.sb^
 ||nl-ams-w-3.nashkan.net^
-||nlb.gbrossi.com.br^
 ||nl-dro-w-f-1.nashkan.net^
 ||nlname.freecdn.one^
 ||noads.api.org.pl^
@@ -2338,6 +2336,7 @@
 ||p3.freedns.controld.com^
 ||pad3w.pp.ua^
 ||padermail.net^
+||paimon.sev.monster^
 ||par01.dnscry.pt^
 ||paranoia.mydns.network^
 ||paskam.tk^
@@ -2363,7 +2362,6 @@
 ||pi1.node15.com^
 ||pi4.jnraptor.net^
 ||pi.daryllswer.net^
-||piekacz.pl^
 ||pihole1.hoerli.net^
 ||pihole2.hoerli.net^
 ||pihole3.hoerli.net^
@@ -2379,7 +2377,6 @@
 ||pl-waw-w-2.nashkan.net^
 ||pope.cnblw.me^
 ||portal.iddqd.uk^
-||postalsv1.mkid.top^
 ||pqh.ddns.net^
 ||premiumtier-network.instadart.net^
 ||preview.dnsteam.globuscs.info^
@@ -2543,7 +2540,6 @@
 ||server03.dr-adguard.de^
 ||server.akarai.online^
 ||server.felixf.eu^
-||servernation.xyz^
 ||server.pragmasec.nl^
 ||serverrmha1.ddnsku.my.id^
 ||server.unp.im^
@@ -2551,6 +2547,7 @@
 ||service.c698fc0a.cfd^
 ||servicesgov.dev^
 ||se-sto-w-2.nashkan.net^
+||sexybody.myqnapcloud.com^
 ||sg01.dns4me.net^
 ||sg.101818.xyz^
 ||sg-119.cattery.work^
@@ -2853,7 +2850,6 @@
 ||vps310.brueggus.de^
 ||vps311.brueggus.de^
 ||vps312.brueggus.de^
-||vps313.brueggus.de^
 ||vps314.brueggus.de^
 ||vps315.brueggus.de^
 ||vps316.brueggus.de^
