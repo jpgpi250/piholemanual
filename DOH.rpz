@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2401050309 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2401060228 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2024-01-05 03:09:58 (UTC)
+; Last updated: 2024-01-06 02:28:50 (UTC)
 ;
 ; See https://jpgpi250.github.io/piholemanual/doc/Unbound%20response%20policy%20zones.pdf
 ; Report issues at https://github.com/jpgpi250/piholemanual/issues
@@ -217,6 +217,7 @@ adguard.koshonsa.fr CNAME .
 adguard.kss.ovh CNAME .
 adguard.laurenlaufman.com CNAME .
 adguard.lege.despagne.net CNAME .
+adguard.lista.my.id CNAME .
 adguard.londonwebnerd.cloud CNAME .
 adguard.lspcr.space CNAME .
 adguard.mapor.co CNAME .
@@ -503,6 +504,7 @@ ca.doh.cloudveil.org CNAME .
 callies-online.site CNAME .
 calm-crown.freemyip.com CNAME .
 canadianshield.cira.ca CNAME .
+carioka.dyndns.org CNAME .
 catdns.org CNAME .
 cattery2.noddos.top CNAME .
 ca-yyc.doh.sb CNAME .
@@ -593,7 +595,6 @@ dat.privatedns.org CNAME .
 daverotaquio.net CNAME .
 ddd2.loukky.com CNAME .
 ddd.loukky.com CNAME .
-ddns.ddns.bigqy.eu.org CNAME .
 ddns.ddnsddns.online CNAME .
 ddns.oii.im CNAME .
 de.deghy.ir CNAME .
@@ -1191,6 +1192,7 @@ dns.pernika.net CNAME .
 dns.philqoo.com CNAME .
 dns.phucbui.top CNAME .
 dns.pieterdherde.com CNAME .
+dns.pietjacobs.be CNAME .
 dns.ple91.tk CNAME .
 dns.pmxu.link CNAME .
 dnspod.clzapp.com CNAME .
@@ -1870,6 +1872,7 @@ home.qbak.net CNAME .
 home-server.exonip.de CNAME .
 home.skrzypiec.pl CNAME .
 home.snow-sugar.net CNAME .
+home.tuankhaiit.com CNAME .
 home.wriedts.de CNAME .
 hooliganska.duckdns.org CNAME .
 horns.world CNAME .
@@ -2188,6 +2191,7 @@ nl.adg.ghostzone.wtf CNAME .
 nl-ams2.doh.sb CNAME .
 nl-ams.doh.sb CNAME .
 nl-ams-w-3.nashkan.net CNAME .
+nlb.gbrossi.com.br CNAME .
 nl-dro-w-f-1.nashkan.net CNAME .
 nlname.freecdn.one CNAME .
 noads.api.org.pl CNAME .
@@ -2538,7 +2542,6 @@ serveur-yan.synology.me CNAME .
 service.c698fc0a.cfd CNAME .
 servicesgov.dev CNAME .
 se-sto-w-2.nashkan.net CNAME .
-sexybody.myqnapcloud.com CNAME .
 sg01.dns4me.net CNAME .
 sg.101818.xyz CNAME .
 sg-119.cattery.work CNAME .
@@ -2644,6 +2647,7 @@ test4.adg.siudzinski.net CNAME .
 test.adg.siudzinski.net CNAME .
 testaghome.meshkov.info CNAME .
 test.dnsteam.globuscs.info CNAME .
+tetra.aeins.at CNAME .
 tezoi.duckdns.org CNAME .
 thanos.pleumkungz.com CNAME .
 thebeloveduck.duckdns.org CNAME .
@@ -2842,6 +2846,7 @@ vps309.brueggus.de CNAME .
 vps310.brueggus.de CNAME .
 vps311.brueggus.de CNAME .
 vps312.brueggus.de CNAME .
+vps313.brueggus.de CNAME .
 vps314.brueggus.de CNAME .
 vps324.brueggus.de CNAME .
 vps325.brueggus.de CNAME .
