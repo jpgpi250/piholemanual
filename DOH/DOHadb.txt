@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2024-01-05 03:26:15 (UTC)
+! Last updated: 2024-01-06 02:45:08 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -213,6 +213,7 @@
 ||adguard.kss.ovh^
 ||adguard.laurenlaufman.com^
 ||adguard.lege.despagne.net^
+||adguard.lista.my.id^
 ||adguard.londonwebnerd.cloud^
 ||adguard.lspcr.space^
 ||adguard.mapor.co^
@@ -499,6 +500,7 @@
 ||callies-online.site^
 ||calm-crown.freemyip.com^
 ||canadianshield.cira.ca^
+||carioka.dyndns.org^
 ||catdns.org^
 ||cattery2.noddos.top^
 ||ca-yyc.doh.sb^
@@ -589,7 +591,6 @@
 ||daverotaquio.net^
 ||ddd2.loukky.com^
 ||ddd.loukky.com^
-||ddns.ddns.bigqy.eu.org^
 ||ddns.ddnsddns.online^
 ||ddns.oii.im^
 ||de.deghy.ir^
@@ -1187,6 +1188,7 @@
 ||dns.philqoo.com^
 ||dns.phucbui.top^
 ||dns.pieterdherde.com^
+||dns.pietjacobs.be^
 ||dns.ple91.tk^
 ||dns.pmxu.link^
 ||dnspod.clzapp.com^
@@ -1866,6 +1868,7 @@
 ||home-server.exonip.de^
 ||home.skrzypiec.pl^
 ||home.snow-sugar.net^
+||home.tuankhaiit.com^
 ||home.wriedts.de^
 ||hooliganska.duckdns.org^
 ||horns.world^
@@ -2184,6 +2187,7 @@
 ||nl-ams2.doh.sb^
 ||nl-ams.doh.sb^
 ||nl-ams-w-3.nashkan.net^
+||nlb.gbrossi.com.br^
 ||nl-dro-w-f-1.nashkan.net^
 ||nlname.freecdn.one^
 ||noads.api.org.pl^
@@ -2534,7 +2538,6 @@
 ||service.c698fc0a.cfd^
 ||servicesgov.dev^
 ||se-sto-w-2.nashkan.net^
-||sexybody.myqnapcloud.com^
 ||sg01.dns4me.net^
 ||sg.101818.xyz^
 ||sg-119.cattery.work^
@@ -2640,6 +2643,7 @@
 ||test.adg.siudzinski.net^
 ||testaghome.meshkov.info^
 ||test.dnsteam.globuscs.info^
+||tetra.aeins.at^
 ||tezoi.duckdns.org^
 ||thanos.pleumkungz.com^
 ||thebeloveduck.duckdns.org^
@@ -2838,6 +2842,7 @@
 ||vps310.brueggus.de^
 ||vps311.brueggus.de^
 ||vps312.brueggus.de^
+||vps313.brueggus.de^
 ||vps314.brueggus.de^
 ||vps324.brueggus.de^
 ||vps325.brueggus.de^
