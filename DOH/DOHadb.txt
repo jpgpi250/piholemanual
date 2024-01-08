@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2024-01-06 02:45:08 (UTC)
+! Last updated: 2024-01-07 02:47:17 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -579,7 +579,6 @@
 ||dadns.one^
 ||dakulov.synology.me^
 ||dandelionsprout.asuscomm.com^
-||daniel0705.synology.me^
 ||d.apemlegit.my.id^
 ||darkhole.uint64.dev^
 ||darkness.is.my.waifu.cz^
@@ -591,6 +590,7 @@
 ||daverotaquio.net^
 ||ddd2.loukky.com^
 ||ddd.loukky.com^
+||ddns.ddns.bigqy.eu.org^
 ||ddns.ddnsddns.online^
 ||ddns.oii.im^
 ||de.deghy.ir^
@@ -1778,7 +1778,6 @@
 ||gaia.plonknet.com^
 ||galileo.math.unipd.it^
 ||gate.blackrain.sbs^
-||gateway.baltes.info^
 ||gateway.fomichev.cloud^
 ||gb-bir-w-1.nashkan.net^
 ||gb-cov-w-1.nashkan.net^
@@ -1991,7 +1990,6 @@
 ||knight1.de^
 ||kolobok2.duckdns.org^
 ||korzhov.dev^
-||kostek.dyndns.org^
 ||kotys.hr.i81.ru^
 ||kotys.vd.i81.ru^
 ||kotys.vpn.i81.ru^
@@ -2187,7 +2185,6 @@
 ||nl-ams2.doh.sb^
 ||nl-ams.doh.sb^
 ||nl-ams-w-3.nashkan.net^
-||nlb.gbrossi.com.br^
 ||nl-dro-w-f-1.nashkan.net^
 ||nlname.freecdn.one^
 ||noads.api.org.pl^
@@ -2302,7 +2299,6 @@
 ||opera.cloudflare-dns.com^
 ||op.qusite.cn^
 ||ora1.nocnik.org^
-||oracle2.herry.dev^
 ||oraclejp2.chungyu.com^
 ||oradns.anbitech.com^
 ||orau.lz0724.com^
@@ -2325,7 +2321,6 @@
 ||p3.freedns.controld.com^
 ||pad3w.pp.ua^
 ||padermail.net^
-||paimon.sev.monster^
 ||par01.dnscry.pt^
 ||paranoia.mydns.network^
 ||paskam.tk^
@@ -2538,6 +2533,7 @@
 ||service.c698fc0a.cfd^
 ||servicesgov.dev^
 ||se-sto-w-2.nashkan.net^
+||sexybody.myqnapcloud.com^
 ||sg01.dns4me.net^
 ||sg.101818.xyz^
 ||sg-119.cattery.work^
@@ -2842,7 +2838,6 @@
 ||vps310.brueggus.de^
 ||vps311.brueggus.de^
 ||vps312.brueggus.de^
-||vps313.brueggus.de^
 ||vps314.brueggus.de^
 ||vps324.brueggus.de^
 ||vps325.brueggus.de^
