@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2024-01-07 02:47:17 (UTC)
+! Last updated: 2024-01-08 02:54:01 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -579,6 +579,7 @@
 ||dadns.one^
 ||dakulov.synology.me^
 ||dandelionsprout.asuscomm.com^
+||daniel0705.synology.me^
 ||d.apemlegit.my.id^
 ||darkhole.uint64.dev^
 ||darkness.is.my.waifu.cz^
@@ -1778,6 +1779,7 @@
 ||gaia.plonknet.com^
 ||galileo.math.unipd.it^
 ||gate.blackrain.sbs^
+||gateway.baltes.info^
 ||gateway.fomichev.cloud^
 ||gb-bir-w-1.nashkan.net^
 ||gb-cov-w-1.nashkan.net^
@@ -1990,6 +1992,7 @@
 ||knight1.de^
 ||kolobok2.duckdns.org^
 ||korzhov.dev^
+||kostek.dyndns.org^
 ||kotys.hr.i81.ru^
 ||kotys.vd.i81.ru^
 ||kotys.vpn.i81.ru^
@@ -2185,6 +2188,7 @@
 ||nl-ams2.doh.sb^
 ||nl-ams.doh.sb^
 ||nl-ams-w-3.nashkan.net^
+||nlb.gbrossi.com.br^
 ||nl-dro-w-f-1.nashkan.net^
 ||nlname.freecdn.one^
 ||noads.api.org.pl^
@@ -2288,7 +2292,6 @@
 ||onic-doh.lista.my.id^
 ||onlyfriends.info^
 ||o--o.duckdns.org^
-||o.o.ovpn.bond^
 ||opencdn.jomodns.com^
 ||open.dns0.eu^
 ||opennic1.eth-services.de^
@@ -2321,6 +2324,7 @@
 ||p3.freedns.controld.com^
 ||pad3w.pp.ua^
 ||padermail.net^
+||paimon.sev.monster^
 ||par01.dnscry.pt^
 ||paranoia.mydns.network^
 ||paskam.tk^
@@ -2838,6 +2842,7 @@
 ||vps310.brueggus.de^
 ||vps311.brueggus.de^
 ||vps312.brueggus.de^
+||vps313.brueggus.de^
 ||vps314.brueggus.de^
 ||vps324.brueggus.de^
 ||vps325.brueggus.de^
