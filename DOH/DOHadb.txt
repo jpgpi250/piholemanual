@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2024-01-08 02:54:01 (UTC)
+! Last updated: 2024-01-09 04:02:15 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -85,6 +85,7 @@
 ||adblock.weresolve.in^
 ||adb-wan.xaoimoon.fr^
 ||addns1.m-it.ro^
+||addns.clubbase.club^
 ||addns.jpr.space^
 ||adf-114.neta.otrofda.nl^
 ||adfree.usableprivacy.net^
@@ -279,6 +280,7 @@
 ||adguard.yoandev.co^
 ||adguard.yuki2th.xyz^
 ||adguard.zachitect.com^
+||adguard.zrtechcenter.com^
 ||adg.yybyy.wiki^
 ||adh.51st.top^
 ||adh.blogcuahieu.com^
@@ -352,6 +354,7 @@
 ||albertocognetti.com^
 ||alexpollard.synology.me^
 ||ali.dn53.my.id^
+||ali.loveweiqi.cn^
 ||alisa.hr.i81.ru^
 ||alisa.vd.i81.ru^
 ||alisa.vpn.i81.ru^
@@ -428,12 +431,12 @@
 ||axaxa.fun^
 ||ax.ns1net.com^
 ||ayasesayuki.shop^
+||ayzu.fun^
 ||azagramac.duckdns.org^
 ||azjp.mubibai.com^
 ||azure.cloudflare-dns.com^
 ||azure.quydang.name.vn^
 ||baedns.duckdns.org^
-||banana.991123.xyz^
 ||barnabech.fr^
 ||barsipgpt.com^
 ||base.dns.mullvad.net^
@@ -601,6 +604,7 @@
 ||de-fra-w-p-1.nashkan.net^
 ||defsnldns01.sc-hosting.info^
 ||de-fsn-w-2.nashkan.net^
+||de-fsn-w-f-1.nashkan.net^
 ||deic-lgb.anycast.censurfridns.dk^
 ||deic-lgb.anycast.censurfridns.nu^
 ||deic-lgb.anycast.uncensoreddns.dk^
@@ -684,6 +688,7 @@
 ||dns2.afastserver.com^
 ||dns2.alekberg.net^
 ||dns2.bartoszturek.online^
+||dns.2.bsh4.com^
 ||dns2.cantello.media^
 ||dns2.cbio.top^
 ||dns2.developer.li^
@@ -1427,6 +1432,7 @@
 ||doh2.blahdns.com^
 ||doh2.dnswarden.com^
 ||doh2.gslb2.xfinity.com^
+||doh.2kil.com^
 ||doh-2.seby.io^
 ||doh2.znps.xyz^
 ||doh.30x.me^
@@ -1702,7 +1708,6 @@
 ||extended.dns.mullvad.net^
 ||externalmobiel.lekdijk.online^
 ||eyg01.dnscry.pt^
-||f03a0e2fa9f5.sn.mynetname.net^
 ||f1.dns.s3cure.me^
 ||family.5ososea.com^
 ||family.adguard-dns.com^
@@ -1804,6 +1809,7 @@
 ||google-public-dns-a.google.com^
 ||google-public-dns-b.google.com^
 ||gosuntrip.com^
+||gpt.ax6521.cf^
 ||green2.jnraptor.net^
 ||greppie.nl^
 ||groupy.ga^
@@ -1831,7 +1837,6 @@
 ||hermes.cllctv.site^
 ||hermes.kurup.in^
 ||heykan.theworkpc.com^
-||hf5099h2pr6.sn.mynetname.net^
 ||h.gjrick.tw^
 ||hgns.harriganhome.ga^
 ||hitian.me^
@@ -1858,7 +1863,6 @@
 ||home.fc.idv.tw^
 ||homeguard.sleziona.org^
 ||home.jobytan.com^
-||home.keskonet.com^
 ||home.kinopu.com^
 ||home.kompot.space^
 ||home.marcrnt.de^
@@ -1977,6 +1981,7 @@
 ||keeflix.chenu.ch^
 ||keithchung.hopto.org^
 ||keithchunguat.hopto.org^
+||kekv.fun^
 ||kellerbier-home.de^
 ||kennethhuang.com^
 ||keymiagar.ir^
@@ -2018,6 +2023,7 @@
 ||kz-pav-w-p-1.nashkan.net^
 ||lab-1.sellan.fr^
 ||lab.sellan.fr^
+||lajc.sytes.net^
 ||lamdtl.giize.com^
 ||laptop001.greppie.nl^
 ||la.ray0512.win^
@@ -2179,6 +2185,7 @@
 ||next.miao.ninja^
 ||nfti.duckdns.org^
 ||nickcan.xyz^
+||nicknarayong.ddns.net^
 ||nicktruehome.ddns.net^
 ||nilanjan.me^
 ||nilanjan.rocks^
@@ -2254,6 +2261,7 @@
 ||nsown.com^
 ||ns.palvikt.us^
 ||ns.postoverall.xyz^
+||ns.rabot.fi^
 ||ns.ral9005.org^
 ||ns.sblnetwork.co.id^
 ||ns.solutics.ec^
@@ -2292,6 +2300,7 @@
 ||onic-doh.lista.my.id^
 ||onlyfriends.info^
 ||o--o.duckdns.org^
+||o.o.ovpn.bond^
 ||opencdn.jomodns.com^
 ||open.dns0.eu^
 ||opennic1.eth-services.de^
@@ -2302,6 +2311,7 @@
 ||opera.cloudflare-dns.com^
 ||op.qusite.cn^
 ||ora1.nocnik.org^
+||oracle2.herry.dev^
 ||oraclejp2.chungyu.com^
 ||oradns.anbitech.com^
 ||orau.lz0724.com^
@@ -2350,7 +2360,6 @@
 ||pi1.node15.com^
 ||pi4.jnraptor.net^
 ||pi.daryllswer.net^
-||piekacz.pl^
 ||pihole1.hoerli.net^
 ||pihole2.hoerli.net^
 ||pihole3.hoerli.net^
@@ -2427,6 +2436,7 @@
 ||res-acst1.absolight.net^
 ||res-acst2.absolight.net^
 ||res-acst3.absolight.net^
+||res-las-1.jupitrdns.com^
 ||resolve2.srv-pro.de^
 ||resolver1.absolight.net^
 ||resolver1.dyndnsinternetguide.com^
@@ -2442,6 +2452,7 @@
 ||resolver4.dns.openinternet.io^
 ||resolver.as203038.net^
 ||resolver.cloudflare-eth.com^
+||resolver.dns.eban.eu.org^
 ||resolver-eu.haringstad.com^
 ||resolver-eu.lelux.fi^
 ||resolver.frank-ruan.com^
@@ -2494,6 +2505,7 @@
 ||sbdns.co.in^
 ||sby-doh.limotelu.org^
 ||sbydoh.limotelu.org^
+||schiopuoffice.duckdns.org^
 ||scottdylewski.com^
 ||sdfasluqoiwuezcvcv.tech^
 ||sdns22.gkonuralp.com^
@@ -2921,6 +2933,7 @@
 ||www.adguard-server.cf^
 ||www.andrewnw.xyz^
 ||www.aridia.ru^
+||www.ayzu.fun^
 ||www.barnabech.fr^
 ||www.beautifullife.eu.org^
 ||www.beautifulthings.eu.org^
