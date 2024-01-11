@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2024-01-09 04:02:15 (UTC)
+! Last updated: 2024-01-10 03:04:06 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -207,6 +207,7 @@
 ||adguard.kantinyoyok.xyz^
 ||adguard-kartoffel.zernico.de^
 ||adguard.kiboko.it^
+||adguard.k-likhachev.ru^
 ||adguard.kngnet.de^
 ||adguard.konikoni428.com^
 ||adguard.korks.tk^
@@ -221,6 +222,7 @@
 ||adguard.marto.si^
 ||adguard.mattiafenzi.uk^
 ||adguard.meddy94.de^
+||adguard.minetown.eu.org^
 ||adguard.mokocup.cf^
 ||adguard.mokocup.dev^
 ||adguard.mrmartian.co^
@@ -329,6 +331,7 @@
 ||ag.ff0x.ca^
 ||agh2lj.duckdns.org^
 ||agh.fltn.us^
+||agh.josephyap.me^
 ||agh.kul-lippek.de^
 ||agh.odvpn.ru^
 ||ag.hostme.co.il^
@@ -437,6 +440,7 @@
 ||azure.cloudflare-dns.com^
 ||azure.quydang.name.vn^
 ||baedns.duckdns.org^
+||banana.991123.xyz^
 ||barnabech.fr^
 ||barsipgpt.com^
 ||base.dns.mullvad.net^
@@ -506,6 +510,7 @@
 ||carioka.dyndns.org^
 ||catdns.org^
 ||cattery2.noddos.top^
+||caycewebsolutions.com^
 ||ca-yyc.doh.sb^
 ||ca-yyz.doh.sb^
 ||cc2.v8er.net^
@@ -712,6 +717,7 @@
 ||dns2.saferbfc.org^
 ||dns2.sarak.as^
 ||dns2.sarakas.net^
+||dns2-secure.wifire.it^
 ||dns2.srv-home.fr^
 ||dns2.steering.nextdns.io^
 ||dns.2t9.de^
@@ -836,6 +842,7 @@
 ||dns.chaosen3.co.uk^
 ||dns.charraud.eu^
 ||dns.chenu.ch^
+||dns.chillstice.com^
 ||dns.chocolatezz.xyz^
 ||dns.chriscsc.me^
 ||dns.chromeina.top^
@@ -898,6 +905,7 @@
 ||dns.doso.es^
 ||dns-dot.dnsforfamily.com^
 ||dns.doubleangels.com^
+||dns.downloadacar.today^
 ||dns.dreamworker.idv.tw^
 ||dns.drivearasaka.online^
 ||dns.druta.me^
@@ -1033,6 +1041,7 @@
 ||dns.ithg.ru^
 ||dns.itsec.crolla.net^
 ||dns.itwht.com^
+||dns.itya.xyz^
 ||dns.jcdn.site^
 ||dns.jean.im^
 ||dns.jens-server.de^
@@ -1081,6 +1090,7 @@
 ||dns.lilith.cloud^
 ||dns.linkr.ninja^
 ||dns.lista.my.id^
+||dns.lithvik.com^
 ||dns.loony-tech.de^
 ||dns.lostvpn.ru^
 ||dnslow.me^
@@ -1274,6 +1284,7 @@
 ||dns.sledge.cc^
 ||dns.slinkyman.net^
 ||dnss.lol^
+||dns.smirnov.tk^
 ||dns.smnetwork.live^
 ||dns.solonodes.net^
 ||dns.sootoon.xyz^
@@ -1422,6 +1433,7 @@
 ||doh-01.spectrum.com^
 ||doh-02.spectrum.com^
 ||doh-03.spectrum.com^
+||doh.167g.com^
 ||doh1.b-cdn.net^
 ||doh1.blahdns.com^
 ||doh1.dnswarden.com^
@@ -1708,6 +1720,7 @@
 ||extended.dns.mullvad.net^
 ||externalmobiel.lekdijk.online^
 ||eyg01.dnscry.pt^
+||f03a0e2fa9f5.sn.mynetname.net^
 ||f1.dns.s3cure.me^
 ||family.5ososea.com^
 ||family.adguard-dns.com^
@@ -1818,6 +1831,7 @@
 ||guardhome.fatihkuyuk.com.tr^
 ||guard-linodefree.tk^
 ||guard.magic-pics.tk^
+||guard.pp.ua^
 ||guard.sntrk.ru^
 ||guard.thefather.cloud^
 ||guard.yps.tw^
@@ -2098,7 +2112,7 @@
 ||marimuttz.asuscomm.com^
 ||markolll.ru^
 ||marzban.severvpn.ru^
-||mask-api.fe.apple-dns.net^
+||mask-api.fe2.apple-dns.net^
 ||mask-api.icloud.com^
 ||mask.apple-dns.net^
 ||mask-h2.icloud.com^
@@ -2360,6 +2374,7 @@
 ||pi1.node15.com^
 ||pi4.jnraptor.net^
 ||pi.daryllswer.net^
+||piekacz.pl^
 ||pihole1.hoerli.net^
 ||pihole2.hoerli.net^
 ||pihole3.hoerli.net^
@@ -2367,6 +2382,7 @@
 ||pihole.aws.ketan.dev^
 ||pihole.datamatter.co.za^
 ||pihole.gcp.pathofgrace.com^
+||pioko.net^
 ||pitchforkwaydns.duckdns.org^
 ||pixie.porkbun.com^
 ||plichaa12.ddns.net^
@@ -2409,7 +2425,6 @@
 ||pwjbrhie.chicagocomputers.com.ar^
 ||q3i6k7j3.stackpathcdn.com^
 ||qaz.tw^
-||qbak.no-ip.eu^
 ||qlf-doh.inria.fr^
 ||qual.cuprum.ru^
 ||quantum-age.cn^
@@ -2437,6 +2452,7 @@
 ||res-acst2.absolight.net^
 ||res-acst3.absolight.net^
 ||res-las-1.jupitrdns.com^
+||res-lux-2.jupitrdns.com^
 ||resolve2.srv-pro.de^
 ||resolver1.absolight.net^
 ||resolver1.dyndnsinternetguide.com^
@@ -2549,7 +2565,6 @@
 ||service.c698fc0a.cfd^
 ||servicesgov.dev^
 ||se-sto-w-2.nashkan.net^
-||sexybody.myqnapcloud.com^
 ||sg01.dns4me.net^
 ||sg.101818.xyz^
 ||sg-119.cattery.work^
@@ -2560,6 +2575,7 @@
 ||sg-dns1.bancuh.com^
 ||sg-dns2.bancuh.com^
 ||sg.gridns.xyz^
+||sg.jnraptor.com^
 ||sgpcloud.duckdns.org^
 ||sgs02.just-a-web.com^
 ||sgs03.just-a-web.com^
@@ -2590,6 +2606,7 @@
 ||sk-bra-w-1.nashkan.net^
 ||skww726.cf^
 ||sky.rethinkdns.com^
+||skyroom.online.bugflaed2.shahram-m8.com^
 ||skyroom.online.cdn40.shahrammedia.com^
 ||skyroom.online.cdn41.shahram-m8.com^
 ||slb.japaneast.cloudapp.azure.com^
@@ -2632,6 +2649,7 @@
 ||surve.dehb.ru^
 ||sv3.minhduc.pw^
 ||svg33.eu^
+||sweden.capy.su^
 ||sweethome.in.eu.org^
 ||switch.ch^
 ||syd01.dnscry.pt^
@@ -2802,6 +2820,7 @@
 ||vpn.g-s-a.me^
 ||vpnhellings.nl^
 ||vpn.i81.ru^
+||vpn.k-likhachev.ru^
 ||vpn.midjrney.ru^
 ||vpn.nnip.org^
 ||vpn.sakhwow.ru^
@@ -2854,7 +2873,6 @@
 ||vps310.brueggus.de^
 ||vps311.brueggus.de^
 ||vps312.brueggus.de^
-||vps313.brueggus.de^
 ||vps314.brueggus.de^
 ||vps324.brueggus.de^
 ||vps325.brueggus.de^
@@ -2978,6 +2996,7 @@
 ||www.pdnssrvagh.online^
 ||www.personal-dns.site^
 ||www.pi1plus.duckdns.org^
+||www.pioko.net^
 ||www.pukanuragan.ru^
 ||www.qwenty.ru^
 ||www.richardo.net^
