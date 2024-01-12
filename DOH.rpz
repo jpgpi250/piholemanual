@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2401110244 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2401120238 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2024-01-11 02:44:23 (UTC)
+; Last updated: 2024-01-12 02:38:54 (UTC)
 ;
 ; See https://jpgpi250.github.io/piholemanual/doc/Unbound%20response%20policy%20zones.pdf
 ; Report issues at https://github.com/jpgpi250/piholemanual/issues
@@ -20,6 +20,7 @@ $TTL 30
 1111.cloudflare-dns.com CNAME .
 1.11i.eu CNAME .
 15101844.xyz CNAME .
+180.0rz.space CNAME .
 1and1-dns.de CNAME .
 1a.ns.ozer.im CNAME .
 1b.ns.ozer.im CNAME .
@@ -384,7 +385,6 @@ anixlab.com CNAME .
 an.loliconapp.top CNAME .
 a.ns.dnslify.com CNAME .
 ant.dns.qwer.pw CNAME .
-antidns.s.tuna.tsinghua.edu.cn CNAME .
 antivirus.bebasid.com CNAME .
 antonyfrompnz.space CNAME .
 anycast.censurfridns.dk CNAME .
@@ -589,7 +589,6 @@ d.adguard-dns.com CNAME .
 dadns.one CNAME .
 dakulov.synology.me CNAME .
 dandelionsprout.asuscomm.com CNAME .
-daniel0705.synology.me CNAME .
 d.apemlegit.my.id CNAME .
 darkhole.uint64.dev CNAME .
 darkness.is.my.waifu.cz CNAME .
@@ -2211,7 +2210,6 @@ nl.adg.ghostzone.wtf CNAME .
 nl-ams2.doh.sb CNAME .
 nl-ams.doh.sb CNAME .
 nl-ams-w-3.nashkan.net CNAME .
-nlb.gbrossi.com.br CNAME .
 nl-dro-w-f-1.nashkan.net CNAME .
 nlname.freecdn.one CNAME .
 noads.api.org.pl CNAME .
@@ -2350,7 +2348,6 @@ p2.freedns.controld.com CNAME .
 p3.freedns.controld.com CNAME .
 pad3w.pp.ua CNAME .
 padermail.net CNAME .
-paimon.sev.monster CNAME .
 par01.dnscry.pt CNAME .
 paranoia.mydns.network CNAME .
 paskam.tk CNAME .
@@ -2394,7 +2391,6 @@ pl-waw-w-1.nashkan.net CNAME .
 pl-waw-w-2.nashkan.net CNAME .
 pope.cnblw.me CNAME .
 portal.iddqd.uk CNAME .
-postalsv1.mkid.top CNAME .
 pqh.ddns.net CNAME .
 premiumtier-network.instadart.net CNAME .
 preview.dnsteam.globuscs.info CNAME .
@@ -2445,7 +2441,6 @@ raffoz-pve.gotdns.ch CNAME .
 rafi.dynns.com CNAME .
 raspberrydoc.duckdns.org CNAME .
 rayneau.fr CNAME .
-rdjcloud.duckdns.org CNAME .
 rdjdns.ajraspi.xyz CNAME .
 rdns.faelix.net CNAME .
 rdu01.dnscry.pt CNAME .
@@ -2623,7 +2618,6 @@ snoke.meganerd.nl CNAME .
 socolov.home.ro CNAME .
 sof01.dnscry.pt CNAME .
 solution.w10.life CNAME .
-sorannbb.buzz CNAME .
 sp1wpdybsw1twq1d.myfritz.net CNAME .
 spacedns.org CNAME .
 sradg2.eastus.cloudapp.azure.com CNAME .
@@ -2877,6 +2871,7 @@ vps309.brueggus.de CNAME .
 vps310.brueggus.de CNAME .
 vps311.brueggus.de CNAME .
 vps312.brueggus.de CNAME .
+vps313.brueggus.de CNAME .
 vps314.brueggus.de CNAME .
 vps324.brueggus.de CNAME .
 vps325.brueggus.de CNAME .
