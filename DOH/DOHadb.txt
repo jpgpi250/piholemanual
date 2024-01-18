@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2024-01-16 03:07:39 (UTC)
+! Last updated: 2024-01-17 02:51:18 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -380,6 +380,7 @@
 ||an.loliconapp.top^
 ||a.ns.dnslify.com^
 ||ant.dns.qwer.pw^
+||antidns.s.tuna.tsinghua.edu.cn^
 ||antivirus.bebasid.com^
 ||antonyfrompnz.space^
 ||anycast.censurfridns.dk^
@@ -423,7 +424,6 @@
 ||au-syd-w-3.nashkan.net^
 ||au-syd-w-f-1.nashkan.net^
 ||au.teradns.org^
-||auto-cn-hk-8000.go-behind.one^
 ||aviemore.dns.walshnet.co.uk^
 ||a.vvvglass.com^
 ||awan.ftp.sh^
@@ -436,7 +436,6 @@
 ||azure.cloudflare-dns.com^
 ||azure.quydang.name.vn^
 ||baedns.duckdns.org^
-||banana.991123.xyz^
 ||barnabech.fr^
 ||barsipgpt.com^
 ||base.dns.mullvad.net^
@@ -550,7 +549,6 @@
 ||cloud.tezoi.com^
 ||cluster-0.gac.edu^
 ||cluster-1.gac.edu^
-||cname-for-doh.go-behind.one^
 ||cn.turngreatwall.com^
 ||coe01.dnscry.pt^
 ||common.dot.dns.yandex.net^
@@ -581,7 +579,6 @@
 ||dadns.one^
 ||dakulov.synology.me^
 ||dandelionsprout.asuscomm.com^
-||daniel0705.synology.me^
 ||d.apemlegit.my.id^
 ||darkhole.uint64.dev^
 ||darkness.is.my.waifu.cz^
@@ -1220,6 +1217,7 @@
 ||dns.rayanbab.com^
 ||dns.reckoningslug.name^
 ||dns.redroot.me^
+||dns.relay.ovpn.bond^
 ||dns.repressoh.it^
 ||dns.req1.fr^
 ||dns.resoft.org^
@@ -1706,7 +1704,6 @@
 ||extended.dns.mullvad.net^
 ||externalmobiel.lekdijk.online^
 ||eyg01.dnscry.pt^
-||f03a0e2fa9f5.sn.mynetname.net^
 ||f1.dns.s3cure.me^
 ||family.5ososea.com^
 ||family.adguard-dns.com^
@@ -1742,6 +1739,7 @@
 ||filya.vd.i81.ru^
 ||filya.vpn.i81.ru^
 ||findmethedns.info^
+||firefenix.ddns.net^
 ||firefox.dns.nextdns.io^
 ||fjr01.dnscry.pt^
 ||flat.loisy.it^
@@ -1810,7 +1808,6 @@
 ||green2.jnraptor.net^
 ||greppie.nl^
 ||groupy.ga^
-||gtm-sg-5r538sziu04.go-behind.one^
 ||guard.19kom.de^
 ||guardhome.fatihkuyuk.com.tr^
 ||guard-linodefree.tk^
@@ -1953,7 +1950,6 @@
 ||jpdns.cola16.app^
 ||jp.dns.ikataruto.com^
 ||jp.gridns.xyz^
-||jpjb.net^
 ||jp.kano.sh^
 ||jp-kix.doh.sb^
 ||jp-nrt.doh.sb^
@@ -2303,7 +2299,6 @@
 ||opera.cloudflare-dns.com^
 ||op.qusite.cn^
 ||ora1.nocnik.org^
-||oracle2.herry.dev^
 ||oraclejp2.chungyu.com^
 ||oradns.anbitech.com^
 ||orau.lz0724.com^
@@ -2354,7 +2349,6 @@
 ||pi1.node15.com^
 ||pi4.jnraptor.net^
 ||pi.daryllswer.net^
-||piekacz.pl^
 ||pihole1.hoerli.net^
 ||pihole2.hoerli.net^
 ||pihole3.hoerli.net^
@@ -2423,6 +2417,7 @@
 ||rafi.dynns.com^
 ||raspberrydoc.duckdns.org^
 ||rayneau.fr^
+||rdjcloud.duckdns.org^
 ||rdjdns.ajraspi.xyz^
 ||rdns.faelix.net^
 ||rdu01.dnscry.pt^
@@ -2548,7 +2543,6 @@
 ||service.c698fc0a.cfd^
 ||servicesgov.dev^
 ||se-sto-w-2.nashkan.net^
-||sexybody.myqnapcloud.com^
 ||sg01.dns4me.net^
 ||sg.101818.xyz^
 ||sg-119.cattery.work^
@@ -2673,7 +2667,6 @@
 ||tk31z.com^
 ||tll01.dnscry.pt^
 ||tls-dns-u.odvr.dns-oarc.net^
-||tls.doh.relay.ovpn.bond^
 ||tls.jackyhou.idv.tw^
 ||tls.vietguards.cloud^
 ||tlz.asia^
@@ -2730,7 +2723,6 @@
 ||us02.dns4me.net^
 ||us1.blissdns.net^
 ||us1.dns.lavate.ch^
-||us5.wan.hc7z.com^
 ||us-ash-w-f-1.nashkan.net^
 ||us-atl-w-2.nashkan.net^
 ||us-chi-w-3.nashkan.net^
@@ -2857,7 +2849,6 @@
 ||vps310.brueggus.de^
 ||vps311.brueggus.de^
 ||vps312.brueggus.de^
-||vps313.brueggus.de^
 ||vps314.brueggus.de^
 ||vps324.brueggus.de^
 ||vps325.brueggus.de^
