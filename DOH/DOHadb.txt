@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2024-01-17 02:51:18 (UTC)
+! Last updated: 2024-01-18 03:12:11 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -334,6 +334,7 @@
 ||agh.odvpn.ru^
 ||ag.hostme.co.il^
 ||agh.printk.info^
+||agh.srv.tenete.net^
 ||agh.xinfeng16m.top^
 ||agh-yz.russel053.com^
 ||ag.linux.repair^
@@ -362,6 +363,7 @@
 ||allain.com.br^
 ||all.dns.mullvad.net^
 ||a.lolg.ru^
+||alpakalpha.duckdns.org^
 ||amd1.sjp.loukky.com^
 ||amigo.hr.i81.ru^
 ||amigo.px.i81.ru^
@@ -424,6 +426,7 @@
 ||au-syd-w-3.nashkan.net^
 ||au-syd-w-f-1.nashkan.net^
 ||au.teradns.org^
+||auto-cn-hk-8000.go-behind.one^
 ||aviemore.dns.walshnet.co.uk^
 ||a.vvvglass.com^
 ||awan.ftp.sh^
@@ -468,7 +471,6 @@
 ||blast.broadband.ink^
 ||bld.sys-adm.in^
 ||blitz.ahadns.com^
-||blitzd.gotdns.ch^
 ||blitz-setup.ahadns.com^
 ||block.abstergo.it^
 ||block.coconut.id^
@@ -480,6 +482,7 @@
 ||b.ns.dnslify.com^
 ||bobstrecansky.com^
 ||bom01.dnscry.pt^
+||borisov.page^
 ||bovat.ddns.net^
 ||bravedns.com^
 ||br.servers.legat.ml^
@@ -517,6 +520,7 @@
 ||ch01adguardho.me^
 ||chandr1000.net^
 ||changesmart2023.top^
+||changesmart2024.top^
 ||chanhome.xyz^
 ||chaos.altendorfme.com^
 ||chaos-system.de^
@@ -549,6 +553,7 @@
 ||cloud.tezoi.com^
 ||cluster-0.gac.edu^
 ||cluster-1.gac.edu^
+||cname-for-doh.go-behind.one^
 ||cn.turngreatwall.com^
 ||coe01.dnscry.pt^
 ||common.dot.dns.yandex.net^
@@ -686,6 +691,7 @@
 ||dns.2.bsh4.com^
 ||dns2.cantello.media^
 ||dns2.cbio.top^
+||dns2.cybrespace.net^
 ||dns2.developer.li^
 ||dns2.digitale-gesellschaft.ch^
 ||dns2.dnscrypt.ca^
@@ -800,7 +806,6 @@
 ||dns.benpro.fr^
 ||dns.beta.gandi.net^
 ||dns.bezainf.tk^
-||dns.bir.ru^
 ||dns.bitdefender.net^
 ||dns.bitgeek.in^
 ||dns.blaze-sk.ru^
@@ -861,7 +866,6 @@
 ||dns.d94.xyz^
 ||dns.d96.info^
 ||dns.daemon.za.net^
-||dns.darktraffic.cloud^
 ||dns.david888.com^
 ||dns.daw.dev^
 ||dns.decky.eu^
@@ -920,6 +924,7 @@
 ||dns.eu-frankfurt-1.oci.oraclecloud.com^
 ||dns.eu-frankfurt-1.oci.oraclecloud.net^
 ||dns.eu-frankfurt-1.oraclecloud.com^
+||dns.eumera.de^
 ||dns.evilgame.club^
 ||dns.exitstat.us^
 ||dns.exonip.de^
@@ -1211,7 +1216,6 @@
 ||dns.qkc.fr^
 ||dns.quad9.net^
 ||dns.quickline.ch^
-||dns.radityaharya.com^
 ||dns.rafn.is^
 ||dns.ramansarda.com^
 ||dns.rayanbab.com^
@@ -1251,6 +1255,7 @@
 ||dns.sellan.fr^
 ||dnsse-noads.alekberg.net^
 ||dnssenoads.alekberg.net^
+||dns.serdcebolit.ru^
 ||dnsserver.mailchan.eu^
 ||dns.sev.monster^
 ||dns.shecan.ir^
@@ -1439,6 +1444,7 @@
 ||doh.42l.fr^
 ||doh.aaaab3n.moe^
 ||doh.abmb.win^
+||dohal.167g.com.w.cdngslb.com^
 ||doh.almir1904.eu^
 ||doh.apad.pro^
 ||doh.apad.pro.cdn.cloudflare.net^
@@ -1538,7 +1544,6 @@
 ||doh.meetz.pw^
 ||doh.micronets.in^
 ||doh.mmmalia.com^
-||doh.mn-bonn.de^
 ||doh.morizt.id^
 ||doh.mullvad.net^
 ||doh.neowutran.ovh^
@@ -1704,6 +1709,7 @@
 ||extended.dns.mullvad.net^
 ||externalmobiel.lekdijk.online^
 ||eyg01.dnscry.pt^
+||f03a0e2fa9f5.sn.mynetname.net^
 ||f1.dns.s3cure.me^
 ||family.5ososea.com^
 ||family.adguard-dns.com^
@@ -1804,10 +1810,10 @@
 ||google-public-dns-a.google.com^
 ||google-public-dns-b.google.com^
 ||gosuntrip.com^
-||gpt.ax6521.cf^
 ||green2.jnraptor.net^
 ||greppie.nl^
 ||groupy.ga^
+||gtm-sg-5r538sziu04.go-behind.one^
 ||guard.19kom.de^
 ||guardhome.fatihkuyuk.com.tr^
 ||guard-linodefree.tk^
@@ -1913,6 +1919,7 @@
 ||internetsehat.bebasid.com^
 ||intertop.link^
 ||iofixdns2.duckdns.org^
+||iot-dns.com^
 ||i.passcloud.xyz^
 ||ipoac.nl^
 ||irgrdns.nullapp.xyz^
@@ -1930,6 +1937,8 @@
 ||jambi.undo.it^
 ||jarjar.meganerd.nl^
 ||jcdns.fun^
+||jefe.space^
+||jianyi.studio^
 ||jit.ddns.net^
 ||jkt01.dnscry.pt^
 ||jmarston.duckdns.org^
@@ -1985,7 +1994,6 @@
 ||kids.vietdns.vn^
 ||kilabit.info^
 ||kintoun.alves.cc^
-||kirov.v6.rocks^
 ||kiv01.dnscry.pt^
 ||kk.sshub.win^
 ||knight1.de^
@@ -2052,6 +2060,7 @@
 ||lmz.meudns.minhacasainteligente.cf^
 ||local.sufly.top^
 ||locaweb.moleniuk.com^
+||lomoff.spb.ru^
 ||lon01.dnscry.pt^
 ||lon-dns.bitdefender.net^
 ||lorc17-dns.komeho.info^
@@ -2120,6 +2129,7 @@
 ||mimir.netwerk.io^
 ||minilla.store^
 ||mkvvpssrv12.freemyip.com^
+||m.myspace.sbs^
 ||mo0on15.com^
 ||moaz-adguard.duckdns.org^
 ||moonbd.top^
@@ -2186,7 +2196,6 @@
 ||nl-ams2.doh.sb^
 ||nl-ams.doh.sb^
 ||nl-ams-w-3.nashkan.net^
-||nlb.gbrossi.com.br^
 ||nl-dro-w-f-1.nashkan.net^
 ||nlname.freecdn.one^
 ||noads.api.org.pl^
@@ -2254,7 +2263,6 @@
 ||ns.postoverall.xyz^
 ||ns.rabot.fi^
 ||ns.ral9005.org^
-||ns.sblnetwork.co.id^
 ||ns.solutics.ec^
 ||ns.try-dns.online^
 ||ntu.ssooss.win^
@@ -2297,7 +2305,6 @@
 ||opennic.tenta.io^
 ||open-resolver1.unima.ac.id^
 ||opera.cloudflare-dns.com^
-||op.qusite.cn^
 ||ora1.nocnik.org^
 ||oraclejp2.chungyu.com^
 ||oradns.anbitech.com^
@@ -2349,6 +2356,7 @@
 ||pi1.node15.com^
 ||pi4.jnraptor.net^
 ||pi.daryllswer.net^
+||piekacz.pl^
 ||pihole1.hoerli.net^
 ||pihole2.hoerli.net^
 ||pihole3.hoerli.net^
@@ -2432,6 +2440,7 @@
 ||resolver1.absolight.net^
 ||resolver1.dyndnsinternetguide.com^
 ||resolver1-fs.opendns.com^
+||resolver1.hosting-cloud.net^
 ||resolver1.ipv6-sandbox.opendns.com^
 ||resolver1.opendns.com^
 ||resolver2.absolight.net^
@@ -2543,6 +2552,7 @@
 ||service.c698fc0a.cfd^
 ||servicesgov.dev^
 ||se-sto-w-2.nashkan.net^
+||sexybody.myqnapcloud.com^
 ||sg01.dns4me.net^
 ||sg.101818.xyz^
 ||sg-119.cattery.work^
@@ -2610,6 +2620,7 @@
 ||ssh-storage.ru^
 ||ssydb.gq^
 ||staging.dnsteam.globuscs.info^
+||staniranon.duckdns.org^
 ||static.captnemo.in^
 ||statistics.larryvpn.com^
 ||staycute.xyz^
@@ -2622,7 +2633,6 @@
 ||sunnygyl.com^
 ||surfbelow.com^
 ||surt.ml^
-||surt.ovh^
 ||surve.dehb.ru^
 ||sv3.minhduc.pw^
 ||svg33.eu^
@@ -2668,6 +2678,7 @@
 ||tll01.dnscry.pt^
 ||tls-dns-u.odvr.dns-oarc.net^
 ||tls.jackyhou.idv.tw^
+||tlsl.windyvale.net^
 ||tls.vietguards.cloud^
 ||tlz.asia^
 ||toaster.lol^
@@ -2723,6 +2734,7 @@
 ||us02.dns4me.net^
 ||us1.blissdns.net^
 ||us1.dns.lavate.ch^
+||us5.wan.hc7z.com^
 ||us-ash-w-f-1.nashkan.net^
 ||us-atl-w-2.nashkan.net^
 ||us-chi-w-3.nashkan.net^
@@ -2849,6 +2861,7 @@
 ||vps310.brueggus.de^
 ||vps311.brueggus.de^
 ||vps312.brueggus.de^
+||vps313.brueggus.de^
 ||vps314.brueggus.de^
 ||vps324.brueggus.de^
 ||vps325.brueggus.de^
@@ -2926,7 +2939,6 @@
 ||www.adguard.marto.si^
 ||www.adguard-server.cf^
 ||www.andrewnw.xyz^
-||www.aridia.ru^
 ||www.ayzu.fun^
 ||www.barnabech.fr^
 ||www.beautifullife.eu.org^
