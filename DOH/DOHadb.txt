@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2024-01-21 02:48:46 (UTC)
+! Last updated: 2024-01-22 03:23:40 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -447,6 +447,7 @@
 ||azure.cloudflare-dns.com^
 ||azure.quydang.name.vn^
 ||baedns.duckdns.org^
+||banana.991123.xyz^
 ||barnabech.fr^
 ||barsipgpt.com^
 ||base.dns.mullvad.net^
@@ -497,6 +498,7 @@
 ||b.safe.ns.dnslify.com^
 ||btb.dog^
 ||buc-m2.illmods.com^
+||bughome.duckdns.org^
 ||bunch-o-nerds.com^
 ||bushido.node.rferee.dev^
 ||bushmancastle.duckdns.org^
@@ -628,6 +630,7 @@
 ||destakmateriais.com.br^
 ||de.teradns.org^
 ||dev.camelstrike.xyz^
+||dev.gonnadive.com^
 ||dfw01.dnscry.pt^
 ||d.gametechnet.com^
 ||dgca.myds.me^
@@ -690,6 +693,7 @@
 ||dns1.techeasy.org^
 ||dns-1.trust2it.ch^
 ||dns.209.wf^
+||dns2.263030.xyz^
 ||dns.233py.com^
 ||dns.233py.com.cdn.cloudflare.net^
 ||dns.23-4.cn^
@@ -799,6 +803,7 @@
 ||dns.audet.cloud^
 ||dns.auffray.org^
 ||dns.axiomos.xyz^
+||dns.ayarzagoitia.com^
 ||dns.aykanbacaksoy.de^
 ||dns.azcom.dev^
 ||dns.azsopro.net^
@@ -967,6 +972,7 @@
 ||dns.frguthrie.app^
 ||dns.froth.zone^
 ||dns-fr-psv1.cloudsides.com^
+||dns.fsociety.club^
 ||dns.fullaccesstointernet.jp.eu.org^
 ||dns.furrydns.de^
 ||dns.futuredns.me^
@@ -1042,6 +1048,7 @@
 ||dns.itdept.pro^
 ||dns.iteo.pw^
 ||dns.ithg.ru^
+||dns.itnetpass.ru^
 ||dns.itsec.crolla.net^
 ||dns.itwht.com^
 ||dns.itya.xyz^
@@ -1237,6 +1244,7 @@
 ||dns.rafn.is^
 ||dns.ramansarda.com^
 ||dns.rayanbab.com^
+||dns.rbs.my.id^
 ||dns.reckoningslug.name^
 ||dns.redroot.me^
 ||dns.repressoh.it^
@@ -1340,7 +1348,6 @@
 ||dns-tls.bitwiseshift.net^
 ||dns.tls-data.de^
 ||dnstls.mobik.com^
-||dnstls.neutopia.org^
 ||dns.tolink.group^
 ||dns.tomitomix.net^
 ||dns.tooizi.eu^
@@ -1421,6 +1428,7 @@
 ||dns.xie.ke^
 ||dns.xinwujiang.cn^
 ||dns.xivilay.dev^
+||dns.xuluo.org^
 ||dns.xydustc.me^
 ||dns.yameenassotally.com^
 ||dns.yandex.ru^
@@ -1666,6 +1674,7 @@
 ||dot.occ.top^
 ||dot.pl.ahadns.net^
 ||dot.pub^
+||dot.qooqle.date^
 ||dot.quickline.ch^
 ||dot.seby.io^
 ||dot.securedns.eu^
@@ -1696,6 +1705,7 @@
 ||ea-dns.rubyfish.cn^
 ||eamonn.dns.walshnet.co.uk^
 ||easyhandshake.com^
+||ebpmc.tplinkdns.com^
 ||eccloud.de^
 ||echoe1yidzu4ioo5.myfritz.net^
 ||ecs-auto.fanscloud.net^
@@ -1729,7 +1739,9 @@
 ||extended.dns.mullvad.net^
 ||externalmobiel.lekdijk.online^
 ||eyg01.dnscry.pt^
+||f03a0e2fa9f5.sn.mynetname.net^
 ||f1.dns.s3cure.me^
+||f2-dns.asuzac.com.vn^
 ||family.5ososea.com^
 ||family.adguard-dns.com^
 ||family.canadianshield.cira.ca^
@@ -1747,6 +1759,7 @@
 ||fanscloud.net^
 ||faradns.net^
 ||faralai.es^
+||fatcat22.eastus.cloudapp.azure.com^
 ||fb.i81.ru^
 ||fdns1.dismail.de^
 ||fdns2.dismail.de^
@@ -1765,6 +1778,7 @@
 ||filya.vd.i81.ru^
 ||filya.vpn.i81.ru^
 ||findmethedns.info^
+||firefenix.ddns.net^
 ||firefox.dns.nextdns.io^
 ||fjr01.dnscry.pt^
 ||flat.loisy.it^
@@ -1835,6 +1849,7 @@
 ||groupy.ga^
 ||gtm-sg-5r538sziu04.go-behind.one^
 ||guard.19kom.de^
+||guard.beliefanx.me^
 ||guardhome.fatihkuyuk.com.tr^
 ||guard-linodefree.tk^
 ||guard.magic-pics.tk^
@@ -1960,7 +1975,6 @@
 ||jarjar.meganerd.nl^
 ||jcdns.fun^
 ||jefe.space^
-||jianyi.studio^
 ||jit.ddns.net^
 ||jkt01.dnscry.pt^
 ||jmarston.duckdns.org^
@@ -1995,6 +2009,7 @@
 ||jurre-home.duckdns.org^
 ||justfor.myasustor.com^
 ||justhost.bedro.cloud^
+||k03.dedyn.io^
 ||kaandikec.com^
 ||kaitain.restena.lu^
 ||kakoito.site^
@@ -2081,6 +2096,7 @@
 ||lion.dns.qwer.pw^
 ||lion.yazilimatolye.com^
 ||live.jjlizz.com^
+||ljk.kkizz.cn^
 ||llk01.dnscry.pt^
 ||lmz.meudns.minhacasainteligente.cf^
 ||local.sufly.top^
@@ -2201,7 +2217,7 @@
 ||ndns.233py.com^
 ||neatdns.ustclug.org^
 ||nebula.tru.io^
-||net.0ms.dev^
+||n.esf.bio^
 ||netcat.one^
 ||netcup.mismat.ch^
 ||net.tt6.net^
@@ -2305,7 +2321,6 @@
 ||nyx.webteufel-it.solutions^
 ||nz01.dns4me.net^
 ||o1.lt^
-||oci.tacomafia.net^
 ||ocp.cincloud.top^
 ||oculta.me^
 ||odoh.cloudflare-dns.com^
@@ -2326,6 +2341,7 @@
 ||onic-doh.lista.my.id^
 ||onlyfriends.info^
 ||o--o.duckdns.org^
+||o.o.ovpn.bond^
 ||opencdn.jomodns.com^
 ||open.dns0.eu^
 ||opennic1.eth-services.de^
@@ -2336,7 +2352,6 @@
 ||opera.cloudflare-dns.com^
 ||or2o.tk^
 ||ora1.nocnik.org^
-||oracle2.herry.dev^
 ||oraclejp2.chungyu.com^
 ||oradns.anbitech.com^
 ||orau.lz0724.com^
@@ -2369,7 +2384,6 @@
 ||pccoach.ddns.net^
 ||pcd96.duckdns.org^
 ||pcgo.fun^
-||pcjco.ovh^
 ||pcornet.freeboxos.fr^
 ||pdns.elecura.net^
 ||pdns.faelix.net^
@@ -2428,6 +2442,7 @@
 ||proxy.srs.su^
 ||prysiazhniuk.pp.ua^
 ||ps1.modr.club^
+||psociety.de^
 ||ps-tel-w-2.nashkan.net^
 ||pt-lis-w-1.nashkan.net^
 ||public-dns-a.dns.sb^
@@ -2576,6 +2591,7 @@
 ||servad.duckdns.org^
 ||server01.dr-adguard.de^
 ||server01.karl.one^
+||server01.vboekel.nl^
 ||server03.dr-adguard.de^
 ||server.akarai.online^
 ||server.felixf.eu^
@@ -2587,7 +2603,6 @@
 ||service.c698fc0a.cfd^
 ||servicesgov.dev^
 ||se-sto-w-2.nashkan.net^
-||sexybody.myqnapcloud.com^
 ||sg01.dns4me.net^
 ||sg.101818.xyz^
 ||sg-119.cattery.work^
@@ -2697,6 +2712,7 @@
 ||testaghome.meshkov.info^
 ||test.dnsteam.globuscs.info^
 ||testguard.meexx.de^
+||tetra.aeins.at^
 ||tezoi.duckdns.org^
 ||thanos.pleumkungz.com^
 ||thebeloveduck.duckdns.org^
