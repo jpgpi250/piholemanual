@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2024-01-22 03:23:40 (UTC)
+! Last updated: 2024-01-23 03:04:48 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -1348,6 +1348,7 @@
 ||dns-tls.bitwiseshift.net^
 ||dns.tls-data.de^
 ||dnstls.mobik.com^
+||dnstls.neutopia.org^
 ||dns.tolink.group^
 ||dns.tomitomix.net^
 ||dns.tooizi.eu^
@@ -1739,7 +1740,6 @@
 ||extended.dns.mullvad.net^
 ||externalmobiel.lekdijk.online^
 ||eyg01.dnscry.pt^
-||f03a0e2fa9f5.sn.mynetname.net^
 ||f1.dns.s3cure.me^
 ||f2-dns.asuzac.com.vn^
 ||family.5ososea.com^
@@ -1879,6 +1879,7 @@
 ||hitian.me^
 ||hk2.ooroot.com^
 ||hk2.ss.startagegames.com^
+||hk-dns.lista.my.id^
 ||hkg01.dnscry.pt^
 ||hkg02.dnscry.pt^
 ||hkg.core.access.zznet.fun^
@@ -1932,6 +1933,7 @@
 ||iana.tenta.io^
 ||ibksturm.synology.me^
 ||ibuki.cgnat.net^
+||id-dns.lista.my.id^
 ||id.local.v.ua^
 ||id-pon-w-1.nashkan.net^
 ||id.terra.my.id^
@@ -1975,6 +1977,7 @@
 ||jarjar.meganerd.nl^
 ||jcdns.fun^
 ||jefe.space^
+||jianyi.studio^
 ||jit.ddns.net^
 ||jkt01.dnscry.pt^
 ||jmarston.duckdns.org^
@@ -2321,6 +2324,7 @@
 ||nyx.webteufel-it.solutions^
 ||nz01.dns4me.net^
 ||o1.lt^
+||oci.tacomafia.net^
 ||ocp.cincloud.top^
 ||oculta.me^
 ||odoh.cloudflare-dns.com^
@@ -2341,7 +2345,6 @@
 ||onic-doh.lista.my.id^
 ||onlyfriends.info^
 ||o--o.duckdns.org^
-||o.o.ovpn.bond^
 ||opencdn.jomodns.com^
 ||open.dns0.eu^
 ||opennic1.eth-services.de^
@@ -2352,6 +2355,7 @@
 ||opera.cloudflare-dns.com^
 ||or2o.tk^
 ||ora1.nocnik.org^
+||oracle2.herry.dev^
 ||oraclejp2.chungyu.com^
 ||oradns.anbitech.com^
 ||orau.lz0724.com^
@@ -2384,6 +2388,7 @@
 ||pccoach.ddns.net^
 ||pcd96.duckdns.org^
 ||pcgo.fun^
+||pcjco.ovh^
 ||pcornet.freeboxos.fr^
 ||pdns.elecura.net^
 ||pdns.faelix.net^
@@ -2401,7 +2406,6 @@
 ||pi1.node15.com^
 ||pi4.jnraptor.net^
 ||pi.daryllswer.net^
-||piekacz.pl^
 ||pihole1.hoerli.net^
 ||pihole2.hoerli.net^
 ||pihole3.hoerli.net^
@@ -2603,6 +2607,7 @@
 ||service.c698fc0a.cfd^
 ||servicesgov.dev^
 ||se-sto-w-2.nashkan.net^
+||sexybody.myqnapcloud.com^
 ||sg01.dns4me.net^
 ||sg.101818.xyz^
 ||sg-119.cattery.work^
@@ -2612,6 +2617,7 @@
 ||sg-8.dr0p.eu.org^
 ||sg-dns1.bancuh.com^
 ||sg-dns2.bancuh.com^
+||sg-dns.lista.my.id^
 ||sg.gridns.xyz^
 ||sg.jnraptor.com^
 ||sgpcloud.duckdns.org^
@@ -2714,6 +2720,7 @@
 ||testguard.meexx.de^
 ||tetra.aeins.at^
 ||tezoi.duckdns.org^
+||tg2a7d4.glddns.com^
 ||thanos.pleumkungz.com^
 ||thebeloveduck.duckdns.org^
 ||thefamilypuls.com^
@@ -2917,7 +2924,6 @@
 ||vps310.brueggus.de^
 ||vps311.brueggus.de^
 ||vps312.brueggus.de^
-||vps313.brueggus.de^
 ||vps314.brueggus.de^
 ||vps324.brueggus.de^
 ||vps325.brueggus.de^
