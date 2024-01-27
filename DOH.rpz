@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2401260300 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2401270300 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2024-01-26 03:00:27 (UTC)
+; Last updated: 2024-01-27 03:00:34 (UTC)
 ;
 ; See https://jpgpi250.github.io/piholemanual/doc/Unbound%20response%20policy%20zones.pdf
 ; Report issues at https://github.com/jpgpi250/piholemanual/issues
@@ -49,7 +49,6 @@ $TTL 30
 45-76-84-146.colo.xandodigital.net CNAME .
 5g.o0o.re CNAME .
 6e47fb7.online-server.cloud CNAME .
-77980.bodis.com CNAME .
 7agb96-dns.komeho.info CNAME .
 8888.google CNAME .
 959818.xyz CNAME .
@@ -447,12 +446,12 @@ aws.razor1911.xyz CNAME .
 axaxa.fun CNAME .
 ax.ns1net.com CNAME .
 ayasesayuki.shop CNAME .
+aydank.freeddns.org CNAME .
 ayzu.fun CNAME .
 azagramac.duckdns.org CNAME .
 azure.cloudflare-dns.com CNAME .
 azure.quydang.name.vn CNAME .
 baedns.duckdns.org CNAME .
-banana.991123.xyz CNAME .
 barnabech.fr CNAME .
 barsipgpt.com CNAME .
 base.dns.mullvad.net CNAME .
@@ -613,6 +612,7 @@ ddd2.loukky.com CNAME .
 ddd.loukky.com CNAME .
 ddns.ddns.bigqy.eu.org CNAME .
 ddns.ddnsddns.online CNAME .
+ddns.itsnooblk.xyz CNAME .
 ddns.oii.im CNAME .
 de.deghy.ir CNAME .
 dedicated.lvolland.fr CNAME .
@@ -697,6 +697,7 @@ dns1-secure.wifire.it CNAME .
 dns1.steering.nextdns.io CNAME .
 dns1.tardishost.ru CNAME .
 dns1.techeasy.org CNAME .
+dns1.timothy-dev.com CNAME .
 dns-1.trust2it.ch CNAME .
 dns.209.wf CNAME .
 dns2.263030.xyz CNAME .
@@ -1096,6 +1097,7 @@ dns.krol.cloud CNAME .
 dns.krushkov.com CNAME .
 dns.l337.site CNAME .
 dns.labar.re CNAME .
+dns.laby.huyu.one CNAME .
 dns.lapan.org CNAME .
 dns.larsdebruin.net CNAME .
 dns.lars-lehmann.net CNAME .
@@ -1304,6 +1306,7 @@ dns.sledge.cc CNAME .
 dns.slinkyman.net CNAME .
 dnss.lol CNAME .
 dns.smirnov.tk CNAME .
+dns.smvd.net CNAME .
 dns.solonodes.net CNAME .
 dns.sootoon.xyz CNAME .
 dns.spil.co.id CNAME .
@@ -1326,6 +1329,7 @@ dns.surfshark.com CNAME .
 dns.swin.pro CNAME .
 dns.switch.ch CNAME .
 dns.syaifullah.com CNAME .
+dns.syaifullah.id CNAME .
 dns.t53.de CNAME .
 dns.tapawan.ca CNAME .
 dns.tb4.me CNAME .
@@ -1360,6 +1364,7 @@ dns.trust404.win CNAME .
 dns.tryk.app CNAME .
 dns.tuankhaiit.com CNAME .
 dns.tuna.tsinghua.edu.cn CNAME .
+dns.tv-minecraft.ru CNAME .
 dns.twnic.tw CNAME .
 dns.txq.life CNAME .
 dns.uk-london-1.oci.oraclecloud.com CNAME .
@@ -1734,6 +1739,7 @@ europe.avastdns.com CNAME .
 europe.doh.sb CNAME .
 europe-west.avastdns.com CNAME .
 everovpn.co CNAME .
+ev-goztepe.duckdns.org CNAME .
 eweyo.duckdns.org CNAME .
 example.doh.blockerdns.com CNAME .
 exns1.exalto.nu CNAME .
@@ -2040,6 +2046,7 @@ kk.sshub.win CNAME .
 knight1.de CNAME .
 kolobok2.duckdns.org CNAME .
 korzhov.dev CNAME .
+kostek.dyndns.org CNAME .
 kotys.hr.i81.ru CNAME .
 kotys.vd.i81.ru CNAME .
 kotys.vpn.i81.ru CNAME .
@@ -2065,6 +2072,7 @@ kz-alm-w-1.nashkan.net CNAME .
 kz-pav-w-p-1.nashkan.net CNAME .
 lab-1.sellan.fr CNAME .
 lab.sellan.fr CNAME .
+laby.huyu.one CNAME .
 lajc.sytes.net CNAME .
 lamdtl.giize.com CNAME .
 laptop001.greppie.nl CNAME .
@@ -2337,6 +2345,7 @@ one.one.one.one CNAME .
 oneplus-10pro.aezadns.duckdns.org CNAME .
 onlyfriends.info CNAME .
 o--o.duckdns.org CNAME .
+o.o.ovpn.bond CNAME .
 opencdn.jomodns.com CNAME .
 open.dns0.eu CNAME .
 opennic1.eth-services.de CNAME .
@@ -2397,6 +2406,7 @@ phx01.dnscry.pt CNAME .
 pi1.node15.com CNAME .
 pi4.jnraptor.net CNAME .
 pi.daryllswer.net CNAME .
+piekacz.pl CNAME .
 pihole1.hoerli.net CNAME .
 pihole2.hoerli.net CNAME .
 pihole3.hoerli.net CNAME .
@@ -2491,6 +2501,7 @@ resolver1.opendns.com CNAME .
 resolver2.absolight.net CNAME .
 resolver2.dyndnsinternetguide.com CNAME .
 resolver2-fs.opendns.com CNAME .
+resolver2.hosting-cloud.net CNAME .
 resolver2.ipv6-sandbox.opendns.com CNAME .
 resolver2.opendns.com CNAME .
 resolver3.absolight.net CNAME .
@@ -2551,6 +2562,7 @@ sandbox.opendns.com CNAME .
 sanjosehy.analyticshopsystemblock.top CNAME .
 saomai.dynu.com CNAME .
 sarawut.ddns.net CNAME .
+sascha-rabold.de CNAME .
 saya.rnrkurir.com CNAME .
 sbdns.co.in CNAME .
 sby-doh.limotelu.org CNAME .
@@ -2660,6 +2672,7 @@ sradg.eastus.cloudapp.azure.com CNAME .
 srgaghome.freemyip.com CNAME .
 sriedmueadguard.casa CNAME .
 srv1.web-mx.eu CNAME .
+srv2.bartoszturek.online CNAME .
 srv5.jiripocta.cz CNAME .
 srv-revprox-01.atakorah.com CNAME .
 ssh-storage.ru CNAME .
