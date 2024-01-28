@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2401270300 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2401280307 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2024-01-27 03:00:34 (UTC)
+; Last updated: 2024-01-28 03:07:03 (UTC)
 ;
 ; See https://jpgpi250.github.io/piholemanual/doc/Unbound%20response%20policy%20zones.pdf
 ; Report issues at https://github.com/jpgpi250/piholemanual/issues
@@ -49,6 +49,7 @@ $TTL 30
 45-76-84-146.colo.xandodigital.net CNAME .
 5g.o0o.re CNAME .
 6e47fb7.online-server.cloud CNAME .
+77980.bodis.com CNAME .
 7agb96-dns.komeho.info CNAME .
 8888.google CNAME .
 959818.xyz CNAME .
@@ -393,7 +394,6 @@ an.loliconapp.top CNAME .
 a.ns.dnslify.com CNAME .
 antarlangit.my.id CNAME .
 ant.dns.qwer.pw CNAME .
-antidns.s.tuna.tsinghua.edu.cn CNAME .
 antivirus.bebasid.com CNAME .
 antonyfrompnz.space CNAME .
 anycast.censurfridns.dk CNAME .
@@ -1353,7 +1353,6 @@ dns.tkhome.nl CNAME .
 dns-tls.bitwiseshift.net CNAME .
 dns.tls-data.de CNAME .
 dnstls.mobik.com CNAME .
-dnstls.neutopia.org CNAME .
 dns.tolink.group CNAME .
 dns.tomitomix.net CNAME .
 dns.tooizi.eu CNAME .
@@ -1983,12 +1982,14 @@ jambi.undo.it CNAME .
 jarjar.meganerd.nl CNAME .
 jcdns.fun CNAME .
 jefe.space CNAME .
+jianyi.studio CNAME .
 jit.ddns.net CNAME .
 jkt01.dnscry.pt CNAME .
 jmarston.duckdns.org CNAME .
 jnb01.dnscry.pt CNAME .
 jnprd.com CNAME .
 johnsson.ovh CNAME .
+jojo1204.xyz CNAME .
 jonathanaugusto.freeddns.org CNAME .
 jonesboyz.duckdns.org CNAME .
 josephfamily.org CNAME .
@@ -2326,6 +2327,7 @@ ny.teradns.org CNAME .
 nyx.webteufel-it.solutions CNAME .
 nz01.dns4me.net CNAME .
 o1.lt CNAME .
+oci.tacomafia.net CNAME .
 ocp.cincloud.top CNAME .
 oculta.me CNAME .
 odoh.cloudflare-dns.com CNAME .
@@ -2356,7 +2358,6 @@ open-resolver1.unima.ac.id CNAME .
 opera.cloudflare-dns.com CNAME .
 or2o.tk CNAME .
 ora1.nocnik.org CNAME .
-oracle2.herry.dev CNAME .
 oraclejp2.chungyu.com CNAME .
 oradns.anbitech.com CNAME .
 orau.lz0724.com CNAME .
@@ -2389,6 +2390,7 @@ paulopinto.duckdns.org CNAME .
 pccoach.ddns.net CNAME .
 pcd96.duckdns.org CNAME .
 pcgo.fun CNAME .
+pcjco.ovh CNAME .
 pcornet.freeboxos.fr CNAME .
 pdns.elecura.net CNAME .
 pdns.faelix.net CNAME .
@@ -2406,7 +2408,6 @@ phx01.dnscry.pt CNAME .
 pi1.node15.com CNAME .
 pi4.jnraptor.net CNAME .
 pi.daryllswer.net CNAME .
-piekacz.pl CNAME .
 pihole1.hoerli.net CNAME .
 pihole2.hoerli.net CNAME .
 pihole3.hoerli.net CNAME .
@@ -2479,7 +2480,6 @@ raffoz-pve.gotdns.ch CNAME .
 rafi.dynns.com CNAME .
 raspberrydoc.duckdns.org CNAME .
 rayneau.fr CNAME .
-rdjcloud.duckdns.org CNAME .
 rdjdns.ajraspi.xyz CNAME .
 rdns.faelix.net CNAME .
 rdu01.dnscry.pt CNAME .
@@ -2722,9 +2722,6 @@ test.adg.siudzinski.net CNAME .
 testaghome.meshkov.info CNAME .
 test.dnsteam.globuscs.info CNAME .
 testguard.meexx.de CNAME .
-tetra.aeins.at CNAME .
-tezoi.duckdns.org CNAME .
-tg2a7d4.glddns.com CNAME .
 thanos.pleumkungz.com CNAME .
 thebeloveduck.duckdns.org CNAME .
 thefamilypuls.com CNAME .
@@ -2929,7 +2926,6 @@ vps309.brueggus.de CNAME .
 vps310.brueggus.de CNAME .
 vps311.brueggus.de CNAME .
 vps312.brueggus.de CNAME .
-vps313.brueggus.de CNAME .
 vps314.brueggus.de CNAME .
 vps324.brueggus.de CNAME .
 vps325.brueggus.de CNAME .
