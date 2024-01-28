@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2024-01-26 03:17:02 (UTC)
+! Last updated: 2024-01-27 03:17:12 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -45,7 +45,6 @@
 ||45-76-84-146.colo.xandodigital.net^
 ||5g.o0o.re^
 ||6e47fb7.online-server.cloud^
-||77980.bodis.com^
 ||7agb96-dns.komeho.info^
 ||8888.google^
 ||959818.xyz^
@@ -443,12 +442,12 @@
 ||axaxa.fun^
 ||ax.ns1net.com^
 ||ayasesayuki.shop^
+||aydank.freeddns.org^
 ||ayzu.fun^
 ||azagramac.duckdns.org^
 ||azure.cloudflare-dns.com^
 ||azure.quydang.name.vn^
 ||baedns.duckdns.org^
-||banana.991123.xyz^
 ||barnabech.fr^
 ||barsipgpt.com^
 ||base.dns.mullvad.net^
@@ -609,6 +608,7 @@
 ||ddd.loukky.com^
 ||ddns.ddns.bigqy.eu.org^
 ||ddns.ddnsddns.online^
+||ddns.itsnooblk.xyz^
 ||ddns.oii.im^
 ||de.deghy.ir^
 ||dedicated.lvolland.fr^
@@ -693,6 +693,7 @@
 ||dns1.steering.nextdns.io^
 ||dns1.tardishost.ru^
 ||dns1.techeasy.org^
+||dns1.timothy-dev.com^
 ||dns-1.trust2it.ch^
 ||dns.209.wf^
 ||dns2.263030.xyz^
@@ -1092,6 +1093,7 @@
 ||dns.krushkov.com^
 ||dns.l337.site^
 ||dns.labar.re^
+||dns.laby.huyu.one^
 ||dns.lapan.org^
 ||dns.larsdebruin.net^
 ||dns.lars-lehmann.net^
@@ -1300,6 +1302,7 @@
 ||dns.slinkyman.net^
 ||dnss.lol^
 ||dns.smirnov.tk^
+||dns.smvd.net^
 ||dns.solonodes.net^
 ||dns.sootoon.xyz^
 ||dns.spil.co.id^
@@ -1322,6 +1325,7 @@
 ||dns.swin.pro^
 ||dns.switch.ch^
 ||dns.syaifullah.com^
+||dns.syaifullah.id^
 ||dns.t53.de^
 ||dns.tapawan.ca^
 ||dns.tb4.me^
@@ -1356,6 +1360,7 @@
 ||dns.tryk.app^
 ||dns.tuankhaiit.com^
 ||dns.tuna.tsinghua.edu.cn^
+||dns.tv-minecraft.ru^
 ||dns.twnic.tw^
 ||dns.txq.life^
 ||dns.uk-london-1.oci.oraclecloud.com^
@@ -1730,6 +1735,7 @@
 ||europe.doh.sb^
 ||europe-west.avastdns.com^
 ||everovpn.co^
+||ev-goztepe.duckdns.org^
 ||eweyo.duckdns.org^
 ||example.doh.blockerdns.com^
 ||exns1.exalto.nu^
@@ -2036,6 +2042,7 @@
 ||knight1.de^
 ||kolobok2.duckdns.org^
 ||korzhov.dev^
+||kostek.dyndns.org^
 ||kotys.hr.i81.ru^
 ||kotys.vd.i81.ru^
 ||kotys.vpn.i81.ru^
@@ -2061,6 +2068,7 @@
 ||kz-pav-w-p-1.nashkan.net^
 ||lab-1.sellan.fr^
 ||lab.sellan.fr^
+||laby.huyu.one^
 ||lajc.sytes.net^
 ||lamdtl.giize.com^
 ||laptop001.greppie.nl^
@@ -2333,6 +2341,7 @@
 ||oneplus-10pro.aezadns.duckdns.org^
 ||onlyfriends.info^
 ||o--o.duckdns.org^
+||o.o.ovpn.bond^
 ||opencdn.jomodns.com^
 ||open.dns0.eu^
 ||opennic1.eth-services.de^
@@ -2393,6 +2402,7 @@
 ||pi1.node15.com^
 ||pi4.jnraptor.net^
 ||pi.daryllswer.net^
+||piekacz.pl^
 ||pihole1.hoerli.net^
 ||pihole2.hoerli.net^
 ||pihole3.hoerli.net^
@@ -2487,6 +2497,7 @@
 ||resolver2.absolight.net^
 ||resolver2.dyndnsinternetguide.com^
 ||resolver2-fs.opendns.com^
+||resolver2.hosting-cloud.net^
 ||resolver2.ipv6-sandbox.opendns.com^
 ||resolver2.opendns.com^
 ||resolver3.absolight.net^
@@ -2547,6 +2558,7 @@
 ||sanjosehy.analyticshopsystemblock.top^
 ||saomai.dynu.com^
 ||sarawut.ddns.net^
+||sascha-rabold.de^
 ||saya.rnrkurir.com^
 ||sbdns.co.in^
 ||sby-doh.limotelu.org^
@@ -2656,6 +2668,7 @@
 ||srgaghome.freemyip.com^
 ||sriedmueadguard.casa^
 ||srv1.web-mx.eu^
+||srv2.bartoszturek.online^
 ||srv5.jiripocta.cz^
 ||srv-revprox-01.atakorah.com^
 ||ssh-storage.ru^
