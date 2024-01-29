@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2024-01-27 03:17:12 (UTC)
+! Last updated: 2024-01-28 03:23:33 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -45,6 +45,7 @@
 ||45-76-84-146.colo.xandodigital.net^
 ||5g.o0o.re^
 ||6e47fb7.online-server.cloud^
+||77980.bodis.com^
 ||7agb96-dns.komeho.info^
 ||8888.google^
 ||959818.xyz^
@@ -389,7 +390,6 @@
 ||a.ns.dnslify.com^
 ||antarlangit.my.id^
 ||ant.dns.qwer.pw^
-||antidns.s.tuna.tsinghua.edu.cn^
 ||antivirus.bebasid.com^
 ||antonyfrompnz.space^
 ||anycast.censurfridns.dk^
@@ -1349,7 +1349,6 @@
 ||dns-tls.bitwiseshift.net^
 ||dns.tls-data.de^
 ||dnstls.mobik.com^
-||dnstls.neutopia.org^
 ||dns.tolink.group^
 ||dns.tomitomix.net^
 ||dns.tooizi.eu^
@@ -1979,12 +1978,14 @@
 ||jarjar.meganerd.nl^
 ||jcdns.fun^
 ||jefe.space^
+||jianyi.studio^
 ||jit.ddns.net^
 ||jkt01.dnscry.pt^
 ||jmarston.duckdns.org^
 ||jnb01.dnscry.pt^
 ||jnprd.com^
 ||johnsson.ovh^
+||jojo1204.xyz^
 ||jonathanaugusto.freeddns.org^
 ||jonesboyz.duckdns.org^
 ||josephfamily.org^
@@ -2322,6 +2323,7 @@
 ||nyx.webteufel-it.solutions^
 ||nz01.dns4me.net^
 ||o1.lt^
+||oci.tacomafia.net^
 ||ocp.cincloud.top^
 ||oculta.me^
 ||odoh.cloudflare-dns.com^
@@ -2352,7 +2354,6 @@
 ||opera.cloudflare-dns.com^
 ||or2o.tk^
 ||ora1.nocnik.org^
-||oracle2.herry.dev^
 ||oraclejp2.chungyu.com^
 ||oradns.anbitech.com^
 ||orau.lz0724.com^
@@ -2385,6 +2386,7 @@
 ||pccoach.ddns.net^
 ||pcd96.duckdns.org^
 ||pcgo.fun^
+||pcjco.ovh^
 ||pcornet.freeboxos.fr^
 ||pdns.elecura.net^
 ||pdns.faelix.net^
@@ -2402,7 +2404,6 @@
 ||pi1.node15.com^
 ||pi4.jnraptor.net^
 ||pi.daryllswer.net^
-||piekacz.pl^
 ||pihole1.hoerli.net^
 ||pihole2.hoerli.net^
 ||pihole3.hoerli.net^
@@ -2475,7 +2476,6 @@
 ||rafi.dynns.com^
 ||raspberrydoc.duckdns.org^
 ||rayneau.fr^
-||rdjcloud.duckdns.org^
 ||rdjdns.ajraspi.xyz^
 ||rdns.faelix.net^
 ||rdu01.dnscry.pt^
@@ -2718,9 +2718,6 @@
 ||testaghome.meshkov.info^
 ||test.dnsteam.globuscs.info^
 ||testguard.meexx.de^
-||tetra.aeins.at^
-||tezoi.duckdns.org^
-||tg2a7d4.glddns.com^
 ||thanos.pleumkungz.com^
 ||thebeloveduck.duckdns.org^
 ||thefamilypuls.com^
@@ -2925,7 +2922,6 @@
 ||vps310.brueggus.de^
 ||vps311.brueggus.de^
 ||vps312.brueggus.de^
-||vps313.brueggus.de^
 ||vps314.brueggus.de^
 ||vps324.brueggus.de^
 ||vps325.brueggus.de^
