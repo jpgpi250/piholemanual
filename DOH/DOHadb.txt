@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2024-01-30 03:08:45 (UTC)
+! Last updated: 2024-01-31 03:09:45 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -136,6 +136,7 @@
 ||adguard.aminetwork.biz^
 ||adguard.amscenter.net^
 ||adguard.app.sabino.pro^
+||adguard.arashi.solutions^
 ||adguard.avdkishore.dev^
 ||adguard.baltes.info^
 ||adguard-be-azure.westeurope.cloudapp.azure.com^
@@ -249,6 +250,7 @@
 ||adguard.piekacz.pl^
 ||adguard.planckstudio.in^
 ||adguard.pushedv.de^
+||adguard.quydang.name.vn^
 ||adguard.rabmoor.cz^
 ||adguard.randomaizer.lentel.ru^
 ||adguard.rdekuyper.nl^
@@ -359,7 +361,6 @@
 ||ag.wntrmute.net^
 ||ahadns.net^
 ||ahcek.com^
-||ah.tr1n.me^
 ||aihe.app^
 ||airmaxcloud.ml^
 ||akaboom.fun^
@@ -397,6 +398,7 @@
 ||a.ns.dnslify.com^
 ||antarlangit.my.id^
 ||ant.dns.qwer.pw^
+||antidns.s.tuna.tsinghua.edu.cn^
 ||antivirus.bebasid.com^
 ||antonyfrompnz.space^
 ||anycast.censurfridns.dk^
@@ -410,6 +412,7 @@
 ||appart.yoannchappaz.best^
 ||aqua.is.my.waifu.cz^
 ||arashi.eu.org^
+||arashi.solutions^
 ||arches-srv1.8ws.net^
 ||arches-srv2.8ws.net^
 ||area51.mywire.org^
@@ -455,7 +458,6 @@
 ||azure.cloudflare-dns.com^
 ||azure.quydang.name.vn^
 ||baedns.duckdns.org^
-||banana.991123.xyz^
 ||banhmiboyzzz.com^
 ||barnabech.fr^
 ||barsipgpt.com^
@@ -846,7 +848,6 @@
 ||dns.bofh.in^
 ||dnsbot.fiedin.com^
 ||dns.brahma.world^
-||dns.briac-mlb.fr^
 ||dns.brian-hong.tech^
 ||dns.brionesserver.net^
 ||dns-br.leonardo.tec.br^
@@ -1009,6 +1010,7 @@
 ||dns.goldplate.org^
 ||dns.google^
 ||dns.google.com^
+||dns.goshawk22.uk^
 ||dnsg.psyk.fr^
 ||dns.grqu.de^
 ||dns.gt500.ru^
@@ -1147,6 +1149,7 @@
 ||dns.melalandia.tk^
 ||dns.melashri.eu.org^
 ||dns.mestdag.fr^
+||dns.mesterdodh.cloud^
 ||dns.mgiptvpro.ml^
 ||dns.micro.alloxr.info^
 ||dns.mikeliu.org^
@@ -1317,6 +1320,7 @@
 ||dnssilo.top^
 ||dns.simba.house^
 ||dns.simplylinux.ch^
+||dns-singapore.mii-xms.com^
 ||dns.sinuosity.cn^
 ||dns.sirota.spb.ru^
 ||dns.siry.de^
@@ -1419,7 +1423,6 @@
 ||dns.victorhachard.fr^
 ||dns.vietdns.vn^
 ||dns.vinnyp.xyz^
-||dns.vinnyradev.com^
 ||dns.vinokurov.tk^
 ||dns.virtualize.technology^
 ||dns.vishalk.com^
@@ -1454,7 +1457,6 @@
 ||dns.woexp.ru^
 ||dns.woodyli.dev^
 ||dns.wugui.zone^
-||dns.xiayang.space^
 ||dns.xie.ke^
 ||dns.xinwujiang.cn^
 ||dns.xivilay.dev^
@@ -1649,6 +1651,7 @@
 ||doh-sg.blahdns.com^
 ||doh.sidnlabs.nl^
 ||doh.southam.family^
+||doh.suadnim.cn^
 ||doh.syshero.org^
 ||doh.technochat.in^
 ||doh.this.web.id^
@@ -1775,6 +1778,7 @@
 ||extended.dns.mullvad.net^
 ||externalmobiel.lekdijk.online^
 ||eyg01.dnscry.pt^
+||f03a0e2fa9f5.sn.mynetname.net^
 ||f1.dns.s3cure.me^
 ||f2-dns.asuzac.com.vn^
 ||family.5ososea.com^
@@ -1793,7 +1797,6 @@
 ||familyshield.opendns.com^
 ||fanscloud.net^
 ||faradns.net^
-||faralai.es^
 ||fatcat22.eastus.cloudapp.azure.com^
 ||fb.i81.ru^
 ||fdns1.dismail.de^
@@ -1814,6 +1817,7 @@
 ||filya.vd.i81.ru^
 ||filya.vpn.i81.ru^
 ||findmethedns.info^
+||firefenix.ddns.net^
 ||firefox.dns.nextdns.io^
 ||fjr01.dnscry.pt^
 ||flat.loisy.it^
@@ -1881,6 +1885,7 @@
 ||graveofhope.ru^
 ||green2.jnraptor.net^
 ||green3.jnraptor.net^
+||green4.jnraptor.net^
 ||greppie.nl^
 ||groupy.ga^
 ||gtm-sg-5r538sziu04.go-behind.one^
@@ -1993,9 +1998,11 @@
 ||internetsehat.bebasid.com^
 ||intertop.link^
 ||int.ragnvindr.org^
+||invidious.arashi.solutions^
 ||iofixdns1.duckdns.org^
 ||iofixdns2.duckdns.org^
 ||iot-dns.com^
+||ip2.hdy.sh^
 ||i.passcloud.xyz^
 ||ipoac.nl^
 ||irgrdns.nullapp.xyz^
@@ -2014,6 +2021,7 @@
 ||jarjar.meganerd.nl^
 ||jcdns.fun^
 ||jefe.space^
+||jianyi.studio^
 ||jit.ddns.net^
 ||jkt01.dnscry.pt^
 ||jmarston.duckdns.org^
@@ -2080,6 +2088,7 @@
 ||knight1.de^
 ||kolobok2.duckdns.org^
 ||korzhov.dev^
+||kostek.dyndns.org^
 ||kotys.hr.i81.ru^
 ||kotys.vd.i81.ru^
 ||kotys.vpn.i81.ru^
@@ -2164,6 +2173,7 @@
 ||macmini.qujing.eu.org^
 ||mad01.dnscry.pt^
 ||maikel.greppie.nl^
+||mail.4-the.win^
 ||mail.andrewnw.xyz^
 ||mail.data.haus^
 ||mailer.amlegion.org^
@@ -2207,7 +2217,6 @@
 ||mikewaddick.com^
 ||mimile.despagne.net^
 ||mimile.despagne.ovh^
-||mimini.dzemlyuk.pw^
 ||mimir.netwerk.io^
 ||minilla.store^
 ||mkvvpssrv12.freemyip.com^
@@ -2235,6 +2244,7 @@
 ||mypihole.hopto.org^
 ||myprivityvpn.softether.net^
 ||myrusvpn.de^
+||mysterium.arashi.solutions^
 ||myv2ray.cn^
 ||mzs1.ddns.net^
 ||n0.eu^
@@ -2417,7 +2427,6 @@
 ||p3.freedns.controld.com^
 ||pad3w.pp.ua^
 ||padermail.net^
-||paimon.sev.monster^
 ||par01.dnscry.pt^
 ||paranoia.mydns.network^
 ||paskam.tk^
@@ -2443,6 +2452,7 @@
 ||pi1.node15.com^
 ||pi4.jnraptor.net^
 ||pi.daryllswer.net^
+||piekacz.pl^
 ||pihole1.hoerli.net^
 ||pihole2.hoerli.net^
 ||pihole3.hoerli.net^
@@ -2458,6 +2468,7 @@
 ||pluton.plan9dns.com^
 ||pl-waw-w-1.nashkan.net^
 ||pl-waw-w-2.nashkan.net^
+||pl-waw-w-p-1.nashkan.net^
 ||pope.cnblw.me^
 ||portal.iddqd.uk^
 ||postalsv1.mkid.top^
@@ -2495,6 +2506,7 @@
 ||pure.sunnygyl.com^
 ||q3i6k7j3.stackpathcdn.com^
 ||qaz.tw^
+||qbak.no-ip.eu^
 ||qlf-doh.inria.fr^
 ||qual.cuprum.ru^
 ||quangdo92.dynu.net^
@@ -2583,6 +2595,8 @@
 ||rumpelsepp.org^
 ||rwkdwpwsyv48.mikopono.nl^
 ||s1.srch.top^
+||s3-api.arashi.solutions^
+||s3.arashi.solutions^
 ||sa01.dns4me.net^
 ||sacarino.es^
 ||safe.dns.yandex.ru^
@@ -2765,7 +2779,6 @@
 ||tezoi.duckdns.org^
 ||tg2a7d4.glddns.com^
 ||thanos.pleumkungz.com^
-||thebeloveduck.duckdns.org^
 ||thefamilypuls.com^
 ||thefuturegg.xyz^
 ||tienpham.id.vn^
@@ -2813,6 +2826,7 @@
 ||ubuntu1.adgw.tk^
 ||ueni.dyndns.org^
 ||uk01.dns4me.net^
+||uk.arian.lol^
 ||uk-lon.doh.sb^
 ||uk.teradns.org^
 ||uncensored.any.dns.nixnet.xyz^
@@ -2832,6 +2846,7 @@
 ||unixfox.duckdns.org^
 ||uradoori.org^
 ||uranus.plonknet.com^
+||ur.hytec.org^
 ||urology.wiki^
 ||us01.dns4me.net^
 ||us02.dns4me.net^
@@ -2895,6 +2910,8 @@
 ||virmamp33.sytes.net^
 ||vlad.dns.vladpro.ru^
 ||vladpro.ru^
+||vm1.arashi.solutions^
+||vm2.arashi.solutions^
 ||vm2.oowo.de^
 ||vmd45200.contabo.wallura.eu^
 ||vm.delfini.online^
@@ -3031,6 +3048,7 @@
 ||warrier120120.duckdns.org^
 ||waw01.dnscry.pt^
 ||waw02.dnscry.pt^
+||wazuh.arashi.solutions^
 ||wd.noimjosh.com^
 ||wdns.233py.com^
 ||webmail.jpginformatica.com^
