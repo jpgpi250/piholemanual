@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2024-02-02 02:29:56 (UTC)
+! Last updated: 2024-02-03 02:32:01 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -58,6 +58,7 @@
 ||ablock.fuckit.ovh^
 ||abluehope.com^
 ||abovetheclouds.fun^
+||abstergo.it^
 ||acomit.lk^
 ||ad1guard.duckdns.org^
 ||ad1.heronet.nl^
@@ -85,6 +86,7 @@
 ||addns1.m-it.ro^
 ||addns.clubbase.club^
 ||addns.jpr.space^
+||ad-dns.lista.my.id^
 ||adf-114.neta.otrofda.nl^
 ||adfree.usableprivacy.net^
 ||adg.acrobyte.org^
@@ -2021,6 +2023,7 @@
 ||jarjar.meganerd.nl^
 ||jcdns.fun^
 ||jefe.space^
+||jianyi.studio^
 ||jit.ddns.net^
 ||jkt01.dnscry.pt^
 ||jmarston.duckdns.org^
@@ -2088,6 +2091,7 @@
 ||kobi4k9i.slt.sched.intlscdn.com^
 ||kolobok2.duckdns.org^
 ||korzhov.dev^
+||kostek.dyndns.org^
 ||kotys.hr.i81.ru^
 ||kotys.vd.i81.ru^
 ||kotys.vpn.i81.ru^
@@ -2172,6 +2176,7 @@
 ||macmini.qujing.eu.org^
 ||mad01.dnscry.pt^
 ||maikel.greppie.nl^
+||mail.4-the.win^
 ||mail.andrewnw.xyz^
 ||mail.data.haus^
 ||mailer.amlegion.org^
@@ -2307,6 +2312,7 @@
 ||ns.00dani.me^
 ||ns0.fdn.fr^
 ||ns1.1899.com.mx^
+||ns1.95997.ip-ns.net^
 ||ns1.bit-trails.nl^
 ||ns1.depotthai.army^
 ||ns1.dnsprivacy.at^
@@ -2452,6 +2458,7 @@
 ||pi1.node15.com^
 ||pi4.jnraptor.net^
 ||pi.daryllswer.net^
+||piekacz.pl^
 ||pihole1.hoerli.net^
 ||pihole2.hoerli.net^
 ||pihole3.hoerli.net^
@@ -2723,6 +2730,7 @@
 ||srgaghome.freemyip.com^
 ||sriedmueadguard.casa^
 ||srv1.web-mx.eu^
+||srv2.bartoszturek.online^
 ||srv5.jiripocta.cz^
 ||srv-revprox-01.atakorah.com^
 ||ssh-storage.ru^
@@ -2823,6 +2831,7 @@
 ||ublock-dns-resolver-03.westeurope.cloudapp.azure.com^
 ||ubuntu1.adgw.tk^
 ||ueni.dyndns.org^
+||uf-dns.lista.my.id^
 ||uk01.dns4me.net^
 ||uk.arian.lol^
 ||uk-lon.doh.sb^
@@ -2850,7 +2859,6 @@
 ||us02.dns4me.net^
 ||us1.blissdns.net^
 ||us1.dns.lavate.ch^
-||us1.easyflying.top^
 ||us5.wan.hc7z.com^
 ||usa1.altcensored.com^
 ||usad.cloudbasesolutions.online^
