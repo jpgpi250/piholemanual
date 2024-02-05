@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2024-02-03 02:32:01 (UTC)
+! Last updated: 2024-02-04 03:26:25 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -121,6 +121,7 @@
 ||adguard2.546413.xyz^
 ||adguard2.bonis.de^
 ||adguard2.cloudmini.net^
+||adguard-2.ddns.net^
 ||adguard2.dsns.cloud^
 ||adguard2.frece.de^
 ||adguard2.leadmon.net^
@@ -227,6 +228,7 @@
 ||adguard.lista.my.id^
 ||adguard.londonwebnerd.cloud^
 ||adguard.lspcr.space^
+||adguard.madeconengenharia.com.br^
 ||adguard.mapor.co^
 ||adguard.marto.si^
 ||adguard.mattiafenzi.uk^
@@ -288,9 +290,11 @@
 ||adguard-vn1.cloudmini.net^
 ||adguard.vrehm.fr^
 ||adguard.wallura.eu^
+||adguard.wangziyun.online^
 ||adguard.willhotard.com^
 ||adguard.wirimij.nl^
 ||adguard.xiaolingg.io.vn^
+||adguard.youler.com^
 ||adguard.yuki2th.xyz^
 ||adguard.zachitect.com^
 ||adguard.zrtechcenter.com^
@@ -459,7 +463,6 @@
 ||azure.cloudflare-dns.com^
 ||azure.quydang.name.vn^
 ||baedns.duckdns.org^
-||banana.991123.xyz^
 ||banhmiboyzzz.com^
 ||barnabech.fr^
 ||barsipgpt.com^
@@ -536,6 +539,7 @@
 ||caycewebsolutions.com^
 ||ca-yyc.doh.sb^
 ||ca-yyz.doh.sb^
+||cc210b36bb9e.sn.mynetname.net^
 ||cc2.v8er.net^
 ||c.cicitt.ch^
 ||ccyykk.top^
@@ -996,6 +1000,7 @@
 ||dns.froth.zone^
 ||dns-fr-psv1.cloudsides.com^
 ||dns.fsociety.club^
+||dns.fulgore.fr^
 ||dns.fullaccesstointernet.jp.eu.org^
 ||dns.furrydns.de^
 ||dns.futuredns.me^
@@ -1202,6 +1207,7 @@
 ||dns.nieto.app^
 ||dns.ningkelle.id^
 ||dns.nixnet.xyz^
+||dns.nj0.de^
 ||dns.njal.la^
 ||dnsnl.alekberg.net^
 ||dnsnl-noads.alekberg.net^
@@ -1273,6 +1279,7 @@
 ||dns.rafn.is^
 ||dns.ramansarda.com^
 ||dns.rayanbab.com^
+||dns.rbpi.cc^
 ||dns.rbs.my.id^
 ||dns.reckoningslug.name^
 ||dns.redroot.me^
@@ -1482,6 +1489,7 @@
 ||dns.zzuhacker.cn^
 ||dnx.niko-sem.com^
 ||docker-hub.ir^
+||docker.youler.com^
 ||do.dnscrypt.uk^
 ||dog.dns.qwer.pw^
 ||doh003.280blocker.net^
@@ -1515,6 +1523,7 @@
 ||doh.applied-privacy.net^
 ||doh.appliedprivacy.net^
 ||doh.armadillodns.net^
+||doh.artsvr.my.id^
 ||doh.asia.dnswarden.com^
 ||doh.au.ahadns.net^
 ||doh.azoris.ovh^
@@ -1573,6 +1582,7 @@
 ||doh.funtopia.tv^
 ||doh.futa.gg^
 ||doh.gcp.pathofgrace.com^
+||doh.ginetz.id^
 ||doh.greenwood.eu.org^
 ||doh.gslb2.xfinity.com^
 ||doh.hottis.de^
@@ -1850,6 +1860,7 @@
 ||fuangkhon.com^
 ||fuchur.pentament.de^
 ||fukuda.ccnt.fr^
+||fulgore.fr^
 ||fullaccesstointernet.jp.eu.org^
 ||funti.cc^
 ||fvpn.jarvishome.ru^
@@ -2151,6 +2162,7 @@
 ||ljk.kkizz.cn^
 ||llk01.dnscry.pt^
 ||lmz.meudns.minhacasainteligente.cf^
+||ln7371.top^
 ||local.sufly.top^
 ||logs.danamas.net^
 ||lomoff.spb.ru^
@@ -2375,7 +2387,6 @@
 ||nyx.webteufel-it.solutions^
 ||nz01.dns4me.net^
 ||o1.lt^
-||oci.tacomafia.net^
 ||ocp.cincloud.top^
 ||oculta.me^
 ||odoh.cloudflare-dns.com^
@@ -2440,7 +2451,6 @@
 ||pccoach.ddns.net^
 ||pcd96.duckdns.org^
 ||pcgo.fun^
-||pcjco.ovh^
 ||pcornet.freeboxos.fr^
 ||pdns.elecura.net^
 ||pdns.faelix.net^
@@ -2458,7 +2468,6 @@
 ||pi1.node15.com^
 ||pi4.jnraptor.net^
 ||pi.daryllswer.net^
-||piekacz.pl^
 ||pihole1.hoerli.net^
 ||pihole2.hoerli.net^
 ||pihole3.hoerli.net^
@@ -2477,7 +2486,6 @@
 ||pl-waw-w-p-1.nashkan.net^
 ||pope.cnblw.me^
 ||portal.iddqd.uk^
-||postalsv1.mkid.top^
 ||pqh.ddns.net^
 ||premiumtier-network.instadart.net^
 ||preview.dnsteam.globuscs.info^
@@ -2600,6 +2608,7 @@
 ||ru-mow.doh.sb^
 ||rumpelsepp.org^
 ||rwkdwpwsyv48.mikopono.nl^
+||s1.s2.shahramv1.site^
 ||s1.srch.top^
 ||s3-api.arashi.solutions^
 ||s3.arashi.solutions^
@@ -2633,6 +2642,7 @@
 ||sdvizhkov.ru^
 ||sea01.dnscry.pt^
 ||seanyan.ddns.net^
+||sea-ydmaz-docker.southeastasia.cloudapp.azure.com^
 ||sec.iamninja.ru^
 ||secondary.dns.yandex.ru^
 ||secondary.family.dns.yandex.ru^
@@ -2725,6 +2735,7 @@
 ||solution.w10.life^
 ||sp1wpdybsw1twq1d.myfritz.net^
 ||spacedns.org^
+||sq.trin.icu^
 ||sradg2.eastus.cloudapp.azure.com^
 ||sradg.eastus.cloudapp.azure.com^
 ||srgaghome.freemyip.com^
@@ -2859,6 +2870,7 @@
 ||us02.dns4me.net^
 ||us1.blissdns.net^
 ||us1.dns.lavate.ch^
+||us1.easyflying.top^
 ||us5.wan.hc7z.com^
 ||usa1.altcensored.com^
 ||usad.cloudbasesolutions.online^
