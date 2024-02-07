@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2024-02-05 03:01:45 (UTC)
+! Last updated: 2024-02-06 02:58:37 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -106,6 +106,7 @@
 ||adg.qwqwe.link^
 ||adg.rokh.biz^
 ||adg.siudzinski.net^
+||adg-swe.h4nt3r.com^
 ||adg.swh123.xyz^
 ||adguard01.dns.infrapod.nl^
 ||adguard01.homepeter.de^
@@ -403,7 +404,6 @@
 ||a.ns.dnslify.com^
 ||antarlangit.my.id^
 ||ant.dns.qwer.pw^
-||antidns.s.tuna.tsinghua.edu.cn^
 ||antivirus.bebasid.com^
 ||antonyfrompnz.space^
 ||anycast.censurfridns.dk^
@@ -574,7 +574,6 @@
 ||clic.eu.org^
 ||clientdns3.softcom.net^
 ||cloud.198.games^
-||cloud.198.games.cdn.dnsv1.com^
 ||cloud8.yydsgod.eu.org^
 ||cloudbasesolutions.online^
 ||cloudflare-dns.com^
@@ -633,6 +632,7 @@
 ||ddns.ddnsddns.online^
 ||ddns.itsnooblk.xyz^
 ||ddns.oii.im^
+||de1.danielnet.eu^
 ||de.deghy.ir^
 ||dedicated.lvolland.fr^
 ||de-dus.doh.sb^
@@ -882,6 +882,7 @@
 ||dns.chromeina.top^
 ||dns.circl.lu^
 ||dnscity.org^
+||dns.citystars.cn^
 ||dns.clanless.ovh^
 ||dns.clanto.cloud^
 ||dns.cloud88.com.au^
@@ -912,6 +913,7 @@
 ||dns.d96.info^
 ||dns.daemon.za.net^
 ||dns.danamas.net^
+||dns.danielnet.eu^
 ||dns.david888.com^
 ||dns.daw.dev^
 ||dns.decky.eu^
@@ -1048,6 +1050,7 @@
 ||dns.housedenolf.be^
 ||dns.hr.i81.ru^
 ||dns.hse-kprc.ir^
+||dns.huas.me^
 ||dns.hugo0.moe^
 ||dns.huizegunsing.nl^
 ||dns.hujiayucc.cn^
@@ -1087,6 +1090,7 @@
 ||dns.itya.xyz^
 ||dns.jcdn.site^
 ||dns.jean.im^
+||dns.jelebruh.xyz^
 ||dns.jhangy.us^
 ||dns.jianyi.studio^
 ||dns.jimirobaer.be^
@@ -1116,6 +1120,7 @@
 ||dns.keskinnetwork.com^
 ||dns.keskonet.com^
 ||dns.keweon.center^
+||dns.kloiber.co.at^
 ||dns.kolyma.uz^
 ||dns.korzhyk.pp.ua^
 ||dns.kosan.moe^
@@ -1138,6 +1143,7 @@
 ||dns.lildinosaur.com^
 ||dns.lilith.cloud^
 ||dns.linkr.ninja^
+||dns.linlin00.top^
 ||dns.lista.my.id^
 ||dns.lithvik.com^
 ||dns.lmir.info^
@@ -1151,6 +1157,7 @@
 ||dns.malanser.ru^
 ||dns.malhuda.com^
 ||dns.malwarelul.download^
+||dns.mandre.dev^
 ||dns.maolaohei.xyz^
 ||dns.marcbond.uk^
 ||dns.mathewakhil.online^
@@ -1164,6 +1171,7 @@
 ||dns.mesterdodh.cloud^
 ||dns.mgiptvpro.ml^
 ||dns.micro.alloxr.info^
+||dns.midping.ir^
 ||dns.mikeliu.org^
 ||dns.mikopono.nl^
 ||dns.mikou.be^
@@ -1483,6 +1491,7 @@
 ||dns.yingroad.top^
 ||dns.ykwbai.top^
 ||dns.youni.win^
+||dns.yumenashyi.com^
 ||dns.yyaan.com^
 ||dns.yyaan.top^
 ||dns.zarchbox.fr^
@@ -1491,7 +1500,7 @@
 ||dns.zion.dev^
 ||dns.zkz.cloud^
 ||dns.zyzh20021020.cn^
-||dns.zyzh20021020.cn.cdn.dnsv1.com^
+||dns.zyzh20021020.cn.cdn.cloudflare.net^
 ||dns.zzuhacker.cn^
 ||dnx.niko-sem.com^
 ||docker-hub.ir^
@@ -1767,6 +1776,7 @@
 ||echoe1yidzu4ioo5.myfritz.net^
 ||ecs-auto.fanscloud.net^
 ||ecs-doh.dnswarden.com^
+||edbit.duckdns.org^
 ||eddi.usgovtrafficmanager.net^
 ||edelgard.duckdns.org^
 ||edgar.tobkar.net^
@@ -1798,7 +1808,6 @@
 ||extended.dns.mullvad.net^
 ||externalmobiel.lekdijk.online^
 ||eyg01.dnscry.pt^
-||f03a0e2fa9f5.sn.mynetname.net^
 ||f1.dns.s3cure.me^
 ||f2-dns.asuzac.com.vn^
 ||family.5ososea.com^
@@ -1837,7 +1846,6 @@
 ||filya.vd.i81.ru^
 ||filya.vpn.i81.ru^
 ||findmethedns.info^
-||firefenix.ddns.net^
 ||firefox.dns.nextdns.io^
 ||fjr01.dnscry.pt^
 ||flat.loisy.it^
@@ -2109,7 +2117,6 @@
 ||kiwifunke.duckdns.org^
 ||kk.sshub.win^
 ||knight1.de^
-||kobi4k9i.slt.sched.intlscdn.com^
 ||kolobok2.duckdns.org^
 ||korzhov.dev^
 ||kostek.dyndns.org^
@@ -2255,7 +2262,6 @@
 ||mr-romero.com^
 ||mru01.dnscry.pt^
 ||msr177.com^
-||mtdkdhs0.slt.sched.tdnsv8.com^
 ||muc01.dnscry.pt^
 ||muc-ns01.ibytex.systems^
 ||muli.stusta.mhn.de^
@@ -2480,7 +2486,6 @@
 ||pi1.node15.com^
 ||pi4.jnraptor.net^
 ||pi.daryllswer.net^
-||piekacz.pl^
 ||pihole1.hoerli.net^
 ||pihole2.hoerli.net^
 ||pihole3.hoerli.net^
@@ -2700,6 +2705,7 @@
 ||sg1.dnswarden.com^
 ||sg2.ooroot.com^
 ||sg2.tt502.eu.org^
+||sga21.es^
 ||sg-dns1.bancuh.com^
 ||sg-dns2.bancuh.com^
 ||sg-dns.lista.my.id^
@@ -2721,6 +2727,7 @@
 ||shield.afixer.app^
 ||shieldsup.spearing.net^
 ||shijiu.asia^
+||sh.telex.app^
 ||siddeus.synology.me^
 ||s.idsam.com^
 ||sin01.dnscry.pt^
@@ -2838,7 +2845,6 @@
 ||tran.net.vn^
 ||travis90x.ddns.net^
 ||trf01.dnscry.pt^
-||triton.data.haus^
 ||trovs.ru^
 ||trr.dns.nextdns.io^
 ||trytackle.ddns.net^
