@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2402060245 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2402070242 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2024-02-06 02:45:06 (UTC)
+; Last updated: 2024-02-07 02:42:24 (UTC)
 ;
 ; See https://jpgpi250.github.io/piholemanual/doc/Unbound%20response%20policy%20zones.pdf
 ; Report issues at https://github.com/jpgpi250/piholemanual/issues
@@ -16,6 +16,7 @@ $TTL 30
 ;
 001.smallnode.net CNAME .
 1001.cloudflare-dns.com CNAME .
+10787578eb1e4b75adfa6b2a4bdea0b5.pacloudflare.com CNAME .
 1.0rz.space CNAME .
 1111.cloudflare-dns.com CNAME .
 1.11i.eu CNAME .
@@ -52,6 +53,7 @@ $TTL 30
 77980.bodis.com CNAME .
 7agb96-dns.komeho.info CNAME .
 8888.google CNAME .
+90c3f3bd03394bebaa20741314cef947.pacloudflare.com CNAME .
 959818.xyz CNAME .
 a1507.asuscomm.com CNAME .
 a5135324.csie.io CNAME .
@@ -408,6 +410,7 @@ an.loliconapp.top CNAME .
 a.ns.dnslify.com CNAME .
 antarlangit.my.id CNAME .
 ant.dns.qwer.pw CNAME .
+antidns.s.tuna.tsinghua.edu.cn CNAME .
 antivirus.bebasid.com CNAME .
 antonyfrompnz.space CNAME .
 anycast.censurfridns.dk CNAME .
@@ -467,7 +470,6 @@ azagramac.duckdns.org CNAME .
 azure.cloudflare-dns.com CNAME .
 azure.quydang.name.vn CNAME .
 baedns.duckdns.org CNAME .
-banana.991123.xyz CNAME .
 banhmiboyzzz.com CNAME .
 barnabech.fr CNAME .
 barsipgpt.com CNAME .
@@ -663,6 +665,7 @@ de.teradns.org CNAME .
 dev.camelstrike.xyz CNAME .
 dev.gonnadive.com CNAME .
 deweerd.loseyourip.com CNAME .
+dff029179c4246e385296ea8de0b8eb8.pacloudflare.com CNAME .
 dfw01.dnscry.pt CNAME .
 d.gametechnet.com CNAME .
 dgca.myds.me CNAME .
@@ -1850,6 +1853,7 @@ filya.hr.i81.ru CNAME .
 filya.vd.i81.ru CNAME .
 filya.vpn.i81.ru CNAME .
 findmethedns.info CNAME .
+firefenix.ddns.net CNAME .
 firefox.dns.nextdns.io CNAME .
 fjr01.dnscry.pt CNAME .
 flat.loisy.it CNAME .
@@ -2025,7 +2029,6 @@ ime-ingenierias.xyz CNAME .
 in-blr.doh.sb CNAME .
 inde.ragnvindr.org CNAME .
 ines.zfn.uni-bremen.de CNAME .
-inf-wan.vip.meituan.com CNAME .
 ingenmannsland.online CNAME .
 inpssh.online CNAME .
 integration.dnsteam.globuscs.info CNAME .
@@ -2409,6 +2412,7 @@ ny.teradns.org CNAME .
 nyx.webteufel-it.solutions CNAME .
 nz01.dns4me.net CNAME .
 o1.lt CNAME .
+oci.tacomafia.net CNAME .
 ocp.cincloud.top CNAME .
 oculta.me CNAME .
 odoh.cloudflare-dns.com CNAME .
@@ -2428,7 +2432,6 @@ one.one.one.one CNAME .
 oneplus-10pro.aezadns.duckdns.org CNAME .
 onlyfriends.info CNAME .
 o--o.duckdns.org CNAME .
-o.o.ovpn.bond CNAME .
 opencdn.jomodns.com CNAME .
 open.dns0.eu CNAME .
 opennic1.eth-services.de CNAME .
@@ -2473,6 +2476,7 @@ paulopinto.duckdns.org CNAME .
 pccoach.ddns.net CNAME .
 pcd96.duckdns.org CNAME .
 pcgo.fun CNAME .
+pcjco.ovh CNAME .
 pcornet.freeboxos.fr CNAME .
 pdns.elecura.net CNAME .
 pdns.faelix.net CNAME .
@@ -2490,6 +2494,7 @@ phx01.dnscry.pt CNAME .
 pi1.node15.com CNAME .
 pi4.jnraptor.net CNAME .
 pi.daryllswer.net CNAME .
+piekacz.pl CNAME .
 pihole1.hoerli.net CNAME .
 pihole2.hoerli.net CNAME .
 pihole3.hoerli.net CNAME .
@@ -2849,6 +2854,7 @@ tpe01.dnscry.pt CNAME .
 tran.net.vn CNAME .
 travis90x.ddns.net CNAME .
 trf01.dnscry.pt CNAME .
+triton.data.haus CNAME .
 trovs.ru CNAME .
 trr.dns.nextdns.io CNAME .
 trytackle.ddns.net CNAME .
