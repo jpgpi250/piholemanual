@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2402070242 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2402080240 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2024-02-07 02:42:24 (UTC)
+; Last updated: 2024-02-08 02:40:51 (UTC)
 ;
 ; See https://jpgpi250.github.io/piholemanual/doc/Unbound%20response%20policy%20zones.pdf
 ; Report issues at https://github.com/jpgpi250/piholemanual/issues
@@ -22,12 +22,14 @@ $TTL 30
 1.11i.eu CNAME .
 15101844.xyz CNAME .
 180.0rz.space CNAME .
+19a8b89bb6b2491ca5cccbeb0e84a4c4.pacloudflare.com CNAME .
 1and1-dns.de CNAME .
 1a.ns.ozer.im CNAME .
 1b.ns.ozer.im CNAME .
 1.dns.noridev.moe CNAME .
 1dot1dot1dot1.cloudflare-dns.com CNAME .
 1dot1dot1dot1.cloudflaredns.com CNAME .
+1.rock-review.ru CNAME .
 2.0rz.space CNAME .
 2.11i.eu CNAME .
 233py.com CNAME .
@@ -48,6 +50,7 @@ $TTL 30
 3x2y.tk CNAME .
 45-76-84-146.colo.xandodigital.net CNAME .
 4yix.l.time4vps.cloud CNAME .
+546413.xyz CNAME .
 5g.o0o.re CNAME .
 6e47fb7.online-server.cloud CNAME .
 77980.bodis.com CNAME .
@@ -88,6 +91,7 @@ adblock.lv1.dns.nixnet.xyz CNAME .
 adblock.mydns.network CNAME .
 adblock.ny1.dns.nixnet.xyz CNAME .
 adblock.weresolve.in CNAME .
+adbl-tslagter.nl CNAME .
 adb-wan.xaoimoon.fr CNAME .
 addns1.m-it.ro CNAME .
 addns.clubbase.club CNAME .
@@ -168,7 +172,6 @@ adguard.cnbeining.com CNAME .
 adguard.coriolanus.top CNAME .
 adguard.crestfallen.de CNAME .
 adguard.crobix.ovh CNAME .
-adguard.darrenhizon.com CNAME .
 adguardde1.rawalker.co.nz CNAME .
 adguard.deersg.duckdns.org CNAME .
 adguard.dehb.ru CNAME .
@@ -182,6 +185,7 @@ adguard.dizdarevic.dev CNAME .
 adguard-dns.com CNAME .
 adguard-dns.eu.org CNAME .
 adguard-dns.rouga.ch CNAME .
+adguard.docker.xnj.ovh CNAME .
 adguard.dsns.cloud CNAME .
 adguard.dtness.com CNAME .
 adguard.ef67daisuki.club CNAME .
@@ -207,7 +211,6 @@ adguard.haneulo.com CNAME .
 adguard.helpdesk38.ru CNAME .
 adguardh.ga CNAME .
 adguardhome.atakorah.com CNAME .
-adguardhome.ddns.net CNAME .
 adguardhome.fr.couli.fr CNAME .
 adguard-home.myddns.me CNAME .
 adguard-home.server-on.net CNAME .
@@ -244,7 +247,6 @@ adguard.minetown.eu.org CNAME .
 adguard.mokocup.cf CNAME .
 adguard.mokocup.dev CNAME .
 adguard.mrmartian.co CNAME .
-adguard.mtuan.dev CNAME .
 adguard.multivpn.bz CNAME .
 adguard.netmasc.services CNAME .
 adguard.nielsenhost.dk CNAME .
@@ -313,7 +315,6 @@ adhome.chinghuat.com CNAME .
 adhome.maige.fun CNAME .
 adhome.nvtai.id.vn CNAME .
 ad.huyct.net CNAME .
-ad.hy131212.tk CNAME .
 ad.justincounts.com CNAME .
 adl01.dnscry.pt CNAME .
 adl.adfilter.net CNAME .
@@ -368,7 +369,6 @@ ag.iyn.one CNAME .
 ag.linux.repair CNAME .
 ag.marschi.de CNAME .
 agp01.tek411.com CNAME .
-ag.sageton.pl CNAME .
 ag.ssrahul96.xyz CNAME .
 ag.wntrmute.net CNAME .
 ahadns.net CNAME .
@@ -433,6 +433,8 @@ aridia.ru CNAME .
 arkadia100.pl CNAME .
 armorrush.eu.org CNAME .
 arm.zengmengyu1.tk CNAME .
+arrakis.korolyzer.com.br CNAME .
+arvilx3.tk CNAME .
 as17820865.click CNAME .
 as6604t-04.myasustor.com CNAME .
 a.safe.ns.dnslify.com CNAME .
@@ -462,6 +464,7 @@ a.vvvglass.com CNAME .
 awan.ftp.sh CNAME .
 aws.razor1911.xyz CNAME .
 axaxa.fun CNAME .
+axistechsupport.com CNAME .
 ax.ns1net.com CNAME .
 ayasesayuki.shop CNAME .
 aydank.freeddns.org CNAME .
@@ -469,7 +472,10 @@ ayzu.fun CNAME .
 azagramac.duckdns.org CNAME .
 azure.cloudflare-dns.com CNAME .
 azure.quydang.name.vn CNAME .
+bacer.msk.ru CNAME .
 baedns.duckdns.org CNAME .
+bahopir188.dnshome.de CNAME .
+banana.991123.xyz CNAME .
 banhmiboyzzz.com CNAME .
 barnabech.fr CNAME .
 barsipgpt.com CNAME .
@@ -494,6 +500,7 @@ bh.wael.name CNAME .
 bigart.su CNAME .
 bilidon.dnsuser.info CNAME .
 bilidon.info CNAME .
+biliun.me CNAME .
 bing.000036.xyz CNAME .
 b-ipv4.bhadrikais.my.id CNAME .
 b.jtt.ink CNAME .
@@ -521,12 +528,13 @@ bravedns.com CNAME .
 br.servers.legat.ml CNAME .
 b.safe.ns.dnslify.com CNAME .
 btb.dog CNAME .
+bt.luoo.cc CNAME .
+bucheli.synology.me CNAME .
 buc-m2.illmods.com CNAME .
 bughome.duckdns.org CNAME .
 bunch-o-nerds.com CNAME .
 bushido.node.rferee.dev CNAME .
 bushmancastle.duckdns.org CNAME .
-bvk.capy.su CNAME .
 bwh2.telex.app CNAME .
 bwh.why4free.top CNAME .
 bw.marsgo.top CNAME .
@@ -541,6 +549,7 @@ calm-crown.freemyip.com CNAME .
 canadianshield.cira.ca CNAME .
 carioka.dyndns.org CNAME .
 casapi4.ddns.net CNAME .
+c-asm.circumitor.de CNAME .
 catdns.org CNAME .
 cattery2.eastasia.cloudapp.azure.com CNAME .
 cattery2.noddos.top CNAME .
@@ -562,24 +571,25 @@ chanhome.xyz CNAME .
 chaos.altendorfme.com CNAME .
 chaos-system.de CNAME .
 chenrouter.chironys.com CNAME .
-chertila.tk CNAME .
 chewbacca.meganerd.nl CNAME .
 chlaebi.synology.me CNAME .
 chno.xyz CNAME .
+christcru.tk CNAME .
 chrome.cloudflare-dns.com CNAME .
 chromium.dns.nextdns.io CNAME .
 chronicle14.tplinkdns.com CNAME .
 chungocoai.name.vn CNAME .
 ch-zur-w-1.nashkan.net CNAME .
 cintra.ml CNAME .
+circumitor.de CNAME .
 cld.996969.xyz CNAME .
 cleanbrowsing.org CNAME .
 clean.dnsforge.de CNAME .
-cleandns.tk CNAME .
 clearweb.woodbridge.club CNAME .
 clic.eu.org CNAME .
 clientdns3.softcom.net CNAME .
 cloud.198.games CNAME .
+cloud.198.games.cdn.dnsv1.com CNAME .
 cloud8.yydsgod.eu.org CNAME .
 cloudbasesolutions.online CNAME .
 cloudflare-dns.com CNAME .
@@ -600,11 +610,13 @@ comss.one CNAME .
 comss.ru CNAME .
 connectix.xyz CNAME .
 contacts.dehb.ru CNAME .
+coriolanus.top CNAME .
 cossxiu.ga CNAME .
 cpux.ru CNAME .
 craft.vps.pw CNAME .
 crd.circl.lu CNAME .
 cristianocosta.me CNAME .
+c-rm.circumitor.de CNAME .
 crypto.sx CNAME .
 cubedns.com CNAME .
 cube.neubsi.at CNAME .
@@ -637,6 +649,7 @@ ddd.loukky.com CNAME .
 ddns.ddns.bigqy.eu.org CNAME .
 ddns.ddnsddns.online CNAME .
 ddns.itsnooblk.xyz CNAME .
+ddnsnet.site CNAME .
 ddns.oii.im CNAME .
 de1.danielnet.eu CNAME .
 de.deghy.ir CNAME .
@@ -736,6 +749,7 @@ dns.23-4.cn CNAME .
 dns.240527.xyz CNAME .
 dns2.afastserver.com CNAME .
 dns2.alekberg.net CNAME .
+dns2.baishiyuan.cn CNAME .
 dns2.bartoszturek.online CNAME .
 dns.2.bsh4.com CNAME .
 dns2.cbio.top CNAME .
@@ -854,7 +868,6 @@ dns.bebasid.com CNAME .
 dns.belnet.be CNAME .
 dns.benpro.fr CNAME .
 dns.beta.gandi.net CNAME .
-dns.bezainf.tk CNAME .
 dns.biliun.me CNAME .
 dns.bitdefender.net CNAME .
 dns.bitgeek.in CNAME .
@@ -904,7 +917,6 @@ dns.codarbyte.de CNAME .
 dns.colorfreedom.org CNAME .
 dns.comeonjames.club CNAME .
 dns.comss.one CNAME .
-dns.confrontingcode.com CNAME .
 dns.connect.fail CNAME .
 dns.containerpi.com CNAME .
 dns.cpux.ru CNAME .
@@ -926,6 +938,7 @@ dns.daw.dev CNAME .
 dns.decky.eu CNAME .
 dns.decloudus.com CNAME .
 dns.deekshith.in CNAME .
+dns.delia.is CNAME .
 dns.demirse.com CNAME .
 dns.developer.li CNAME .
 dns.dgea.fr CNAME .
@@ -1049,7 +1062,6 @@ dns.hempfoundation.net CNAME .
 dns.henek.ovh CNAME .
 dns.henek.ru CNAME .
 dns.herkhof.nl CNAME .
-dns.hesitance.site CNAME .
 dns.hinet.net CNAME .
 dns.hostingim.com CNAME .
 dns.hostux.net CNAME .
@@ -1145,6 +1157,7 @@ dns.larsdebruin.net CNAME .
 dns.lars-lehmann.net CNAME .
 dns.lashes-brow.ru CNAME .
 dns.lavir.com CNAME .
+dns.letmedo.cc CNAME .
 dns.lgprk.com CNAME .
 dns.lifeym.xyz CNAME .
 dns.lildinosaur.com CNAME .
@@ -1168,7 +1181,6 @@ dns.mandre.dev CNAME .
 dns.maolaohei.xyz CNAME .
 dns.marcbond.uk CNAME .
 dns.mathewakhil.online CNAME .
-dns.maxsoft.ro CNAME .
 dns.maybe.icu CNAME .
 dns.me7878.com CNAME .
 dns.meeo.win CNAME .
@@ -1199,7 +1211,6 @@ dns.moulticast.net CNAME .
 dns.mrfrost475.ru CNAME .
 dns.mrkaran.dev CNAME .
 dns.mrzbcli.ru CNAME .
-dns.msameh.tk CNAME .
 dns.msxnet.ru CNAME .
 dns.mudryi.ovh CNAME .
 dns.mullvad.net CNAME .
@@ -1276,7 +1287,6 @@ dns.philqoo.com CNAME .
 dns.phucbui.top CNAME .
 dns.pieterdherde.com CNAME .
 dns.pietjacobs.be CNAME .
-dns.ple91.tk CNAME .
 dns.pmxu.link CNAME .
 dnspod.clzapp.com CNAME .
 dns.pointless.chat CNAME .
@@ -1342,6 +1352,7 @@ dnssenoads.alekberg.net CNAME .
 dns.serdcebolit.ru CNAME .
 dns.servergs.net CNAME .
 dnsserver.mailchan.eu CNAME .
+dns.servizimv.it CNAME .
 dns.sev.monster CNAME .
 dns.shecan.ir CNAME .
 dns.shimul.me CNAME .
@@ -1396,7 +1407,6 @@ dns.telekom.de CNAME .
 dns.tesem.dog CNAME .
 dns-test-alb-2081756747.us-east-1.elb.amazonaws.com CNAME .
 dns.thebuckners.org CNAME .
-dns.thegodfatheriam.tk CNAME .
 dns.theres.one CNAME .
 dns.therifleman.name CNAME .
 dns.thhbdd.eu.org CNAME .
@@ -1450,6 +1460,7 @@ dns.varga-da.com CNAME .
 dns.vaultguard.eu CNAME .
 dns.vd.i81.ru CNAME .
 dns.vectorsigma.ru CNAME .
+dns.vegdiabetic.com CNAME .
 dns.victorhachard.fr CNAME .
 dns.vietdns.vn CNAME .
 dns.vinnyp.xyz CNAME .
@@ -1463,6 +1474,7 @@ dns.vmath.my.id CNAME .
 dns.vmisch.tech CNAME .
 dns.vpn.i81.ru CNAME .
 dnsvps.familiamv.ml CNAME .
+dnsvps.familiamv.net CNAME .
 dnsvps.porteii.com CNAME .
 dnsvs.ovh CNAME .
 dns.wahr.top CNAME .
@@ -1475,7 +1487,6 @@ dns.warpnine.de CNAME .
 dns.watch CNAME .
 dns.wdnts.ml CNAME .
 dns-weblock.wevpn.com CNAME .
-dns.webstor.net CNAME .
 dnswebvsn.com CNAME .
 dns.weixin.qq.com.cn CNAME .
 dns.wellstsai.com CNAME .
@@ -1697,7 +1708,6 @@ dohtrial.att.net CNAME .
 doh.umbrella.com CNAME .
 doh.us.dnswarden.com CNAME .
 doh.viatech.com.tw CNAME .
-doh.vpnglobal.my.id CNAME .
 doh.weleven.top CNAME .
 doh.westeu.pi-dns.com CNAME .
 doh.westus.pi-dns.com CNAME .
@@ -1761,7 +1771,6 @@ dot.xfinity.com CNAME .
 douglas.mebrak.fr CNAME .
 douglaster.com CNAME .
 dpeddi.myddns.com CNAME .
-dpserver87.ddns.net CNAME .
 dr-adguard.de CNAME .
 drwg.org CNAME .
 ds3617xs.jojo1204.xyz CNAME .
@@ -1772,7 +1781,6 @@ dukun.de CNAME .
 dupatruwi22.fun CNAME .
 dus01.dnscry.pt CNAME .
 dus.ysbs.uk CNAME .
-duyyen.tk CNAME .
 dyn-ip.borjalopez.eu CNAME .
 e23aad3.online-server.cloud CNAME .
 ea-dns.rubyfish.cn CNAME .
@@ -1817,6 +1825,7 @@ externalmobiel.lekdijk.online CNAME .
 eyg01.dnscry.pt CNAME .
 f1.dns.s3cure.me CNAME .
 f2-dns.asuzac.com.vn CNAME .
+f97.xyz CNAME .
 family.5ososea.com CNAME .
 family.adguard-dns.com CNAME .
 family.canadianshield.cira.ca CNAME .
@@ -1878,6 +1887,8 @@ freeside.wntrmute.net CNAME .
 free.sootoon.xyz CNAME .
 fr-gra-w-f-1.nashkan.net CNAME .
 friend.bedro.cloud CNAME .
+fritz-er.circumitor.de CNAME .
+fritz-hbh.circumitor.de CNAME .
 frog.dns.qwer.pw CNAME .
 fr-par-w-1.nashkan.net CNAME .
 fr-sbg-w-4.nashkan.net CNAME .
@@ -1891,6 +1902,7 @@ fvpn.jarvishome.ru CNAME .
 fwgw.orangepipc.mywire.org CNAME .
 gaia.plonknet.com CNAME .
 galileo.math.unipd.it CNAME .
+gandhico2.duckdns.org CNAME .
 gate.blackrain.sbs CNAME .
 gateway.baltes.info CNAME .
 gateway.fomichev.cloud CNAME .
@@ -1926,11 +1938,13 @@ green3.jnraptor.net CNAME .
 green4.jnraptor.net CNAME .
 greppie.nl CNAME .
 groupy.ga CNAME .
+grunwald-marc.de CNAME .
 gtm-sg-5r538sziu04.go-behind.one CNAME .
+guanmengkai.com CNAME .
+guanmengkai.com.w.kunlunpi.com CNAME .
 guard.19kom.de CNAME .
 guard.beliefanx.me CNAME .
 guardhome.fatihkuyuk.com.tr CNAME .
-guard-linodefree.tk CNAME .
 guard.lumusimc.co.uk CNAME .
 guard.magic-pics.tk CNAME .
 guard.pp.ua CNAME .
@@ -2029,6 +2043,7 @@ ime-ingenierias.xyz CNAME .
 in-blr.doh.sb CNAME .
 inde.ragnvindr.org CNAME .
 ines.zfn.uni-bremen.de CNAME .
+inf-wan.vip.meituan.com CNAME .
 ingenmannsland.online CNAME .
 inpssh.online CNAME .
 integration.dnsteam.globuscs.info CNAME .
@@ -2234,6 +2249,7 @@ mask-api.icloud.com CNAME .
 mask.apple-dns.net CNAME .
 mask-h2.icloud.com CNAME .
 mask.icloud.com CNAME .
+m-asm.circumitor.de CNAME .
 mastergad.me CNAME .
 masters-of-cloud.de CNAME .
 matthias-prost.com CNAME .
@@ -2241,8 +2257,8 @@ matvey.dns.vladpro.ru CNAME .
 mavrikk.duckdns.org CNAME .
 maxfong.cc CNAME .
 max.rethinkdns.com CNAME .
-max.sardinesindigo.cf CNAME .
 mbz.meudns.minhacasainteligente.cf CNAME .
+m-cm.circumitor.de CNAME .
 mcttechs.com CNAME .
 md5mtp4y.fbxos.fr CNAME .
 mdxl.ru CNAME .
@@ -2262,13 +2278,16 @@ mkvvpssrv12.freemyip.com CNAME .
 m.myspace.sbs CNAME .
 mo0on15.com CNAME .
 moaz-adguard.duckdns.org CNAME .
+mock-rw.de CNAME .
 moonbd.top CNAME .
 morbitzer.de CNAME .
 moto.adg.siudzinski.net CNAME .
 mozilla.cloudflare-dns.com CNAME .
+m-rm.circumitor.de CNAME .
 mr-romero.com CNAME .
 mru01.dnscry.pt CNAME .
 msr177.com CNAME .
+mtdkdhs0.slt.sched.tdnsv8.com CNAME .
 muc01.dnscry.pt CNAME .
 muc-ns01.ibytex.systems CNAME .
 muli.stusta.mhn.de CNAME .
@@ -2278,6 +2297,7 @@ mx1.laoxiao789.com CNAME .
 mydevpn.eu CNAME .
 mydns.bielperes.me CNAME .
 mydns.cloud CNAME .
+mydnssabeen.duckdns.org CNAME .
 my.influa-dev.fr CNAME .
 myip.mmmalia.com CNAME .
 mypihole.hopto.org CNAME .
@@ -2349,7 +2369,6 @@ nrusimha.crabdance.com CNAME .
 ns.00dani.me CNAME .
 ns0.fdn.fr CNAME .
 ns1.1899.com.mx CNAME .
-ns1.95997.ip-ns.net CNAME .
 ns1.bit-trails.nl CNAME .
 ns1.depotthai.army CNAME .
 ns1.dnsprivacy.at CNAME .
@@ -2412,7 +2431,6 @@ ny.teradns.org CNAME .
 nyx.webteufel-it.solutions CNAME .
 nz01.dns4me.net CNAME .
 o1.lt CNAME .
-oci.tacomafia.net CNAME .
 ocp.cincloud.top CNAME .
 oculta.me CNAME .
 odoh.cloudflare-dns.com CNAME .
@@ -2432,6 +2450,7 @@ one.one.one.one CNAME .
 oneplus-10pro.aezadns.duckdns.org CNAME .
 onlyfriends.info CNAME .
 o--o.duckdns.org CNAME .
+o.o.ovpn.bond CNAME .
 opencdn.jomodns.com CNAME .
 open.dns0.eu CNAME .
 opennic1.eth-services.de CNAME .
@@ -2443,6 +2462,7 @@ opera.cloudflare-dns.com CNAME .
 op.htyweb.top CNAME .
 or2o.tk CNAME .
 ora1.nocnik.org CNAME .
+oracle001.330k.biz CNAME .
 oracle2.herry.dev CNAME .
 oraclejp2.chungyu.com CNAME .
 oradns.anbitech.com CNAME .
@@ -2476,7 +2496,6 @@ paulopinto.duckdns.org CNAME .
 pccoach.ddns.net CNAME .
 pcd96.duckdns.org CNAME .
 pcgo.fun CNAME .
-pcjco.ovh CNAME .
 pcornet.freeboxos.fr CNAME .
 pdns.elecura.net CNAME .
 pdns.faelix.net CNAME .
@@ -2511,6 +2530,7 @@ pluton.plan9dns.com CNAME .
 pl-waw-w-1.nashkan.net CNAME .
 pl-waw-w-2.nashkan.net CNAME .
 pl-waw-w-p-1.nashkan.net CNAME .
+pooblet.co.za CNAME .
 pope.cnblw.me CNAME .
 portal.iddqd.uk CNAME .
 postalsv1.mkid.top CNAME .
@@ -2609,7 +2629,6 @@ resolve.srv-pro.de CNAME .
 resov.wehao.net CNAME .
 res.zijji.com CNAME .
 rethinkdns.com CNAME .
-reversedns.one CNAME .
 rgnet-iad.anycast.censurfridns.dk CNAME .
 rgnet-iad.anycast.censurfridns.nu CNAME .
 rgnet-iad.anycast.uncensoreddns.dk CNAME .
@@ -2626,6 +2645,7 @@ rlauu.duckdns.org CNAME .
 rndns.com CNAME .
 robertfenyiner.ddns.net CNAME .
 ro-buc-w-2.nashkan.net CNAME .
+ro-buc-w-f-1.nashkan.net CNAME .
 roma.vpn.geshido.ru CNAME .
 rootdns.anir0y.in CNAME .
 roucious.dyndns-remote.com CNAME .
@@ -2788,6 +2808,7 @@ stratus.bugz.fr CNAME .
 streamsmoke.com CNAME .
 strk12-filter.mtbroadband.us CNAME .
 stuxen.duckdns.org CNAME .
+sukidayo.eu.org CNAME .
 sundalandia.pp.ua CNAME .
 sunnygyl.com CNAME .
 surfbelow.com CNAME .
@@ -2826,10 +2847,12 @@ testguard.meexx.de CNAME .
 tetra.aeins.at CNAME .
 tezoi.duckdns.org CNAME .
 tg2a7d4.glddns.com CNAME .
+thamrin.ddns.net CNAME .
 thanos.pleumkungz.com CNAME .
 thefamilypuls.com CNAME .
 thefuturegg.xyz CNAME .
 tienpham.id.vn CNAME .
+tiger2.tk CNAME .
 tiger.dns.qwer.pw CNAME .
 tigrons.ru CNAME .
 timedns.org CNAME .
@@ -2846,6 +2869,7 @@ tlz.asia CNAME .
 toaster.lol CNAME .
 tokyodns.songnguyen.name.vn CNAME .
 to.llzz.top CNAME .
+tondns.fr CNAME .
 tor.cloudflare-dns.com CNAME .
 tor.vasi.li CNAME .
 towman.ddns.net CNAME .
@@ -2854,6 +2878,7 @@ tpe01.dnscry.pt CNAME .
 tran.net.vn CNAME .
 travis90x.ddns.net CNAME .
 trf01.dnscry.pt CNAME .
+tr-ist-w-p-2.nashkan.net CNAME .
 triton.data.haus CNAME .
 trovs.ru CNAME .
 trr.dns.nextdns.io CNAME .
@@ -2872,7 +2897,6 @@ ua-kyv-w-1.nashkan.net CNAME .
 ublock-dns-resolver-01.swedencentral.cloudapp.azure.com CNAME .
 ublock-dns-resolver-02.northeurope.cloudapp.azure.com CNAME .
 ublock-dns-resolver-03.westeurope.cloudapp.azure.com CNAME .
-ubuntu1.adgw.tk CNAME .
 ueni.dyndns.org CNAME .
 uf-dns.lista.my.id CNAME .
 uk01.dns4me.net CNAME .
@@ -2943,6 +2967,7 @@ v3.passby.eu.org CNAME .
 v6.rubyfish.cn CNAME .
 v7.frame-one.cc CNAME .
 vaasa.songnguyen.name.vn CNAME .
+vadim.online CNAME .
 vanced.sytes.net CNAME .
 vancrafter.click CNAME .
 vanes32.duckdns.org CNAME .
@@ -2969,6 +2994,7 @@ vm.mytm.cc CNAME .
 vmok.ru CNAME .
 vn-hcm-w-1.nashkan.net CNAME .
 void-gate.irre.li CNAME .
+volkens.services CNAME .
 vova.hr.i81.ru CNAME .
 vovale.hr.i81.ru CNAME .
 vovale.vd.i81.ru CNAME .
@@ -3119,7 +3145,6 @@ www.abovetheclouds.fun CNAME .
 www.acomit.lk CNAME .
 www.adg.datamatter.co.za CNAME .
 www.adguard.marto.si CNAME .
-www.adguard-server.cf CNAME .
 www.andrewnw.xyz CNAME .
 www.ayzu.fun CNAME .
 www.barnabech.fr CNAME .
@@ -3127,7 +3152,6 @@ www.beautifullife.eu.org CNAME .
 www.beautifulthings.eu.org CNAME .
 www.bilidon.info CNAME .
 www.c-dns.com CNAME .
-www.chertila.tk CNAME .
 www.chlaebi.info CNAME .
 www.chungocoai.name.vn CNAME .
 www.dehb.ru CNAME .
@@ -3166,7 +3190,7 @@ www.pukanuragan.ru CNAME .
 www.qwenty.ru CNAME .
 www.richardo.net CNAME .
 www.srgaghome.freemyip.com CNAME .
-www.starinmars.life CNAME .
+www.sukidayo.eu.org CNAME .
 www.surfbelow.com CNAME .
 www.svg33.eu CNAME .
 www.szyrzyk.pl CNAME .
@@ -3181,6 +3205,7 @@ www.vpn.stroialliance.com CNAME .
 www.zburger.top CNAME .
 wyx.cloud CNAME .
 x861g.duckdns.org CNAME .
+xdns.my.id CNAME .
 xenergy.cc CNAME .
 xfer.au CNAME .
 xhol.top CNAME .
@@ -3205,8 +3230,6 @@ ycg01.dnscry.pt CNAME .
 ychen.cf CNAME .
 ychen.ga CNAME .
 ychen.gq CNAME .
-ychen.tk CNAME .
-ycy3.hyf.cool CNAME .
 ymjx.shimmerl.top CNAME .
 ymq01.dnscry.pt CNAME .
 yory2cave.hopto.me CNAME .
