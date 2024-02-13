@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2024-02-11 02:50:35 (UTC)
+! Last updated: 2024-02-12 03:25:11 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -18,6 +18,7 @@
 ||1.11i.eu^
 ||15101844.xyz^
 ||180.0rz.space^
+||19a8b89bb6b2491ca5cccbeb0e84a4c4.pacloudflare.com^
 ||1and1-dns.de^
 ||1a.ns.ozer.im^
 ||1b.ns.ozer.im^
@@ -219,7 +220,6 @@
 ||adguard.josephyap.me^
 ||adguard.jpjb.net^
 ||adguard.jwhan99.xyz^
-||adguard.kantinyoyok.xyz^
 ||adguard-kartoffel.zernico.de^
 ||adguard.kiboko.it^
 ||adguard.k-likhachev.ru^
@@ -241,7 +241,6 @@
 ||adguard.minetown.eu.org^
 ||adguard.mokocup.cf^
 ||adguard.mokocup.dev^
-||adguard.mrmartian.co^
 ||adguard.multivpn.bz^
 ||adguard.netmasc.services^
 ||adguard.nielsenhost.dk^
@@ -378,6 +377,9 @@
 ||albertocognetti.com^
 ||alexpollard.synology.me^
 ||ali.dn53.my.id^
+||alidns2.cb1999.top^
+||alidns.51top.info^
+||alidns.cb1999.top^
 ||alidns.com^
 ||ali.loveweiqi.cn^
 ||alisa.hr.i81.ru^
@@ -553,6 +555,7 @@
 ||caycewebsolutions.com^
 ||ca-yyc.doh.sb^
 ||ca-yyz.doh.sb^
+||cbs.arashi.solutions^
 ||cc210b36bb9e.sn.mynetname.net^
 ||cc2.v8er.net^
 ||c.cicitt.ch^
@@ -704,12 +707,14 @@
 ||dns0.permafrostmiami.com^
 ||dns0.tardishost.ru^
 ||dns10.quad9.net^
+||dns1.1byte.top^
 ||dns11.quad9.net^
 ||dns12.quad9.net^
 ||dns13.quad9.net^
 ||dns140.zhhz.cc^
 ||dns168.zhhz.cc^
 ||dns1.adrianion.eu^
+||dns.1byte.top^
 ||dns1.conne.net^
 ||dns1.digitale-gesellschaft.ch^
 ||dns1.dnscrypt.ca^
@@ -763,6 +768,7 @@
 ||dns2.lezainski.com^
 ||dns2.linzefeng.top^
 ||dns2.luan.contact^
+||dns2.modcake.club^
 ||dns2.nextdns.io^
 ||dns2.nhgnet.de^
 ||dns.2poi.com^
@@ -785,12 +791,15 @@
 ||dns3.wistarip.com^
 ||dns.4ab.nl^
 ||dns4.imkvq.com^
+||dns4.mannix.top^
 ||dns4me.net^
 ||dns.4-the.win^
 ||dns.52306.org^
 ||dns.58jdl.com^
 ||dns.5ive.net^
+||dns5.mannix.top^
 ||dns.5ososea.com^
+||dns.5pj58.ltd^
 ||dns64.cloudflare-dns.com^
 ||dns64.dns.google^
 ||dns72.automationhome.my.id^
@@ -884,6 +893,7 @@
 ||dns.c0ntroller.de^
 ||dns.c515.icu^
 ||dnscache.e-utp.net^
+||dnscache.redflagblog.org^
 ||dns.canavan.co^
 ||dns.carson-family.com^
 ||dns.carter.me^
@@ -909,6 +919,7 @@
 ||dns.cloud.ionutl.ro^
 ||dns.cloudseriousshit.com^
 ||dns.cloudtrust.solutions^
+||dns.clun.top^
 ||dns.cmrg.net^
 ||dns.cnblw.me^
 ||dns.codarbyte.de^
@@ -1009,11 +1020,9 @@
 ||dns.faze.dev^
 ||dns.fb.i81.ru^
 ||dns.fc.idv.tw^
-||dns.feldy.my.id^
 ||dns.fifux.be^
 ||dns.filipccz.eu^
 ||dns.flatuslifir.is^
-||dns.flwagners.com^
 ||dns.flymc.cc^
 ||dnsforfamily.com^
 ||dnsforge.de^
@@ -1045,10 +1054,12 @@
 ||dns.google.com^
 ||dns.goshawk22.uk^
 ||dnsg.psyk.fr^
+||dns.gptofjiang.top^
 ||dns.grqu.de^
 ||dns.gt500.ru^
 ||dns-guard1.cryptroute.com^
 ||dns-guard2.cryptroute.com^
+||dns.guard.io^
 ||dns.h0schi.cloud^
 ||dns.ha-dvin.pp.ua^
 ||dns.hafidzradhival.my.id^
@@ -1314,7 +1325,6 @@
 ||dns.rbs.my.id^
 ||dns.reckoningslug.name^
 ||dns.redroot.me^
-||dns.repressoh.it^
 ||dns.req1.fr^
 ||dns.resoft.org^
 ||dns.retakecs.com^
@@ -1464,7 +1474,6 @@
 ||dns.victorhachard.fr^
 ||dns.vietdns.vn^
 ||dns.vinnyp.xyz^
-||dns.vinokurov.tk^
 ||dns.virtualize.technology^
 ||dns.vishalk.com^
 ||dns.vk09.ru^
@@ -1655,7 +1664,6 @@
 ||doh.meetz.pw^
 ||doh.micronets.in^
 ||doh.mmmalia.com^
-||doh.morizt.id^
 ||doh.mullvad.net^
 ||doh.neowutran.ovh^
 ||doh.netweaver.uk^
@@ -1866,7 +1874,6 @@
 ||filya.vd.i81.ru^
 ||filya.vpn.i81.ru^
 ||findmethedns.info^
-||firefenix.ddns.net^
 ||firefox.dns.nextdns.io^
 ||fjr01.dnscry.pt^
 ||flat.loisy.it^
@@ -1906,7 +1913,6 @@
 ||fwgw.orangepipc.mywire.org^
 ||gaia.plonknet.com^
 ||galileo.math.unipd.it^
-||gandhico2.duckdns.org^
 ||gate.blackrain.sbs^
 ||gateway.baltes.info^
 ||gateway.fomichev.cloud^
@@ -2042,7 +2048,6 @@
 ||igor.vpn.i81.ru^
 ||ihctw.synology.me^
 ||iij.jp^
-||ii.lov.host^
 ||ikarosalpha.xyz^
 ||ime-ingenierias.xyz^
 ||in-blr.doh.sb^
@@ -2457,6 +2462,7 @@
 ||oneplus-10pro.aezadns.duckdns.org^
 ||onlyfriends.info^
 ||o--o.duckdns.org^
+||o.o.ovpn.bond^
 ||opencdn.jomodns.com^
 ||open.dns0.eu^
 ||opennic1.eth-services.de^
@@ -2540,7 +2546,6 @@
 ||pooblet.co.za^
 ||pope.cnblw.me^
 ||portal.iddqd.uk^
-||postalsv1.mkid.top^
 ||pqh.ddns.net^
 ||premiumtier-network.instadart.net^
 ||preview.dnsteam.globuscs.info^
@@ -2579,7 +2584,6 @@
 ||pure.sunnygyl.com^
 ||q3i6k7j3.stackpathcdn.com^
 ||qaz.tw^
-||qbak.no-ip.eu^
 ||qlf-doh.inria.fr^
 ||qual.cuprum.ru^
 ||quangdo92.dynu.net^
@@ -2937,7 +2941,6 @@
 ||us02.dns4me.net^
 ||us1.blissdns.net^
 ||us1.dns.lavate.ch^
-||us1.easyflying.top^
 ||us5.wan.hc7z.com^
 ||usa1.altcensored.com^
 ||usad.cloudbasesolutions.online^
@@ -3077,7 +3080,6 @@
 ||vps310.brueggus.de^
 ||vps311.brueggus.de^
 ||vps312.brueggus.de^
-||vps313.brueggus.de^
 ||vps314.brueggus.de^
 ||vps324.brueggus.de^
 ||vps325.brueggus.de^
