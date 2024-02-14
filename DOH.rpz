@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2402130315 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2402140253 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2024-02-13 03:15:00 (UTC)
+; Last updated: 2024-02-14 02:53:36 (UTC)
 ;
 ; See https://jpgpi250.github.io/piholemanual/doc/Unbound%20response%20policy%20zones.pdf
 ; Report issues at https://github.com/jpgpi250/piholemanual/issues
@@ -413,6 +413,7 @@ an.loliconapp.top CNAME .
 a.ns.dnslify.com CNAME .
 antarlangit.my.id CNAME .
 ant.dns.qwer.pw CNAME .
+antidns.s.tuna.tsinghua.edu.cn CNAME .
 antivirus.bebasid.com CNAME .
 antonyfrompnz.space CNAME .
 anycast.censurfridns.dk CNAME .
@@ -594,6 +595,7 @@ clearweb.woodbridge.club CNAME .
 clic.eu.org CNAME .
 clientdns3.softcom.net CNAME .
 cloud.198.games CNAME .
+cloud.198.games.cdn.dnsv1.com CNAME .
 cloud8.yydsgod.eu.org CNAME .
 cloudbasesolutions.online CNAME .
 cloudflare-dns.com CNAME .
@@ -1537,7 +1539,6 @@ doh-01.spectrum.com CNAME .
 doh-02.spectrum.com CNAME .
 doh-03.spectrum.com CNAME .
 doh.167g.com CNAME .
-doh.167g.com.eo.dnse1.com CNAME .
 doh1.alidns.com CNAME .
 doh1.b-cdn.net CNAME .
 doh1.blahdns.com CNAME .
@@ -1640,6 +1641,7 @@ doh.iucc.ac.il CNAME .
 doh.jeroenhd.nl CNAME .
 doh-jp.blahdns.com CNAME .
 doh.killtw.im CNAME .
+doh.klizi.cn.cdn.cloudflare.net CNAME .
 doh.la.ahadns.net CNAME .
 doh.lacontrevoie.fr CNAME .
 doh-lb-atl.dnsflex.com CNAME .
@@ -1833,6 +1835,7 @@ exns1.exalto.nu CNAME .
 extended.dns.mullvad.net CNAME .
 externalmobiel.lekdijk.online CNAME .
 eyg01.dnscry.pt CNAME .
+f03a0e2fa9f5.sn.mynetname.net CNAME .
 f1.dns.s3cure.me CNAME .
 f2-dns.asuzac.com.vn CNAME .
 f97.xyz CNAME .
@@ -2298,6 +2301,7 @@ m-rm.circumitor.de CNAME .
 mr-romero.com CNAME .
 mru01.dnscry.pt CNAME .
 msr177.com CNAME .
+mtdkdhs0.slt.sched.tdnsv8.com CNAME .
 muc01.dnscry.pt CNAME .
 muc-ns01.ibytex.systems CNAME .
 muli.stusta.mhn.de CNAME .
@@ -2380,7 +2384,6 @@ nrusimha.crabdance.com CNAME .
 ns.00dani.me CNAME .
 ns0.fdn.fr CNAME .
 ns1.1899.com.mx CNAME .
-ns1.95997.ip-ns.net CNAME .
 ns1.bit-trails.nl CNAME .
 ns1.depotthai.army CNAME .
 ns1.dnsprivacy.at CNAME .
@@ -2398,7 +2401,6 @@ ns1.recursive.dnsbycomodo.com CNAME .
 ns2.1899.com.mx CNAME .
 ns2.dnsprivacy.at CNAME .
 ns2.doh.best CNAME .
-ns2-doh.iriseden.fr CNAME .
 ns2.flodns.net CNAME .
 ns2.hjk.kr CNAME .
 ns2.hjk.me CNAME .
@@ -2443,6 +2445,7 @@ ny.teradns.org CNAME .
 nyx.webteufel-it.solutions CNAME .
 nz01.dns4me.net CNAME .
 o1.lt CNAME .
+oci.tacomafia.net CNAME .
 ocp.cincloud.top CNAME .
 oculta.me CNAME .
 odoh.cloudflare-dns.com CNAME .
@@ -2462,6 +2465,7 @@ one.one.one.one CNAME .
 oneplus-10pro.aezadns.duckdns.org CNAME .
 onlyfriends.info CNAME .
 o--o.duckdns.org CNAME .
+o.o.ovpn.bond CNAME .
 opencdn.jomodns.com CNAME .
 open.dns0.eu CNAME .
 opennic1.eth-services.de CNAME .
@@ -2507,6 +2511,7 @@ paulopinto.duckdns.org CNAME .
 pccoach.ddns.net CNAME .
 pcd96.duckdns.org CNAME .
 pcgo.fun CNAME .
+pcjco.ovh CNAME .
 pcornet.freeboxos.fr CNAME .
 pdns.elecura.net CNAME .
 pdns.faelix.net CNAME .
