@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2402140253 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2402150300 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2024-02-14 02:53:36 (UTC)
+; Last updated: 2024-02-15 03:00:12 (UTC)
 ;
 ; See https://jpgpi250.github.io/piholemanual/doc/Unbound%20response%20policy%20zones.pdf
 ; Report issues at https://github.com/jpgpi250/piholemanual/issues
@@ -1835,7 +1835,6 @@ exns1.exalto.nu CNAME .
 extended.dns.mullvad.net CNAME .
 externalmobiel.lekdijk.online CNAME .
 eyg01.dnscry.pt CNAME .
-f03a0e2fa9f5.sn.mynetname.net CNAME .
 f1.dns.s3cure.me CNAME .
 f2-dns.asuzac.com.vn CNAME .
 f97.xyz CNAME .
@@ -1883,7 +1882,6 @@ flukeadopt.de CNAME .
 fly.io CNAME .
 fnt01.dnscry.pt CNAME .
 fonfrodo.asuscomm.com CNAME .
-forum.ginovs.nl CNAME .
 fr1.dnswarden.com CNAME .
 fr1.eastjoin.tk CNAME .
 fra01.dnscry.pt CNAME .
@@ -2384,6 +2382,7 @@ nrusimha.crabdance.com CNAME .
 ns.00dani.me CNAME .
 ns0.fdn.fr CNAME .
 ns1.1899.com.mx CNAME .
+ns1.95997.ip-ns.net CNAME .
 ns1.bit-trails.nl CNAME .
 ns1.depotthai.army CNAME .
 ns1.dnsprivacy.at CNAME .
@@ -2465,7 +2464,6 @@ one.one.one.one CNAME .
 oneplus-10pro.aezadns.duckdns.org CNAME .
 onlyfriends.info CNAME .
 o--o.duckdns.org CNAME .
-o.o.ovpn.bond CNAME .
 opencdn.jomodns.com CNAME .
 open.dns0.eu CNAME .
 opennic1.eth-services.de CNAME .
@@ -2898,7 +2896,6 @@ tran.net.vn CNAME .
 travis90x.ddns.net CNAME .
 trf01.dnscry.pt CNAME .
 tr-ist-w-p-2.nashkan.net CNAME .
-triton.data.haus CNAME .
 trovs.ru CNAME .
 trr.dns.nextdns.io CNAME .
 trytackle.ddns.net CNAME .
