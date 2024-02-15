@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2024-02-13 03:28:35 (UTC)
+! Last updated: 2024-02-14 03:07:11 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -409,6 +409,7 @@
 ||a.ns.dnslify.com^
 ||antarlangit.my.id^
 ||ant.dns.qwer.pw^
+||antidns.s.tuna.tsinghua.edu.cn^
 ||antivirus.bebasid.com^
 ||antonyfrompnz.space^
 ||anycast.censurfridns.dk^
@@ -590,6 +591,7 @@
 ||clic.eu.org^
 ||clientdns3.softcom.net^
 ||cloud.198.games^
+||cloud.198.games.cdn.dnsv1.com^
 ||cloud8.yydsgod.eu.org^
 ||cloudbasesolutions.online^
 ||cloudflare-dns.com^
@@ -1533,7 +1535,6 @@
 ||doh-02.spectrum.com^
 ||doh-03.spectrum.com^
 ||doh.167g.com^
-||doh.167g.com.eo.dnse1.com^
 ||doh1.alidns.com^
 ||doh1.b-cdn.net^
 ||doh1.blahdns.com^
@@ -1636,6 +1637,7 @@
 ||doh.jeroenhd.nl^
 ||doh-jp.blahdns.com^
 ||doh.killtw.im^
+||doh.klizi.cn.cdn.cloudflare.net^
 ||doh.la.ahadns.net^
 ||doh.lacontrevoie.fr^
 ||doh-lb-atl.dnsflex.com^
@@ -1829,6 +1831,7 @@
 ||extended.dns.mullvad.net^
 ||externalmobiel.lekdijk.online^
 ||eyg01.dnscry.pt^
+||f03a0e2fa9f5.sn.mynetname.net^
 ||f1.dns.s3cure.me^
 ||f2-dns.asuzac.com.vn^
 ||f97.xyz^
@@ -2294,6 +2297,7 @@
 ||mr-romero.com^
 ||mru01.dnscry.pt^
 ||msr177.com^
+||mtdkdhs0.slt.sched.tdnsv8.com^
 ||muc01.dnscry.pt^
 ||muc-ns01.ibytex.systems^
 ||muli.stusta.mhn.de^
@@ -2376,7 +2380,6 @@
 ||ns.00dani.me^
 ||ns0.fdn.fr^
 ||ns1.1899.com.mx^
-||ns1.95997.ip-ns.net^
 ||ns1.bit-trails.nl^
 ||ns1.depotthai.army^
 ||ns1.dnsprivacy.at^
@@ -2394,7 +2397,6 @@
 ||ns2.1899.com.mx^
 ||ns2.dnsprivacy.at^
 ||ns2.doh.best^
-||ns2-doh.iriseden.fr^
 ||ns2.flodns.net^
 ||ns2.hjk.kr^
 ||ns2.hjk.me^
@@ -2439,6 +2441,7 @@
 ||nyx.webteufel-it.solutions^
 ||nz01.dns4me.net^
 ||o1.lt^
+||oci.tacomafia.net^
 ||ocp.cincloud.top^
 ||oculta.me^
 ||odoh.cloudflare-dns.com^
@@ -2458,6 +2461,7 @@
 ||oneplus-10pro.aezadns.duckdns.org^
 ||onlyfriends.info^
 ||o--o.duckdns.org^
+||o.o.ovpn.bond^
 ||opencdn.jomodns.com^
 ||open.dns0.eu^
 ||opennic1.eth-services.de^
@@ -2503,6 +2507,7 @@
 ||pccoach.ddns.net^
 ||pcd96.duckdns.org^
 ||pcgo.fun^
+||pcjco.ovh^
 ||pcornet.freeboxos.fr^
 ||pdns.elecura.net^
 ||pdns.faelix.net^
