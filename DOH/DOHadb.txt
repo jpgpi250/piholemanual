@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2024-02-22 03:40:15 (UTC)
+! Last updated: 2024-02-23 03:46:22 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -18,7 +18,6 @@
 ||1.11i.eu^
 ||15101844.xyz^
 ||180.0rz.space^
-||19a8b89bb6b2491ca5cccbeb0e84a4c4.pacloudflare.com^
 ||1and1-dns.de^
 ||1a.ns.ozer.im^
 ||1b.ns.ozer.im^
@@ -137,6 +136,7 @@
 ||adguard2.unima.ac.id^
 ||adguard3.ota.moe^
 ||adguard4.ota.moe^
+||adguard.aa4.co.uk^
 ||adguard.abd.ong^
 ||adguard.acrobyte.org^
 ||adguard.alex-tools.dev^
@@ -546,6 +546,7 @@
 ||ca.doh.cloudveil.org^
 ||callies-online.site^
 ||calm-crown.freemyip.com^
+||camn.uk^
 ||canadianshield.cira.ca^
 ||carioka.dyndns.org^
 ||casapi4.ddns.net^
@@ -1302,7 +1303,6 @@
 ||dns.philqoo.com^
 ||dns.phucbui.top^
 ||dns.pieterdherde.com^
-||dns.pietjacobs.be^
 ||dns.pmxu.link^
 ||dnspod.clzapp.com^
 ||dns.pointless.chat^
@@ -1920,8 +1920,6 @@
 ||fwgw.orangepipc.mywire.org^
 ||gaia.plonknet.com^
 ||galileo.math.unipd.it^
-||gandhico2.duckdns.org^
-||gateway.baltes.info^
 ||gateway.fomichev.cloud^
 ||gauss.pp.ua^
 ||gb-bir-w-1.nashkan.net^
@@ -2097,7 +2095,6 @@
 ||jarjar.meganerd.nl^
 ||jcdns.fun^
 ||jefe.space^
-||jianyi.studio^
 ||jit.ddns.net^
 ||jkt01.dnscry.pt^
 ||jmarston.duckdns.org^
@@ -2180,7 +2177,6 @@
 ||kr-sel.doh.sb^
 ||krtekvpn.duckdns.org^
 ||kr.telex.app^
-||ks1.plop.cc^
 ||ksedns.ru^
 ||kstdownload.com^
 ||kswro.web.id^
@@ -2390,7 +2386,6 @@
 ||ns.00dani.me^
 ||ns0.fdn.fr^
 ||ns1.1899.com.mx^
-||ns1.95997.ip-ns.net^
 ||ns1.bit-trails.nl^
 ||ns1.depotthai.army^
 ||ns1.dnsprivacy.at^
@@ -2452,6 +2447,7 @@
 ||nyx.webteufel-it.solutions^
 ||nz01.dns4me.net^
 ||o1.lt^
+||oci.tacomafia.net^
 ||ocp.cincloud.top^
 ||oculta.me^
 ||odoh.cloudflare-dns.com^
@@ -2485,7 +2481,6 @@
 ||or2o.tk^
 ||ora1.nocnik.org^
 ||oracle001.330k.biz^
-||oracle2.herry.dev^
 ||oraclejp2.chungyu.com^
 ||oradns.anbitech.com^
 ||orau.lz0724.com^
@@ -2516,6 +2511,7 @@
 ||pccoach.ddns.net^
 ||pcd96.duckdns.org^
 ||pcgo.fun^
+||pcjco.ovh^
 ||pcornet.freeboxos.fr^
 ||pdns.elecura.net^
 ||pdns.faelix.net^
@@ -2614,6 +2610,7 @@
 ||raspberrydoc.duckdns.org^
 ||rasp.matthias-iwer.de^
 ||rayneau.fr^
+||rdjcloud.duckdns.org^
 ||rdjdns.ajraspi.xyz^
 ||rdns.faelix.net^
 ||rdu01.dnscry.pt^
@@ -3008,7 +3005,6 @@
 ||virmamp33.sytes.net^
 ||vlad.dns.vladpro.ru^
 ||vladpro.ru^
-||vm01.eban.eu.org^
 ||vm1.arashi.solutions^
 ||vm2.arashi.solutions^
 ||vm2.oowo.de^
@@ -3092,7 +3088,6 @@
 ||vps310.brueggus.de^
 ||vps311.brueggus.de^
 ||vps312.brueggus.de^
-||vps313.brueggus.de^
 ||vps314.brueggus.de^
 ||vps324.brueggus.de^
 ||vps325.brueggus.de^
