@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2024-02-27 03:40:31 (UTC)
+! Last updated: 2024-02-28 03:53:42 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -18,7 +18,6 @@
 ||1.11i.eu^
 ||15101844.xyz^
 ||180.0rz.space^
-||19a8b89bb6b2491ca5cccbeb0e84a4c4.pacloudflare.com^
 ||1and1-dns.de^
 ||1a.ns.ozer.im^
 ||1b.ns.ozer.im^
@@ -458,7 +457,6 @@
 ||au-syd-w-f-1.nashkan.net^
 ||au-syd-w-p-1.nashkan.net^
 ||au.teradns.org^
-||auto-cn-hk-8000.go-behind.one^
 ||aviemore.dns.walshnet.co.uk^
 ||a.vvvglass.com^
 ||awan.ftp.sh^
@@ -564,6 +562,7 @@
 ||c.cicitt.ch^
 ||ccyykk.top^
 ||cdn.0ms.dev^
+||cdn.45lnd.ir^
 ||c-dns.com^
 ||cdzopi.duckdns.org^
 ||ch01adguardho.me^
@@ -591,7 +590,6 @@
 ||clic.eu.org^
 ||clientdns3.softcom.net^
 ||cloud.198.games^
-||cloud.198.games.cdn.dnsv1.com^
 ||cloud8.yydsgod.eu.org^
 ||cloudbasesolutions.online^
 ||cloudflare-dns.com^
@@ -603,7 +601,6 @@
 ||cloud.tezoi.com^
 ||cluster-0.gac.edu^
 ||cluster-1.gac.edu^
-||cname-for-doh.go-behind.one^
 ||cn.turngreatwall.com^
 ||coe01.dnscry.pt^
 ||common.dot.dns.yandex.net^
@@ -901,6 +898,7 @@
 ||dns.cfd.com.ar^
 ||dns.cfiec.net^
 ||dns.chadeyron.fr^
+||dns.chalkychalk.com^
 ||dns.chaosen3.co.uk^
 ||dns.charraud.eu^
 ||dns.chenu.ch^
@@ -935,6 +933,7 @@
 ||dns.cubesworld.net^
 ||dns.cucaracha.space^
 ||dns.cwlys.com^
+||dns.cxl.moe^
 ||dns.cynthialabs.net^
 ||dns.d365.in^
 ||dns.d4d.moe^
@@ -1230,6 +1229,7 @@
 ||dns.mrzbcli.ru^
 ||dns.msxnet.ru^
 ||dns.mudryi.ovh^
+||dns.muellerstech.de^
 ||dns.mullvad.net^
 ||dns.murgi.de^
 ||dns.murzyn.top^
@@ -1269,6 +1269,7 @@
 ||dns.novali.date^
 ||dns.novg.net^
 ||dns.npe.bz^
+||dns.npsolution.it^
 ||dns.nt63.me^
 ||dns.nullgate.net^
 ||dns.nullrecon.com^
@@ -1798,6 +1799,7 @@
 ||douglaster.com^
 ||dpeddi.myddns.com^
 ||dr-adguard.de^
+||drandrade21.freeddns.org^
 ||drwg.org^
 ||ds3617xs.jojo1204.xyz^
 ||d.toairs.com^
@@ -1807,6 +1809,7 @@
 ||dupatruwi22.fun^
 ||dus01.dnscry.pt^
 ||dus.ysbs.uk^
+||duyyen.tk^
 ||dyn-ip.borjalopez.eu^
 ||e23aad3.online-server.cloud^
 ||ea-dns.rubyfish.cn^
@@ -1850,6 +1853,7 @@
 ||extended.dns.mullvad.net^
 ||externalmobiel.lekdijk.online^
 ||eyg01.dnscry.pt^
+||f03a0e2fa9f5.sn.mynetname.net^
 ||f1.dns.s3cure.me^
 ||f2-dns.asuzac.com.vn^
 ||f97.xyz^
@@ -1969,7 +1973,6 @@
 ||greppie.nl^
 ||groupy.ga^
 ||grunwald-marc.de^
-||gtm-sg-5r538sziu04.go-behind.one^
 ||guanmengkai.com^
 ||guard.19kom.de^
 ||guard.beliefanx.me^
@@ -2095,6 +2098,7 @@
 ||iris.woozeno.eu^
 ||i.roadanywhere.tk^
 ||irre.li^
+||isakula.space^
 ||isolacje.homeip.net^
 ||ist01.dnscry.pt^
 ||itlikehell.ru^
@@ -2109,6 +2113,7 @@
 ||jarjar.meganerd.nl^
 ||jcdns.fun^
 ||jefe.space^
+||jianyi.studio^
 ||jit.ddns.net^
 ||jkt01.dnscry.pt^
 ||jmarston.duckdns.org^
@@ -2190,7 +2195,6 @@
 ||kr.pigs.eu.org^
 ||kr-sel.doh.sb^
 ||krtekvpn.duckdns.org^
-||ks1.plop.cc^
 ||ksedns.ru^
 ||kstdownload.com^
 ||kswro.web.id^
@@ -2254,6 +2258,7 @@
 ||lv.long-nguyen.info^
 ||lv-rig-w-2.nashkan.net^
 ||lwhjszcnzjhz.site^
+||m9bgkdgyzjmo3efa.dscloud.mobi^
 ||ma1.guardmydns.com^
 ||macmini.qujing.eu.org^
 ||mad01.dnscry.pt^
@@ -2309,7 +2314,6 @@
 ||m.myspace.sbs^
 ||mo0on15.com^
 ||moaz-adguard.duckdns.org^
-||montmorot.duckdns.org^
 ||moonbd.top^
 ||morbitzer.de^
 ||moto.adg.siudzinski.net^
@@ -2318,7 +2322,6 @@
 ||mr-romero.com^
 ||mru01.dnscry.pt^
 ||msr177.com^
-||mtdkdhs0.slt.sched.tdnsv8.com^
 ||muc01.dnscry.pt^
 ||muc-ns01.ibytex.systems^
 ||muli.stusta.mhn.de^
@@ -2488,6 +2491,7 @@
 ||oneplus-10pro.aezadns.duckdns.org^
 ||onlyfriends.info^
 ||o--o.duckdns.org^
+||o.o.ovpn.bond^
 ||opencdn.jomodns.com^
 ||open.dns0.eu^
 ||opennic1.eth-services.de^
@@ -2500,7 +2504,6 @@
 ||or2o.tk^
 ||ora1.nocnik.org^
 ||oracle001.330k.biz^
-||oracle2.herry.dev^
 ||oraclejp2.chungyu.com^
 ||oradns.anbitech.com^
 ||orau.lz0724.com^
@@ -2875,7 +2878,6 @@
 ||tarni.pp.ua^
 ||tartanbahn.eu.org^
 ||tarugo.capeta.tk^
-||tbs01.dnscry.pt^
 ||td-doh.dns.t53.de^
 ||telex.app^
 ||terminalpower.top^
@@ -2887,8 +2889,7 @@
 ||testaghome.meshkov.info^
 ||test.dnsteam.globuscs.info^
 ||testguard.meexx.de^
-||tezoi.duckdns.org^
-||tg2a7d4.glddns.com^
+||tetra.aeins.at^
 ||thamrin.ddns.net^
 ||thanos.pleumkungz.com^
 ||thefamilypuls.com^
@@ -3115,7 +3116,6 @@
 ||vps312.brueggus.de^
 ||vps313.brueggus.de^
 ||vps314.brueggus.de^
-||vps324.brueggus.de^
 ||vps325.brueggus.de^
 ||vps326.brueggus.de^
 ||vps327.brueggus.de^
@@ -3190,6 +3190,7 @@
 ||win10virtual.vpn.i81.ru^
 ||wir.rbs-net.ru^
 ||woalongit.synology.me^
+||workcavestl.duckdns.org^
 ||www.1free.1capy.com^
 ||www.abovetheclouds.fun^
 ||www.acomit.lk^
@@ -3249,6 +3250,7 @@
 ||www.vik.ro^
 ||www.vpnhellings.nl^
 ||www.vpn.stroialliance.com^
+||www.workcavestl.duckdns.org^
 ||www.zburger.top^
 ||wyx.cloud^
 ||x861g.duckdns.org^
