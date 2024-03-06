@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2024-03-04 03:47:19 (UTC)
+! Last updated: 2024-03-05 06:39:34 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -18,6 +18,7 @@
 ||1.11i.eu^
 ||15101844.xyz^
 ||180.0rz.space^
+||19a8b89bb6b2491ca5cccbeb0e84a4c4.pacloudflare.com^
 ||1and1-dns.de^
 ||1a.ns.ozer.im^
 ||1b.ns.ozer.im^
@@ -268,6 +269,7 @@
 ||adguard.rdekuyper.nl^
 ||adguard.rennes.despagne.net^
 ||adguard.richardapplegate.io^
+||adguard.richoux.me^
 ||adguard.ro0t.us^
 ||adguard.rowdyengeesje.nl^
 ||adguard.searom.ovh^
@@ -552,6 +554,7 @@
 ||ca.doh.cloudveil.org^
 ||callies-online.site^
 ||calm-crown.freemyip.com^
+||camn.uk^
 ||canadianshield.cira.ca^
 ||carioka.dyndns.org^
 ||casapi4.ddns.net^
@@ -873,6 +876,7 @@
 ||dns.b33.space^
 ||dns.b612.me^
 ||dns.bahien.com^
+||dns.baishiyuan.cn^
 ||dns.bastnet.co^
 ||dns.bebasid.com^
 ||dns.belnet.be^
@@ -914,6 +918,7 @@
 ||dns.chriscsc.me^
 ||dns.chromeina.top^
 ||dns.circl.lu^
+||dns.citrahost.com^
 ||dnscity.org^
 ||dns.citystars.cn^
 ||dns.clanless.ovh^
@@ -1035,6 +1040,7 @@
 ||dns.fc.idv.tw^
 ||dns.fifux.be^
 ||dns.filipccz.eu^
+||dns.fills.cn^
 ||dns.flatuslifir.is^
 ||dns.flwagners.com^
 ||dns.flymc.cc^
@@ -1730,7 +1736,6 @@
 ||doh.securedns.eu^
 ||doh-sg.blahdns.com^
 ||doh.sidnlabs.nl^
-||doh.southam.family^
 ||doh.suadnim.cn^
 ||doh.syshero.org^
 ||doh.technochat.in^
@@ -1943,6 +1948,7 @@
 ||fwgw.orangepipc.mywire.org^
 ||gaia.plonknet.com^
 ||galileo.math.unipd.it^
+||gandhico2.duckdns.org^
 ||gateway.baltes.info^
 ||gateway.fomichev.cloud^
 ||gauss.pp.ua^
@@ -1957,6 +1963,7 @@
 ||gb-lon-w-p-2.nashkan.net^
 ||gc.cyberbeta.cn^
 ||gclouddns.com^
+||gcptw.minko.ren^
 ||geg01.dnscry.pt^
 ||genscorp.es^
 ||germvpnguard.duckdns.org^
@@ -2000,7 +2007,6 @@
 ||hahnjo.de^
 ||haswell-www.a.guindehi.ch^
 ||hcm.quydang.name.vn^
-||hdf084sqbme.sn.mynetname.net^
 ||heimdall.ff0x.ca^
 ||hel01.dnscry.pt^
 ||helios.plan9-dns.com^
@@ -2026,7 +2032,6 @@
 ||ho.hostme.co.il^
 ||hole.elbschloss.xyz^
 ||home27.duckdns.org^
-||home2.ddnss.eu^
 ||home47a.mooo.com^
 ||home.basthorst.eu^
 ||home.bruckmoser.it^
@@ -2208,7 +2213,6 @@
 ||kr.pigs.eu.org^
 ||kr-sel.doh.sb^
 ||krtekvpn.duckdns.org^
-||ks1.plop.cc^
 ||ksedns.ru^
 ||kstdownload.com^
 ||kswro.web.id^
@@ -2372,6 +2376,7 @@
 ||nas.guyifei.cn^
 ||nasiron.dynv6.net^
 ||nas-scheiben34.myasustor.com^
+||nas.stefanoperna.it^
 ||nastya.dns.vladpro.ru^
 ||nat64.tuxis.nl^
 ||naw01.dnscry.pt^
@@ -2404,6 +2409,7 @@
 ||nl-ams2.doh.sb^
 ||nl-ams.doh.sb^
 ||nl-ams-w-3.nashkan.net^
+||nlb.gbrossi.com.br^
 ||nl-dro-w-f-1.nashkan.net^
 ||nl-dro-w-p-1.nashkan.net^
 ||nlname.freecdn.one^
@@ -2487,7 +2493,6 @@
 ||nyx.webteufel-it.solutions^
 ||nz01.dns4me.net^
 ||o1.lt^
-||oci.tacomafia.net^
 ||ocp.cincloud.top^
 ||oculta.me^
 ||odoh.cloudflare-dns.com^
@@ -2521,6 +2526,7 @@
 ||or2o.tk^
 ||ora1.nocnik.org^
 ||oracle001.330k.biz^
+||oracle2.herry.dev^
 ||oraclejp2.chungyu.com^
 ||oradns.anbitech.com^
 ||orau.lz0724.com^
@@ -2552,7 +2558,6 @@
 ||pccoach.ddns.net^
 ||pcd96.duckdns.org^
 ||pcgo.fun^
-||pcjco.ovh^
 ||pcornet.freeboxos.fr^
 ||pdns.elecura.net^
 ||pdns.faelix.net^
@@ -2910,6 +2915,7 @@
 ||testguard.meexx.de^
 ||tetra.aeins.at^
 ||tezoi.duckdns.org^
+||tg2a7d4.glddns.com^
 ||thamrin.ddns.net^
 ||thanos.pleumkungz.com^
 ||thefamilypuls.com^
@@ -3048,6 +3054,7 @@
 ||virmamp33.sytes.net^
 ||vlad.dns.vladpro.ru^
 ||vladpro.ru^
+||vm01.eban.eu.org^
 ||vm1.arashi.solutions^
 ||vm2.arashi.solutions^
 ||vm2.oowo.de^
@@ -3076,7 +3083,6 @@
 ||vpn.g-s-a.me^
 ||vpnhellings.nl^
 ||vpn.i81.ru^
-||vpn.jens-server.de^
 ||vpn.k-likhachev.ru^
 ||vpn.midjrney.ru^
 ||vpn.neten.ltd^
@@ -3092,6 +3098,7 @@
 ||vps03.brueggus.de^
 ||vps119.brueggus.de^
 ||vps132.brueggus.de^
+||vps153.brueggus.de^
 ||vps163.brueggus.de^
 ||vps183.brueggus.de^
 ||vps190.brueggus.de^
@@ -3126,6 +3133,7 @@
 ||vps301.brueggus.de^
 ||vps302.brueggus.de^
 ||vps303.brueggus.de^
+||vps304.brueggus.de^
 ||vps305.brueggus.de^
 ||vps307.brueggus.de^
 ||vps308.brueggus.de^
@@ -3133,13 +3141,14 @@
 ||vps310.brueggus.de^
 ||vps311.brueggus.de^
 ||vps312.brueggus.de^
+||vps313.brueggus.de^
 ||vps314.brueggus.de^
-||vps324.brueggus.de^
 ||vps325.brueggus.de^
 ||vps326.brueggus.de^
 ||vps327.brueggus.de^
 ||vps328.brueggus.de^
 ||vps329.brueggus.de^
+||vps32.brueggus.de^
 ||vps333.brueggus.de^
 ||vps334.brueggus.de^
 ||vps335.brueggus.de^
