@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2403080347 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2403090254 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2024-03-08 03:47:21 (UTC)
+; Last updated: 2024-03-09 02:54:30 (UTC)
 ;
 ; See https://jpgpi250.github.io/piholemanual/doc/Unbound%20response%20policy%20zones.pdf
 ; Report issues at https://github.com/jpgpi250/piholemanual/issues
@@ -22,7 +22,6 @@ $TTL 30
 1.11i.eu CNAME .
 15101844.xyz CNAME .
 180.0rz.space CNAME .
-19a8b89bb6b2491ca5cccbeb0e84a4c4.pacloudflare.com CNAME .
 1and1-dns.de CNAME .
 1a.ns.ozer.im CNAME .
 1b.ns.ozer.im CNAME .
@@ -1960,6 +1959,7 @@ fvpn.jarvishome.ru CNAME .
 fwgw.orangepipc.mywire.org CNAME .
 gaia.plonknet.com CNAME .
 galileo.math.unipd.it CNAME .
+gandhico2.duckdns.org CNAME .
 gateway.baltes.info CNAME .
 gateway.fomichev.cloud CNAME .
 gauss.pp.ua CNAME .
@@ -2045,6 +2045,7 @@ hk.ravi.top CNAME .
 ho.hostme.co.il CNAME .
 hole.elbschloss.xyz CNAME .
 home27.duckdns.org CNAME .
+home2.ddnss.eu CNAME .
 home47a.mooo.com CNAME .
 home.basthorst.eu CNAME .
 home.bruckmoser.it CNAME .
@@ -2142,7 +2143,6 @@ japan.1vpn.fun CNAME .
 jarjar.meganerd.nl CNAME .
 jcdns.fun CNAME .
 jefe.space CNAME .
-jianyi.studio CNAME .
 jit.ddns.net CNAME .
 jkt01.dnscry.pt CNAME .
 jmarston.duckdns.org CNAME .
@@ -2226,6 +2226,7 @@ kronos.plan9dns.com CNAME .
 kr.pigs.eu.org CNAME .
 kr-sel.doh.sb CNAME .
 krtekvpn.duckdns.org CNAME .
+ks1.plop.cc CNAME .
 ksedns.ru CNAME .
 kstdownload.com CNAME .
 kswro.web.id CNAME .
@@ -2336,8 +2337,6 @@ mia01.dnscry.pt CNAME .
 mia.dns4sec.com CNAME .
 mikatos.de CNAME .
 mikewaddick.com CNAME .
-mimile.despagne.net CNAME .
-mimile.despagne.ovh CNAME .
 mimir.netwerk.io CNAME .
 minilla.store CNAME .
 mkvvpssrv12.freemyip.com CNAME .
@@ -2506,6 +2505,7 @@ ny.teradns.org CNAME .
 nyx.webteufel-it.solutions CNAME .
 nz01.dns4me.net CNAME .
 o1.lt CNAME .
+oci.tacomafia.net CNAME .
 ocp.cincloud.top CNAME .
 oculta.me CNAME .
 odoh.cloudflare-dns.com CNAME .
@@ -2526,6 +2526,7 @@ one.one.one.one CNAME .
 oneplus-10pro.aezadns.duckdns.org CNAME .
 onlyfriends.info CNAME .
 o--o.duckdns.org CNAME .
+o.o.ovpn.bond CNAME .
 opencdn.jomodns.com CNAME .
 open.dns0.eu CNAME .
 opennic1.eth-services.de CNAME .
@@ -2536,7 +2537,9 @@ open-resolver1.unima.ac.id CNAME .
 opera.cloudflare-dns.com CNAME .
 op.htyweb.top CNAME .
 or2o.tk CNAME .
+ora1.nocnik.org CNAME .
 oracle001.330k.biz CNAME .
+oracle2.herry.dev CNAME .
 oraclejp2.chungyu.com CNAME .
 oradns.anbitech.com CNAME .
 orau.lz0724.com CNAME .
@@ -2568,6 +2571,7 @@ paulo.nom.za CNAME .
 pccoach.ddns.net CNAME .
 pcd96.duckdns.org CNAME .
 pcgo.fun CNAME .
+pcjco.ovh CNAME .
 pcornet.freeboxos.fr CNAME .
 pdns.elecura.net CNAME .
 pdns.faelix.net CNAME .
@@ -3094,6 +3098,7 @@ vpn.gosami.xyz CNAME .
 vpn.g-s-a.me CNAME .
 vpnhellings.nl CNAME .
 vpn.i81.ru CNAME .
+vpn.jens-server.de CNAME .
 vpn.k-likhachev.ru CNAME .
 vpn.midjrney.ru CNAME .
 vpn.neten.ltd CNAME .
@@ -3154,6 +3159,7 @@ vps311.brueggus.de CNAME .
 vps312.brueggus.de CNAME .
 vps313.brueggus.de CNAME .
 vps314.brueggus.de CNAME .
+vps324.brueggus.de CNAME .
 vps325.brueggus.de CNAME .
 vps326.brueggus.de CNAME .
 vps327.brueggus.de CNAME .
