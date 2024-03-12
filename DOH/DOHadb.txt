@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2024-03-10 03:33:15 (UTC)
+! Last updated: 2024-03-11 03:16:22 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -18,7 +18,6 @@
 ||1.11i.eu^
 ||15101844.xyz^
 ||180.0rz.space^
-||19a8b89bb6b2491ca5cccbeb0e84a4c4.pacloudflare.com^
 ||1and1-dns.de^
 ||1a.ns.ozer.im^
 ||1b.ns.ozer.im^
@@ -599,7 +598,6 @@
 ||clic.eu.org^
 ||clientdns3.softcom.net^
 ||cloud.198.games^
-||cloud.198.games.cdn.dnsv1.com^
 ||cloud8.yydsgod.eu.org^
 ||cloudbasesolutions.online^
 ||cloudflare-dns.com^
@@ -642,7 +640,6 @@
 ||d.0w0.ooo^
 ||d2bphvjyj895l0.cloudfront.net^
 ||d2.shabi.icu^
-||d37kfudu0dkr11.cloudfront.net^
 ||d3.shabi.icu^
 ||d3vy.ru^
 ||d.adguard-dns.com^
@@ -702,6 +699,7 @@
 ||disbish.com^
 ||diskstation.alexpollard.net^
 ||dk-cop-w-1.nashkan.net^
+||dmtmpb4btyxdz.cloudfront.net^
 ||dn5.talesam.org^
 ||dns.010812.xyz^
 ||dns01.almir1904.eu^
@@ -1875,7 +1873,6 @@
 ||extended.dns.mullvad.net^
 ||externalmobiel.lekdijk.online^
 ||eyg01.dnscry.pt^
-||f03a0e2fa9f5.sn.mynetname.net^
 ||f1.dns.s3cure.me^
 ||f2-dns.asuzac.com.vn^
 ||f97.xyz^
@@ -1956,8 +1953,9 @@
 ||fwgw.orangepipc.mywire.org^
 ||gaia.plonknet.com^
 ||galileo.math.unipd.it^
-||gandhico2.duckdns.org^
 ||gateway.baltes.info^
+||gateway.fe2.apple-dns.net^
+||gateway.fe.apple-dns.net^
 ||gateway.fomichev.cloud^
 ||gauss.pp.ua^
 ||gb-bir-w-1.nashkan.net^
@@ -2306,6 +2304,7 @@
 ||marimuttz.asuscomm.com^
 ||marzban.severvpn.ru^
 ||mask-api.fe2.apple-dns.net^
+||mask-api.fe.apple-dns.net^
 ||mask-api.icloud.com^
 ||mask.apple-dns.net^
 ||mask-h2.icloud.com^
@@ -2347,7 +2346,6 @@
 ||mr-romero.com^
 ||mru01.dnscry.pt^
 ||msr177.com^
-||mtdkdhs0.slt.sched.tdnsv8.com^
 ||muc01.dnscry.pt^
 ||muc-ns01.ibytex.systems^
 ||muli.stusta.mhn.de^
@@ -2533,7 +2531,6 @@
 ||op.htyweb.top^
 ||ora1.nocnik.org^
 ||oracle001.330k.biz^
-||oracle2.herry.dev^
 ||oraclejp2.chungyu.com^
 ||oradns.anbitech.com^
 ||orau.lz0724.com^
@@ -2676,6 +2673,7 @@
 ||res-acst2.absolight.net^
 ||res-acst3.absolight.net^
 ||resolve2.srv-pro.de^
+||resolve.corpa.me^
 ||resolve.fknw.de^
 ||resolver1.absolight.net^
 ||resolver1.dyndnsinternetguide.com^
@@ -3144,13 +3142,10 @@
 ||vps310.brueggus.de^
 ||vps311.brueggus.de^
 ||vps312.brueggus.de^
-||vps313.brueggus.de^
 ||vps314.brueggus.de^
 ||vps325.brueggus.de^
-||vps326.brueggus.de^
 ||vps327.brueggus.de^
 ||vps328.brueggus.de^
-||vps329.brueggus.de^
 ||vps32.brueggus.de^
 ||vps333.brueggus.de^
 ||vps334.brueggus.de^
