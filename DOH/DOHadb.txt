@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2024-03-13 03:12:05 (UTC)
+! Last updated: 2024-03-14 03:36:41 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -12,6 +12,7 @@
 !
 ||001.smallnode.net^
 ||1001.cloudflare-dns.com^
+||10787578eb1e4b75adfa6b2a4bdea0b5.pacloudflare.com^
 ||1.0rz.space^
 ||1111.cloudflare-dns.com^
 ||1.11i.eu^
@@ -597,6 +598,7 @@
 ||clic.eu.org^
 ||clientdns3.softcom.net^
 ||cloud.198.games^
+||cloud.198.games.cdn.dnsv1.com^
 ||cloud8.yydsgod.eu.org^
 ||cloudbasesolutions.online^
 ||cloudflare-dns.com^
@@ -688,6 +690,7 @@
 ||dev.camelstrike.xyz^
 ||dev.gonnadive.com^
 ||deweerd.loseyourip.com^
+||dff029179c4246e385296ea8de0b8eb8.pacloudflare.com^
 ||dfw01.dnscry.pt^
 ||d.gametechnet.com^
 ||dgca.myds.me^
@@ -1951,7 +1954,6 @@
 ||fwgw.orangepipc.mywire.org^
 ||gaia.plonknet.com^
 ||galileo.math.unipd.it^
-||gandhico2.duckdns.org^
 ||gateway.baltes.info^
 ||gateway.fomichev.cloud^
 ||gauss.pp.ua^
@@ -2134,6 +2136,7 @@
 ||jarjar.meganerd.nl^
 ||jcdns.fun^
 ||jefe.space^
+||jianyi.studio^
 ||jit.ddns.net^
 ||jkt01.dnscry.pt^
 ||jmarston.duckdns.org^
@@ -2344,6 +2347,7 @@
 ||mr-romero.com^
 ||mru01.dnscry.pt^
 ||msr177.com^
+||mtdkdhs0.slt.sched.tdnsv8.com^
 ||muc01.dnscry.pt^
 ||muc-ns01.ibytex.systems^
 ||muli.stusta.mhn.de^
@@ -2412,7 +2416,6 @@
 ||nl-ams2.doh.sb^
 ||nl-ams.doh.sb^
 ||nl-ams-w-3.nashkan.net^
-||nlb.gbrossi.com.br^
 ||nl-dro-w-f-1.nashkan.net^
 ||nl-dro-w-p-1.nashkan.net^
 ||nlname.freecdn.one^
@@ -2517,7 +2520,6 @@
 ||oneplus-10pro.aezadns.duckdns.org^
 ||onlyfriends.info^
 ||o--o.duckdns.org^
-||o.o.ovpn.bond^
 ||opencdn.jomodns.com^
 ||open.dns0.eu^
 ||opennic1.eth-services.de^
@@ -2529,7 +2531,6 @@
 ||op.htyweb.top^
 ||ora1.nocnik.org^
 ||oracle001.330k.biz^
-||oracle2.herry.dev^
 ||oraclejp2.chungyu.com^
 ||oradns.anbitech.com^
 ||orau.lz0724.com^
@@ -2586,7 +2587,6 @@
 ||pihole4.hoerli.net^
 ||pihole.aws.ketan.dev^
 ||pihole.datamatter.co.za^
-||pihole.gcp.pathofgrace.com^
 ||pioko.net^
 ||pitchforkwaydns.duckdns.org^
 ||pixie.porkbun.com^
