@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2024-03-14 03:36:41 (UTC)
+! Last updated: 2024-03-15 03:26:01 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -1873,7 +1873,6 @@
 ||extended.dns.mullvad.net^
 ||externalmobiel.lekdijk.online^
 ||eyg01.dnscry.pt^
-||f03a0e2fa9f5.sn.mynetname.net^
 ||f1.dns.s3cure.me^
 ||f2-dns.asuzac.com.vn^
 ||f97.xyz^
@@ -2220,7 +2219,6 @@
 ||kr.pigs.eu.org^
 ||kr-sel.doh.sb^
 ||krtekvpn.duckdns.org^
-||ks1.plop.cc^
 ||ksedns.ru^
 ||kstdownload.com^
 ||kswro.web.id^
@@ -2338,7 +2336,6 @@
 ||m.myspace.sbs^
 ||mo0on15.com^
 ||moaz-adguard.duckdns.org^
-||montmorot.duckdns.org^
 ||moonbd.top^
 ||morbitzer.de^
 ||moto.adg.siudzinski.net^
@@ -2416,6 +2413,7 @@
 ||nl-ams2.doh.sb^
 ||nl-ams.doh.sb^
 ||nl-ams-w-3.nashkan.net^
+||nlb.gbrossi.com.br^
 ||nl-dro-w-f-1.nashkan.net^
 ||nl-dro-w-p-1.nashkan.net^
 ||nlname.freecdn.one^
@@ -2580,13 +2578,13 @@
 ||pi4.jnraptor.net^
 ||pi.adblocker.eu.org^
 ||pi.daryllswer.net^
-||piekacz.pl^
 ||pihole1.hoerli.net^
 ||pihole2.hoerli.net^
 ||pihole3.hoerli.net^
 ||pihole4.hoerli.net^
 ||pihole.aws.ketan.dev^
 ||pihole.datamatter.co.za^
+||pihole.gcp.pathofgrace.com^
 ||pioko.net^
 ||pitchforkwaydns.duckdns.org^
 ||pixie.porkbun.com^
@@ -2918,7 +2916,6 @@
 ||testguard.meexx.de^
 ||tetra.aeins.at^
 ||tezoi.duckdns.org^
-||tg2a7d4.glddns.com^
 ||thamrin.ddns.net^
 ||thanos.pleumkungz.com^
 ||thefamilypuls.com^
@@ -3054,7 +3051,6 @@
 ||virmamp33.sytes.net^
 ||vlad.dns.vladpro.ru^
 ||vladpro.ru^
-||vm01.eban.eu.org^
 ||vm1.arashi.solutions^
 ||vm2.arashi.solutions^
 ||vm2.oowo.de^
@@ -3141,7 +3137,6 @@
 ||vps310.brueggus.de^
 ||vps311.brueggus.de^
 ||vps312.brueggus.de^
-||vps313.brueggus.de^
 ||vps314.brueggus.de^
 ||vps325.brueggus.de^
 ||vps326.brueggus.de^
