@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2024-03-16 03:47:23 (UTC)
+! Last updated: 2024-03-17 03:36:14 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -444,6 +444,7 @@
 ||as6604t-04.myasustor.com^
 ||a.safe.ns.dnslify.com^
 ||asia.dnscepat.id^
+||astra.ender.fr^
 ||atelier.alica.idv.tw^
 ||atl01.dnscry.pt^
 ||atlantic.dyn1.de^
@@ -1323,7 +1324,6 @@
 ||dns.philqoo.com^
 ||dns.phucbui.top^
 ||dns.pieterdherde.com^
-||dns.pietjacobs.be^
 ||dns.ple91.uk^
 ||dns.pmxu.link^
 ||dnspod.clzapp.com^
@@ -1842,6 +1842,7 @@
 ||eddi.usgovtrafficmanager.net^
 ||edelgard.duckdns.org^
 ||edgar.tobkar.net^
+||edge.nextdns.io^
 ||edgy-dns.com^
 ||edns.233py.com^
 ||ee-tll.doh.sb^
@@ -1872,7 +1873,6 @@
 ||extended.dns.mullvad.net^
 ||externalmobiel.lekdijk.online^
 ||eyg01.dnscry.pt^
-||f03a0e2fa9f5.sn.mynetname.net^
 ||f1.dns.s3cure.me^
 ||f2-dns.asuzac.com.vn^
 ||f97.xyz^
@@ -2300,7 +2300,6 @@
 ||maison.auffray.org^
 ||malanser.ru^
 ||management.alexpollard.net^
-||marcrnt.ddnss.de^
 ||marimuttz.asuscomm.com^
 ||marzban.severvpn.ru^
 ||mask-api.fe2.apple-dns.net^
@@ -2415,6 +2414,7 @@
 ||nl-ams2.doh.sb^
 ||nl-ams.doh.sb^
 ||nl-ams-w-3.nashkan.net^
+||nlb.gbrossi.com.br^
 ||nl-dro-w-f-1.nashkan.net^
 ||nl-dro-w-p-1.nashkan.net^
 ||nlname.freecdn.one^
@@ -2435,6 +2435,7 @@
 ||ns.00dani.me^
 ||ns0.fdn.fr^
 ||ns1.1899.com.mx^
+||ns1.95997.ip-ns.net^
 ||ns1.bit-trails.nl^
 ||ns1.depotthai.army^
 ||ns1.dnsprivacy.at^
@@ -2518,6 +2519,7 @@
 ||oneplus-10pro.aezadns.duckdns.org^
 ||onlyfriends.info^
 ||o--o.duckdns.org^
+||o.o.ovpn.bond^
 ||opencdn.jomodns.com^
 ||open.dns0.eu^
 ||opennic1.eth-services.de^
@@ -2661,6 +2663,7 @@
 ||raspberrydoc.duckdns.org^
 ||rasp.matthias-iwer.de^
 ||rayneau.fr^
+||rdjcloud.duckdns.org^
 ||rdjdns.ajraspi.xyz^
 ||rdns.faelix.net^
 ||rdu01.dnscry.pt^
@@ -2864,6 +2867,7 @@
 ||srgaghome.freemyip.com^
 ||sriedmueadguard.casa^
 ||srv1.web-mx.eu^
+||srv2.bartoszturek.online^
 ||srv5.jiripocta.cz^
 ||srv-revprox-01.atakorah.com^
 ||ss.0001.xyz^
