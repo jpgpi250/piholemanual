@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2403180329 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2403190338 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2024-03-18 03:29:35 (UTC)
+; Last updated: 2024-03-19 03:38:41 (UTC)
 ;
 ; See https://jpgpi250.github.io/piholemanual/doc/Unbound%20response%20policy%20zones.pdf
 ; Report issues at https://github.com/jpgpi250/piholemanual/issues
@@ -21,6 +21,7 @@ $TTL 30
 1111.cloudflare-dns.com CNAME .
 1.11i.eu CNAME .
 15101844.xyz CNAME .
+180.0rz.space CNAME .
 19a8b89bb6b2491ca5cccbeb0e84a4c4.pacloudflare.com CNAME .
 1and1-dns.de CNAME .
 1a.ns.ozer.im CNAME .
@@ -67,7 +68,6 @@ a-bld.sys-adm.in CNAME .
 ablock.fuckit.ovh CNAME .
 abluehope.com CNAME .
 abovetheclouds.fun CNAME .
-abstergo.it CNAME .
 acomit.lk CNAME .
 ad1guard.duckdns.org CNAME .
 ad1.heronet.nl CNAME .
@@ -1942,6 +1942,7 @@ free.shecan.ir CNAME .
 freeside.wntrmute.net CNAME .
 fr-gra-w-f-1.nashkan.net CNAME .
 fr-gra-w-p-1.nashkan.net CNAME .
+frguthrie.app CNAME .
 friend.bedro.cloud CNAME .
 fritz-er.circumitor.de CNAME .
 fritz-hbh.circumitor.de CNAME .
@@ -2341,7 +2342,6 @@ mkvvpssrv12.freemyip.com CNAME .
 m.myspace.sbs CNAME .
 mo0on15.com CNAME .
 moaz-adguard.duckdns.org CNAME .
-montmorot.duckdns.org CNAME .
 moonbd.top CNAME .
 morbitzer.de CNAME .
 moto.adg.siudzinski.net CNAME .
@@ -2522,7 +2522,6 @@ omr01.dnscry.pt CNAME .
 one.dotted.9l3.com CNAME .
 one.one.one.one CNAME .
 oneplus-10pro.aezadns.duckdns.org CNAME .
-onlyfriends.info CNAME .
 o--o.duckdns.org CNAME .
 opencdn.jomodns.com CNAME .
 open.dns0.eu CNAME .
@@ -2535,6 +2534,7 @@ opera.cloudflare-dns.com CNAME .
 op.htyweb.top CNAME .
 ora1.nocnik.org CNAME .
 oracle001.330k.biz CNAME .
+oracle2.herry.dev CNAME .
 oraclejp2.chungyu.com CNAME .
 oradns.anbitech.com CNAME .
 orau.lz0724.com CNAME .
@@ -2584,7 +2584,6 @@ pi1.node15.com CNAME .
 pi4.jnraptor.net CNAME .
 pi.adblocker.eu.org CNAME .
 pi.daryllswer.net CNAME .
-piekacz.pl CNAME .
 pihole1.hoerli.net CNAME .
 pihole2.hoerli.net CNAME .
 pihole3.hoerli.net CNAME .
@@ -2667,7 +2666,6 @@ rares.pro CNAME .
 raspberrydoc.duckdns.org CNAME .
 rasp.matthias-iwer.de CNAME .
 rayneau.fr CNAME .
-rdjcloud.duckdns.org CNAME .
 rdjdns.ajraspi.xyz CNAME .
 rdns.faelix.net CNAME .
 rdu01.dnscry.pt CNAME .
@@ -2923,7 +2921,6 @@ testaghome.meshkov.info CNAME .
 test.dnsteam.globuscs.info CNAME .
 testguard.meexx.de CNAME .
 tetra.aeins.at CNAME .
-tezoi.duckdns.org CNAME .
 tg2a7d4.glddns.com CNAME .
 thamrin.ddns.net CNAME .
 thanos.pleumkungz.com CNAME .
@@ -3060,6 +3057,7 @@ virga.pp.ua CNAME .
 virmamp33.sytes.net CNAME .
 vlad.dns.vladpro.ru CNAME .
 vladpro.ru CNAME .
+vm01.eban.eu.org CNAME .
 vm1.arashi.solutions CNAME .
 vm2.arashi.solutions CNAME .
 vm2.oowo.de CNAME .
