@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2024-03-17 03:36:14 (UTC)
+! Last updated: 2024-03-18 03:43:05 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -17,7 +17,7 @@
 ||1111.cloudflare-dns.com^
 ||1.11i.eu^
 ||15101844.xyz^
-||180.0rz.space^
+||19a8b89bb6b2491ca5cccbeb0e84a4c4.pacloudflare.com^
 ||1and1-dns.de^
 ||1a.ns.ozer.im^
 ||1b.ns.ozer.im^
@@ -1324,6 +1324,7 @@
 ||dns.philqoo.com^
 ||dns.phucbui.top^
 ||dns.pieterdherde.com^
+||dns.pietjacobs.be^
 ||dns.ple91.uk^
 ||dns.pmxu.link^
 ||dnspod.clzapp.com^
@@ -1953,7 +1954,6 @@
 ||fwgw.orangepipc.mywire.org^
 ||gaia.plonknet.com^
 ||galileo.math.unipd.it^
-||gateway.baltes.info^
 ||gateway.fomichev.cloud^
 ||gauss.pp.ua^
 ||gb-bir-w-1.nashkan.net^
@@ -2300,6 +2300,7 @@
 ||maison.auffray.org^
 ||malanser.ru^
 ||management.alexpollard.net^
+||marcrnt.ddnss.de^
 ||marimuttz.asuscomm.com^
 ||marzban.severvpn.ru^
 ||mask-api.fe2.apple-dns.net^
@@ -2519,7 +2520,6 @@
 ||oneplus-10pro.aezadns.duckdns.org^
 ||onlyfriends.info^
 ||o--o.duckdns.org^
-||o.o.ovpn.bond^
 ||opencdn.jomodns.com^
 ||open.dns0.eu^
 ||opennic1.eth-services.de^
@@ -2725,6 +2725,7 @@
 ||roucious.dyndns-remote.com^
 ||router.sapib.ca^
 ||rpz-public-resolver1.rrdns.pch.net^
+||rtrdgovt.com^
 ||rudns.ddnsfree.com^
 ||ru-mos-w-2.nashkan.net^
 ||ru-mos-w-p-1.nashkan.net^
@@ -3141,7 +3142,6 @@
 ||vps310.brueggus.de^
 ||vps311.brueggus.de^
 ||vps312.brueggus.de^
-||vps313.brueggus.de^
 ||vps314.brueggus.de^
 ||vps325.brueggus.de^
 ||vps326.brueggus.de^
