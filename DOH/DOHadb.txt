@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2024-03-18 03:43:05 (UTC)
+! Last updated: 2024-03-19 03:52:13 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -17,6 +17,7 @@
 ||1111.cloudflare-dns.com^
 ||1.11i.eu^
 ||15101844.xyz^
+||180.0rz.space^
 ||19a8b89bb6b2491ca5cccbeb0e84a4c4.pacloudflare.com^
 ||1and1-dns.de^
 ||1a.ns.ozer.im^
@@ -63,7 +64,6 @@
 ||ablock.fuckit.ovh^
 ||abluehope.com^
 ||abovetheclouds.fun^
-||abstergo.it^
 ||acomit.lk^
 ||ad1guard.duckdns.org^
 ||ad1.heronet.nl^
@@ -1938,6 +1938,7 @@
 ||freeside.wntrmute.net^
 ||fr-gra-w-f-1.nashkan.net^
 ||fr-gra-w-p-1.nashkan.net^
+||frguthrie.app^
 ||friend.bedro.cloud^
 ||fritz-er.circumitor.de^
 ||fritz-hbh.circumitor.de^
@@ -2337,7 +2338,6 @@
 ||m.myspace.sbs^
 ||mo0on15.com^
 ||moaz-adguard.duckdns.org^
-||montmorot.duckdns.org^
 ||moonbd.top^
 ||morbitzer.de^
 ||moto.adg.siudzinski.net^
@@ -2518,7 +2518,6 @@
 ||one.dotted.9l3.com^
 ||one.one.one.one^
 ||oneplus-10pro.aezadns.duckdns.org^
-||onlyfriends.info^
 ||o--o.duckdns.org^
 ||opencdn.jomodns.com^
 ||open.dns0.eu^
@@ -2531,6 +2530,7 @@
 ||op.htyweb.top^
 ||ora1.nocnik.org^
 ||oracle001.330k.biz^
+||oracle2.herry.dev^
 ||oraclejp2.chungyu.com^
 ||oradns.anbitech.com^
 ||orau.lz0724.com^
@@ -2580,7 +2580,6 @@
 ||pi4.jnraptor.net^
 ||pi.adblocker.eu.org^
 ||pi.daryllswer.net^
-||piekacz.pl^
 ||pihole1.hoerli.net^
 ||pihole2.hoerli.net^
 ||pihole3.hoerli.net^
@@ -2663,7 +2662,6 @@
 ||raspberrydoc.duckdns.org^
 ||rasp.matthias-iwer.de^
 ||rayneau.fr^
-||rdjcloud.duckdns.org^
 ||rdjdns.ajraspi.xyz^
 ||rdns.faelix.net^
 ||rdu01.dnscry.pt^
@@ -2919,7 +2917,6 @@
 ||test.dnsteam.globuscs.info^
 ||testguard.meexx.de^
 ||tetra.aeins.at^
-||tezoi.duckdns.org^
 ||tg2a7d4.glddns.com^
 ||thamrin.ddns.net^
 ||thanos.pleumkungz.com^
@@ -3056,6 +3053,7 @@
 ||virmamp33.sytes.net^
 ||vlad.dns.vladpro.ru^
 ||vladpro.ru^
+||vm01.eban.eu.org^
 ||vm1.arashi.solutions^
 ||vm2.arashi.solutions^
 ||vm2.oowo.de^
