@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2403220251 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2403230320 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2024-03-22 02:51:45 (UTC)
+; Last updated: 2024-03-23 03:20:15 (UTC)
 ;
 ; See https://jpgpi250.github.io/piholemanual/doc/Unbound%20response%20policy%20zones.pdf
 ; Report issues at https://github.com/jpgpi250/piholemanual/issues
@@ -22,7 +22,6 @@ $TTL 30
 1.11i.eu CNAME .
 15101844.xyz CNAME .
 180.0rz.space CNAME .
-19a8b89bb6b2491ca5cccbeb0e84a4c4.pacloudflare.com CNAME .
 1and1-dns.de CNAME .
 1a.ns.ozer.im CNAME .
 1b.ns.ozer.im CNAME .
@@ -433,6 +432,7 @@ anycast.ffmuc.net CNAME .
 anycast.uncensoreddns.dk CNAME .
 anycast.uncensoreddns.org CNAME .
 a.passcloud.xyz CNAME .
+api.cloudflareclient.com CNAME .
 apne1.dns.terumi.club CNAME .
 appart.yoannchappaz.best CNAME .
 aqua.is.my.waifu.cz CNAME .
@@ -605,6 +605,7 @@ cloud8.yydsgod.eu.org CNAME .
 cloudbasesolutions.online CNAME .
 cloudflare-dns.com CNAME .
 cloudflare-gateway.com CNAME .
+cloudflareresolve.com CNAME .
 cloud.graphicpoint.pl CNAME .
 cloudns.bosco.ovh CNAME .
 cloud.samutz.com CNAME .
@@ -1117,6 +1118,7 @@ dns.internal.espresso-tasse.de CNAME .
 dns.internal.hosmatic.com CNAME .
 dns.invisv.com CNAME .
 dns.ipoac.nl CNAME .
+dns.ipty.de CNAME .
 dns.ipv6dns.com CNAME .
 dns.irumatech.com CNAME .
 dns.islandnet.com CNAME .
@@ -1350,6 +1352,7 @@ dns.rbpi.cc CNAME .
 dns.rbs.my.id CNAME .
 dns.reckoningslug.name CNAME .
 dns.redroot.me CNAME .
+dns.relay.ovpn.bond CNAME .
 dns.renardyre.com CNAME .
 dns.req1.fr CNAME .
 dns.resoft.org CNAME .
@@ -1948,8 +1951,6 @@ fvpn.jarvishome.ru CNAME .
 fwgw.orangepipc.mywire.org CNAME .
 gaia.plonknet.com CNAME .
 galileo.math.unipd.it CNAME .
-gandhico2.duckdns.org CNAME .
-gateway.baltes.info CNAME .
 gateway.fomichev.cloud CNAME .
 gauss.pp.ua CNAME .
 gb-bir-w-1.nashkan.net CNAME .
@@ -2408,7 +2409,6 @@ nl.adg.ghostzone.wtf CNAME .
 nl-ams2.doh.sb CNAME .
 nl-ams.doh.sb CNAME .
 nl-ams-w-3.nashkan.net CNAME .
-nlb.gbrossi.com.br CNAME .
 nl-dro-w-f-1.nashkan.net CNAME .
 nl-dro-w-p-1.nashkan.net CNAME .
 nlname.freecdn.one CNAME .
@@ -2429,6 +2429,7 @@ nrusimha.crabdance.com CNAME .
 ns.00dani.me CNAME .
 ns0.fdn.fr CNAME .
 ns1.1899.com.mx CNAME .
+ns1.95997.ip-ns.net CNAME .
 ns1.bit-trails.nl CNAME .
 ns1.depotthai.army CNAME .
 ns1.dnsprivacy.at CNAME .
@@ -2479,7 +2480,6 @@ ns.ral9005.org CNAME .
 ns.solutics.ec CNAME .
 ns.try-dns.online CNAME .
 ns.vik.ro CNAME .
-ntu.ssooss.win CNAME .
 nudnud.com CNAME .
 nue01.dnscry.pt CNAME .
 nue2.moderateinfra.net CNAME .
@@ -2512,7 +2512,6 @@ one.one.one.one CNAME .
 oneplus-10pro.aezadns.duckdns.org CNAME .
 onlyfriends.info CNAME .
 o--o.duckdns.org CNAME .
-o.o.ovpn.bond CNAME .
 opencdn.jomodns.com CNAME .
 open.dns0.eu CNAME .
 opennic1.eth-services.de CNAME .
@@ -2524,7 +2523,6 @@ opera.cloudflare-dns.com CNAME .
 op.htyweb.top CNAME .
 ora1.nocnik.org CNAME .
 oracle001.330k.biz CNAME .
-oracle2.herry.dev CNAME .
 oraclejp2.chungyu.com CNAME .
 oradns.anbitech.com CNAME .
 orau.lz0724.com CNAME .
