@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2024-03-22 03:05:19 (UTC)
+! Last updated: 2024-03-23 03:33:49 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -18,7 +18,6 @@
 ||1.11i.eu^
 ||15101844.xyz^
 ||180.0rz.space^
-||19a8b89bb6b2491ca5cccbeb0e84a4c4.pacloudflare.com^
 ||1and1-dns.de^
 ||1a.ns.ozer.im^
 ||1b.ns.ozer.im^
@@ -429,6 +428,7 @@
 ||anycast.uncensoreddns.dk^
 ||anycast.uncensoreddns.org^
 ||a.passcloud.xyz^
+||api.cloudflareclient.com^
 ||apne1.dns.terumi.club^
 ||appart.yoannchappaz.best^
 ||aqua.is.my.waifu.cz^
@@ -601,6 +601,7 @@
 ||cloudbasesolutions.online^
 ||cloudflare-dns.com^
 ||cloudflare-gateway.com^
+||cloudflareresolve.com^
 ||cloud.graphicpoint.pl^
 ||cloudns.bosco.ovh^
 ||cloud.samutz.com^
@@ -1113,6 +1114,7 @@
 ||dns.internal.hosmatic.com^
 ||dns.invisv.com^
 ||dns.ipoac.nl^
+||dns.ipty.de^
 ||dns.ipv6dns.com^
 ||dns.irumatech.com^
 ||dns.islandnet.com^
@@ -1346,6 +1348,7 @@
 ||dns.rbs.my.id^
 ||dns.reckoningslug.name^
 ||dns.redroot.me^
+||dns.relay.ovpn.bond^
 ||dns.renardyre.com^
 ||dns.req1.fr^
 ||dns.resoft.org^
@@ -1944,8 +1947,6 @@
 ||fwgw.orangepipc.mywire.org^
 ||gaia.plonknet.com^
 ||galileo.math.unipd.it^
-||gandhico2.duckdns.org^
-||gateway.baltes.info^
 ||gateway.fomichev.cloud^
 ||gauss.pp.ua^
 ||gb-bir-w-1.nashkan.net^
@@ -2404,7 +2405,6 @@
 ||nl-ams2.doh.sb^
 ||nl-ams.doh.sb^
 ||nl-ams-w-3.nashkan.net^
-||nlb.gbrossi.com.br^
 ||nl-dro-w-f-1.nashkan.net^
 ||nl-dro-w-p-1.nashkan.net^
 ||nlname.freecdn.one^
@@ -2425,6 +2425,7 @@
 ||ns.00dani.me^
 ||ns0.fdn.fr^
 ||ns1.1899.com.mx^
+||ns1.95997.ip-ns.net^
 ||ns1.bit-trails.nl^
 ||ns1.depotthai.army^
 ||ns1.dnsprivacy.at^
@@ -2475,7 +2476,6 @@
 ||ns.solutics.ec^
 ||ns.try-dns.online^
 ||ns.vik.ro^
-||ntu.ssooss.win^
 ||nudnud.com^
 ||nue01.dnscry.pt^
 ||nue2.moderateinfra.net^
@@ -2508,7 +2508,6 @@
 ||oneplus-10pro.aezadns.duckdns.org^
 ||onlyfriends.info^
 ||o--o.duckdns.org^
-||o.o.ovpn.bond^
 ||opencdn.jomodns.com^
 ||open.dns0.eu^
 ||opennic1.eth-services.de^
@@ -2520,7 +2519,6 @@
 ||op.htyweb.top^
 ||ora1.nocnik.org^
 ||oracle001.330k.biz^
-||oracle2.herry.dev^
 ||oraclejp2.chungyu.com^
 ||oradns.anbitech.com^
 ||orau.lz0724.com^
