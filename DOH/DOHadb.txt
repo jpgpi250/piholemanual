@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2024-03-23 03:33:49 (UTC)
+! Last updated: 2024-03-24 03:37:36 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -1947,6 +1947,7 @@
 ||fwgw.orangepipc.mywire.org^
 ||gaia.plonknet.com^
 ||galileo.math.unipd.it^
+||gateway.baltes.info^
 ||gateway.fomichev.cloud^
 ||gauss.pp.ua^
 ||gb-bir-w-1.nashkan.net^
@@ -2192,7 +2193,6 @@
 ||knight1.de^
 ||kolobok2.duckdns.org^
 ||korzhov.dev^
-||kostek.dyndns.org^
 ||kotys.hr.i81.ru^
 ||kotys.vd.i81.ru^
 ||kotys.vpn.i81.ru^
@@ -2322,8 +2322,6 @@
 ||mikatos.de^
 ||mikewaddick.com^
 ||mil01.dnscry.pt^
-||mimile.despagne.net^
-||mimile.despagne.ovh^
 ||minilla.store^
 ||mkvvpssrv12.freemyip.com^
 ||m.myspace.sbs^
@@ -2476,6 +2474,7 @@
 ||ns.solutics.ec^
 ||ns.try-dns.online^
 ||ns.vik.ro^
+||ntu.ssooss.win^
 ||nudnud.com^
 ||nue01.dnscry.pt^
 ||nue2.moderateinfra.net^
@@ -2568,7 +2567,6 @@
 ||pi4.jnraptor.net^
 ||pi.adblocker.eu.org^
 ||pi.daryllswer.net^
-||piekacz.pl^
 ||pihole1.hoerli.net^
 ||pihole2.hoerli.net^
 ||pihole3.hoerli.net^
@@ -2902,7 +2900,6 @@
 ||testguard.meexx.de^
 ||tetra.aeins.at^
 ||tezoi.duckdns.org^
-||tg2a7d4.glddns.com^
 ||thamrin.ddns.net^
 ||thanos.pleumkungz.com^
 ||thefamilypuls.com^
@@ -3124,7 +3121,6 @@
 ||vps310.brueggus.de^
 ||vps311.brueggus.de^
 ||vps312.brueggus.de^
-||vps313.brueggus.de^
 ||vps314.brueggus.de^
 ||vps317.brueggus.de^
 ||vps322.brueggus.de^
