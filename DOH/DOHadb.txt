@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2024-03-25 03:40:54 (UTC)
+! Last updated: 2024-03-26 03:23:03 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -598,6 +598,7 @@
 ||clic.eu.org^
 ||clientdns3.softcom.net^
 ||cloud.198.games^
+||cloud.198.games.cdn.dnsv1.com^
 ||cloud8.yydsgod.eu.org^
 ||cloudbasesolutions.online^
 ||cloudflare-dns.com^
@@ -1946,7 +1947,6 @@
 ||fwgw.orangepipc.mywire.org^
 ||gaia.plonknet.com^
 ||galileo.math.unipd.it^
-||gandhico2.duckdns.org^
 ||gateway.baltes.info^
 ||gateway.fomichev.cloud^
 ||gauss.pp.ua^
@@ -2126,6 +2126,7 @@
 ||jarjar.meganerd.nl^
 ||jcdns.fun^
 ||jefe.space^
+||jianyi.studio^
 ||jit.ddns.net^
 ||jkt01.dnscry.pt^
 ||jmarston.duckdns.org^
@@ -2338,6 +2339,7 @@
 ||mr-romero.com^
 ||mru01.dnscry.pt^
 ||msr177.com^
+||mtdkdhs0.slt.sched.tdnsv8.com^
 ||muc01.dnscry.pt^
 ||muc-ns01.ibytex.systems^
 ||muli.stusta.mhn.de^
@@ -2493,10 +2495,6 @@
 ||oculta.me^
 ||odoh.cloudflare-dns.com^
 ||odoh.crypto.sx^
-||odoh-target.alekberg.net^
-||odoh-target-noads.alekberg.net^
-||odoh-target-noads-se.alekberg.net^
-||odoh-target-se.alekberg.net^
 ||odvr.nic.cz^
 ||office.heimtec.com^
 ||oko.haneulo.com^
@@ -2649,7 +2647,6 @@
 ||raspberrydoc.duckdns.org^
 ||rasp.matthias-iwer.de^
 ||rayneau.fr^
-||rdjcloud.duckdns.org^
 ||rdjdns.ajraspi.xyz^
 ||rdns.faelix.net^
 ||rdu01.dnscry.pt^
@@ -2798,7 +2795,6 @@
 ||sga21.es^
 ||sg-dns1.bancuh.com^
 ||sg-dns2.bancuh.com^
-||sg.gridns.xyz^
 ||sg.jnraptor.com^
 ||sgpcloud.duckdns.org^
 ||sgs02.just-a-web.com^
@@ -2852,6 +2848,7 @@
 ||srgaghome.freemyip.com^
 ||sriedmueadguard.casa^
 ||srv1.web-mx.eu^
+||srv2.bartoszturek.online^
 ||srv5.jiripocta.cz^
 ||srv-revprox-01.atakorah.com^
 ||ss.0001.xyz^
