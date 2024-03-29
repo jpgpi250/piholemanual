@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2024-03-27 03:37:40 (UTC)
+! Last updated: 2024-03-28 03:26:35 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -12,6 +12,7 @@
 !
 ||001.smallnode.net^
 ||1001.cloudflare-dns.com^
+||10787578eb1e4b75adfa6b2a4bdea0b5.pacloudflare.com^
 ||1.0rz.space^
 ||1111.cloudflare-dns.com^
 ||1.11i.eu^
@@ -1346,7 +1347,6 @@
 ||dns.rbs.my.id^
 ||dns.reckoningslug.name^
 ||dns.redroot.me^
-||dns.relay.ovpn.bond^
 ||dns.renardyre.com^
 ||dns.req1.fr^
 ||dns.resoft.org^
@@ -1944,7 +1944,6 @@
 ||fwgw.orangepipc.mywire.org^
 ||gaia.plonknet.com^
 ||galileo.math.unipd.it^
-||gateway.baltes.info^
 ||gateway.fomichev.cloud^
 ||gauss.pp.ua^
 ||gb-bir-w-1.nashkan.net^
@@ -2123,6 +2122,7 @@
 ||jarjar.meganerd.nl^
 ||jcdns.fun^
 ||jefe.space^
+||jianyi.studio^
 ||jit.ddns.net^
 ||jkt01.dnscry.pt^
 ||jmarston.duckdns.org^
@@ -2286,7 +2286,6 @@
 ||maison.auffray.org^
 ||malanser.ru^
 ||management.alexpollard.net^
-||marcrnt.ddnss.de^
 ||marimuttz.asuscomm.com^
 ||marzban.severvpn.ru^
 ||mask-api.fe2.apple-dns.net^
@@ -2325,6 +2324,7 @@
 ||m.myspace.sbs^
 ||mo0on15.com^
 ||moaz-adguard.duckdns.org^
+||montmorot.duckdns.org^
 ||monty.best^
 ||moonbd.top^
 ||morbitzer.de^
@@ -2512,7 +2512,6 @@
 ||op.htyweb.top^
 ||ora1.nocnik.org^
 ||oracle001.330k.biz^
-||oracle2.herry.dev^
 ||oraclejp2.chungyu.com^
 ||oradns.anbitech.com^
 ||orau.lz0724.com^
@@ -2641,6 +2640,7 @@
 ||raspberrydoc.duckdns.org^
 ||rasp.matthias-iwer.de^
 ||rayneau.fr^
+||rdjcloud.duckdns.org^
 ||rdjdns.ajraspi.xyz^
 ||rdns.faelix.net^
 ||rdu01.dnscry.pt^
@@ -2675,6 +2675,7 @@
 ||resolver.noaddns.com^
 ||resolver.r0cket.net^
 ||resolver.rferee.dev^
+||resolver.sunet.se^
 ||resolver.unstoppable.io^
 ||resolve.srv-pro.de^
 ||resov.wehao.net^
@@ -2891,7 +2892,6 @@
 ||test.dnsteam.globuscs.info^
 ||testguard.meexx.de^
 ||tetra.aeins.at^
-||tezoi.duckdns.org^
 ||tg2a7d4.glddns.com^
 ||thamrin.ddns.net^
 ||thanos.pleumkungz.com^
@@ -3114,7 +3114,6 @@
 ||vps310.brueggus.de^
 ||vps311.brueggus.de^
 ||vps312.brueggus.de^
-||vps313.brueggus.de^
 ||vps314.brueggus.de^
 ||vps317.brueggus.de^
 ||vps322.brueggus.de^
