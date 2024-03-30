@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2024-03-28 03:26:35 (UTC)
+! Last updated: 2024-03-29 03:42:51 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -62,7 +62,6 @@
 ||ablock.fuckit.ovh^
 ||abluehope.com^
 ||abovetheclouds.fun^
-||abstergo.it^
 ||acomit.lk^
 ||ad1guard.duckdns.org^
 ||ad1.heronet.nl^
@@ -108,6 +107,7 @@
 ||adg.jabertechnologies.ch^
 ||adg.jnorton.us^
 ||adg.nosfe.de^
+||adg.pidns.de^
 ||adg.qwqwe.link^
 ||adg.rokh.biz^
 ||adgrus.tvmix.my.id^
@@ -240,11 +240,11 @@
 ||adguard.madeconengenharia.com.br^
 ||adguard.mapor.co^
 ||adguard.marto.si^
-||adguard.mattiafenzi.uk^
 ||adguard.meddy94.de^
 ||adguard.minetown.eu.org^
 ||adguard.mokocup.cf^
 ||adguard.mokocup.dev^
+||adguard.myddns.org^
 ||adguard.netmasc.services^
 ||adguard.nielsenhost.dk^
 ||adguard.niko-sem.com^
@@ -303,6 +303,7 @@
 ||adguard.wangziyun.online^
 ||adguard.willhotard.com^
 ||adguard.wirimij.nl^
+||adguard.x88x.xyz^
 ||adguard.xiaolingg.io.vn^
 ||adguard.youler.com^
 ||adguard.yuki2th.xyz^
@@ -457,10 +458,12 @@
 ||audio.dehb.ru^
 ||augandnap.arandomdomain.net^
 ||augne.dns.walshnet.co.uk^
+||au.rslvr.eu^
 ||au-syd.doh.sb^
 ||au-syd-w-2.nashkan.net^
 ||au-syd-w-3.nashkan.net^
 ||au-syd-w-p-1.nashkan.net^
+||au-syd-w-p-2.nashkan.net^
 ||au.teradns.org^
 ||auto-cn-hk-8000.go-behind.one^
 ||aviemore.dns.walshnet.co.uk^
@@ -497,6 +500,7 @@
 ||berd.moe^
 ||bev.dns.walshnet.co.uk^
 ||b.family.ns.dnslify.com^
+||bg.rslvr.eu^
 ||bg-sof-w-3.nashkan.net^
 ||bh.wael.name^
 ||bigart.su^
@@ -540,6 +544,7 @@
 ||bunch-o-nerds.com^
 ||bushido.node.rferee.dev^
 ||bushmancastle.duckdns.org^
+||bwg.559299366.xyz^
 ||bwh2.telex.app^
 ||bwh.why4free.top^
 ||bw.marsgo.top^
@@ -1099,6 +1104,7 @@
 ||dns.hva.li^
 ||dns.iamninja.ru^
 ||dns.iblockads.net^
+||dns.ibreeze.xyz^
 ||dns.ictorn.dev^
 ||dns.ihaveacloud.com^
 ||dns.ikataruto.com^
@@ -1114,7 +1120,6 @@
 ||dns.internal.hosmatic.com^
 ||dns.invisv.com^
 ||dns.ipoac.nl^
-||dns.ipty.de^
 ||dns.ipv6dns.com^
 ||dns.irumatech.com^
 ||dns.islandnet.com^
@@ -1301,6 +1306,7 @@
 ||dnsovertls.sinodun.com^
 ||dns-ovh.panszelescik.pl^
 ||dns.ovpn.bond^
+||dns.p3k.sk^
 ||dns.p55k.com^
 ||dns.pacificmonster.com^
 ||dns.paesa.es^
@@ -1347,7 +1353,9 @@
 ||dns.rbs.my.id^
 ||dns.reckoningslug.name^
 ||dns.redroot.me^
+||dns.relay.ovpn.bond^
 ||dns.renardyre.com^
+||dns.repinger.my.id^
 ||dns.req1.fr^
 ||dns.resoft.org^
 ||dns.retakecs.com^
@@ -1625,6 +1633,7 @@
 ||doh.dns4all.eu^
 ||doh.dns.apple.com^
 ||doh.dns.apple.com.v.aaplimg.com^
+||doh.dnscron.com^
 ||doh.dnscrypt.uk^
 ||doh.dns-ga.de^
 ||doh.dnslify.com^
@@ -1766,6 +1775,7 @@
 ||dot.chi.ahadns.net^
 ||dot.cox.net^
 ||dot-de.blahdns.com^
+||dot.dnscron.com^
 ||dotdns.cryptroute.com^
 ||dot.dns-ga.de^
 ||dot-dns.zmy.cloud^
@@ -1862,7 +1872,6 @@
 ||extended.dns.mullvad.net^
 ||externalmobiel.lekdijk.online^
 ||eyg01.dnscry.pt^
-||f03a0e2fa9f5.sn.mynetname.net^
 ||f1.dns.s3cure.me^
 ||f2-dns.asuzac.com.vn^
 ||f97.xyz^
@@ -1944,6 +1953,8 @@
 ||fwgw.orangepipc.mywire.org^
 ||gaia.plonknet.com^
 ||galileo.math.unipd.it^
+||gandhico2.duckdns.org^
+||gateway.baltes.info^
 ||gateway.fomichev.cloud^
 ||gauss.pp.ua^
 ||gb-bir-w-1.nashkan.net^
@@ -2000,6 +2011,7 @@
 ||gztech.me^
 ||hahnjo.de^
 ||hanniel.tech^
+||harveyhome.top^
 ||haswell-www.a.guindehi.ch^
 ||hcm.quydang.name.vn^
 ||hdf084sqbme.sn.mynetname.net^
@@ -2026,6 +2038,7 @@
 ||hk.mangosysdns.com^
 ||hkname.freecdn.one^
 ||hk.ravi.top^
+||hk.rslvr.eu^
 ||hole.elbschloss.xyz^
 ||home27.duckdns.org^
 ||home47a.mooo.com^
@@ -2084,7 +2097,6 @@
 ||igor.vpn.i81.ru^
 ||ihctw.synology.me^
 ||iij.jp^
-||ii.lov.host^
 ||ikarosalpha.xyz^
 ||ime-ingenierias.xyz^
 ||in-blr.doh.sb^
@@ -2113,6 +2125,7 @@
 ||ist01.dnscry.pt^
 ||itlikehell.ru^
 ||it-pal-w-1.nashkan.net^
+||ivica-vulas.from.hr^
 ||ivnkn.xyz^
 ||jabber-germany.de^
 ||jabber-server.de^
@@ -2122,7 +2135,6 @@
 ||jarjar.meganerd.nl^
 ||jcdns.fun^
 ||jefe.space^
-||jianyi.studio^
 ||jit.ddns.net^
 ||jkt01.dnscry.pt^
 ||jmarston.duckdns.org^
@@ -2149,6 +2161,7 @@
 ||jp-nrt.doh.sb^
 ||jpok.996333.xyz^
 ||jp.ray0512.win^
+||jp.rslvr.eu^
 ||jp.tiarap.org^
 ||jp.tiar.app^
 ||jp-tyo-w-1.nashkan.net^
@@ -2286,6 +2299,7 @@
 ||maison.auffray.org^
 ||malanser.ru^
 ||management.alexpollard.net^
+||marcrnt.ddnss.de^
 ||marimuttz.asuscomm.com^
 ||marzban.severvpn.ru^
 ||mask-api.fe2.apple-dns.net^
@@ -2404,6 +2418,7 @@
 ||nl-dro-w-f-1.nashkan.net^
 ||nl-dro-w-p-1.nashkan.net^
 ||nlname.freecdn.one^
+||nl.rslvr.eu^
 ||no-ad.levcloud.cloudns.nz^
 ||noads.api.org.pl^
 ||noads.dns.vladpro.ru^
@@ -2436,6 +2451,7 @@
 ||ns1.qquack.org^
 ||ns1.recursive.dnsbycomodo.com^
 ||ns1.sc-lezhi.com^
+||ns1.znit.net.bd^
 ||ns2.1899.com.mx^
 ||ns2.dnsprivacy.at^
 ||ns2.doh.best^
@@ -2501,6 +2517,7 @@
 ||oneplus-10pro.aezadns.duckdns.org^
 ||onlyfriends.info^
 ||o--o.duckdns.org^
+||oostelbos.dynu.com^
 ||opencdn.jomodns.com^
 ||open.dns0.eu^
 ||opennic1.eth-services.de^
@@ -2561,7 +2578,6 @@
 ||pi4.jnraptor.net^
 ||pi.adblocker.eu.org^
 ||pi.daryllswer.net^
-||piekacz.pl^
 ||pihole1.hoerli.net^
 ||pihole2.hoerli.net^
 ||pihole3.hoerli.net^
@@ -2583,6 +2599,7 @@
 ||pns2.sadraidc.com^
 ||pooblet.co.za^
 ||pope.cnblw.me^
+||ppmanu.ddns.net^
 ||pqh.ddns.net^
 ||premiumtier-network.instadart.net^
 ||preview.dnsteam.globuscs.info^
@@ -2792,6 +2809,7 @@
 ||sg-dns2.bancuh.com^
 ||sg.jnraptor.com^
 ||sgpcloud.duckdns.org^
+||sg.rslvr.eu^
 ||sgs02.just-a-web.com^
 ||sgs03.just-a-web.com^
 ||sg-sin.doh.sb^
@@ -2813,6 +2831,7 @@
 ||sin01.dnscry.pt^
 ||sin02.dnscry.pt^
 ||sin.core.access.zznet.fun^
+||singy.smartq.dev^
 ||sink.nolo.ltd^
 ||sitdns.com^
 ||site-1.duckdns.org^
@@ -2892,6 +2911,7 @@
 ||test.dnsteam.globuscs.info^
 ||testguard.meexx.de^
 ||tetra.aeins.at^
+||tezoi.duckdns.org^
 ||tg2a7d4.glddns.com^
 ||thamrin.ddns.net^
 ||thanos.pleumkungz.com^
@@ -2991,6 +3011,7 @@
 ||us.novali.date^
 ||us-ny-alula.heliumcloud.cc^
 ||us-nyc-w-1.nashkan.net^
+||us.rslvr.eu^
 ||us-saj-w-p-1.nashkan.net^
 ||us-sea-w-5.nashkan.net^
 ||us-sea-w-6.nashkan.net^
@@ -3028,6 +3049,7 @@
 ||virmamp33.sytes.net^
 ||vlad.dns.vladpro.ru^
 ||vladpro.ru^
+||vm01.eban.eu.org^
 ||vm1.arashi.solutions^
 ||vm2.arashi.solutions^
 ||vm2.oowo.de^
@@ -3300,7 +3322,6 @@
 ||yyz01.dnscry.pt^
 ||zabolotskikh.dev^
 ||zal01.dnscry.pt^
-||zephyrus.id^
 ||zero.dns0.eu^
 ||zetland.rm-ni.uk^
 ||zoopark-vpn.ddns.net^
