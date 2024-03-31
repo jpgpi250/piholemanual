@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2024-03-29 03:42:51 (UTC)
+! Last updated: 2024-03-30 03:27:01 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -17,7 +17,6 @@
 ||1111.cloudflare-dns.com^
 ||1.11i.eu^
 ||15101844.xyz^
-||180.0rz.space^
 ||1and1-dns.de^
 ||1a.ns.ozer.im^
 ||1b.ns.ozer.im^
@@ -62,6 +61,7 @@
 ||ablock.fuckit.ovh^
 ||abluehope.com^
 ||abovetheclouds.fun^
+||abstergo.it^
 ||acomit.lk^
 ||ad1guard.duckdns.org^
 ||ad1.heronet.nl^
@@ -446,7 +446,6 @@
 ||as6604t-04.myasustor.com^
 ||a.safe.ns.dnslify.com^
 ||asia.dnscepat.id^
-||astra.ender.fr^
 ||atelier.alica.idv.tw^
 ||atl01.dnscry.pt^
 ||atlantic.dyn1.de^
@@ -557,7 +556,6 @@
 ||ca.doh.cloudveil.org^
 ||callies-online.site^
 ||calm-crown.freemyip.com^
-||camn.uk^
 ||canadianshield.cira.ca^
 ||carioka.dyndns.org^
 ||casapi4.ddns.net^
@@ -1872,6 +1870,7 @@
 ||extended.dns.mullvad.net^
 ||externalmobiel.lekdijk.online^
 ||eyg01.dnscry.pt^
+||f03a0e2fa9f5.sn.mynetname.net^
 ||f1.dns.s3cure.me^
 ||f2-dns.asuzac.com.vn^
 ||f97.xyz^
@@ -1953,7 +1952,6 @@
 ||fwgw.orangepipc.mywire.org^
 ||gaia.plonknet.com^
 ||galileo.math.unipd.it^
-||gandhico2.duckdns.org^
 ||gateway.baltes.info^
 ||gateway.fomichev.cloud^
 ||gauss.pp.ua^
@@ -2097,6 +2095,7 @@
 ||igor.vpn.i81.ru^
 ||ihctw.synology.me^
 ||iij.jp^
+||ii.lov.host^
 ||ikarosalpha.xyz^
 ||ime-ingenierias.xyz^
 ||in-blr.doh.sb^
@@ -2135,6 +2134,7 @@
 ||jarjar.meganerd.nl^
 ||jcdns.fun^
 ||jefe.space^
+||jianyi.studio^
 ||jit.ddns.net^
 ||jkt01.dnscry.pt^
 ||jmarston.duckdns.org^
@@ -2218,7 +2218,6 @@
 ||kr.pigs.eu.org^
 ||kr-sel.doh.sb^
 ||krtekvpn.duckdns.org^
-||ks1.plop.cc^
 ||ksedns.ru^
 ||kstdownload.com^
 ||kswro.web.id^
@@ -2299,7 +2298,6 @@
 ||maison.auffray.org^
 ||malanser.ru^
 ||management.alexpollard.net^
-||marcrnt.ddnss.de^
 ||marimuttz.asuscomm.com^
 ||marzban.severvpn.ru^
 ||mask-api.fe2.apple-dns.net^
@@ -2414,7 +2412,6 @@
 ||nl-ams2.doh.sb^
 ||nl-ams.doh.sb^
 ||nl-ams-w-3.nashkan.net^
-||nlb.gbrossi.com.br^
 ||nl-dro-w-f-1.nashkan.net^
 ||nl-dro-w-p-1.nashkan.net^
 ||nlname.freecdn.one^
@@ -2436,7 +2433,6 @@
 ||ns.00dani.me^
 ||ns0.fdn.fr^
 ||ns1.1899.com.mx^
-||ns1.95997.ip-ns.net^
 ||ns1.bit-trails.nl^
 ||ns1.depotthai.army^
 ||ns1.dnsprivacy.at^
@@ -2578,6 +2574,7 @@
 ||pi4.jnraptor.net^
 ||pi.adblocker.eu.org^
 ||pi.daryllswer.net^
+||piekacz.pl^
 ||pihole1.hoerli.net^
 ||pihole2.hoerli.net^
 ||pihole3.hoerli.net^
@@ -2636,7 +2633,6 @@
 ||pure.sunnygyl.com^
 ||q3i6k7j3.stackpathcdn.com^
 ||qaz.tw^
-||qbak.no-ip.eu^
 ||qlf-doh.inria.fr^
 ||qoda.shrub.cfd^
 ||qual.cuprum.ru^
@@ -2912,7 +2908,6 @@
 ||testguard.meexx.de^
 ||tetra.aeins.at^
 ||tezoi.duckdns.org^
-||tg2a7d4.glddns.com^
 ||thamrin.ddns.net^
 ||thanos.pleumkungz.com^
 ||thefamilypuls.com^
@@ -2965,6 +2960,7 @@
 ||uk-lon.doh.sb^
 ||ukns.milangas2.top^
 ||uk.teradns.org^
+||unasw.eu^
 ||uncensored.any.dns.nixnet.xyz^
 ||uncensored-dot.dnswarden.com^
 ||uncensored.freedns.controld.com^
@@ -3049,7 +3045,6 @@
 ||virmamp33.sytes.net^
 ||vlad.dns.vladpro.ru^
 ||vladpro.ru^
-||vm01.eban.eu.org^
 ||vm1.arashi.solutions^
 ||vm2.arashi.solutions^
 ||vm2.oowo.de^
@@ -3270,6 +3265,7 @@
 ||www.taufner.net^
 ||www.tirapan.top^
 ||www.trovs.ru^
+||www.unasw.eu^
 ||www.urology.wiki^
 ||www.vdsn-nl-2.azatmutq.com^
 ||www.vik.ro^
