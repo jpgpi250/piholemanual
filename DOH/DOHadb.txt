@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2024-03-30 03:27:01 (UTC)
+! Last updated: 2024-03-31 03:41:15 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -17,6 +17,7 @@
 ||1111.cloudflare-dns.com^
 ||1.11i.eu^
 ||15101844.xyz^
+||180.0rz.space^
 ||1and1-dns.de^
 ||1a.ns.ozer.im^
 ||1b.ns.ozer.im^
@@ -61,7 +62,6 @@
 ||ablock.fuckit.ovh^
 ||abluehope.com^
 ||abovetheclouds.fun^
-||abstergo.it^
 ||acomit.lk^
 ||ad1guard.duckdns.org^
 ||ad1.heronet.nl^
@@ -446,6 +446,7 @@
 ||as6604t-04.myasustor.com^
 ||a.safe.ns.dnslify.com^
 ||asia.dnscepat.id^
+||astra.ender.fr^
 ||atelier.alica.idv.tw^
 ||atl01.dnscry.pt^
 ||atlantic.dyn1.de^
@@ -556,6 +557,7 @@
 ||ca.doh.cloudveil.org^
 ||callies-online.site^
 ||calm-crown.freemyip.com^
+||camn.uk^
 ||canadianshield.cira.ca^
 ||carioka.dyndns.org^
 ||casapi4.ddns.net^
@@ -1351,7 +1353,6 @@
 ||dns.rbs.my.id^
 ||dns.reckoningslug.name^
 ||dns.redroot.me^
-||dns.relay.ovpn.bond^
 ||dns.renardyre.com^
 ||dns.repinger.my.id^
 ||dns.req1.fr^
@@ -1414,6 +1415,7 @@
 ||dns.smirnov.tk^
 ||dns.smvd.net^
 ||dns.spil.co.id^
+||dns.spirio.fr^
 ||dns.srijan.site^
 ||dns.srinivasrao.co.in^
 ||dns.sshub.win^
@@ -1870,7 +1872,6 @@
 ||extended.dns.mullvad.net^
 ||externalmobiel.lekdijk.online^
 ||eyg01.dnscry.pt^
-||f03a0e2fa9f5.sn.mynetname.net^
 ||f1.dns.s3cure.me^
 ||f2-dns.asuzac.com.vn^
 ||f97.xyz^
@@ -1952,7 +1953,6 @@
 ||fwgw.orangepipc.mywire.org^
 ||gaia.plonknet.com^
 ||galileo.math.unipd.it^
-||gateway.baltes.info^
 ||gateway.fomichev.cloud^
 ||gauss.pp.ua^
 ||gb-bir-w-1.nashkan.net^
@@ -2218,6 +2218,7 @@
 ||kr.pigs.eu.org^
 ||kr-sel.doh.sb^
 ||krtekvpn.duckdns.org^
+||ks1.plop.cc^
 ||ksedns.ru^
 ||kstdownload.com^
 ||kswro.web.id^
@@ -2298,6 +2299,7 @@
 ||maison.auffray.org^
 ||malanser.ru^
 ||management.alexpollard.net^
+||marcrnt.ddnss.de^
 ||marimuttz.asuscomm.com^
 ||marzban.severvpn.ru^
 ||mask-api.fe2.apple-dns.net^
@@ -2433,6 +2435,7 @@
 ||ns.00dani.me^
 ||ns0.fdn.fr^
 ||ns1.1899.com.mx^
+||ns1.95997.ip-ns.net^
 ||ns1.bit-trails.nl^
 ||ns1.depotthai.army^
 ||ns1.dnsprivacy.at^
@@ -2511,7 +2514,6 @@
 ||one.dotted.9l3.com^
 ||one.one.one.one^
 ||oneplus-10pro.aezadns.duckdns.org^
-||onlyfriends.info^
 ||o--o.duckdns.org^
 ||oostelbos.dynu.com^
 ||opencdn.jomodns.com^
@@ -2574,7 +2576,6 @@
 ||pi4.jnraptor.net^
 ||pi.adblocker.eu.org^
 ||pi.daryllswer.net^
-||piekacz.pl^
 ||pihole1.hoerli.net^
 ||pihole2.hoerli.net^
 ||pihole3.hoerli.net^
@@ -2633,6 +2634,7 @@
 ||pure.sunnygyl.com^
 ||q3i6k7j3.stackpathcdn.com^
 ||qaz.tw^
+||qbak.no-ip.eu^
 ||qlf-doh.inria.fr^
 ||qoda.shrub.cfd^
 ||qual.cuprum.ru^
@@ -2789,6 +2791,7 @@
 ||server.felixf.eu^
 ||server.pragmasec.nl^
 ||serverrmha1.ddnsku.my.id^
+||server.spirio.fr^
 ||server.unp.im^
 ||serveur-yan.synology.me^
 ||service.c698fc0a.cfd^
@@ -2907,7 +2910,6 @@
 ||test.dnsteam.globuscs.info^
 ||testguard.meexx.de^
 ||tetra.aeins.at^
-||tezoi.duckdns.org^
 ||thamrin.ddns.net^
 ||thanos.pleumkungz.com^
 ||thefamilypuls.com^
@@ -2940,6 +2942,7 @@
 ||triton.data.haus^
 ||trovs.ru^
 ||trr.dns.nextdns.io^
+||truta.org^
 ||trytackle.ddns.net^
 ||tsm01.dnscry.pt^
 ||ttag.dns.nomu.pw^
