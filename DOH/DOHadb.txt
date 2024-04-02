@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2024-03-31 03:41:15 (UTC)
+! Last updated: 2024-04-01 02:08:31 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -12,12 +12,10 @@
 !
 ||001.smallnode.net^
 ||1001.cloudflare-dns.com^
-||10787578eb1e4b75adfa6b2a4bdea0b5.pacloudflare.com^
 ||1.0rz.space^
 ||1111.cloudflare-dns.com^
 ||1.11i.eu^
 ||15101844.xyz^
-||180.0rz.space^
 ||1and1-dns.de^
 ||1a.ns.ozer.im^
 ||1b.ns.ozer.im^
@@ -52,7 +50,6 @@
 ||77980.bodis.com^
 ||7agb96-dns.komeho.info^
 ||8888.google^
-||90c3f3bd03394bebaa20741314cef947.pacloudflare.com^
 ||959818.xyz^
 ||a5135324.csie.io^
 ||aattwwss.duckdns.org^
@@ -465,7 +462,6 @@
 ||au-syd-w-p-1.nashkan.net^
 ||au-syd-w-p-2.nashkan.net^
 ||au.teradns.org^
-||auto-cn-hk-8000.go-behind.one^
 ||aviemore.dns.walshnet.co.uk^
 ||a.vvvglass.com^
 ||awan.ftp.sh^
@@ -580,7 +576,6 @@
 ||ch01adguardho.me^
 ||chandr1000.net^
 ||changesmart2024.top^
-||chanhome.xyz^
 ||chaos.altendorfme.com^
 ||chaos-system.de^
 ||chenrouter.chironys.com^
@@ -614,7 +609,6 @@
 ||cloud.tezoi.com^
 ||cluster-0.gac.edu^
 ||cluster-1.gac.edu^
-||cname-for-doh.go-behind.one^
 ||cn.turngreatwall.com^
 ||coe01.dnscry.pt^
 ||common.dot.dns.yandex.net^
@@ -692,7 +686,6 @@
 ||de.teradns.org^
 ||dev.gonnadive.com^
 ||deweerd.loseyourip.com^
-||dff029179c4246e385296ea8de0b8eb8.pacloudflare.com^
 ||dfw01.dnscry.pt^
 ||d.gametechnet.com^
 ||dgca.myds.me^
@@ -1779,7 +1772,6 @@
 ||dotdns.cryptroute.com^
 ||dot.dns-ga.de^
 ||dot-dns.zmy.cloud^
-||dotdown.netlify.app^
 ||dot.eastas.pi-dns.com^
 ||dot.eastau.pi-dns.com^
 ||dot.eastus.pi-dns.com^
@@ -1953,6 +1945,8 @@
 ||fwgw.orangepipc.mywire.org^
 ||gaia.plonknet.com^
 ||galileo.math.unipd.it^
+||gandhico2.duckdns.org^
+||gateway.baltes.info^
 ||gateway.fomichev.cloud^
 ||gauss.pp.ua^
 ||gb-bir-w-1.nashkan.net^
@@ -1991,7 +1985,6 @@
 ||greppie.nl^
 ||groupy.ga^
 ||grunwald-marc.de^
-||gtm-sg-5r538sziu04.go-behind.one^
 ||guanmengkai.com^
 ||guard.19kom.de^
 ||guard.beliefanx.me^
@@ -2060,7 +2053,6 @@
 ||home.r01.fr^
 ||home.realldz.id.vn^
 ||home-server.exonip.de^
-||homeserverlocal.ddns.net^
 ||home.snow-sugar.net^
 ||home.tuankhaiit.com^
 ||home.wriedts.de^
@@ -2095,7 +2087,6 @@
 ||igor.vpn.i81.ru^
 ||ihctw.synology.me^
 ||iij.jp^
-||ii.lov.host^
 ||ikarosalpha.xyz^
 ||ime-ingenierias.xyz^
 ||in-blr.doh.sb^
@@ -2134,7 +2125,6 @@
 ||jarjar.meganerd.nl^
 ||jcdns.fun^
 ||jefe.space^
-||jianyi.studio^
 ||jit.ddns.net^
 ||jkt01.dnscry.pt^
 ||jmarston.duckdns.org^
@@ -2197,11 +2187,9 @@
 ||kirov.v6.rocks^
 ||kiv01.dnscry.pt^
 ||kiwifunke.duckdns.org^
-||kk.sshub.win^
 ||knight1.de^
 ||kolobok2.duckdns.org^
 ||korzhov.dev^
-||kostek.dyndns.org^
 ||kotys.hr.i81.ru^
 ||kotys.vd.i81.ru^
 ||kotys.vpn.i81.ru^
@@ -2218,7 +2206,6 @@
 ||kr.pigs.eu.org^
 ||kr-sel.doh.sb^
 ||krtekvpn.duckdns.org^
-||ks1.plop.cc^
 ||ksedns.ru^
 ||kstdownload.com^
 ||kswro.web.id^
@@ -2286,7 +2273,6 @@
 ||macmini.qujing.eu.org^
 ||mad01.dnscry.pt^
 ||maikel.greppie.nl^
-||mail.4-the.win^
 ||mail.andrewnw.xyz^
 ||mail.data.haus^
 ||mailer.amlegion.org^
@@ -2414,6 +2400,7 @@
 ||nl-ams2.doh.sb^
 ||nl-ams.doh.sb^
 ||nl-ams-w-3.nashkan.net^
+||nlb.gbrossi.com.br^
 ||nl-dro-w-f-1.nashkan.net^
 ||nl-dro-w-p-1.nashkan.net^
 ||nlname.freecdn.one^
@@ -2487,7 +2474,6 @@
 ||ns.solutics.ec^
 ||ns.try-dns.online^
 ||ns.vik.ro^
-||ntu.ssooss.win^
 ||nudnud.com^
 ||nue01.dnscry.pt^
 ||nue2.moderateinfra.net^
@@ -2514,7 +2500,9 @@
 ||one.dotted.9l3.com^
 ||one.one.one.one^
 ||oneplus-10pro.aezadns.duckdns.org^
+||onlyfriends.info^
 ||o--o.duckdns.org^
+||o.o.ovpn.bond^
 ||oostelbos.dynu.com^
 ||opencdn.jomodns.com^
 ||open.dns0.eu^
@@ -2527,6 +2515,7 @@
 ||op.htyweb.top^
 ||ora1.nocnik.org^
 ||oracle001.330k.biz^
+||oracle2.herry.dev^
 ||oraclejp2.chungyu.com^
 ||oradns.anbitech.com^
 ||orau.lz0724.com^
@@ -2542,7 +2531,6 @@
 ||outdoorchair.us^
 ||outie.8ws.net^
 ||outiejr.8ws.net^
-||ovh.panszelescik.pl^
 ||owndns.dedyn.io^
 ||p0.freedns.controld.com^
 ||p1.freedns.controld.com^
@@ -2585,7 +2573,6 @@
 ||pihole.gcp.pathofgrace.com^
 ||pioko.net^
 ||pitchforkwaydns.duckdns.org^
-||pixie.porkbun.com^
 ||plex.skin57.de^
 ||plichaa12.ddns.net^
 ||pluton.plan9-dns.com^
@@ -2613,7 +2600,6 @@
 ||protected.canadianshield.cira.ca^
 ||proxjdf.jamesferrand.fr^
 ||proxy.ext.devkon.org^
-||proxy.haoxuan.xyz^
 ||proxy.landerbrauver.ru^
 ||proxy.srs.su^
 ||prysiazhniuk.pp.ua^
@@ -2655,7 +2641,6 @@
 ||raspberrydoc.duckdns.org^
 ||rasp.matthias-iwer.de^
 ||rayneau.fr^
-||rdjcloud.duckdns.org^
 ||rdjdns.ajraspi.xyz^
 ||rdns.faelix.net^
 ||rdu01.dnscry.pt^
@@ -2861,14 +2846,12 @@
 ||srgaghome.freemyip.com^
 ||sriedmueadguard.casa^
 ||srv1.web-mx.eu^
-||srv2.bartoszturek.online^
 ||srv5.jiripocta.cz^
 ||srv-revprox-01.atakorah.com^
 ||ss.0001.xyz^
 ||ssh-storage.ru^
 ||staging.dnsteam.globuscs.info^
 ||staniranon.duckdns.org^
-||static.captnemo.in^
 ||statistics.larryvpn.com^
 ||steering.nextdns.io^
 ||sto01.dnscry.pt^
@@ -2910,6 +2893,8 @@
 ||test.dnsteam.globuscs.info^
 ||testguard.meexx.de^
 ||tetra.aeins.at^
+||tezoi.duckdns.org^
+||tg2a7d4.glddns.com^
 ||thamrin.ddns.net^
 ||thanos.pleumkungz.com^
 ||thefamilypuls.com^
@@ -2939,7 +2924,6 @@
 ||travis90x.ddns.net^
 ||trf01.dnscry.pt^
 ||tr-ist-w-p-2.nashkan.net^
-||triton.data.haus^
 ||trovs.ru^
 ||trr.dns.nextdns.io^
 ||truta.org^
@@ -2987,7 +2971,6 @@
 ||us02.dns4me.net^
 ||us1.blissdns.net^
 ||us1.dns.lavate.ch^
-||us5.wan.hc7z.com^
 ||usa1.altcensored.com^
 ||us-ash-w-f-1.nashkan.net^
 ||us-atl-w-2.nashkan.net^
@@ -3019,7 +3002,6 @@
 ||uw-dns.rubyfish.cn^
 ||ux.go20.cf^
 ||v1552270.hosted-by-vdsina.ru^
-||v1.lifeym.xyz^
 ||v2-1.huwenqiang.xyz^
 ||v2.xm706v.com^
 ||v2.xx3210766.live^
@@ -3048,6 +3030,7 @@
 ||virmamp33.sytes.net^
 ||vlad.dns.vladpro.ru^
 ||vladpro.ru^
+||vm01.eban.eu.org^
 ||vm1.arashi.solutions^
 ||vm2.arashi.solutions^
 ||vm2.oowo.de^
@@ -3134,6 +3117,7 @@
 ||vps310.brueggus.de^
 ||vps311.brueggus.de^
 ||vps312.brueggus.de^
+||vps313.brueggus.de^
 ||vps314.brueggus.de^
 ||vps317.brueggus.de^
 ||vps322.brueggus.de^
@@ -3149,7 +3133,6 @@
 ||vps336.brueggus.de^
 ||vps337.brueggus.de^
 ||vps338.brueggus.de^
-||vps-33e5a7f3.vps.ovh.us^
 ||vps341.brueggus.de^
 ||vps342.brueggus.de^
 ||vps343.brueggus.de^
