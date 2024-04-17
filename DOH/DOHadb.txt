@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2024-04-15 02:46:53 (UTC)
+! Last updated: 2024-04-16 02:22:08 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -12,13 +12,11 @@
 !
 ||001.smallnode.net^
 ||1001.cloudflare-dns.com^
-||10787578eb1e4b75adfa6b2a4bdea0b5.pacloudflare.com^
 ||1.0rz.space^
 ||1111.cloudflare-dns.com^
 ||1.11i.eu^
 ||15101844.xyz^
 ||180.0rz.space^
-||19a8b89bb6b2491ca5cccbeb0e84a4c4.pacloudflare.com^
 ||1and1-dns.de^
 ||1a.ns.ozer.im^
 ||1b.ns.ozer.im^
@@ -53,7 +51,6 @@
 ||77980.bodis.com^
 ||7agb96-dns.komeho.info^
 ||8888.google^
-||90c3f3bd03394bebaa20741314cef947.pacloudflare.com^
 ||959818.xyz^
 ||a5135324.csie.io^
 ||aattwwss.duckdns.org^
@@ -62,7 +59,6 @@
 ||a-bld.sys-adm.in^
 ||ablock.fuckit.ovh^
 ||abluehope.com^
-||abstergo.it^
 ||acomit.lk^
 ||ad1guard.duckdns.org^
 ||ad1.heronet.nl^
@@ -432,6 +428,7 @@
 ||a.ns.dnslify.com^
 ||antarlangit.my.id^
 ||ant.dns.qwer.pw^
+||antidns.s.tuna.tsinghua.edu.cn^
 ||antivirus.bebasid.com^
 ||antonyfrompnz.space^
 ||anycast.censurfridns.dk^
@@ -478,7 +475,6 @@
 ||au-syd-w-p-1.nashkan.net^
 ||au-syd-w-p-2.nashkan.net^
 ||au.teradns.org^
-||auto-cn-hk-8000.go-behind.one^
 ||aviemore.dns.walshnet.co.uk^
 ||a.vvvglass.com^
 ||awan.ftp.sh^
@@ -628,7 +624,6 @@
 ||cloud.tezoi.com^
 ||cluster-0.gac.edu^
 ||cluster-1.gac.edu^
-||cname-for-doh.go-behind.one^
 ||cn.turngreatwall.com^
 ||coe01.dnscry.pt^
 ||common.dot.dns.yandex.net^
@@ -705,7 +700,6 @@
 ||de.teradns.org^
 ||dev.gonnadive.com^
 ||deweerd.loseyourip.com^
-||dff029179c4246e385296ea8de0b8eb8.pacloudflare.com^
 ||dfw01.dnscry.pt^
 ||d.gametechnet.com^
 ||dgca.myds.me^
@@ -1664,6 +1658,7 @@
 ||doh.almir1904.eu^
 ||doh.amonsul.net^
 ||doh.apad.pro^
+||doh.apad.pro.cdn.cloudflare.net^
 ||doh.applied-privacy.net^
 ||doh.appliedprivacy.net^
 ||doh.armadillodns.net^
@@ -1952,7 +1947,6 @@
 ||extended.dns.mullvad.net^
 ||externalmobiel.lekdijk.online^
 ||eyg01.dnscry.pt^
-||f03a0e2fa9f5.sn.mynetname.net^
 ||f1.dns.s3cure.me^
 ||f2-dns.asuzac.com.vn^
 ||f97.xyz^
@@ -2009,6 +2003,7 @@
 ||fra1.eyecay.xyz^
 ||fra.core.access.zznet.fun^
 ||frank-web.dedyn.io^
+||fra-oracle-1.hosts.dada.li^
 ||fr-dns1.bancuh.com^
 ||fr-dns2.bancuh.com^
 ||free.bravedns.com^
@@ -2076,7 +2071,6 @@
 ||groupy.ga^
 ||grunwald-marc.de^
 ||gsat.familyds.com^
-||gtm-sg-5r538sziu04.go-behind.one^
 ||guanmengkai.com^
 ||guard.19kom.de^
 ||guard.beliefanx.me^
@@ -2185,7 +2179,6 @@
 ||igor.vpn.i81.ru^
 ||ihctw.synology.me^
 ||iij.jp^
-||ii.lov.host^
 ||ikarosalpha.xyz^
 ||ime-ingenierias.xyz^
 ||in-blr.doh.sb^
@@ -2225,7 +2218,6 @@
 ||jarjar.meganerd.nl^
 ||jcdns.fun^
 ||jefe.space^
-||jianyi.studio^
 ||jit.ddns.net^
 ||jkt01.dnscry.pt^
 ||jmarston.duckdns.org^
@@ -2292,7 +2284,6 @@
 ||knight1.de^
 ||kolobok2.duckdns.org^
 ||korzhov.dev^
-||kostek.dyndns.org^
 ||kotys.hr.i81.ru^
 ||kotys.vd.i81.ru^
 ||kotys.vpn.i81.ru^
@@ -2421,13 +2412,12 @@
 ||mikatos.de^
 ||mikewaddick.com^
 ||mil01.dnscry.pt^
-||mimile.despagne.net^
-||mimile.despagne.ovh^
 ||minilla.store^
 ||mkvvpssrv12.freemyip.com^
 ||m.myspace.sbs^
 ||mo0on15.com^
 ||moaz-adguard.duckdns.org^
+||montmorot.duckdns.org^
 ||monty.best^
 ||moonbd.top^
 ||morbitzer.de^
@@ -2582,6 +2572,7 @@
 ||ns.solutics.ec^
 ||ns.try-dns.online^
 ||ns.vik.ro^
+||ntu.ssooss.win^
 ||nudnud.com^
 ||nue01.dnscry.pt^
 ||nue2.moderateinfra.net^
@@ -2678,7 +2669,6 @@
 ||pi.adblocker.eu.org^
 ||pi.daryllswer.net^
 ||pi-dns.gordon81.com^
-||piekacz.pl^
 ||pihole1.hoerli.net^
 ||pihole2.hoerli.net^
 ||pihole3.hoerli.net^
@@ -2752,7 +2742,7 @@
 ||quic.lol^
 ||r1bnc.com^
 ||r1bnc.eu.org^
-||r2s.qujing.eu.org^
+||r2s.echotrail.net^
 ||rabenhain.net^
 ||rachel.jeroenhd.nl^
 ||radia.bortzmeyer.org^
@@ -2973,7 +2963,6 @@
 ||srgaghome.freemyip.com^
 ||sriedmueadguard.casa^
 ||srv1.web-mx.eu^
-||srv2.bartoszturek.online^
 ||srv5.jiripocta.cz^
 ||srv-revprox-01.atakorah.com^
 ||ss.0001.xyz^
@@ -3055,7 +3044,6 @@
 ||travis90x.ddns.net^
 ||trf01.dnscry.pt^
 ||tr-ist-w-p-2.nashkan.net^
-||triton.data.haus^
 ||trovs.ru^
 ||trr.dns.nextdns.io^
 ||truta.org^
@@ -3102,7 +3090,6 @@
 ||us02.dns4me.net^
 ||us1.blissdns.net^
 ||us1.dns.lavate.ch^
-||us5.wan.hc7z.com^
 ||usa1.altcensored.com^
 ||us-ash-w-f-1.nashkan.net^
 ||us-atl-w-2.nashkan.net^
