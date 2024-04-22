@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2404210149 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2404220226 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2024-04-21 01:49:24 (UTC)
+; Last updated: 2024-04-22 02:26:22 (UTC)
 ;
 ; See https://jpgpi250.github.io/piholemanual/doc/Unbound%20response%20policy%20zones.pdf
 ; Report issues at https://github.com/jpgpi250/piholemanual/issues
@@ -223,6 +223,7 @@ adguard.h4nt3r.com CNAME .
 adguard.haneulo.com CNAME .
 adguard.helpdesk38.ru CNAME .
 adguardh.ga CNAME .
+adguard.hofi.li CNAME .
 adguardhome.atakorah.com CNAME .
 adguardhome.fr.couli.fr CNAME .
 adguard-home.myddns.me CNAME .
@@ -253,6 +254,7 @@ adguard.leadseason.eu CNAME .
 adguard.lege.despagne.net CNAME .
 adguard.londonwebnerd.cloud CNAME .
 adguard.lspcr.space CNAME .
+adguard.macrosolutionsltd.co.uk CNAME .
 adguard.madeconengenharia.com.br CNAME .
 adguard.mapor.co CNAME .
 adguard.marto.si CNAME .
@@ -535,6 +537,7 @@ bg-sof-w-3.nashkan.net CNAME .
 bh.wael.name CNAME .
 bigart.su CNAME .
 bigora2.vuhai.de CNAME .
+b-ii.com CNAME .
 bilidon.dnsuser.info CNAME .
 bilidon.info CNAME .
 bing.000036.xyz CNAME .
@@ -546,6 +549,7 @@ blackhole.gugainfo.com.br CNAME .
 blackhole.myon.lu CNAME .
 blade.lixd.club CNAME .
 bld.sys-adm.in CNAME .
+bl.eq.md CNAME .
 blitz.ahadns.com CNAME .
 blitz-setup.ahadns.com CNAME .
 block.abstergo.it CNAME .
@@ -723,6 +727,7 @@ dev.gonnadive.com CNAME .
 deweerd.loseyourip.com CNAME .
 dff029179c4246e385296ea8de0b8eb8.pacloudflare.com CNAME .
 dfw01.dnscry.pt CNAME .
+dfw02.dnscry.pt CNAME .
 d.gametechnet.com CNAME .
 dgca.myds.me CNAME .
 d.hansj.cc CNAME .
@@ -1063,6 +1068,7 @@ dns.enderblocks.net CNAME .
 dns.energized.pro CNAME .
 dns.engineer-lib.ru CNAME .
 dns-enzel.de CNAME .
+dns.enzonix.com CNAME .
 dnses.alekberg.net CNAME .
 dns.esegece.com CNAME .
 dns.esnube.es CNAME .
@@ -1083,6 +1089,7 @@ dns.familiamichels.com.br CNAME .
 dns-family.adguard.com CNAME .
 dnsfamily.adguard.com CNAME .
 dns-family.esegece.com CNAME .
+dns.family.fraiss.at CNAME .
 dns.fancyorg.at CNAME .
 dns.farakaft.ir CNAME .
 dns.faze.dev CNAME .
@@ -1969,6 +1976,7 @@ elshad-adgh-dns.ru CNAME .
 emby.rasp.tv CNAME .
 emmmmm.me CNAME .
 eoin.dns.walshnet.co.uk CNAME .
+epyc.digineo.de CNAME .
 eropa.dnscepat.id CNAME .
 erroring.ignorelist.com CNAME .
 esel.stusta.mhn.de CNAME .
@@ -1988,6 +1996,7 @@ exns1.exalto.nu CNAME .
 extended.dns.mullvad.net CNAME .
 externalmobiel.lekdijk.online CNAME .
 eyg01.dnscry.pt CNAME .
+f03a0e2fa9f5.sn.mynetname.net CNAME .
 f1.dns.s3cure.me CNAME .
 f2-dns.asuzac.com.vn CNAME .
 f97.xyz CNAME .
@@ -2479,7 +2488,6 @@ mr-romero.com CNAME .
 mru01.dnscry.pt CNAME .
 msr177.com CNAME .
 mtdkdhs0.slt.sched.tdnsv8.com CNAME .
-mtdz.duckdns.org CNAME .
 muc01.dnscry.pt CNAME .
 muc-ns01.ibytex.systems CNAME .
 muli.stusta.mhn.de CNAME .
@@ -2778,6 +2786,8 @@ public.alidns.com CNAME .
 public-dns-a.dns.sb CNAME .
 public-dns-b.dns.sb CNAME .
 public.dns.iij.jp CNAME .
+public-dns.info CNAME .
+publicdnsserver.com CNAME .
 pukanuragan.ru CNAME .
 punono.duckdns.org CNAME .
 puredns.org CNAME .
@@ -2968,6 +2978,7 @@ sg.teradns.org CNAME .
 sg-w-1.nashkan.net CNAME .
 sg-w-5.nashkan.net CNAME .
 sg-w-f-1.nashkan.net CNAME .
+sg-w-f-2.nashkan.net CNAME .
 sg-w-p-1.nashkan.net CNAME .
 shadowart.online CNAME .
 shalenkov.cc CNAME .
@@ -3069,6 +3080,7 @@ test.dnsteam.globuscs.info CNAME .
 testguard.meexx.de CNAME .
 tetra.aeins.at CNAME .
 tezoi.duckdns.org CNAME .
+tg2a7d4.glddns.com CNAME .
 thamrin.ddns.net CNAME .
 thanos.pleumkungz.com CNAME .
 thefamilypuls.com CNAME .
@@ -3124,6 +3136,7 @@ ukns.milangas2.top CNAME .
 uk.teradns.org CNAME .
 unasw.eu CNAME .
 uncensored.any.dns.nixnet.xyz CNAME .
+uncensoreddns.org CNAME .
 uncensored-dot.dnswarden.com CNAME .
 uncensored.freedns.controld.com CNAME .
 uncensored.lux1.dns.nixnet.xyz CNAME .
@@ -3328,6 +3341,7 @@ vps355.brueggus.de CNAME .
 vps356.brueggus.de CNAME .
 vps357.brueggus.de CNAME .
 vps359.brueggus.de CNAME .
+vps362.brueggus.de CNAME .
 vps4.scho.io CNAME .
 vps66.brueggus.de CNAME .
 vps.abgnetwork.es CNAME .
