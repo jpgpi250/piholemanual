@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2024-04-23 01:50:12 (UTC)
+! Last updated: 2024-04-24 01:45:47 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -12,13 +12,11 @@
 !
 ||001.smallnode.net^
 ||1001.cloudflare-dns.com^
-||10787578eb1e4b75adfa6b2a4bdea0b5.pacloudflare.com^
 ||1.0rz.space^
 ||1111.cloudflare-dns.com^
 ||1.11i.eu^
 ||15101844.xyz^
 ||180.0rz.space^
-||19a8b89bb6b2491ca5cccbeb0e84a4c4.pacloudflare.com^
 ||1and1-dns.de^
 ||1a.ns.ozer.im^
 ||1b.ns.ozer.im^
@@ -632,7 +630,6 @@
 ||clic.eu.org^
 ||clientdns3.softcom.net^
 ||cloud.198.games^
-||cloud.198.games.cdn.dnsv1.com^
 ||cloudbasesolutions.online^
 ||cloudflare-dns.com^
 ||cloudflare-gateway.com^
@@ -722,7 +719,6 @@
 ||de.teradns.org^
 ||dev.gonnadive.com^
 ||deweerd.loseyourip.com^
-||dff029179c4246e385296ea8de0b8eb8.pacloudflare.com^
 ||dfw01.dnscry.pt^
 ||dfw02.dnscry.pt^
 ||d.gametechnet.com^
@@ -1701,6 +1697,7 @@
 ||doh.apad.pro.cdn.cloudflare.net^
 ||doh.applied-privacy.net^
 ||doh.appliedprivacy.net^
+||doh.archuser.org^
 ||doh.armadillodns.net^
 ||doh.artsvr.my.id^
 ||doh.asia.dnswarden.com^
@@ -2268,7 +2265,6 @@
 ||jarjar.meganerd.nl^
 ||jcdns.fun^
 ||jefe.space^
-||jianyi.studio^
 ||jit.ddns.net^
 ||jkt01.dnscry.pt^
 ||jmarston.duckdns.org^
@@ -2484,7 +2480,7 @@
 ||mr-romero.com^
 ||mru01.dnscry.pt^
 ||msr177.com^
-||mtdkdhs0.slt-dk.sched.tdnsv8.com^
+||mtdz.duckdns.org^
 ||muc01.dnscry.pt^
 ||muc-ns01.ibytex.systems^
 ||muli.stusta.mhn.de^
