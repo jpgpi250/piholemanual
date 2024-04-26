@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2404250151 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2404260153 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2024-04-25 01:51:25 (UTC)
+; Last updated: 2024-04-26 01:53:48 (UTC)
 ;
 ; See https://jpgpi250.github.io/piholemanual/doc/Unbound%20response%20policy%20zones.pdf
 ; Report issues at https://github.com/jpgpi250/piholemanual/issues
@@ -529,6 +529,7 @@ beacon.dog CNAME .
 beacon.fengli.love CNAME .
 beautifullife.eu.org CNAME .
 beautifulthings.eu.org CNAME .
+bemag.app CNAME .
 berd.moe CNAME .
 bev.dns.walshnet.co.uk CNAME .
 b.family.ns.dnslify.com CNAME .
@@ -762,14 +763,18 @@ dns13.quad9.net CNAME .
 dns140.zhhz.cc CNAME .
 dns168.zhhz.cc CNAME .
 dns1.adrianion.eu CNAME .
+dns1.au.newpangea.de CNAME .
 dns1.blackrandcrf.ru CNAME .
+dns1.cl.newpangea.de CNAME .
 dns1.confrontingcode.com CNAME .
 dns1.conne.net CNAME .
 dns1.digitale-gesellschaft.ch CNAME .
 dns1.dnscrypt.ca CNAME .
+dns1.fi.newpangea.de CNAME .
 dns1.gdie.top CNAME .
 dns1.idsam.com CNAME .
 dns1.in-berlin.de CNAME .
+dns1.in.newpangea.de CNAME .
 dns1.irumatech.com CNAME .
 dns1.jjsuscc.es CNAME .
 dns1.klcd.eu CNAME .
@@ -789,6 +794,7 @@ dns1.saferbfc.org CNAME .
 dns1.sarak.as CNAME .
 dns1.sarakas.net CNAME .
 dns1-secure.wifire.it CNAME .
+dns1.sg.newpangea.de CNAME .
 dns1.steering.nextdns.io CNAME .
 dns1.tardishost.ru CNAME .
 dns1.techeasy.org CNAME .
@@ -796,6 +802,7 @@ dns1.thylacine.co.nz CNAME .
 dns1.timothy-dev.com CNAME .
 dns-1.trust2it.ch CNAME .
 dns1.understandingcyber.co.uk CNAME .
+dns1.us.newpangea.de CNAME .
 dns1.wyss.network CNAME .
 dns.1xtrm.com CNAME .
 dns1.zettawize.xyz CNAME .
@@ -934,6 +941,7 @@ dns.basestation.my.id CNAME .
 dns.bastnet.co CNAME .
 dns.bebasid.com CNAME .
 dns.belnet.be CNAME .
+dns.bemag.app CNAME .
 dns.benpro.fr CNAME .
 dns.beta.gandi.net CNAME .
 dns.biliun.me CNAME .
@@ -1256,6 +1264,7 @@ dns.krushkov.com CNAME .
 dns.ksusonic.tech CNAME .
 dns.kugoapps.com CNAME .
 dns.kukal.cz CNAME .
+dns.kusoneko.moe CNAME .
 dns.l337.site CNAME .
 dns.labar.re CNAME .
 dns.labnekotest.site CNAME .
@@ -1371,6 +1380,7 @@ dns.npe.bz CNAME .
 dns.npsolution.it CNAME .
 dns.nullgate.net CNAME .
 dns.nullrecon.com CNAME .
+dns.nullsproxy.com CNAME .
 dns-nyc.aaflalo.me CNAME .
 dns.nzxti5.co.uk CNAME .
 dns.oasg.xyz CNAME .
@@ -1421,7 +1431,6 @@ dns.ple91.uk CNAME .
 dns.pmxu.link CNAME .
 dns.pnh.my.id CNAME .
 dnspod.clzapp.com CNAME .
-dnspod-vip2.beian.mydnspod.net CNAME .
 dns.pointless.chat CNAME .
 dns.porteii.com CNAME .
 dns.pragmasec.nl CNAME .
@@ -1448,6 +1457,7 @@ dns.radityaharya.com CNAME .
 dns.rafn.is CNAME .
 dns.ramansarda.com CNAME .
 dns.rayanbab.com CNAME .
+dns.rbn.gr CNAME .
 dns.rbs.my.id CNAME .
 dns.reckoningslug.name CNAME .
 dns.redroot.me CNAME .
@@ -2083,7 +2093,6 @@ fvpn.jarvishome.ru CNAME .
 fwgw.orangepipc.mywire.org CNAME .
 gaia.plonknet.com CNAME .
 galileo.math.unipd.it CNAME .
-gandhico2.duckdns.org CNAME .
 gateway.baltes.info CNAME .
 gateway.fomichev.cloud CNAME .
 gauss.pp.ua CNAME .
@@ -2276,7 +2285,6 @@ jambi.undo.it CNAME .
 jarjar.meganerd.nl CNAME .
 jcdns.fun CNAME .
 jefe.space CNAME .
-jianyi.studio CNAME .
 jit.ddns.net CNAME .
 jkt01.dnscry.pt CNAME .
 jmarston.duckdns.org CNAME .
@@ -2302,7 +2310,6 @@ jp.kano.sh CNAME .
 jp-kix.doh.sb CNAME .
 jp-nrt.doh.sb CNAME .
 jpok.996333.xyz CNAME .
-jp.ray0512.win CNAME .
 jp.rslvr.eu CNAME .
 jp.tiarap.org CNAME .
 jp.tiar.app CNAME .
@@ -2622,6 +2629,7 @@ ns3.link CNAME .
 ns3.opennameserver.org CNAME .
 ns4.opennameserver.org CNAME .
 nsa.onnonetworks.com CNAME .
+nsauth1.kooman.org CNAME .
 nsb.onnonetworks.com CNAME .
 ns.ciwer.cn CNAME .
 nsc.torgues.net CNAME .
@@ -2672,7 +2680,6 @@ one.one.one.one CNAME .
 oneplus-10pro.aezadns.duckdns.org CNAME .
 onlyfriends.info CNAME .
 o--o.duckdns.org CNAME .
-o.o.ovpn.bond CNAME .
 oostelbos.dynu.com CNAME .
 opencdn.jomodns.com CNAME .
 open.dns0.eu CNAME .
@@ -3089,7 +3096,6 @@ testaghome.meshkov.info CNAME .
 test.dnsteam.globuscs.info CNAME .
 testguard.meexx.de CNAME .
 tetra.aeins.at CNAME .
-tezoi.duckdns.org CNAME .
 tg2a7d4.glddns.com CNAME .
 thamrin.ddns.net CNAME .
 thanos.pleumkungz.com CNAME .
