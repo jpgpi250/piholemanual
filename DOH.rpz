@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2404260153 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2404270219 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2024-04-26 01:53:48 (UTC)
+; Last updated: 2024-04-27 02:19:25 (UTC)
 ;
 ; See https://jpgpi250.github.io/piholemanual/doc/Unbound%20response%20policy%20zones.pdf
 ; Report issues at https://github.com/jpgpi250/piholemanual/issues
@@ -684,6 +684,7 @@ dadns.one CNAME .
 dahamnw.at CNAME .
 dandelionsprout.asuscomm.com CNAME .
 d.apemlegit.my.id CNAME .
+darius-doh-nl.sserver.org CNAME .
 darkhole.uint64.dev CNAME .
 darkness.is.my.waifu.cz CNAME .
 dart.kpsn.org CNAME .
@@ -770,7 +771,6 @@ dns1.confrontingcode.com CNAME .
 dns1.conne.net CNAME .
 dns1.digitale-gesellschaft.ch CNAME .
 dns1.dnscrypt.ca CNAME .
-dns1.fi.newpangea.de CNAME .
 dns1.gdie.top CNAME .
 dns1.idsam.com CNAME .
 dns1.in-berlin.de CNAME .
@@ -1019,6 +1019,7 @@ dns.daemon.za.net CNAME .
 dns.danamas.net CNAME .
 dns.danayasastore.my.id CNAME .
 dns.danielnet.eu CNAME .
+dns.daryllswer.net CNAME .
 dns.david888.com CNAME .
 dns.daw.dev CNAME .
 dns.decky.eu CNAME .
@@ -1380,7 +1381,6 @@ dns.npe.bz CNAME .
 dns.npsolution.it CNAME .
 dns.nullgate.net CNAME .
 dns.nullrecon.com CNAME .
-dns.nullsproxy.com CNAME .
 dns-nyc.aaflalo.me CNAME .
 dns.nzxti5.co.uk CNAME .
 dns.oasg.xyz CNAME .
@@ -1431,6 +1431,7 @@ dns.ple91.uk CNAME .
 dns.pmxu.link CNAME .
 dns.pnh.my.id CNAME .
 dnspod.clzapp.com CNAME .
+dnspod-vip2.beian.mydnspod.net CNAME .
 dns.pointless.chat CNAME .
 dns.porteii.com CNAME .
 dns.pragmasec.nl CNAME .
@@ -1558,6 +1559,7 @@ dns.tb4.me CNAME .
 dns.tbnk.ca CNAME .
 dns.teaminfo.fr CNAME .
 dns.techcpu.net CNAME .
+dns.technostriker.com CNAME .
 dns.tefuir0829.cn CNAME .
 dns.telekom.de CNAME .
 dns.tesem.dog CNAME .
@@ -2093,7 +2095,7 @@ fvpn.jarvishome.ru CNAME .
 fwgw.orangepipc.mywire.org CNAME .
 gaia.plonknet.com CNAME .
 galileo.math.unipd.it CNAME .
-gateway.baltes.info CNAME .
+gandhico2.duckdns.org CNAME .
 gateway.fomichev.cloud CNAME .
 gauss.pp.ua CNAME .
 gb-bir-w-1.nashkan.net CNAME .
@@ -2285,6 +2287,7 @@ jambi.undo.it CNAME .
 jarjar.meganerd.nl CNAME .
 jcdns.fun CNAME .
 jefe.space CNAME .
+jianyi.studio CNAME .
 jit.ddns.net CNAME .
 jkt01.dnscry.pt CNAME .
 jmarston.duckdns.org CNAME .
@@ -2692,7 +2695,6 @@ opera.cloudflare-dns.com CNAME .
 op.htyweb.top CNAME .
 ora1.nocnik.org CNAME .
 oracle001.330k.biz CNAME .
-oracle2.herry.dev CNAME .
 oraclejp2.chungyu.com CNAME .
 oradns.anbitech.com CNAME .
 orasrv.kellys.pw CNAME .
@@ -2745,7 +2747,6 @@ pi4.jnraptor.net CNAME .
 pi.adblocker.eu.org CNAME .
 pi.daryllswer.net CNAME .
 pi-dns.gordon81.com CNAME .
-piekacz.pl CNAME .
 pihole1.hoerli.net CNAME .
 pihole2.hoerli.net CNAME .
 pihole3.hoerli.net CNAME .
@@ -3096,6 +3097,7 @@ testaghome.meshkov.info CNAME .
 test.dnsteam.globuscs.info CNAME .
 testguard.meexx.de CNAME .
 tetra.aeins.at CNAME .
+tezoi.duckdns.org CNAME .
 tg2a7d4.glddns.com CNAME .
 thamrin.ddns.net CNAME .
 thanos.pleumkungz.com CNAME .
@@ -3266,6 +3268,7 @@ vpn.k-likhachev.ru CNAME .
 vpn.nnip.org CNAME .
 vpn.oswlinc.com CNAME .
 vpn.sakhwow.ru CNAME .
+vpn.satadru.dev CNAME .
 vpn.stroialliance.com CNAME .
 vpn.technicule.info CNAME .
 vpnto.bhadrikais.my.id CNAME .
@@ -3427,6 +3430,7 @@ www.elshad-adgh-dns.ru CNAME .
 www.fanscloud.net CNAME .
 www.fuangkhon.com CNAME .
 www.ggrbb.xyz CNAME .
+www.golegana.de CNAME .
 www.greppie.nl CNAME .
 www.himarsman.life CNAME .
 www.huanmengmeta.art CNAME .
@@ -3508,6 +3512,7 @@ yyz01.dnscry.pt CNAME .
 zabolotskikh.dev CNAME .
 zal01.dnscry.pt CNAME .
 zalizman.com CNAME .
+zanty123456.myasustor.com CNAME .
 zburger.top CNAME .
 zero.dns0.eu CNAME .
 zetland.rm-ni.uk CNAME .
