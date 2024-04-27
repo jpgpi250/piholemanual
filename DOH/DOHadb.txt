@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2024-04-25 02:05:39 (UTC)
+! Last updated: 2024-04-26 02:08:00 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -525,6 +525,7 @@
 ||beacon.fengli.love^
 ||beautifullife.eu.org^
 ||beautifulthings.eu.org^
+||bemag.app^
 ||berd.moe^
 ||bev.dns.walshnet.co.uk^
 ||b.family.ns.dnslify.com^
@@ -758,14 +759,18 @@
 ||dns140.zhhz.cc^
 ||dns168.zhhz.cc^
 ||dns1.adrianion.eu^
+||dns1.au.newpangea.de^
 ||dns1.blackrandcrf.ru^
+||dns1.cl.newpangea.de^
 ||dns1.confrontingcode.com^
 ||dns1.conne.net^
 ||dns1.digitale-gesellschaft.ch^
 ||dns1.dnscrypt.ca^
+||dns1.fi.newpangea.de^
 ||dns1.gdie.top^
 ||dns1.idsam.com^
 ||dns1.in-berlin.de^
+||dns1.in.newpangea.de^
 ||dns1.irumatech.com^
 ||dns1.jjsuscc.es^
 ||dns1.klcd.eu^
@@ -785,6 +790,7 @@
 ||dns1.sarak.as^
 ||dns1.sarakas.net^
 ||dns1-secure.wifire.it^
+||dns1.sg.newpangea.de^
 ||dns1.steering.nextdns.io^
 ||dns1.tardishost.ru^
 ||dns1.techeasy.org^
@@ -792,6 +798,7 @@
 ||dns1.timothy-dev.com^
 ||dns-1.trust2it.ch^
 ||dns1.understandingcyber.co.uk^
+||dns1.us.newpangea.de^
 ||dns1.wyss.network^
 ||dns.1xtrm.com^
 ||dns1.zettawize.xyz^
@@ -930,6 +937,7 @@
 ||dns.bastnet.co^
 ||dns.bebasid.com^
 ||dns.belnet.be^
+||dns.bemag.app^
 ||dns.benpro.fr^
 ||dns.beta.gandi.net^
 ||dns.biliun.me^
@@ -1252,6 +1260,7 @@
 ||dns.ksusonic.tech^
 ||dns.kugoapps.com^
 ||dns.kukal.cz^
+||dns.kusoneko.moe^
 ||dns.l337.site^
 ||dns.labar.re^
 ||dns.labnekotest.site^
@@ -1367,6 +1376,7 @@
 ||dns.npsolution.it^
 ||dns.nullgate.net^
 ||dns.nullrecon.com^
+||dns.nullsproxy.com^
 ||dns-nyc.aaflalo.me^
 ||dns.nzxti5.co.uk^
 ||dns.oasg.xyz^
@@ -1417,7 +1427,6 @@
 ||dns.pmxu.link^
 ||dns.pnh.my.id^
 ||dnspod.clzapp.com^
-||dnspod-vip2.beian.mydnspod.net^
 ||dns.pointless.chat^
 ||dns.porteii.com^
 ||dns.pragmasec.nl^
@@ -1444,6 +1453,7 @@
 ||dns.rafn.is^
 ||dns.ramansarda.com^
 ||dns.rayanbab.com^
+||dns.rbn.gr^
 ||dns.rbs.my.id^
 ||dns.reckoningslug.name^
 ||dns.redroot.me^
@@ -2079,7 +2089,6 @@
 ||fwgw.orangepipc.mywire.org^
 ||gaia.plonknet.com^
 ||galileo.math.unipd.it^
-||gandhico2.duckdns.org^
 ||gateway.baltes.info^
 ||gateway.fomichev.cloud^
 ||gauss.pp.ua^
@@ -2272,7 +2281,6 @@
 ||jarjar.meganerd.nl^
 ||jcdns.fun^
 ||jefe.space^
-||jianyi.studio^
 ||jit.ddns.net^
 ||jkt01.dnscry.pt^
 ||jmarston.duckdns.org^
@@ -2298,7 +2306,6 @@
 ||jp-kix.doh.sb^
 ||jp-nrt.doh.sb^
 ||jpok.996333.xyz^
-||jp.ray0512.win^
 ||jp.rslvr.eu^
 ||jp.tiarap.org^
 ||jp.tiar.app^
@@ -2618,6 +2625,7 @@
 ||ns3.opennameserver.org^
 ||ns4.opennameserver.org^
 ||nsa.onnonetworks.com^
+||nsauth1.kooman.org^
 ||nsb.onnonetworks.com^
 ||ns.ciwer.cn^
 ||nsc.torgues.net^
@@ -2668,7 +2676,6 @@
 ||oneplus-10pro.aezadns.duckdns.org^
 ||onlyfriends.info^
 ||o--o.duckdns.org^
-||o.o.ovpn.bond^
 ||oostelbos.dynu.com^
 ||opencdn.jomodns.com^
 ||open.dns0.eu^
@@ -3085,7 +3092,6 @@
 ||test.dnsteam.globuscs.info^
 ||testguard.meexx.de^
 ||tetra.aeins.at^
-||tezoi.duckdns.org^
 ||tg2a7d4.glddns.com^
 ||thamrin.ddns.net^
 ||thanos.pleumkungz.com^
