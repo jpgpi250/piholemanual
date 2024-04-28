@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2024-04-26 02:08:00 (UTC)
+! Last updated: 2024-04-27 02:33:40 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -680,6 +680,7 @@
 ||dahamnw.at^
 ||dandelionsprout.asuscomm.com^
 ||d.apemlegit.my.id^
+||darius-doh-nl.sserver.org^
 ||darkhole.uint64.dev^
 ||darkness.is.my.waifu.cz^
 ||dart.kpsn.org^
@@ -766,7 +767,6 @@
 ||dns1.conne.net^
 ||dns1.digitale-gesellschaft.ch^
 ||dns1.dnscrypt.ca^
-||dns1.fi.newpangea.de^
 ||dns1.gdie.top^
 ||dns1.idsam.com^
 ||dns1.in-berlin.de^
@@ -1015,6 +1015,7 @@
 ||dns.danamas.net^
 ||dns.danayasastore.my.id^
 ||dns.danielnet.eu^
+||dns.daryllswer.net^
 ||dns.david888.com^
 ||dns.daw.dev^
 ||dns.decky.eu^
@@ -1376,7 +1377,6 @@
 ||dns.npsolution.it^
 ||dns.nullgate.net^
 ||dns.nullrecon.com^
-||dns.nullsproxy.com^
 ||dns-nyc.aaflalo.me^
 ||dns.nzxti5.co.uk^
 ||dns.oasg.xyz^
@@ -1427,6 +1427,7 @@
 ||dns.pmxu.link^
 ||dns.pnh.my.id^
 ||dnspod.clzapp.com^
+||dnspod-vip2.beian.mydnspod.net^
 ||dns.pointless.chat^
 ||dns.porteii.com^
 ||dns.pragmasec.nl^
@@ -1554,6 +1555,7 @@
 ||dns.tbnk.ca^
 ||dns.teaminfo.fr^
 ||dns.techcpu.net^
+||dns.technostriker.com^
 ||dns.tefuir0829.cn^
 ||dns.telekom.de^
 ||dns.tesem.dog^
@@ -2089,7 +2091,7 @@
 ||fwgw.orangepipc.mywire.org^
 ||gaia.plonknet.com^
 ||galileo.math.unipd.it^
-||gateway.baltes.info^
+||gandhico2.duckdns.org^
 ||gateway.fomichev.cloud^
 ||gauss.pp.ua^
 ||gb-bir-w-1.nashkan.net^
@@ -2281,6 +2283,7 @@
 ||jarjar.meganerd.nl^
 ||jcdns.fun^
 ||jefe.space^
+||jianyi.studio^
 ||jit.ddns.net^
 ||jkt01.dnscry.pt^
 ||jmarston.duckdns.org^
@@ -2688,7 +2691,6 @@
 ||op.htyweb.top^
 ||ora1.nocnik.org^
 ||oracle001.330k.biz^
-||oracle2.herry.dev^
 ||oraclejp2.chungyu.com^
 ||oradns.anbitech.com^
 ||orasrv.kellys.pw^
@@ -2741,7 +2743,6 @@
 ||pi.adblocker.eu.org^
 ||pi.daryllswer.net^
 ||pi-dns.gordon81.com^
-||piekacz.pl^
 ||pihole1.hoerli.net^
 ||pihole2.hoerli.net^
 ||pihole3.hoerli.net^
@@ -3092,6 +3093,7 @@
 ||test.dnsteam.globuscs.info^
 ||testguard.meexx.de^
 ||tetra.aeins.at^
+||tezoi.duckdns.org^
 ||tg2a7d4.glddns.com^
 ||thamrin.ddns.net^
 ||thanos.pleumkungz.com^
@@ -3262,6 +3264,7 @@
 ||vpn.nnip.org^
 ||vpn.oswlinc.com^
 ||vpn.sakhwow.ru^
+||vpn.satadru.dev^
 ||vpn.stroialliance.com^
 ||vpn.technicule.info^
 ||vpnto.bhadrikais.my.id^
@@ -3423,6 +3426,7 @@
 ||www.fanscloud.net^
 ||www.fuangkhon.com^
 ||www.ggrbb.xyz^
+||www.golegana.de^
 ||www.greppie.nl^
 ||www.himarsman.life^
 ||www.huanmengmeta.art^
@@ -3504,6 +3508,7 @@
 ||zabolotskikh.dev^
 ||zal01.dnscry.pt^
 ||zalizman.com^
+||zanty123456.myasustor.com^
 ||zburger.top^
 ||zero.dns0.eu^
 ||zetland.rm-ni.uk^
