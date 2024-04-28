@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2404270219 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2404280158 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2024-04-27 02:19:25 (UTC)
+; Last updated: 2024-04-28 01:58:39 (UTC)
 ;
 ; See https://jpgpi250.github.io/piholemanual/doc/Unbound%20response%20policy%20zones.pdf
 ; Report issues at https://github.com/jpgpi250/piholemanual/issues
@@ -22,7 +22,6 @@ $TTL 30
 1.11i.eu CNAME .
 15101844.xyz CNAME .
 180.0rz.space CNAME .
-19a8b89bb6b2491ca5cccbeb0e84a4c4.pacloudflare.com CNAME .
 1and1-dns.de CNAME .
 1a.ns.ozer.im CNAME .
 1b.ns.ozer.im CNAME .
@@ -1425,7 +1424,6 @@ dns.phillipjberry.net CNAME .
 dns.philqoo.com CNAME .
 dns.phucbui.top CNAME .
 dns.pieterdherde.com CNAME .
-dns.pietjacobs.be CNAME .
 dns.pine-home.de CNAME .
 dns.ple91.uk CNAME .
 dns.pmxu.link CNAME .
@@ -2681,8 +2679,17 @@ omr01.dnscry.pt CNAME .
 one.dotted.9l3.com CNAME .
 one.one.one.one CNAME .
 oneplus-10pro.aezadns.duckdns.org CNAME .
-onlyfriends.info CNAME .
 o--o.duckdns.org CNAME .
+o.oooooooooo.ovpn.bond CNAME .
+o.ooooooooo.ovpn.bond CNAME .
+o.oooooooo.ovpn.bond CNAME .
+o.ooooooo.ovpn.bond CNAME .
+o.oooooo.ovpn.bond CNAME .
+o.ooooo.ovpn.bond CNAME .
+o.oooo.ovpn.bond CNAME .
+o.ooo.ovpn.bond CNAME .
+o.oo.ovpn.bond CNAME .
+o.o.ovpn.bond CNAME .
 oostelbos.dynu.com CNAME .
 opencdn.jomodns.com CNAME .
 open.dns0.eu CNAME .
