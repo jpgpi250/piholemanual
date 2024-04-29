@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2404280158 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2404290208 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2024-04-28 01:58:39 (UTC)
+; Last updated: 2024-04-29 02:08:25 (UTC)
 ;
 ; See https://jpgpi250.github.io/piholemanual/doc/Unbound%20response%20policy%20zones.pdf
 ; Report issues at https://github.com/jpgpi250/piholemanual/issues
@@ -22,6 +22,7 @@ $TTL 30
 1.11i.eu CNAME .
 15101844.xyz CNAME .
 180.0rz.space CNAME .
+19a8b89bb6b2491ca5cccbeb0e84a4c4.pacloudflare.com CNAME .
 1and1-dns.de CNAME .
 1a.ns.ozer.im CNAME .
 1b.ns.ozer.im CNAME .
@@ -528,7 +529,6 @@ beacon.dog CNAME .
 beacon.fengli.love CNAME .
 beautifullife.eu.org CNAME .
 beautifulthings.eu.org CNAME .
-bemag.app CNAME .
 berd.moe CNAME .
 bev.dns.walshnet.co.uk CNAME .
 b.family.ns.dnslify.com CNAME .
@@ -940,13 +940,13 @@ dns.basestation.my.id CNAME .
 dns.bastnet.co CNAME .
 dns.bebasid.com CNAME .
 dns.belnet.be CNAME .
-dns.bemag.app CNAME .
 dns.benpro.fr CNAME .
 dns.beta.gandi.net CNAME .
 dns.biliun.me CNAME .
 dns.bitdefender.net CNAME .
 dns.bitgeek.in CNAME .
 dns.bitservices.io CNAME .
+dnsbk.wns.watch CNAME .
 dns.blaze-sk.ru CNAME .
 dns.blokada.org CNAME .
 dns.bluemeda.cf CNAME .
@@ -1003,6 +1003,7 @@ dns.connect.fail CNAME .
 dns.containerpi.com CNAME .
 dns.controld.com CNAME .
 dns.cpux.ru CNAME .
+dns.cr4zzy.xyz CNAME .
 dns.cretu.xyz CNAME .
 dns.cryptomize.com CNAME .
 dns.cubesworld.net CNAME .
@@ -1299,6 +1300,7 @@ dns-malwaresec.nordthreatprotection.com CNAME .
 dns.mandre.dev CNAME .
 dns.maolaohei.xyz CNAME .
 dns.marcbond.uk CNAME .
+dns.mariasantana.com.br CNAME .
 dns.mathewakhil.online CNAME .
 dns.maybe.icu CNAME .
 dns.me7878.com CNAME .
@@ -1424,6 +1426,7 @@ dns.phillipjberry.net CNAME .
 dns.philqoo.com CNAME .
 dns.phucbui.top CNAME .
 dns.pieterdherde.com CNAME .
+dns.pietjacobs.be CNAME .
 dns.pine-home.de CNAME .
 dns.ple91.uk CNAME .
 dns.pmxu.link CNAME .
@@ -1843,6 +1846,7 @@ doh.nukys.ca CNAME .
 doh.ny.ahadns.net CNAME .
 doh.onedns.net CNAME .
 doh.opendns.com CNAME .
+doh.palapa.net.id CNAME .
 doh.phdns1.lonet.org CNAME .
 doh.phdns2.lonet.org CNAME .
 doh.phdns3.lonet.org CNAME .
@@ -1882,6 +1886,7 @@ doh.totoro.pub CNAME .
 dohtrial.att.net CNAME .
 doh.umbrella.com CNAME .
 doh.us.dnswarden.com CNAME .
+doh.us.moe.tips CNAME .
 doh.valscosmos.com CNAME .
 doh.viatech.com.tw CNAME .
 doh.weleven.top CNAME .
@@ -2094,6 +2099,7 @@ fwgw.orangepipc.mywire.org CNAME .
 gaia.plonknet.com CNAME .
 galileo.math.unipd.it CNAME .
 gandhico2.duckdns.org CNAME .
+gateway.baltes.info CNAME .
 gateway.fomichev.cloud CNAME .
 gauss.pp.ua CNAME .
 gb-bir-w-1.nashkan.net CNAME .
@@ -2167,6 +2173,7 @@ heoyun.com CNAME .
 hermes.kurup.in CNAME .
 heykan.theworkpc.com CNAME .
 h.gjrick.tw CNAME .
+hgmusic963.hopto.org CNAME .
 hgns.harriganhome.ga CNAME .
 hitian.me CNAME .
 hk2.ooroot.com CNAME .
@@ -2422,7 +2429,6 @@ longdz.ddns.net CNAME .
 lorc17-dns.komeho.info CNAME .
 los01.dnscry.pt CNAME .
 los.conana.info CNAME .
-lostradns.de CNAME .
 lova.long-nguyen.info CNAME .
 lpse.minahasa.go.id CNAME .
 lt-vil-w-2.nashkan.net CNAME .
@@ -2555,6 +2561,7 @@ net.0ms.dev CNAME .
 netcat.one CNAME .
 netcup.mismat.ch CNAME .
 net.tt6.net CNAME .
+newblader2k.dynv6.net CNAME .
 new.gx.edu.kg CNAME .
 newlibrarian.myqnapcloud.com CNAME .
 new.pragmasec.nl CNAME .
@@ -2679,14 +2686,8 @@ omr01.dnscry.pt CNAME .
 one.dotted.9l3.com CNAME .
 one.one.one.one CNAME .
 oneplus-10pro.aezadns.duckdns.org CNAME .
+onlyfriends.info CNAME .
 o--o.duckdns.org CNAME .
-o.oooooooooo.ovpn.bond CNAME .
-o.ooooooooo.ovpn.bond CNAME .
-o.oooooooo.ovpn.bond CNAME .
-o.ooooooo.ovpn.bond CNAME .
-o.oooooo.ovpn.bond CNAME .
-o.ooooo.ovpn.bond CNAME .
-o.oooo.ovpn.bond CNAME .
 o.ooo.ovpn.bond CNAME .
 o.oo.ovpn.bond CNAME .
 o.o.ovpn.bond CNAME .
@@ -2754,6 +2755,7 @@ pi4.jnraptor.net CNAME .
 pi.adblocker.eu.org CNAME .
 pi.daryllswer.net CNAME .
 pi-dns.gordon81.com CNAME .
+piekacz.pl CNAME .
 pihole1.hoerli.net CNAME .
 pihole2.hoerli.net CNAME .
 pihole3.hoerli.net CNAME .
@@ -2801,6 +2803,7 @@ ps1.modr.club CNAME .
 psociety.de CNAME .
 ps-tel-w-2.nashkan.net CNAME .
 pt-lis-w-1.nashkan.net CNAME .
+pub-dns-sec-srv-relay.oooo.ovpn.bond CNAME .
 pub.hsuan.ink CNAME .
 pub.hsuan.ink.eo.dnse0.com CNAME .
 public254.alidns.com CNAME .
@@ -3190,6 +3193,7 @@ us-ash-w-f-1.nashkan.net CNAME .
 us-atl-w-2.nashkan.net CNAME .
 us-chi-w-3.nashkan.net CNAME .
 us-chi-w-4.nashkan.net CNAME .
+us-chi-w-f-1.nashkan.net CNAME .
 us-chi-w-p-1.nashkan.net CNAME .
 us-dal-w-3.nashkan.net CNAME .
 us-dal-w-4.nashkan.net CNAME .
@@ -3447,7 +3451,6 @@ www.jabber-germany.de CNAME .
 www.khsan.com CNAME .
 www.kondrcloud.ru CNAME .
 www.lboxtv.top CNAME .
-www.lostradns.de CNAME .
 www.masters-of-cloud.de CNAME .
 www.maxfong.cc CNAME .
 www.moonbd.top CNAME .
