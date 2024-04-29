@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2024-04-27 02:33:40 (UTC)
+! Last updated: 2024-04-28 02:12:49 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -18,7 +18,6 @@
 ||1.11i.eu^
 ||15101844.xyz^
 ||180.0rz.space^
-||19a8b89bb6b2491ca5cccbeb0e84a4c4.pacloudflare.com^
 ||1and1-dns.de^
 ||1a.ns.ozer.im^
 ||1b.ns.ozer.im^
@@ -1421,7 +1420,6 @@
 ||dns.philqoo.com^
 ||dns.phucbui.top^
 ||dns.pieterdherde.com^
-||dns.pietjacobs.be^
 ||dns.pine-home.de^
 ||dns.ple91.uk^
 ||dns.pmxu.link^
@@ -2677,8 +2675,17 @@
 ||one.dotted.9l3.com^
 ||one.one.one.one^
 ||oneplus-10pro.aezadns.duckdns.org^
-||onlyfriends.info^
 ||o--o.duckdns.org^
+||o.oooooooooo.ovpn.bond^
+||o.ooooooooo.ovpn.bond^
+||o.oooooooo.ovpn.bond^
+||o.ooooooo.ovpn.bond^
+||o.oooooo.ovpn.bond^
+||o.ooooo.ovpn.bond^
+||o.oooo.ovpn.bond^
+||o.ooo.ovpn.bond^
+||o.oo.ovpn.bond^
+||o.o.ovpn.bond^
 ||oostelbos.dynu.com^
 ||opencdn.jomodns.com^
 ||open.dns0.eu^
