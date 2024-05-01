@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2404300206 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2405010149 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2024-04-30 02:06:16 (UTC)
+; Last updated: 2024-05-01 01:49:15 (UTC)
 ;
 ; See https://jpgpi250.github.io/piholemanual/doc/Unbound%20response%20policy%20zones.pdf
 ; Report issues at https://github.com/jpgpi250/piholemanual/issues
@@ -67,6 +67,7 @@ abel.waringer-atg.de CNAME .
 a-bld.sys-adm.in CNAME .
 ablock.fuckit.ovh CNAME .
 abluehope.com CNAME .
+abstergo.it CNAME .
 acomit.lk CNAME .
 ad1guard.duckdns.org CNAME .
 ad1.heronet.nl CNAME .
@@ -1431,7 +1432,6 @@ dns.ple91.uk CNAME .
 dns.pmxu.link CNAME .
 dns.pnh.my.id CNAME .
 dnspod.clzapp.com CNAME .
-dnspod-vip2.beian.mydnspod.net CNAME .
 dns.pointless.chat CNAME .
 dns.porteii.com CNAME .
 dns.pragmasec.nl CNAME .
@@ -1995,7 +1995,6 @@ elsa.airns.net CNAME .
 emby.rasp.tv CNAME .
 emmmmm.me CNAME .
 eoin.dns.walshnet.co.uk CNAME .
-epyc.digineo.de CNAME .
 eropa.dnscepat.id CNAME .
 erroring.ignorelist.com CNAME .
 esel.stusta.mhn.de CNAME .
@@ -2377,7 +2376,6 @@ kronos.plan9dns.com CNAME .
 kr.pigs.eu.org CNAME .
 kr-sel.doh.sb CNAME .
 krtekvpn.duckdns.org CNAME .
-ks1.plop.cc CNAME .
 ksedns.ru CNAME .
 kstdownload.com CNAME .
 kswro.web.id CNAME .
@@ -2466,7 +2464,6 @@ mask.apple-dns.net CNAME .
 mask-h2.icloud.com CNAME .
 mask.icloud.com CNAME .
 m-asm.circumitor.de CNAME .
-master.dns.xieke.org CNAME .
 mastergad.me CNAME .
 masters-of-cloud.de CNAME .
 math.netlab.my.id CNAME .
@@ -2687,9 +2684,6 @@ one.one.one.one CNAME .
 oneplus-10pro.aezadns.duckdns.org CNAME .
 onlyfriends.info CNAME .
 o--o.duckdns.org CNAME .
-ooo.ooo.ovpn.bond CNAME .
-oo.oo.ovpn.bond CNAME .
-o.o.ovpn.bond CNAME .
 oostelbos.dynu.com CNAME .
 opencdn.jomodns.com CNAME .
 open.dns0.eu CNAME .
@@ -2702,6 +2696,7 @@ opera.cloudflare-dns.com CNAME .
 op.htyweb.top CNAME .
 ora1.nocnik.org CNAME .
 oracle001.330k.biz CNAME .
+oracle2.herry.dev CNAME .
 oraclejp2.chungyu.com CNAME .
 oradns.anbitech.com CNAME .
 orasrv.kellys.pw CNAME .
@@ -2726,6 +2721,7 @@ p2.freedns.controld.com CNAME .
 p3.freedns.controld.com CNAME .
 pad3w.pp.ua CNAME .
 padermail.net CNAME .
+paimon.sev.monster CNAME .
 par01.dnscry.pt CNAME .
 paranoia.mydns.network CNAME .
 pates.services.sfr.fr.casepp.sfr.fr CNAME .
@@ -2801,7 +2797,7 @@ ps1.modr.club CNAME .
 psociety.de CNAME .
 ps-tel-w-2.nashkan.net CNAME .
 pt-lis-w-1.nashkan.net CNAME .
-pub-dns-sec-relay.oooo.ovpn.bond CNAME .
+pub-dns-sec-relay.o.ovpn.bond CNAME .
 pub.hsuan.ink CNAME .
 pub.hsuan.ink.eo.dnse0.com CNAME .
 public254.alidns.com CNAME .
@@ -2811,7 +2807,6 @@ public.alidns.com CNAME .
 public-dns-a.dns.sb CNAME .
 public-dns-b.dns.sb CNAME .
 public.dns.iij.jp CNAME .
-public-dns.info CNAME .
 publicdnsserver.com CNAME .
 pukanuragan.ru CNAME .
 punono.duckdns.org CNAME .
@@ -3327,6 +3322,7 @@ vps309.brueggus.de CNAME .
 vps310.brueggus.de CNAME .
 vps311.brueggus.de CNAME .
 vps312.brueggus.de CNAME .
+vps313.brueggus.de CNAME .
 vps314.brueggus.de CNAME .
 vps317.brueggus.de CNAME .
 vps322.brueggus.de CNAME .
