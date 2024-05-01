@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2024-04-29 02:22:44 (UTC)
+! Last updated: 2024-04-30 02:20:28 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -63,7 +63,6 @@
 ||a-bld.sys-adm.in^
 ||ablock.fuckit.ovh^
 ||abluehope.com^
-||abstergo.it^
 ||acomit.lk^
 ||ad1guard.duckdns.org^
 ||ad1.heronet.nl^
@@ -525,6 +524,7 @@
 ||beacon.fengli.love^
 ||beautifullife.eu.org^
 ||beautifulthings.eu.org^
+||bemag.app^
 ||berd.moe^
 ||bev.dns.walshnet.co.uk^
 ||b.family.ns.dnslify.com^
@@ -1109,7 +1109,6 @@
 ||dns.flymc.cc^
 ||dnsforfamily.com^
 ||dnsforge.de^
-||dns.foximao.cn^
 ||dns-frankfurt.mii-xms.com^
 ||dns.freddys.my.id^
 ||dns-free.link^
@@ -2684,8 +2683,8 @@
 ||oneplus-10pro.aezadns.duckdns.org^
 ||onlyfriends.info^
 ||o--o.duckdns.org^
-||o.ooo.ovpn.bond^
-||o.oo.ovpn.bond^
+||ooo.ooo.ovpn.bond^
+||oo.oo.ovpn.bond^
 ||o.o.ovpn.bond^
 ||oostelbos.dynu.com^
 ||opencdn.jomodns.com^
@@ -2723,7 +2722,6 @@
 ||p3.freedns.controld.com^
 ||pad3w.pp.ua^
 ||padermail.net^
-||paimon.sev.monster^
 ||par01.dnscry.pt^
 ||paranoia.mydns.network^
 ||pates.services.sfr.fr.casepp.sfr.fr^
@@ -2799,7 +2797,7 @@
 ||psociety.de^
 ||ps-tel-w-2.nashkan.net^
 ||pt-lis-w-1.nashkan.net^
-||pub-dns-sec-srv-relay.oooo.ovpn.bond^
+||pub-dns-sec-relay.oooo.ovpn.bond^
 ||pub.hsuan.ink^
 ||pub.hsuan.ink.eo.dnse0.com^
 ||public254.alidns.com^
@@ -3325,7 +3323,6 @@
 ||vps310.brueggus.de^
 ||vps311.brueggus.de^
 ||vps312.brueggus.de^
-||vps313.brueggus.de^
 ||vps314.brueggus.de^
 ||vps317.brueggus.de^
 ||vps322.brueggus.de^
