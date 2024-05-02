@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2024-04-30 02:20:28 (UTC)
+! Last updated: 2024-05-01 02:03:29 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -63,6 +63,7 @@
 ||a-bld.sys-adm.in^
 ||ablock.fuckit.ovh^
 ||abluehope.com^
+||abstergo.it^
 ||acomit.lk^
 ||ad1guard.duckdns.org^
 ||ad1.heronet.nl^
@@ -1427,7 +1428,6 @@
 ||dns.pmxu.link^
 ||dns.pnh.my.id^
 ||dnspod.clzapp.com^
-||dnspod-vip2.beian.mydnspod.net^
 ||dns.pointless.chat^
 ||dns.porteii.com^
 ||dns.pragmasec.nl^
@@ -1991,7 +1991,6 @@
 ||emby.rasp.tv^
 ||emmmmm.me^
 ||eoin.dns.walshnet.co.uk^
-||epyc.digineo.de^
 ||eropa.dnscepat.id^
 ||erroring.ignorelist.com^
 ||esel.stusta.mhn.de^
@@ -2373,7 +2372,6 @@
 ||kr.pigs.eu.org^
 ||kr-sel.doh.sb^
 ||krtekvpn.duckdns.org^
-||ks1.plop.cc^
 ||ksedns.ru^
 ||kstdownload.com^
 ||kswro.web.id^
@@ -2462,7 +2460,6 @@
 ||mask-h2.icloud.com^
 ||mask.icloud.com^
 ||m-asm.circumitor.de^
-||master.dns.xieke.org^
 ||mastergad.me^
 ||masters-of-cloud.de^
 ||math.netlab.my.id^
@@ -2683,9 +2680,6 @@
 ||oneplus-10pro.aezadns.duckdns.org^
 ||onlyfriends.info^
 ||o--o.duckdns.org^
-||ooo.ooo.ovpn.bond^
-||oo.oo.ovpn.bond^
-||o.o.ovpn.bond^
 ||oostelbos.dynu.com^
 ||opencdn.jomodns.com^
 ||open.dns0.eu^
@@ -2698,6 +2692,7 @@
 ||op.htyweb.top^
 ||ora1.nocnik.org^
 ||oracle001.330k.biz^
+||oracle2.herry.dev^
 ||oraclejp2.chungyu.com^
 ||oradns.anbitech.com^
 ||orasrv.kellys.pw^
@@ -2722,6 +2717,7 @@
 ||p3.freedns.controld.com^
 ||pad3w.pp.ua^
 ||padermail.net^
+||paimon.sev.monster^
 ||par01.dnscry.pt^
 ||paranoia.mydns.network^
 ||pates.services.sfr.fr.casepp.sfr.fr^
@@ -2797,7 +2793,7 @@
 ||psociety.de^
 ||ps-tel-w-2.nashkan.net^
 ||pt-lis-w-1.nashkan.net^
-||pub-dns-sec-relay.oooo.ovpn.bond^
+||pub-dns-sec-relay.o.ovpn.bond^
 ||pub.hsuan.ink^
 ||pub.hsuan.ink.eo.dnse0.com^
 ||public254.alidns.com^
@@ -2807,7 +2803,6 @@
 ||public-dns-a.dns.sb^
 ||public-dns-b.dns.sb^
 ||public.dns.iij.jp^
-||public-dns.info^
 ||publicdnsserver.com^
 ||pukanuragan.ru^
 ||punono.duckdns.org^
@@ -3323,6 +3318,7 @@
 ||vps310.brueggus.de^
 ||vps311.brueggus.de^
 ||vps312.brueggus.de^
+||vps313.brueggus.de^
 ||vps314.brueggus.de^
 ||vps317.brueggus.de^
 ||vps322.brueggus.de^
