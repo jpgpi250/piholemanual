@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2024-05-02 02:12:26 (UTC)
+! Last updated: 2024-05-03 01:57:55 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -493,7 +493,6 @@
 ||au-syd-w-p-1.nashkan.net^
 ||au-syd-w-p-2.nashkan.net^
 ||au.teradns.org^
-||auto-cn-hk-8000.go-behind.one^
 ||aviemore.dns.walshnet.co.uk^
 ||a.vvvglass.com^
 ||awan.ftp.sh^
@@ -642,7 +641,6 @@
 ||cloud.tezoi.com^
 ||cluster-0.gac.edu^
 ||cluster-1.gac.edu^
-||cname-for-doh.go-behind.one^
 ||cn.turngreatwall.com^
 ||coe01.dnscry.pt^
 ||common.dot.dns.yandex.net^
@@ -1421,7 +1419,6 @@
 ||dns.philqoo.com^
 ||dns.phucbui.top^
 ||dns.pieterdherde.com^
-||dns.pietjacobs.be^
 ||dns.pine-home.de^
 ||dns.ple91.uk^
 ||dns.pmxu.link^
@@ -2010,6 +2007,7 @@
 ||extended.dns.mullvad.net^
 ||externalmobiel.lekdijk.online^
 ||eyg01.dnscry.pt^
+||f03a0e2fa9f5.sn.mynetname.net^
 ||f1.dns.s3cure.me^
 ||f2-dns.asuzac.com.vn^
 ||family.5ososea.com^
@@ -2066,7 +2064,6 @@
 ||fra1.eyecay.xyz^
 ||fra.core.access.zznet.fun^
 ||frank-web.dedyn.io^
-||fra-oracle-1.hosts.dada.li^
 ||fr-dns1.bancuh.com^
 ||fr-dns2.bancuh.com^
 ||free.bravedns.com^
@@ -2134,7 +2131,6 @@
 ||groupy.ga^
 ||grunwald-marc.de^
 ||gsat.familyds.com^
-||gtm-sg-5r538sziu04.go-behind.one^
 ||guanmengkai.com^
 ||guard.19kom.de^
 ||guard.beliefanx.me^
@@ -2574,7 +2570,6 @@
 ||nl-ams2.doh.sb^
 ||nl-ams.doh.sb^
 ||nl-ams-w-3.nashkan.net^
-||nlb.gbrossi.com.br^
 ||nl-dro-w-f-1.nashkan.net^
 ||nl-dro-w-p-1.nashkan.net^
 ||nlname.freecdn.one^
@@ -2597,7 +2592,6 @@
 ||ns02.nerdytechgeeks.co.za^
 ||ns0.fdn.fr^
 ||ns1.1899.com.mx^
-||ns1.95997.ip-ns.net^
 ||ns1.bit-trails.nl^
 ||ns1.depotthai.army^
 ||ns1.dnsprivacy.at^
@@ -2808,7 +2802,6 @@
 ||punono.duckdns.org^
 ||puredns.org^
 ||pure.sunnygyl.com^
-||pvt-dns-sec-rly.o.ovpn.bond^
 ||q3i6k7j3.stackpathcdn.com^
 ||qaz.tw^
 ||qbak.no-ip.eu^
@@ -3323,6 +3316,7 @@
 ||vps317.brueggus.de^
 ||vps322.brueggus.de^
 ||vps325.brueggus.de^
+||vps326.brueggus.de^
 ||vps327.brueggus.de^
 ||vps328.brueggus.de^
 ||vps329.brueggus.de^
