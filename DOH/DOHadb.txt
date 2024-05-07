@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2024-05-05 02:18:53 (UTC)
+! Last updated: 2024-05-06 02:48:52 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -18,6 +18,7 @@
 ||1.11i.eu^
 ||15101844.xyz^
 ||180.0rz.space^
+||19a8b89bb6b2491ca5cccbeb0e84a4c4.pacloudflare.com^
 ||1and1-dns.de^
 ||1a.ns.ozer.im^
 ||1b.ns.ozer.im^
@@ -300,6 +301,7 @@
 ||adguard.sscw.win^
 ||adguard.stealbit.com^
 ||adguard.stevenfamy.me^
+||adguard.stoian.top^
 ||adguard.streamlas.fr^
 ||adguard.superstefan.win^
 ||adguard.taufner.net^
@@ -524,7 +526,6 @@
 ||beacon.fengli.love^
 ||beautifullife.eu.org^
 ||beautifulthings.eu.org^
-||bemag.app^
 ||berd.moe^
 ||bev.dns.walshnet.co.uk^
 ||b.family.ns.dnslify.com^
@@ -704,6 +705,7 @@
 ||de-fsn-w-2.nashkan.net^
 ||de-fsn-w-f-1.nashkan.net^
 ||de-fsn-w-f-2.nashkan.net^
+||de-fsn-w-f-3.nashkan.net^
 ||de-fsn-w-p-1.nashkan.net^
 ||deic-lgb.anycast.censurfridns.dk^
 ||deic-lgb.anycast.censurfridns.nu^
@@ -777,6 +779,7 @@
 ||dns1.luan.contact^
 ||dns1.mattmanzi.com^
 ||dns1.nextdns.io^
+||dns1.nhgnet.de^
 ||dns1.nielsdb.be^
 ||dns1.nordvpn.com^
 ||dns1.oryxlabs.com^
@@ -1236,6 +1239,7 @@
 ||dns.karl.one^
 ||dns.kawa.tf^
 ||dns.kc2wbx.com^
+||dns.kcolspacrm.ir^
 ||dns.kejinno.com^
 ||dns.keke125.com^
 ||dns.kellys.pw^
@@ -1952,6 +1956,7 @@
 ||dpeddi.myddns.com^
 ||dr-adguard.de^
 ||drandrade21.freeddns.org^
+||dr.jp.sslbb.win^
 ||drs.rustsword.com^
 ||drwg.org^
 ||ds3617xs.jojo1204.xyz^
@@ -2089,7 +2094,7 @@
 ||fwgw.orangepipc.mywire.org^
 ||gaia.plonknet.com^
 ||galileo.math.unipd.it^
-||gateway.baltes.info^
+||gandhico2.duckdns.org^
 ||gateway.fomichev.cloud^
 ||gauss.pp.ua^
 ||gb-bir-w-1.nashkan.net^
@@ -2351,7 +2356,6 @@
 ||knowvibe.tech^
 ||kolobok2.duckdns.org^
 ||korzhov.dev^
-||kostek.dyndns.org^
 ||kotys.hr.i81.ru^
 ||kotys.vd.i81.ru^
 ||kotys.vpn.i81.ru^
@@ -2471,6 +2475,7 @@
 ||mcore.us.to^
 ||mcttechs.com^
 ||md5mtp4y.fbxos.fr^
+||mdakaiedbd.ddns.net^
 ||mdxl.ru^
 ||megumin.is.my.waifu.cz^
 ||meowless.club^
@@ -2488,6 +2493,7 @@
 ||m.myspace.sbs^
 ||mo0on15.com^
 ||moaz-adguard.duckdns.org^
+||montmorot.duckdns.org^
 ||monty.best^
 ||moonbd.top^
 ||morbitzer.de^
@@ -2497,6 +2503,7 @@
 ||mr-romero.com^
 ||mru01.dnscry.pt^
 ||msr177.com^
+||mtdz.duckdns.org^
 ||muc01.dnscry.pt^
 ||muc-ns01.ibytex.systems^
 ||muli.stusta.mhn.de^
@@ -2687,6 +2694,7 @@
 ||op.htyweb.top^
 ||ora1.nocnik.org^
 ||oracle001.330k.biz^
+||oracle2.herry.dev^
 ||oraclejp2.chungyu.com^
 ||oradns.anbitech.com^
 ||orasrv.kellys.pw^
@@ -2800,7 +2808,8 @@
 ||punono.duckdns.org^
 ||puredns.org^
 ||pure.sunnygyl.com^
-||pvt-dns-sec-rly.o.ovpn.bond^
+||pvt-dns.ovpn.bond^
+||pvt-dns-rly.o.ovpn.bond^
 ||q3i6k7j3.stackpathcdn.com^
 ||qaz.tw^
 ||qbak.no-ip.eu^
@@ -3169,6 +3178,7 @@
 ||us02.dns4me.net^
 ||us1.blissdns.net^
 ||us1.dns.lavate.ch^
+||us1.easyflying.top^
 ||us5.wan.hc7z.com^
 ||usa1.altcensored.com^
 ||us-ash-w-f-1.nashkan.net^
@@ -3214,6 +3224,7 @@
 ||vadim.online^
 ||vancrafter.click^
 ||vani.long-nguyen.info^
+||vasiliysoldatkin.ru^
 ||vasya.hr.i81.ru^
 ||vasya.vd.i81.ru^
 ||vasya.vpn.i81.ru^
@@ -3451,10 +3462,10 @@
 ||www.svg33.eu^
 ||www.szyrzyk.pl^
 ||www.taufner.net^
-||www.tirapan.top^
 ||www.trovs.ru^
 ||www.unasw.eu^
 ||www.urology.wiki^
+||www.vasiliysoldatkin.ru^
 ||www.vdsn-nl-2.azatmutq.com^
 ||www.vik.ro^
 ||www.vpnhellings.nl^
