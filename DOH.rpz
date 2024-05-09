@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2405080154 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2405090147 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2024-05-08 01:54:58 (UTC)
+; Last updated: 2024-05-09 01:47:28 (UTC)
 ;
 ; See https://jpgpi250.github.io/piholemanual/doc/Unbound%20response%20policy%20zones.pdf
 ; Report issues at https://github.com/jpgpi250/piholemanual/issues
@@ -574,6 +574,7 @@ b.safe.ns.dnslify.com CNAME .
 btb.dog CNAME .
 bt.luoo.cc CNAME .
 bucheli.synology.me CNAME .
+buc-m2.illmods.com CNAME .
 bud01.dnscry.pt CNAME .
 bughome.duckdns.org CNAME .
 bunch-o-nerds.com CNAME .
@@ -1098,7 +1099,6 @@ dns.f97.xyz CNAME .
 dns.fahr.in CNAME .
 dns.familiamichels.com.br CNAME .
 dns-family.adguard.com CNAME .
-dnsfamily.adguard.com CNAME .
 dns-family.esegece.com CNAME .
 dns.family.fraiss.at CNAME .
 dns.fancyorg.at CNAME .
@@ -1603,7 +1603,6 @@ dns-uk.su4ka.icu CNAME .
 dns.umbrella.com CNAME .
 dns.unerror.network CNAME .
 dns-unfiltered.adguard.com CNAME .
-dnsunfiltered.adguard.com CNAME .
 dns.unitech.company CNAME .
 dns.unvpn.ru CNAME .
 dns.unx.io CNAME .
@@ -2510,7 +2509,6 @@ m-rm.circumitor.de CNAME .
 mr-romero.com CNAME .
 mru01.dnscry.pt CNAME .
 msr177.com CNAME .
-mtdz.duckdns.org CNAME .
 muc01.dnscry.pt CNAME .
 muc-ns01.ibytex.systems CNAME .
 muli.stusta.mhn.de CNAME .
@@ -2701,6 +2699,7 @@ opera.cloudflare-dns.com CNAME .
 op.htyweb.top CNAME .
 ora1.nocnik.org CNAME .
 oracle001.330k.biz CNAME .
+oracle2.herry.dev CNAME .
 oraclejp2.chungyu.com CNAME .
 oradns.anbitech.com CNAME .
 orasrv.kellys.pw CNAME .
@@ -3105,7 +3104,6 @@ testaghome.meshkov.info CNAME .
 test.dnsteam.globuscs.info CNAME .
 testguard.meexx.de CNAME .
 tetra.aeins.at CNAME .
-tezoi.duckdns.org CNAME .
 tg2a7d4.glddns.com CNAME .
 thamrin.ddns.net CNAME .
 thanos.pleumkungz.com CNAME .
@@ -3329,6 +3327,7 @@ vps309.brueggus.de CNAME .
 vps310.brueggus.de CNAME .
 vps311.brueggus.de CNAME .
 vps312.brueggus.de CNAME .
+vps313.brueggus.de CNAME .
 vps314.brueggus.de CNAME .
 vps317.brueggus.de CNAME .
 vps322.brueggus.de CNAME .
