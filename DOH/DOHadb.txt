@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2024-05-08 02:09:12 (UTC)
+! Last updated: 2024-05-09 02:01:40 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -570,6 +570,7 @@
 ||btb.dog^
 ||bt.luoo.cc^
 ||bucheli.synology.me^
+||buc-m2.illmods.com^
 ||bud01.dnscry.pt^
 ||bughome.duckdns.org^
 ||bunch-o-nerds.com^
@@ -1094,7 +1095,6 @@
 ||dns.fahr.in^
 ||dns.familiamichels.com.br^
 ||dns-family.adguard.com^
-||dnsfamily.adguard.com^
 ||dns-family.esegece.com^
 ||dns.family.fraiss.at^
 ||dns.fancyorg.at^
@@ -1599,7 +1599,6 @@
 ||dns.umbrella.com^
 ||dns.unerror.network^
 ||dns-unfiltered.adguard.com^
-||dnsunfiltered.adguard.com^
 ||dns.unitech.company^
 ||dns.unvpn.ru^
 ||dns.unx.io^
@@ -2506,7 +2505,6 @@
 ||mr-romero.com^
 ||mru01.dnscry.pt^
 ||msr177.com^
-||mtdz.duckdns.org^
 ||muc01.dnscry.pt^
 ||muc-ns01.ibytex.systems^
 ||muli.stusta.mhn.de^
@@ -2697,6 +2695,7 @@
 ||op.htyweb.top^
 ||ora1.nocnik.org^
 ||oracle001.330k.biz^
+||oracle2.herry.dev^
 ||oraclejp2.chungyu.com^
 ||oradns.anbitech.com^
 ||orasrv.kellys.pw^
@@ -3101,7 +3100,6 @@
 ||test.dnsteam.globuscs.info^
 ||testguard.meexx.de^
 ||tetra.aeins.at^
-||tezoi.duckdns.org^
 ||tg2a7d4.glddns.com^
 ||thamrin.ddns.net^
 ||thanos.pleumkungz.com^
@@ -3325,6 +3323,7 @@
 ||vps310.brueggus.de^
 ||vps311.brueggus.de^
 ||vps312.brueggus.de^
+||vps313.brueggus.de^
 ||vps314.brueggus.de^
 ||vps317.brueggus.de^
 ||vps322.brueggus.de^
