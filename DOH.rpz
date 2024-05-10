@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2405090147 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2405100146 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2024-05-09 01:47:28 (UTC)
+; Last updated: 2024-05-10 01:46:43 (UTC)
 ;
 ; See https://jpgpi250.github.io/piholemanual/doc/Unbound%20response%20policy%20zones.pdf
 ; Report issues at https://github.com/jpgpi250/piholemanual/issues
@@ -22,7 +22,6 @@ $TTL 30
 1.11i.eu CNAME .
 15101844.xyz CNAME .
 180.0rz.space CNAME .
-19a8b89bb6b2491ca5cccbeb0e84a4c4.pacloudflare.com CNAME .
 1and1-dns.de CNAME .
 1a.ns.ozer.im CNAME .
 1b.ns.ozer.im CNAME .
@@ -1080,6 +1079,7 @@ dnsenc.com CNAME .
 dns.enderblocks.net CNAME .
 dns.energized.pro CNAME .
 dns.engineer-lib.ru CNAME .
+dns.engineer.web.id CNAME .
 dns-enzel.de CNAME .
 dns.enzonix.com CNAME .
 dnses.alekberg.net CNAME .
@@ -1269,6 +1269,7 @@ dns.kugoapps.com CNAME .
 dns.kukal.cz CNAME .
 dns.kusoneko.moe CNAME .
 dns.l337.site CNAME .
+dns.l6.ee CNAME .
 dns.labar.re CNAME .
 dns.labnekotest.site CNAME .
 dns.lancar.id CNAME .
@@ -1436,6 +1437,7 @@ dns.pnh.my.id CNAME .
 dnspod.clzapp.com CNAME .
 dns.pointless.chat CNAME .
 dns.porteii.com CNAME .
+dns.powerbs.net CNAME .
 dns.pragmasec.nl CNAME .
 dns.presencebuggy.my.id CNAME .
 dns-preview-alb-541438575.us-east-1.elb.amazonaws.com CNAME .
@@ -1935,6 +1937,7 @@ dot-jp.blahdns.com CNAME .
 dot.la.ahadns.net CNAME .
 dot.libredns.gr CNAME .
 dot.libredns.gr.com CNAME .
+dot.modsh.top CNAME .
 dot.nl.ahadns.net CNAME .
 dot.no.ahadns.net CNAME .
 dot.northeu.pi-dns.com CNAME .
@@ -1997,6 +2000,7 @@ elsa.airns.net CNAME .
 emby.rasp.tv CNAME .
 emmmmm.me CNAME .
 eoin.dns.walshnet.co.uk CNAME .
+epyc.digineo.de CNAME .
 eropa.dnscepat.id CNAME .
 erroring.ignorelist.com CNAME .
 esel.stusta.mhn.de CNAME .
@@ -2509,6 +2513,7 @@ m-rm.circumitor.de CNAME .
 mr-romero.com CNAME .
 mru01.dnscry.pt CNAME .
 msr177.com CNAME .
+mtdz.duckdns.org CNAME .
 muc01.dnscry.pt CNAME .
 muc-ns01.ibytex.systems CNAME .
 muli.stusta.mhn.de CNAME .
@@ -2752,7 +2757,6 @@ pi4.jnraptor.net CNAME .
 pi.adblocker.eu.org CNAME .
 pi.daryllswer.net CNAME .
 pi-dns.gordon81.com CNAME .
-piekacz.pl CNAME .
 pihole1.hoerli.net CNAME .
 pihole2.hoerli.net CNAME .
 pihole3.hoerli.net CNAME .
@@ -2814,8 +2818,6 @@ pukanuragan.ru CNAME .
 punono.duckdns.org CNAME .
 puredns.org CNAME .
 pure.sunnygyl.com CNAME .
-pvt-dns-filter.ovpn.bond CNAME .
-pvt-dns-relay.o.ovpn.bond CNAME .
 q3i6k7j3.stackpathcdn.com CNAME .
 qaz.tw CNAME .
 qbak.no-ip.eu CNAME .
@@ -3104,6 +3106,7 @@ testaghome.meshkov.info CNAME .
 test.dnsteam.globuscs.info CNAME .
 testguard.meexx.de CNAME .
 tetra.aeins.at CNAME .
+tezoi.duckdns.org CNAME .
 tg2a7d4.glddns.com CNAME .
 thamrin.ddns.net CNAME .
 thanos.pleumkungz.com CNAME .
@@ -3327,7 +3330,6 @@ vps309.brueggus.de CNAME .
 vps310.brueggus.de CNAME .
 vps311.brueggus.de CNAME .
 vps312.brueggus.de CNAME .
-vps313.brueggus.de CNAME .
 vps314.brueggus.de CNAME .
 vps317.brueggus.de CNAME .
 vps322.brueggus.de CNAME .
