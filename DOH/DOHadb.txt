@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2024-05-09 02:01:40 (UTC)
+! Last updated: 2024-05-10 02:00:53 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -18,7 +18,6 @@
 ||1.11i.eu^
 ||15101844.xyz^
 ||180.0rz.space^
-||19a8b89bb6b2491ca5cccbeb0e84a4c4.pacloudflare.com^
 ||1and1-dns.de^
 ||1a.ns.ozer.im^
 ||1b.ns.ozer.im^
@@ -1076,6 +1075,7 @@
 ||dns.enderblocks.net^
 ||dns.energized.pro^
 ||dns.engineer-lib.ru^
+||dns.engineer.web.id^
 ||dns-enzel.de^
 ||dns.enzonix.com^
 ||dnses.alekberg.net^
@@ -1265,6 +1265,7 @@
 ||dns.kukal.cz^
 ||dns.kusoneko.moe^
 ||dns.l337.site^
+||dns.l6.ee^
 ||dns.labar.re^
 ||dns.labnekotest.site^
 ||dns.lancar.id^
@@ -1432,6 +1433,7 @@
 ||dnspod.clzapp.com^
 ||dns.pointless.chat^
 ||dns.porteii.com^
+||dns.powerbs.net^
 ||dns.pragmasec.nl^
 ||dns.presencebuggy.my.id^
 ||dns-preview-alb-541438575.us-east-1.elb.amazonaws.com^
@@ -1931,6 +1933,7 @@
 ||dot.la.ahadns.net^
 ||dot.libredns.gr^
 ||dot.libredns.gr.com^
+||dot.modsh.top^
 ||dot.nl.ahadns.net^
 ||dot.no.ahadns.net^
 ||dot.northeu.pi-dns.com^
@@ -1993,6 +1996,7 @@
 ||emby.rasp.tv^
 ||emmmmm.me^
 ||eoin.dns.walshnet.co.uk^
+||epyc.digineo.de^
 ||eropa.dnscepat.id^
 ||erroring.ignorelist.com^
 ||esel.stusta.mhn.de^
@@ -2505,6 +2509,7 @@
 ||mr-romero.com^
 ||mru01.dnscry.pt^
 ||msr177.com^
+||mtdz.duckdns.org^
 ||muc01.dnscry.pt^
 ||muc-ns01.ibytex.systems^
 ||muli.stusta.mhn.de^
@@ -2748,7 +2753,6 @@
 ||pi.adblocker.eu.org^
 ||pi.daryllswer.net^
 ||pi-dns.gordon81.com^
-||piekacz.pl^
 ||pihole1.hoerli.net^
 ||pihole2.hoerli.net^
 ||pihole3.hoerli.net^
@@ -2810,8 +2814,6 @@
 ||punono.duckdns.org^
 ||puredns.org^
 ||pure.sunnygyl.com^
-||pvt-dns-filter.ovpn.bond^
-||pvt-dns-relay.o.ovpn.bond^
 ||q3i6k7j3.stackpathcdn.com^
 ||qaz.tw^
 ||qbak.no-ip.eu^
@@ -3100,6 +3102,7 @@
 ||test.dnsteam.globuscs.info^
 ||testguard.meexx.de^
 ||tetra.aeins.at^
+||tezoi.duckdns.org^
 ||tg2a7d4.glddns.com^
 ||thamrin.ddns.net^
 ||thanos.pleumkungz.com^
@@ -3323,7 +3326,6 @@
 ||vps310.brueggus.de^
 ||vps311.brueggus.de^
 ||vps312.brueggus.de^
-||vps313.brueggus.de^
 ||vps314.brueggus.de^
 ||vps317.brueggus.de^
 ||vps322.brueggus.de^
