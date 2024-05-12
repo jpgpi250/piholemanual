@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2405110233 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2405120149 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2024-05-11 02:33:13 (UTC)
+; Last updated: 2024-05-12 01:49:50 (UTC)
 ;
 ; See https://jpgpi250.github.io/piholemanual/doc/Unbound%20response%20policy%20zones.pdf
 ; Report issues at https://github.com/jpgpi250/piholemanual/issues
@@ -527,6 +527,7 @@ beacon.dog CNAME .
 beacon.fengli.love CNAME .
 beautifullife.eu.org CNAME .
 beautifulthings.eu.org CNAME .
+bemag.app CNAME .
 berd.moe CNAME .
 bev.dns.walshnet.co.uk CNAME .
 b.family.ns.dnslify.com CNAME .
@@ -1991,6 +1992,7 @@ elsa.airns.net CNAME .
 emby.rasp.tv CNAME .
 emmmmm.me CNAME .
 eoin.dns.walshnet.co.uk CNAME .
+epyc.digineo.de CNAME .
 eropa.dnscepat.id CNAME .
 erroring.ignorelist.com CNAME .
 esel.stusta.mhn.de CNAME .
@@ -2573,6 +2575,7 @@ nl.adg.ghostzone.wtf CNAME .
 nl-ams2.doh.sb CNAME .
 nl-ams.doh.sb CNAME .
 nl-ams-w-3.nashkan.net CNAME .
+nlb.gbrossi.com.br CNAME .
 nl-dro-w-f-1.nashkan.net CNAME .
 nl-dro-w-p-1.nashkan.net CNAME .
 nlname.freecdn.one CNAME .
@@ -2805,8 +2808,6 @@ pukanuragan.ru CNAME .
 punono.duckdns.org CNAME .
 puredns.org CNAME .
 pure.sunnygyl.com CNAME .
-pvt-dns-filter.ovpn.bond CNAME .
-pvt-dns-relay.o.ovpn.bond CNAME .
 q3i6k7j3.stackpathcdn.com CNAME .
 qaz.tw CNAME .
 qbak.no-ip.eu CNAME .
@@ -3319,7 +3320,6 @@ vps309.brueggus.de CNAME .
 vps310.brueggus.de CNAME .
 vps311.brueggus.de CNAME .
 vps312.brueggus.de CNAME .
-vps313.brueggus.de CNAME .
 vps314.brueggus.de CNAME .
 vps317.brueggus.de CNAME .
 vps322.brueggus.de CNAME .
@@ -3494,6 +3494,7 @@ ychen.cf CNAME .
 ychen.ga CNAME .
 ychen.gq CNAME .
 yeralin.net CNAME .
+yh.hk1.shuaib.icu CNAME .
 ymjx.shimmerl.top CNAME .
 ymq01.dnscry.pt CNAME .
 yory2cave.hopto.me CNAME .
