@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2024-05-11 02:47:25 (UTC)
+! Last updated: 2024-05-12 02:04:01 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -523,6 +523,7 @@
 ||beacon.fengli.love^
 ||beautifullife.eu.org^
 ||beautifulthings.eu.org^
+||bemag.app^
 ||berd.moe^
 ||bev.dns.walshnet.co.uk^
 ||b.family.ns.dnslify.com^
@@ -1987,6 +1988,7 @@
 ||emby.rasp.tv^
 ||emmmmm.me^
 ||eoin.dns.walshnet.co.uk^
+||epyc.digineo.de^
 ||eropa.dnscepat.id^
 ||erroring.ignorelist.com^
 ||esel.stusta.mhn.de^
@@ -2569,6 +2571,7 @@
 ||nl-ams2.doh.sb^
 ||nl-ams.doh.sb^
 ||nl-ams-w-3.nashkan.net^
+||nlb.gbrossi.com.br^
 ||nl-dro-w-f-1.nashkan.net^
 ||nl-dro-w-p-1.nashkan.net^
 ||nlname.freecdn.one^
@@ -2801,8 +2804,6 @@
 ||punono.duckdns.org^
 ||puredns.org^
 ||pure.sunnygyl.com^
-||pvt-dns-filter.ovpn.bond^
-||pvt-dns-relay.o.ovpn.bond^
 ||q3i6k7j3.stackpathcdn.com^
 ||qaz.tw^
 ||qbak.no-ip.eu^
@@ -3315,7 +3316,6 @@
 ||vps310.brueggus.de^
 ||vps311.brueggus.de^
 ||vps312.brueggus.de^
-||vps313.brueggus.de^
 ||vps314.brueggus.de^
 ||vps317.brueggus.de^
 ||vps322.brueggus.de^
@@ -3490,6 +3490,7 @@
 ||ychen.ga^
 ||ychen.gq^
 ||yeralin.net^
+||yh.hk1.shuaib.icu^
 ||ymjx.shimmerl.top^
 ||ymq01.dnscry.pt^
 ||yory2cave.hopto.me^
