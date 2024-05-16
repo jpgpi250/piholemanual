@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2024-05-14 02:26:05 (UTC)
+! Last updated: 2024-05-15 02:47:24 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -12,13 +12,13 @@
 !
 ||001.smallnode.net^
 ||0916.one^
+||0ms.dev^
 ||1001.cloudflare-dns.com^
 ||10787578eb1e4b75adfa6b2a4bdea0b5.pacloudflare.com^
 ||1.0rz.space^
 ||1111.cloudflare-dns.com^
 ||1.11i.eu^
 ||15101844.xyz^
-||180.0rz.space^
 ||19a8b89bb6b2491ca5cccbeb0e84a4c4.pacloudflare.com^
 ||1and1-dns.de^
 ||1a.ns.ozer.im^
@@ -372,6 +372,7 @@
 ||ae-fuj-w-2.nashkan.net^
 ||ae-fuj-w-3.nashkan.net^
 ||ae-fuj-w-4.nashkan.net^
+||ae-fuj-w-p-1.nashkan.net^
 ||ae-fuj-w-p-2.nashkan.net^
 ||ae-fuj-w-p-3.nashkan.net^
 ||aezadns.duckdns.org^
@@ -889,6 +890,7 @@
 ||dns.ahmgam.com^
 ||dns.ahyxluo.ltd^
 ||dns.ai6.ir^
+||dns.ai-chatgpt.eu.org^
 ||dns.airmaxcloud.uk^
 ||dns.airns.net^
 ||dns.albony.xyz^
@@ -1061,6 +1063,7 @@
 ||dns.eddi.net^
 ||dns.edgeworkssystems.ca^
 ||dns.edison42.dev^
+||dns.editechstudio.com^
 ||dnselbagre.telnet-isp.com^
 ||dns.electrotm.org^
 ||dns.elemental.software^
@@ -1295,6 +1298,7 @@
 ||dns.maolaohei.xyz^
 ||dns.marcbond.uk^
 ||dns.mariasantana.com.br^
+||dns.mateo.ovh^
 ||dns.mathewakhil.online^
 ||dns.maybe.icu^
 ||dns.me7878.com^
@@ -1422,7 +1426,6 @@
 ||dns.philqoo.com^
 ||dns.phucbui.top^
 ||dns.pieterdherde.com^
-||dns.pietjacobs.be^
 ||dns.pine-home.de^
 ||dns.ple91.uk^
 ||dns.pmxu.link^
@@ -1446,6 +1449,7 @@
 ||dns.pumpkinvrar.com^
 ||dns.pumplex.com^
 ||dns.purah.link^
+||dns.qdevs.tech^
 ||dns.qkc.fr^
 ||dns.quad9.net^
 ||dns.quickline.ch^
@@ -1454,6 +1458,7 @@
 ||dns.radityaharya.com^
 ||dns.rafn.is^
 ||dns.ramansarda.com^
+||dns.ramsky.my.id^
 ||dns.rayanbab.com^
 ||dns.rbn.gr^
 ||dns.rbs.my.id^
@@ -1726,6 +1731,7 @@
 ||doh.asia.dnswarden.com^
 ||doh.au.ahadns.net^
 ||doh.azoris.ovh^
+||doh.b86.nl^
 ||doh.beauty^
 ||doh.best^
 ||doh.bhadrikais.my.id^
@@ -1742,6 +1748,7 @@
 ||doh.centraleu.pi-dns.com^
 ||doh-ch.blahdns.com^
 ||doh.chi.ahadns.net^
+||doh.cippapp.com^
 ||doh.cleanbrowsing.org^
 ||doh.cloud-sekeng.com^
 ||doh.cnetwork.cloud^
@@ -1997,6 +2004,7 @@
 ||emby.rasp.tv^
 ||emmmmm.me^
 ||eoin.dns.walshnet.co.uk^
+||epyc.digineo.de^
 ||eropa.dnscepat.id^
 ||erroring.ignorelist.com^
 ||esel.stusta.mhn.de^
@@ -2307,6 +2315,7 @@
 ||jp1.f7b6h9.tk^
 ||jp2.101818.xyz^
 ||jp2.ooroot.com^
+||jp.559299366.xyz^
 ||jp.68360612.xyz^
 ||jp.conana.info^
 ||jp-dns1.bancuh.com^
@@ -2508,7 +2517,6 @@
 ||mr-romero.com^
 ||mru01.dnscry.pt^
 ||msr177.com^
-||mtdz.duckdns.org^
 ||muc01.dnscry.pt^
 ||muc-ns01.ibytex.systems^
 ||muli.stusta.mhn.de^
@@ -2599,7 +2607,9 @@
 ||nrt.core.access.zznet.fun^
 ||nrusimha.crabdance.com^
 ||ns.00dani.me^
+||ns01.nerdytechgeeks.co.za^
 ||ns02.nerdytechgeeks.co.za^
+||ns03.nerdytechgeeks.co.za^
 ||ns0.fdn.fr^
 ||ns1.1899.com.mx^
 ||ns1.bit-trails.nl^
@@ -2699,7 +2709,6 @@
 ||op.htyweb.top^
 ||ora1.nocnik.org^
 ||oracle001.330k.biz^
-||oracle2.herry.dev^
 ||oraclejp2.chungyu.com^
 ||oradns.anbitech.com^
 ||orasrv.kellys.pw^
@@ -3107,8 +3116,6 @@
 ||test.dnsteam.globuscs.info^
 ||testguard.meexx.de^
 ||tetra.aeins.at^
-||tezoi.duckdns.org^
-||tg2a7d4.glddns.com^
 ||thamrin.ddns.net^
 ||thanos.pleumkungz.com^
 ||thefamilypuls.com^
