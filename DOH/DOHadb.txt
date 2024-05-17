@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2024-05-15 02:47:24 (UTC)
+! Last updated: 2024-05-16 01:49:33 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -19,6 +19,7 @@
 ||1111.cloudflare-dns.com^
 ||1.11i.eu^
 ||15101844.xyz^
+||180.0rz.space^
 ||19a8b89bb6b2491ca5cccbeb0e84a4c4.pacloudflare.com^
 ||1and1-dns.de^
 ||1a.ns.ozer.im^
@@ -526,6 +527,7 @@
 ||beacon.fengli.love^
 ||beautifullife.eu.org^
 ||beautifulthings.eu.org^
+||bemag.app^
 ||berd.moe^
 ||bev.dns.walshnet.co.uk^
 ||b.family.ns.dnslify.com^
@@ -1104,6 +1106,7 @@
 ||dns.filipccz.eu^
 ||dns.fills.cn^
 ||dnsfilter.domotik.us^
+||dns-filter.ovpn.bond^
 ||dns.flatuslifir.is^
 ||dns.flwagners.com^
 ||dns.flymc.cc^
@@ -1426,6 +1429,7 @@
 ||dns.philqoo.com^
 ||dns.phucbui.top^
 ||dns.pieterdherde.com^
+||dns.pietjacobs.be^
 ||dns.pine-home.de^
 ||dns.ple91.uk^
 ||dns.pmxu.link^
@@ -1623,6 +1627,7 @@
 ||dns.vd.i81.ru^
 ||dns.vectorsigma.ru^
 ||dns.vegdiabetic.com^
+||dns.velyn.my.id^
 ||dns.victorhachard.fr^
 ||dns.vietdns.vn^
 ||dns.vinnyp.xyz^
@@ -2023,6 +2028,7 @@
 ||extended.dns.mullvad.net^
 ||externalmobiel.lekdijk.online^
 ||eyg01.dnscry.pt^
+||f03a0e2fa9f5.sn.mynetname.net^
 ||f1.dns.s3cure.me^
 ||f2-dns.asuzac.com.vn^
 ||family.5ososea.com^
@@ -2477,6 +2483,7 @@
 ||mask-h2.icloud.com^
 ||mask.icloud.com^
 ||m-asm.circumitor.de^
+||master.dns.xieke.org^
 ||mastergad.me^
 ||masters-of-cloud.de^
 ||math.netlab.my.id^
@@ -2508,6 +2515,7 @@
 ||m.myspace.sbs^
 ||mo0on15.com^
 ||moaz-adguard.duckdns.org^
+||montmorot.duckdns.org^
 ||monty.best^
 ||moonbd.top^
 ||morbitzer.de^
@@ -2517,6 +2525,7 @@
 ||mr-romero.com^
 ||mru01.dnscry.pt^
 ||msr177.com^
+||mtdz.duckdns.org^
 ||muc01.dnscry.pt^
 ||muc-ns01.ibytex.systems^
 ||muli.stusta.mhn.de^
@@ -2664,6 +2673,7 @@
 ||ns.ral9005.org^
 ||ns.solutics.ec^
 ||ns.solutionsbest.de^
+||ns.trcnet.fi^
 ||ns.try-dns.online^
 ||ns.vik.ro^
 ||ntu.ssooss.win^
@@ -2709,6 +2719,7 @@
 ||op.htyweb.top^
 ||ora1.nocnik.org^
 ||oracle001.330k.biz^
+||oracle2.herry.dev^
 ||oraclejp2.chungyu.com^
 ||oradns.anbitech.com^
 ||orasrv.kellys.pw^
@@ -2825,7 +2836,6 @@
 ||punono.duckdns.org^
 ||puredns.org^
 ||pure.sunnygyl.com^
-||pvt-dns-filter.ovpn.bond^
 ||pvt-dns-relay.o.ovpn.bond^
 ||q3i6k7j3.stackpathcdn.com^
 ||qaz.tw^
@@ -2850,7 +2860,6 @@
 ||raspberrydoc.duckdns.org^
 ||rasp.matthias-iwer.de^
 ||rayneau.fr^
-||rdjcloud.duckdns.org^
 ||rdjdns.ajraspi.xyz^
 ||rdns.faelix.net^
 ||rdu01.dnscry.pt^
@@ -3116,6 +3125,8 @@
 ||test.dnsteam.globuscs.info^
 ||testguard.meexx.de^
 ||tetra.aeins.at^
+||tezoi.duckdns.org^
+||tg2a7d4.glddns.com^
 ||thamrin.ddns.net^
 ||thanos.pleumkungz.com^
 ||thefamilypuls.com^
