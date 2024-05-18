@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2024-05-16 01:49:33 (UTC)
+! Last updated: 2024-05-17 02:30:16 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -11,6 +11,7 @@
 !   I (jpgpi250) can not be held liable for any false positive or damage caused by the use of the datasets offered.
 !
 ||001.smallnode.net^
+||045177f7-4a34-4395-baff-4676334eeaa9.route.renyu.cloud^
 ||0916.one^
 ||0ms.dev^
 ||1001.cloudflare-dns.com^
@@ -415,7 +416,9 @@
 ||albertocognetti.com^
 ||alexpollard.synology.me^
 ||ali.dn53.my.id^
+||alidns2.cb1999.top^
 ||alidns.51top.info^
+||alidns.cb1999.top^
 ||alidns.com^
 ||ali.loveweiqi.cn^
 ||alisa.hr.i81.ru^
@@ -527,7 +530,6 @@
 ||beacon.fengli.love^
 ||beautifullife.eu.org^
 ||beautifulthings.eu.org^
-||bemag.app^
 ||berd.moe^
 ||bev.dns.walshnet.co.uk^
 ||b.family.ns.dnslify.com^
@@ -1070,6 +1072,7 @@
 ||dns.electrotm.org^
 ||dns.elemental.software^
 ||dns.elhabhab.com^
+||dns.eliv.co.kr^
 ||dns.ellichua.com^
 ||dns.emiliyan.com^
 ||dnsenc.com^
@@ -1661,6 +1664,7 @@
 ||dns.wevpn.com^
 ||dns.wibenson.cloud^
 ||dns.wincservices.com^
+||dns.wixxm.asia^
 ||dns.wns.watch^
 ||dns.woexp.ru^
 ||dns.woodyli.dev^
@@ -1707,6 +1711,7 @@
 ||doh1.b-cdn.net^
 ||doh1.blahdns.com^
 ||doh1.dnswarden.com^
+||doh1.infotek.net.id^
 ||doh.233py.com^
 ||doh2.abmb.win^
 ||doh2.almir1904.eu^
@@ -2009,7 +2014,6 @@
 ||emby.rasp.tv^
 ||emmmmm.me^
 ||eoin.dns.walshnet.co.uk^
-||epyc.digineo.de^
 ||eropa.dnscepat.id^
 ||erroring.ignorelist.com^
 ||esel.stusta.mhn.de^
@@ -2515,7 +2519,6 @@
 ||m.myspace.sbs^
 ||mo0on15.com^
 ||moaz-adguard.duckdns.org^
-||montmorot.duckdns.org^
 ||monty.best^
 ||moonbd.top^
 ||morbitzer.de^
@@ -2548,6 +2551,7 @@
 ||n0.eu^
 ||n.3363.net^
 ||n5.lsasss.com^
+||na.ash.adguard.01.joshseveros.network^
 ||naganohara-yoimiya.momokko.moe^
 ||nanopi.cybergroove.net^
 ||na.phx.adguard.01.joshseveros.network^
@@ -2603,6 +2607,7 @@
 ||nl.rslvr.eu^
 ||no-ad.levcloud.cloudns.nz^
 ||noads.api.org.pl^
+||noads.ddnsgeek.com^
 ||noads.dns.vladpro.ru^
 ||noads.imbuffering.com^
 ||noads.vdl.io^
@@ -2860,6 +2865,7 @@
 ||raspberrydoc.duckdns.org^
 ||rasp.matthias-iwer.de^
 ||rayneau.fr^
+||rdjcloud.duckdns.org^
 ||rdjdns.ajraspi.xyz^
 ||rdns.faelix.net^
 ||rdu01.dnscry.pt^
@@ -3243,6 +3249,7 @@
 ||v1552270.hosted-by-vdsina.ru^
 ||v1.lifeym.xyz^
 ||v2-1.huwenqiang.xyz^
+||v2rich.eu.org^
 ||v2.xx3210766.live^
 ||v3.passby.eu.org^
 ||v6.rubyfish.cn^
