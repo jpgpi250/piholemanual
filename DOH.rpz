@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2405170215 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2405180150 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2024-05-17 02:15:55 (UTC)
+; Last updated: 2024-05-18 01:50:30 (UTC)
 ;
 ; See https://jpgpi250.github.io/piholemanual/doc/Unbound%20response%20policy%20zones.pdf
 ; Report issues at https://github.com/jpgpi250/piholemanual/issues
@@ -534,6 +534,7 @@ beacon.dog CNAME .
 beacon.fengli.love CNAME .
 beautifullife.eu.org CNAME .
 beautifulthings.eu.org CNAME .
+bemag.app CNAME .
 berd.moe CNAME .
 bev.dns.walshnet.co.uk CNAME .
 b.family.ns.dnslify.com CNAME .
@@ -1113,7 +1114,7 @@ dns.fifux.be CNAME .
 dns.filipccz.eu CNAME .
 dns.fills.cn CNAME .
 dnsfilter.domotik.us CNAME .
-dns-filter.ovpn.bond CNAME .
+dns-filter.o.ovpn.bond CNAME .
 dns.flatuslifir.is CNAME .
 dns.flwagners.com CNAME .
 dns.flymc.cc CNAME .
@@ -1918,6 +1919,7 @@ doh.xfinity.com CNAME .
 doh.xorlet.ru CNAME .
 doh.xyz CNAME .
 doh.zephyrsec.cfd CNAME .
+doh.zephyrus.id CNAME .
 domburg.beruys.com CNAME .
 domen-dns.ru CNAME .
 domeq.waw.pl CNAME .
@@ -2036,7 +2038,6 @@ exns1.exalto.nu CNAME .
 extended.dns.mullvad.net CNAME .
 externalmobiel.lekdijk.online CNAME .
 eyg01.dnscry.pt CNAME .
-f03a0e2fa9f5.sn.mynetname.net CNAME .
 f1.dns.s3cure.me CNAME .
 f2-dns.asuzac.com.vn CNAME .
 family.5ososea.com CNAME .
@@ -2120,7 +2121,6 @@ fwgw.orangepipc.mywire.org CNAME .
 gaia.plonknet.com CNAME .
 galileo.math.unipd.it CNAME .
 gandhico2.duckdns.org CNAME .
-gateway.baltes.info CNAME .
 gateway.fomichev.cloud CNAME .
 gauss.pp.ua CNAME .
 gb-bir-w-1.nashkan.net CNAME .
@@ -2523,6 +2523,7 @@ mkvvpssrv12.freemyip.com CNAME .
 m.myspace.sbs CNAME .
 mo0on15.com CNAME .
 moaz-adguard.duckdns.org CNAME .
+montmorot.duckdns.org CNAME .
 monty.best CNAME .
 moonbd.top CNAME .
 morbitzer.de CNAME .
@@ -2845,7 +2846,6 @@ pukanuragan.ru CNAME .
 punono.duckdns.org CNAME .
 puredns.org CNAME .
 pure.sunnygyl.com CNAME .
-pvt-dns-relay.o.ovpn.bond CNAME .
 q3i6k7j3.stackpathcdn.com CNAME .
 qaz.tw CNAME .
 qbak.no-ip.eu CNAME .
@@ -2878,6 +2878,9 @@ remote.sufly.top CNAME .
 res-acst1.absolight.net CNAME .
 res-acst2.absolight.net CNAME .
 res-acst3.absolight.net CNAME .
+resolv1.trash.net CNAME .
+resolv2.trash.net CNAME .
+resolv3.trash.net CNAME .
 resolve2.srv-pro.de CNAME .
 resolve.corpa.me CNAME .
 resolve.fknw.de CNAME .
@@ -3136,7 +3139,6 @@ test.dnsteam.globuscs.info CNAME .
 testguard.meexx.de CNAME .
 tetra.aeins.at CNAME .
 tezoi.duckdns.org CNAME .
-tg2a7d4.glddns.com CNAME .
 thamrin.ddns.net CNAME .
 thanos.pleumkungz.com CNAME .
 thefamilypuls.com CNAME .
