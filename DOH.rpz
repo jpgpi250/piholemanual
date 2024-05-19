@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2405180150 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2405190140 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2024-05-18 01:50:30 (UTC)
+; Last updated: 2024-05-19 01:40:38 (UTC)
 ;
 ; See https://jpgpi250.github.io/piholemanual/doc/Unbound%20response%20policy%20zones.pdf
 ; Report issues at https://github.com/jpgpi250/piholemanual/issues
@@ -1114,7 +1114,6 @@ dns.fifux.be CNAME .
 dns.filipccz.eu CNAME .
 dns.fills.cn CNAME .
 dnsfilter.domotik.us CNAME .
-dns-filter.o.ovpn.bond CNAME .
 dns.flatuslifir.is CNAME .
 dns.flwagners.com CNAME .
 dns.flymc.cc CNAME .
@@ -1140,7 +1139,6 @@ dns.ghost.pm CNAME .
 dns.gi.co.id CNAME .
 dns.ginovs.nl CNAME .
 dns.giorgiooppo.it CNAME .
-dns.glorydns.com CNAME .
 dns.gmserv.cc CNAME .
 dns.gnb09.id CNAME .
 dns.goldplate.org CNAME .
@@ -2121,6 +2119,7 @@ fwgw.orangepipc.mywire.org CNAME .
 gaia.plonknet.com CNAME .
 galileo.math.unipd.it CNAME .
 gandhico2.duckdns.org CNAME .
+gateway.baltes.info CNAME .
 gateway.fomichev.cloud CNAME .
 gauss.pp.ua CNAME .
 gb-bir-w-1.nashkan.net CNAME .
@@ -2846,6 +2845,7 @@ pukanuragan.ru CNAME .
 punono.duckdns.org CNAME .
 puredns.org CNAME .
 pure.sunnygyl.com CNAME .
+p.v.t.d.n.s.ovpn.bond CNAME .
 q3i6k7j3.stackpathcdn.com CNAME .
 qaz.tw CNAME .
 qbak.no-ip.eu CNAME .
@@ -3139,6 +3139,7 @@ test.dnsteam.globuscs.info CNAME .
 testguard.meexx.de CNAME .
 tetra.aeins.at CNAME .
 tezoi.duckdns.org CNAME .
+tg2a7d4.glddns.com CNAME .
 thamrin.ddns.net CNAME .
 thanos.pleumkungz.com CNAME .
 thefamilypuls.com CNAME .
