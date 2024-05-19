@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2024-05-17 02:30:16 (UTC)
+! Last updated: 2024-05-18 02:04:48 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -530,6 +530,7 @@
 ||beacon.fengli.love^
 ||beautifullife.eu.org^
 ||beautifulthings.eu.org^
+||bemag.app^
 ||berd.moe^
 ||bev.dns.walshnet.co.uk^
 ||b.family.ns.dnslify.com^
@@ -1109,7 +1110,7 @@
 ||dns.filipccz.eu^
 ||dns.fills.cn^
 ||dnsfilter.domotik.us^
-||dns-filter.ovpn.bond^
+||dns-filter.o.ovpn.bond^
 ||dns.flatuslifir.is^
 ||dns.flwagners.com^
 ||dns.flymc.cc^
@@ -1914,6 +1915,7 @@
 ||doh.xorlet.ru^
 ||doh.xyz^
 ||doh.zephyrsec.cfd^
+||doh.zephyrus.id^
 ||domburg.beruys.com^
 ||domen-dns.ru^
 ||domeq.waw.pl^
@@ -2032,7 +2034,6 @@
 ||extended.dns.mullvad.net^
 ||externalmobiel.lekdijk.online^
 ||eyg01.dnscry.pt^
-||f03a0e2fa9f5.sn.mynetname.net^
 ||f1.dns.s3cure.me^
 ||f2-dns.asuzac.com.vn^
 ||family.5ososea.com^
@@ -2116,7 +2117,6 @@
 ||gaia.plonknet.com^
 ||galileo.math.unipd.it^
 ||gandhico2.duckdns.org^
-||gateway.baltes.info^
 ||gateway.fomichev.cloud^
 ||gauss.pp.ua^
 ||gb-bir-w-1.nashkan.net^
@@ -2519,6 +2519,7 @@
 ||m.myspace.sbs^
 ||mo0on15.com^
 ||moaz-adguard.duckdns.org^
+||montmorot.duckdns.org^
 ||monty.best^
 ||moonbd.top^
 ||morbitzer.de^
@@ -2841,7 +2842,6 @@
 ||punono.duckdns.org^
 ||puredns.org^
 ||pure.sunnygyl.com^
-||pvt-dns-relay.o.ovpn.bond^
 ||q3i6k7j3.stackpathcdn.com^
 ||qaz.tw^
 ||qbak.no-ip.eu^
@@ -2874,6 +2874,9 @@
 ||res-acst1.absolight.net^
 ||res-acst2.absolight.net^
 ||res-acst3.absolight.net^
+||resolv1.trash.net^
+||resolv2.trash.net^
+||resolv3.trash.net^
 ||resolve2.srv-pro.de^
 ||resolve.corpa.me^
 ||resolve.fknw.de^
@@ -3132,7 +3135,6 @@
 ||testguard.meexx.de^
 ||tetra.aeins.at^
 ||tezoi.duckdns.org^
-||tg2a7d4.glddns.com^
 ||thamrin.ddns.net^
 ||thanos.pleumkungz.com^
 ||thefamilypuls.com^
