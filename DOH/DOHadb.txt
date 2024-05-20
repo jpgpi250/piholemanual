@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2024-05-18 02:04:48 (UTC)
+! Last updated: 2024-05-19 01:55:01 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -1110,7 +1110,6 @@
 ||dns.filipccz.eu^
 ||dns.fills.cn^
 ||dnsfilter.domotik.us^
-||dns-filter.o.ovpn.bond^
 ||dns.flatuslifir.is^
 ||dns.flwagners.com^
 ||dns.flymc.cc^
@@ -1136,7 +1135,6 @@
 ||dns.gi.co.id^
 ||dns.ginovs.nl^
 ||dns.giorgiooppo.it^
-||dns.glorydns.com^
 ||dns.gmserv.cc^
 ||dns.gnb09.id^
 ||dns.goldplate.org^
@@ -2117,6 +2115,7 @@
 ||gaia.plonknet.com^
 ||galileo.math.unipd.it^
 ||gandhico2.duckdns.org^
+||gateway.baltes.info^
 ||gateway.fomichev.cloud^
 ||gauss.pp.ua^
 ||gb-bir-w-1.nashkan.net^
@@ -2842,6 +2841,7 @@
 ||punono.duckdns.org^
 ||puredns.org^
 ||pure.sunnygyl.com^
+||p.v.t.d.n.s.ovpn.bond^
 ||q3i6k7j3.stackpathcdn.com^
 ||qaz.tw^
 ||qbak.no-ip.eu^
@@ -3135,6 +3135,7 @@
 ||testguard.meexx.de^
 ||tetra.aeins.at^
 ||tezoi.duckdns.org^
+||tg2a7d4.glddns.com^
 ||thamrin.ddns.net^
 ||thanos.pleumkungz.com^
 ||thefamilypuls.com^
