@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2024-05-21 02:04:51 (UTC)
+! Last updated: 2024-05-22 02:43:42 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -20,7 +20,6 @@
 ||1.11i.eu^
 ||15101844.xyz^
 ||180.0rz.space^
-||19a8b89bb6b2491ca5cccbeb0e84a4c4.pacloudflare.com^
 ||1and1-dns.de^
 ||1a.ns.ozer.im^
 ||1b.ns.ozer.im^
@@ -307,6 +306,7 @@
 ||adguard.taufner.net^
 ||adguard.tcpu.io^
 ||adguard.tetnet.net^
+||adguard.theil.dev^
 ||adguard.tigrex.net^
 ||adguard.titov.es^
 ||adguard.tmdproject.nl^
@@ -349,6 +349,7 @@
 ||adns.onlinetools.rocks^
 ||ad.paulopinto.site^
 ||ad.pyio.top^
+||ad.r60.pl^
 ||ads-doh.securedns.eu^
 ||ads-eu.landgame.net^
 ||adsfree.ddns.net^
@@ -527,7 +528,6 @@
 ||beacon.fengli.love^
 ||beautifullife.eu.org^
 ||beautifulthings.eu.org^
-||bemag.app^
 ||berd.moe^
 ||bev.dns.walshnet.co.uk^
 ||b.family.ns.dnslify.com^
@@ -602,6 +602,7 @@
 ||cc210b36bb9e.sn.mynetname.net^
 ||cc210f4a872c.sn.mynetname.net^
 ||cc2.v8er.net^
+||ccadguard.dynu.net^
 ||c.cicitt.ch^
 ||ccyykk.top^
 ||cdn.0ms.dev^
@@ -767,7 +768,6 @@
 ||dns1.conne.net^
 ||dns1.digitale-gesellschaft.ch^
 ||dns1.dnscrypt.ca^
-||dns1.fi.newpangea.de^
 ||dns1.gdie.top^
 ||dns1.in-berlin.de^
 ||dns1.in.newpangea.de^
@@ -1427,7 +1427,6 @@
 ||dns.philqoo.com^
 ||dns.phucbui.top^
 ||dns.pieterdherde.com^
-||dns.pietjacobs.be^
 ||dns.pine-home.de^
 ||dns.ple91.uk^
 ||dns.pmxu.link^
@@ -1706,7 +1705,6 @@
 ||doh1.b-cdn.net^
 ||doh1.blahdns.com^
 ||doh1.dnswarden.com^
-||doh1.infotek.net.id^
 ||doh.233py.com^
 ||doh2.abmb.win^
 ||doh2.almir1904.eu^
@@ -2025,6 +2023,7 @@
 ||extended.dns.mullvad.net^
 ||externalmobiel.lekdijk.online^
 ||eyg01.dnscry.pt^
+||f03a0e2fa9f5.sn.mynetname.net^
 ||f1.dns.s3cure.me^
 ||f2-dns.asuzac.com.vn^
 ||family.5ososea.com^
@@ -2488,7 +2487,6 @@
 ||m-cm.circumitor.de^
 ||mcore.us.to^
 ||mcttechs.com^
-||md5mtp4y.fbxos.fr^
 ||mdakaiedbd.ddns.net^
 ||mdxl.ru^
 ||megumin.is.my.waifu.cz^
@@ -2507,6 +2505,7 @@
 ||m.myspace.sbs^
 ||mo0on15.com^
 ||moaz-adguard.duckdns.org^
+||montmorot.duckdns.org^
 ||monty.best^
 ||moonbd.top^
 ||morbitzer.de^
@@ -2828,7 +2827,7 @@
 ||punono.duckdns.org^
 ||puredns.org^
 ||pure.sunnygyl.com^
-||pvt-pub.d.n.s.ovpn.bond^
+||pvt-pub.cli.d.n.s.ovpn.bond^
 ||q3i6k7j3.stackpathcdn.com^
 ||qaz.tw^
 ||qbak.no-ip.eu^
@@ -2921,6 +2920,7 @@
 ||roucious.dyndns-remote.com^
 ||router.sapib.ca^
 ||rpz-public-resolver1.rrdns.pch.net^
+||rs1.theil.dev^
 ||ru.i-puppy.ru^
 ||ru-mos-w-2.nashkan.net^
 ||ru-mos-w-p-1.nashkan.net^
@@ -3131,6 +3131,7 @@
 ||timmes.nl^
 ||tirapan.top^
 ||tj.jamesxue.xyz^
+||tk2-404-43267.vs.sakura.ne.jp^
 ||tk31z.com^
 ||tky-dns.bitdefender.net^
 ||tll01.dnscry.pt^
@@ -3500,6 +3501,7 @@
 ||xie.ke^
 ||xjpdns.354688.xyz^
 ||xkariak.asuscomm.com^
+||x.laoban.fun^
 ||xn--2grr3t07h.online^
 ||xn--80aecoigf4aatn.xn--p1ai^
 ||xn--85w848a.jp^
