@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2405260136 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2405270138 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2024-05-26 01:36:09 (UTC)
+; Last updated: 2024-05-27 01:38:54 (UTC)
 ;
 ; See https://jpgpi250.github.io/piholemanual/doc/Unbound%20response%20policy%20zones.pdf
 ; Report issues at https://github.com/jpgpi250/piholemanual/issues
@@ -255,7 +255,6 @@ adguard.kss.ovh CNAME .
 adguard.laurenlaufman.com CNAME .
 adguard.leadseason.eu CNAME .
 adguard.lege.despagne.net CNAME .
-adguard.londonwebnerd.cloud CNAME .
 adguard.lspcr.space CNAME .
 adguard.macrosolutionsltd.co.uk CNAME .
 adguard.madeconengenharia.com.br CNAME .
@@ -2018,7 +2017,6 @@ elsa.airns.net CNAME .
 emby.rasp.tv CNAME .
 emmmmm.me CNAME .
 eoin.dns.walshnet.co.uk CNAME .
-epyc.digineo.de CNAME .
 eropa.dnscepat.id CNAME .
 erroring.ignorelist.com CNAME .
 esel.stusta.mhn.de CNAME .
@@ -2714,7 +2712,6 @@ one.one.one.one CNAME .
 oneplus-10pro.aezadns.duckdns.org CNAME .
 onlyfriends.info CNAME .
 o--o.duckdns.org CNAME .
-o.o.ovpn.bond CNAME .
 oostelbos.dynu.com CNAME .
 opencdn.jomodns.com CNAME .
 open.dns0.eu CNAME .
@@ -2844,6 +2841,7 @@ pukanuragan.ru CNAME .
 punono.duckdns.org CNAME .
 puredns.org CNAME .
 pure.sunnygyl.com CNAME .
+pvt_dns.filter.ovpn.bond CNAME .
 q3i6k7j3.stackpathcdn.com CNAME .
 qaz.tw CNAME .
 qbak.no-ip.eu CNAME .
@@ -3108,6 +3106,7 @@ surfbelow.com CNAME .
 surt.ml CNAME .
 surt.ovh CNAME .
 surve.dehb.ru CNAME .
+sv1.horus-team.com CNAME .
 sv3.minhduc.pw CNAME .
 svc2.diarbagus.id CNAME .
 svg33.eu CNAME .
@@ -3137,7 +3136,6 @@ test.dnsteam.globuscs.info CNAME .
 testguard.meexx.de CNAME .
 tetra.aeins.at CNAME .
 tezoi.duckdns.org CNAME .
-tg2a7d4.glddns.com CNAME .
 thamrin.ddns.net CNAME .
 thanos.pleumkungz.com CNAME .
 thefamilypuls.com CNAME .
