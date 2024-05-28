@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2024-05-26 01:50:33 (UTC)
+! Last updated: 2024-05-27 01:53:15 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -251,7 +251,6 @@
 ||adguard.laurenlaufman.com^
 ||adguard.leadseason.eu^
 ||adguard.lege.despagne.net^
-||adguard.londonwebnerd.cloud^
 ||adguard.lspcr.space^
 ||adguard.macrosolutionsltd.co.uk^
 ||adguard.madeconengenharia.com.br^
@@ -2014,7 +2013,6 @@
 ||emby.rasp.tv^
 ||emmmmm.me^
 ||eoin.dns.walshnet.co.uk^
-||epyc.digineo.de^
 ||eropa.dnscepat.id^
 ||erroring.ignorelist.com^
 ||esel.stusta.mhn.de^
@@ -2710,7 +2708,6 @@
 ||oneplus-10pro.aezadns.duckdns.org^
 ||onlyfriends.info^
 ||o--o.duckdns.org^
-||o.o.ovpn.bond^
 ||oostelbos.dynu.com^
 ||opencdn.jomodns.com^
 ||open.dns0.eu^
@@ -2840,6 +2837,7 @@
 ||punono.duckdns.org^
 ||puredns.org^
 ||pure.sunnygyl.com^
+||pvt_dns.filter.ovpn.bond^
 ||q3i6k7j3.stackpathcdn.com^
 ||qaz.tw^
 ||qbak.no-ip.eu^
@@ -3104,6 +3102,7 @@
 ||surt.ml^
 ||surt.ovh^
 ||surve.dehb.ru^
+||sv1.horus-team.com^
 ||sv3.minhduc.pw^
 ||svc2.diarbagus.id^
 ||svg33.eu^
@@ -3133,7 +3132,6 @@
 ||testguard.meexx.de^
 ||tetra.aeins.at^
 ||tezoi.duckdns.org^
-||tg2a7d4.glddns.com^
 ||thamrin.ddns.net^
 ||thanos.pleumkungz.com^
 ||thefamilypuls.com^
