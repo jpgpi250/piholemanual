@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2405280217 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2405290152 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2024-05-28 02:17:52 (UTC)
+; Last updated: 2024-05-29 01:52:38 (UTC)
 ;
 ; See https://jpgpi250.github.io/piholemanual/doc/Unbound%20response%20policy%20zones.pdf
 ; Report issues at https://github.com/jpgpi250/piholemanual/issues
@@ -639,7 +639,6 @@ clic.eu.org CNAME .
 clientdns3.softcom.net CNAME .
 cloud.198.games CNAME .
 cloudbasesolutions.online CNAME .
-cloud.dns.filter.ovpn.bond CNAME .
 cloudflare-dns.com CNAME .
 cloudflare-gateway.com CNAME .
 cloudflareresolve.com CNAME .
@@ -1438,6 +1437,7 @@ dns.phillipjberry.net CNAME .
 dns.philqoo.com CNAME .
 dns.phucbui.top CNAME .
 dns.pieterdherde.com CNAME .
+dns.pietjacobs.be CNAME .
 dns.pine-home.de CNAME .
 dns.ple91.uk CNAME .
 dns.pmxu.link CNAME .
@@ -2016,6 +2016,7 @@ elsa.airns.net CNAME .
 emby.rasp.tv CNAME .
 emmmmm.me CNAME .
 eoin.dns.walshnet.co.uk CNAME .
+epyc.digineo.de CNAME .
 eropa.dnscepat.id CNAME .
 erroring.ignorelist.com CNAME .
 esel.stusta.mhn.de CNAME .
@@ -2034,7 +2035,6 @@ exns1.exalto.nu CNAME .
 extended.dns.mullvad.net CNAME .
 externalmobiel.lekdijk.online CNAME .
 eyg01.dnscry.pt CNAME .
-f03a0e2fa9f5.sn.mynetname.net CNAME .
 f1.dns.s3cure.me CNAME .
 f2-dns.asuzac.com.vn CNAME .
 family.5ososea.com CNAME .
@@ -2119,6 +2119,7 @@ fwgw.orangepipc.mywire.org CNAME .
 gaia.plonknet.com CNAME .
 galileo.math.unipd.it CNAME .
 gandhico2.duckdns.org CNAME .
+gateway.baltes.info CNAME .
 gateway.fomichev.cloud CNAME .
 gauss.pp.ua CNAME .
 gb-bir-w-1.nashkan.net CNAME .
@@ -2238,6 +2239,7 @@ home.snow-sugar.net CNAME .
 home.tuankhaiit.com CNAME .
 home.wriedts.de CNAME .
 hooliganska.duckdns.org CNAME .
+horus-team.com CNAME .
 host94.rheingold.com.ua CNAME .
 hostdare.qtxd.net CNAME .
 hostedadguard.greatharts.com CNAME .
@@ -2517,6 +2519,7 @@ mkvvpssrv12.freemyip.com CNAME .
 m.myspace.sbs CNAME .
 mo0on15.com CNAME .
 moaz-adguard.duckdns.org CNAME .
+montmorot.duckdns.org CNAME .
 monty.best CNAME .
 moonbd.top CNAME .
 morbitzer.de CNAME .
@@ -2526,6 +2529,7 @@ m-rm.circumitor.de CNAME .
 mr-romero.com CNAME .
 mru01.dnscry.pt CNAME .
 msr177.com CNAME .
+mtdz.duckdns.org CNAME .
 muc01.dnscry.pt CNAME .
 muc-ns01.ibytex.systems CNAME .
 muli.stusta.mhn.de CNAME .
@@ -2776,7 +2780,6 @@ pi4.jnraptor.net CNAME .
 pi.adblocker.eu.org CNAME .
 pi.daryllswer.net CNAME .
 pi-dns.gordon81.com CNAME .
-piekacz.pl CNAME .
 pihole1.hoerli.net CNAME .
 pihole2.hoerli.net CNAME .
 pihole3.hoerli.net CNAME .
@@ -2816,7 +2819,6 @@ pro.shecan.ir CNAME .
 protected.canadianshield.cira.ca CNAME .
 proxjdf.jamesferrand.fr CNAME .
 proxy.ext.devkon.org CNAME .
-proxy.haoxuan.xyz CNAME .
 proxy.landerbrauver.ru CNAME .
 proxy.srs.su CNAME .
 prysiazhniuk.pp.ua CNAME .
@@ -3102,7 +3104,6 @@ surfbelow.com CNAME .
 surt.ml CNAME .
 surt.ovh CNAME .
 surve.dehb.ru CNAME .
-sv1.horus-team.com CNAME .
 sv3.minhduc.pw CNAME .
 svc2.diarbagus.id CNAME .
 svg33.eu CNAME .
@@ -3132,6 +3133,7 @@ test.dnsteam.globuscs.info CNAME .
 testguard.meexx.de CNAME .
 tetra.aeins.at CNAME .
 tezoi.duckdns.org CNAME .
+tg2a7d4.glddns.com CNAME .
 thamrin.ddns.net CNAME .
 thanos.pleumkungz.com CNAME .
 thefamilypuls.com CNAME .
@@ -3359,6 +3361,7 @@ vps309.brueggus.de CNAME .
 vps310.brueggus.de CNAME .
 vps311.brueggus.de CNAME .
 vps312.brueggus.de CNAME .
+vps313.brueggus.de CNAME .
 vps314.brueggus.de CNAME .
 vps317.brueggus.de CNAME .
 vps322.brueggus.de CNAME .
