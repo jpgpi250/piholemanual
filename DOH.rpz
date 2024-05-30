@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2405290152 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2405300153 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2024-05-29 01:52:38 (UTC)
+; Last updated: 2024-05-30 01:53:39 (UTC)
 ;
 ; See https://jpgpi250.github.io/piholemanual/doc/Unbound%20response%20policy%20zones.pdf
 ; Report issues at https://github.com/jpgpi250/piholemanual/issues
@@ -24,6 +24,7 @@ $TTL 30
 1.11i.eu CNAME .
 15101844.xyz CNAME .
 180.0rz.space CNAME .
+19a8b89bb6b2491ca5cccbeb0e84a4c4.pacloudflare.com CNAME .
 1and1-dns.de CNAME .
 1a.ns.ozer.im CNAME .
 1b.ns.ozer.im CNAME .
@@ -392,9 +393,11 @@ agh.710523.xyz CNAME .
 agh.alematho.de CNAME .
 agh.broaddy.com CNAME .
 agh.doubleatech.site CNAME .
+agh.dshubham.xyz CNAME .
 agh.fltn.us CNAME .
 agh.josephyap.me CNAME .
 agh.kul-lippek.de CNAME .
+agh.kyusang.win CNAME .
 ag.hostme.co.il CNAME .
 agh.printk.info CNAME .
 agh.srv.tenete.net CNAME .
@@ -700,6 +703,7 @@ ddd.xiaofuc.top CNAME .
 ddns.ddns.bigqy.eu.org CNAME .
 ddns.ddnsddns.online CNAME .
 ddns.itsnooblk.xyz CNAME .
+de01.dns4me.net CNAME .
 de1.danielnet.eu CNAME .
 de.deghy.ir CNAME .
 dedicated.lvolland.fr CNAME .
@@ -920,6 +924,7 @@ dns.api.rackspacecloud.com CNAME .
 dns.api.sandbox.globuscs.info CNAME .
 dns.api.staging.globuscs.info CNAME .
 dns.api.test.globuscs.info CNAME .
+dns.applewebkit.dev CNAME .
 dns.aquilenet.fr CNAME .
 dns.arad.mobi CNAME .
 dns.arapurayil.com CNAME .
@@ -1437,7 +1442,6 @@ dns.phillipjberry.net CNAME .
 dns.philqoo.com CNAME .
 dns.phucbui.top CNAME .
 dns.pieterdherde.com CNAME .
-dns.pietjacobs.be CNAME .
 dns.pine-home.de CNAME .
 dns.ple91.uk CNAME .
 dns.pmxu.link CNAME .
@@ -2266,6 +2270,7 @@ id.local.v.ua CNAME .
 id-pon-w-1.nashkan.net CNAME .
 id.sdn.airns.net CNAME .
 id.terra.my.id CNAME .
+ie01.dns4me.net CNAME .
 ie-dub-w-1.nashkan.net CNAME .
 iev01.dnscry.pt CNAME .
 igor.hr.i81.ru CNAME .
@@ -2322,6 +2327,7 @@ johnsson.ovh CNAME .
 jonathanaugusto.freeddns.org CNAME .
 jonesboyz.duckdns.org CNAME .
 josephfamily.org CNAME .
+jp01.dns4me.net CNAME .
 jp01.just-a-web.com CNAME .
 jp1.f7b6h9.tk CNAME .
 jp2.101818.xyz CNAME .
@@ -2529,7 +2535,6 @@ m-rm.circumitor.de CNAME .
 mr-romero.com CNAME .
 mru01.dnscry.pt CNAME .
 msr177.com CNAME .
-mtdz.duckdns.org CNAME .
 muc01.dnscry.pt CNAME .
 muc-ns01.ibytex.systems CNAME .
 muli.stusta.mhn.de CNAME .
@@ -2577,7 +2582,6 @@ neatdns.ustclug.org CNAME .
 nebula.tru.io CNAME .
 nenam.eu CNAME .
 neoland.cloud CNAME .
-nerdytechgeeks.co.za CNAME .
 net.0ms.dev CNAME .
 netcat.one CNAME .
 netcup.mismat.ch CNAME .
@@ -2840,6 +2844,7 @@ pukanuragan.ru CNAME .
 punono.duckdns.org CNAME .
 puredns.org CNAME .
 pure.sunnygyl.com CNAME .
+pvt-dns-cloud.relay.ovpn.bond CNAME .
 q3i6k7j3.stackpathcdn.com CNAME .
 qaz.tw CNAME .
 qbak.no-ip.eu CNAME .
@@ -3128,12 +3133,12 @@ test2.adg.siudzinski.net CNAME .
 test3.adg.siudzinski.net CNAME .
 test4.adg.siudzinski.net CNAME .
 test.adg.siudzinski.net CNAME .
+testadguardhome.adtidy.net CNAME .
 testaghome.meshkov.info CNAME .
 test.dnsteam.globuscs.info CNAME .
 testguard.meexx.de CNAME .
 tetra.aeins.at CNAME .
 tezoi.duckdns.org CNAME .
-tg2a7d4.glddns.com CNAME .
 thamrin.ddns.net CNAME .
 thanos.pleumkungz.com CNAME .
 thefamilypuls.com CNAME .
@@ -3536,7 +3541,6 @@ ychen.cf CNAME .
 ychen.ga CNAME .
 ychen.gq CNAME .
 yeralin.net CNAME .
-yh.hk1.shuaib.icu CNAME .
 ymjx.shimmerl.top CNAME .
 ymq01.dnscry.pt CNAME .
 yory2cave.hopto.me CNAME .
