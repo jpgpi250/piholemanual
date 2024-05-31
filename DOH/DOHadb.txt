@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2024-05-29 02:06:54 (UTC)
+! Last updated: 2024-05-30 02:07:59 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -20,6 +20,7 @@
 ||1.11i.eu^
 ||15101844.xyz^
 ||180.0rz.space^
+||19a8b89bb6b2491ca5cccbeb0e84a4c4.pacloudflare.com^
 ||1and1-dns.de^
 ||1a.ns.ozer.im^
 ||1b.ns.ozer.im^
@@ -388,9 +389,11 @@
 ||agh.alematho.de^
 ||agh.broaddy.com^
 ||agh.doubleatech.site^
+||agh.dshubham.xyz^
 ||agh.fltn.us^
 ||agh.josephyap.me^
 ||agh.kul-lippek.de^
+||agh.kyusang.win^
 ||ag.hostme.co.il^
 ||agh.printk.info^
 ||agh.srv.tenete.net^
@@ -696,6 +699,7 @@
 ||ddns.ddns.bigqy.eu.org^
 ||ddns.ddnsddns.online^
 ||ddns.itsnooblk.xyz^
+||de01.dns4me.net^
 ||de1.danielnet.eu^
 ||de.deghy.ir^
 ||dedicated.lvolland.fr^
@@ -916,6 +920,7 @@
 ||dns.api.sandbox.globuscs.info^
 ||dns.api.staging.globuscs.info^
 ||dns.api.test.globuscs.info^
+||dns.applewebkit.dev^
 ||dns.aquilenet.fr^
 ||dns.arad.mobi^
 ||dns.arapurayil.com^
@@ -1433,7 +1438,6 @@
 ||dns.philqoo.com^
 ||dns.phucbui.top^
 ||dns.pieterdherde.com^
-||dns.pietjacobs.be^
 ||dns.pine-home.de^
 ||dns.ple91.uk^
 ||dns.pmxu.link^
@@ -2262,6 +2266,7 @@
 ||id-pon-w-1.nashkan.net^
 ||id.sdn.airns.net^
 ||id.terra.my.id^
+||ie01.dns4me.net^
 ||ie-dub-w-1.nashkan.net^
 ||iev01.dnscry.pt^
 ||igor.hr.i81.ru^
@@ -2318,6 +2323,7 @@
 ||jonathanaugusto.freeddns.org^
 ||jonesboyz.duckdns.org^
 ||josephfamily.org^
+||jp01.dns4me.net^
 ||jp01.just-a-web.com^
 ||jp1.f7b6h9.tk^
 ||jp2.101818.xyz^
@@ -2525,7 +2531,6 @@
 ||mr-romero.com^
 ||mru01.dnscry.pt^
 ||msr177.com^
-||mtdz.duckdns.org^
 ||muc01.dnscry.pt^
 ||muc-ns01.ibytex.systems^
 ||muli.stusta.mhn.de^
@@ -2573,7 +2578,6 @@
 ||nebula.tru.io^
 ||nenam.eu^
 ||neoland.cloud^
-||nerdytechgeeks.co.za^
 ||net.0ms.dev^
 ||netcat.one^
 ||netcup.mismat.ch^
@@ -2836,6 +2840,7 @@
 ||punono.duckdns.org^
 ||puredns.org^
 ||pure.sunnygyl.com^
+||pvt-dns-cloud.relay.ovpn.bond^
 ||q3i6k7j3.stackpathcdn.com^
 ||qaz.tw^
 ||qbak.no-ip.eu^
@@ -3124,12 +3129,12 @@
 ||test3.adg.siudzinski.net^
 ||test4.adg.siudzinski.net^
 ||test.adg.siudzinski.net^
+||testadguardhome.adtidy.net^
 ||testaghome.meshkov.info^
 ||test.dnsteam.globuscs.info^
 ||testguard.meexx.de^
 ||tetra.aeins.at^
 ||tezoi.duckdns.org^
-||tg2a7d4.glddns.com^
 ||thamrin.ddns.net^
 ||thanos.pleumkungz.com^
 ||thefamilypuls.com^
@@ -3532,7 +3537,6 @@
 ||ychen.ga^
 ||ychen.gq^
 ||yeralin.net^
-||yh.hk1.shuaib.icu^
 ||ymjx.shimmerl.top^
 ||ymq01.dnscry.pt^
 ||yory2cave.hopto.me^
