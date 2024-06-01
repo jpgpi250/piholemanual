@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2405310151 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2406010137 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2024-05-31 01:51:08 (UTC)
+; Last updated: 2024-06-01 01:37:55 (UTC)
 ;
 ; See https://jpgpi250.github.io/piholemanual/doc/Unbound%20response%20policy%20zones.pdf
 ; Report issues at https://github.com/jpgpi250/piholemanual/issues
@@ -24,7 +24,6 @@ $TTL 30
 1.11i.eu CNAME .
 15101844.xyz CNAME .
 180.0rz.space CNAME .
-19a8b89bb6b2491ca5cccbeb0e84a4c4.pacloudflare.com CNAME .
 1and1-dns.de CNAME .
 1a.ns.ozer.im CNAME .
 1b.ns.ozer.im CNAME .
@@ -534,6 +533,7 @@ beacon.dog CNAME .
 beacon.fengli.love CNAME .
 beautifullife.eu.org CNAME .
 beautifulthings.eu.org CNAME .
+bemag.app CNAME .
 berd.moe CNAME .
 bev.dns.walshnet.co.uk CNAME .
 b.family.ns.dnslify.com CNAME .
@@ -619,6 +619,7 @@ centerserver.servebeer.com CNAME .
 ch01adguardho.me CNAME .
 chandr1000.net CNAME .
 changesmart2024.top CNAME .
+chanhome.xyz CNAME .
 chaos-system.de CNAME .
 chenrouter.chironys.com CNAME .
 chewbacca.meganerd.nl CNAME .
@@ -2033,7 +2034,6 @@ exns1.exalto.nu CNAME .
 extended.dns.mullvad.net CNAME .
 externalmobiel.lekdijk.online CNAME .
 eyg01.dnscry.pt CNAME .
-f03a0e2fa9f5.sn.mynetname.net CNAME .
 f1.dns.s3cure.me CNAME .
 f2-dns.asuzac.com.vn CNAME .
 family.5ososea.com CNAME .
@@ -2491,6 +2491,7 @@ mask.apple-dns.net CNAME .
 mask-h2.icloud.com CNAME .
 mask.icloud.com CNAME .
 m-asm.circumitor.de CNAME .
+master.dns.xieke.org CNAME .
 mastergad.me CNAME .
 masters-of-cloud.de CNAME .
 math.netlab.my.id CNAME .
@@ -2514,6 +2515,8 @@ mia.dns4sec.com CNAME .
 mikatos.de CNAME .
 mikewaddick.com CNAME .
 mil01.dnscry.pt CNAME .
+mimile.despagne.net CNAME .
+mimile.despagne.ovh CNAME .
 minilla.store CNAME .
 mkvvpssrv12.freemyip.com CNAME .
 m.myspace.sbs CNAME .
@@ -2529,6 +2532,7 @@ m-rm.circumitor.de CNAME .
 mr-romero.com CNAME .
 mru01.dnscry.pt CNAME .
 msr177.com CNAME .
+mtdz.duckdns.org CNAME .
 muc01.dnscry.pt CNAME .
 muc-ns01.ibytex.systems CNAME .
 muli.stusta.mhn.de CNAME .
@@ -2840,7 +2844,6 @@ pukanuragan.ru CNAME .
 punono.duckdns.org CNAME .
 puredns.org CNAME .
 pure.sunnygyl.com CNAME .
-pvt-dns-cloud.relay.ovpn.bond CNAME .
 q3i6k7j3.stackpathcdn.com CNAME .
 qaz.tw CNAME .
 qbak.no-ip.eu CNAME .
@@ -3005,6 +3008,7 @@ server01.karl.one CNAME .
 server01.vboekel.nl CNAME .
 server03.dr-adguard.de CNAME .
 server.felixf.eu CNAME .
+servernation.xyz CNAME .
 server.pragmasec.nl CNAME .
 serverrmha1.ddnsku.my.id CNAME .
 server.spirio.fr CNAME .
@@ -3078,6 +3082,7 @@ sradg.eastus.cloudapp.azure.com CNAME .
 srgaghome.freemyip.com CNAME .
 sriedmueadguard.casa CNAME .
 srv1.web-mx.eu CNAME .
+srv2.bartoszturek.online CNAME .
 srv5.jiripocta.cz CNAME .
 srv-revprox-01.atakorah.com CNAME .
 ss.0001.xyz CNAME .
@@ -3102,6 +3107,7 @@ surt.ml CNAME .
 surt.ovh CNAME .
 surve.dehb.ru CNAME .
 sv3.minhduc.pw CNAME .
+svc2.diarbagus.id CNAME .
 svg33.eu CNAME .
 swe3.svoim.online CNAME .
 sweden.1vpn.fun CNAME .
@@ -3246,6 +3252,7 @@ usz.xydustc.me CNAME .
 uw-dns.rubyfish.cn CNAME .
 ux.go20.cf CNAME .
 v1552270.hosted-by-vdsina.ru CNAME .
+v1.lifeym.xyz CNAME .
 v2-1.huwenqiang.xyz CNAME .
 v2rich.eu.org CNAME .
 v2.xx3210766.live CNAME .
@@ -3527,7 +3534,6 @@ ychen.cf CNAME .
 ychen.ga CNAME .
 ychen.gq CNAME .
 yeralin.net CNAME .
-yh.hk1.shuaib.icu CNAME .
 ymjx.shimmerl.top CNAME .
 ymq01.dnscry.pt CNAME .
 yory2cave.hopto.me CNAME .
