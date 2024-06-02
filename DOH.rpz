@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2406010137 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2406020202 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2024-06-01 01:37:55 (UTC)
+; Last updated: 2024-06-02 02:02:18 (UTC)
 ;
 ; See https://jpgpi250.github.io/piholemanual/doc/Unbound%20response%20policy%20zones.pdf
 ; Report issues at https://github.com/jpgpi250/piholemanual/issues
@@ -66,7 +66,6 @@ abel.waringer-atg.de CNAME .
 a-bld.sys-adm.in CNAME .
 ablock.fuckit.ovh CNAME .
 abluehope.com CNAME .
-abstergo.it CNAME .
 acomit.lk CNAME .
 ad1guard.duckdns.org CNAME .
 ad1.heronet.nl CNAME .
@@ -1335,7 +1334,6 @@ dns.molinero.dev CNAME .
 dns.moog.sh CNAME .
 dns.moonssif.com CNAME .
 dns.moonwx.net CNAME .
-dns.mos.kim CNAME .
 dns.motazhakim.com CNAME .
 dns.moulticast.net CNAME .
 dns.mrkaran.dev CNAME .
@@ -2034,6 +2032,7 @@ exns1.exalto.nu CNAME .
 extended.dns.mullvad.net CNAME .
 externalmobiel.lekdijk.online CNAME .
 eyg01.dnscry.pt CNAME .
+f03a0e2fa9f5.sn.mynetname.net CNAME .
 f1.dns.s3cure.me CNAME .
 f2-dns.asuzac.com.vn CNAME .
 family.5ososea.com CNAME .
@@ -2118,7 +2117,6 @@ fwgw.orangepipc.mywire.org CNAME .
 gaia.plonknet.com CNAME .
 galileo.math.unipd.it CNAME .
 gandhico2.duckdns.org CNAME .
-gateway.baltes.info CNAME .
 gateway.fomichev.cloud CNAME .
 gauss.pp.ua CNAME .
 gb-bir-w-1.nashkan.net CNAME .
@@ -2491,7 +2489,6 @@ mask.apple-dns.net CNAME .
 mask-h2.icloud.com CNAME .
 mask.icloud.com CNAME .
 m-asm.circumitor.de CNAME .
-master.dns.xieke.org CNAME .
 mastergad.me CNAME .
 masters-of-cloud.de CNAME .
 math.netlab.my.id CNAME .
@@ -2515,8 +2512,6 @@ mia.dns4sec.com CNAME .
 mikatos.de CNAME .
 mikewaddick.com CNAME .
 mil01.dnscry.pt CNAME .
-mimile.despagne.net CNAME .
-mimile.despagne.ovh CNAME .
 minilla.store CNAME .
 mkvvpssrv12.freemyip.com CNAME .
 m.myspace.sbs CNAME .
@@ -2605,7 +2600,6 @@ nl.adg.ghostzone.wtf CNAME .
 nl-ams2.doh.sb CNAME .
 nl-ams.doh.sb CNAME .
 nl-ams-w-3.nashkan.net CNAME .
-nlb.gbrossi.com.br CNAME .
 nl-dro-w-f-1.nashkan.net CNAME .
 nl-dro-w-p-1.nashkan.net CNAME .
 nlname.freecdn.one CNAME .
@@ -2844,6 +2838,7 @@ pukanuragan.ru CNAME .
 punono.duckdns.org CNAME .
 puredns.org CNAME .
 pure.sunnygyl.com CNAME .
+pvt-dns.relay.ovpn.bond CNAME .
 q3i6k7j3.stackpathcdn.com CNAME .
 qaz.tw CNAME .
 qbak.no-ip.eu CNAME .
@@ -3534,6 +3529,7 @@ ychen.cf CNAME .
 ychen.ga CNAME .
 ychen.gq CNAME .
 yeralin.net CNAME .
+yh.hk1.shuaib.icu CNAME .
 ymjx.shimmerl.top CNAME .
 ymq01.dnscry.pt CNAME .
 yory2cave.hopto.me CNAME .
