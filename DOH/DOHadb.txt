@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2024-05-31 02:05:21 (UTC)
+! Last updated: 2024-06-01 01:52:14 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -20,7 +20,6 @@
 ||1.11i.eu^
 ||15101844.xyz^
 ||180.0rz.space^
-||19a8b89bb6b2491ca5cccbeb0e84a4c4.pacloudflare.com^
 ||1and1-dns.de^
 ||1a.ns.ozer.im^
 ||1b.ns.ozer.im^
@@ -530,6 +529,7 @@
 ||beacon.fengli.love^
 ||beautifullife.eu.org^
 ||beautifulthings.eu.org^
+||bemag.app^
 ||berd.moe^
 ||bev.dns.walshnet.co.uk^
 ||b.family.ns.dnslify.com^
@@ -615,6 +615,7 @@
 ||ch01adguardho.me^
 ||chandr1000.net^
 ||changesmart2024.top^
+||chanhome.xyz^
 ||chaos-system.de^
 ||chenrouter.chironys.com^
 ||chewbacca.meganerd.nl^
@@ -2029,7 +2030,6 @@
 ||extended.dns.mullvad.net^
 ||externalmobiel.lekdijk.online^
 ||eyg01.dnscry.pt^
-||f03a0e2fa9f5.sn.mynetname.net^
 ||f1.dns.s3cure.me^
 ||f2-dns.asuzac.com.vn^
 ||family.5ososea.com^
@@ -2487,6 +2487,7 @@
 ||mask-h2.icloud.com^
 ||mask.icloud.com^
 ||m-asm.circumitor.de^
+||master.dns.xieke.org^
 ||mastergad.me^
 ||masters-of-cloud.de^
 ||math.netlab.my.id^
@@ -2510,6 +2511,8 @@
 ||mikatos.de^
 ||mikewaddick.com^
 ||mil01.dnscry.pt^
+||mimile.despagne.net^
+||mimile.despagne.ovh^
 ||minilla.store^
 ||mkvvpssrv12.freemyip.com^
 ||m.myspace.sbs^
@@ -2525,6 +2528,7 @@
 ||mr-romero.com^
 ||mru01.dnscry.pt^
 ||msr177.com^
+||mtdz.duckdns.org^
 ||muc01.dnscry.pt^
 ||muc-ns01.ibytex.systems^
 ||muli.stusta.mhn.de^
@@ -2836,7 +2840,6 @@
 ||punono.duckdns.org^
 ||puredns.org^
 ||pure.sunnygyl.com^
-||pvt-dns-cloud.relay.ovpn.bond^
 ||q3i6k7j3.stackpathcdn.com^
 ||qaz.tw^
 ||qbak.no-ip.eu^
@@ -3001,6 +3004,7 @@
 ||server01.vboekel.nl^
 ||server03.dr-adguard.de^
 ||server.felixf.eu^
+||servernation.xyz^
 ||server.pragmasec.nl^
 ||serverrmha1.ddnsku.my.id^
 ||server.spirio.fr^
@@ -3074,6 +3078,7 @@
 ||srgaghome.freemyip.com^
 ||sriedmueadguard.casa^
 ||srv1.web-mx.eu^
+||srv2.bartoszturek.online^
 ||srv5.jiripocta.cz^
 ||srv-revprox-01.atakorah.com^
 ||ss.0001.xyz^
@@ -3098,6 +3103,7 @@
 ||surt.ovh^
 ||surve.dehb.ru^
 ||sv3.minhduc.pw^
+||svc2.diarbagus.id^
 ||svg33.eu^
 ||swe3.svoim.online^
 ||sweden.1vpn.fun^
@@ -3242,6 +3248,7 @@
 ||uw-dns.rubyfish.cn^
 ||ux.go20.cf^
 ||v1552270.hosted-by-vdsina.ru^
+||v1.lifeym.xyz^
 ||v2-1.huwenqiang.xyz^
 ||v2rich.eu.org^
 ||v2.xx3210766.live^
@@ -3523,7 +3530,6 @@
 ||ychen.ga^
 ||ychen.gq^
 ||yeralin.net^
-||yh.hk1.shuaib.icu^
 ||ymjx.shimmerl.top^
 ||ymq01.dnscry.pt^
 ||yory2cave.hopto.me^
