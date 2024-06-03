@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2024-06-01 01:52:14 (UTC)
+! Last updated: 2024-06-02 02:16:36 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -62,7 +62,6 @@
 ||a-bld.sys-adm.in^
 ||ablock.fuckit.ovh^
 ||abluehope.com^
-||abstergo.it^
 ||acomit.lk^
 ||ad1guard.duckdns.org^
 ||ad1.heronet.nl^
@@ -1331,7 +1330,6 @@
 ||dns.moog.sh^
 ||dns.moonssif.com^
 ||dns.moonwx.net^
-||dns.mos.kim^
 ||dns.motazhakim.com^
 ||dns.moulticast.net^
 ||dns.mrkaran.dev^
@@ -2030,6 +2028,7 @@
 ||extended.dns.mullvad.net^
 ||externalmobiel.lekdijk.online^
 ||eyg01.dnscry.pt^
+||f03a0e2fa9f5.sn.mynetname.net^
 ||f1.dns.s3cure.me^
 ||f2-dns.asuzac.com.vn^
 ||family.5ososea.com^
@@ -2114,7 +2113,6 @@
 ||gaia.plonknet.com^
 ||galileo.math.unipd.it^
 ||gandhico2.duckdns.org^
-||gateway.baltes.info^
 ||gateway.fomichev.cloud^
 ||gauss.pp.ua^
 ||gb-bir-w-1.nashkan.net^
@@ -2487,7 +2485,6 @@
 ||mask-h2.icloud.com^
 ||mask.icloud.com^
 ||m-asm.circumitor.de^
-||master.dns.xieke.org^
 ||mastergad.me^
 ||masters-of-cloud.de^
 ||math.netlab.my.id^
@@ -2511,8 +2508,6 @@
 ||mikatos.de^
 ||mikewaddick.com^
 ||mil01.dnscry.pt^
-||mimile.despagne.net^
-||mimile.despagne.ovh^
 ||minilla.store^
 ||mkvvpssrv12.freemyip.com^
 ||m.myspace.sbs^
@@ -2601,7 +2596,6 @@
 ||nl-ams2.doh.sb^
 ||nl-ams.doh.sb^
 ||nl-ams-w-3.nashkan.net^
-||nlb.gbrossi.com.br^
 ||nl-dro-w-f-1.nashkan.net^
 ||nl-dro-w-p-1.nashkan.net^
 ||nlname.freecdn.one^
@@ -2840,6 +2834,7 @@
 ||punono.duckdns.org^
 ||puredns.org^
 ||pure.sunnygyl.com^
+||pvt-dns.relay.ovpn.bond^
 ||q3i6k7j3.stackpathcdn.com^
 ||qaz.tw^
 ||qbak.no-ip.eu^
@@ -3530,6 +3525,7 @@
 ||ychen.ga^
 ||ychen.gq^
 ||yeralin.net^
+||yh.hk1.shuaib.icu^
 ||ymjx.shimmerl.top^
 ||ymq01.dnscry.pt^
 ||yory2cave.hopto.me^
