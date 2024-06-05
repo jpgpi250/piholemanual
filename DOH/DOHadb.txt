@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2024-06-03 02:18:16 (UTC)
+! Last updated: 2024-06-04 02:35:47 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -1333,6 +1333,7 @@
 ||dns.moog.sh^
 ||dns.moonssif.com^
 ||dns.moonwx.net^
+||dns.mos.kim^
 ||dns.motazhakim.com^
 ||dns.moulticast.net^
 ||dns.mrkaran.dev^
@@ -1978,6 +1979,7 @@
 ||ds3617xs.jojo1204.xyz^
 ||d.toairs.com^
 ||dtw01.dnscry.pt^
+||dub01.dnscry.pt^
 ||dugout.dns.walshnet.co.uk^
 ||dukun.de^
 ||dupatruwi22.fun^
@@ -2011,7 +2013,6 @@
 ||emby.rasp.tv^
 ||emmmmm.me^
 ||eoin.dns.walshnet.co.uk^
-||epyc.digineo.de^
 ||eropa.dnscepat.id^
 ||erroring.ignorelist.com^
 ||esel.stusta.mhn.de^
@@ -2031,6 +2032,7 @@
 ||extended.dns.mullvad.net^
 ||externalmobiel.lekdijk.online^
 ||eyg01.dnscry.pt^
+||f03a0e2fa9f5.sn.mynetname.net^
 ||f1.dns.s3cure.me^
 ||f2-dns.asuzac.com.vn^
 ||family.5ososea.com^
@@ -2088,7 +2090,6 @@
 ||fra.core.access.zznet.fun^
 ||fra-dns.bitdefender.net^
 ||frank-web.dedyn.io^
-||fra-oracle-1.hosts.dada.li^
 ||fr-dns1.bancuh.com^
 ||fr-dns2.bancuh.com^
 ||free.bravedns.com^
@@ -2115,6 +2116,7 @@
 ||gaia.plonknet.com^
 ||galileo.math.unipd.it^
 ||gandhico2.duckdns.org^
+||gateway.baltes.info^
 ||gateway.fomichev.cloud^
 ||gauss.pp.ua^
 ||gb-bir-w-1.nashkan.net^
@@ -2170,6 +2172,8 @@
 ||gusald.com^
 ||gustamadh.dynv6.net^
 ||gva01.dnscry.pt^
+||gw-nl02.brueggus.de^
+||gw-no.brueggus.de^
 ||gzdns.lyjfy.cn^
 ||gztech.me^
 ||hahnjo.de^
@@ -2777,6 +2781,7 @@
 ||pi.adblocker.eu.org^
 ||pi.daryllswer.net^
 ||pi-dns.gordon81.com^
+||piekacz.pl^
 ||pihole1.hoerli.net^
 ||pihole2.hoerli.net^
 ||pihole3.hoerli.net^
@@ -3129,7 +3134,6 @@
 ||testguard.meexx.de^
 ||tetra.aeins.at^
 ||tezoi.duckdns.org^
-||tg2a7d4.glddns.com^
 ||thanos.pleumkungz.com^
 ||thefamilypuls.com^
 ||tienpham.id.vn^
@@ -3291,6 +3295,7 @@
 ||vova.vd.i81.ru^
 ||vova.vpn.i81.ru^
 ||voyage-s01.cloudku.technology^
+||voyage-s02.cloudku.technology^
 ||vpn0109.voodonline.fr^
 ||vpn.1xtrm.com^
 ||vpn.adrielso.tec.br^
@@ -3334,8 +3339,6 @@
 ||vps266.brueggus.de^
 ||vps281.brueggus.de^
 ||vps283.brueggus.de^
-||vps284.brueggus.de^
-||vps285.brueggus.de^
 ||vps294.brueggus.de^
 ||vps297.brueggus.de^
 ||vps298.brueggus.de^
@@ -3388,6 +3391,7 @@
 ||vps357.brueggus.de^
 ||vps359.brueggus.de^
 ||vps362.brueggus.de^
+||vps366.brueggus.de^
 ||vps4.scho.io^
 ||vps66.brueggus.de^
 ||vps.abgnetwork.es^
@@ -3526,7 +3530,6 @@
 ||ychen.ga^
 ||ychen.gq^
 ||yeralin.net^
-||yh.hk1.shuaib.icu^
 ||ymjx.shimmerl.top^
 ||ymq01.dnscry.pt^
 ||yory2cave.hopto.me^
