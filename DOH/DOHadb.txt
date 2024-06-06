@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2024-06-04 02:35:47 (UTC)
+! Last updated: 2024-06-05 02:03:25 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -20,6 +20,7 @@
 ||1.11i.eu^
 ||15101844.xyz^
 ||180.0rz.space^
+||19a8b89bb6b2491ca5cccbeb0e84a4c4.pacloudflare.com^
 ||1and1-dns.de^
 ||1a.ns.ozer.im^
 ||1b.ns.ozer.im^
@@ -62,6 +63,7 @@
 ||a-bld.sys-adm.in^
 ||ablock.fuckit.ovh^
 ||abluehope.com^
+||abn01.dnscry.pt^
 ||abstergo.it^
 ||acomit.lk^
 ||ad1guard.duckdns.org^
@@ -481,6 +483,7 @@
 ||astra.ender.fr^
 ||atelier.alica.idv.tw^
 ||a.tgzazas.top^
+||ath01.dnscry.pt^
 ||atl01.dnscry.pt^
 ||atlantic.dyn1.de^
 ||at.pzhg.me^
@@ -658,6 +661,7 @@
 ||console.carestyle.org^
 ||contacts.dehb.ru^
 ||cossxiu.ga^
+||cph01.dnscry.pt^
 ||cpux.ru^
 ||cqd.duckdns.org^
 ||cqoda.shrub.cfd^
@@ -1333,7 +1337,6 @@
 ||dns.moog.sh^
 ||dns.moonssif.com^
 ||dns.moonwx.net^
-||dns.mos.kim^
 ||dns.motazhakim.com^
 ||dns.moulticast.net^
 ||dns.mrkaran.dev^
@@ -1432,6 +1435,7 @@
 ||dns.philqoo.com^
 ||dns.phucbui.top^
 ||dns.pieterdherde.com^
+||dns.pietjacobs.be^
 ||dns.pine-home.de^
 ||dns.ple91.uk^
 ||dns.pmxu.link^
@@ -2032,7 +2036,6 @@
 ||extended.dns.mullvad.net^
 ||externalmobiel.lekdijk.online^
 ||eyg01.dnscry.pt^
-||f03a0e2fa9f5.sn.mynetname.net^
 ||f1.dns.s3cure.me^
 ||f2-dns.asuzac.com.vn^
 ||family.5ososea.com^
@@ -2090,6 +2093,7 @@
 ||fra.core.access.zznet.fun^
 ||fra-dns.bitdefender.net^
 ||frank-web.dedyn.io^
+||fra-oracle-1.hosts.dada.li^
 ||fr-dns1.bancuh.com^
 ||fr-dns2.bancuh.com^
 ||free.bravedns.com^
@@ -2446,6 +2450,7 @@
 ||llk01.dnscry.pt^
 ||llull.duckdns.org^
 ||local.sufly.top^
+||lo.cl.ns.ovpn.bond^
 ||logs.danamas.net^
 ||lomoff.spb.ru^
 ||lon01.dnscry.pt^
@@ -2604,6 +2609,7 @@
 ||nl-ams2.doh.sb^
 ||nl-ams.doh.sb^
 ||nl-ams-w-3.nashkan.net^
+||nlb.gbrossi.com.br^
 ||nl-dro-w-f-1.nashkan.net^
 ||nl-dro-w-p-1.nashkan.net^
 ||nlname.freecdn.one^
@@ -2751,7 +2757,6 @@
 ||p3.freedns.controld.com^
 ||pad3w.pp.ua^
 ||padermail.net^
-||pages.dev^
 ||paimon.sev.monster^
 ||par01.dnscry.pt^
 ||paranoia.mydns.network^
@@ -3287,6 +3292,7 @@
 ||vmok.ru^
 ||vn.dns.abpvn.com^
 ||vn-hcm-w-1.nashkan.net^
+||vno01.dnscry.pt^
 ||volkens.services^
 ||vova.hr.i81.ru^
 ||vovale.hr.i81.ru^
@@ -3356,6 +3362,7 @@
 ||vps310.brueggus.de^
 ||vps311.brueggus.de^
 ||vps312.brueggus.de^
+||vps313.brueggus.de^
 ||vps314.brueggus.de^
 ||vps317.brueggus.de^
 ||vps322.brueggus.de^
@@ -3391,7 +3398,11 @@
 ||vps357.brueggus.de^
 ||vps359.brueggus.de^
 ||vps362.brueggus.de^
+||vps363.brueggus.de^
+||vps365.brueggus.de^
 ||vps366.brueggus.de^
+||vps367.brueggus.de^
+||vps368.brueggus.de^
 ||vps4.scho.io^
 ||vps66.brueggus.de^
 ||vps.abgnetwork.es^
@@ -3530,6 +3541,7 @@
 ||ychen.ga^
 ||ychen.gq^
 ||yeralin.net^
+||yh.hk1.shuaib.icu^
 ||ymjx.shimmerl.top^
 ||ymq01.dnscry.pt^
 ||yory2cave.hopto.me^
