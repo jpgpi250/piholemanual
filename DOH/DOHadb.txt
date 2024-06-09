@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2024-06-07 02:22:47 (UTC)
+! Last updated: 2024-06-08 02:13:36 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -389,6 +389,7 @@
 ||agh.broaddy.com^
 ||agh.doubleatech.site^
 ||agh.dshubham.xyz^
+||agh.ero-sayhi.com^
 ||agh.fltn.us^
 ||agh.josephyap.me^
 ||agh.kul-lippek.de^
@@ -451,7 +452,6 @@
 ||a.ns.dnslify.com^
 ||antarlangit.my.id^
 ||ant.dns.qwer.pw^
-||antidns.s.tuna.tsinghua.edu.cn^
 ||antivirus.bebasid.com^
 ||anycast.censurfridns.dk^
 ||anycast.censurfridns.nu^
@@ -463,6 +463,7 @@
 ||api.cloudflareclient.com^
 ||apne1.dns.terumi.club^
 ||appart.yoannchappaz.best^
+||applied-privacy.net^
 ||aqua.is.my.waifu.cz^
 ||arashi.eu.org^
 ||arashi.solutions^
@@ -724,12 +725,14 @@
 ||dev.gonnadive.com^
 ||deweerd.loseyourip.com^
 ||dff029179c4246e385296ea8de0b8eb8.pacloudflare.com^
+||dfw01.dnscry.pt^
 ||dfw02.dnscry.pt^
 ||d.gametechnet.com^
 ||dgca.myds.me^
 ||d.hansj.cc^
 ||dhlifeus-micro1.dns.3456.kr^
 ||d.hxhd.cc^
+||digitale-gesellschaft.ch^
 ||disbish.com^
 ||diskstation.alexpollard.net^
 ||dk-cop-w-1.nashkan.net^
@@ -767,6 +770,7 @@
 ||dns1.digitale-gesellschaft.ch^
 ||dns1.dnscrypt.ca^
 ||dns1.gdie.top^
+||dns1.hanahira.dev^
 ||dns1.in-berlin.de^
 ||dns1.in.newpangea.de^
 ||dns1.irumatech.com^
@@ -964,7 +968,6 @@
 ||dns.caksono.com^
 ||dns.carson-family.com^
 ||dns.carter.me^
-||dns.cctld.kg^
 ||dnscdn.bai0012.com^
 ||dns.ceai.com.tw^
 ||dns.cfiec.net^
@@ -1104,6 +1107,7 @@
 ||dns.faze.dev^
 ||dns.fb.i81.ru^
 ||dns.fc.idv.tw^
+||dns.feldy.my.id^
 ||dns.felipefalcao.tech^
 ||dns.fifux.be^
 ||dns.filipccz.eu^
@@ -1321,6 +1325,7 @@
 ||dns.mipauns.com^
 ||dns.mlxysf.pp.ua^
 ||dns.mnet-online.de^
+||dns.mni.li^
 ||dns.mo0on15.com^
 ||dns.mocn.top^
 ||dns.molinero.dev^
@@ -1348,6 +1353,7 @@
 ||dns.neilzone.co.uk^
 ||dns.nekofish.cc^
 ||dns.neonteam.cc^
+||dns.neowutran.ovh^
 ||dns.nerdytechgeeks.co.za^
 ||dns.netraptor.com.au^
 ||dns.netrve.net^
@@ -1697,13 +1703,11 @@
 ||doh1.alidns.com^
 ||doh1.b-cdn.net^
 ||doh1.blahdns.com^
-||doh1.dnswarden.com^
 ||doh.233py.com^
 ||doh2.abmb.win^
 ||doh2.almir1904.eu^
 ||doh2.b-cdn.net^
 ||doh2.blahdns.com^
-||doh2.dnswarden.com^
 ||doh2.gslb2.xfinity.com^
 ||doh.2kil.com^
 ||doh-2.seby.io^
@@ -1711,9 +1715,11 @@
 ||doh.360.cn^
 ||doh3.almir1904.eu^
 ||doh.42l.fr^
+||doh.978159.xyz^
 ||doh.aaaab3n.moe^
 ||doh.abmb.win^
 ||doh.abraservice.xyz^
+||doh.airwaynet.cz^
 ||doh.alidns.com^
 ||doh.almir1904.eu^
 ||doh.amonsul.net^
@@ -1757,6 +1763,7 @@
 ||doh-de.blahdns.com^
 ||doh.de.blahdns.com^
 ||doh.defaultroutes.de^
+||doh.denypradana.com^
 ||doh.disconnect.app^
 ||doh.dl4mt.cn^
 ||doh.dns1.lonet.org^
@@ -1900,6 +1907,7 @@
 ||doh.xyz^
 ||doh.zephyrsec.cfd^
 ||doh.zephyrus.id^
+||doh.zln.wtf^
 ||domburg.beruys.com^
 ||domen-dns.ru^
 ||domeq.waw.pl^
@@ -2000,7 +2008,6 @@
 ||emby.rasp.tv^
 ||emmmmm.me^
 ||eoin.dns.walshnet.co.uk^
-||epyc.digineo.de^
 ||eropa.dnscepat.id^
 ||erroring.ignorelist.com^
 ||esel.stusta.mhn.de^
@@ -2102,7 +2109,7 @@
 ||fwgw.orangepipc.mywire.org^
 ||gaia.plonknet.com^
 ||galileo.math.unipd.it^
-||gandhico2.duckdns.org^
+||gateway.baltes.info^
 ||gateway.fomichev.cloud^
 ||gauss.pp.ua^
 ||gb-bir-w-1.nashkan.net^
@@ -2272,6 +2279,7 @@
 ||internetsehat.bebasid.com^
 ||intertop.link^
 ||invidious.arashi.solutions^
+||io.cdn.ovpn.bond^
 ||iofixdns1.duckdns.org^
 ||iofixdns2.duckdns.org^
 ||iot-dns.com^
@@ -2827,7 +2835,6 @@
 ||punono.duckdns.org^
 ||puredns.org^
 ||pure.sunnygyl.com^
-||pvt_dns_cli.cloud.ovpn.bond^
 ||q3i6k7j3.stackpathcdn.com^
 ||qaz.tw^
 ||qbak.no-ip.eu^
@@ -3118,7 +3125,6 @@
 ||testguard.meexx.de^
 ||tetra.aeins.at^
 ||tezoi.duckdns.org^
-||tg2a7d4.glddns.com^
 ||thanos.pleumkungz.com^
 ||thefamilypuls.com^
 ||tienpham.id.vn^
@@ -3515,6 +3521,7 @@
 ||y3suyx0cg2lewi2dmn.advaitghaisas.in^
 ||yanggan.eu.org^
 ||yarp.lefolgoc.net^
+||ycg01.dnscry.pt^
 ||ychen.cf^
 ||ychen.ga^
 ||ychen.gq^
