@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2406090205 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2406100136 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2024-06-09 02:05:22 (UTC)
+; Last updated: 2024-06-10 01:36:59 (UTC)
 ;
 ; See https://jpgpi250.github.io/piholemanual/doc/Unbound%20response%20policy%20zones.pdf
 ; Report issues at https://github.com/jpgpi250/piholemanual/issues
@@ -456,7 +456,6 @@ an.loliconapp.top CNAME .
 a.ns.dnslify.com CNAME .
 antarlangit.my.id CNAME .
 ant.dns.qwer.pw CNAME .
-antidns.s.tuna.tsinghua.edu.cn CNAME .
 antivirus.bebasid.com CNAME .
 anycast.censurfridns.dk CNAME .
 anycast.censurfridns.nu CNAME .
@@ -2033,6 +2032,7 @@ exns1.exalto.nu CNAME .
 extended.dns.mullvad.net CNAME .
 externalmobiel.lekdijk.online CNAME .
 eyg01.dnscry.pt CNAME .
+f03a0e2fa9f5.sn.mynetname.net CNAME .
 f1.dns.s3cure.me CNAME .
 f2-dns.asuzac.com.vn CNAME .
 family.5ososea.com CNAME .
@@ -2116,6 +2116,7 @@ fwgw.orangepipc.mywire.org CNAME .
 gaia.plonknet.com CNAME .
 galileo.math.unipd.it CNAME .
 gandhico2.duckdns.org CNAME .
+gateway.baltes.info CNAME .
 gateway.fomichev.cloud CNAME .
 gauss.pp.ua CNAME .
 gb-bir-w-1.nashkan.net CNAME .
@@ -2555,6 +2556,7 @@ n.3363.net CNAME .
 n5.lsasss.com CNAME .
 na.ash.adguard.01.joshseveros.network CNAME .
 naganohara-yoimiya.momokko.moe CNAME .
+nana-is.so-gorgeo.us.kg CNAME .
 nanopi.cybergroove.net CNAME .
 na.phx.adguard.01.joshseveros.network CNAME .
 nas1403.duckdns.org CNAME .
@@ -2685,7 +2687,7 @@ ntu.ssooss.win CNAME .
 nudnud.com CNAME .
 nue01.dnscry.pt CNAME .
 nue2.moderateinfra.net CNAME .
-nukys.ca CNAME .
+nukys.hopto.org CNAME .
 nvi-dns.bitdefender.net CNAME .
 n-wan.dynv6.net CNAME .
 ny1.nixnet.xyz CNAME .
@@ -3351,6 +3353,7 @@ vps309.brueggus.de CNAME .
 vps310.brueggus.de CNAME .
 vps311.brueggus.de CNAME .
 vps312.brueggus.de CNAME .
+vps313.brueggus.de CNAME .
 vps314.brueggus.de CNAME .
 vps317.brueggus.de CNAME .
 vps322.brueggus.de CNAME .
