@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2406100136 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2406110140 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2024-06-10 01:36:59 (UTC)
+; Last updated: 2024-06-11 01:40:06 (UTC)
 ;
 ; See https://jpgpi250.github.io/piholemanual/doc/Unbound%20response%20policy%20zones.pdf
 ; Report issues at https://github.com/jpgpi250/piholemanual/issues
@@ -25,7 +25,6 @@ $TTL 30
 1.11i.eu CNAME .
 15101844.xyz CNAME .
 180.0rz.space CNAME .
-19a8b89bb6b2491ca5cccbeb0e84a4c4.pacloudflare.com CNAME .
 1and1-dns.de CNAME .
 1a.ns.ozer.im CNAME .
 1b.ns.ozer.im CNAME .
@@ -518,6 +517,7 @@ azure.cloudflare-dns.com CNAME .
 azure.quydang.name.vn CNAME .
 azure.razor1911.xyz CNAME .
 bacer.msk.ru CNAME .
+backup-cname.bebasid.com CNAME .
 baedns.duckdns.org CNAME .
 bahopir188.dnshome.de CNAME .
 banhmiboyzzz.com CNAME .
@@ -2115,7 +2115,6 @@ fvpn.jarvishome.ru CNAME .
 fwgw.orangepipc.mywire.org CNAME .
 gaia.plonknet.com CNAME .
 galileo.math.unipd.it CNAME .
-gandhico2.duckdns.org CNAME .
 gateway.baltes.info CNAME .
 gateway.fomichev.cloud CNAME .
 gauss.pp.ua CNAME .
@@ -2379,7 +2378,6 @@ kirnet.ru CNAME .
 kirov.v6.rocks CNAME .
 kiv01.dnscry.pt CNAME .
 kiwifunke.duckdns.org CNAME .
-kk.sshub.win CNAME .
 knight1.de CNAME .
 knowvibe.tech CNAME .
 kokesh.se CNAME .
@@ -2461,6 +2459,7 @@ lt-vil-w-3.nashkan.net CNAME .
 luba.hr.i81.ru CNAME .
 luba.vd.i81.ru CNAME .
 luba.vpn.i81.ru CNAME .
+luna-is.so-gorgeo.us.kg CNAME .
 lux1.nixnet.xyz CNAME .
 lux.sn0w.nl CNAME .
 lv1.nixnet.xyz CNAME .
@@ -2475,7 +2474,6 @@ mail.data.haus CNAME .
 mailer.amlegion.org CNAME .
 mailkyb.co CNAME .
 mail.pragmasec.nl CNAME .
-mail.strassmair.org CNAME .
 mail.vik.ro CNAME .
 mainframe.dewed.de CNAME .
 main.zhhz.cc CNAME .
@@ -2811,6 +2809,7 @@ ppmanu.ddns.net CNAME .
 pqh.ddns.net CNAME .
 premiumtier-network.instadart.net CNAME .
 preview.dnsteam.globuscs.info CNAME .
+princez.uk CNAME .
 privacydns.go6lab.si CNAME .
 privacy.plumedns.com CNAME .
 private.adguard.wessels-net.nl CNAME .
@@ -3081,7 +3080,6 @@ sradg.eastus.cloudapp.azure.com CNAME .
 srgaghome.freemyip.com CNAME .
 sriedmueadguard.casa CNAME .
 srv1.web-mx.eu CNAME .
-srv2.bartoszturek.online CNAME .
 srv5.jiripocta.cz CNAME .
 srv-revprox-01.atakorah.com CNAME .
 ss.0001.xyz CNAME .
@@ -3119,7 +3117,6 @@ t2c.240130034.xyz CNAME .
 tablet-matthias.dns.internal.espresso-tasse.de CNAME .
 takhtakh.domyah.net CNAME .
 tartanbahn.eu.org CNAME .
-td-doh.dns.t53.de CNAME .
 telex.app CNAME .
 terminalpower.top CNAME .
 teslacoils.org.uk CNAME .
@@ -3132,6 +3129,7 @@ testaghome.meshkov.info CNAME .
 test.dnsteam.globuscs.info CNAME .
 testguard.meexx.de CNAME .
 tetra.aeins.at CNAME .
+tetty-is.so-gorgeo.us.kg CNAME .
 tezoi.duckdns.org CNAME .
 thanos.pleumkungz.com CNAME .
 thefamilypuls.com CNAME .
@@ -3550,6 +3548,7 @@ yunyun.is.my.waifu.cz CNAME .
 yuripe.ccnt.fr CNAME .
 yyz01.dnscry.pt CNAME .
 zabolotskikh.dev CNAME .
+zakaria.website CNAME .
 zal01.dnscry.pt CNAME .
 zalizman.com CNAME .
 zanty123456.myasustor.com CNAME .
