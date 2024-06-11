@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2024-06-09 02:19:44 (UTC)
+! Last updated: 2024-06-10 01:51:20 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -452,7 +452,6 @@
 ||a.ns.dnslify.com^
 ||antarlangit.my.id^
 ||ant.dns.qwer.pw^
-||antidns.s.tuna.tsinghua.edu.cn^
 ||antivirus.bebasid.com^
 ||anycast.censurfridns.dk^
 ||anycast.censurfridns.nu^
@@ -2029,6 +2028,7 @@
 ||extended.dns.mullvad.net^
 ||externalmobiel.lekdijk.online^
 ||eyg01.dnscry.pt^
+||f03a0e2fa9f5.sn.mynetname.net^
 ||f1.dns.s3cure.me^
 ||f2-dns.asuzac.com.vn^
 ||family.5ososea.com^
@@ -2112,6 +2112,7 @@
 ||gaia.plonknet.com^
 ||galileo.math.unipd.it^
 ||gandhico2.duckdns.org^
+||gateway.baltes.info^
 ||gateway.fomichev.cloud^
 ||gauss.pp.ua^
 ||gb-bir-w-1.nashkan.net^
@@ -2551,6 +2552,7 @@
 ||n5.lsasss.com^
 ||na.ash.adguard.01.joshseveros.network^
 ||naganohara-yoimiya.momokko.moe^
+||nana-is.so-gorgeo.us.kg^
 ||nanopi.cybergroove.net^
 ||na.phx.adguard.01.joshseveros.network^
 ||nas1403.duckdns.org^
@@ -2681,7 +2683,7 @@
 ||nudnud.com^
 ||nue01.dnscry.pt^
 ||nue2.moderateinfra.net^
-||nukys.ca^
+||nukys.hopto.org^
 ||nvi-dns.bitdefender.net^
 ||n-wan.dynv6.net^
 ||ny1.nixnet.xyz^
@@ -3347,6 +3349,7 @@
 ||vps310.brueggus.de^
 ||vps311.brueggus.de^
 ||vps312.brueggus.de^
+||vps313.brueggus.de^
 ||vps314.brueggus.de^
 ||vps317.brueggus.de^
 ||vps322.brueggus.de^
