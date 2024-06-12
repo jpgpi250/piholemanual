@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2024-06-10 01:51:20 (UTC)
+! Last updated: 2024-06-11 01:54:23 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -21,7 +21,6 @@
 ||1.11i.eu^
 ||15101844.xyz^
 ||180.0rz.space^
-||19a8b89bb6b2491ca5cccbeb0e84a4c4.pacloudflare.com^
 ||1and1-dns.de^
 ||1a.ns.ozer.im^
 ||1b.ns.ozer.im^
@@ -514,6 +513,7 @@
 ||azure.quydang.name.vn^
 ||azure.razor1911.xyz^
 ||bacer.msk.ru^
+||backup-cname.bebasid.com^
 ||baedns.duckdns.org^
 ||bahopir188.dnshome.de^
 ||banhmiboyzzz.com^
@@ -2111,7 +2111,6 @@
 ||fwgw.orangepipc.mywire.org^
 ||gaia.plonknet.com^
 ||galileo.math.unipd.it^
-||gandhico2.duckdns.org^
 ||gateway.baltes.info^
 ||gateway.fomichev.cloud^
 ||gauss.pp.ua^
@@ -2375,7 +2374,6 @@
 ||kirov.v6.rocks^
 ||kiv01.dnscry.pt^
 ||kiwifunke.duckdns.org^
-||kk.sshub.win^
 ||knight1.de^
 ||knowvibe.tech^
 ||kokesh.se^
@@ -2457,6 +2455,7 @@
 ||luba.hr.i81.ru^
 ||luba.vd.i81.ru^
 ||luba.vpn.i81.ru^
+||luna-is.so-gorgeo.us.kg^
 ||lux1.nixnet.xyz^
 ||lux.sn0w.nl^
 ||lv1.nixnet.xyz^
@@ -2471,7 +2470,6 @@
 ||mailer.amlegion.org^
 ||mailkyb.co^
 ||mail.pragmasec.nl^
-||mail.strassmair.org^
 ||mail.vik.ro^
 ||mainframe.dewed.de^
 ||main.zhhz.cc^
@@ -2807,6 +2805,7 @@
 ||pqh.ddns.net^
 ||premiumtier-network.instadart.net^
 ||preview.dnsteam.globuscs.info^
+||princez.uk^
 ||privacydns.go6lab.si^
 ||privacy.plumedns.com^
 ||private.adguard.wessels-net.nl^
@@ -3077,7 +3076,6 @@
 ||srgaghome.freemyip.com^
 ||sriedmueadguard.casa^
 ||srv1.web-mx.eu^
-||srv2.bartoszturek.online^
 ||srv5.jiripocta.cz^
 ||srv-revprox-01.atakorah.com^
 ||ss.0001.xyz^
@@ -3115,7 +3113,6 @@
 ||tablet-matthias.dns.internal.espresso-tasse.de^
 ||takhtakh.domyah.net^
 ||tartanbahn.eu.org^
-||td-doh.dns.t53.de^
 ||telex.app^
 ||terminalpower.top^
 ||teslacoils.org.uk^
@@ -3128,6 +3125,7 @@
 ||test.dnsteam.globuscs.info^
 ||testguard.meexx.de^
 ||tetra.aeins.at^
+||tetty-is.so-gorgeo.us.kg^
 ||tezoi.duckdns.org^
 ||thanos.pleumkungz.com^
 ||thefamilypuls.com^
@@ -3546,6 +3544,7 @@
 ||yuripe.ccnt.fr^
 ||yyz01.dnscry.pt^
 ||zabolotskikh.dev^
+||zakaria.website^
 ||zal01.dnscry.pt^
 ||zalizman.com^
 ||zanty123456.myasustor.com^
