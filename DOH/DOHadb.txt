@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2024-06-15 01:48:47 (UTC)
+! Last updated: 2024-06-16 01:52:55 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -14,6 +14,7 @@
 ||045177f7-4a34-4395-baff-4676334eeaa9.route.renyu.cloud^
 ||0ms.dev^
 ||1001.cloudflare-dns.com^
+||10787578eb1e4b75adfa6b2a4bdea0b5.pacloudflare.com^
 ||10.milkpie.one^
 ||1.0rz.space^
 ||1111.cloudflare-dns.com^
@@ -66,6 +67,7 @@
 ||ablock.fuckit.ovh^
 ||abluehope.com^
 ||abn01.dnscry.pt^
+||abstergo.it^
 ||acomit.lk^
 ||ad1guard.duckdns.org^
 ||ad1.heronet.nl^
@@ -511,6 +513,7 @@
 ||au-syd-w-3.nashkan.net^
 ||au-syd-w-p-1.nashkan.net^
 ||au.teradns.org^
+||auto-cn-hk-8000.go-behind.one^
 ||aviemore.dns.walshnet.co.uk^
 ||a.vvvglass.com^
 ||awan.ftp.sh^
@@ -657,6 +660,7 @@
 ||cloud.tezoi.com^
 ||cluster-0.gac.edu^
 ||cluster-1.gac.edu^
+||cname-for-doh.go-behind.one^
 ||cn.turngreatwall.com^
 ||coe01.dnscry.pt^
 ||common.dot.dns.yandex.net^
@@ -736,6 +740,7 @@
 ||de.teradns.org^
 ||dev.gonnadive.com^
 ||deweerd.loseyourip.com^
+||dff029179c4246e385296ea8de0b8eb8.pacloudflare.com^
 ||dfw01.dnscry.pt^
 ||dfw02.dnscry.pt^
 ||d.gametechnet.com^
@@ -1499,7 +1504,6 @@
 ||dns.rin.sh^
 ||dns.risrdg.net^
 ||dns.rjls.me^
-||dns.rkjha.com.np^
 ||dns.ronc.ru^
 ||dns.rootlab.top^
 ||dns.root.me^
@@ -1811,6 +1815,7 @@
 ||doh.epaphrodit.us^
 ||doh.es.ahadns.net^
 ||doh.eu.dnswarden.com^
+||doh.everdns.tech^
 ||doh.familyshield.opendns.com^
 ||doh.fatucloud.gosprout.org^
 ||doh.ffmuc.net^
@@ -2054,6 +2059,7 @@
 ||extended.dns.mullvad.net^
 ||externalmobiel.lekdijk.online^
 ||eyg01.dnscry.pt^
+||f03a0e2fa9f5.sn.mynetname.net^
 ||f1.dns.s3cure.me^
 ||f2-dns.asuzac.com.vn^
 ||family.5ososea.com^
@@ -2178,6 +2184,7 @@
 ||groupy.ga^
 ||grunwald-marc.de^
 ||gsat.familyds.com^
+||gtm-sg-5r538sziu04.go-behind.one^
 ||guanmengkai.com^
 ||guard.19kom.de^
 ||guard.beliefanx.me^
@@ -2293,6 +2300,7 @@
 ||igor.vpn.i81.ru^
 ||ihctw.synology.me^
 ||iij.jp^
+||ii.lov.host^
 ||ikarosalpha.xyz^
 ||ime-ingenierias.xyz^
 ||inadsware.ddns.net^
@@ -2305,6 +2313,7 @@
 ||internetsehat.bebasid.com^
 ||intertop.link^
 ||invidious.arashi.solutions^
+||io_cli.cdn.ovpn.bond^
 ||iofixdns1.duckdns.org^
 ||iofixdns2.duckdns.org^
 ||iot-dns.com^
@@ -2397,6 +2406,7 @@
 ||kirov.v6.rocks^
 ||kiv01.dnscry.pt^
 ||kiwifunke.duckdns.org^
+||kk.sshub.win^
 ||knight1.de^
 ||knowvibe.tech^
 ||kokesh.se^
@@ -2488,6 +2498,7 @@
 ||lwhjszcnzjhz.site^
 ||mad01.dnscry.pt^
 ||maikel.greppie.nl^
+||mail.4-the.win^
 ||mail.andrewnw.xyz^
 ||mail.data.haus^
 ||mailer.amlegion.org^
@@ -2751,6 +2762,7 @@
 ||oracle2.herry.dev^
 ||oraclejp2.chungyu.com^
 ||oradns.anbitech.com^
+||orasrv.kellys.pw^
 ||orau.lz0724.com^
 ||ord01.dnscry.pt^
 ||ordns.he.net^
@@ -2766,6 +2778,7 @@
 ||outdoor.v6.army^
 ||outie.8ws.net^
 ||outiejr.8ws.net^
+||ovh.panszelescik.pl^
 ||owndns.dedyn.io^
 ||p0.freedns.controld.com^
 ||p1.freedns.controld.com^
@@ -2803,6 +2816,7 @@
 ||pi.adblocker.eu.org^
 ||pi.daryllswer.net^
 ||pi-dns.gordon81.com^
+||piekacz.pl^
 ||pihole1.hoerli.net^
 ||pihole2.hoerli.net^
 ||pihole3.hoerli.net^
@@ -2856,7 +2870,6 @@
 ||public2.alidns.com^
 ||public99.alidns.com^
 ||public.alidns.com^
-||public.deepdns.net^
 ||public-dns-a.dns.sb^
 ||public-dns-b.dns.sb^
 ||public.dns.iij.jp^
@@ -3107,6 +3120,7 @@
 ||srgaghome.freemyip.com^
 ||sriedmueadguard.casa^
 ||srv1.web-mx.eu^
+||srv2.bartoszturek.online^
 ||srv5.jiripocta.cz^
 ||srv-revprox-01.atakorah.com^
 ||ss.0001.xyz^
@@ -3189,6 +3203,7 @@
 ||travis90x.ddns.net^
 ||trf01.dnscry.pt^
 ||tr-ist-w-p-2.nashkan.net^
+||triton.data.haus^
 ||trovs.ru^
 ||trr.dns.nextdns.io^
 ||truta.org^
@@ -3237,6 +3252,7 @@
 ||us02.dns4me.net^
 ||us1.blissdns.net^
 ||us1.dns.lavate.ch^
+||us5.wan.hc7z.com^
 ||usa1.altcensored.com^
 ||us-ash-w-f-1.nashkan.net^
 ||us-atl-w-2.nashkan.net^
@@ -3394,6 +3410,7 @@
 ||vps336.brueggus.de^
 ||vps337.brueggus.de^
 ||vps338.brueggus.de^
+||vps-33e5a7f3.vps.ovh.us^
 ||vps341.brueggus.de^
 ||vps342.brueggus.de^
 ||vps343.brueggus.de^
