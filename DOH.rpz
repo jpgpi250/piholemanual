@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2406190157 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2406200229 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2024-06-19 01:57:15 (UTC)
+; Last updated: 2024-06-20 02:29:36 (UTC)
 ;
 ; See https://jpgpi250.github.io/piholemanual/doc/Unbound%20response%20policy%20zones.pdf
 ; Report issues at https://github.com/jpgpi250/piholemanual/issues
@@ -51,14 +51,12 @@ $TTL 30
 3.11i.eu CNAME .
 317252.xyz CNAME .
 3dns.eu CNAME .
-3u6gx7qomyqyul1l.myfritz.net CNAME .
 45.32.17.58.vultrusercontent.com CNAME .
 45-76-84-146.colo.xandodigital.net CNAME .
 4yix.l.time4vps.cloud CNAME .
 51576162.ru CNAME .
 56k.uy CNAME .
 5g.o0o.re CNAME .
-6e47fb7.online-server.cloud CNAME .
 77980.bodis.com CNAME .
 8888.google CNAME .
 90c3f3bd03394bebaa20741314cef947.pacloudflare.com CNAME .
@@ -217,7 +215,6 @@ adguard.fam-rodenburg.nl CNAME .
 adguard.fihch.ru CNAME .
 adguard.fija-web.net CNAME .
 adguard.firestrike-services.de CNAME .
-adguard.foxcross.de CNAME .
 adguard-fra.linode.haberl.io CNAME .
 adguard.frece.de CNAME .
 adguard.fresh-waffles.online CNAME .
@@ -468,7 +465,6 @@ an.loliconapp.top CNAME .
 a.ns.dnslify.com CNAME .
 antarlangit.my.id CNAME .
 ant.dns.qwer.pw CNAME .
-antidns.s.tuna.tsinghua.edu.cn CNAME .
 antivirus.bebasid.com CNAME .
 anycast.censurfridns.dk CNAME .
 anycast.censurfridns.nu CNAME .
@@ -736,6 +732,7 @@ deic-lgb.anycast.uncensoreddns.org CNAME .
 deic-ore.anycast.censurfridns.dk CNAME .
 deic-ore.anycast.censurfridns.nu CNAME .
 deic-ore.anycast.uncensoreddns.org CNAME .
+delegated-ipfs.dev CNAME .
 den01.dnscry.pt CNAME .
 de-passage.9273082020.ru CNAME .
 derekcastle.duckdns.org CNAME .
@@ -2902,6 +2899,7 @@ ralfs-dns.dsh.lol CNAME .
 raspberrydoc.duckdns.org CNAME .
 rasp.matthias-iwer.de CNAME .
 rayneau.fr CNAME .
+rdjcloud.duckdns.org CNAME .
 rdjdns.ajraspi.xyz CNAME .
 rdns.faelix.net CNAME .
 rdu01.dnscry.pt CNAME .
@@ -3166,12 +3164,12 @@ test2.adg.siudzinski.net CNAME .
 test3.adg.siudzinski.net CNAME .
 test4.adg.siudzinski.net CNAME .
 test.adg.siudzinski.net CNAME .
-testadguardhome.adtidy.net CNAME .
 testaghome.meshkov.info CNAME .
 test.dnsteam.globuscs.info CNAME .
 testguard.meexx.de CNAME .
 tetra.aeins.at CNAME .
 tetty-is.so-gorgeo.us.kg CNAME .
+tezoi.duckdns.org CNAME .
 thanos.pleumkungz.com CNAME .
 thefamilypuls.com CNAME .
 tienpham.id.vn CNAME .
@@ -3430,6 +3428,7 @@ vps359.brueggus.de CNAME .
 vps362.brueggus.de CNAME .
 vps363.brueggus.de CNAME .
 vps364.brueggus.de CNAME .
+vps365.brueggus.de CNAME .
 vps366.brueggus.de CNAME .
 vps367.brueggus.de CNAME .
 vps368.brueggus.de CNAME .
