@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2024-06-19 02:11:39 (UTC)
+! Last updated: 2024-06-20 02:44:01 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -47,14 +47,12 @@
 ||3.11i.eu^
 ||317252.xyz^
 ||3dns.eu^
-||3u6gx7qomyqyul1l.myfritz.net^
 ||45.32.17.58.vultrusercontent.com^
 ||45-76-84-146.colo.xandodigital.net^
 ||4yix.l.time4vps.cloud^
 ||51576162.ru^
 ||56k.uy^
 ||5g.o0o.re^
-||6e47fb7.online-server.cloud^
 ||77980.bodis.com^
 ||8888.google^
 ||90c3f3bd03394bebaa20741314cef947.pacloudflare.com^
@@ -213,7 +211,6 @@
 ||adguard.fihch.ru^
 ||adguard.fija-web.net^
 ||adguard.firestrike-services.de^
-||adguard.foxcross.de^
 ||adguard-fra.linode.haberl.io^
 ||adguard.frece.de^
 ||adguard.fresh-waffles.online^
@@ -464,7 +461,6 @@
 ||a.ns.dnslify.com^
 ||antarlangit.my.id^
 ||ant.dns.qwer.pw^
-||antidns.s.tuna.tsinghua.edu.cn^
 ||antivirus.bebasid.com^
 ||anycast.censurfridns.dk^
 ||anycast.censurfridns.nu^
@@ -732,6 +728,7 @@
 ||deic-ore.anycast.censurfridns.dk^
 ||deic-ore.anycast.censurfridns.nu^
 ||deic-ore.anycast.uncensoreddns.org^
+||delegated-ipfs.dev^
 ||den01.dnscry.pt^
 ||de-passage.9273082020.ru^
 ||derekcastle.duckdns.org^
@@ -2898,6 +2895,7 @@
 ||raspberrydoc.duckdns.org^
 ||rasp.matthias-iwer.de^
 ||rayneau.fr^
+||rdjcloud.duckdns.org^
 ||rdjdns.ajraspi.xyz^
 ||rdns.faelix.net^
 ||rdu01.dnscry.pt^
@@ -3162,12 +3160,12 @@
 ||test3.adg.siudzinski.net^
 ||test4.adg.siudzinski.net^
 ||test.adg.siudzinski.net^
-||testadguardhome.adtidy.net^
 ||testaghome.meshkov.info^
 ||test.dnsteam.globuscs.info^
 ||testguard.meexx.de^
 ||tetra.aeins.at^
 ||tetty-is.so-gorgeo.us.kg^
+||tezoi.duckdns.org^
 ||thanos.pleumkungz.com^
 ||thefamilypuls.com^
 ||tienpham.id.vn^
@@ -3426,6 +3424,7 @@
 ||vps362.brueggus.de^
 ||vps363.brueggus.de^
 ||vps364.brueggus.de^
+||vps365.brueggus.de^
 ||vps366.brueggus.de^
 ||vps367.brueggus.de^
 ||vps368.brueggus.de^
