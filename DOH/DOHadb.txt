@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2024-06-27 02:45:03 (UTC)
+! Last updated: 2024-06-28 02:31:05 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -21,6 +21,7 @@
 ||1.11i.eu^
 ||15101844.xyz^
 ||180.0rz.space^
+||19a8b89bb6b2491ca5cccbeb0e84a4c4.pacloudflare.com^
 ||1and1-dns.de^
 ||1a.ns.ozer.im^
 ||1b.ns.ozer.im^
@@ -47,7 +48,6 @@
 ||3.11i.eu^
 ||317252.xyz^
 ||3dns.eu^
-||3u6gx7qomyqyul1l.myfritz.net^
 ||45.32.17.58.vultrusercontent.com^
 ||45-76-84-146.colo.xandodigital.net^
 ||4yix.l.time4vps.cloud^
@@ -180,6 +180,7 @@
 ||adguard.cloud-chen.idv.tw^
 ||adguard.cloudmini.net^
 ||adguard.cnbeining.com^
+||adguard.condorcs.net^
 ||adguard.coriolanus.top^
 ||adguard.crestfallen.de^
 ||adguard.crobix.ovh^
@@ -556,6 +557,7 @@
 ||bing.000036.xyz^
 ||b-ipv4.bhadrikais.my.id^
 ||bit.psyk.fr^
+||biying.flymlc.com^
 ||b.jtt.ink^
 ||blackhole.aflr.io^
 ||blackhole.gugainfo.com.br^
@@ -570,6 +572,7 @@
 ||block.dsh.lol^
 ||blockerads.multimediaconcept.fr^
 ||blocker.thethorsens.org^
+||blocker.zebrzydowa110.eu^
 ||blog.kimiblock.top^
 ||blokuj.ujwie.co^
 ||bluedns.xyz^
@@ -682,6 +685,7 @@
 ||cube.neubsi.at^
 ||cvt01.dnscry.pt^
 ||cvt-ic-us-adns-001.clearviewtechnology.net^
+||cybrespace.net^
 ||cylee.net^
 ||cyliu.idv.tw^
 ||cz-pra-w-1.nashkan.net^
@@ -752,7 +756,6 @@
 ||diskstation.alexpollard.net^
 ||dk-cop-w-1.nashkan.net^
 ||d.luwei.date^
-||dmtmpb4btyxdz.cloudfront.net^
 ||dn5.talesam.org^
 ||dns.010812.xyz^
 ||dns01.almir1904.eu^
@@ -1455,6 +1458,7 @@
 ||dns.philqoo.com^
 ||dns.phucbui.top^
 ||dns.pieterdherde.com^
+||dns.pietjacobs.be^
 ||dns.pine-home.de^
 ||dns.ple91.uk^
 ||dns.pmxu.link^
@@ -1579,6 +1583,7 @@
 ||dns.struchkov.dev^
 ||dns.stud.cloud^
 ||dns.stvsk.ml^
+||dns.suhaila.dev^
 ||dns.supercluster.io^
 ||dns.superstefan.win^
 ||dns.surfshark.com^
@@ -2012,6 +2017,7 @@
 ||duyyen.tk^
 ||dyn-ip.borjalopez.eu^
 ||dyn.velyn.my.id^
+||d.zscale.gq^
 ||ea-dns.rubyfish.cn^
 ||eamonn.dns.walshnet.co.uk^
 ||easyhandshake.com^
@@ -2141,6 +2147,8 @@
 ||fwgw.orangepipc.mywire.org^
 ||gaia.plonknet.com^
 ||galileo.math.unipd.it^
+||gandhico2.duckdns.org^
+||gateway.baltes.info^
 ||gateway.fomichev.cloud^
 ||gauss.pp.ua^
 ||gb-bir-w-1.nashkan.net^
@@ -2177,6 +2185,7 @@
 ||green4.jnraptor.net^
 ||greppie.nl^
 ||groupy.ga^
+||gru01.dnscry.pt^
 ||grunwald-marc.de^
 ||gsat.familyds.com^
 ||gtm-sg-5r538sziu04.go-behind.one^
@@ -2199,6 +2208,7 @@
 ||gzdns.lyjfy.cn^
 ||gztech.me^
 ||hahnjo.de^
+||han01.dnscry.pt^
 ||handy-matthias.dns.internal.espresso-tasse.de^
 ||handy-nils.dns.internal.espresso-tasse.de^
 ||hanniel.tech^
@@ -2348,6 +2358,7 @@
 ||jp01.dns4me.net^
 ||jp01.just-a-web.com^
 ||jp1.f7b6h9.tk^
+||jp203.duckdns.org^
 ||jp2.101818.xyz^
 ||jp2.ooroot.com^
 ||jp.559299366.xyz^
@@ -2431,6 +2442,7 @@
 ||kx.qing-book.online^
 ||kz-alm-w-1.nashkan.net^
 ||kz-pav-w-p-1.nashkan.net^
+||la1.zscale.gq^
 ||lab-1.sellan.fr^
 ||lab.sellan.fr^
 ||lajc.sytes.net^
@@ -2614,7 +2626,6 @@
 ||nexashield.fr^
 ||next.miao.ninja^
 ||nfti.duckdns.org^
-||nginx.netkolik.org^
 ||nickcan.xyz^
 ||nicknarayong.ddns.net^
 ||nicktruehome.ddns.net^
@@ -2685,6 +2696,7 @@
 ||ns3.link^
 ||ns3.opennameserver.org^
 ||ns4.opennameserver.org^
+||ns.airyobi.com^
 ||nsa.onnonetworks.com^
 ||nsauth1.kooman.org^
 ||nsb.onnonetworks.com^
@@ -2894,7 +2906,6 @@
 ||raspberrydoc.duckdns.org^
 ||rasp.matthias-iwer.de^
 ||rayneau.fr^
-||rdjcloud.duckdns.org^
 ||rdjdns.ajraspi.xyz^
 ||rdns.faelix.net^
 ||rdu01.dnscry.pt^
@@ -3056,6 +3067,7 @@
 ||sg-dns1.bancuh.com^
 ||sg-dns2.bancuh.com^
 ||sg.jnraptor.com^
+||sgn01.dnscry.pt^
 ||sgpcloud.duckdns.org^
 ||sg.rslvr.eu^
 ||sgs02.just-a-web.com^
@@ -3079,6 +3091,7 @@
 ||signsservers.ru^
 ||sin01.dnscry.pt^
 ||sin02.dnscry.pt^
+||sin03.dnscry.pt^
 ||sin.core.access.zznet.fun^
 ||singy.smartq.dev^
 ||sink.nolo.ltd^
@@ -3209,6 +3222,7 @@
 ||tx.teradns.org^
 ||tyo01.dnscry.pt^
 ||tyo02.dnscry.pt^
+||tyo03.dnscry.pt^
 ||typaza.com^
 ||ua-kyv-w-1.nashkan.net^
 ||ublock-dns-resolver-01.swedencentral.cloudapp.azure.com^
@@ -3276,7 +3290,6 @@
 ||us-sea-w-5.nashkan.net^
 ||us-sea-w-6.nashkan.net^
 ||usz.xydustc.me^
-||utangard.net^
 ||uw-dns.rubyfish.cn^
 ||ux.go20.cf^
 ||v1552270.hosted-by-vdsina.ru^
@@ -3386,6 +3399,7 @@
 ||vps310.brueggus.de^
 ||vps311.brueggus.de^
 ||vps312.brueggus.de^
+||vps313.brueggus.de^
 ||vps314.brueggus.de^
 ||vps317.brueggus.de^
 ||vps322.brueggus.de^
@@ -3426,6 +3440,12 @@
 ||vps366.brueggus.de^
 ||vps367.brueggus.de^
 ||vps368.brueggus.de^
+||vps369.brueggus.de^
+||vps370.brueggus.de^
+||vps371.brueggus.de^
+||vps372.brueggus.de^
+||vps373.brueggus.de^
+||vps374.brueggus.de^
 ||vps4.scho.io^
 ||vps51564.publiccloud.com.br^
 ||vps66.brueggus.de^
@@ -3525,6 +3545,7 @@
 ||www.personal-dns.site^
 ||www.pukanuragan.ru^
 ||www.richardo.net^
+||www.sdestru.uk^
 ||www.srgaghome.freemyip.com^
 ||www.sukidayo.eu.org^
 ||www.surfbelow.com^
@@ -3582,6 +3603,7 @@
 ||yul01.dnscry.pt^
 ||yunyun.is.my.waifu.cz^
 ||yuripe.ccnt.fr^
+||yvr01.dnscry.pt^
 ||yyz01.dnscry.pt^
 ||zabolotskikh.dev^
 ||zakaria.website^
