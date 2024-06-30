@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2024-06-28 02:31:05 (UTC)
+! Last updated: 2024-06-29 01:57:56 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -48,6 +48,7 @@
 ||3.11i.eu^
 ||317252.xyz^
 ||3dns.eu^
+||3u6gx7qomyqyul1l.myfritz.net^
 ||45.32.17.58.vultrusercontent.com^
 ||45-76-84-146.colo.xandodigital.net^
 ||4yix.l.time4vps.cloud^
@@ -463,6 +464,7 @@
 ||a.ns.dnslify.com^
 ||antarlangit.my.id^
 ||ant.dns.qwer.pw^
+||antidns.s.tuna.tsinghua.edu.cn^
 ||antivirus.bebasid.com^
 ||anycast.censurfridns.dk^
 ||anycast.censurfridns.nu^
@@ -511,6 +513,7 @@
 ||au-syd.doh.sb^
 ||au-syd-w-2.nashkan.net^
 ||au-syd-w-3.nashkan.net^
+||au-syd-w-f-1.nashkan.net^
 ||au-syd-w-p-1.nashkan.net^
 ||au.teradns.org^
 ||auto-cn-hk-8000.go-behind.one^
@@ -726,6 +729,8 @@
 ||de-fsn-w-f-1.nashkan.net^
 ||de-fsn-w-f-2.nashkan.net^
 ||de-fsn-w-f-3.nashkan.net^
+||de-fsn-w-f-4.nashkan.net^
+||de-fsn-w-f-5.nashkan.net^
 ||de-fsn-w-p-1.nashkan.net^
 ||deic-lgb.anycast.censurfridns.dk^
 ||deic-lgb.anycast.censurfridns.nu^
@@ -1214,6 +1219,7 @@
 ||dns.iki.my.id^
 ||dns.imaicool.com^
 ||dns.immanuelschaffer.de^
+||dns.inclusioproject.com^
 ||dns.indust.me^
 ||dns.indybanipal.com^
 ||dns.influa-dev.fr^
@@ -1333,6 +1339,7 @@
 ||dns.mateo.ovh^
 ||dns.mathewakhil.online^
 ||dns.maybe.icu^
+||dns.mayx.eu.org^
 ||dns.me7878.com^
 ||dns.meeo.win^
 ||dns.mega-marimo.net^
@@ -1496,6 +1503,7 @@
 ||dns.readlook.tk^
 ||dns.reckoningslug.name^
 ||dns.redroot.me^
+||dns.redvau.lt^
 ||dns.renardyre.com^
 ||dns.repinger.com^
 ||dns.repinger.my.id^
@@ -1554,6 +1562,7 @@
 ||dnssilo.top^
 ||dns.simba.house^
 ||dns.simplylinux.ch^
+||dns.sindominio.net^
 ||dns-singapore.mii-xms.com^
 ||dns.sinuosity.cn^
 ||dns.sirota.spb.ru^
@@ -1843,6 +1852,7 @@
 ||doh.jtcargokebumen.com^
 ||doh.kekew.info^
 ||doh.kel.pe^
+||doh.kidzonet.io^
 ||doh.killtw.im^
 ||doh.kooman.org^
 ||doh.la.ahadns.net^
@@ -2216,6 +2226,7 @@
 ||haswell-www.a.guindehi.ch^
 ||hcm.quydang.name.vn^
 ||hdf084sqbme.sn.mynetname.net^
+||he2.redvau.lt^
 ||heimdall.ff0x.ca^
 ||hel01.dnscry.pt^
 ||helios.plan9-dns.com^
@@ -2418,6 +2429,7 @@
 ||kokesh.se^
 ||kolobok2.duckdns.org^
 ||korzhov.dev^
+||kostik-66.online^
 ||kotys.hr.i81.ru^
 ||kotys.vd.i81.ru^
 ||kotys.vpn.i81.ru^
@@ -2567,6 +2579,7 @@
 ||mr-romero.com^
 ||mru01.dnscry.pt^
 ||msr177.com^
+||mtdz.duckdns.org^
 ||muc01.dnscry.pt^
 ||muc-ns01.ibytex.systems^
 ||muli.stusta.mhn.de^
@@ -2626,6 +2639,7 @@
 ||nexashield.fr^
 ||next.miao.ninja^
 ||nfti.duckdns.org^
+||nginx.netkolik.org^
 ||nickcan.xyz^
 ||nicknarayong.ddns.net^
 ||nicktruehome.ddns.net^
@@ -2664,6 +2678,7 @@
 ||ns03.nerdytechgeeks.co.za^
 ||ns0.fdn.fr^
 ||ns1.1899.com.mx^
+||ns1.4netguides.org^
 ||ns1.bit-trails.nl^
 ||ns1.depotthai.army^
 ||ns1.dnsprivacy.at^
@@ -2841,6 +2856,7 @@
 ||pl-waw-w-2.nashkan.net^
 ||pl-waw-w-f-1.nashkan.net^
 ||pl-waw-w-p-1.nashkan.net^
+||pl-waw-w-p-2.nashkan.net^
 ||pns2.sadraidc.com^
 ||polisidns.4ch.my.id^
 ||pooblet.co.za^
@@ -3184,6 +3200,7 @@
 ||tiger.dns.qwer.pw^
 ||tigrons.ru^
 ||tiliandns.duckdns.org^
+||timboeh.me^
 ||timmes.nl^
 ||tirapan.top^
 ||tj.jamesxue.xyz^
@@ -3272,6 +3289,7 @@
 ||us-den-w-1.nashkan.net^
 ||us-den-w-2.nashkan.net^
 ||us.doh.cloudveil.org^
+||us-hil-w-f-1.nashkan.net^
 ||us-hil-w-p-1.nashkan.net^
 ||us-jac-w-1.nashkan.net^
 ||us-jac-w-f-1.nashkan.net^
@@ -3284,12 +3302,14 @@
 ||us-ny-alula.heliumcloud.cc^
 ||us-nyc-w-1.nashkan.net^
 ||us-nyc-w-f-1.nashkan.net^
+||us-nyc-w-p-1.nashkan.net^
 ||us.rslvr.eu^
 ||us-saj-w-f-1.nashkan.net^
 ||us-saj-w-p-1.nashkan.net^
 ||us-sea-w-5.nashkan.net^
 ||us-sea-w-6.nashkan.net^
 ||usz.xydustc.me^
+||utangard.net^
 ||uw-dns.rubyfish.cn^
 ||ux.go20.cf^
 ||v1552270.hosted-by-vdsina.ru^
@@ -3436,6 +3456,7 @@
 ||vps359.brueggus.de^
 ||vps362.brueggus.de^
 ||vps363.brueggus.de^
+||vps364.brueggus.de^
 ||vps365.brueggus.de^
 ||vps366.brueggus.de^
 ||vps367.brueggus.de^
@@ -3574,6 +3595,7 @@
 ||xn--2grr3t07h.online^
 ||xn--80aecoigf4aatn.xn--p1ai^
 ||xn--85w848a.jp^
+||xn--durhre-yxa.de^
 ||x.ns1net.com^
 ||x-o-x.duckdns.org^
 ||xray.krnl.eu^
