@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2024-07-02 02:16:11 (UTC)
+! Last updated: 2024-07-03 02:27:41 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -14,7 +14,6 @@
 ||045177f7-4a34-4395-baff-4676334eeaa9.route.renyu.cloud^
 ||0ms.dev^
 ||1001.cloudflare-dns.com^
-||10787578eb1e4b75adfa6b2a4bdea0b5.pacloudflare.com^
 ||10.milkpie.one^
 ||1.0rz.space^
 ||1111.cloudflare-dns.com^
@@ -47,6 +46,7 @@
 ||3.11i.eu^
 ||317252.xyz^
 ||3dns.eu^
+||3u6gx7qomyqyul1l.myfritz.net^
 ||45.32.17.58.vultrusercontent.com^
 ||45-76-84-146.colo.xandodigital.net^
 ||4yix.l.time4vps.cloud^
@@ -65,6 +65,7 @@
 ||ablock.fuckit.ovh^
 ||abluehope.com^
 ||abn01.dnscry.pt^
+||abstergo.it^
 ||acomit.lk^
 ||ad1.heronet.nl^
 ||ad.257053.xyz^
@@ -656,7 +657,6 @@
 ||cloudflareresolve.com^
 ||cloud.graphicpoint.pl^
 ||cloudns.bosco.ovh^
-||cloudns.net^
 ||cloud.samutz.com^
 ||cloud.securifi.com.my^
 ||cloudsrv.charitosnet.de^
@@ -747,7 +747,6 @@
 ||de.teradns.org^
 ||dev.gonnadive.com^
 ||deweerd.loseyourip.com^
-||dff029179c4246e385296ea8de0b8eb8.pacloudflare.com^
 ||dfw01.dnscry.pt^
 ||dfw02.dnscry.pt^
 ||d.gametechnet.com^
@@ -2091,7 +2090,6 @@
 ||extended.dns.mullvad.net^
 ||externalmobiel.lekdijk.online^
 ||eyg01.dnscry.pt^
-||f03a0e2fa9f5.sn.mynetname.net^
 ||f1.dns.s3cure.me^
 ||f.761761.xyz^
 ||faked.org^
@@ -2177,7 +2175,6 @@
 ||gaia.plonknet.com^
 ||galileo.math.unipd.it^
 ||gandhico2.duckdns.org^
-||gateway.baltes.info^
 ||gateway.fomichev.cloud^
 ||gauss.pp.ua^
 ||gb-bir-w-1.nashkan.net^
@@ -2338,7 +2335,6 @@
 ||igor.vpn.i81.ru^
 ||ihctw.synology.me^
 ||iij.jp^
-||ii.lov.host^
 ||ikarosalpha.xyz^
 ||imbuffering.com^
 ||ime-ingenierias.xyz^
@@ -2477,6 +2473,7 @@
 ||kx.qing-book.online^
 ||kz-alm-w-1.nashkan.net^
 ||kz-pav-w-p-1.nashkan.net^
+||la1.zscale.gq^
 ||lab-1.sellan.fr^
 ||lab.sellan.fr^
 ||lajc.sytes.net^
@@ -2586,6 +2583,8 @@
 ||mikatos.de^
 ||mikewaddick.com^
 ||mil01.dnscry.pt^
+||mimile.despagne.net^
+||mimile.despagne.ovh^
 ||minilla.store^
 ||mkvvpssrv12.freemyip.com^
 ||m.myspace.sbs^
@@ -2602,7 +2601,6 @@
 ||mr-romero.com^
 ||mru01.dnscry.pt^
 ||msr177.com^
-||mtdz.duckdns.org^
 ||muc01.dnscry.pt^
 ||muc-ns01.ibytex.systems^
 ||muli.stusta.mhn.de^
@@ -2773,6 +2771,7 @@
 ||obportus.ddns.net^
 ||ocp.cincloud.top^
 ||oculta.me^
+||odin.limetric.net^
 ||odoh.cloudflare-dns.com^
 ||odoh.crypto.sx^
 ||odvr.nic.cz^
@@ -2803,6 +2802,7 @@
 ||oracle2.herry.dev^
 ||oraclejp2.chungyu.com^
 ||oradns.anbitech.com^
+||orasrv.kellys.pw^
 ||orau.lz0724.com^
 ||ord01.dnscry.pt^
 ||ordns.he.net^
@@ -2818,6 +2818,7 @@
 ||outdoor.v6.army^
 ||outie.8ws.net^
 ||outiejr.8ws.net^
+||ovh.panszelescik.pl^
 ||owndns.dedyn.io^
 ||p0.freedns.controld.com^
 ||p1.freedns.controld.com^
@@ -2857,6 +2858,7 @@
 ||pi.adblocker.eu.org^
 ||pi.daryllswer.net^
 ||pi-dns.gordon81.com^
+||piekacz.pl^
 ||pihole1.hoerli.net^
 ||pihole2.hoerli.net^
 ||pihole3.hoerli.net^
@@ -2867,6 +2869,7 @@
 ||pi.homeanywhere.org^
 ||pioko.net^
 ||pitchforkwaydns.duckdns.org^
+||pixie.porkbun.com^
 ||plex.skin57.de^
 ||pluton.plan9-dns.com^
 ||pluton.plan9dns.com^
@@ -3162,6 +3165,7 @@
 ||srgaghome.freemyip.com^
 ||sriedmueadguard.casa^
 ||srv1.web-mx.eu^
+||srv2.bartoszturek.online^
 ||srv5.jiripocta.cz^
 ||srv-revprox-01.atakorah.com^
 ||ss.0001.xyz^
@@ -3246,7 +3250,6 @@
 ||travis90x.ddns.net^
 ||trf01.dnscry.pt^
 ||tr-ist-w-p-2.nashkan.net^
-||triton.data.haus^
 ||trovs.ru^
 ||trr.dns.nextdns.io^
 ||truta.org^
@@ -3441,7 +3444,6 @@
 ||vps310.brueggus.de^
 ||vps311.brueggus.de^
 ||vps312.brueggus.de^
-||vps313.brueggus.de^
 ||vps314.brueggus.de^
 ||vps317.brueggus.de^
 ||vps322.brueggus.de^
@@ -3457,6 +3459,7 @@
 ||vps336.brueggus.de^
 ||vps337.brueggus.de^
 ||vps338.brueggus.de^
+||vps-33e5a7f3.vps.ovh.us^
 ||vps341.brueggus.de^
 ||vps342.brueggus.de^
 ||vps343.brueggus.de^
