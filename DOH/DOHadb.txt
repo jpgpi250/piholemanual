@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2024-07-03 02:27:41 (UTC)
+! Last updated: 2024-07-04 02:52:54 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -14,6 +14,7 @@
 ||045177f7-4a34-4395-baff-4676334eeaa9.route.renyu.cloud^
 ||0ms.dev^
 ||1001.cloudflare-dns.com^
+||10787578eb1e4b75adfa6b2a4bdea0b5.pacloudflare.com^
 ||10.milkpie.one^
 ||1.0rz.space^
 ||1111.cloudflare-dns.com^
@@ -46,7 +47,6 @@
 ||3.11i.eu^
 ||317252.xyz^
 ||3dns.eu^
-||3u6gx7qomyqyul1l.myfritz.net^
 ||45.32.17.58.vultrusercontent.com^
 ||45-76-84-146.colo.xandodigital.net^
 ||4yix.l.time4vps.cloud^
@@ -387,6 +387,7 @@
 ||aerodrorne.vip^
 ||aezadns.duckdns.org^
 ||a.family.ns.dnslify.com^
+||affcdn.net^
 ||africadns1.liquidtelecom.net^
 ||africadns2.liquidtelecom.net^
 ||ag.apollohct.com^
@@ -463,7 +464,6 @@
 ||a.ns.dnslify.com^
 ||antarlangit.my.id^
 ||ant.dns.qwer.pw^
-||antidns.s.tuna.tsinghua.edu.cn^
 ||antivirus.bebasid.com^
 ||anycast.censurfridns.dk^
 ||anycast.censurfridns.nu^
@@ -650,7 +650,6 @@
 ||clic.eu.org^
 ||clientdns3.softcom.net^
 ||cloud.198.games^
-||cloud1.server.busold.ws^
 ||cloudbasesolutions.online^
 ||cloudflare-dns.com^
 ||cloudflare-gateway.com^
@@ -747,6 +746,7 @@
 ||de.teradns.org^
 ||dev.gonnadive.com^
 ||deweerd.loseyourip.com^
+||dff029179c4246e385296ea8de0b8eb8.pacloudflare.com^
 ||dfw01.dnscry.pt^
 ||dfw02.dnscry.pt^
 ||d.gametechnet.com^
@@ -1127,6 +1127,7 @@
 ||dns.fabianscheifele.com^
 ||dns.fahr.in^
 ||dns.faked.org^
+||dns.falkenthal.org^
 ||dns.familiamichels.com.br^
 ||dns-family.adguard.com^
 ||dns-family.esegece.com^
@@ -1452,6 +1453,7 @@
 ||dns.otezz.net^
 ||dnsotls.lab.nic.cl^
 ||dns.ours.luxe^
+||dns.ourvau.lt^
 ||dnsovertls1.sinodun.com^
 ||dnsovertls2.sinodun.com^
 ||dnsovertls3.sinodun.com^
@@ -2090,6 +2092,7 @@
 ||extended.dns.mullvad.net^
 ||externalmobiel.lekdijk.online^
 ||eyg01.dnscry.pt^
+||f03a0e2fa9f5.sn.mynetname.net^
 ||f1.dns.s3cure.me^
 ||f.761761.xyz^
 ||faked.org^
@@ -2175,6 +2178,7 @@
 ||gaia.plonknet.com^
 ||galileo.math.unipd.it^
 ||gandhico2.duckdns.org^
+||gateway.baltes.info^
 ||gateway.fomichev.cloud^
 ||gauss.pp.ua^
 ||gb-bir-w-1.nashkan.net^
@@ -2335,6 +2339,7 @@
 ||igor.vpn.i81.ru^
 ||ihctw.synology.me^
 ||iij.jp^
+||ii.lov.host^
 ||ikarosalpha.xyz^
 ||imbuffering.com^
 ||ime-ingenierias.xyz^
@@ -2348,6 +2353,7 @@
 ||internetsehat.bebasid.com^
 ||intertop.link^
 ||invidious.arashi.solutions^
+||io_cli.cdn.ovpn.bond^
 ||iofixdns1.duckdns.org^
 ||iofixdns2.duckdns.org^
 ||iot-dns.com^
@@ -2591,7 +2597,6 @@
 ||mnrv.trade^
 ||mo0on15.com^
 ||moaz-adguard.duckdns.org^
-||montmorot.duckdns.org^
 ||monty.best^
 ||moonbd.top^
 ||morbitzer.de^
@@ -2601,6 +2606,7 @@
 ||mr-romero.com^
 ||mru01.dnscry.pt^
 ||msr177.com^
+||mtdz.duckdns.org^
 ||muc01.dnscry.pt^
 ||muc-ns01.ibytex.systems^
 ||muli.stusta.mhn.de^
@@ -2704,6 +2710,7 @@
 ||ns1.dnsprivacy.at^
 ||ns1.doh.best^
 ||ns1.dotls.org^
+||ns1.e-virtus.com^
 ||ns1.fdn.fr^
 ||ns1.flodns.net^
 ||ns1.hjk.kr^
@@ -3250,6 +3257,7 @@
 ||travis90x.ddns.net^
 ||trf01.dnscry.pt^
 ||tr-ist-w-p-2.nashkan.net^
+||triton.data.haus^
 ||trovs.ru^
 ||trr.dns.nextdns.io^
 ||truta.org^
@@ -3300,6 +3308,7 @@
 ||us02.dns4me.net^
 ||us1.blissdns.net^
 ||us1.dns.lavate.ch^
+||us1.easyflying.top^
 ||us5.wan.hc7z.com^
 ||usa1.altcensored.com^
 ||us-ash-w-f-1.nashkan.net^
@@ -3444,6 +3453,7 @@
 ||vps310.brueggus.de^
 ||vps311.brueggus.de^
 ||vps312.brueggus.de^
+||vps313.brueggus.de^
 ||vps314.brueggus.de^
 ||vps317.brueggus.de^
 ||vps322.brueggus.de^
