@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2407040238 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2407050216 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2024-07-04 02:38:16 (UTC)
+; Last updated: 2024-07-05 02:16:46 (UTC)
 ;
 ; See https://jpgpi250.github.io/piholemanual/doc/Unbound%20response%20policy%20zones.pdf
 ; Report issues at https://github.com/jpgpi250/piholemanual/issues
@@ -18,13 +18,11 @@ $TTL 30
 045177f7-4a34-4395-baff-4676334eeaa9.route.renyu.cloud CNAME .
 0ms.dev CNAME .
 1001.cloudflare-dns.com CNAME .
-10787578eb1e4b75adfa6b2a4bdea0b5.pacloudflare.com CNAME .
 10.milkpie.one CNAME .
 1.0rz.space CNAME .
 1111.cloudflare-dns.com CNAME .
 1.11i.eu CNAME .
 15101844.xyz CNAME .
-180.0rz.space CNAME .
 1and1-dns.de CNAME .
 1a.ns.ozer.im CNAME .
 1b.ns.ozer.im CNAME .
@@ -51,6 +49,7 @@ $TTL 30
 3.11i.eu CNAME .
 317252.xyz CNAME .
 3dns.eu CNAME .
+3u6gx7qomyqyul1l.myfritz.net CNAME .
 45.32.17.58.vultrusercontent.com CNAME .
 45-76-84-146.colo.xandodigital.net CNAME .
 4yix.l.time4vps.cloud CNAME .
@@ -425,6 +424,7 @@ ag.ssrahul96.xyz CNAME .
 ag.wntrmute.net CNAME .
 ahadns.net CNAME .
 ahcek.com CNAME .
+ahoj.email CNAME .
 aihe.app CNAME .
 airmaxcloud.ml CNAME .
 akaboom.fun CNAME .
@@ -468,6 +468,7 @@ an.loliconapp.top CNAME .
 a.ns.dnslify.com CNAME .
 antarlangit.my.id CNAME .
 ant.dns.qwer.pw CNAME .
+antidns.s.tuna.tsinghua.edu.cn CNAME .
 antivirus.bebasid.com CNAME .
 anycast.censurfridns.dk CNAME .
 anycast.censurfridns.nu CNAME .
@@ -654,6 +655,7 @@ clearweb.woodbridge.club CNAME .
 clic.eu.org CNAME .
 clientdns3.softcom.net CNAME .
 cloud.198.games CNAME .
+cloud1.server.busold.ws CNAME .
 cloudbasesolutions.online CNAME .
 cloudflare-dns.com CNAME .
 cloudflare-gateway.com CNAME .
@@ -988,6 +990,7 @@ dns.brahma.world CNAME .
 dns.bravoc.one CNAME .
 dns.briac-mlb.fr CNAME .
 dns.brian-hong.tech CNAME .
+dns.brian-wee.com CNAME .
 dns.brionesserver.net CNAME .
 dns-br.leonardo.tec.br CNAME .
 dns.busold.ws CNAME .
@@ -1948,6 +1951,7 @@ doh.sa-sa.eu CNAME .
 doh.sb CNAME .
 doh.seby.io CNAME .
 doh.securedns.eu CNAME .
+doh.serverhost.no CNAME .
 doh-sg.blahdns.com CNAME .
 doh.sidnlabs.nl CNAME .
 doh.synhdigital.fr CNAME .
@@ -2601,6 +2605,7 @@ m.myspace.sbs CNAME .
 mnrv.trade CNAME .
 mo0on15.com CNAME .
 moaz-adguard.duckdns.org CNAME .
+montmorot.duckdns.org CNAME .
 monty.best CNAME .
 moonbd.top CNAME .
 morbitzer.de CNAME .
@@ -2673,6 +2678,7 @@ nfti.duckdns.org CNAME .
 nickcan.xyz CNAME .
 nicknarayong.ddns.net CNAME .
 nicktruehome.ddns.net CNAME .
+nicsezcheckfbi.gov CNAME .
 nightlymoon.us.kg CNAME .
 nilanjan.rocks CNAME .
 ninhs-ai.synology.me CNAME .
@@ -2951,6 +2957,7 @@ radia.bortzmeyer.org CNAME .
 rafi.dynns.com CNAME .
 ralfs-dns.dsh.lol CNAME .
 ralfs.dsh.lol CNAME .
+ras.brian-wee.com CNAME .
 raspberrydoc.duckdns.org CNAME .
 rasp.matthias-iwer.de CNAME .
 rayneau.fr CNAME .
@@ -3312,7 +3319,6 @@ us01.dns4me.net CNAME .
 us02.dns4me.net CNAME .
 us1.blissdns.net CNAME .
 us1.dns.lavate.ch CNAME .
-us1.easyflying.top CNAME .
 us5.wan.hc7z.com CNAME .
 usa1.altcensored.com CNAME .
 us-ash-w-f-1.nashkan.net CNAME .
@@ -3389,6 +3395,7 @@ vn.dns.abpvn.com CNAME .
 vn-hcm-w-1.nashkan.net CNAME .
 vno01.dnscry.pt CNAME .
 volkens.services CNAME .
+vorlif.org CNAME .
 vova.hr.i81.ru CNAME .
 vovale.hr.i81.ru CNAME .
 vovale.vd.i81.ru CNAME .
@@ -3649,6 +3656,7 @@ ychen.cf CNAME .
 ychen.ga CNAME .
 ychen.gq CNAME .
 yeralin.net CNAME .
+yh.hk1.shuaib.icu CNAME .
 ymjx.shimmerl.top CNAME .
 ymq01.dnscry.pt CNAME .
 yory2cave.hopto.me CNAME .
