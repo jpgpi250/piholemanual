@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2024-07-04 02:52:54 (UTC)
+! Last updated: 2024-07-05 02:31:24 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -14,13 +14,11 @@
 ||045177f7-4a34-4395-baff-4676334eeaa9.route.renyu.cloud^
 ||0ms.dev^
 ||1001.cloudflare-dns.com^
-||10787578eb1e4b75adfa6b2a4bdea0b5.pacloudflare.com^
 ||10.milkpie.one^
 ||1.0rz.space^
 ||1111.cloudflare-dns.com^
 ||1.11i.eu^
 ||15101844.xyz^
-||180.0rz.space^
 ||1and1-dns.de^
 ||1a.ns.ozer.im^
 ||1b.ns.ozer.im^
@@ -47,6 +45,7 @@
 ||3.11i.eu^
 ||317252.xyz^
 ||3dns.eu^
+||3u6gx7qomyqyul1l.myfritz.net^
 ||45.32.17.58.vultrusercontent.com^
 ||45-76-84-146.colo.xandodigital.net^
 ||4yix.l.time4vps.cloud^
@@ -421,6 +420,7 @@
 ||ag.wntrmute.net^
 ||ahadns.net^
 ||ahcek.com^
+||ahoj.email^
 ||aihe.app^
 ||airmaxcloud.ml^
 ||akaboom.fun^
@@ -464,6 +464,7 @@
 ||a.ns.dnslify.com^
 ||antarlangit.my.id^
 ||ant.dns.qwer.pw^
+||antidns.s.tuna.tsinghua.edu.cn^
 ||antivirus.bebasid.com^
 ||anycast.censurfridns.dk^
 ||anycast.censurfridns.nu^
@@ -650,6 +651,7 @@
 ||clic.eu.org^
 ||clientdns3.softcom.net^
 ||cloud.198.games^
+||cloud1.server.busold.ws^
 ||cloudbasesolutions.online^
 ||cloudflare-dns.com^
 ||cloudflare-gateway.com^
@@ -984,6 +986,7 @@
 ||dns.bravoc.one^
 ||dns.briac-mlb.fr^
 ||dns.brian-hong.tech^
+||dns.brian-wee.com^
 ||dns.brionesserver.net^
 ||dns-br.leonardo.tec.br^
 ||dns.busold.ws^
@@ -1944,6 +1947,7 @@
 ||doh.sb^
 ||doh.seby.io^
 ||doh.securedns.eu^
+||doh.serverhost.no^
 ||doh-sg.blahdns.com^
 ||doh.sidnlabs.nl^
 ||doh.synhdigital.fr^
@@ -2597,6 +2601,7 @@
 ||mnrv.trade^
 ||mo0on15.com^
 ||moaz-adguard.duckdns.org^
+||montmorot.duckdns.org^
 ||monty.best^
 ||moonbd.top^
 ||morbitzer.de^
@@ -2669,6 +2674,7 @@
 ||nickcan.xyz^
 ||nicknarayong.ddns.net^
 ||nicktruehome.ddns.net^
+||nicsezcheckfbi.gov^
 ||nightlymoon.us.kg^
 ||nilanjan.rocks^
 ||ninhs-ai.synology.me^
@@ -2947,6 +2953,7 @@
 ||rafi.dynns.com^
 ||ralfs-dns.dsh.lol^
 ||ralfs.dsh.lol^
+||ras.brian-wee.com^
 ||raspberrydoc.duckdns.org^
 ||rasp.matthias-iwer.de^
 ||rayneau.fr^
@@ -3308,7 +3315,6 @@
 ||us02.dns4me.net^
 ||us1.blissdns.net^
 ||us1.dns.lavate.ch^
-||us1.easyflying.top^
 ||us5.wan.hc7z.com^
 ||usa1.altcensored.com^
 ||us-ash-w-f-1.nashkan.net^
@@ -3385,6 +3391,7 @@
 ||vn-hcm-w-1.nashkan.net^
 ||vno01.dnscry.pt^
 ||volkens.services^
+||vorlif.org^
 ||vova.hr.i81.ru^
 ||vovale.hr.i81.ru^
 ||vovale.vd.i81.ru^
@@ -3645,6 +3652,7 @@
 ||ychen.ga^
 ||ychen.gq^
 ||yeralin.net^
+||yh.hk1.shuaib.icu^
 ||ymjx.shimmerl.top^
 ||ymq01.dnscry.pt^
 ||yory2cave.hopto.me^
