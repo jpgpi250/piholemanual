@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2407070228 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2407080204 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2024-07-07 02:28:04 (UTC)
+; Last updated: 2024-07-08 02:04:43 (UTC)
 ;
 ; See https://jpgpi250.github.io/piholemanual/doc/Unbound%20response%20policy%20zones.pdf
 ; Report issues at https://github.com/jpgpi250/piholemanual/issues
@@ -25,12 +25,12 @@ $TTL 30
 1.11i.eu CNAME .
 15101844.xyz CNAME .
 180.0rz.space CNAME .
+19a8b89bb6b2491ca5cccbeb0e84a4c4.pacloudflare.com CNAME .
 1and1-dns.de CNAME .
 1a.ns.ozer.im CNAME .
 1b.ns.ozer.im CNAME .
 1.dns.noridev.moe CNAME .
 1dot1dot1dot1.cloudflare-dns.com CNAME .
-1dot1dot1dot1.cloudflaredns.com CNAME .
 1ee.top CNAME .
 1.id.sdn.airns.net CNAME .
 1.rock-review.ru CNAME .
@@ -51,7 +51,6 @@ $TTL 30
 3.11i.eu CNAME .
 317252.xyz CNAME .
 3dns.eu CNAME .
-3u6gx7qomyqyul1l.myfritz.net CNAME .
 45.32.17.58.vultrusercontent.com CNAME .
 45-76-84-146.colo.xandodigital.net CNAME .
 4yix.l.time4vps.cloud CNAME .
@@ -497,7 +496,6 @@ as17820865.click CNAME .
 as6604t-04.myasustor.com CNAME .
 a.safe.ns.dnslify.com CNAME .
 asia.dnscepat.id CNAME .
-astra.ender.fr CNAME .
 asuswrt.jaye.sh CNAME .
 atelier.alica.idv.tw CNAME .
 a.tgzazas.top CNAME .
@@ -1570,7 +1568,6 @@ dns.seekfor.top CNAME .
 dns.seiffert.me CNAME .
 dns.sellan.fr CNAME .
 dnsse-noads.alekberg.net CNAME .
-dnssenoads.alekberg.net CNAME .
 dns.serdcebolit.ru CNAME .
 dns.servergs.net CNAME .
 dnsserver.mailchan.eu CNAME .
@@ -1742,6 +1739,7 @@ dns.xinwujiang.cn CNAME .
 dns.xiumu.org CNAME .
 dns.xiumu.org.cdn.cloudflare.net CNAME .
 dns.xivilay.dev CNAME .
+dns.xlion.tw CNAME .
 dns.xwdmw.xyz CNAME .
 dns.xydustc.me CNAME .
 dns.yameenassotally.com CNAME .
@@ -2109,6 +2107,7 @@ exns1.exalto.nu CNAME .
 extended.dns.mullvad.net CNAME .
 externalmobiel.lekdijk.online CNAME .
 eyg01.dnscry.pt CNAME .
+f03a0e2fa9f5.sn.mynetname.net CNAME .
 f1.dns.s3cure.me CNAME .
 f.761761.xyz CNAME .
 faked.org CNAME .
@@ -2116,7 +2115,6 @@ family.5ososea.com CNAME .
 family.adguard-dns.com CNAME .
 family.canadianshield.cira.ca CNAME .
 family.cloudflare-dns.com CNAME .
-family.cloudflaredns.com CNAME .
 family.dns.mullvad.net CNAME .
 family.dns.ningkelle.id CNAME .
 family.dns.teknoholistik.com CNAME .
@@ -2193,6 +2191,7 @@ fwgw.orangepipc.mywire.org CNAME .
 gaia.plonknet.com CNAME .
 galileo.math.unipd.it CNAME .
 gandhico2.duckdns.org CNAME .
+gateway.baltes.info CNAME .
 gateway.fomichev.cloud CNAME .
 gauss.pp.ua CNAME .
 gayanalysing.co.uk CNAME .
@@ -2611,7 +2610,6 @@ mkvvpssrv12.freemyip.com CNAME .
 m.myspace.sbs CNAME .
 mnrv.trade CNAME .
 mo0on15.com CNAME .
-montmorot.duckdns.org CNAME .
 monty.best CNAME .
 moonbd.top CNAME .
 morbitzer.de CNAME .
@@ -3094,7 +3092,6 @@ secure.onedns.cc CNAME .
 securifi.jagalabs.net CNAME .
 securitate.live CNAME .
 security.cloudflare-dns.com CNAME .
-security.cloudflaredns.com CNAME .
 security-filter-dns.cleanbrowsing.org CNAME .
 security.rabbitdns.org CNAME .
 seedboxhome.phucbui.top CNAME .
@@ -3228,7 +3225,6 @@ test.dnsteam.globuscs.info CNAME .
 testguard.meexx.de CNAME .
 tetra.aeins.at CNAME .
 tetty-is.so-gorgeo.us.kg CNAME .
-tezoi.duckdns.org CNAME .
 thanos.pleumkungz.com CNAME .
 thefamilypuls.com CNAME .
 tienpham.id.vn CNAME .
@@ -3456,7 +3452,6 @@ vps309.brueggus.de CNAME .
 vps310.brueggus.de CNAME .
 vps311.brueggus.de CNAME .
 vps312.brueggus.de CNAME .
-vps313.brueggus.de CNAME .
 vps314.brueggus.de CNAME .
 vps317.brueggus.de CNAME .
 vps322.brueggus.de CNAME .
@@ -3647,6 +3642,7 @@ ychen.cf CNAME .
 ychen.ga CNAME .
 ychen.gq CNAME .
 yeralin.net CNAME .
+yh.hk1.shuaib.icu CNAME .
 yh.themcgoughs.org CNAME .
 ymjx.shimmerl.top CNAME .
 ymq01.dnscry.pt CNAME .
