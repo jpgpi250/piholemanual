@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2407090228 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2407100233 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2024-07-09 02:28:58 (UTC)
+; Last updated: 2024-07-10 02:33:22 (UTC)
 ;
 ; See https://jpgpi250.github.io/piholemanual/doc/Unbound%20response%20policy%20zones.pdf
 ; Report issues at https://github.com/jpgpi250/piholemanual/issues
@@ -50,7 +50,6 @@ $TTL 30
 3.11i.eu CNAME .
 317252.xyz CNAME .
 3dns.eu CNAME .
-3u6gx7qomyqyul1l.myfritz.net CNAME .
 45.32.17.58.vultrusercontent.com CNAME .
 45-76-84-146.colo.xandodigital.net CNAME .
 4yix.l.time4vps.cloud CNAME .
@@ -469,7 +468,6 @@ an.loliconapp.top CNAME .
 a.ns.dnslify.com CNAME .
 antarlangit.my.id CNAME .
 ant.dns.qwer.pw CNAME .
-antidns.s.tuna.tsinghua.edu.cn CNAME .
 antivirus.bebasid.com CNAME .
 anycast.censurfridns.dk CNAME .
 anycast.censurfridns.nu CNAME .
@@ -655,9 +653,9 @@ clearweb.woodbridge.club CNAME .
 clic.eu.org CNAME .
 clientdns3.softcom.net CNAME .
 cloud.198.games CNAME .
+cloud1.server.busold.ws CNAME .
 cloudbasesolutions.online CNAME .
 cloudflare-dns.com CNAME .
-cloudflaredns.com CNAME .
 cloudflare-gateway.com CNAME .
 cloudflareresolve.com CNAME .
 cloud.graphicpoint.pl CNAME .
@@ -701,6 +699,7 @@ d2bphvjyj895l0.cloudfront.net CNAME .
 d2.shabi.icu CNAME .
 d3.shabi.icu CNAME .
 d3vy.ru CNAME .
+d4yge1fn4wr.d.firewalla.org CNAME .
 d.adguard-dns.com CNAME .
 dadns.one CNAME .
 dahamnw.at CNAME .
@@ -1177,7 +1176,6 @@ dns.gi.co.id CNAME .
 dns.ginovs.nl CNAME .
 dns.giorgiooppo.it CNAME .
 dns.girino.org CNAME .
-dns.glorydns.com CNAME .
 dns.gmserv.cc CNAME .
 dns.gnb09.id CNAME .
 dns.goldplate.org CNAME .
@@ -1488,6 +1486,7 @@ dns.phillipjberry.net CNAME .
 dns.philqoo.com CNAME .
 dns.phucbui.top CNAME .
 dns.pieterdherde.com CNAME .
+dns.pietjacobs.be CNAME .
 dns.pine-home.de CNAME .
 dns.ple91.uk CNAME .
 dns.pmxu.link CNAME .
@@ -1570,6 +1569,7 @@ dns.seekfor.top CNAME .
 dns.seiffert.me CNAME .
 dns.sellan.fr CNAME .
 dnsse-noads.alekberg.net CNAME .
+dnssenoads.alekberg.net CNAME .
 dns.serdcebolit.ru CNAME .
 dns.servergs.net CNAME .
 dnsserver.mailchan.eu CNAME .
@@ -1845,6 +1845,7 @@ doh.dns4all.eu CNAME .
 doh.dns.apple.com CNAME .
 doh.dns.apple.com.v.aaplimg.com CNAME .
 doh.dnscrypt.uk CNAME .
+doh.dnsfilter.com CNAME .
 doh.dns-ga.de CNAME .
 doh.dnslify.com CNAME .
 doh.dnsovertor.cc CNAME .
@@ -2110,7 +2111,6 @@ exns1.exalto.nu CNAME .
 extended.dns.mullvad.net CNAME .
 externalmobiel.lekdijk.online CNAME .
 eyg01.dnscry.pt CNAME .
-f03a0e2fa9f5.sn.mynetname.net CNAME .
 f1.dns.s3cure.me CNAME .
 f.761761.xyz CNAME .
 faked.org CNAME .
@@ -2194,6 +2194,7 @@ fwgw.orangepipc.mywire.org CNAME .
 gaia.plonknet.com CNAME .
 galileo.math.unipd.it CNAME .
 gandhico2.duckdns.org CNAME .
+gateway.baltes.info CNAME .
 gateway.fomichev.cloud CNAME .
 gauss.pp.ua CNAME .
 gayanalysing.co.uk CNAME .
@@ -2613,6 +2614,7 @@ mkvvpssrv12.freemyip.com CNAME .
 m.myspace.sbs CNAME .
 mnrv.trade CNAME .
 mo0on15.com CNAME .
+montmorot.duckdns.org CNAME .
 monty.best CNAME .
 moonbd.top CNAME .
 morbitzer.de CNAME .
@@ -2804,6 +2806,7 @@ olga.vpn.i81.ru CNAME .
 omr01.dnscry.pt CNAME .
 one.dotted.9l3.com CNAME .
 one.one.one.one CNAME .
+onlyfriends.info CNAME .
 o--o.duckdns.org CNAME .
 oostelbos.dynu.com CNAME .
 opencdn.jomodns.com CNAME .
@@ -3226,6 +3229,7 @@ test.dnsteam.globuscs.info CNAME .
 testguard.meexx.de CNAME .
 tetra.aeins.at CNAME .
 tetty-is.so-gorgeo.us.kg CNAME .
+tezoi.duckdns.org CNAME .
 thanos.pleumkungz.com CNAME .
 thefamilypuls.com CNAME .
 tienpham.id.vn CNAME .
@@ -3616,6 +3620,7 @@ www.vpnhellings.nl CNAME .
 www.vpn.stroialliance.com CNAME .
 www.zburger.top CNAME .
 wyx.cloud CNAME .
+x2ox.com CNAME .
 xenergy.cc CNAME .
 xfer.au CNAME .
 xhol.top CNAME .
@@ -3643,7 +3648,6 @@ ychen.cf CNAME .
 ychen.ga CNAME .
 ychen.gq CNAME .
 yeralin.net CNAME .
-yh.hk1.shuaib.icu CNAME .
 yh.themcgoughs.org CNAME .
 ymjx.shimmerl.top CNAME .
 ymq01.dnscry.pt CNAME .
