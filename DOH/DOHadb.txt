@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2024-07-09 02:43:41 (UTC)
+! Last updated: 2024-07-10 02:48:05 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -46,7 +46,6 @@
 ||3.11i.eu^
 ||317252.xyz^
 ||3dns.eu^
-||3u6gx7qomyqyul1l.myfritz.net^
 ||45.32.17.58.vultrusercontent.com^
 ||45-76-84-146.colo.xandodigital.net^
 ||4yix.l.time4vps.cloud^
@@ -465,7 +464,6 @@
 ||a.ns.dnslify.com^
 ||antarlangit.my.id^
 ||ant.dns.qwer.pw^
-||antidns.s.tuna.tsinghua.edu.cn^
 ||antivirus.bebasid.com^
 ||anycast.censurfridns.dk^
 ||anycast.censurfridns.nu^
@@ -651,9 +649,9 @@
 ||clic.eu.org^
 ||clientdns3.softcom.net^
 ||cloud.198.games^
+||cloud1.server.busold.ws^
 ||cloudbasesolutions.online^
 ||cloudflare-dns.com^
-||cloudflaredns.com^
 ||cloudflare-gateway.com^
 ||cloudflareresolve.com^
 ||cloud.graphicpoint.pl^
@@ -697,6 +695,7 @@
 ||d2.shabi.icu^
 ||d3.shabi.icu^
 ||d3vy.ru^
+||d4yge1fn4wr.d.firewalla.org^
 ||d.adguard-dns.com^
 ||dadns.one^
 ||dahamnw.at^
@@ -1173,7 +1172,6 @@
 ||dns.ginovs.nl^
 ||dns.giorgiooppo.it^
 ||dns.girino.org^
-||dns.glorydns.com^
 ||dns.gmserv.cc^
 ||dns.gnb09.id^
 ||dns.goldplate.org^
@@ -1484,6 +1482,7 @@
 ||dns.philqoo.com^
 ||dns.phucbui.top^
 ||dns.pieterdherde.com^
+||dns.pietjacobs.be^
 ||dns.pine-home.de^
 ||dns.ple91.uk^
 ||dns.pmxu.link^
@@ -1566,6 +1565,7 @@
 ||dns.seiffert.me^
 ||dns.sellan.fr^
 ||dnsse-noads.alekberg.net^
+||dnssenoads.alekberg.net^
 ||dns.serdcebolit.ru^
 ||dns.servergs.net^
 ||dnsserver.mailchan.eu^
@@ -1841,6 +1841,7 @@
 ||doh.dns.apple.com^
 ||doh.dns.apple.com.v.aaplimg.com^
 ||doh.dnscrypt.uk^
+||doh.dnsfilter.com^
 ||doh.dns-ga.de^
 ||doh.dnslify.com^
 ||doh.dnsovertor.cc^
@@ -2106,7 +2107,6 @@
 ||extended.dns.mullvad.net^
 ||externalmobiel.lekdijk.online^
 ||eyg01.dnscry.pt^
-||f03a0e2fa9f5.sn.mynetname.net^
 ||f1.dns.s3cure.me^
 ||f.761761.xyz^
 ||faked.org^
@@ -2190,6 +2190,7 @@
 ||gaia.plonknet.com^
 ||galileo.math.unipd.it^
 ||gandhico2.duckdns.org^
+||gateway.baltes.info^
 ||gateway.fomichev.cloud^
 ||gauss.pp.ua^
 ||gayanalysing.co.uk^
@@ -2609,6 +2610,7 @@
 ||m.myspace.sbs^
 ||mnrv.trade^
 ||mo0on15.com^
+||montmorot.duckdns.org^
 ||monty.best^
 ||moonbd.top^
 ||morbitzer.de^
@@ -2800,6 +2802,7 @@
 ||omr01.dnscry.pt^
 ||one.dotted.9l3.com^
 ||one.one.one.one^
+||onlyfriends.info^
 ||o--o.duckdns.org^
 ||oostelbos.dynu.com^
 ||opencdn.jomodns.com^
@@ -3222,6 +3225,7 @@
 ||testguard.meexx.de^
 ||tetra.aeins.at^
 ||tetty-is.so-gorgeo.us.kg^
+||tezoi.duckdns.org^
 ||thanos.pleumkungz.com^
 ||thefamilypuls.com^
 ||tienpham.id.vn^
@@ -3612,6 +3616,7 @@
 ||www.vpn.stroialliance.com^
 ||www.zburger.top^
 ||wyx.cloud^
+||x2ox.com^
 ||xenergy.cc^
 ||xfer.au^
 ||xhol.top^
@@ -3639,7 +3644,6 @@
 ||ychen.ga^
 ||ychen.gq^
 ||yeralin.net^
-||yh.hk1.shuaib.icu^
 ||yh.themcgoughs.org^
 ||ymjx.shimmerl.top^
 ||ymq01.dnscry.pt^
