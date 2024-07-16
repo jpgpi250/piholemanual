@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2024-07-14 02:09:40 (UTC)
+! Last updated: 2024-07-15 02:01:16 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -15,12 +15,10 @@
 ||0ms.dev^
 ||1001.cloudflare-dns.com^
 ||10787578eb1e4b75adfa6b2a4bdea0b5.pacloudflare.com^
-||10.milkpie.one^
 ||1.0rz.space^
 ||1111.cloudflare-dns.com^
 ||1.11i.eu^
 ||15101844.xyz^
-||180.0rz.space^
 ||1and1-dns.de^
 ||1a.ns.ozer.im^
 ||1b.ns.ozer.im^
@@ -45,6 +43,7 @@
 ||2wired.hopto.org^
 ||3.11i.eu^
 ||3dns.eu^
+||3u6gx7qomyqyul1l.myfritz.net^
 ||45.32.17.58.vultrusercontent.com^
 ||45-76-84-146.colo.xandodigital.net^
 ||4yix.l.time4vps.cloud^
@@ -512,7 +511,6 @@
 ||au-syd-w-f-1.nashkan.net^
 ||au-syd-w-p-1.nashkan.net^
 ||au.teradns.org^
-||auto-cn-hk-8000.go-behind.one^
 ||aviemore.dns.walshnet.co.uk^
 ||a.vvvglass.com^
 ||awan.ftp.sh^
@@ -625,7 +623,6 @@
 ||ch01adguardho.me^
 ||chandr1000.net^
 ||changesmart2024.top^
-||chanhome.xyz^
 ||chaos-system.de^
 ||chenrouter.chironys.com^
 ||chewbacca.meganerd.nl^
@@ -659,7 +656,6 @@
 ||cluster-0.gac.edu^
 ||cluster-1.gac.edu^
 ||cn1-v0.ibd.ink^
-||cname-for-doh.go-behind.one^
 ||cn.turngreatwall.com^
 ||coe01.dnscry.pt^
 ||common.dot.dns.yandex.net^
@@ -1029,6 +1025,7 @@
 ||dns.codarbyte.de^
 ||dns.colorfreedom.org^
 ||dns.comeonjames.club^
+||dns.comff.net^
 ||dns.comss.one^
 ||dns.connect.fail^
 ||dns.containerpi.com^
@@ -1745,6 +1742,7 @@
 ||dns.xiumu.org.cdn.cloudflare.net^
 ||dns.xivilay.dev^
 ||dns.xlion.tw^
+||dns.xuming.studio^
 ||dns.xwdmw.xyz^
 ||dns.xydustc.me^
 ||dns.yameenassotally.com^
@@ -2115,7 +2113,6 @@
 ||extended.dns.mullvad.net^
 ||externalmobiel.lekdijk.online^
 ||eyg01.dnscry.pt^
-||f03a0e2fa9f5.sn.mynetname.net^
 ||f1.dns.s3cure.me^
 ||f.761761.xyz^
 ||faked.org^
@@ -2240,7 +2237,6 @@
 ||grunwald-marc.de^
 ||gruppo.pp.ua^
 ||gsat.familyds.com^
-||gtm-sg-5r538sziu04.go-behind.one^
 ||gtw.benoit.jp.net^
 ||guanmengkai.com^
 ||guanmengkai.com.a.bdydns.com^
@@ -2375,7 +2371,6 @@
 ||internetsehat.bebasid.com^
 ||intertop.link^
 ||invidious.arashi.solutions^
-||io_cli.cdn.ovpn.bond^
 ||iofixdns1.duckdns.org^
 ||iofixdns2.duckdns.org^
 ||iot-dns.com^
@@ -2469,7 +2464,6 @@
 ||kirov.v6.rocks^
 ||kiv01.dnscry.pt^
 ||kiwifunke.duckdns.org^
-||kk.sshub.win^
 ||knight1.de^
 ||knowvibe.tech^
 ||kocapb.ru^
@@ -2609,6 +2603,8 @@
 ||mikatos.de^
 ||mikewaddick.com^
 ||mil01.dnscry.pt^
+||mimile.despagne.net^
+||mimile.despagne.ovh^
 ||minami.website^
 ||minilla.store^
 ||mkvvpssrv12.freemyip.com^
@@ -2840,7 +2836,6 @@
 ||outdoor.v6.army^
 ||outie.8ws.net^
 ||outiejr.8ws.net^
-||ovh.panszelescik.pl^
 ||owndns.dedyn.io^
 ||p0.freedns.controld.com^
 ||p1.freedns.controld.com^
@@ -3108,7 +3103,6 @@
 ||server01.vboekel.nl^
 ||server.felixf.eu^
 ||serverhk.rannj.top^
-||servernation.xyz^
 ||server.pragmasec.nl^
 ||serverrmha1.ddnsku.my.id^
 ||server.spirio.fr^
@@ -3314,7 +3308,6 @@
 ||us02.dns4me.net^
 ||us1.blissdns.net^
 ||us1.dns.lavate.ch^
-||us5.wan.hc7z.com^
 ||usa1.altcensored.com^
 ||us-ash-w-f-1.nashkan.net^
 ||us-atl-w-2.nashkan.net^
