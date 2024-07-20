@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2407190136 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2407200203 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2024-07-19 01:36:57 (UTC)
+; Last updated: 2024-07-20 02:03:22 (UTC)
 ;
 ; See https://jpgpi250.github.io/piholemanual/doc/Unbound%20response%20policy%20zones.pdf
 ; Report issues at https://github.com/jpgpi250/piholemanual/issues
@@ -25,7 +25,6 @@ $TTL 30
 1.11i.eu CNAME .
 15101844.xyz CNAME .
 180.0rz.space CNAME .
-19a8b89bb6b2491ca5cccbeb0e84a4c4.pacloudflare.com CNAME .
 1and1-dns.de CNAME .
 1a.ns.ozer.im CNAME .
 1b.ns.ozer.im CNAME .
@@ -49,9 +48,9 @@ $TTL 30
 2.dns.noridev.moe CNAME .
 2wired.hopto.org CNAME .
 3.11i.eu CNAME .
+351242444.xyz CNAME .
 3dcosas.xyz CNAME .
 3dns.eu CNAME .
-3u6gx7qomyqyul1l.myfritz.net CNAME .
 45.32.17.58.vultrusercontent.com CNAME .
 45-76-84-146.colo.xandodigital.net CNAME .
 4yix.l.time4vps.cloud CNAME .
@@ -70,7 +69,6 @@ a-bld.sys-adm.in CNAME .
 ablock.fuckit.ovh CNAME .
 abluehope.com CNAME .
 abn01.dnscry.pt CNAME .
-abstergo.it CNAME .
 acomit.lk CNAME .
 ad1.heronet.nl CNAME .
 ad.257053.xyz CNAME .
@@ -232,6 +230,7 @@ adguard.grantbruneau.com CNAME .
 adguard.green1052.com CNAME .
 adguard.h4nt3r.com CNAME .
 adguard.haneulo.com CNAME .
+adguard.hartley.cloud CNAME .
 adguard.helpdesk38.ru CNAME .
 adguardh.ga CNAME .
 adguard.hofi.li CNAME .
@@ -477,7 +476,6 @@ an.loliconapp.top CNAME .
 a.ns.dnslify.com CNAME .
 antarlangit.my.id CNAME .
 ant.dns.qwer.pw CNAME .
-antidns.s.tuna.tsinghua.edu.cn CNAME .
 antivirus.bebasid.com CNAME .
 anycast.censurfridns.dk CNAME .
 anycast.censurfridns.nu CNAME .
@@ -664,10 +662,8 @@ clearweb.woodbridge.club CNAME .
 clic.eu.org CNAME .
 clientdns3.softcom.net CNAME .
 cloud.198.games CNAME .
-cloud1.server.busold.ws CNAME .
 cloudbasesolutions.online CNAME .
 cloudflare-dns.com CNAME .
-cloudflaredns.com CNAME .
 cloudflare-gateway.com CNAME .
 cloudflareresolve.com CNAME .
 cloud.graphicpoint.pl CNAME .
@@ -1907,6 +1903,7 @@ doh.greenwood.eu.org CNAME .
 doh.gslb2.xfinity.com CNAME .
 doh.hottis.de CNAME .
 doh.ibr.cs.tu-bs.de CNAME .
+doh.immerda.ch CNAME .
 doh.in.ahadns.net CNAME .
 doh.infotek.net.id CNAME .
 doh.infracell.net CNAME .
@@ -2119,7 +2116,6 @@ ee-tll.doh.sb CNAME .
 egshe.myqnapcloud.com CNAME .
 eime.goip.de CNAME .
 eka.dilli.dev CNAME .
-elarvee.xyz CNAME .
 eliatofani.ovh CNAME .
 elisabeth.klarsgarden.com CNAME .
 elsa.airns.net CNAME .
@@ -2894,6 +2890,7 @@ paimon.sev.monster CNAME .
 panser.web.id CNAME .
 par01.dnscry.pt CNAME .
 paranoia.mydns.network CNAME .
+pashagame456.com CNAME .
 paskam.xyz CNAME .
 pates.services.sfr.fr.casepp.sfr.fr CNAME .
 paulo.nom.za CNAME .
