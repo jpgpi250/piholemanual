@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2407220218 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2407230141 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2024-07-22 02:18:51 (UTC)
+; Last updated: 2024-07-23 01:41:09 (UTC)
 ;
 ; See https://jpgpi250.github.io/piholemanual/doc/Unbound%20response%20policy%20zones.pdf
 ; Report issues at https://github.com/jpgpi250/piholemanual/issues
@@ -53,6 +53,7 @@ $TTL 30
 351242444.xyz CNAME .
 3dcosas.xyz CNAME .
 3dns.eu CNAME .
+3u6gx7qomyqyul1l.myfritz.net CNAME .
 45.32.17.58.vultrusercontent.com CNAME .
 45-76-84-146.colo.xandodigital.net CNAME .
 4yix.l.time4vps.cloud CNAME .
@@ -478,6 +479,7 @@ an.loliconapp.top CNAME .
 a.ns.dnslify.com CNAME .
 antarlangit.my.id CNAME .
 ant.dns.qwer.pw CNAME .
+antidns.s.tuna.tsinghua.edu.cn CNAME .
 antivirus.bebasid.com CNAME .
 anycast.censurfridns.dk CNAME .
 anycast.censurfridns.nu CNAME .
@@ -638,6 +640,7 @@ cc210f4a872c.sn.mynetname.net CNAME .
 cc2.v8er.net CNAME .
 ccadguard.dynu.net CNAME .
 c.cicitt.ch CNAME .
+cctv-vp.synology.me CNAME .
 ccyykk.top CNAME .
 cdn.0ms.dev CNAME .
 c-dns.com CNAME .
@@ -666,6 +669,7 @@ clearweb.woodbridge.club CNAME .
 clic.eu.org CNAME .
 clientdns3.softcom.net CNAME .
 cloud.198.games CNAME .
+cloud1.server.busold.ws CNAME .
 cloudbasesolutions.online CNAME .
 cloudflare-dns.com CNAME .
 cloudflare-gateway.com CNAME .
@@ -1479,6 +1483,7 @@ dns.octoworld.fr CNAME .
 dns.odinpl.com CNAME .
 dns.odirf.de CNAME .
 dns.ofdoom.net CNAME .
+dns.olgui.net CNAME .
 dns.oliviertv.co.za CNAME .
 dns.olpploiopkuyhiopsfrt.info CNAME .
 dns.onp.cloud CNAME .
@@ -1757,6 +1762,7 @@ dns.warrior.fr CNAME .
 dns.watch CNAME .
 dns.wdnts.ml CNAME .
 dns-weblock.wevpn.com CNAME .
+dns.webpotato.nl CNAME .
 dnswebvsn.com CNAME .
 dns.wechat.com CNAME .
 dns.weixin.qq.com.cn CNAME .
@@ -2203,6 +2209,7 @@ fra1.eyecay.xyz CNAME .
 fra.core.access.zznet.fun CNAME .
 fra-dns.bitdefender.net CNAME .
 frank-web.dedyn.io CNAME .
+fra-oracle-1.hosts.dada.li CNAME .
 fr-dns1.bancuh.com CNAME .
 fr-dns2.bancuh.com CNAME .
 free.bravedns.com CNAME .
@@ -2436,6 +2443,7 @@ jabber-server.de CNAME .
 jackyes.ovh CNAME .
 jalexx.freeboxos.fr CNAME .
 jarjar.meganerd.nl CNAME .
+javi.lat CNAME .
 jcdns.fun CNAME .
 jefe.space CNAME .
 jichi.hopto.org CNAME .
@@ -2473,6 +2481,7 @@ jp.tiar.app CNAME .
 jp-tyo-w-1.nashkan.net CNAME .
 jp-tyo-w-p-1.nashkan.net CNAME .
 jujuba.cafuringa.org CNAME .
+jungle-im.ir CNAME .
 jurre-home.duckdns.org CNAME .
 justfor.myasustor.com CNAME .
 justhost.bedro.cloud CNAME .
@@ -2733,7 +2742,6 @@ nicktruehome.ddns.net CNAME .
 nicsezcheckfbi.gov CNAME .
 nightlymoon.us.kg CNAME .
 nilanjan.rocks CNAME .
-ninhs-ai.synology.me CNAME .
 ninny.duckdns.org CNAME .
 nitter.ujwie.co CNAME .
 nl.adg.ghostzone.wtf CNAME .
@@ -3292,6 +3300,7 @@ tj.jamesxue.xyz CNAME .
 tk2-404-43267.vs.sakura.ne.jp CNAME .
 tk31z.com CNAME .
 tky-dns.bitdefender.net CNAME .
+tldn.org CNAME .
 tll01.dnscry.pt CNAME .
 tls-dns-u.odvr.dns-oarc.net CNAME .
 tls.jackyhou.idv.tw CNAME .
@@ -3507,6 +3516,7 @@ vps309.brueggus.de CNAME .
 vps310.brueggus.de CNAME .
 vps311.brueggus.de CNAME .
 vps312.brueggus.de CNAME .
+vps313.brueggus.de CNAME .
 vps314.brueggus.de CNAME .
 vps317.brueggus.de CNAME .
 vps322.brueggus.de CNAME .
@@ -3544,6 +3554,7 @@ vps359.brueggus.de CNAME .
 vps362.brueggus.de CNAME .
 vps363.brueggus.de CNAME .
 vps364.brueggus.de CNAME .
+vps365.brueggus.de CNAME .
 vps366.brueggus.de CNAME .
 vps367.brueggus.de CNAME .
 vps368.brueggus.de CNAME .
