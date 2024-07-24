@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2024-07-22 02:33:46 (UTC)
+! Last updated: 2024-07-23 01:56:07 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -49,6 +49,7 @@
 ||351242444.xyz^
 ||3dcosas.xyz^
 ||3dns.eu^
+||3u6gx7qomyqyul1l.myfritz.net^
 ||45.32.17.58.vultrusercontent.com^
 ||45-76-84-146.colo.xandodigital.net^
 ||4yix.l.time4vps.cloud^
@@ -474,6 +475,7 @@
 ||a.ns.dnslify.com^
 ||antarlangit.my.id^
 ||ant.dns.qwer.pw^
+||antidns.s.tuna.tsinghua.edu.cn^
 ||antivirus.bebasid.com^
 ||anycast.censurfridns.dk^
 ||anycast.censurfridns.nu^
@@ -634,6 +636,7 @@
 ||cc2.v8er.net^
 ||ccadguard.dynu.net^
 ||c.cicitt.ch^
+||cctv-vp.synology.me^
 ||ccyykk.top^
 ||cdn.0ms.dev^
 ||c-dns.com^
@@ -662,6 +665,7 @@
 ||clic.eu.org^
 ||clientdns3.softcom.net^
 ||cloud.198.games^
+||cloud1.server.busold.ws^
 ||cloudbasesolutions.online^
 ||cloudflare-dns.com^
 ||cloudflare-gateway.com^
@@ -1475,6 +1479,7 @@
 ||dns.odinpl.com^
 ||dns.odirf.de^
 ||dns.ofdoom.net^
+||dns.olgui.net^
 ||dns.oliviertv.co.za^
 ||dns.olpploiopkuyhiopsfrt.info^
 ||dns.onp.cloud^
@@ -1753,6 +1758,7 @@
 ||dns.watch^
 ||dns.wdnts.ml^
 ||dns-weblock.wevpn.com^
+||dns.webpotato.nl^
 ||dnswebvsn.com^
 ||dns.wechat.com^
 ||dns.weixin.qq.com.cn^
@@ -2199,6 +2205,7 @@
 ||fra.core.access.zznet.fun^
 ||fra-dns.bitdefender.net^
 ||frank-web.dedyn.io^
+||fra-oracle-1.hosts.dada.li^
 ||fr-dns1.bancuh.com^
 ||fr-dns2.bancuh.com^
 ||free.bravedns.com^
@@ -2432,6 +2439,7 @@
 ||jackyes.ovh^
 ||jalexx.freeboxos.fr^
 ||jarjar.meganerd.nl^
+||javi.lat^
 ||jcdns.fun^
 ||jefe.space^
 ||jichi.hopto.org^
@@ -2469,6 +2477,7 @@
 ||jp-tyo-w-1.nashkan.net^
 ||jp-tyo-w-p-1.nashkan.net^
 ||jujuba.cafuringa.org^
+||jungle-im.ir^
 ||jurre-home.duckdns.org^
 ||justfor.myasustor.com^
 ||justhost.bedro.cloud^
@@ -2729,7 +2738,6 @@
 ||nicsezcheckfbi.gov^
 ||nightlymoon.us.kg^
 ||nilanjan.rocks^
-||ninhs-ai.synology.me^
 ||ninny.duckdns.org^
 ||nitter.ujwie.co^
 ||nl.adg.ghostzone.wtf^
@@ -3288,6 +3296,7 @@
 ||tk2-404-43267.vs.sakura.ne.jp^
 ||tk31z.com^
 ||tky-dns.bitdefender.net^
+||tldn.org^
 ||tll01.dnscry.pt^
 ||tls-dns-u.odvr.dns-oarc.net^
 ||tls.jackyhou.idv.tw^
@@ -3503,6 +3512,7 @@
 ||vps310.brueggus.de^
 ||vps311.brueggus.de^
 ||vps312.brueggus.de^
+||vps313.brueggus.de^
 ||vps314.brueggus.de^
 ||vps317.brueggus.de^
 ||vps322.brueggus.de^
@@ -3540,6 +3550,7 @@
 ||vps362.brueggus.de^
 ||vps363.brueggus.de^
 ||vps364.brueggus.de^
+||vps365.brueggus.de^
 ||vps366.brueggus.de^
 ||vps367.brueggus.de^
 ||vps368.brueggus.de^
