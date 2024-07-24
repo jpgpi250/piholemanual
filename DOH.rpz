@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2407230141 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2407240227 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2024-07-23 01:41:09 (UTC)
+; Last updated: 2024-07-24 02:27:56 (UTC)
 ;
 ; See https://jpgpi250.github.io/piholemanual/doc/Unbound%20response%20policy%20zones.pdf
 ; Report issues at https://github.com/jpgpi250/piholemanual/issues
@@ -53,7 +53,6 @@ $TTL 30
 351242444.xyz CNAME .
 3dcosas.xyz CNAME .
 3dns.eu CNAME .
-3u6gx7qomyqyul1l.myfritz.net CNAME .
 45.32.17.58.vultrusercontent.com CNAME .
 45-76-84-146.colo.xandodigital.net CNAME .
 4yix.l.time4vps.cloud CNAME .
@@ -479,7 +478,6 @@ an.loliconapp.top CNAME .
 a.ns.dnslify.com CNAME .
 antarlangit.my.id CNAME .
 ant.dns.qwer.pw CNAME .
-antidns.s.tuna.tsinghua.edu.cn CNAME .
 antivirus.bebasid.com CNAME .
 anycast.censurfridns.dk CNAME .
 anycast.censurfridns.nu CNAME .
@@ -508,7 +506,6 @@ as17820865.click CNAME .
 as6604t-04.myasustor.com CNAME .
 a.safe.ns.dnslify.com CNAME .
 asia.dnscepat.id CNAME .
-astra.ender.fr CNAME .
 asuswrt.jaye.sh CNAME .
 atelier.alica.idv.tw CNAME .
 a.tgzazas.top CNAME .
@@ -669,9 +666,9 @@ clearweb.woodbridge.club CNAME .
 clic.eu.org CNAME .
 clientdns3.softcom.net CNAME .
 cloud.198.games CNAME .
-cloud1.server.busold.ws CNAME .
 cloudbasesolutions.online CNAME .
 cloudflare-dns.com CNAME .
+cloudflaredns.com CNAME .
 cloudflare-gateway.com CNAME .
 cloudflareresolve.com CNAME .
 cloud.graphicpoint.pl CNAME .
@@ -732,7 +729,6 @@ daverotaquio.net CNAME .
 ddd2.loukky.com CNAME .
 ddd.loukky.com CNAME .
 ddd.xiaofuc.top CNAME .
-ddns.ddns.bigqy.eu.org CNAME .
 ddns.ddnsddns.online CNAME .
 de01.dns4me.net CNAME .
 de1.danielnet.eu CNAME .
@@ -1205,7 +1201,6 @@ dns.gi.co.id CNAME .
 dns.ginovs.nl CNAME .
 dns.giorgiooppo.it CNAME .
 dns.girino.org CNAME .
-dns.glorydns.com CNAME .
 dns.gmserv.cc CNAME .
 dns.gnb09.id CNAME .
 dns.goldplate.org CNAME .
@@ -2237,7 +2232,6 @@ fwgw.orangepipc.mywire.org CNAME .
 gaia.plonknet.com CNAME .
 galileo.math.unipd.it CNAME .
 gandhico2.duckdns.org CNAME .
-gateway.baltes.info CNAME .
 gateway.fomichev.cloud CNAME .
 gattow.com CNAME .
 gauss.pp.ua CNAME .
@@ -2258,9 +2252,9 @@ geg01.dnscry.pt CNAME .
 genscorp.es CNAME .
 geshido.vpn.geshido.ru CNAME .
 getdnsapi.net CNAME .
+ghilmanaji.xyz CNAME .
 ginnungagap.rabenhain.net CNAME .
 git.andrewnw.xyz CNAME .
-gloom.nexus CNAME .
 gm-dns-01.southcentralus.azurecontainer.io CNAME .
 gmf2.ddns.net CNAME .
 gn-z11.franscois.co.za CNAME .
@@ -2443,7 +2437,6 @@ jabber-server.de CNAME .
 jackyes.ovh CNAME .
 jalexx.freeboxos.fr CNAME .
 jarjar.meganerd.nl CNAME .
-javi.lat CNAME .
 jcdns.fun CNAME .
 jefe.space CNAME .
 jichi.hopto.org CNAME .
@@ -2601,6 +2594,9 @@ lt-vil-w-3.nashkan.net CNAME .
 luba.hr.i81.ru CNAME .
 luba.vd.i81.ru CNAME .
 luba.vpn.i81.ru CNAME .
+lukscasino-479-tr.xyz CNAME .
+lukscasino-542-tr.xyz CNAME .
+lukscasino-929-tr.xyz CNAME .
 luna-is.so-gorgeo.us.kg CNAME .
 lux1.nixnet.xyz CNAME .
 lux.sn0w.nl CNAME .
@@ -2872,7 +2868,6 @@ opera.cloudflare-dns.com CNAME .
 op.htyweb.top CNAME .
 ora1.nocnik.org CNAME .
 oracle001.330k.biz CNAME .
-oracle2.herry.dev CNAME .
 oraclejp2.chungyu.com CNAME .
 oradns.anbitech.com CNAME .
 orasrv.kellys.pw CNAME .
@@ -3212,6 +3207,7 @@ site-2.duckdns.org CNAME .
 site-3.duckdns.org CNAME .
 sjc01.dnscry.pt CNAME .
 sk-bra-w-1.nashkan.net CNAME .
+skydragoness.com CNAME .
 sky.rethinkdns.com CNAME .
 skyroom.online.bugflaed2.shahram-m8.com CNAME .
 skyroom.online.cdn40.shahrammedia.com CNAME .
@@ -3274,6 +3270,7 @@ takhtakh.domyah.net CNAME .
 tartanbahn.eu.org CNAME .
 tbhfdg.fdhiuli.gtmlgag-tankgaioln.com CNAME .
 td-doh.dns.t53.de CNAME .
+tecdrive.site CNAME .
 telex.app CNAME .
 terminalpower.top CNAME .
 teslacoils.org.uk CNAME .
@@ -3300,7 +3297,6 @@ tj.jamesxue.xyz CNAME .
 tk2-404-43267.vs.sakura.ne.jp CNAME .
 tk31z.com CNAME .
 tky-dns.bitdefender.net CNAME .
-tldn.org CNAME .
 tll01.dnscry.pt CNAME .
 tls-dns-u.odvr.dns-oarc.net CNAME .
 tls.jackyhou.idv.tw CNAME .
