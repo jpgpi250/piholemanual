@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2024-07-23 01:56:07 (UTC)
+! Last updated: 2024-07-24 02:42:50 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -49,7 +49,6 @@
 ||351242444.xyz^
 ||3dcosas.xyz^
 ||3dns.eu^
-||3u6gx7qomyqyul1l.myfritz.net^
 ||45.32.17.58.vultrusercontent.com^
 ||45-76-84-146.colo.xandodigital.net^
 ||4yix.l.time4vps.cloud^
@@ -475,7 +474,6 @@
 ||a.ns.dnslify.com^
 ||antarlangit.my.id^
 ||ant.dns.qwer.pw^
-||antidns.s.tuna.tsinghua.edu.cn^
 ||antivirus.bebasid.com^
 ||anycast.censurfridns.dk^
 ||anycast.censurfridns.nu^
@@ -504,7 +502,6 @@
 ||as6604t-04.myasustor.com^
 ||a.safe.ns.dnslify.com^
 ||asia.dnscepat.id^
-||astra.ender.fr^
 ||asuswrt.jaye.sh^
 ||atelier.alica.idv.tw^
 ||a.tgzazas.top^
@@ -665,9 +662,9 @@
 ||clic.eu.org^
 ||clientdns3.softcom.net^
 ||cloud.198.games^
-||cloud1.server.busold.ws^
 ||cloudbasesolutions.online^
 ||cloudflare-dns.com^
+||cloudflaredns.com^
 ||cloudflare-gateway.com^
 ||cloudflareresolve.com^
 ||cloud.graphicpoint.pl^
@@ -728,7 +725,6 @@
 ||ddd2.loukky.com^
 ||ddd.loukky.com^
 ||ddd.xiaofuc.top^
-||ddns.ddns.bigqy.eu.org^
 ||ddns.ddnsddns.online^
 ||de01.dns4me.net^
 ||de1.danielnet.eu^
@@ -1201,7 +1197,6 @@
 ||dns.ginovs.nl^
 ||dns.giorgiooppo.it^
 ||dns.girino.org^
-||dns.glorydns.com^
 ||dns.gmserv.cc^
 ||dns.gnb09.id^
 ||dns.goldplate.org^
@@ -2233,7 +2228,6 @@
 ||gaia.plonknet.com^
 ||galileo.math.unipd.it^
 ||gandhico2.duckdns.org^
-||gateway.baltes.info^
 ||gateway.fomichev.cloud^
 ||gattow.com^
 ||gauss.pp.ua^
@@ -2254,9 +2248,9 @@
 ||genscorp.es^
 ||geshido.vpn.geshido.ru^
 ||getdnsapi.net^
+||ghilmanaji.xyz^
 ||ginnungagap.rabenhain.net^
 ||git.andrewnw.xyz^
-||gloom.nexus^
 ||gm-dns-01.southcentralus.azurecontainer.io^
 ||gmf2.ddns.net^
 ||gn-z11.franscois.co.za^
@@ -2439,7 +2433,6 @@
 ||jackyes.ovh^
 ||jalexx.freeboxos.fr^
 ||jarjar.meganerd.nl^
-||javi.lat^
 ||jcdns.fun^
 ||jefe.space^
 ||jichi.hopto.org^
@@ -2597,6 +2590,9 @@
 ||luba.hr.i81.ru^
 ||luba.vd.i81.ru^
 ||luba.vpn.i81.ru^
+||lukscasino-479-tr.xyz^
+||lukscasino-542-tr.xyz^
+||lukscasino-929-tr.xyz^
 ||luna-is.so-gorgeo.us.kg^
 ||lux1.nixnet.xyz^
 ||lux.sn0w.nl^
@@ -2868,7 +2864,6 @@
 ||op.htyweb.top^
 ||ora1.nocnik.org^
 ||oracle001.330k.biz^
-||oracle2.herry.dev^
 ||oraclejp2.chungyu.com^
 ||oradns.anbitech.com^
 ||orasrv.kellys.pw^
@@ -3208,6 +3203,7 @@
 ||site-3.duckdns.org^
 ||sjc01.dnscry.pt^
 ||sk-bra-w-1.nashkan.net^
+||skydragoness.com^
 ||sky.rethinkdns.com^
 ||skyroom.online.bugflaed2.shahram-m8.com^
 ||skyroom.online.cdn40.shahrammedia.com^
@@ -3270,6 +3266,7 @@
 ||tartanbahn.eu.org^
 ||tbhfdg.fdhiuli.gtmlgag-tankgaioln.com^
 ||td-doh.dns.t53.de^
+||tecdrive.site^
 ||telex.app^
 ||terminalpower.top^
 ||teslacoils.org.uk^
@@ -3296,7 +3293,6 @@
 ||tk2-404-43267.vs.sakura.ne.jp^
 ||tk31z.com^
 ||tky-dns.bitdefender.net^
-||tldn.org^
 ||tll01.dnscry.pt^
 ||tls-dns-u.odvr.dns-oarc.net^
 ||tls.jackyhou.idv.tw^
