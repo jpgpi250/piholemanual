@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2024-07-26 02:12:43 (UTC)
+! Last updated: 2024-07-27 01:13:24 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -22,14 +22,12 @@
 ||123000123.xyz^
 ||15101844.xyz^
 ||180.0rz.space^
-||19a8b89bb6b2491ca5cccbeb0e84a4c4.pacloudflare.com^
 ||1and1-dns.de^
 ||1a.ns.ozer.im^
 ||1b.ns.ozer.im^
 ||1.dns.noridev.moe^
 ||1dot1dot1dot1.cloudflare-dns.com^
 ||1ee.top^
-||1.id.sdn.airns.net^
 ||1.rock-review.ru^
 ||2.0rz.space^
 ||2.11i.eu^
@@ -67,7 +65,6 @@
 ||ablock.fuckit.ovh^
 ||abluehope.com^
 ||abn01.dnscry.pt^
-||abstergo.it^
 ||acomit.lk^
 ||ad1.heronet.nl^
 ||ad.257053.xyz^
@@ -288,7 +285,6 @@
 ||adguard.pmoebi.xyz^
 ||adguard.pushedv.de^
 ||adguard.qsos.uk^
-||adguard.quydang.name.vn^
 ||adguard.rabmoor.cz^
 ||adguard.randomaizer.lentel.ru^
 ||adguard.rdekuyper.nl^
@@ -440,7 +436,6 @@
 ||akylah.zapto.org^
 ||al223-a73e-bj-v0.0.ibd.ink^
 ||albertocognetti.com^
-||alexpollard.synology.me^
 ||alidns2.cb1999.top^
 ||alidns.51top.info^
 ||alidns.cb1999.top^
@@ -455,7 +450,6 @@
 ||alpakalpha.duckdns.org^
 ||alpha.cixy.xyz^
 ||am.blgciottd.online^
-||amd1.sjp.loukky.com^
 ||amigo.hr.i81.ru^
 ||amigo.px.i81.ru^
 ||amigo.vd.i81.ru^
@@ -474,6 +468,7 @@
 ||a.ns.dnslify.com^
 ||antarlangit.my.id^
 ||ant.dns.qwer.pw^
+||antidns.s.tuna.tsinghua.edu.cn^
 ||antivirus.bebasid.com^
 ||anycast.censurfridns.dk^
 ||anycast.censurfridns.nu^
@@ -518,7 +513,6 @@
 ||au02.dns4me.net^
 ||audio.dehb.ru^
 ||augne.dns.walshnet.co.uk^
-||au.rslvr.eu^
 ||au-syd.doh.sb^
 ||au-syd-w-2.nashkan.net^
 ||au-syd-w-3.nashkan.net^
@@ -559,7 +553,6 @@
 ||bestwon203.com^
 ||bev.dns.walshnet.co.uk^
 ||b.family.ns.dnslify.com^
-||bg.rslvr.eu^
 ||bg-sof-w-3.nashkan.net^
 ||bh.wael.name^
 ||bigart.su^
@@ -610,7 +603,6 @@
 ||bwh.why4free.top^
 ||bw.marsgo.top^
 ||bw.mijoregner.de^
-||bziptv.bysrw.com^
 ||c7.0t0.co^
 ||ca01.dns4me.net^
 ||ca02.dns4me.net^
@@ -620,7 +612,6 @@
 ||calm-crown.freemyip.com^
 ||ca.loii.in^
 ||canadianshield.cira.ca^
-||carioka.dyndns.org^
 ||c-asm.circumitor.de^
 ||catdns.org^
 ||cattery2.eastasia.cloudapp.azure.com^
@@ -664,7 +655,6 @@
 ||clic.eu.org^
 ||clientdns3.softcom.net^
 ||cloud.198.games^
-||cloud1.server.busold.ws^
 ||cloudbasesolutions.online^
 ||cloudflare-dns.com^
 ||cloudflare-gateway.com^
@@ -791,6 +781,7 @@
 ||dns.0ooo.icu^
 ||dns0.permafrostmiami.com^
 ||dns.0rz.ing^
+||dns.0rz.space^
 ||dns0.tardishost.ru^
 ||dns.0x55.net^
 ||dns10.quad9.net^
@@ -1512,7 +1503,6 @@
 ||dns.philqoo.com^
 ||dns.phucbui.top^
 ||dns.pieterdherde.com^
-||dns.pietjacobs.be^
 ||dns.pine-home.de^
 ||dns.ple91.uk^
 ||dns.pmxu.link^
@@ -1747,7 +1737,6 @@
 ||dns.walshnet.co.uk^
 ||dns.wang.art^
 ||dns.wargan.io^
-||dns.warma.me^
 ||dns.warpnine.de^
 ||dns.warrior.fr^
 ||dns.watch^
@@ -1892,7 +1881,6 @@
 ||doh.epaphrodit.us^
 ||doh.es.ahadns.net^
 ||doh.eu.dnswarden.com^
-||doh.everdns.tech^
 ||doh.excdn.eu.org^
 ||doh.familyshield.opendns.com^
 ||doh.fatucloud.gosprout.org^
@@ -2106,7 +2094,6 @@
 ||eccloud.de^
 ||echoe1yidzu4ioo5.myfritz.net^
 ||ec.i-puppy.ru^
-||ecs-auto.fanscloud.net^
 ||ecs-doh.dnswarden.com^
 ||edbit.duckdns.org^
 ||eddi.usgovtrafficmanager.net^
@@ -2121,7 +2108,6 @@
 ||eka.dilli.dev^
 ||eliatofani.ovh^
 ||elisabeth.klarsgarden.com^
-||elsa.airns.net^
 ||emby.rasp.tv^
 ||emmmmm.me^
 ||eoin.dns.walshnet.co.uk^
@@ -2144,7 +2130,6 @@
 ||extended.dns.mullvad.net^
 ||externalmobiel.lekdijk.online^
 ||eyg01.dnscry.pt^
-||f03a0e2fa9f5.sn.mynetname.net^
 ||f1.dns.s3cure.me^
 ||f.761761.xyz^
 ||faked.org^
@@ -2186,7 +2171,6 @@
 ||filya.vd.i81.ru^
 ||filya.vpn.i81.ru^
 ||findmethedns.info^
-||firefenix.ddns.net^
 ||firefox.dns.nextdns.io^
 ||fjr01.dnscry.pt^
 ||flat.loisy.it^
@@ -2218,7 +2202,6 @@
 ||fuangkhon.com^
 ||fuchur.pentament.de^
 ||fukuda.ccnt.fr^
-||fulgore.fr^
 ||fuliming.xyz^
 ||fullaccesstointernet.jp.eu.org^
 ||funti.cc^
@@ -2258,7 +2241,6 @@
 ||gn-z11.franscois.co.za^
 ||goga7777777.bissnes.org^
 ||go.icoding168.xyz^
-||gonzcid.com^
 ||google-public-dns-a.google.com^
 ||google-public-dns-b.google.com^
 ||gordon81.ddns.net^
@@ -2303,7 +2285,6 @@
 ||hanniel.tech^
 ||harveyhome.top^
 ||haswell-www.a.guindehi.ch^
-||hdf084sqbme.sn.mynetname.net^
 ||he2.redvau.lt^
 ||heimdall.ff0x.ca^
 ||hel01.dnscry.pt^
@@ -2329,7 +2310,6 @@
 ||hk.mangosysdns.com^
 ||hkname.freecdn.one^
 ||hk.ravi.top^
-||hk.rslvr.eu^
 ||hoavan.io.vn^
 ||hole.elbschloss.xyz^
 ||home27.duckdns.org^
@@ -2355,7 +2335,6 @@
 ||home.qbak.net^
 ||home.r01.fr^
 ||home.realldz.id.vn^
-||home-server.exonip.de^
 ||homeserver.marcore.de^
 ||home.snow-sugar.net^
 ||home.tuankhaiit.com^
@@ -2385,7 +2364,6 @@
 ||ibuki.cgnat.net^
 ||id.local.v.ua^
 ||id-pon-w-1.nashkan.net^
-||id.sdn.airns.net^
 ||id.terra.my.id^
 ||ie01.dns4me.net^
 ||ie-dub-w-1.nashkan.net^
@@ -2395,7 +2373,6 @@
 ||igor.vpn.i81.ru^
 ||ihctw.synology.me^
 ||iij.jp^
-||ii.lov.host^
 ||ikarosalpha.xyz^
 ||imbuffering.com^
 ||ime-ingenierias.xyz^
@@ -2466,7 +2443,6 @@
 ||jp-kix.doh.sb^
 ||jp-nrt.doh.sb^
 ||jpok.996333.xyz^
-||jp.rslvr.eu^
 ||jp.tiarap.org^
 ||jp.tiar.app^
 ||jp-tyo-w-1.nashkan.net^
@@ -2505,7 +2481,6 @@
 ||kirov.v6.rocks^
 ||kiv01.dnscry.pt^
 ||kiwifunke.duckdns.org^
-||kk.sshub.win^
 ||knight1.de^
 ||knowvibe.tech^
 ||kocapb.ru^
@@ -2523,7 +2498,6 @@
 ||kracon.anycast.censurfridns.nu^
 ||kracon.anycast.uncensoreddns.dk^
 ||kracon.anycast.uncensoreddns.org^
-||kr.loukky.com^
 ||kronos.plan9-dns.com^
 ||kronos.plan9dns.com^
 ||kr.pigs.eu.org^
@@ -2538,7 +2512,6 @@
 ||kx.qing-book.online^
 ||kz-alm-w-1.nashkan.net^
 ||kz-pav-w-p-1.nashkan.net^
-||la1.zscale.gq^
 ||lab-1.sellan.fr^
 ||lab.sellan.fr^
 ||lajc.sytes.net^
@@ -2580,7 +2553,6 @@
 ||lomoff.spb.ru^
 ||lon01.dnscry.pt^
 ||lon-dns.bitdefender.net^
-||longdz.ddns.net^
 ||lorc17-dns.komeho.info^
 ||los01.dnscry.pt^
 ||los.conana.info^
@@ -2604,7 +2576,6 @@
 ||mad01.dnscry.pt^
 ||maherhost.uk^
 ||maikel.greppie.nl^
-||mail.4-the.win^
 ||mail.andrewnw.xyz^
 ||mail.data.haus^
 ||mailer.amlegion.org^
@@ -2614,7 +2585,6 @@
 ||mail.vik.ro^
 ||mainframe.dewed.de^
 ||main.zhhz.cc^
-||maison.auffray.org^
 ||maison.gifino.fr^
 ||malanser.ru^
 ||management.alexpollard.net^
@@ -2668,7 +2638,6 @@
 ||mr-romero.com^
 ||mru01.dnscry.pt^
 ||msr177.com^
-||mtdz.duckdns.org^
 ||muc01.dnscry.pt^
 ||muc-ns01.ibytex.systems^
 ||muli.stusta.mhn.de^
@@ -2744,7 +2713,6 @@
 ||nl-dro-w-f-1.nashkan.net^
 ||nl-dro-w-p-1.nashkan.net^
 ||nlname.freecdn.one^
-||nl.rslvr.eu^
 ||noad.kipp.cool^
 ||no-ad.levcloud.cloudns.nz^
 ||noads.api.org.pl^
@@ -2892,7 +2860,6 @@
 ||pad3w.pp.ua^
 ||padermail.net^
 ||pages.dev^
-||paimon.sev.monster^
 ||panser.web.id^
 ||par01.dnscry.pt^
 ||paranoia.mydns.network^
@@ -2924,7 +2891,6 @@
 ||pi.adblocker.eu.org^
 ||pi.daryllswer.net^
 ||pi-dns.gordon81.com^
-||piekacz.pl^
 ||pihole1.hoerli.net^
 ||pihole2.hoerli.net^
 ||pihole3.hoerli.net^
@@ -2991,7 +2957,6 @@
 ||pygos.space^
 ||q3i6k7j3.stackpathcdn.com^
 ||qaz.tw^
-||qbak.no-ip.eu^
 ||qlf-doh.inria.fr^
 ||qual.cuprum.ru^
 ||quangdo92.dynu.net^
@@ -3001,7 +2966,6 @@
 ||query.shenl.in^
 ||r1bnc.com^
 ||r1bnc.eu.org^
-||r2s.echotrail.net^
 ||rabenhain.net^
 ||rachel.jeroenhd.nl^
 ||radia.bortzmeyer.org^
@@ -3122,7 +3086,6 @@
 ||sbydoh.limotelu.org^
 ||scottdylewski.com^
 ||sdfasluqoiwuezcvcv.tech^
-||sdn.airns.net^
 ||sdns22.gkonuralp.com^
 ||sdns.233py.com^
 ||sdns.pro^
@@ -3155,7 +3118,6 @@
 ||server01.dr-adguard.de^
 ||server01.karl.one^
 ||server01.vboekel.nl^
-||server.felixf.eu^
 ||serverhk.rannj.top^
 ||servernation.xyz^
 ||server.pragmasec.nl^
@@ -3176,7 +3138,6 @@
 ||sg.jnraptor.com^
 ||sgn01.dnscry.pt^
 ||sgpcloud.duckdns.org^
-||sg.rslvr.eu^
 ||sgs02.just-a-web.com^
 ||sgs03.just-a-web.com^
 ||sg-sin.doh.sb^
@@ -3247,7 +3208,6 @@
 ||sto01.dnscry.pt^
 ||strangeservercdn.site^
 ||stratus.bugz.fr^
-||streamsmoke.com^
 ||strk12-filter.mtbroadband.us^
 ||sukidayo.eu.org^
 ||sundalandia.pp.ua^
@@ -3393,19 +3353,14 @@
 ||us-nyc-w-1.nashkan.net^
 ||us-nyc-w-f-1.nashkan.net^
 ||us-nyc-w-p-1.nashkan.net^
-||us.rslvr.eu^
 ||us-saj-w-f-1.nashkan.net^
 ||us-saj-w-p-1.nashkan.net^
 ||us-sea-w-5.nashkan.net^
 ||us-sea-w-6.nashkan.net^
-||usz.xydustc.me^
-||utangard.net^
 ||uw-dns.rubyfish.cn^
 ||ux.go20.cf^
 ||v1552270.hosted-by-vdsina.ru^
-||v1.lifeym.xyz^
 ||v2-1.huwenqiang.xyz^
-||v2hkdm.lyhlyh.xyz^
 ||v2rich.eu.org^
 ||v2.xx3210766.live^
 ||v3.passby.eu.org^
@@ -3430,7 +3385,6 @@
 ||virmamp33.sytes.net^
 ||vlad.dns.vladpro.ru^
 ||vladpro.ru^
-||vm01.eban.eu.org^
 ||vm1.arashi.solutions^
 ||vm2.arashi.solutions^
 ||vmd45200.contabo.wallura.eu^
@@ -3548,7 +3502,6 @@
 ||vps359.brueggus.de^
 ||vps362.brueggus.de^
 ||vps363.brueggus.de^
-||vps364.brueggus.de^
 ||vps365.brueggus.de^
 ||vps366.brueggus.de^
 ||vps367.brueggus.de^
@@ -3584,7 +3537,6 @@
 ||vsrv15195.customer.xenway.de^
 ||vtcuong.site^
 ||vultr2.kongjak.com^
-||vultrusercontent.com^
 ||vvmm.me^
 ||v.yuwentian.com^
 ||walker.mynetgear.com^
