@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2407270059 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2407280211 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2024-07-27 00:59:05 (UTC)
+; Last updated: 2024-07-28 02:11:50 (UTC)
 ;
 ; See https://jpgpi250.github.io/piholemanual/doc/Unbound%20response%20policy%20zones.pdf
 ; Report issues at https://github.com/jpgpi250/piholemanual/issues
@@ -69,6 +69,7 @@ a-bld.sys-adm.in CNAME .
 ablock.fuckit.ovh CNAME .
 abluehope.com CNAME .
 abn01.dnscry.pt CNAME .
+abstergo.it CNAME .
 acomit.lk CNAME .
 ad1.heronet.nl CNAME .
 ad.257053.xyz CNAME .
@@ -101,7 +102,6 @@ addns1.m-it.ro CNAME .
 addns.clubbase.club CNAME .
 addns.jpr.space CNAME .
 ad.dsh.lol CNAME .
-ad.eren.homes CNAME .
 adf-114.neta.otrofda.nl CNAME .
 adf-115.neta.otrofda.nl CNAME .
 adfiltro.fun CNAME .
@@ -472,7 +472,6 @@ an.loliconapp.top CNAME .
 a.ns.dnslify.com CNAME .
 antarlangit.my.id CNAME .
 ant.dns.qwer.pw CNAME .
-antidns.s.tuna.tsinghua.edu.cn CNAME .
 antivirus.bebasid.com CNAME .
 anycast.censurfridns.dk CNAME .
 anycast.censurfridns.nu CNAME .
@@ -661,6 +660,7 @@ clientdns3.softcom.net CNAME .
 cloud.198.games CNAME .
 cloudbasesolutions.online CNAME .
 cloudflare-dns.com CNAME .
+cloudflaredns.com CNAME .
 cloudflare-gateway.com CNAME .
 cloudflareresolve.com CNAME .
 cloud.graphicpoint.pl CNAME .
@@ -1010,6 +1010,7 @@ dns-cache.switch.ch CNAME .
 dns.caksono.com CNAME .
 dns.carson-family.com CNAME .
 dns.carter.me CNAME .
+dns.cctld.kg CNAME .
 dnscdn.bai0012.com CNAME .
 dns.ceai.com.tw CNAME .
 dns.cert.ee CNAME .
@@ -1496,6 +1497,7 @@ dns.pacificmonster.com CNAME .
 dns.paesa.es CNAME .
 dns-pa.incogdns.com CNAME .
 dns.panszelescik.pl CNAME .
+dns.pari.network CNAME .
 dns.pastorov.ru CNAME .
 dns.paxavemedia.com CNAME .
 dns.pccoach.nl CNAME .
@@ -1885,6 +1887,7 @@ doh.eieidns.com CNAME .
 doh.epaphrodit.us CNAME .
 doh.es.ahadns.net CNAME .
 doh.eu.dnswarden.com CNAME .
+doh.everdns.tech CNAME .
 doh.excdn.eu.org CNAME .
 doh.familyshield.opendns.com CNAME .
 doh.fatucloud.gosprout.org CNAME .
@@ -2134,6 +2137,7 @@ exns1.exalto.nu CNAME .
 extended.dns.mullvad.net CNAME .
 externalmobiel.lekdijk.online CNAME .
 eyg01.dnscry.pt CNAME .
+f03a0e2fa9f5.sn.mynetname.net CNAME .
 f1.dns.s3cure.me CNAME .
 f.761761.xyz CNAME .
 faked.org CNAME .
@@ -2214,7 +2218,6 @@ fwgw.orangepipc.mywire.org CNAME .
 gaia.plonknet.com CNAME .
 galileo.math.unipd.it CNAME .
 gandhico2.duckdns.org CNAME .
-gateway.baltes.info CNAME .
 gateway.fomichev.cloud CNAME .
 gattow.com CNAME .
 gauss.pp.ua CNAME .
@@ -2239,7 +2242,6 @@ get-resolution-ok-cdn.dahi.icu CNAME .
 ghilmanaji.xyz CNAME .
 ginnungagap.rabenhain.net CNAME .
 git.andrewnw.xyz CNAME .
-gloom.nexus CNAME .
 gm-dns-01.southcentralus.azurecontainer.io CNAME .
 gmf2.ddns.net CNAME .
 gn-z11.franscois.co.za CNAME .
@@ -2377,6 +2379,7 @@ igor.vd.i81.ru CNAME .
 igor.vpn.i81.ru CNAME .
 ihctw.synology.me CNAME .
 iij.jp CNAME .
+ii.lov.host CNAME .
 ikarosalpha.xyz CNAME .
 imbuffering.com CNAME .
 ime-ingenierias.xyz CNAME .
@@ -2654,7 +2657,6 @@ mydns.cloud CNAME .
 mydns.ddns.me CNAME .
 myip.pyry.me CNAME .
 mypihole.hopto.org CNAME .
-my-private-cdn.com CNAME .
 myprivityvpn.softether.net CNAME .
 myrusvpn.de CNAME .
 mysterium.arashi.solutions CNAME .
@@ -2864,6 +2866,7 @@ p3.freedns.controld.com CNAME .
 pad3w.pp.ua CNAME .
 padermail.net CNAME .
 pages.dev CNAME .
+paimon.sev.monster CNAME .
 panser.web.id CNAME .
 par01.dnscry.pt CNAME .
 paranoia.mydns.network CNAME .
@@ -3469,7 +3472,6 @@ vps309.brueggus.de CNAME .
 vps310.brueggus.de CNAME .
 vps311.brueggus.de CNAME .
 vps312.brueggus.de CNAME .
-vps313.brueggus.de CNAME .
 vps314.brueggus.de CNAME .
 vps317.brueggus.de CNAME .
 vps322.brueggus.de CNAME .
@@ -3506,7 +3508,6 @@ vps357.brueggus.de CNAME .
 vps359.brueggus.de CNAME .
 vps362.brueggus.de CNAME .
 vps363.brueggus.de CNAME .
-vps365.brueggus.de CNAME .
 vps366.brueggus.de CNAME .
 vps367.brueggus.de CNAME .
 vps368.brueggus.de CNAME .
@@ -3658,7 +3659,6 @@ ychen.cf CNAME .
 ychen.ga CNAME .
 ychen.gq CNAME .
 yeralin.net CNAME .
-yh.hk1.shuaib.icu CNAME .
 yh.themcgoughs.org CNAME .
 ymjx.shimmerl.top CNAME .
 ymq01.dnscry.pt CNAME .
