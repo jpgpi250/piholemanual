@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2024-07-27 01:13:24 (UTC)
+! Last updated: 2024-07-28 02:26:12 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -65,6 +65,7 @@
 ||ablock.fuckit.ovh^
 ||abluehope.com^
 ||abn01.dnscry.pt^
+||abstergo.it^
 ||acomit.lk^
 ||ad1.heronet.nl^
 ||ad.257053.xyz^
@@ -97,7 +98,6 @@
 ||addns.clubbase.club^
 ||addns.jpr.space^
 ||ad.dsh.lol^
-||ad.eren.homes^
 ||adf-114.neta.otrofda.nl^
 ||adf-115.neta.otrofda.nl^
 ||adfiltro.fun^
@@ -468,7 +468,6 @@
 ||a.ns.dnslify.com^
 ||antarlangit.my.id^
 ||ant.dns.qwer.pw^
-||antidns.s.tuna.tsinghua.edu.cn^
 ||antivirus.bebasid.com^
 ||anycast.censurfridns.dk^
 ||anycast.censurfridns.nu^
@@ -657,6 +656,7 @@
 ||cloud.198.games^
 ||cloudbasesolutions.online^
 ||cloudflare-dns.com^
+||cloudflaredns.com^
 ||cloudflare-gateway.com^
 ||cloudflareresolve.com^
 ||cloud.graphicpoint.pl^
@@ -1006,6 +1006,7 @@
 ||dns.caksono.com^
 ||dns.carson-family.com^
 ||dns.carter.me^
+||dns.cctld.kg^
 ||dnscdn.bai0012.com^
 ||dns.ceai.com.tw^
 ||dns.cert.ee^
@@ -1492,6 +1493,7 @@
 ||dns.paesa.es^
 ||dns-pa.incogdns.com^
 ||dns.panszelescik.pl^
+||dns.pari.network^
 ||dns.pastorov.ru^
 ||dns.paxavemedia.com^
 ||dns.pccoach.nl^
@@ -1881,6 +1883,7 @@
 ||doh.epaphrodit.us^
 ||doh.es.ahadns.net^
 ||doh.eu.dnswarden.com^
+||doh.everdns.tech^
 ||doh.excdn.eu.org^
 ||doh.familyshield.opendns.com^
 ||doh.fatucloud.gosprout.org^
@@ -2130,6 +2133,7 @@
 ||extended.dns.mullvad.net^
 ||externalmobiel.lekdijk.online^
 ||eyg01.dnscry.pt^
+||f03a0e2fa9f5.sn.mynetname.net^
 ||f1.dns.s3cure.me^
 ||f.761761.xyz^
 ||faked.org^
@@ -2210,7 +2214,6 @@
 ||gaia.plonknet.com^
 ||galileo.math.unipd.it^
 ||gandhico2.duckdns.org^
-||gateway.baltes.info^
 ||gateway.fomichev.cloud^
 ||gattow.com^
 ||gauss.pp.ua^
@@ -2235,7 +2238,6 @@
 ||ghilmanaji.xyz^
 ||ginnungagap.rabenhain.net^
 ||git.andrewnw.xyz^
-||gloom.nexus^
 ||gm-dns-01.southcentralus.azurecontainer.io^
 ||gmf2.ddns.net^
 ||gn-z11.franscois.co.za^
@@ -2373,6 +2375,7 @@
 ||igor.vpn.i81.ru^
 ||ihctw.synology.me^
 ||iij.jp^
+||ii.lov.host^
 ||ikarosalpha.xyz^
 ||imbuffering.com^
 ||ime-ingenierias.xyz^
@@ -2650,7 +2653,6 @@
 ||mydns.ddns.me^
 ||myip.pyry.me^
 ||mypihole.hopto.org^
-||my-private-cdn.com^
 ||myprivityvpn.softether.net^
 ||myrusvpn.de^
 ||mysterium.arashi.solutions^
@@ -2860,6 +2862,7 @@
 ||pad3w.pp.ua^
 ||padermail.net^
 ||pages.dev^
+||paimon.sev.monster^
 ||panser.web.id^
 ||par01.dnscry.pt^
 ||paranoia.mydns.network^
@@ -3465,7 +3468,6 @@
 ||vps310.brueggus.de^
 ||vps311.brueggus.de^
 ||vps312.brueggus.de^
-||vps313.brueggus.de^
 ||vps314.brueggus.de^
 ||vps317.brueggus.de^
 ||vps322.brueggus.de^
@@ -3502,7 +3504,6 @@
 ||vps359.brueggus.de^
 ||vps362.brueggus.de^
 ||vps363.brueggus.de^
-||vps365.brueggus.de^
 ||vps366.brueggus.de^
 ||vps367.brueggus.de^
 ||vps368.brueggus.de^
@@ -3654,7 +3655,6 @@
 ||ychen.ga^
 ||ychen.gq^
 ||yeralin.net^
-||yh.hk1.shuaib.icu^
 ||yh.themcgoughs.org^
 ||ymjx.shimmerl.top^
 ||ymq01.dnscry.pt^
