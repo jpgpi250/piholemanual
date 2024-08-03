@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2024-08-01 02:45:57 (UTC)
+! Last updated: 2024-08-02 02:23:54 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -68,7 +68,6 @@
 ||ablock.fuckit.ovh^
 ||abluehope.com^
 ||abn01.dnscry.pt^
-||abstergo.it^
 ||acomit.lk^
 ||ad1.heronet.nl^
 ||ad.257053.xyz^
@@ -557,6 +556,7 @@
 ||bilidon.dnsuser.info^
 ||bilidon.info^
 ||bing.000036.xyz^
+||b-ipv4.bhadrikais.my.id^
 ||bit.psyk.fr^
 ||biying.flymlc.com^
 ||b.jtt.ink^
@@ -652,7 +652,6 @@
 ||cloud1.server.busold.ws^
 ||cloudbasesolutions.online^
 ||cloudflare-dns.com^
-||cloudflaredns.com^
 ||cloudflare-gateway.com^
 ||cloudflareresolve.com^
 ||cloud.graphicpoint.pl^
@@ -2113,6 +2112,7 @@
 ||eweyo.duckdns.org^
 ||example.doh.blockerdns.com^
 ||exns1.exalto.nu^
+||expired.hichina.com^
 ||extended.dns.mullvad.net^
 ||externalmobiel.lekdijk.online^
 ||eyg01.dnscry.pt^
@@ -2220,7 +2220,6 @@
 ||ghilmanaji.xyz^
 ||ginnungagap.rabenhain.net^
 ||git.andrewnw.xyz^
-||gloom.nexus^
 ||gm-dns-01.southcentralus.azurecontainer.io^
 ||gmf2.ddns.net^
 ||gmf-dns.ddns.net^
@@ -2433,6 +2432,7 @@
 ||jp-tyo-w-1.nashkan.net^
 ||jp-tyo-w-p-1.nashkan.net^
 ||jujuba.cafuringa.org^
+||jungle-im.ir^
 ||jurre-home.duckdns.org^
 ||justfor.myasustor.com^
 ||justhost.bedro.cloud^
@@ -2608,7 +2608,6 @@
 ||m.myspace.sbs^
 ||mnrv.trade^
 ||mo0on15.com^
-||montmorot.duckdns.org^
 ||monty.best^
 ||moonbd.top^
 ||morbitzer.de^
@@ -2793,6 +2792,7 @@
 ||omr01.dnscry.pt^
 ||one.dotted.9l3.com^
 ||one.one.one.one^
+||onlyfriends.info^
 ||oostelbos.dynu.com^
 ||opencdn.jomodns.com^
 ||opencdnka.jomodns.com^
@@ -2804,7 +2804,6 @@
 ||open-resolver1.unima.ac.id^
 ||opera.cloudflare-dns.com^
 ||op.htyweb.top^
-||ora1.nocnik.org^
 ||oracle001.330k.biz^
 ||oracle2.herry.dev^
 ||oraclejp2.chungyu.com^
@@ -2946,6 +2945,7 @@
 ||rafi.dynns.com^
 ||ralfs-dns.dsh.lol^
 ||ralfs.dsh.lol^
+||ras.brian-wee.com^
 ||rasp.matthias-iwer.de^
 ||rayneau.fr^
 ||rdjdns.ajraspi.xyz^
@@ -3093,6 +3093,7 @@
 ||serverhk.rannj.top^
 ||servernation.xyz^
 ||server.pragmasec.nl^
+||serverrmha1.ddnsku.my.id^
 ||server.spirio.fr^
 ||serveur-yan.synology.me^
 ||servis4u.top^
@@ -3164,6 +3165,7 @@
 ||srgaghome.freemyip.com^
 ||sriedmueadguard.casa^
 ||srv1.web-mx.eu^
+||srv2.bartoszturek.online^
 ||srv5.jiripocta.cz^
 ||srv-revprox-01.atakorah.com^
 ||ss.0001.xyz^
@@ -3383,6 +3385,7 @@
 ||vpn.satadru.dev^
 ||vpn.stroialliance.com^
 ||vpn.technicule.info^
+||vpnto.bhadrikais.my.id^
 ||vpn-tw.teng.sh^
 ||vpn.vosjes.cloud^
 ||vps03.brueggus.de^
