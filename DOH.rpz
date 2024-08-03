@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2408020209 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2408030202 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2024-08-02 02:09:34 (UTC)
+; Last updated: 2024-08-03 02:02:34 (UTC)
 ;
 ; See https://jpgpi250.github.io/piholemanual/doc/Unbound%20response%20policy%20zones.pdf
 ; Report issues at https://github.com/jpgpi250/piholemanual/issues
@@ -72,6 +72,7 @@ a-bld.sys-adm.in CNAME .
 ablock.fuckit.ovh CNAME .
 abluehope.com CNAME .
 abn01.dnscry.pt CNAME .
+abstergo.it CNAME .
 acomit.lk CNAME .
 ad1.heronet.nl CNAME .
 ad.257053.xyz CNAME .
@@ -2120,7 +2121,6 @@ expired.hichina.com CNAME .
 extended.dns.mullvad.net CNAME .
 externalmobiel.lekdijk.online CNAME .
 eyg01.dnscry.pt CNAME .
-f03a0e2fa9f5.sn.mynetname.net CNAME .
 f1.dns.s3cure.me CNAME .
 f.761761.xyz CNAME .
 faked.org CNAME .
@@ -2200,6 +2200,7 @@ fvpn.jarvishome.ru CNAME .
 fwgw.orangepipc.mywire.org CNAME .
 gaia.plonknet.com CNAME .
 galileo.math.unipd.it CNAME .
+gandhico2.duckdns.org CNAME .
 gateway.fomichev.cloud CNAME .
 gattow.com CNAME .
 gauss.pp.ua CNAME .
@@ -2224,6 +2225,7 @@ get-resolution-ok-cdn.dahi.icu CNAME .
 ghilmanaji.xyz CNAME .
 ginnungagap.rabenhain.net CNAME .
 git.andrewnw.xyz CNAME .
+gloom.nexus CNAME .
 gm-dns-01.southcentralus.azurecontainer.io CNAME .
 gmf2.ddns.net CNAME .
 gmf-dns.ddns.net CNAME .
@@ -2376,7 +2378,6 @@ integration.dnsteam.globuscs.info CNAME .
 internetsehat.bebasid.com CNAME .
 intertop.link CNAME .
 invidious.arashi.solutions CNAME .
-io_cli.cdn.ovpn.bond CNAME .
 iot-dns.com CNAME .
 iow-dns.bitdefender.net CNAME .
 i.passcloud.xyz CNAME .
@@ -2612,6 +2613,7 @@ mkvvpssrv12.freemyip.com CNAME .
 m.myspace.sbs CNAME .
 mnrv.trade CNAME .
 mo0on15.com CNAME .
+montmorot.duckdns.org CNAME .
 monty.best CNAME .
 moonbd.top CNAME .
 morbitzer.de CNAME .
@@ -2869,6 +2871,7 @@ pi4.jnraptor.net CNAME .
 pi.adblocker.eu.org CNAME .
 pi.daryllswer.net CNAME .
 pi-dns.gordon81.com CNAME .
+piekacz.pl CNAME .
 pihole1.hoerli.net CNAME .
 pihole2.hoerli.net CNAME .
 pihole3.hoerli.net CNAME .
@@ -3627,7 +3630,6 @@ ychen.cf CNAME .
 ychen.ga CNAME .
 ychen.gq CNAME .
 yeralin.net CNAME .
-yh.hk1.shuaib.icu CNAME .
 yh.themcgoughs.org CNAME .
 ymjx.shimmerl.top CNAME .
 ymq01.dnscry.pt CNAME .
