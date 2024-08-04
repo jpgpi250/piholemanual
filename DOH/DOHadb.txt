@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2024-08-02 02:23:54 (UTC)
+! Last updated: 2024-08-03 02:16:52 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -68,6 +68,7 @@
 ||ablock.fuckit.ovh^
 ||abluehope.com^
 ||abn01.dnscry.pt^
+||abstergo.it^
 ||acomit.lk^
 ||ad1.heronet.nl^
 ||ad.257053.xyz^
@@ -2116,7 +2117,6 @@
 ||extended.dns.mullvad.net^
 ||externalmobiel.lekdijk.online^
 ||eyg01.dnscry.pt^
-||f03a0e2fa9f5.sn.mynetname.net^
 ||f1.dns.s3cure.me^
 ||f.761761.xyz^
 ||faked.org^
@@ -2196,6 +2196,7 @@
 ||fwgw.orangepipc.mywire.org^
 ||gaia.plonknet.com^
 ||galileo.math.unipd.it^
+||gandhico2.duckdns.org^
 ||gateway.fomichev.cloud^
 ||gattow.com^
 ||gauss.pp.ua^
@@ -2220,6 +2221,7 @@
 ||ghilmanaji.xyz^
 ||ginnungagap.rabenhain.net^
 ||git.andrewnw.xyz^
+||gloom.nexus^
 ||gm-dns-01.southcentralus.azurecontainer.io^
 ||gmf2.ddns.net^
 ||gmf-dns.ddns.net^
@@ -2372,7 +2374,6 @@
 ||internetsehat.bebasid.com^
 ||intertop.link^
 ||invidious.arashi.solutions^
-||io_cli.cdn.ovpn.bond^
 ||iot-dns.com^
 ||iow-dns.bitdefender.net^
 ||i.passcloud.xyz^
@@ -2608,6 +2609,7 @@
 ||m.myspace.sbs^
 ||mnrv.trade^
 ||mo0on15.com^
+||montmorot.duckdns.org^
 ||monty.best^
 ||moonbd.top^
 ||morbitzer.de^
@@ -2865,6 +2867,7 @@
 ||pi.adblocker.eu.org^
 ||pi.daryllswer.net^
 ||pi-dns.gordon81.com^
+||piekacz.pl^
 ||pihole1.hoerli.net^
 ||pihole2.hoerli.net^
 ||pihole3.hoerli.net^
@@ -3623,7 +3626,6 @@
 ||ychen.ga^
 ||ychen.gq^
 ||yeralin.net^
-||yh.hk1.shuaib.icu^
 ||yh.themcgoughs.org^
 ||ymjx.shimmerl.top^
 ||ymq01.dnscry.pt^
