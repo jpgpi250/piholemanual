@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2024-08-03 02:16:52 (UTC)
+! Last updated: 2024-08-04 01:36:46 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -15,7 +15,6 @@
 ||045177f7-4a34-4395-baff-4676334eeaa9.route.renyu.cloud^
 ||0ms.dev^
 ||1001.cloudflare-dns.com^
-||10787578eb1e4b75adfa6b2a4bdea0b5.pacloudflare.com^
 ||1.0rz.space^
 ||1111.cloudflare-dns.com^
 ||1.11i.eu^
@@ -58,7 +57,6 @@
 ||77980.bodis.com^
 ||8888.google^
 ||89433332.xyz^
-||90c3f3bd03394bebaa20741314cef947.pacloudflare.com^
 ||959818.xyz^
 ||a5135324.csie.io^
 ||aattwwss.duckdns.org^
@@ -68,7 +66,6 @@
 ||ablock.fuckit.ovh^
 ||abluehope.com^
 ||abn01.dnscry.pt^
-||abstergo.it^
 ||acomit.lk^
 ||ad1.heronet.nl^
 ||ad.257053.xyz^
@@ -398,6 +395,7 @@
 ||africadns2.liquidtelecom.net^
 ||ag.apollohct.com^
 ||agathe.tobkar.net^
+||ag.brianlee.fun^
 ||agent.frankutils.xyz^
 ||ag.felixf.eu^
 ||ag.ff0x.ca^
@@ -626,7 +624,6 @@
 ||cdn.0ms.dev^
 ||c-dns.com^
 ||cdzopi.duckdns.org^
-||cfcnnn.dahi.edu.eu.org.cdn.cloudflare.net^
 ||cfdjb.org^
 ||ch01adguardho.me^
 ||chandr1000.net^
@@ -744,7 +741,6 @@
 ||de.teradns.org^
 ||dev.gonnadive.com^
 ||deweerd.loseyourip.com^
-||dff029179c4246e385296ea8de0b8eb8.pacloudflare.com^
 ||dfw01.dnscry.pt^
 ||dfw02.dnscry.pt^
 ||d.gametechnet.com^
@@ -1867,7 +1863,6 @@
 ||doh.epaphrodit.us^
 ||doh.es.ahadns.net^
 ||doh.eu.dnswarden.com^
-||doh.everdns.tech^
 ||doh.excdn.eu.org^
 ||doh.familyshield.opendns.com^
 ||doh.fatucloud.gosprout.org^
@@ -2197,6 +2192,7 @@
 ||gaia.plonknet.com^
 ||galileo.math.unipd.it^
 ||gandhico2.duckdns.org^
+||gateway.baltes.info^
 ||gateway.fomichev.cloud^
 ||gattow.com^
 ||gauss.pp.ua^
@@ -2231,7 +2227,6 @@
 ||goldstarbag.com^
 ||google-public-dns-a.google.com^
 ||google-public-dns-b.google.com^
-||gordon81.ddns.net^
 ||gosuntrip.com^
 ||graveofhope.ru^
 ||green2.jnraptor.net^
@@ -2376,6 +2371,7 @@
 ||invidious.arashi.solutions^
 ||iot-dns.com^
 ||iow-dns.bitdefender.net^
+||ip-address.gordon81.com^
 ||i.passcloud.xyz^
 ||ipoac.nl^
 ||i-puppy.ru^
@@ -2433,7 +2429,6 @@
 ||jp-tyo-w-1.nashkan.net^
 ||jp-tyo-w-p-1.nashkan.net^
 ||jujuba.cafuringa.org^
-||jungle-im.ir^
 ||jurre-home.duckdns.org^
 ||justfor.myasustor.com^
 ||justhost.bedro.cloud^
@@ -2601,8 +2596,6 @@
 ||mikatos.de^
 ||mikewaddick.com^
 ||mil01.dnscry.pt^
-||mimile.despagne.net^
-||mimile.despagne.ovh^
 ||minami.website^
 ||minilla.store^
 ||mkvvpssrv12.freemyip.com^
@@ -2810,7 +2803,6 @@
 ||oracle2.herry.dev^
 ||oraclejp2.chungyu.com^
 ||oradns.anbitech.com^
-||orasrv.kellys.pw^
 ||orau.lz0724.com^
 ||ord01.dnscry.pt^
 ||ordns.he.net^
@@ -2867,7 +2859,6 @@
 ||pi.adblocker.eu.org^
 ||pi.daryllswer.net^
 ||pi-dns.gordon81.com^
-||piekacz.pl^
 ||pihole1.hoerli.net^
 ||pihole2.hoerli.net^
 ||pihole3.hoerli.net^
@@ -2956,7 +2947,6 @@
 ||rdu01.dnscry.pt^
 ||realtoxmedia.chbu.ovh^
 ||redsea.meetz.pw^
-||registry-web-suspension-1912215664.us-east-1.elb.amazonaws.com^
 ||remote.kleofass.lv^
 ||res-acst1.absolight.net^
 ||res-acst2.absolight.net^
@@ -3168,7 +3158,6 @@
 ||srgaghome.freemyip.com^
 ||sriedmueadguard.casa^
 ||srv1.web-mx.eu^
-||srv2.bartoszturek.online^
 ||srv5.jiripocta.cz^
 ||srv-revprox-01.atakorah.com^
 ||ss.0001.xyz^
@@ -3216,6 +3205,7 @@
 ||testguard.meexx.de^
 ||tetra.aeins.at^
 ||tetty-is.so-gorgeo.us.kg^
+||tezoi.duckdns.org^
 ||thanos.pleumkungz.com^
 ||tienpham.id.vn^
 ||tiger.dns.qwer.pw^
@@ -3245,7 +3235,6 @@
 ||trf01.dnscry.pt^
 ||tributh.net^
 ||tr-ist-w-p-2.nashkan.net^
-||triton.data.haus^
 ||trovs.ru^
 ||trr.dns.nextdns.io^
 ||truta.org^
@@ -3294,7 +3283,6 @@
 ||us02.dns4me.net^
 ||us1.blissdns.net^
 ||us1.dns.lavate.ch^
-||us5.wan.hc7z.com^
 ||usa1.altcensored.com^
 ||us-ash-w-f-1.nashkan.net^
 ||us-atl-w-2.nashkan.net^
@@ -3450,7 +3438,6 @@
 ||vps336.brueggus.de^
 ||vps337.brueggus.de^
 ||vps338.brueggus.de^
-||vps-33e5a7f3.vps.ovh.us^
 ||vps341.brueggus.de^
 ||vps342.brueggus.de^
 ||vps343.brueggus.de^
