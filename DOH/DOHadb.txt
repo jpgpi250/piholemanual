@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2024-08-08 02:15:43 (UTC)
+! Last updated: 2024-08-09 02:10:53 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -155,6 +155,7 @@
 ||adguard.acrobyte.org^
 ||adguard.ajinga.net^
 ||adguard.almanasports.com^
+||adguard.alu.dog^
 ||adguard.ambiya.net^
 ||adguard.americasnet.com.br^
 ||adguard.aminetwork.biz^
@@ -163,6 +164,7 @@
 ||adguard.arashi.solutions^
 ||adguard.avdkishore.dev^
 ||adguard.baltes.info^
+||adguard.be2aja.my.id^
 ||adguard-be-azure.westeurope.cloudapp.azure.com^
 ||adguard.beliefanx.cn^
 ||adguard.betamax65.de^
@@ -244,6 +246,7 @@
 ||adguard.jaye.sh^
 ||adguard.jfchenier.ca^
 ||adguard.jfpii.com^
+||adguard.jnkl.de^
 ||adguard.johanliebert.top^
 ||adguard.johndave.me^
 ||adguard.josephyap.me^
@@ -590,7 +593,6 @@
 ||br.servers.legat.ml^
 ||b.safe.ns.dnslify.com^
 ||btb.dog^
-||bth.dance^
 ||bt.luoo.cc^
 ||bts01.dnscry.pt^
 ||bucheli.synology.me^
@@ -656,7 +658,6 @@
 ||cloud1.server.busold.ws^
 ||cloudbasesolutions.online^
 ||cloudflare-dns.com^
-||cloudflaredns.com^
 ||cloudflare-gateway.com^
 ||cloudflareresolve.com^
 ||cloud.graphicpoint.pl^
@@ -741,7 +742,6 @@
 ||deic-ore.anycast.censurfridns.dk^
 ||deic-ore.anycast.censurfridns.nu^
 ||deic-ore.anycast.uncensoreddns.org^
-||delegated-ipfs.dev^
 ||den01.dnscry.pt^
 ||de-passage.9273082020.ru^
 ||derekcastle.duckdns.org^
@@ -779,6 +779,7 @@
 ||dns.0ooo.icu^
 ||dns0.permafrostmiami.com^
 ||dns.0rz.ing^
+||dns.0rz.space^
 ||dns0.tardishost.ru^
 ||dns.0x55.net^
 ||dns10.quad9.net^
@@ -802,7 +803,6 @@
 ||dns1.jjsuscc.es^
 ||dns1.klcd.eu^
 ||dns1.kostydenis.me^
-||dns1.lothuscorp.com.br^
 ||dns1.luan.contact^
 ||dns1.mattmanzi.com^
 ||dns1.nextdns.io^
@@ -963,7 +963,6 @@
 ||dns.b33.space^
 ||dns.b612.me^
 ||dns.b72.com^
-||dns.backschues.net^
 ||dns.bahien.com^
 ||dns.baishiyuan.cn^
 ||dns.basestation.my.id^
@@ -1245,7 +1244,6 @@
 ||dns.internal.espresso-tasse.de^
 ||dns.internal.hosmatic.com^
 ||dns.invisv.com^
-||dns-io.cdn.ovpn.bond^
 ||dns.ipoac.nl^
 ||dns.ipv6dns.com^
 ||dns.irumatech.com^
@@ -1305,6 +1303,7 @@
 ||dns.keskonet.com^
 ||dns.keviland.com^
 ||dns.keweon.center^
+||dns.khi.me^
 ||dns.kloiber.co.at^
 ||dns.koala.us.to^
 ||dns.kongjak.com^
@@ -1636,6 +1635,7 @@
 ||dns.syaifullah.com^
 ||dns.syaifullah.id^
 ||dns.t53.de^
+||dns.taoday.top^
 ||dns.tapawan.ca^
 ||dns.tb4.me^
 ||dns.tbnk.ca^
@@ -1732,7 +1732,6 @@
 ||dns.watch^
 ||dns.wdnts.ml^
 ||dns-weblock.wevpn.com^
-||dns.webpotato.nl^
 ||dnswebvsn.com^
 ||dns.wechat.com^
 ||dns.weixin.qq.com.cn^
@@ -2121,7 +2120,6 @@
 ||extended.dns.mullvad.net^
 ||externalmobiel.lekdijk.online^
 ||eyg01.dnscry.pt^
-||f03a0e2fa9f5.sn.mynetname.net^
 ||f1.dns.s3cure.me^
 ||f.761761.xyz^
 ||faked.org^
@@ -2202,7 +2200,6 @@
 ||gaia.plonknet.com^
 ||galileo.math.unipd.it^
 ||gandhico2.duckdns.org^
-||gateway.baltes.info^
 ||gateway.fomichev.cloud^
 ||gattow.com^
 ||gauss.pp.ua^
@@ -2224,10 +2221,8 @@
 ||geshido.vpn.geshido.ru^
 ||getdnsapi.net^
 ||get-resolution-ok-cdn.dahi.icu^
-||ghilmanaji.xyz^
 ||ginnungagap.rabenhain.net^
 ||git.andrewnw.xyz^
-||gloom.nexus^
 ||gm-dns-01.southcentralus.azurecontainer.io^
 ||gmf2.ddns.net^
 ||gmf-dns.ddns.net^
@@ -2278,6 +2273,7 @@
 ||hanniel.tech^
 ||harveyhome.top^
 ||haswell-www.a.guindehi.ch^
+||he2.redvau.lt^
 ||heimdall.ff0x.ca^
 ||hel01.dnscry.pt^
 ||helios.plan9-dns.com^
@@ -2405,6 +2401,7 @@
 ||jcdns.fun^
 ||jefe.space^
 ||jichi.hopto.org^
+||jimmyshjj.top^
 ||jit.ddns.net^
 ||jkdns.me^
 ||jkt01.dnscry.pt^
@@ -3272,6 +3269,7 @@
 ||ua-kyv-w-1.nashkan.net^
 ||ublock-dnsmobile.ddns.net^
 ||ublock-dns-resolver-01.swedencentral.cloudapp.azure.com^
+||ublock-dns-resolver-02.westeurope.cloudapp.azure.com^
 ||ueni.dyndns.org^
 ||uk01.dns4me.net^
 ||uk.arian.lol^
@@ -3344,6 +3342,7 @@
 ||v6.rubyfish.cn^
 ||v7.frame-one.cc^
 ||v8.frame-one.cc^
+||v971850.macloud.host^
 ||vadim.online^
 ||vancrafter.click^
 ||vani.long-nguyen.info^
@@ -3442,7 +3441,6 @@
 ||vps310.brueggus.de^
 ||vps311.brueggus.de^
 ||vps312.brueggus.de^
-||vps313.brueggus.de^
 ||vps314.brueggus.de^
 ||vps317.brueggus.de^
 ||vps322.brueggus.de^
