@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2024-08-09 02:10:53 (UTC)
+! Last updated: 2024-08-10 02:48:32 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -21,7 +21,6 @@
 ||1.11i.eu^
 ||123000123.xyz^
 ||15101844.xyz^
-||180.0rz.space^
 ||1and1-dns.de^
 ||1a.ns.ozer.im^
 ||1b.ns.ozer.im^
@@ -285,6 +284,7 @@
 ||adguard.oms-ctr.ru^
 ||adguard.onlyfriends.info^
 ||adguard.ota.moe^
+||adguard.pangerl.it^
 ||adguard.pggns.de^
 ||adguard.piekacz.pl^
 ||adguard.pmoebi.xyz^
@@ -563,7 +563,6 @@
 ||bilidon.dnsuser.info^
 ||bilidon.info^
 ||bing.000036.xyz^
-||b-ipv4.bhadrikais.my.id^
 ||bit.psyk.fr^
 ||biying.flymlc.com^
 ||b.jtt.ink^
@@ -621,7 +620,6 @@
 ||caycewebsolutions.com^
 ||ca-yyc.doh.sb^
 ||ca-yyz.doh.sb^
-||cc210b36bb9e.sn.mynetname.net^
 ||cc210f4a872c.sn.mynetname.net^
 ||cc2.v8er.net^
 ||ccadguard.dynu.net^
@@ -655,9 +653,9 @@
 ||clic.eu.org^
 ||clientdns3.softcom.net^
 ||cloud.198.games^
-||cloud1.server.busold.ws^
 ||cloudbasesolutions.online^
 ||cloudflare-dns.com^
+||cloudflaredns.com^
 ||cloudflare-gateway.com^
 ||cloudflareresolve.com^
 ||cloud.graphicpoint.pl^
@@ -779,7 +777,6 @@
 ||dns.0ooo.icu^
 ||dns0.permafrostmiami.com^
 ||dns.0rz.ing^
-||dns.0rz.space^
 ||dns0.tardishost.ru^
 ||dns.0x55.net^
 ||dns10.quad9.net^
@@ -1104,9 +1101,11 @@
 ||dns-east.tylerwahl.com^
 ||dns.edc-pws.com^
 ||dns.eddi.net^
+||dns.edgeburnmedia.com^
 ||dns.edgeworkssystems.ca^
 ||dns.edison42.dev^
 ||dns.editechstudio.com^
+||dns.eedaniel.com^
 ||dns.electrotm.org^
 ||dns.elemental.software^
 ||dns.elhabhab.com^
@@ -1244,6 +1243,7 @@
 ||dns.internal.espresso-tasse.de^
 ||dns.internal.hosmatic.com^
 ||dns.invisv.com^
+||dns-io.cdn.ovpn.bond^
 ||dns.ipoac.nl^
 ||dns.ipv6dns.com^
 ||dns.irumatech.com^
@@ -1771,6 +1771,7 @@
 ||dns.zemows.industries^
 ||dns.zfsystem.tech^
 ||dns.zion.dev^
+||dns.zui.lol^
 ||dns.zyzh20021020.cn^
 ||dns.zyzh20021020.cn.cdn.cloudflare.net^
 ||dns.zzuhacker.cn^
@@ -2113,10 +2114,10 @@
 ||europe-west.avastdns.com^
 ||everovpn.co^
 ||ev-goztepe.duckdns.org^
+||evoxt.pmm.pm^
 ||eweyo.duckdns.org^
 ||example.doh.blockerdns.com^
 ||exns1.exalto.nu^
-||expired.hichina.com^
 ||extended.dns.mullvad.net^
 ||externalmobiel.lekdijk.online^
 ||eyg01.dnscry.pt^
@@ -2200,6 +2201,7 @@
 ||gaia.plonknet.com^
 ||galileo.math.unipd.it^
 ||gandhico2.duckdns.org^
+||gateway.baltes.info^
 ||gateway.fomichev.cloud^
 ||gattow.com^
 ||gauss.pp.ua^
@@ -2290,6 +2292,7 @@
 ||hk.end.pub^
 ||hkg01.dnscry.pt^
 ||hkg02.dnscry.pt^
+||hkg2.edge.access.zznet.fun^
 ||hkg.core.access.zznet.fun^
 ||hkg.hytec.org^
 ||hk-hkg.doh.sb^
@@ -2893,7 +2896,6 @@
 ||polisidns.4ch.my.id^
 ||pooblet.co.za^
 ||pope.cnblw.me^
-||poster.place^
 ||ppmanu.ddns.net^
 ||pqh.ddns.net^
 ||premiumtier-network.instadart.net^
@@ -2953,7 +2955,6 @@
 ||rafi.dynns.com^
 ||ralfs-dns.dsh.lol^
 ||ralfs.dsh.lol^
-||ras.brian-wee.com^
 ||rasp.matthias-iwer.de^
 ||rayneau.fr^
 ||rdjdns.ajraspi.xyz^
@@ -3100,7 +3101,6 @@
 ||serverhk.rannj.top^
 ||servernation.xyz^
 ||server.pragmasec.nl^
-||serverrmha1.ddnsku.my.id^
 ||server.spirio.fr^
 ||serveur-yan.synology.me^
 ||servis4u.top^
@@ -3226,6 +3226,7 @@
 ||tiger.dns.qwer.pw^
 ||tigrons.ru^
 ||timboeh.me^
+||timedns.net^
 ||timmes.nl^
 ||tj.jamesxue.xyz^
 ||tk2-404-43267.vs.sakura.ne.jp^
@@ -3332,10 +3333,12 @@
 ||us-saj-w-p-1.nashkan.net^
 ||us-sea-w-5.nashkan.net^
 ||us-sea-w-6.nashkan.net^
+||uuu.fouwabfg.buzz^
 ||uw-dns.rubyfish.cn^
 ||ux.go20.cf^
 ||v1552270.hosted-by-vdsina.ru^
 ||v2-1.huwenqiang.xyz^
+||v2552269.hosted-by-vdsina.ru^
 ||v2rich.eu.org^
 ||v2.xx3210766.live^
 ||v3.passby.eu.org^
@@ -3395,7 +3398,6 @@
 ||vpn.satadru.dev^
 ||vpn.stroialliance.com^
 ||vpn.technicule.info^
-||vpnto.bhadrikais.my.id^
 ||vpn-tw.teng.sh^
 ||vpn.vosjes.cloud^
 ||vps03.brueggus.de^
@@ -3477,7 +3479,6 @@
 ||vps359.brueggus.de^
 ||vps362.brueggus.de^
 ||vps363.brueggus.de^
-||vps365.brueggus.de^
 ||vps366.brueggus.de^
 ||vps367.brueggus.de^
 ||vps368.brueggus.de^
