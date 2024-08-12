@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2408110124 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2408120224 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2024-08-11 01:24:59 (UTC)
+; Last updated: 2024-08-12 02:24:32 (UTC)
 ;
 ; See https://jpgpi250.github.io/piholemanual/doc/Unbound%20response%20policy%20zones.pdf
 ; Report issues at https://github.com/jpgpi250/piholemanual/issues
@@ -26,7 +26,6 @@ $TTL 30
 123000123.xyz CNAME .
 15101844.xyz CNAME .
 180.0rz.space CNAME .
-19a8b89bb6b2491ca5cccbeb0e84a4c4.pacloudflare.com CNAME .
 1and1-dns.de CNAME .
 1a.ns.ozer.im CNAME .
 1b.ns.ozer.im CNAME .
@@ -784,7 +783,6 @@ dns0.eu CNAME .
 dns.0ooo.icu CNAME .
 dns0.permafrostmiami.com CNAME .
 dns.0rz.ing CNAME .
-dns.0rz.space CNAME .
 dns0.tardishost.ru CNAME .
 dns.0x55.net CNAME .
 dns10.quad9.net CNAME .
@@ -1251,7 +1249,6 @@ dns.interhub.cc CNAME .
 dns.internal.espresso-tasse.de CNAME .
 dns.internal.hosmatic.com CNAME .
 dns.invisv.com CNAME .
-dns-io.cdn.ovpn.bond CNAME .
 dns.ipoac.nl CNAME .
 dns.ipv6dns.com CNAME .
 dns.irumatech.com CNAME .
@@ -2133,7 +2130,6 @@ expired.hichina.com CNAME .
 extended.dns.mullvad.net CNAME .
 externalmobiel.lekdijk.online CNAME .
 eyg01.dnscry.pt CNAME .
-f03a0e2fa9f5.sn.mynetname.net CNAME .
 f1.dns.s3cure.me CNAME .
 f.761761.xyz CNAME .
 faked.org CNAME .
@@ -2630,7 +2626,6 @@ mkvvpssrv12.freemyip.com CNAME .
 m.myspace.sbs CNAME .
 mnrv.trade CNAME .
 mo0on15.com CNAME .
-montmorot.duckdns.org CNAME .
 monty.best CNAME .
 moonbd.top CNAME .
 morbitzer.de CNAME .
@@ -2828,7 +2823,6 @@ open-resolver1.unima.ac.id CNAME .
 opera.cloudflare-dns.com CNAME .
 op.htyweb.top CNAME .
 oracle001.330k.biz CNAME .
-oracle2.herry.dev CNAME .
 oraclejp2.chungyu.com CNAME .
 oradns.anbitech.com CNAME .
 orasrv.kellys.pw CNAME .
