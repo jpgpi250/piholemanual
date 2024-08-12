@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2024-08-10 02:48:32 (UTC)
+! Last updated: 2024-08-11 01:39:28 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -21,6 +21,8 @@
 ||1.11i.eu^
 ||123000123.xyz^
 ||15101844.xyz^
+||180.0rz.space^
+||19a8b89bb6b2491ca5cccbeb0e84a4c4.pacloudflare.com^
 ||1and1-dns.de^
 ||1a.ns.ozer.im^
 ||1b.ns.ozer.im^
@@ -563,6 +565,7 @@
 ||bilidon.dnsuser.info^
 ||bilidon.info^
 ||bing.000036.xyz^
+||b-ipv4.bhadrikais.my.id^
 ||bit.psyk.fr^
 ||biying.flymlc.com^
 ||b.jtt.ink^
@@ -653,9 +656,9 @@
 ||clic.eu.org^
 ||clientdns3.softcom.net^
 ||cloud.198.games^
+||cloud1.server.busold.ws^
 ||cloudbasesolutions.online^
 ||cloudflare-dns.com^
-||cloudflaredns.com^
 ||cloudflare-gateway.com^
 ||cloudflareresolve.com^
 ||cloud.graphicpoint.pl^
@@ -777,6 +780,7 @@
 ||dns.0ooo.icu^
 ||dns0.permafrostmiami.com^
 ||dns.0rz.ing^
+||dns.0rz.space^
 ||dns0.tardishost.ru^
 ||dns.0x55.net^
 ||dns10.quad9.net^
@@ -1338,6 +1342,7 @@
 ||dns.linkr.ninja^
 ||dns.linlin00.top^
 ||dns.lista.my.id^
+||dns.listo.click^
 ||dns.lithvik.com^
 ||dns.lmir.info^
 ||dns.lobbygod.com^
@@ -1507,6 +1512,7 @@
 ||dns.privado.ovh^
 ||dns.privilab.net^
 ||dns-prod-alb-194669935.us-east-1.elb.amazonaws.com^
+||dns.propheci.xyz^
 ||dns.psociety.de^
 ||dns.psyk.fr^
 ||dns.pub^
@@ -1671,6 +1677,7 @@
 ||dns.truong.fi^
 ||dns.trust404.win^
 ||dns.tryk.app^
+||dns.tsknf.net^
 ||dns.tuankhaiit.com^
 ||dns.tuna.tsinghua.edu.cn^
 ||dns.twnic.tw^
@@ -2118,9 +2125,11 @@
 ||eweyo.duckdns.org^
 ||example.doh.blockerdns.com^
 ||exns1.exalto.nu^
+||expired.hichina.com^
 ||extended.dns.mullvad.net^
 ||externalmobiel.lekdijk.online^
 ||eyg01.dnscry.pt^
+||f03a0e2fa9f5.sn.mynetname.net^
 ||f1.dns.s3cure.me^
 ||f.761761.xyz^
 ||faked.org^
@@ -2225,6 +2234,7 @@
 ||get-resolution-ok-cdn.dahi.icu^
 ||ginnungagap.rabenhain.net^
 ||git.andrewnw.xyz^
+||gloom.nexus^
 ||gm-dns-01.southcentralus.azurecontainer.io^
 ||gmf2.ddns.net^
 ||gmf-dns.ddns.net^
@@ -2275,7 +2285,6 @@
 ||hanniel.tech^
 ||harveyhome.top^
 ||haswell-www.a.guindehi.ch^
-||he2.redvau.lt^
 ||heimdall.ff0x.ca^
 ||hel01.dnscry.pt^
 ||helios.plan9-dns.com^
@@ -2534,6 +2543,7 @@
 ||linkdiscord.xyz^
 ||lion.dns.qwer.pw^
 ||lion.yazilimatolye.com^
+||listo.click^
 ||ljk.kkizz.cn^
 ||llk01.dnscry.pt^
 ||loadlow.me^
@@ -2896,6 +2906,7 @@
 ||polisidns.4ch.my.id^
 ||pooblet.co.za^
 ||pope.cnblw.me^
+||poster.place^
 ||ppmanu.ddns.net^
 ||pqh.ddns.net^
 ||premiumtier-network.instadart.net^
@@ -2955,6 +2966,7 @@
 ||rafi.dynns.com^
 ||ralfs-dns.dsh.lol^
 ||ralfs.dsh.lol^
+||ras.brian-wee.com^
 ||rasp.matthias-iwer.de^
 ||rayneau.fr^
 ||rdjdns.ajraspi.xyz^
@@ -3101,6 +3113,7 @@
 ||serverhk.rannj.top^
 ||servernation.xyz^
 ||server.pragmasec.nl^
+||serverrmha1.ddnsku.my.id^
 ||server.spirio.fr^
 ||serveur-yan.synology.me^
 ||servis4u.top^
@@ -3398,6 +3411,7 @@
 ||vpn.satadru.dev^
 ||vpn.stroialliance.com^
 ||vpn.technicule.info^
+||vpnto.bhadrikais.my.id^
 ||vpn-tw.teng.sh^
 ||vpn.vosjes.cloud^
 ||vps03.brueggus.de^
@@ -3443,6 +3457,7 @@
 ||vps310.brueggus.de^
 ||vps311.brueggus.de^
 ||vps312.brueggus.de^
+||vps313.brueggus.de^
 ||vps314.brueggus.de^
 ||vps317.brueggus.de^
 ||vps322.brueggus.de^
@@ -3479,6 +3494,7 @@
 ||vps359.brueggus.de^
 ||vps362.brueggus.de^
 ||vps363.brueggus.de^
+||vps365.brueggus.de^
 ||vps366.brueggus.de^
 ||vps367.brueggus.de^
 ||vps368.brueggus.de^
