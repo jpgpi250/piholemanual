@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2408150116 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2408160200 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2024-08-15 01:16:39 (UTC)
+; Last updated: 2024-08-16 02:00:57 (UTC)
 ;
 ; See https://jpgpi250.github.io/piholemanual/doc/Unbound%20response%20policy%20zones.pdf
 ; Report issues at https://github.com/jpgpi250/piholemanual/issues
@@ -794,6 +794,7 @@ dns.2poi.com CNAME .
 dns.2t9.de CNAME .
 dns.354688.xyz CNAME .
 dns.3dcapitaltrust.net CNAME .
+dns.3wv.de CNAME .
 dns.4-the.win CNAME .
 dns.4860575.xyz CNAME .
 dns.52306.org CNAME .
@@ -836,6 +837,7 @@ dns.alvosec.com CNAME .
 dns.amigo-mgn.ru CNAME .
 dns.andrewnw.xyz CNAME .
 dns.andreykiv.com CNAME .
+dns.anon.no CNAME .
 dns.api.gandi.net CNAME .
 dns.api.globus.org CNAME .
 dns.api.integration.globuscs.info CNAME .
@@ -850,11 +852,14 @@ dns.aquilenet.fr CNAME .
 dns.arad.mobi CNAME .
 dns.arapurayil.com CNAME .
 dns.ares-taiwan.com CNAME .
+dns.arkbotech.com CNAME .
 dns.artikel10.org CNAME .
+dns.ashleyjackson.net CNAME .
 dns.asterimoon.com CNAME .
 dns.atsilva.link CNAME .
 dns.audet.cloud CNAME .
 dns.auffray.org CNAME .
+dns.axeleroy.com CNAME .
 dns.axto.me CNAME .
 dns.ayarzagoitia.com CNAME .
 dns.aykanbacaksoy.de CNAME .
@@ -884,17 +889,21 @@ dns.bluestarnc.com CNAME .
 dns.bmwhocking.com CNAME .
 dns.bobstrecansky.com CNAME .
 dns.bofh.in CNAME .
+dns.braene.com CNAME .
 dns.brahma.world CNAME .
 dns.bravoc.one CNAME .
+dns.brembeck.cloud CNAME .
 dns.briac-mlb.fr CNAME .
 dns.brian-hong.tech CNAME .
 dns.brionesserver.net CNAME .
+dns.burgas.pro CNAME .
 dns.busold.ws CNAME .
 dns.bw.i81.ru CNAME .
 dns.c0ntroller.de CNAME .
 dns.caksono.com CNAME .
 dns.carson-family.com CNAME .
 dns.carter.me CNAME .
+dns.caspervk.net CNAME .
 dns.cctld.kg CNAME .
 dns.ceai.com.tw CNAME .
 dns.cert.ee CNAME .
@@ -906,9 +915,12 @@ dns.chaosen3.co.uk CNAME .
 dns.charraud.eu CNAME .
 dns.chebula.cloud CNAME .
 dns.chenu.ch CNAME .
+dns.chilimac.net CNAME .
 dns.chillstice.com CNAME .
+dns.chmc.ml CNAME .
 dns.chriscsc.me CNAME .
 dns.christerwaren.fi CNAME .
+dns.christian.moe CNAME .
 dns.chriswservers.com CNAME .
 dns.chromeina.top CNAME .
 dns.circl.lu CNAME .
@@ -927,6 +939,7 @@ dns.cmrg.net CNAME .
 dns.cnblw.me CNAME .
 dns.codarbyte.de CNAME .
 dns.code66.de CNAME .
+dns.coderoria.com CNAME .
 dns.colorfreedom.org CNAME .
 dns.comeonjames.club CNAME .
 dns.comff.net CNAME .
@@ -938,7 +951,10 @@ dns.cooluc.com CNAME .
 dns.cr4zzy.xyz CNAME .
 dns.criena.net CNAME .
 dns.cryptomize.com CNAME .
+dns.crystalyx.net CNAME .
 dns.csa-rz.de CNAME .
+dns.csaonline.de CNAME .
+dns.csswg.org CNAME .
 dns.cubesworld.net CNAME .
 dns.cwlys.com CNAME .
 dns.cynthialabs.net CNAME .
@@ -951,8 +967,10 @@ dns.dallinbryce.com CNAME .
 dns.danamas.net CNAME .
 dns.danielnet.eu CNAME .
 dns.daryllswer.net CNAME .
+dns.datenquark.de CNAME .
 dns.david888.com CNAME .
 dns.daw.dev CNAME .
+dns.deadsec.net CNAME .
 dns.decky.eu CNAME .
 dns.decloudus.com CNAME .
 dns.deekshith.in CNAME .
@@ -962,12 +980,14 @@ dns.dev-umbrellagov.com CNAME .
 dns.developer.li CNAME .
 dns.dgea.fr CNAME .
 dns.dhemant.observer CNAME .
+dns.diarbagus.id CNAME .
 dns.digitaladapt.com CNAME .
 dns.digitale-gesellschaft.ch CNAME .
 dns.digitalegesellschaft.ch CNAME .
 dns.digitalsize.net CNAME .
 dns.digiultsparrow.space CNAME .
 dns.dionperera.com CNAME .
+dns.dns-53.us CNAME .
 dns.dns-over-https.com CNAME .
 dns.dnshome.de CNAME .
 dns.dnsoverhttps.net CNAME .
@@ -992,6 +1012,7 @@ dns.edgeworkssystems.ca CNAME .
 dns.edison42.dev CNAME .
 dns.editechstudio.com CNAME .
 dns.eedaniel.com CNAME .
+dns.efficientdocuments.com CNAME .
 dns.electrotm.org CNAME .
 dns.elemental.software CNAME .
 dns.elhabhab.com CNAME .
@@ -1015,6 +1036,7 @@ dns.exonip.de CNAME .
 dns.expert CNAME .
 dns.extrawdw.net CNAME .
 dns.ezyss.id CNAME .
+dns.f4a.fun CNAME .
 dns.fabianscheifele.com CNAME .
 dns.fahr.in CNAME .
 dns.faked.org CNAME .
@@ -1023,11 +1045,14 @@ dns.familiamichels.com.br CNAME .
 dns.family.fraiss.at CNAME .
 dns.fancyorg.at CNAME .
 dns.farakaft.ir CNAME .
+dns.farshidhakimy.de CNAME .
 dns.faze.dev CNAME .
 dns.fb.i81.ru CNAME .
 dns.fc.idv.tw CNAME .
+dns.fehlsprache.de CNAME .
 dns.feldy.my.id CNAME .
 dns.felipefalcao.tech CNAME .
+dns.ffnw.de CNAME .
 dns.fifux.be CNAME .
 dns.filipccz.eu CNAME .
 dns.fizz.studio CNAME .
@@ -1035,6 +1060,7 @@ dns.flatuslifir.is CNAME .
 dns.flightspace.net CNAME .
 dns.flwagners.com CNAME .
 dns.flymc.cc CNAME .
+dns.francoisallard.net CNAME .
 dns.freddys.my.id CNAME .
 dns.freyja.pw CNAME .
 dns.frguthrie.app CNAME .
@@ -1197,6 +1223,7 @@ dns.lavir.com CNAME .
 dns.learningman.top CNAME .
 dns.levonet.sk CNAME .
 dns.lgprk.com CNAME .
+dns.liberador.net CNAME .
 dns.lifeym.xyz CNAME .
 dns.lihj.me CNAME .
 dns.lildinosaur.com CNAME .
@@ -1526,6 +1553,7 @@ dns.velyn.my.id CNAME .
 dns.vietdns.vn CNAME .
 dns.vinnyp.xyz CNAME .
 dns.vinokurov.tk CNAME .
+dns.vip-kingstore.xyz CNAME .
 dns.vishalk.com CNAME .
 dns.vk09.ru CNAME .
 dns.vladpro.ru CNAME .
@@ -1654,6 +1682,7 @@ dns2.gms.net.id CNAME .
 dns2.guidocioni.it CNAME .
 dns2.h0schi.cloud CNAME .
 dns2.idsam.com CNAME .
+dns2.in-berlin.de CNAME .
 dns2.klcd.eu CNAME .
 dns2.kloiber.co.at CNAME .
 dns2.lezainski.com CNAME .
@@ -1908,6 +1937,7 @@ doh.serverhost.no CNAME .
 doh.sidnlabs.nl CNAME .
 doh.srv00.com CNAME .
 doh.suche.org CNAME .
+doh.sunoaki.net CNAME .
 doh.syshero.org CNAME .
 doh.technochat.in CNAME .
 doh.this.web.id CNAME .
