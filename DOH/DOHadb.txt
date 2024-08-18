@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2024-08-16 02:14:51 (UTC)
+! Last updated: 2024-08-17 02:13:15 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -642,6 +642,7 @@
 ||cloudbasesolutions.online^
 ||cloudflare-dns.com^
 ||cloudflare-gateway.com^
+||cloudflaredns.com^
 ||cloudflareresolve.com^
 ||cloudns.bosco.ovh^
 ||cloudsrv.charitosnet.de^
@@ -983,6 +984,8 @@
 ||dns.digitalsize.net^
 ||dns.digiultsparrow.space^
 ||dns.dionperera.com^
+||dns.dns-53.com^
+||dns.dns-53.uk^
 ||dns.dns-53.us^
 ||dns.dns-over-https.com^
 ||dns.dnshome.de^
@@ -1056,8 +1059,8 @@
 ||dns.flightspace.net^
 ||dns.flwagners.com^
 ||dns.flymc.cc^
-||dns.francoisallard.net^
 ||dns.freddys.my.id^
+||dns.freopc.fr^
 ||dns.freyja.pw^
 ||dns.frguthrie.app^
 ||dns.froth.zone^
@@ -1073,6 +1076,7 @@
 ||dns.gi.co.id^
 ||dns.ginovs.nl^
 ||dns.girino.org^
+||dns.glf.wtf^
 ||dns.gmserv.cc^
 ||dns.gnb09.id^
 ||dns.goldplate.org^
@@ -1082,20 +1086,24 @@
 ||dns.grqu.de^
 ||dns.gt500.ru^
 ||dns.guard.io^
+||dns.gutwe.in^
 ||dns.h0schi.cloud^
 ||dns.ha-dvin.pp.ua^
 ||dns.hafidzradhival.my.id^
 ||dns.hahnjo.de^
 ||dns.haka.se^
+||dns.hakim.one^
 ||dns.hanahira.dev^
 ||dns.hanmey.de^
 ||dns.haoxuan.me^
 ||dns.haoxuan.xyz^
 ||dns.hee.ink^
+||dns.hellozhao.com^
 ||dns.henek.ovh^
 ||dns.henek.ru^
 ||dns.herkhof.nl^
 ||dns.hinet.net^
+||dns.home.daniil.it^
 ||dns.hopsken.com^
 ||dns.horcrux.vip^
 ||dns.horus-team.com^
@@ -1117,6 +1125,7 @@
 ||dns.hyas.com^
 ||dns.hypercute.eu^
 ||dns.i6p.eu^
+||dns.iamanuragh.in^
 ||dns.iamninja.ru^
 ||dns.ian.rocks^
 ||dns.ibakerserver.pt^
@@ -1125,6 +1134,7 @@
 ||dns.ikataruto.com^
 ||dns.iki.my.id^
 ||dns.imaicool.com^
+||dns.imchristian.de^
 ||dns.immanuelschaffer.de^
 ||dns.inclusioproject.com^
 ||dns.indust.me^
@@ -1137,6 +1147,7 @@
 ||dns.ipoac.nl^
 ||dns.ipv6dns.com^
 ||dns.irumatech.com^
+||dns.ishan.pw^
 ||dns.islandnet.com^
 ||dns.isp.dhoho.net^
 ||dns.itcosc.com^
@@ -1157,6 +1168,7 @@
 ||dns.jichi.io^
 ||dns.jimirobaer.be^
 ||dns.jinwoo.dev^
+||dns.jiyi.eu^
 ||dns.jnmj.cc^
 ||dns.jnprd.com^
 ||dns.joaofidelix.com.br^
@@ -1175,11 +1187,14 @@
 ||dns.kamilszczepanski.com^
 ||dns.kapite.in^
 ||dns.kapoww.tk^
+||dns.karadag.me^
 ||dns.karfamily.net^
 ||dns.karl.one^
+||dns.kastner-online.de^
 ||dns.kawa.tf^
 ||dns.kc2wbx.com^
 ||dns.kcolspacrm.ir^
+||dns.kebree.fr^
 ||dns.kejinno.com^
 ||dns.keke125.com^
 ||dns.kellys.pw^
@@ -1208,6 +1223,7 @@
 ||dns.kukal.cz^
 ||dns.kusoneko.moe^
 ||dns.kuuhaku.moe^
+||dns.kxy.ink^
 ||dns.kyy.me^
 ||dns.l337.site^
 ||dns.l6.ee^
@@ -1217,6 +1233,7 @@
 ||dns.lashes-brow.ru^
 ||dns.lavir.com^
 ||dns.learningman.top^
+||dns.lepilleur.com^
 ||dns.levonet.sk^
 ||dns.lgprk.com^
 ||dns.liberador.net^
@@ -1237,10 +1254,12 @@
 ||dns.lupine.solutions^
 ||dns.lvolland.fr^
 ||dns.mafyuh.io^
+||dns.maitrekuc.fr^
 ||dns.malanser.ru^
 ||dns.malhuda.com^
 ||dns.malwarelul.download^
 ||dns.maolaohei.xyz^
+||dns.marasov.id^
 ||dns.marbledfennec.net^
 ||dns.marcbond.uk^
 ||dns.mariasantana.com.br^
@@ -1253,9 +1272,11 @@
 ||dns.meeo.win^
 ||dns.melalandia.tk^
 ||dns.melashri.eu.org^
+||dns.melvin2204.nl^
 ||dns.mestdag.fr^
 ||dns.mesterdodh.cloud^
 ||dns.mgiptvpro.ml^
+||dns.mh4ckt3mh4ckt1c4s.xyz^
 ||dns.micro.alloxr.info^
 ||dns.midping.ir^
 ||dns.mihanentalpo.me^
@@ -1269,6 +1290,7 @@
 ||dns.mni.li^
 ||dns.mo0on15.com^
 ||dns.molinero.dev^
+||dns.momou.ch^
 ||dns.moog.sh^
 ||dns.moonssif.com^
 ||dns.moonwx.net^
@@ -1287,6 +1309,7 @@
 ||dns.myddns.me^
 ||dns.mymanga.pro^
 ||dns.mysvc.de^
+||dns.mzjtechnology.com^
 ||dns.mzrme.cn^
 ||dns.n23.io^
 ||dns.nako.kr^
@@ -1294,6 +1317,7 @@
 ||dns.nas-server.ru^
 ||dns.nashi.us.to^
 ||dns.ndo.dev^
+||dns.neeb.it^
 ||dns.neilzone.co.uk^
 ||dns.nekofish.cc^
 ||dns.neonteam.cc^
@@ -1316,6 +1340,7 @@
 ||dns.ninhs.org^
 ||dns.nixnet.xyz^
 ||dns.njal.la^
+||dns.nodoa.me^
 ||dns.nonomi.cc^
 ||dns.norvig.dk^
 ||dns.notjakob.com^
@@ -1364,8 +1389,10 @@
 ||dns.phillipjberry.net^
 ||dns.philqoo.com^
 ||dns.phucbui.top^
+||dns.pierzchlewicz.pl^
 ||dns.pieterdherde.com^
 ||dns.pine-home.de^
+||dns.pizzari.me^
 ||dns.ple91.uk^
 ||dns.pmxu.link^
 ||dns.pnh.my.id^
@@ -1386,8 +1413,10 @@
 ||dns.purah.link^
 ||dns.qdevs.tech^
 ||dns.qkc.fr^
+||dns.qrtz.club^
 ||dns.quad9.net^
 ||dns.quickline.ch^
+||dns.quiet.rocks^
 ||dns.qwqawa.asia^
 ||dns.rabbitdns.org^
 ||dns.radityaharya.com^
@@ -1400,6 +1429,7 @@
 ||dns.rbn.gr^
 ||dns.readlook.tk^
 ||dns.reckoningslug.name^
+||dns.redhosting.com.ar^
 ||dns.redroot.me^
 ||dns.redvau.lt^
 ||dns.reitmeier.me^
@@ -1413,11 +1443,13 @@
 ||dns.rin.sh^
 ||dns.risrdg.net^
 ||dns.rjls.me^
+||dns.roedel.cloud^
 ||dns.ronc.ru^
 ||dns.root.me^
 ||dns.rootlab.top^
 ||dns.rotunneling.net^
 ||dns.rshtkdn.ru^
+||dns.rslvr.eu^
 ||dns.rubyfish.cn^
 ||dns.s0ra.asia^
 ||dns.sac.rebl.eu.org^
@@ -1438,6 +1470,7 @@
 ||dns.seaotter.cc^
 ||dns.sec511.com^
 ||dns.seekfor.top^
+||dns.seia.io^
 ||dns.seiffert.me^
 ||dns.sellan.fr^
 ||dns.serdcebolit.ru^
@@ -1464,6 +1497,7 @@
 ||dns.slinkyman.net^
 ||dns.smartguard.io^
 ||dns.smvd.net^
+||dns.soldier.terumi.club^
 ||dns.spil.co.id^
 ||dns.spirio.fr^
 ||dns.srijan.site^
@@ -1971,6 +2005,7 @@
 ||domburg.beruys.com^
 ||domen-dns.ru^
 ||domeq.waw.pl^
+||dooh.cloudflare-dns.com^
 ||door.plasmadancer.ru^
 ||doq.sa-sa.eu^
 ||dorkanddoodle.duckdns.org^
@@ -2948,6 +2983,7 @@
 ||sea01.dnscry.pt^
 ||seanyan.ddns.net^
 ||sec.iamninja.ru^
+||secondary.dns.seia.io^
 ||secondary.dns.yandex.ru^
 ||secondary.family.dns.yandex.ru^
 ||secondary.safe.dns.yandex.ru^
