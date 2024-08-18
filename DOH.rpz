@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2408170159 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2408180157 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2024-08-17 01:59:21 (UTC)
+; Last updated: 2024-08-18 01:57:40 (UTC)
 ;
 ; See https://jpgpi250.github.io/piholemanual/doc/Unbound%20response%20policy%20zones.pdf
 ; Report issues at https://github.com/jpgpi250/piholemanual/issues
@@ -397,6 +397,7 @@ ae-fuj-w-4.nashkan.net CNAME .
 ae-fuj-w-p-1.nashkan.net CNAME .
 ae-fuj-w-p-2.nashkan.net CNAME .
 ae-fuj-w-p-3.nashkan.net CNAME .
+aere.vip CNAME .
 aerodrorne.vip CNAME .
 aezadns.duckdns.org CNAME .
 affcdn.net CNAME .
@@ -646,7 +647,6 @@ cloud.tezoi.com CNAME .
 cloudbasesolutions.online CNAME .
 cloudflare-dns.com CNAME .
 cloudflare-gateway.com CNAME .
-cloudflaredns.com CNAME .
 cloudflareresolve.com CNAME .
 cloudns.bosco.ovh CNAME .
 cloudsrv.charitosnet.de CNAME .
@@ -860,7 +860,6 @@ dns.asterimoon.com CNAME .
 dns.atsilva.link CNAME .
 dns.audet.cloud CNAME .
 dns.auffray.org CNAME .
-dns.axeleroy.com CNAME .
 dns.axto.me CNAME .
 dns.ayarzagoitia.com CNAME .
 dns.aykanbacaksoy.de CNAME .
@@ -992,6 +991,7 @@ dns.dns-53.com CNAME .
 dns.dns-53.uk CNAME .
 dns.dns-53.us CNAME .
 dns.dns-over-https.com CNAME .
+dns.dnsadguard.co.uk CNAME .
 dns.dnshome.de CNAME .
 dns.dnsoverhttps.net CNAME .
 dns.dnswarden.com CNAME .
@@ -1377,6 +1377,7 @@ dns.otezz.net CNAME .
 dns.ours.luxe CNAME .
 dns.ourvau.lt CNAME .
 dns.ovpn.bond CNAME .
+dns.oxystin.online CNAME .
 dns.p3k.sk CNAME .
 dns.p55k.com CNAME .
 dns.pacificmonster.com CNAME .
@@ -1523,11 +1524,13 @@ dns.sung-il.kim CNAME .
 dns.supercluster.io CNAME .
 dns.superstefan.win CNAME .
 dns.surfshark.com CNAME .
+dns.sv-zauner.at CNAME .
 dns.svoi.dev CNAME .
 dns.swin.pro CNAME .
 dns.switch.ch CNAME .
 dns.syaifullah.com CNAME .
 dns.syaifullah.id CNAME .
+dns.szpadel.ovh CNAME .
 dns.t53.de CNAME .
 dns.taoday.top CNAME .
 dns.tapawan.ca CNAME .
@@ -1535,6 +1538,7 @@ dns.tb4.me CNAME .
 dns.tbnk.ca CNAME .
 dns.teaminfo.fr CNAME .
 dns.techcpu.net CNAME .
+dns.technologycage.com CNAME .
 dns.technostriker.com CNAME .
 dns.tefuir0829.cn CNAME .
 dns.telekom.de CNAME .
@@ -1633,6 +1637,7 @@ dns.ygonline.de CNAME .
 dns.yingroad.top CNAME .
 dns.youni.win CNAME .
 dns.yrrev.com CNAME .
+dns.yu.dev CNAME .
 dns.yumenashyi.com CNAME .
 dns.yyaan.com CNAME .
 dns.yyaan.top CNAME .
@@ -1664,6 +1669,7 @@ dns1.blackrandcrf.ru CNAME .
 dns1.cl.newpangea.de CNAME .
 dns1.conne.net CNAME .
 dns1.digitale-gesellschaft.ch CNAME .
+dns1.dns-ga.de CNAME .
 dns1.dnscrypt.ca CNAME .
 dns1.gdie.top CNAME .
 dns1.in-berlin.de CNAME .
@@ -1710,6 +1716,7 @@ dns2.cbio.top CNAME .
 dns2.cybrespace.net CNAME .
 dns2.developer.li CNAME .
 dns2.digitale-gesellschaft.ch CNAME .
+dns2.dns-ga.de CNAME .
 dns2.dnscrypt.ca CNAME .
 dns2.enzonix.com CNAME .
 dns2.gms.net.id CNAME .
@@ -1734,6 +1741,7 @@ dns2.srv-home.fr CNAME .
 dns2.thylacine.co.nz CNAME .
 dns2.vinc.me CNAME .
 dns2.vpcore.pro CNAME .
+dns3.dns-ga.de CNAME .
 dns3.wistarip.com CNAME .
 dns4me.net CNAME .
 dns64.cloudflare-dns.com CNAME .
@@ -1744,8 +1752,10 @@ dns9999.duckdns.org CNAME .
 dnsadguard.co.uk CNAME .
 dnsaguard1.duckdns.org CNAME .
 dnsbk.wns.watch CNAME .
+dnsblock.grisumedia.de CNAME .
 dnsbot.fiedin.com CNAME .
 dnscache.e-utp.net CNAME .
+dnscache0.ns71.net CNAME .
 dnscdn.bai0012.com CNAME .
 dnscity.org CNAME .
 dnsdoh.art CNAME .
@@ -1992,6 +2002,7 @@ doh.xfinity.com CNAME .
 doh.xorlet.ru CNAME .
 doh.xyz CNAME .
 doh.zephyrsec.cfd CNAME .
+doh.zknt.org CNAME .
 doh.zln.wtf CNAME .
 doh003.280blocker.net CNAME .
 doh1.alidns.com CNAME .
@@ -2259,6 +2270,7 @@ helios.plan9-dns.com CNAME .
 helios.plan9dns.com CNAME .
 heoyun.com CNAME .
 heykan.theworkpc.com CNAME .
+hfgx.shop CNAME .
 hgns.harriganhome.ga CNAME .
 hitian.me CNAME .
 hk-hkg.doh.sb CNAME .
