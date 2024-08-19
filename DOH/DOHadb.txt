@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2024-08-17 02:13:15 (UTC)
+! Last updated: 2024-08-18 02:11:48 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -393,6 +393,7 @@
 ||ae-fuj-w-p-1.nashkan.net^
 ||ae-fuj-w-p-2.nashkan.net^
 ||ae-fuj-w-p-3.nashkan.net^
+||aere.vip^
 ||aerodrorne.vip^
 ||aezadns.duckdns.org^
 ||affcdn.net^
@@ -642,7 +643,6 @@
 ||cloudbasesolutions.online^
 ||cloudflare-dns.com^
 ||cloudflare-gateway.com^
-||cloudflaredns.com^
 ||cloudflareresolve.com^
 ||cloudns.bosco.ovh^
 ||cloudsrv.charitosnet.de^
@@ -856,7 +856,6 @@
 ||dns.atsilva.link^
 ||dns.audet.cloud^
 ||dns.auffray.org^
-||dns.axeleroy.com^
 ||dns.axto.me^
 ||dns.ayarzagoitia.com^
 ||dns.aykanbacaksoy.de^
@@ -988,6 +987,7 @@
 ||dns.dns-53.uk^
 ||dns.dns-53.us^
 ||dns.dns-over-https.com^
+||dns.dnsadguard.co.uk^
 ||dns.dnshome.de^
 ||dns.dnsoverhttps.net^
 ||dns.dnswarden.com^
@@ -1373,6 +1373,7 @@
 ||dns.ours.luxe^
 ||dns.ourvau.lt^
 ||dns.ovpn.bond^
+||dns.oxystin.online^
 ||dns.p3k.sk^
 ||dns.p55k.com^
 ||dns.pacificmonster.com^
@@ -1519,11 +1520,13 @@
 ||dns.supercluster.io^
 ||dns.superstefan.win^
 ||dns.surfshark.com^
+||dns.sv-zauner.at^
 ||dns.svoi.dev^
 ||dns.swin.pro^
 ||dns.switch.ch^
 ||dns.syaifullah.com^
 ||dns.syaifullah.id^
+||dns.szpadel.ovh^
 ||dns.t53.de^
 ||dns.taoday.top^
 ||dns.tapawan.ca^
@@ -1531,6 +1534,7 @@
 ||dns.tbnk.ca^
 ||dns.teaminfo.fr^
 ||dns.techcpu.net^
+||dns.technologycage.com^
 ||dns.technostriker.com^
 ||dns.tefuir0829.cn^
 ||dns.telekom.de^
@@ -1629,6 +1633,7 @@
 ||dns.yingroad.top^
 ||dns.youni.win^
 ||dns.yrrev.com^
+||dns.yu.dev^
 ||dns.yumenashyi.com^
 ||dns.yyaan.com^
 ||dns.yyaan.top^
@@ -1660,6 +1665,7 @@
 ||dns1.cl.newpangea.de^
 ||dns1.conne.net^
 ||dns1.digitale-gesellschaft.ch^
+||dns1.dns-ga.de^
 ||dns1.dnscrypt.ca^
 ||dns1.gdie.top^
 ||dns1.in-berlin.de^
@@ -1706,6 +1712,7 @@
 ||dns2.cybrespace.net^
 ||dns2.developer.li^
 ||dns2.digitale-gesellschaft.ch^
+||dns2.dns-ga.de^
 ||dns2.dnscrypt.ca^
 ||dns2.enzonix.com^
 ||dns2.gms.net.id^
@@ -1730,6 +1737,7 @@
 ||dns2.thylacine.co.nz^
 ||dns2.vinc.me^
 ||dns2.vpcore.pro^
+||dns3.dns-ga.de^
 ||dns3.wistarip.com^
 ||dns4me.net^
 ||dns64.cloudflare-dns.com^
@@ -1740,8 +1748,10 @@
 ||dnsadguard.co.uk^
 ||dnsaguard1.duckdns.org^
 ||dnsbk.wns.watch^
+||dnsblock.grisumedia.de^
 ||dnsbot.fiedin.com^
 ||dnscache.e-utp.net^
+||dnscache0.ns71.net^
 ||dnscdn.bai0012.com^
 ||dnscity.org^
 ||dnsdoh.art^
@@ -1988,6 +1998,7 @@
 ||doh.xorlet.ru^
 ||doh.xyz^
 ||doh.zephyrsec.cfd^
+||doh.zknt.org^
 ||doh.zln.wtf^
 ||doh003.280blocker.net^
 ||doh1.alidns.com^
@@ -2255,6 +2266,7 @@
 ||helios.plan9dns.com^
 ||heoyun.com^
 ||heykan.theworkpc.com^
+||hfgx.shop^
 ||hgns.harriganhome.ga^
 ||hitian.me^
 ||hk-hkg.doh.sb^
