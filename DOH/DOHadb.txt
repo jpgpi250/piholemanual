@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2024-08-18 02:11:48 (UTC)
+! Last updated: 2024-08-19 02:59:05 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -233,7 +233,6 @@
 ||adguard.hofi.li^
 ||adguard.ihatemy.live^
 ||adguard.infrapod.nl^
-||adguard.izapi4.fr^
 ||adguard.jakinet.id^
 ||adguard.jaydub.cloud^
 ||adguard.jaye.sh^
@@ -2495,7 +2494,6 @@
 ||lim01.dnscry.pt^
 ||lindung.pp.ua^
 ||link.altapo.ru^
-||linkdiscord.xyz^
 ||lion.dns.qwer.pw^
 ||lion.yazilimatolye.com^
 ||ljk.kkizz.cn^
@@ -2583,6 +2581,7 @@
 ||muc-ns01.ibytex.systems^
 ||muc01.dnscry.pt^
 ||muli.stusta.mhn.de^
+||multi.dns.marbledfennec.net^
 ||muppy.pnamae.com^
 ||muxyuji.ru^
 ||mx1.laoxiao789.com^
