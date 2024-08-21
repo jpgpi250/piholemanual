@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2024-08-19 02:59:05 (UTC)
+! Last updated: 2024-08-20 02:32:06 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -670,6 +670,7 @@
 ||cvt01.dnscry.pt^
 ||cylee.net^
 ||cyliu.idv.tw^
+||cynntex.fun^
 ||cz-pra-w-1.nashkan.net^
 ||d.0w0.ooo^
 ||d.adguard-dns.com^
@@ -1359,7 +1360,6 @@
 ||dns.odirf.de^
 ||dns.ofdoom.net^
 ||dns.oliviertv.co.za^
-||dns.olpploiopkuyhiopsfrt.info^
 ||dns.onp.cloud^
 ||dns.opendns.com^
 ||dns.opnsource.com.au^
@@ -1603,6 +1603,7 @@
 ||dns.walshnet.co.uk^
 ||dns.wang.art^
 ||dns.wargan.io^
+||dns.warma.me^
 ||dns.warpnine.de^
 ||dns.warrior.fr^
 ||dns.watch^
