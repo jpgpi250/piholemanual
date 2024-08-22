@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2024-08-20 02:32:06 (UTC)
+! Last updated: 2024-08-21 02:42:07 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -302,6 +302,7 @@
 ||adguard.spaceindex.net^
 ||adguard.sparshbajaj.me^
 ||adguard.speeddemon.co.za^
+||adguard.spritzlive.net^
 ||adguard.spyrisk.fr^
 ||adguard.sscw.win^
 ||adguard.stealbit.com^
@@ -392,7 +393,6 @@
 ||ae-fuj-w-p-1.nashkan.net^
 ||ae-fuj-w-p-2.nashkan.net^
 ||ae-fuj-w-p-3.nashkan.net^
-||aere.vip^
 ||aerodrorne.vip^
 ||aezadns.duckdns.org^
 ||affcdn.net^
@@ -943,7 +943,6 @@
 ||dns.connect.fail^
 ||dns.containerpi.com^
 ||dns.controld.com^
-||dns.cooluc.com^
 ||dns.cr4zzy.xyz^
 ||dns.criena.net^
 ||dns.cryptomize.com^
@@ -1306,6 +1305,7 @@
 ||dns.murgi.de^
 ||dns.musikantit.fi^
 ||dns.muxinghe.cn^
+||dns.mxmail.com^
 ||dns.myddns.me^
 ||dns.mymanga.pro^
 ||dns.mysvc.de^
@@ -1557,6 +1557,7 @@
 ||dns.tooizi.eu^
 ||dns.tracker.ink^
 ||dns.trifanov-online.ru^
+||dns.trong.pro^
 ||dns.truong.fi^
 ||dns.trust404.win^
 ||dns.tryk.app^
@@ -2118,6 +2119,7 @@
 ||europe.doh.sb^
 ||ev-goztepe.duckdns.org^
 ||everovpn.co^
+||evg441tun.space^
 ||evoxt.pmm.pm^
 ||eweyo.duckdns.org^
 ||example.doh.blockerdns.com^
@@ -2314,6 +2316,7 @@
 ||host8.248.cloudhost.in.th^
 ||host94.rheingold.com.ua^
 ||hostdare.qtxd.net^
+||hostdare.xinyi0668.com^
 ||hostedadguard.greatharts.com^
 ||hr.i81.ru^
 ||hrk01.dnscry.pt^
@@ -2774,6 +2777,7 @@
 ||outie.8ws.net^
 ||outiejr.8ws.net^
 ||owndns.dedyn.io^
+||p-hole.krctechnologies.com^
 ||p0.freedns.controld.com^
 ||p1.freedns.controld.com^
 ||p2.freedns.controld.com^
@@ -3424,6 +3428,7 @@
 ||xie.ke^
 ||xjpdns.354688.xyz^
 ||xkariak.asuscomm.com^
+||xm.ln7371.top^
 ||xn--2grr3t07h.online^
 ||xn--80aecoigf4aatn.xn--p1ai^
 ||xn--85w848a.jp^
