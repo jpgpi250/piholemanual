@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2408210228 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2408220226 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2024-08-21 02:28:06 (UTC)
+; Last updated: 2024-08-22 02:26:16 (UTC)
 ;
 ; See https://jpgpi250.github.io/piholemanual/doc/Unbound%20response%20policy%20zones.pdf
 ; Report issues at https://github.com/jpgpi250/piholemanual/issues
@@ -285,6 +285,7 @@ adguard.piekacz.pl CNAME .
 adguard.pmoebi.xyz CNAME .
 adguard.poster.place CNAME .
 adguard.pushedv.de CNAME .
+adguard.quydang.name.vn CNAME .
 adguard.qyo.lol CNAME .
 adguard.rabmoor.cz CNAME .
 adguard.randomaizer.lentel.ru CNAME .
@@ -512,6 +513,7 @@ au-syd-w-3.nashkan.net CNAME .
 au-syd-w-f-1.nashkan.net CNAME .
 au-syd-w-p-1.nashkan.net CNAME .
 au-syd.doh.sb CNAME .
+au.rslvr.eu CNAME .
 au.teradns.org CNAME .
 au01.dns4me.net CNAME .
 au02.dns4me.net CNAME .
@@ -551,6 +553,7 @@ bestwon203.com CNAME .
 beta.thegodfatheriam.tech CNAME .
 bev.dns.walshnet.co.uk CNAME .
 bg-sof-w-3.nashkan.net CNAME .
+bg.rslvr.eu CNAME .
 bh.wael.name CNAME .
 bigart.su CNAME .
 bigora2.vuhai.de CNAME .
@@ -584,7 +587,6 @@ bravedns.com CNAME .
 bt.luoo.cc CNAME .
 btb.dog CNAME .
 bts01.dnscry.pt CNAME .
-buc-m2.illmods.com CNAME .
 bucheli.synology.me CNAME .
 bud01.dnscry.pt CNAME .
 bw.marsgo.top CNAME .
@@ -1261,6 +1263,7 @@ dns.maitrekuc.fr CNAME .
 dns.malanser.ru CNAME .
 dns.malhuda.com CNAME .
 dns.malwarelul.download CNAME .
+dns.mandre.dev CNAME .
 dns.maolaohei.xyz CNAME .
 dns.marasov.id CNAME .
 dns.marbledfennec.net CNAME .
@@ -2283,6 +2286,7 @@ hk.janebooom.com CNAME .
 hk.layjune.com CNAME .
 hk.mangosysdns.com CNAME .
 hk.ravi.top CNAME .
+hk.rslvr.eu CNAME .
 hk2.ooroot.com CNAME .
 hk2.ss.startagegames.com CNAME .
 hkg.core.access.zznet.fun CNAME .
@@ -2404,6 +2408,7 @@ jp.dns.bliod.eu.org CNAME .
 jp.dns.ikataruto.com CNAME .
 jp.gridns.xyz CNAME .
 jp.kano.sh CNAME .
+jp.rslvr.eu CNAME .
 jp.tiar.app CNAME .
 jp.tiarap.org CNAME .
 jp01.dns4me.net CNAME .
@@ -2657,6 +2662,7 @@ nl-dro-w-f-1.nashkan.net CNAME .
 nl-dro-w-p-1.nashkan.net CNAME .
 nl.adg.ghostzone.wtf CNAME .
 nl.dns.privex.io CNAME .
+nl.rslvr.eu CNAME .
 nlname.freecdn.one CNAME .
 no-ad.levcloud.cloudns.nz CNAME .
 no-osl-w-1.nashkan.net CNAME .
@@ -3042,6 +3048,7 @@ sg-w-f-1.nashkan.net CNAME .
 sg-w-f-2.nashkan.net CNAME .
 sg-w-p-1.nashkan.net CNAME .
 sg.101818.xyz CNAME .
+sg.rslvr.eu CNAME .
 sg.telex.app CNAME .
 sg.teradns.org CNAME .
 sg01.dns4me.net CNAME .
@@ -3240,6 +3247,7 @@ us-sea-w-6.nashkan.net CNAME .
 us.doh.cloudveil.org CNAME .
 us.jiusi.online CNAME .
 us.novali.date CNAME .
+us.rslvr.eu CNAME .
 us01.dns4me.net CNAME .
 us02.dns4me.net CNAME .
 us1.blissdns.net CNAME .
