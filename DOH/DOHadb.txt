@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2024-08-21 02:42:07 (UTC)
+! Last updated: 2024-08-22 02:40:17 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -281,6 +281,7 @@
 ||adguard.pmoebi.xyz^
 ||adguard.poster.place^
 ||adguard.pushedv.de^
+||adguard.quydang.name.vn^
 ||adguard.qyo.lol^
 ||adguard.rabmoor.cz^
 ||adguard.randomaizer.lentel.ru^
@@ -508,6 +509,7 @@
 ||au-syd-w-f-1.nashkan.net^
 ||au-syd-w-p-1.nashkan.net^
 ||au-syd.doh.sb^
+||au.rslvr.eu^
 ||au.teradns.org^
 ||au01.dns4me.net^
 ||au02.dns4me.net^
@@ -547,6 +549,7 @@
 ||beta.thegodfatheriam.tech^
 ||bev.dns.walshnet.co.uk^
 ||bg-sof-w-3.nashkan.net^
+||bg.rslvr.eu^
 ||bh.wael.name^
 ||bigart.su^
 ||bigora2.vuhai.de^
@@ -580,7 +583,6 @@
 ||bt.luoo.cc^
 ||btb.dog^
 ||bts01.dnscry.pt^
-||buc-m2.illmods.com^
 ||bucheli.synology.me^
 ||bud01.dnscry.pt^
 ||bw.marsgo.top^
@@ -1257,6 +1259,7 @@
 ||dns.malanser.ru^
 ||dns.malhuda.com^
 ||dns.malwarelul.download^
+||dns.mandre.dev^
 ||dns.maolaohei.xyz^
 ||dns.marasov.id^
 ||dns.marbledfennec.net^
@@ -2279,6 +2282,7 @@
 ||hk.layjune.com^
 ||hk.mangosysdns.com^
 ||hk.ravi.top^
+||hk.rslvr.eu^
 ||hk2.ooroot.com^
 ||hk2.ss.startagegames.com^
 ||hkg.core.access.zznet.fun^
@@ -2400,6 +2404,7 @@
 ||jp.dns.ikataruto.com^
 ||jp.gridns.xyz^
 ||jp.kano.sh^
+||jp.rslvr.eu^
 ||jp.tiar.app^
 ||jp.tiarap.org^
 ||jp01.dns4me.net^
@@ -2653,6 +2658,7 @@
 ||nl-dro-w-p-1.nashkan.net^
 ||nl.adg.ghostzone.wtf^
 ||nl.dns.privex.io^
+||nl.rslvr.eu^
 ||nlname.freecdn.one^
 ||no-ad.levcloud.cloudns.nz^
 ||no-osl-w-1.nashkan.net^
@@ -3038,6 +3044,7 @@
 ||sg-w-f-2.nashkan.net^
 ||sg-w-p-1.nashkan.net^
 ||sg.101818.xyz^
+||sg.rslvr.eu^
 ||sg.telex.app^
 ||sg.teradns.org^
 ||sg01.dns4me.net^
@@ -3236,6 +3243,7 @@
 ||us.doh.cloudveil.org^
 ||us.jiusi.online^
 ||us.novali.date^
+||us.rslvr.eu^
 ||us01.dns4me.net^
 ||us02.dns4me.net^
 ||us1.blissdns.net^
