@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2408260201 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2408270216 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2024-08-26 02:01:25 (UTC)
+; Last updated: 2024-08-27 02:16:46 (UTC)
 ;
 ; See https://jpgpi250.github.io/piholemanual/doc/Unbound%20response%20policy%20zones.pdf
 ; Report issues at https://github.com/jpgpi250/piholemanual/issues
@@ -2466,6 +2466,7 @@ kstdownload.com CNAME .
 kswro.web.id CNAME .
 kudns.kescher.at CNAME .
 kunagi.pro CNAME .
+kx-97795-tr.xyz CNAME .
 kx.qing-book.online CNAME .
 kz-alm-w-1.nashkan.net CNAME .
 kz-pav-w-p-1.nashkan.net CNAME .
