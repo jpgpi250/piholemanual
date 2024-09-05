@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2024-09-03 02:33:32 (UTC)
+! Last updated: 2024-09-04 02:28:23 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -2447,6 +2447,7 @@
 ||ko-18948-tr.xyz^
 ||kocapb.ru^
 ||kokesh.se^
+||kol.lol^
 ||kolobok2.duckdns.org^
 ||korzhov.dev^
 ||kostik-66.online^
@@ -2591,6 +2592,7 @@
 ||muppy.pnamae.com^
 ||muxyuji.ru^
 ||mx1.laoxiao789.com^
+||myatris.sbs^
 ||mydevpn.eu^
 ||mydns.bielperes.me^
 ||mydns.ddns.me^
