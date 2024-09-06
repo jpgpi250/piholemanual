@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2409050240 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2409060221 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2024-09-05 02:40:21 (UTC)
+; Last updated: 2024-09-06 02:21:38 (UTC)
 ;
 ; See https://jpgpi250.github.io/piholemanual/doc/Unbound%20response%20policy%20zones.pdf
 ; Report issues at https://github.com/jpgpi250/piholemanual/issues
@@ -101,7 +101,6 @@ adb.aiec.vn CNAME .
 adbl-tslagter.nl CNAME .
 adblock-dot.dnswarden.com CNAME .
 adblock.any.dns.nixnet.xyz CNAME .
-adblock.borjalopez.eu CNAME .
 adblock.dns.mullvad.net CNAME .
 adblock.doh.mullvad.net CNAME .
 adblock.indianets.net CNAME .
@@ -646,7 +645,6 @@ cloud.tezoi.com CNAME .
 cloudbasesolutions.online CNAME .
 cloudflare-dns.com CNAME .
 cloudflare-gateway.com CNAME .
-cloudflaredns.com CNAME .
 cloudflareresolve.com CNAME .
 cloudns.bosco.ovh CNAME .
 cloudsrv.charitosnet.de CNAME .
@@ -2149,6 +2147,7 @@ familyshield.opendns.com CNAME .
 fanscloud.net CNAME .
 faradns.net CNAME .
 faradns2.net CNAME .
+farewellkou.click CNAME .
 fb.i81.ru CNAME .
 fdns1.dismail.de CNAME .
 fdns2.dismail.de CNAME .
@@ -2577,6 +2576,7 @@ mikewaddick.com CNAME .
 mikezhang.xyz CNAME .
 mil01.dnscry.pt CNAME .
 minami.website CNAME .
+miniapp.sh CNAME .
 minilla.store CNAME .
 mkvvpssrv12.freemyip.com CNAME .
 mnrv.trade CNAME .
@@ -2685,6 +2685,7 @@ ns.hjk.kr CNAME .
 ns.hjk.me CNAME .
 ns.lov.host CNAME .
 ns.mtsoln.com CNAME .
+ns.nwps.fi CNAME .
 ns.palvikt.us CNAME .
 ns.postoverall.xyz CNAME .
 ns.ral9005.org CNAME .
