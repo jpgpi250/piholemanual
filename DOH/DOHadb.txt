@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2024-09-05 02:54:21 (UTC)
+! Last updated: 2024-09-06 02:35:25 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -97,7 +97,6 @@
 ||adbl-tslagter.nl^
 ||adblock-dot.dnswarden.com^
 ||adblock.any.dns.nixnet.xyz^
-||adblock.borjalopez.eu^
 ||adblock.dns.mullvad.net^
 ||adblock.doh.mullvad.net^
 ||adblock.indianets.net^
@@ -642,7 +641,6 @@
 ||cloudbasesolutions.online^
 ||cloudflare-dns.com^
 ||cloudflare-gateway.com^
-||cloudflaredns.com^
 ||cloudflareresolve.com^
 ||cloudns.bosco.ovh^
 ||cloudsrv.charitosnet.de^
@@ -2145,6 +2143,7 @@
 ||fanscloud.net^
 ||faradns.net^
 ||faradns2.net^
+||farewellkou.click^
 ||fb.i81.ru^
 ||fdns1.dismail.de^
 ||fdns2.dismail.de^
@@ -2573,6 +2572,7 @@
 ||mikezhang.xyz^
 ||mil01.dnscry.pt^
 ||minami.website^
+||miniapp.sh^
 ||minilla.store^
 ||mkvvpssrv12.freemyip.com^
 ||mnrv.trade^
@@ -2681,6 +2681,7 @@
 ||ns.hjk.me^
 ||ns.lov.host^
 ||ns.mtsoln.com^
+||ns.nwps.fi^
 ||ns.palvikt.us^
 ||ns.postoverall.xyz^
 ||ns.ral9005.org^
