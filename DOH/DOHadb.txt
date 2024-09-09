@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2024-09-07 02:02:18 (UTC)
+! Last updated: 2024-09-08 02:44:53 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -106,7 +106,6 @@
 ||adblock.mydns.network^
 ||adblock.ny1.dns.nixnet.xyz^
 ||adblock.renedis.nl^
-||adblocker.cpadin.com^
 ||adblockersite.com^
 ||addns.clubbase.club^
 ||addns.jpr.space^
@@ -173,6 +172,7 @@
 ||adguard.blogssl.com^
 ||adguard.bonis.de^
 ||adguard.bonsirven.eu^
+||adguard.c0rrre.rocks^
 ||adguard.camn.uk^
 ||adguard.cell.co.id^
 ||adguard.chancecallahan.net^
@@ -206,6 +206,7 @@
 ||adguard.eoghan-net.com^
 ||adguard.eximpius.xyz^
 ||adguard.ext.devkon.org^
+||adguard.eyadmojahed.ddnsgeek.com^
 ||adguard.fam-rodenburg.nl^
 ||adguard.fihch.ru^
 ||adguard.firestrike-services.de^
@@ -681,6 +682,7 @@
 ||d.onlyjsmylord.org^
 ||d.toairs.com^
 ||d.zscale.gq^
+||d1.insec.link^
 ||d2.shabi.icu^
 ||d3.shabi.icu^
 ||d3vy.ru^
@@ -962,6 +964,7 @@
 ||dns.deadsec.net^
 ||dns.decky.eu^
 ||dns.decloudus.com^
+||dns.dedsec.cc^
 ||dns.deekshith.in^
 ||dns.dekedin.me^
 ||dns.delitarus.ru^
@@ -974,7 +977,6 @@
 ||dns.digitale-gesellschaft.ch^
 ||dns.digitalegesellschaft.ch^
 ||dns.digitalsize.net^
-||dns.digiultsparrow.space^
 ||dns.dionperera.com^
 ||dns.dns-53.com^
 ||dns.dns-53.uk^
@@ -1078,7 +1080,6 @@
 ||dns.google.com^
 ||dns.goshawk22.uk^
 ||dns.grqu.de^
-||dns.gt500.ru^
 ||dns.guard.io^
 ||dns.gutwe.in^
 ||dns.h0schi.cloud^
@@ -1124,6 +1125,7 @@
 ||dns.ian.rocks^
 ||dns.ibakerserver.pt^
 ||dns.iblockads.net^
+||dns.ifrez.tv^
 ||dns.ihaveacloud.com^
 ||dns.ikataruto.com^
 ||dns.iki.my.id^
@@ -1246,6 +1248,7 @@
 ||dns.loony-tech.de^
 ||dns.lsho.top^
 ||dns.ltse.cloud^
+||dns.lululu.dev^
 ||dns.lupine.solutions^
 ||dns.lvolland.fr^
 ||dns.mafyuh.io^
@@ -1260,7 +1263,6 @@
 ||dns.marcbond.uk^
 ||dns.mariasantana.com.br^
 ||dns.mateo.ovh^
-||dns.mathewakhil.online^
 ||dns.matthias-prost.com^
 ||dns.maybe.icu^
 ||dns.mayx.eu.org^
@@ -1390,7 +1392,6 @@
 ||dns.pizzari.me^
 ||dns.ple91.uk^
 ||dns.pmxu.link^
-||dns.pnh.my.id^
 ||dns.pointless.chat^
 ||dns.porteii.com^
 ||dns.powerbs.net^
@@ -1405,7 +1406,6 @@
 ||dns.pub^
 ||dns.pumpkinvrar.com^
 ||dns.pumplex.com^
-||dns.purah.link^
 ||dns.qdevs.tech^
 ||dns.qkc.fr^
 ||dns.qrtz.club^
@@ -1679,7 +1679,6 @@
 ||dns1.ryan-palmer.com^
 ||dns1.ryanpalmer.com^
 ||dns1.saferbfc.org^
-||dns1.sarak.as^
 ||dns1.sarakas.net^
 ||dns1.server.my.id^
 ||dns1.sg.newpangea.de^
@@ -1724,7 +1723,6 @@
 ||dns2.prima-solusindo.com^
 ||dns2.rhscz.eu^
 ||dns2.saferbfc.org^
-||dns2.sarak.as^
 ||dns2.sarakas.net^
 ||dns2.srv-home.fr^
 ||dns2.thylacine.co.nz^
@@ -1743,7 +1741,6 @@
 ||dnsaguard1.duckdns.org^
 ||dnsbk.wns.watch^
 ||dnsblock.grisumedia.de^
-||dnsbot.fiedin.com^
 ||dnscache.e-utp.net^
 ||dnscache0.ns71.net^
 ||dnscdn.bai0012.com^
@@ -2150,7 +2147,6 @@
 ||felipefalcao.me^
 ||fet01.dnscry.pt^
 ||fezgate.ovh^
-||fggdd.top^
 ||fi-hel-w-1.nashkan.net^
 ||fi-hel-w-2.nashkan.net^
 ||fi-hel-w-f-2.nashkan.net^
@@ -2193,7 +2189,6 @@
 ||fuliming.xyz^
 ||fullaccesstointernet.jp.eu.org^
 ||funti.cc^
-||futuregeek.tech^
 ||fvpn.jarvishome.ru^
 ||fwgw.orangepipc.mywire.org^
 ||gaia.plonknet.com^
@@ -2260,7 +2255,6 @@
 ||handy-matthias.dns.internal.espresso-tasse.de^
 ||handy-nils.dns.internal.espresso-tasse.de^
 ||hanniel.tech^
-||harveyhome.top^
 ||hel01.dnscry.pt^
 ||helios.plan9-dns.com^
 ||helios.plan9dns.com^
@@ -2287,6 +2281,7 @@
 ||hkname.freecdn.one^
 ||hoavan.io.vn^
 ||hole.elbschloss.xyz^
+||home-server.store^
 ||home.basthorst.eu^
 ||home.bruckmoser.it^
 ||home.dlinkddns.com^
@@ -2632,7 +2627,6 @@
 ||neoland.cloud^
 ||net.0ms.dev^
 ||net.tt6.net^
-||netcat.one^
 ||netcup.mismat.ch^
 ||new.pragmasec.nl^
 ||newblader2k.dynv6.net^
@@ -2679,7 +2673,6 @@
 ||ns.dnsviewer.org^
 ||ns.hjk.kr^
 ||ns.hjk.me^
-||ns.lov.host^
 ||ns.mtsoln.com^
 ||ns.nwps.fi^
 ||ns.palvikt.us^
@@ -2980,6 +2973,7 @@
 ||safeservedns.com^
 ||sagutxustech.com^
 ||sakuraknight2024.top^
+||salvietta.lauraeguido.com^
 ||sams.adg.siudzinski.net^
 ||samsdns1943.net^
 ||samsung.dns.joey01245.nl^
@@ -3066,6 +3060,7 @@
 ||singy.smartq.dev^
 ||sink.nolo.ltd^
 ||sitdns.com^
+||site-1.duckdns.org^
 ||site-2.duckdns.org^
 ||sjc01.dnscry.pt^
 ||sk-bra-w-1.nashkan.net^
@@ -3278,7 +3273,6 @@
 ||vm.mytm.cc^
 ||vm1.arashi.solutions^
 ||vm2.arashi.solutions^
-||vmok.ru^
 ||vn-hcm-w-1.nashkan.net^
 ||vn.dns.abpvn.com^
 ||vno01.dnscry.pt^
@@ -3439,7 +3433,6 @@
 ||xray.krnl.eu^
 ||xthwo.duckdns.org^
 ||xyz2.zmjflow.com^
-||xz.easyfly.tk^
 ||y3suyx0cg2lewi2dmn.advaitghaisas.in^
 ||yanggan.eu.org^
 ||yarp.lefolgoc.net^
