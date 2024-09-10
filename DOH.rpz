@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2409090152 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2409100208 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2024-09-09 01:52:29 (UTC)
+; Last updated: 2024-09-10 02:08:35 (UTC)
 ;
 ; See https://jpgpi250.github.io/piholemanual/doc/Unbound%20response%20policy%20zones.pdf
 ; Report issues at https://github.com/jpgpi250/piholemanual/issues
@@ -401,7 +401,6 @@ africa.avastdns.com CNAME .
 africadns1.liquidtelecom.net CNAME .
 africadns2.liquidtelecom.net CNAME .
 ag.apollohct.com CNAME .
-ag.brianlee.fun CNAME .
 ag.felixf.eu CNAME .
 ag.ff0x.ca CNAME .
 ag.hostme.co.il CNAME .
@@ -646,6 +645,7 @@ cloud.tezoi.com CNAME .
 cloudbasesolutions.online CNAME .
 cloudflare-dns.com CNAME .
 cloudflare-gateway.com CNAME .
+cloudflaredns.com CNAME .
 cloudflareresolve.com CNAME .
 cloudns.bosco.ovh CNAME .
 cloudsrv.charitosnet.de CNAME .
@@ -1103,6 +1103,7 @@ dns.henek.ru CNAME .
 dns.herkhof.nl CNAME .
 dns.hinet.net CNAME .
 dns.home.daniil.it CNAME .
+dns.hoody.com CNAME .
 dns.hopsken.com CNAME .
 dns.horcrux.vip CNAME .
 dns.horus-team.com CNAME .
@@ -1505,6 +1506,7 @@ dns.startupstack.tech CNAME .
 dns.stdev.su CNAME .
 dns.stevenz.net CNAME .
 dns.stirringphoto.com CNAME .
+dns.stormycloud.org CNAME .
 dns.strassmair.org CNAME .
 dns.streamsmoke.com CNAME .
 dns.streamvine.app CNAME .
