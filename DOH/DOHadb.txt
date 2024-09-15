@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2024-09-13 02:43:31 (UTC)
+! Last updated: 2024-09-14 02:37:23 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -172,7 +172,6 @@
 ||adguard.blogssl.com^
 ||adguard.bonis.de^
 ||adguard.bonsirven.eu^
-||adguard.c0rrre.rocks^
 ||adguard.camn.uk^
 ||adguard.cell.co.id^
 ||adguard.chancecallahan.net^
@@ -206,7 +205,6 @@
 ||adguard.eoghan-net.com^
 ||adguard.eximpius.xyz^
 ||adguard.ext.devkon.org^
-||adguard.eyadmojahed.ddnsgeek.com^
 ||adguard.fam-rodenburg.nl^
 ||adguard.fihch.ru^
 ||adguard.firestrike-services.de^
@@ -352,6 +350,7 @@
 ||adguardh.ga^
 ||adguardhome.atakorah.com^
 ||adguardhome.cloud^
+||adguardhome.favrep.ovh^
 ||adguardhome.fr.couli.fr^
 ||adguardnic.ddns.net^
 ||adguardsecure.cloud^
@@ -425,6 +424,7 @@
 ||agh.workfordemo.co.in^
 ||agh.xinfeng16m.top^
 ||agh2.server.my.id^
+||aghdns.com^
 ||ahadns.net^
 ||ahcek.com^
 ||ahoj.email^
@@ -642,6 +642,7 @@
 ||cloudbasesolutions.online^
 ||cloudflare-dns.com^
 ||cloudflare-gateway.com^
+||cloudflaredns.com^
 ||cloudflareresolve.com^
 ||cloudns.bosco.ovh^
 ||cloudsrv.charitosnet.de^
@@ -682,10 +683,13 @@
 ||d.onlyjsmylord.org^
 ||d.toairs.com^
 ||d.zscale.gq^
-||d1.insec.link^
+||d1.vps.mtsdns.ru^
 ||d2.shabi.icu^
+||d2.vps.mtsdns.ru^
 ||d3.shabi.icu^
+||d3.vps.mtsdns.ru^
 ||d3vy.ru^
+||d4.vps.mtsdns.ru^
 ||dadns.one^
 ||dahamnw.at^
 ||dandelionsprout.asuscomm.com^
@@ -727,6 +731,7 @@
 ||den01.dnscry.pt^
 ||derekcastle.duckdns.org^
 ||derevnya.px.i81.ru^
+||deti.vps.mtsdns.ru^
 ||dev.gonnadive.com^
 ||deweerd.loseyourip.com^
 ||dfw01.dnscry.pt^
@@ -802,6 +807,7 @@
 ||dns.7vpn.com^
 ||dns.886886886.xyz^
 ||dns.888654.xyz^
+||dns.912366.xyz^
 ||dns.9999.sg^
 ||dns.a47.me^
 ||dns.aa.net.uk^
@@ -877,6 +883,7 @@
 ||dns.bitdefender.net^
 ||dns.bitgeek.in^
 ||dns.bitservices.io^
+||dns.blaumer.dev^
 ||dns.blaze-sk.ru^
 ||dns.blokada.org^
 ||dns.bluemeda.cf^
@@ -964,7 +971,6 @@
 ||dns.deadsec.net^
 ||dns.decky.eu^
 ||dns.decloudus.com^
-||dns.dedsec.cc^
 ||dns.deekshith.in^
 ||dns.dekedin.me^
 ||dns.delitarus.ru^
@@ -1043,6 +1049,7 @@
 ||dns.faze.dev^
 ||dns.fb.i81.ru^
 ||dns.fc.idv.tw^
+||dns.feelvm.dev^
 ||dns.fehlsprache.de^
 ||dns.feldy.my.id^
 ||dns.felipefalcao.tech^
@@ -1127,7 +1134,6 @@
 ||dns.ian.rocks^
 ||dns.ibakerserver.pt^
 ||dns.iblockads.net^
-||dns.ifrez.tv^
 ||dns.ihaveacloud.com^
 ||dns.ikataruto.com^
 ||dns.iki.my.id^
@@ -1250,7 +1256,6 @@
 ||dns.loony-tech.de^
 ||dns.lsho.top^
 ||dns.ltse.cloud^
-||dns.lululu.dev^
 ||dns.lupine.solutions^
 ||dns.lvolland.fr^
 ||dns.mafyuh.io^
@@ -1594,6 +1599,7 @@
 ||dns.vmisch.tech^
 ||dns.vojtat.cz^
 ||dns.vpn.i81.ru^
+||dns.vps.mtsdns.ru^
 ||dns.w3ctag.org^
 ||dns.wael.name^
 ||dns.wahr.top^
@@ -1616,7 +1622,6 @@
 ||dns.wugui.zone^
 ||dns.wwwdjl.buzz^
 ||dns.xinwujiang.cn^
-||dns.xiumu.org^
 ||dns.xivilay.dev^
 ||dns.xlion.tw^
 ||dns.xuming.studio^
@@ -2286,7 +2291,6 @@
 ||hkname.freecdn.one^
 ||hoavan.io.vn^
 ||hole.elbschloss.xyz^
-||home-server.store^
 ||home.basthorst.eu^
 ||home.bruckmoser.it^
 ||home.dlinkddns.com^
@@ -2305,6 +2309,7 @@
 ||home.r01.fr^
 ||home.realldz.id.vn^
 ||home.snow-sugar.net^
+||home.vps.mtsdns.ru^
 ||home.wriedts.de^
 ||home27.duckdns.org^
 ||home47a.mooo.com^
@@ -2367,6 +2372,7 @@
 ||ist01.dnscry.pt^
 ||it-pal-w-1.nashkan.net^
 ||itlikehell.ru^
+||ivan.vps.mtsdns.ru^
 ||ivica-vulas.from.hr^
 ||ivnkn.xyz^
 ||j10.i88.xyz^
@@ -2446,7 +2452,6 @@
 ||ko-18948-tr.xyz^
 ||kocapb.ru^
 ||kokesh.se^
-||kol.lol^
 ||kolobok2.duckdns.org^
 ||korzhov.dev^
 ||kostik-66.online^
@@ -2492,6 +2497,7 @@
 ||lena.hr.i81.ru^
 ||lena.vd.i81.ru^
 ||lena.vpn.i81.ru^
+||lena.vps.mtsdns.ru^
 ||leochen-dns.ddns.net^
 ||lesuo.top^
 ||lfbn-gre-1-319-7.w90-112.abo.wanadoo.fr^
@@ -2586,6 +2592,7 @@
 ||mozilla.cloudflare-dns.com^
 ||mru01.dnscry.pt^
 ||msr177.com^
+||mtsdns.ru^
 ||muc-ns01.ibytex.systems^
 ||muc01.dnscry.pt^
 ||muli.stusta.mhn.de^
@@ -2633,6 +2640,7 @@
 ||neoland.cloud^
 ||net.0ms.dev^
 ||net.tt6.net^
+||netcup.chbu.ovh^
 ||netcup.mismat.ch^
 ||new.pragmasec.nl^
 ||newblader2k.dynv6.net^
@@ -2901,6 +2909,7 @@
 ||resolve.corpa.me^
 ||resolve.fknw.de^
 ||resolve.srv-pro.de^
+||resolve02.srv-pro.de^
 ||resolve2.srv-pro.de^
 ||resolver-eu.haringstad.com^
 ||resolver-eu.lelux.fi^
@@ -2979,7 +2988,6 @@
 ||safeservedns.com^
 ||sagutxustech.com^
 ||sakuraknight2024.top^
-||salvietta.lauraeguido.com^
 ||sams.adg.siudzinski.net^
 ||samsdns1943.net^
 ||samsung.dns.joey01245.nl^
@@ -3066,7 +3074,6 @@
 ||singy.smartq.dev^
 ||sink.nolo.ltd^
 ||sitdns.com^
-||site-1.duckdns.org^
 ||site-2.duckdns.org^
 ||sjc01.dnscry.pt^
 ||sk-bra-w-1.nashkan.net^
@@ -3318,6 +3325,7 @@
 ||vps.grussenmeyer.com^
 ||vps.irrelevant.cc^
 ||vps.jmarkin.ru^
+||vps.mtsdns.ru^
 ||vps.poly-tank.jp^
 ||vps.techrich.net^
 ||vps.vpsserver1.com^
