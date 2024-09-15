@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2409140223 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2409150149 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2024-09-14 02:23:08 (UTC)
+; Last updated: 2024-09-15 01:49:38 (UTC)
 ;
 ; See https://jpgpi250.github.io/piholemanual/doc/Unbound%20response%20policy%20zones.pdf
 ; Report issues at https://github.com/jpgpi250/piholemanual/issues
@@ -646,7 +646,6 @@ cloud.tezoi.com CNAME .
 cloudbasesolutions.online CNAME .
 cloudflare-dns.com CNAME .
 cloudflare-gateway.com CNAME .
-cloudflaredns.com CNAME .
 cloudflareresolve.com CNAME .
 cloudns.bosco.ovh CNAME .
 cloudsrv.charitosnet.de CNAME .
@@ -811,7 +810,6 @@ dns.5ososea.com CNAME .
 dns.7vpn.com CNAME .
 dns.886886886.xyz CNAME .
 dns.888654.xyz CNAME .
-dns.912366.xyz CNAME .
 dns.9999.sg CNAME .
 dns.a47.me CNAME .
 dns.aa.net.uk CNAME .
@@ -1939,7 +1937,6 @@ doh.meetz.pw CNAME .
 doh.micronets.in CNAME .
 doh.mmmalia.com CNAME .
 doh.mochou.site CNAME .
-doh.morizt.id CNAME .
 doh.mullvad.net CNAME .
 doh.netweaver.uk CNAME .
 doh.nexen.cloud CNAME .
@@ -2585,6 +2582,7 @@ mil01.dnscry.pt CNAME .
 minami.website CNAME .
 miniapp.sh CNAME .
 minilla.store CNAME .
+mita-is.so-gorgeo.us.kg CNAME .
 mkvvpssrv12.freemyip.com CNAME .
 mnrv.trade CNAME .
 mo0on15.com CNAME .
