@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2409160153 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2409170159 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2024-09-16 01:53:43 (UTC)
+; Last updated: 2024-09-17 01:59:47 (UTC)
 ;
 ; See https://jpgpi250.github.io/piholemanual/doc/Unbound%20response%20policy%20zones.pdf
 ; Report issues at https://github.com/jpgpi250/piholemanual/issues
@@ -1081,6 +1081,7 @@ dns.gi.co.id CNAME .
 dns.ginovs.nl CNAME .
 dns.girino.org CNAME .
 dns.glf.wtf CNAME .
+dns.glorydns.com CNAME .
 dns.glsoft.ai CNAME .
 dns.gmserv.cc CNAME .
 dns.gnb09.id CNAME .
@@ -2265,6 +2266,7 @@ han01.dnscry.pt CNAME .
 handy-matthias.dns.internal.espresso-tasse.de CNAME .
 handy-nils.dns.internal.espresso-tasse.de CNAME .
 hanniel.tech CNAME .
+hard.dnsforge.de CNAME .
 hel01.dnscry.pt CNAME .
 helios.plan9-dns.com CNAME .
 helios.plan9dns.com CNAME .
@@ -2653,6 +2655,7 @@ nicktruehome.ddns.net CNAME .
 nicsezcheckfbi.gov CNAME .
 nightlymoon.us.kg CNAME .
 nilanjan.rocks CNAME .
+nindy-is.so-gorgeo.us.kg CNAME .
 ninny.duckdns.org CNAME .
 nitter.ujwie.co CNAME .
 nl-ams-w-3.nashkan.net CNAME .
@@ -2677,6 +2680,7 @@ node9.servernode.store CNAME .
 nonanon.pl CNAME .
 note.dehb.ru CNAME .
 notebait.ddnsfree.com CNAME .
+nova-is.so-gorgeo.us.kg CNAME .
 nrt.core.access.zznet.fun CNAME .
 nrusimha.crabdance.com CNAME .
 ns.00dani.me CNAME .
@@ -3467,6 +3471,7 @@ yu-dns.art CNAME .
 yul01.dnscry.pt CNAME .
 yunyun.is.my.waifu.cz CNAME .
 yuripe.ccnt.fr CNAME .
+yussy-is.so-gorgeo.us.kg CNAME .
 yuvelirtut.website CNAME .
 yvr01.dnscry.pt CNAME .
 yyz01.dnscry.pt CNAME .
