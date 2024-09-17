@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2024-09-15 02:03:54 (UTC)
+! Last updated: 2024-09-16 02:07:53 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -1077,7 +1077,6 @@
 ||dns.ginovs.nl^
 ||dns.girino.org^
 ||dns.glf.wtf^
-||dns.glorydns.com^
 ||dns.glsoft.ai^
 ||dns.gmserv.cc^
 ||dns.gnb09.id^
@@ -2576,7 +2575,6 @@
 ||mikezhang.xyz^
 ||mil01.dnscry.pt^
 ||minami.website^
-||miniapp.sh^
 ||minilla.store^
 ||mita-is.so-gorgeo.us.kg^
 ||mkvvpssrv12.freemyip.com^
