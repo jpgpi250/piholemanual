@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2024-09-16 02:07:53 (UTC)
+! Last updated: 2024-09-17 02:13:47 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -1077,6 +1077,7 @@
 ||dns.ginovs.nl^
 ||dns.girino.org^
 ||dns.glf.wtf^
+||dns.glorydns.com^
 ||dns.glsoft.ai^
 ||dns.gmserv.cc^
 ||dns.gnb09.id^
@@ -2261,6 +2262,7 @@
 ||handy-matthias.dns.internal.espresso-tasse.de^
 ||handy-nils.dns.internal.espresso-tasse.de^
 ||hanniel.tech^
+||hard.dnsforge.de^
 ||hel01.dnscry.pt^
 ||helios.plan9-dns.com^
 ||helios.plan9dns.com^
@@ -2649,6 +2651,7 @@
 ||nicsezcheckfbi.gov^
 ||nightlymoon.us.kg^
 ||nilanjan.rocks^
+||nindy-is.so-gorgeo.us.kg^
 ||ninny.duckdns.org^
 ||nitter.ujwie.co^
 ||nl-ams-w-3.nashkan.net^
@@ -2673,6 +2676,7 @@
 ||nonanon.pl^
 ||note.dehb.ru^
 ||notebait.ddnsfree.com^
+||nova-is.so-gorgeo.us.kg^
 ||nrt.core.access.zznet.fun^
 ||nrusimha.crabdance.com^
 ||ns.00dani.me^
@@ -3463,6 +3467,7 @@
 ||yul01.dnscry.pt^
 ||yunyun.is.my.waifu.cz^
 ||yuripe.ccnt.fr^
+||yussy-is.so-gorgeo.us.kg^
 ||yuvelirtut.website^
 ||yvr01.dnscry.pt^
 ||yyz01.dnscry.pt^
