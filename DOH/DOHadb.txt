@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2024-09-20 02:24:49 (UTC)
+! Last updated: 2024-09-21 02:15:41 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -70,7 +70,6 @@
 ||ablock.fuckit.ovh^
 ||abluehope.com^
 ||abn01.dnscry.pt^
-||ach1.tech^
 ||acomit.lk^
 ||ad.344556.xyz^
 ||ad.800801.xyz^
@@ -2632,6 +2631,7 @@
 ||newlibrarian.myqnapcloud.com^
 ||nexashield.fr^
 ||next.miao.ninja^
+||ngbs.host^
 ||nickcan.xyz^
 ||nicknarayong.ddns.net^
 ||nicktruehome.ddns.net^
