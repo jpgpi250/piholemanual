@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2409220142 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2409230222 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2024-09-22 01:42:28 (UTC)
+; Last updated: 2024-09-23 02:22:49 (UTC)
 ;
 ; See https://jpgpi250.github.io/piholemanual/doc/Unbound%20response%20policy%20zones.pdf
 ; Report issues at https://github.com/jpgpi250/piholemanual/issues
@@ -641,7 +641,6 @@ cloud.tezoi.com CNAME .
 cloudbasesolutions.online CNAME .
 cloudflare-dns.com CNAME .
 cloudflare-gateway.com CNAME .
-cloudflaredns.com CNAME .
 cloudflareresolve.com CNAME .
 cloudns.bosco.ovh CNAME .
 cloudsrv.charitosnet.de CNAME .
@@ -785,6 +784,7 @@ dns.010812.xyz CNAME .
 dns.0ooo.icu CNAME .
 dns.0rz.ing CNAME .
 dns.0x55.net CNAME .
+dns.13evl.com CNAME .
 dns.1xtrm.com CNAME .
 dns.2.bsh4.com CNAME .
 dns.23-4.cn CNAME .
@@ -972,6 +972,7 @@ dns.decloudus.com CNAME .
 dns.deekshith.in CNAME .
 dns.dekedin.me CNAME .
 dns.delitarus.ru CNAME .
+dns.demon-inc.tw CNAME .
 dns.dev-umbrellagov.com CNAME .
 dns.developer.li CNAME .
 dns.dgea.fr CNAME .
@@ -1235,6 +1236,7 @@ dns.lashes-brow.ru CNAME .
 dns.lavir.com CNAME .
 dns.learningman.top CNAME .
 dns.lepilleur.com CNAME .
+dns.levals.org CNAME .
 dns.levonet.sk CNAME .
 dns.lgprk.com CNAME .
 dns.liberador.net CNAME .
@@ -1252,6 +1254,7 @@ dns.lobbygod.com CNAME .
 dns.loony-tech.de CNAME .
 dns.lsho.top CNAME .
 dns.ltse.cloud CNAME .
+dns.luismm2311.com CNAME .
 dns.lupine.solutions CNAME .
 dns.lvolland.fr CNAME .
 dns.mafyuh.io CNAME .
@@ -1396,6 +1399,7 @@ dns.pine-home.de CNAME .
 dns.pizzari.me CNAME .
 dns.ple91.uk CNAME .
 dns.pmxu.link CNAME .
+dns.pnh.my.id CNAME .
 dns.pointless.chat CNAME .
 dns.porteii.com CNAME .
 dns.powerbs.net CNAME .
@@ -1559,7 +1563,6 @@ dns.tracker.ink CNAME .
 dns.trifanov-online.ru CNAME .
 dns.truong.fi CNAME .
 dns.trust404.win CNAME .
-dns.tryk.app CNAME .
 dns.tuankhaiit.com CNAME .
 dns.tuna.tsinghua.edu.cn CNAME .
 dns.twnic.tw CNAME .
@@ -1736,7 +1739,6 @@ dns4me.net CNAME .
 dns64.cloudflare-dns.com CNAME .
 dns64.dns.google CNAME .
 dns8.org CNAME .
-dns9.cfd CNAME .
 dns9.quad9.net CNAME .
 dns9999.duckdns.org CNAME .
 dnsadguard.co.uk CNAME .
@@ -2146,6 +2148,7 @@ fb.i81.ru CNAME .
 fdns1.dismail.de CNAME .
 fdns2.dismail.de CNAME .
 felipefalcao.me CNAME .
+fennec.blackyfox.net CNAME .
 fet01.dnscry.pt CNAME .
 fezgate.ovh CNAME .
 fi-hel-w-1.nashkan.net CNAME .
@@ -2284,6 +2287,7 @@ hkg2.edge.access.zznet.fun CNAME .
 hkname.freecdn.one CNAME .
 hoavan.io.vn CNAME .
 hole.elbschloss.xyz CNAME .
+home-server.store CNAME .
 home.basthorst.eu CNAME .
 home.bruckmoser.it CNAME .
 home.dlinkddns.com CNAME .
@@ -2502,6 +2506,7 @@ lion.dns.qwer.pw CNAME .
 lion.yazilimatolye.com CNAME .
 ljk.kkizz.cn CNAME .
 llk01.dnscry.pt CNAME .
+lmc1.privatedns.org CNAME .
 loadlow.me CNAME .
 local.sufly.top CNAME .
 logs.danamas.net CNAME .
@@ -2876,6 +2881,7 @@ pure.sunnygyl.com CNAME .
 puredns.org CNAME .
 pygos.space CNAME .
 qaz.tw CNAME .
+qdns02.nymterm.com CNAME .
 qlf-doh.inria.fr CNAME .
 qual.cuprum.ru CNAME .
 quangdo92.dynu.net CNAME .
@@ -3472,6 +3478,7 @@ zburger.top CNAME .
 zdn.ro CNAME .
 zero.dns0.eu CNAME .
 zetland.rm-ni.uk CNAME .
+zeusvps.cloudns.nz CNAME .
 zoopark-vpn.ddns.net CNAME .
 zougloub.eu CNAME .
 zrh1-ns01.monzoon.net CNAME .
