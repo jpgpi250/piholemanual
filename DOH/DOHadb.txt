@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2024-09-22 01:56:24 (UTC)
+! Last updated: 2024-09-23 02:37:03 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -637,7 +637,6 @@
 ||cloudbasesolutions.online^
 ||cloudflare-dns.com^
 ||cloudflare-gateway.com^
-||cloudflaredns.com^
 ||cloudflareresolve.com^
 ||cloudns.bosco.ovh^
 ||cloudsrv.charitosnet.de^
@@ -781,6 +780,7 @@
 ||dns.0ooo.icu^
 ||dns.0rz.ing^
 ||dns.0x55.net^
+||dns.13evl.com^
 ||dns.1xtrm.com^
 ||dns.2.bsh4.com^
 ||dns.23-4.cn^
@@ -968,6 +968,7 @@
 ||dns.deekshith.in^
 ||dns.dekedin.me^
 ||dns.delitarus.ru^
+||dns.demon-inc.tw^
 ||dns.dev-umbrellagov.com^
 ||dns.developer.li^
 ||dns.dgea.fr^
@@ -1231,6 +1232,7 @@
 ||dns.lavir.com^
 ||dns.learningman.top^
 ||dns.lepilleur.com^
+||dns.levals.org^
 ||dns.levonet.sk^
 ||dns.lgprk.com^
 ||dns.liberador.net^
@@ -1248,6 +1250,7 @@
 ||dns.loony-tech.de^
 ||dns.lsho.top^
 ||dns.ltse.cloud^
+||dns.luismm2311.com^
 ||dns.lupine.solutions^
 ||dns.lvolland.fr^
 ||dns.mafyuh.io^
@@ -1392,6 +1395,7 @@
 ||dns.pizzari.me^
 ||dns.ple91.uk^
 ||dns.pmxu.link^
+||dns.pnh.my.id^
 ||dns.pointless.chat^
 ||dns.porteii.com^
 ||dns.powerbs.net^
@@ -1555,7 +1559,6 @@
 ||dns.trifanov-online.ru^
 ||dns.truong.fi^
 ||dns.trust404.win^
-||dns.tryk.app^
 ||dns.tuankhaiit.com^
 ||dns.tuna.tsinghua.edu.cn^
 ||dns.twnic.tw^
@@ -1732,7 +1735,6 @@
 ||dns64.cloudflare-dns.com^
 ||dns64.dns.google^
 ||dns8.org^
-||dns9.cfd^
 ||dns9.quad9.net^
 ||dns9999.duckdns.org^
 ||dnsadguard.co.uk^
@@ -2142,6 +2144,7 @@
 ||fdns1.dismail.de^
 ||fdns2.dismail.de^
 ||felipefalcao.me^
+||fennec.blackyfox.net^
 ||fet01.dnscry.pt^
 ||fezgate.ovh^
 ||fi-hel-w-1.nashkan.net^
@@ -2280,6 +2283,7 @@
 ||hkname.freecdn.one^
 ||hoavan.io.vn^
 ||hole.elbschloss.xyz^
+||home-server.store^
 ||home.basthorst.eu^
 ||home.bruckmoser.it^
 ||home.dlinkddns.com^
@@ -2498,6 +2502,7 @@
 ||lion.yazilimatolye.com^
 ||ljk.kkizz.cn^
 ||llk01.dnscry.pt^
+||lmc1.privatedns.org^
 ||loadlow.me^
 ||local.sufly.top^
 ||logs.danamas.net^
@@ -2872,6 +2877,7 @@
 ||puredns.org^
 ||pygos.space^
 ||qaz.tw^
+||qdns02.nymterm.com^
 ||qlf-doh.inria.fr^
 ||qual.cuprum.ru^
 ||quangdo92.dynu.net^
@@ -3468,6 +3474,7 @@
 ||zdn.ro^
 ||zero.dns0.eu^
 ||zetland.rm-ni.uk^
+||zeusvps.cloudns.nz^
 ||zoopark-vpn.ddns.net^
 ||zougloub.eu^
 ||zrh1-ns01.monzoon.net^
