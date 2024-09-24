@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2409230222 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2409240242 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2024-09-23 02:22:49 (UTC)
+; Last updated: 2024-09-24 02:42:49 (UTC)
 ;
 ; See https://jpgpi250.github.io/piholemanual/doc/Unbound%20response%20policy%20zones.pdf
 ; Report issues at https://github.com/jpgpi250/piholemanual/issues
@@ -544,6 +544,7 @@ beacon.fengli.love CNAME .
 beautifullife.eu.org CNAME .
 beautifulthings.eu.org CNAME .
 berd.moe CNAME .
+bereza.lol CNAME .
 bestwon203.com CNAME .
 beta.thegodfatheriam.tech CNAME .
 bev.dns.walshnet.co.uk CNAME .
@@ -1917,7 +1918,6 @@ doh.lacontrevoie.fr CNAME .
 doh.li CNAME .
 doh.libredns.gr CNAME .
 doh.libredns.org CNAME .
-doh.linngde.com CNAME .
 doh.luigi.nexific.it CNAME .
 doh.lujiacai.top CNAME .
 doh.lv CNAME .
@@ -2641,7 +2641,6 @@ newblader2k.dynv6.net CNAME .
 newlibrarian.myqnapcloud.com CNAME .
 nexashield.fr CNAME .
 next.miao.ninja CNAME .
-ngbs.host CNAME .
 nickcan.xyz CNAME .
 nicknarayong.ddns.net CNAME .
 nicktruehome.ddns.net CNAME .
@@ -2838,6 +2837,7 @@ pl-waw-w-2.nashkan.net CNAME .
 pl-waw-w-f-1.nashkan.net CNAME .
 pl-waw-w-p-1.nashkan.net CNAME .
 pl-waw-w-p-2.nashkan.net CNAME .
+please.dontsteal.my.id CNAME .
 plex.skin57.de CNAME .
 pluton.plan9-dns.com CNAME .
 pluton.plan9dns.com CNAME .
