@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2024-09-23 02:37:03 (UTC)
+! Last updated: 2024-09-24 02:57:02 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -540,6 +540,7 @@
 ||beautifullife.eu.org^
 ||beautifulthings.eu.org^
 ||berd.moe^
+||bereza.lol^
 ||bestwon203.com^
 ||beta.thegodfatheriam.tech^
 ||bev.dns.walshnet.co.uk^
@@ -1913,7 +1914,6 @@
 ||doh.li^
 ||doh.libredns.gr^
 ||doh.libredns.org^
-||doh.linngde.com^
 ||doh.luigi.nexific.it^
 ||doh.lujiacai.top^
 ||doh.lv^
@@ -2637,7 +2637,6 @@
 ||newlibrarian.myqnapcloud.com^
 ||nexashield.fr^
 ||next.miao.ninja^
-||ngbs.host^
 ||nickcan.xyz^
 ||nicknarayong.ddns.net^
 ||nicktruehome.ddns.net^
@@ -2834,6 +2833,7 @@
 ||pl-waw-w-f-1.nashkan.net^
 ||pl-waw-w-p-1.nashkan.net^
 ||pl-waw-w-p-2.nashkan.net^
+||please.dontsteal.my.id^
 ||plex.skin57.de^
 ||pluton.plan9-dns.com^
 ||pluton.plan9dns.com^
