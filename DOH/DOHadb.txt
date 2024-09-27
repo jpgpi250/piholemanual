@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2024-09-25 08:18:18 (UTC)
+! Last updated: 2024-09-26 02:32:20 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -598,6 +598,7 @@
 ||callies-online.site^
 ||calm-crown.freemyip.com^
 ||canadianshield.cira.ca^
+||catchen121299.top^
 ||catdns.org^
 ||cattery.noddos.top^
 ||cattery2.eastasia.cloudapp.azure.com^
