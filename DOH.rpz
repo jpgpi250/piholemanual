@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2410010225 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2410020230 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2024-10-01 02:25:54 (UTC)
+; Last updated: 2024-10-02 02:30:56 (UTC)
 ;
 ; See https://jpgpi250.github.io/piholemanual/doc/Unbound%20response%20policy%20zones.pdf
 ; Report issues at https://github.com/jpgpi250/piholemanual/issues
@@ -2622,6 +2622,7 @@ main.zhhz.cc CNAME .
 mainframe.dewed.de CNAME .
 malanser.ru CNAME .
 management.alexpollard.net CNAME .
+maqgie.xyz CNAME .
 mask-api.fe.apple-dns.net CNAME .
 mask-api.icloud.com CNAME .
 mask-h2.icloud.com CNAME .
@@ -3175,6 +3176,7 @@ skyroom.online.bugflaed2.shahram-m8.com CNAME .
 skyroom.online.cdn40.shahrammedia.com CNAME .
 skyroom.online.cdn41.shahram-m8.com CNAME .
 slc01.dnscry.pt CNAME .
+slyvo.xyz CNAME .
 sm5q237c0.g666gle.me CNAME .
 smartphone-niels.pcbrdh8v6m.digitallink.be CNAME .
 smartphone-saskia.pcbrdh8v6m.digitallink.be CNAME .
