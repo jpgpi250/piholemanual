@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2024-10-01 02:40:24 (UTC)
+! Last updated: 2024-10-02 02:45:28 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -2618,6 +2618,7 @@
 ||mainframe.dewed.de^
 ||malanser.ru^
 ||management.alexpollard.net^
+||maqgie.xyz^
 ||mask-api.fe.apple-dns.net^
 ||mask-api.icloud.com^
 ||mask-h2.icloud.com^
@@ -3171,6 +3172,7 @@
 ||skyroom.online.cdn40.shahrammedia.com^
 ||skyroom.online.cdn41.shahram-m8.com^
 ||slc01.dnscry.pt^
+||slyvo.xyz^
 ||sm5q237c0.g666gle.me^
 ||smartphone-niels.pcbrdh8v6m.digitallink.be^
 ||smartphone-saskia.pcbrdh8v6m.digitallink.be^
