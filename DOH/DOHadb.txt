@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2024-10-02 02:45:28 (UTC)
+! Last updated: 2024-10-03 02:05:52 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -2047,6 +2047,7 @@
 ||doh.xorlet.ru^
 ||doh.xyz^
 ||doh.zephyrsec.cfd^
+||doh.zephyrus.id^
 ||doh.zhongbr.uk^
 ||doh.zknt.org^
 ||doh.zln.wtf^
