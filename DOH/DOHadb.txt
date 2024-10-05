@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2024-10-03 02:05:52 (UTC)
+! Last updated: 2024-10-04 02:56:51 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -2214,6 +2214,7 @@
 ||fi-hel-w-p-1.nashkan.net^
 ||fi.doh.dns.snopyta.org^
 ||fi.dot.dns.snopyta.org^
+||fidelius.top^
 ||filipinoray.com^
 ||filter.das.sch.id^
 ||filya.hr.i81.ru^
@@ -2825,6 +2826,7 @@
 ||o--o.duckdns.org^
 ||o.rsaikat.com^
 ||o1.lt^
+||obscuro.top^
 ||ocp.cincloud.top^
 ||oculta.me^
 ||odoh.cloudflare-dns.com^
@@ -2927,6 +2929,7 @@
 ||polisidns.4ch.my.id^
 ||pooblet.co.za^
 ||pope.cnblw.me^
+||portus.top^
 ||pqh.ddns.net^
 ||premiumtier-network.instadart.net^
 ||princez.uk^
@@ -3026,6 +3029,7 @@
 ||resolver4.dns.openinternet.io^
 ||resov.wehao.net^
 ||rethinkdns.com^
+||revelio.top^
 ||rfree1.blue-shield.at^
 ||rfree2.blue-shield.at^
 ||rfsoftdev.ru^
@@ -3044,7 +3048,6 @@
 ||ro-buc-w-f-1.nashkan.net^
 ||ro-buc-w-p-1.nashkan.net^
 ||robertfenyiner.ddns.net^
-||robin.techomespace.com^
 ||roma.vpn.geshido.ru^
 ||romania.privacy-dns.pw^
 ||rome.digitallink.be^
