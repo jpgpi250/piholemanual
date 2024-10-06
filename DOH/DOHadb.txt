@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2024-10-04 02:56:51 (UTC)
+! Last updated: 2024-10-05 02:26:10 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -400,6 +400,7 @@
 ||aerodrorne.vip^
 ||affcdn.net^
 ||affsoft.cc^
+||africa-mask.wrr.mask.apple-dns.net^
 ||africa.avastdns.com^
 ||africadns1.liquidtelecom.net^
 ||africadns2.liquidtelecom.net^
@@ -478,6 +479,7 @@
 ||anycast.dns.nextdns.io^
 ||anycast.uncensoreddns.dk^
 ||anycast.uncensoreddns.org^
+||apac-mask.wrr.mask.apple-dns.net^
 ||api.cloudflareclient.com^
 ||apne1.dns.terumi.club^
 ||appart.yoannchappaz.best^
@@ -521,6 +523,8 @@
 ||au02.dns4me.net^
 ||audio.dehb.ru^
 ||augne.dns.walshnet.co.uk^
+||ausyd2.mask-t.apple-dns.net^
+||ausyd2.mask.apple-dns.net^
 ||aviemore.dns.walshnet.co.uk^
 ||awan.ftp.sh^
 ||aws.razor1911.xyz^
@@ -611,6 +615,7 @@
 ||callies-online.site^
 ||calm-crown.freemyip.com^
 ||canadianshield.cira.ca^
+||canary.mask.apple-dns.net^
 ||casa1.www1.biz^
 ||catchen121299.top^
 ||catdns.org^
@@ -731,7 +736,11 @@
 ||de.dns.privex.io^
 ||de.teradns.org^
 ||de01.dns4me.net^
+||deber3.mask-t.apple-dns.net^
+||deber3.mask.apple-dns.net^
 ||dedidl.com^
+||dedus1.mask-t.apple-dns.net^
+||dedus1.mask.apple-dns.net^
 ||deep-henchman-excuse.cfd^
 ||defsnldns01.sc-hosting.info^
 ||deic-lgb.anycast.censurfridns.dk^
@@ -2047,7 +2056,6 @@
 ||doh.xorlet.ru^
 ||doh.xyz^
 ||doh.zephyrsec.cfd^
-||doh.zephyrus.id^
 ||doh.zhongbr.uk^
 ||doh.zknt.org^
 ||doh.zln.wtf^
@@ -2158,6 +2166,7 @@
 ||eliatofani.ovh^
 ||elisabeth.klarsgarden.com^
 ||emby.rasp.tv^
+||emea-mask.wrr.mask.apple-dns.net^
 ||emmmmm.me^
 ||eoin.dns.walshnet.co.uk^
 ||eropa.dnscepat.id^
@@ -2268,6 +2277,8 @@
 ||gb-lon-w-f-1.nashkan.net^
 ||gb-lon-w-p-1.nashkan.net^
 ||gb-lon-w-p-2.nashkan.net^
+||gbslo5.mask-t.apple-dns.net^
+||gbslo5.mask.apple-dns.net^
 ||gc.cyberbeta.cn^
 ||gclouddns.com^
 ||gcptw.minko.ren^
@@ -2346,6 +2357,7 @@
 ||hkg02.dnscry.pt^
 ||hkg2.edge.access.zznet.fun^
 ||hkname.freecdn.one^
+||hktko1.mask-t.apple-dns.net^
 ||hoavan.io.vn^
 ||hockaday.synology.me^
 ||hole.elbschloss.xyz^
@@ -2405,6 +2417,8 @@
 ||id.terra.my.id^
 ||ie-dub-w-1.nashkan.net^
 ||ie01.dns4me.net^
+||iedub2.mask-t.apple-dns.net^
+||iedub2.mask.apple-dns.net^
 ||iev01.dnscry.pt^
 ||igor.hr.i81.ru^
 ||igor.vd.i81.ru^
@@ -2479,6 +2493,8 @@
 ||jpdns.cola16.app^
 ||jpdns.hker.me^
 ||jpok.996333.xyz^
+||jptyo12.mask-t.apple-dns.net^
+||jptyo12.mask.apple-dns.net^
 ||jujuba.cafuringa.org^
 ||jurre-home.duckdns.org^
 ||justfor.myasustor.com^
@@ -2622,8 +2638,13 @@
 ||management.alexpollard.net^
 ||maqgie.xyz^
 ||mask-api.fe.apple-dns.net^
+||mask-api.fe2.apple-dns.net^
 ||mask-api.icloud.com^
+||mask-boot.icloud.com^
+||mask-canary.icloud.com^
 ||mask-h2.icloud.com^
+||mask-t.apple-dns.net^
+||mask.apple-dns.net^
 ||mask.icloud.com^
 ||mastergad.me^
 ||masters-of-cloud.de^
@@ -2734,6 +2755,8 @@
 ||nl.adg.ghostzone.wtf^
 ||nl.dns.privex.io^
 ||nl.rslvr.eu^
+||nlhfd1.mask-t.apple-dns.net^
+||nlhfd1.mask.apple-dns.net^
 ||nlname.freecdn.one^
 ||no-ad.levcloud.cloudns.nz^
 ||no-osl-w-1.nashkan.net^
@@ -2746,6 +2769,7 @@
 ||node3.b4el.ru^
 ||node9.servernode.store^
 ||nonanon.pl^
+||north-america-mask.wrr.mask.apple-dns.net^
 ||note.dehb.ru^
 ||notebait.ddnsfree.com^
 ||nova-is.so-gorgeo.us.kg^
@@ -2827,6 +2851,7 @@
 ||o.rsaikat.com^
 ||o1.lt^
 ||obscuro.top^
+||oceania-mask.wrr.mask.apple-dns.net^
 ||ocp.cincloud.top^
 ||oculta.me^
 ||odoh.cloudflare-dns.com^
@@ -3130,6 +3155,8 @@
 ||serveur-yan.synology.me^
 ||service.f170137e.icu^
 ||servis4u.top^
+||sesto4.mask-t.apple-dns.net^
+||sesto4.mask.apple-dns.net^
 ||sg-119.cattery.work^
 ||sg-dns1.bancuh.com^
 ||sg-dns2.bancuh.com^
@@ -3151,6 +3178,7 @@
 ||sgpcloud.duckdns.org^
 ||sgs02.just-a-web.com^
 ||sgs03.just-a-web.com^
+||sgsin8.mask-t.apple-dns.net^
 ||sh.telex.app^
 ||shadowart.online^
 ||shalenkov.cc^
@@ -3188,6 +3216,7 @@
 ||solution.w10.life^
 ||songochain.freeddns.org^
 ||sorephie-dns2.ddns.net^
+||south-america-mask.wrr.mask.apple-dns.net^
 ||spacedns.org^
 ||spyrodragon76.fleuryk.ovh^
 ||sq.trin.icu^
@@ -3245,7 +3274,6 @@
 ||tienpham.id.vn^
 ||tiger.dns.qwer.pw^
 ||tigrons.ru^
-||timedns.net^
 ||timmes.nl^
 ||tj.jamesxue.xyz^
 ||tk2-404-43267.vs.sakura.ne.jp^
@@ -3282,6 +3310,8 @@
 ||tungdnsne.duckdns.org^
 ||tuskythehusky.tech^
 ||tw2.ooroot.com^
+||twntc1.mask-t.apple-dns.net^
+||twntc1.mask.apple-dns.net^
 ||tx.teradns.org^
 ||tyo01.dnscry.pt^
 ||tyo02.dnscry.pt^
@@ -3352,8 +3382,21 @@
 ||us1.blissdns.net^
 ||us1.dns.lavate.ch^
 ||usa1.altcensored.com^
+||usatl5.mask-t.apple-dns.net^
+||usatl5.mask.apple-dns.net^
 ||usatwo.wuyouss.com^
+||usbos2.mask-t.apple-dns.net^
+||uschi7.mask-t.apple-dns.net^
+||uschi7.mask.apple-dns.net^
+||usdal2.mask-t.apple-dns.net^
+||usden6.mask-t.apple-dns.net^
+||uslax2.mask-t.apple-dns.net^
+||usmia1.mask-t.apple-dns.net^
+||usmsc2.mask.apple-dns.net^
 ||usname.freecdn.one^
+||usqas5.mask.apple-dns.net^
+||usuyk1.mask-t.apple-dns.net^
+||usuyk1.mask.apple-dns.net^
 ||uw-dns.rubyfish.cn^
 ||ux.go20.cf^
 ||v.dnscrypt.uk^
@@ -3464,6 +3507,7 @@
 ||win10virtual.vpn.i81.ru^
 ||wir.rbs-net.ru^
 ||woalongit.synology.me^
+||wrr.mask.apple-dns.net^
 ||wuyou.pw^
 ||www.1ee.top^
 ||www.acomit.lk^
