@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2410050211 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2410060204 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2024-10-05 02:11:18 (UTC)
+; Last updated: 2024-10-06 02:04:08 (UTC)
 ;
 ; See https://jpgpi250.github.io/piholemanual/doc/Unbound%20response%20policy%20zones.pdf
 ; Report issues at https://github.com/jpgpi250/piholemanual/issues
@@ -26,7 +26,6 @@ $TTL 30
 123000123.xyz CNAME .
 15101844.xyz CNAME .
 1a.ns.ozer.im CNAME .
-1and1-dns.de CNAME .
 1b.ns.ozer.im CNAME .
 1dot1dot1dot1.cloudflare-dns.com CNAME .
 1ee.top CNAME .
@@ -34,14 +33,8 @@ $TTL 30
 2.11i.eu CNAME .
 2.alpo.pp.ua CNAME .
 2.dns.noridev.moe CNAME .
-2.dnscrypt-cert.blahdns.com CNAME .
-2.dnscrypt-cert.browser.yandex.net CNAME .
-2.dnscrypt-cert.captnemo.in CNAME .
 2.dnscrypt-cert.dns.seby.io CNAME .
 2.dnscrypt-cert.ffmuc.net CNAME .
-2.dnscrypt-cert.opendns.com CNAME .
-2.dnscrypt-cert.quad9.net CNAME .
-2.dnscrypt-cert.shield-2.dnsbycomodo.com CNAME .
 2024.laijy.top CNAME .
 220913.xyz CNAME .
 233py.com CNAME .
@@ -411,7 +404,6 @@ africadns2.liquidtelecom.net CNAME .
 ag.apollohct.com CNAME .
 ag.felixf.eu CNAME .
 ag.ff0x.ca CNAME .
-ag.hostme.co.il CNAME .
 ag.linux.repair CNAME .
 ag.marschi.de CNAME .
 ag.ssrahul96.xyz CNAME .
@@ -663,7 +655,6 @@ cloudbasesolutions.online CNAME .
 cloudflare-dns.com CNAME .
 cloudflare-gateway.com CNAME .
 cloudflaredns.com CNAME .
-cloudflareresolve.com CNAME .
 cloudns.bosco.ovh CNAME .
 cloudsrv.charitosnet.de CNAME .
 cluster-0.gac.edu CNAME .
@@ -913,7 +904,6 @@ dns.bitdefender.net CNAME .
 dns.bitgeek.in CNAME .
 dns.bitservices.io CNAME .
 dns.blaumer.dev CNAME .
-dns.blaze-sk.ru CNAME .
 dns.blokada.org CNAME .
 dns.bluemeda.cf CNAME .
 dns.bluestarnc.com CNAME .
@@ -2052,7 +2042,6 @@ doh.us.moe.tips CNAME .
 doh.valscosmos.com CNAME .
 doh.viatech.com.tw CNAME .
 doh.webnmail.de CNAME .
-doh.westeu.pi-dns.com CNAME .
 doh.westus.pi-dns.com CNAME .
 doh.wewitro.net CNAME .
 doh.xcom.pro CNAME .
@@ -2160,7 +2149,6 @@ echoe1yidzu4ioo5.myfritz.net CNAME .
 ecs-doh.dnswarden.com CNAME .
 edelgard.duckdns.org CNAME .
 edgar.tobkar.net CNAME .
-edge.nextdns.io CNAME .
 edgy-dns.com CNAME .
 edns.233py.com CNAME .
 ee-tll.doh.sb CNAME .
@@ -2441,7 +2429,6 @@ internetsehat.bebasid.com CNAME .
 intertop.link CNAME .
 invidious.arashi.solutions CNAME .
 ion.pm CNAME .
-iot-dns.com CNAME .
 iow-dns.bitdefender.net CNAME .
 ipoac.nl CNAME .
 irgrdns.nullapp.xyz CNAME .
@@ -2647,7 +2634,6 @@ mask-api.icloud.com CNAME .
 mask-boot.icloud.com CNAME .
 mask-canary.icloud.com CNAME .
 mask-h2.icloud.com CNAME .
-mask-t.apple-dns.net CNAME .
 mask.apple-dns.net CNAME .
 mask.icloud.com CNAME .
 mastergad.me CNAME .
@@ -3208,7 +3194,6 @@ skyroom.online.bugflaed2.shahram-m8.com CNAME .
 skyroom.online.cdn40.shahrammedia.com CNAME .
 skyroom.online.cdn41.shahram-m8.com CNAME .
 slc01.dnscry.pt CNAME .
-slyvo.xyz CNAME .
 sm5q237c0.g666gle.me CNAME .
 smartphone-niels.pcbrdh8v6m.digitallink.be CNAME .
 smartphone-saskia.pcbrdh8v6m.digitallink.be CNAME .
