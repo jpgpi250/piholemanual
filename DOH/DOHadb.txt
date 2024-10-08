@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2024-10-06 02:19:05 (UTC)
+! Last updated: 2024-10-07 01:56:16 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -2168,7 +2168,6 @@
 ||europe.avastdns.com^
 ||europe.doh.sb^
 ||ev-goztepe.duckdns.org^
-||everovpn.co^
 ||evoxt.pmm.pm^
 ||eweyo.duckdns.org^
 ||example.doh.blockerdns.com^
