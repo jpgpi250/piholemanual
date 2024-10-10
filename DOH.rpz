@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2410090156 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2410100304 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2024-10-09 01:56:20 (UTC)
+; Last updated: 2024-10-10 03:04:12 (UTC)
 ;
 ; See https://jpgpi250.github.io/piholemanual/doc/Unbound%20response%20policy%20zones.pdf
 ; Report issues at https://github.com/jpgpi250/piholemanual/issues
@@ -74,6 +74,7 @@ abn01.dnscry.pt CNAME .
 acomit.lk CNAME .
 ad.344556.xyz CNAME .
 ad.800801.xyz CNAME .
+ad.blurryface.ru CNAME .
 ad.fai001.top CNAME .
 ad.gusald.com CNAME .
 ad.huyct.net CNAME .
@@ -148,6 +149,7 @@ adguard-dns.com CNAME .
 adguard-dns.eu.org CNAME .
 adguard-dns.rouga.ch CNAME .
 adguard-fra.linode.haberl.io CNAME .
+adguard-home.de CNAME .
 adguard-home.myddns.me CNAME .
 adguard-home.server-on.net CNAME .
 adguard-ironhide.ultima-thule.ru CNAME .
@@ -333,6 +335,7 @@ adguard.xiaolingg.io.vn CNAME .
 adguard.youler.com CNAME .
 adguard.yuki2th.xyz CNAME .
 adguard.zachitect.com CNAME .
+adguard01.apexhost.net CNAME .
 adguard01.dns.infrapod.nl CNAME .
 adguard01.homepeter.de CNAME .
 adguard01.infrapod.nl CNAME .
@@ -530,6 +533,7 @@ ayasesayuki.shop CNAME .
 aydank.freeddns.org CNAME .
 ayman-dns.731my.com CNAME .
 ayzu.top CNAME .
+azagrahome.duckdns.org CNAME .
 azure.cloudflare-dns.com CNAME .
 azure.razor1911.xyz CNAME .
 b-ii.com CNAME .
@@ -654,6 +658,7 @@ cloud.tezoi.com CNAME .
 cloudbasesolutions.online CNAME .
 cloudflare-dns.com CNAME .
 cloudflare-gateway.com CNAME .
+cloudflaredns.com CNAME .
 cloudns.bosco.ovh CNAME .
 cloudsrv.charitosnet.de CNAME .
 cluster-0.gac.edu CNAME .
@@ -770,6 +775,7 @@ dns-2.trust2it.ch CNAME .
 dns-2.wil.cloud CNAME .
 dns-adguard.ru CNAME .
 dns-asia.wugui.zone CNAME .
+dns-blr.daryllswer.net CNAME .
 dns-br.leonardo.tec.br CNAME .
 dns-cache.switch.ch CNAME .
 dns-cache2.switch.ch CNAME .
@@ -831,7 +837,6 @@ dns.9999.sg CNAME .
 dns.a47.me CNAME .
 dns.aa.net.uk CNAME .
 dns.aaflalo.me CNAME .
-dns.aapla.top CNAME .
 dns.aaronplayzgaming.com CNAME .
 dns.aaytorr.com CNAME .
 dns.abdullahabas.de CNAME .
@@ -921,6 +926,7 @@ dns.burgas.pro CNAME .
 dns.busold.ws CNAME .
 dns.bw.i81.ru CNAME .
 dns.c0ntroller.de CNAME .
+dns.cabbage.zone CNAME .
 dns.cahlen.com CNAME .
 dns.carson-family.com CNAME .
 dns.carter.me CNAME .
@@ -1073,7 +1079,6 @@ dns.farshidhakimy.de CNAME .
 dns.faze.dev CNAME .
 dns.fb.i81.ru CNAME .
 dns.fc.idv.tw CNAME .
-dns.feelvm.dev CNAME .
 dns.fehlsprache.de CNAME .
 dns.feldy.my.id CNAME .
 dns.felipefalcao.tech CNAME .
@@ -1252,6 +1257,7 @@ dns.kosan.moe CNAME .
 dns.koshin.me CNAME .
 dns.kostydenis.me CNAME .
 dns.kozich.net CNAME .
+dns.kpsn.dev CNAME .
 dns.kriswerry.nl CNAME .
 dns.kritsa0.xyz CNAME .
 dns.krol.cloud CNAME .
@@ -1441,6 +1447,7 @@ dns.ple91.uk CNAME .
 dns.pmxu.link CNAME .
 dns.pnh.my.id CNAME .
 dns.pointless.chat CNAME .
+dns.polatarasan.com.tr CNAME .
 dns.porteii.com CNAME .
 dns.powerbs.net CNAME .
 dns.pragmasec.nl CNAME .
@@ -1872,7 +1879,6 @@ doh.2kil.com CNAME .
 doh.30x.me CNAME .
 doh.360.cn CNAME .
 doh.42l.fr CNAME .
-doh.978159.xyz CNAME .
 doh.aaaab3n.moe CNAME .
 doh.abmb.win CNAME .
 doh.abraservice.xyz CNAME .
@@ -1950,7 +1956,6 @@ doh.futa.app CNAME .
 doh.futa.gg CNAME .
 doh.gcp.pathofgrace.com CNAME .
 doh.greenwood.eu.org CNAME .
-doh.gs-tests.com CNAME .
 doh.gslb2.xfinity.com CNAME .
 doh.hottis.de CNAME .
 doh.hugang8.cn CNAME .
@@ -1963,7 +1968,6 @@ doh.iranet.cam CNAME .
 doh.it.ahadns.net CNAME .
 doh.iucc.ac.il CNAME .
 doh.jeroenhd.nl CNAME .
-doh.jetcafe.org CNAME .
 doh.kekew.info CNAME .
 doh.kel.pe CNAME .
 doh.kidzonet.io CNAME .
@@ -2646,6 +2650,7 @@ math.netlab.my.id CNAME .
 matvey.dns.vladpro.ru CNAME .
 max.rethinkdns.com CNAME .
 maxfong.cc CNAME .
+mc-sft.cn CNAME .
 mci01.dnscry.pt CNAME .
 mcttechs.com CNAME .
 mdxl.ru CNAME .
@@ -2932,6 +2937,7 @@ pihole3.hoerli.net CNAME .
 pihole4.hoerli.net CNAME .
 pingbi.xyz CNAME .
 pioko.net CNAME .
+pips.kpsn.org CNAME .
 pl-waw-w-1.nashkan.net CNAME .
 pl-waw-w-2.nashkan.net CNAME .
 pl-waw-w-f-1.nashkan.net CNAME .
