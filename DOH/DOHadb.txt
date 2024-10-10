@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2024-10-08 02:38:01 (UTC)
+! Last updated: 2024-10-09 02:11:23 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -819,6 +819,7 @@
 ||dns.58jdl.com^
 ||dns.5ive.net^
 ||dns.5ososea.com^
+||dns.688447.xyz^
 ||dns.7vpn.com^
 ||dns.886886886.xyz^
 ||dns.888654.xyz^
@@ -2273,6 +2274,7 @@
 ||genscorp.es^
 ||geshido.vpn.geshido.ru^
 ||getdnsapi.net^
+||gibblets.top^
 ||ginnungagap.rabenhain.net^
 ||git.andrewnw.xyz^
 ||glacius.top^
@@ -2454,6 +2456,7 @@
 ||jkt01.dnscry.pt^
 ||jnb01.dnscry.pt^
 ||jnprd.com^
+||johneldenring.lol^
 ||johnsson.ovh^
 ||jonathanaugusto.freeddns.org^
 ||jonesboyz.duckdns.org^
