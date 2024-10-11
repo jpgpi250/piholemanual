@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2024-10-09 02:11:23 (UTC)
+! Last updated: 2024-10-10 03:19:13 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -70,6 +70,7 @@
 ||acomit.lk^
 ||ad.344556.xyz^
 ||ad.800801.xyz^
+||ad.blurryface.ru^
 ||ad.fai001.top^
 ||ad.gusald.com^
 ||ad.huyct.net^
@@ -144,6 +145,7 @@
 ||adguard-dns.eu.org^
 ||adguard-dns.rouga.ch^
 ||adguard-fra.linode.haberl.io^
+||adguard-home.de^
 ||adguard-home.myddns.me^
 ||adguard-home.server-on.net^
 ||adguard-ironhide.ultima-thule.ru^
@@ -329,6 +331,7 @@
 ||adguard.youler.com^
 ||adguard.yuki2th.xyz^
 ||adguard.zachitect.com^
+||adguard01.apexhost.net^
 ||adguard01.dns.infrapod.nl^
 ||adguard01.homepeter.de^
 ||adguard01.infrapod.nl^
@@ -526,6 +529,7 @@
 ||aydank.freeddns.org^
 ||ayman-dns.731my.com^
 ||ayzu.top^
+||azagrahome.duckdns.org^
 ||azure.cloudflare-dns.com^
 ||azure.razor1911.xyz^
 ||b-ii.com^
@@ -650,6 +654,7 @@
 ||cloudbasesolutions.online^
 ||cloudflare-dns.com^
 ||cloudflare-gateway.com^
+||cloudflaredns.com^
 ||cloudns.bosco.ovh^
 ||cloudsrv.charitosnet.de^
 ||cluster-0.gac.edu^
@@ -766,6 +771,7 @@
 ||dns-2.wil.cloud^
 ||dns-adguard.ru^
 ||dns-asia.wugui.zone^
+||dns-blr.daryllswer.net^
 ||dns-br.leonardo.tec.br^
 ||dns-cache.switch.ch^
 ||dns-cache2.switch.ch^
@@ -827,7 +833,6 @@
 ||dns.a47.me^
 ||dns.aa.net.uk^
 ||dns.aaflalo.me^
-||dns.aapla.top^
 ||dns.aaronplayzgaming.com^
 ||dns.aaytorr.com^
 ||dns.abdullahabas.de^
@@ -917,6 +922,7 @@
 ||dns.busold.ws^
 ||dns.bw.i81.ru^
 ||dns.c0ntroller.de^
+||dns.cabbage.zone^
 ||dns.cahlen.com^
 ||dns.carson-family.com^
 ||dns.carter.me^
@@ -1069,7 +1075,6 @@
 ||dns.faze.dev^
 ||dns.fb.i81.ru^
 ||dns.fc.idv.tw^
-||dns.feelvm.dev^
 ||dns.fehlsprache.de^
 ||dns.feldy.my.id^
 ||dns.felipefalcao.tech^
@@ -1248,6 +1253,7 @@
 ||dns.koshin.me^
 ||dns.kostydenis.me^
 ||dns.kozich.net^
+||dns.kpsn.dev^
 ||dns.kriswerry.nl^
 ||dns.kritsa0.xyz^
 ||dns.krol.cloud^
@@ -1437,6 +1443,7 @@
 ||dns.pmxu.link^
 ||dns.pnh.my.id^
 ||dns.pointless.chat^
+||dns.polatarasan.com.tr^
 ||dns.porteii.com^
 ||dns.powerbs.net^
 ||dns.pragmasec.nl^
@@ -1868,7 +1875,6 @@
 ||doh.30x.me^
 ||doh.360.cn^
 ||doh.42l.fr^
-||doh.978159.xyz^
 ||doh.aaaab3n.moe^
 ||doh.abmb.win^
 ||doh.abraservice.xyz^
@@ -1946,7 +1952,6 @@
 ||doh.futa.gg^
 ||doh.gcp.pathofgrace.com^
 ||doh.greenwood.eu.org^
-||doh.gs-tests.com^
 ||doh.gslb2.xfinity.com^
 ||doh.hottis.de^
 ||doh.hugang8.cn^
@@ -1959,7 +1964,6 @@
 ||doh.it.ahadns.net^
 ||doh.iucc.ac.il^
 ||doh.jeroenhd.nl^
-||doh.jetcafe.org^
 ||doh.kekew.info^
 ||doh.kel.pe^
 ||doh.kidzonet.io^
@@ -2642,6 +2646,7 @@
 ||matvey.dns.vladpro.ru^
 ||max.rethinkdns.com^
 ||maxfong.cc^
+||mc-sft.cn^
 ||mci01.dnscry.pt^
 ||mcttechs.com^
 ||mdxl.ru^
@@ -2928,6 +2933,7 @@
 ||pihole4.hoerli.net^
 ||pingbi.xyz^
 ||pioko.net^
+||pips.kpsn.org^
 ||pl-waw-w-1.nashkan.net^
 ||pl-waw-w-2.nashkan.net^
 ||pl-waw-w-f-1.nashkan.net^
