@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2410140215 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2410150248 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2024-10-14 02:15:18 (UTC)
+; Last updated: 2024-10-15 02:48:36 (UTC)
 ;
 ; See https://jpgpi250.github.io/piholemanual/doc/Unbound%20response%20policy%20zones.pdf
 ; Report issues at https://github.com/jpgpi250/piholemanual/issues
@@ -639,6 +639,7 @@ ch01adguardho.me CNAME .
 chandr1000.net CNAME .
 changesmart2024.top CNAME .
 chaos-system.de CNAME .
+che.myasustor.com CNAME .
 chenrouter.chironys.com CNAME .
 chewbacca.meganerd.nl CNAME .
 chlaebi.synology.me CNAME .
@@ -663,7 +664,6 @@ cloud.tezoi.com CNAME .
 cloudbasesolutions.online CNAME .
 cloudflare-dns.com CNAME .
 cloudflare-gateway.com CNAME .
-cloudflaredns.com CNAME .
 cloudns.bosco.ovh CNAME .
 cloudsrv.charitosnet.de CNAME .
 cluster-0.gac.edu CNAME .
@@ -1424,6 +1424,7 @@ dns.octoworld.fr CNAME .
 dns.odinpl.com CNAME .
 dns.odirf.de CNAME .
 dns.ofdoom.net CNAME .
+dns.officiallysp.net CNAME .
 dns.oliviertv.co.za CNAME .
 dns.onp.cloud CNAME .
 dns.opendns.com CNAME .
@@ -1596,6 +1597,7 @@ dns.szpadel.ovh CNAME .
 dns.t53.de CNAME .
 dns.taoday.top CNAME .
 dns.tapawan.ca CNAME .
+dns.taxiway.uk CNAME .
 dns.tb4.me CNAME .
 dns.tbnk.ca CNAME .
 dns.teaminfo.fr CNAME .
@@ -2408,6 +2410,7 @@ horus-team.com CNAME .
 host8.248.cloudhost.in.th CNAME .
 host94.rheingold.com.ua CNAME .
 hostdare.qtxd.net CNAME .
+hostdare.xinyi0668.com CNAME .
 hostedadguard.greatharts.com CNAME .
 hr.i81.ru CNAME .
 hrk01.dnscry.pt CNAME .
@@ -2459,6 +2462,7 @@ intertop.link CNAME .
 invidious.arashi.solutions CNAME .
 ion.pm CNAME .
 iow-dns.bitdefender.net CNAME .
+iozoi.cn CNAME .
 ipoac.nl CNAME .
 irgrdns.nullapp.xyz CNAME .
 iris.woozeno.eu CNAME .
@@ -2620,6 +2624,7 @@ logs.danamas.net CNAME .
 lomoff.spb.ru CNAME .
 lon-dns.bitdefender.net CNAME .
 lon01.dnscry.pt CNAME .
+longhomelab.com CNAME .
 lookup.zucx.net CNAME .
 lorc17-dns.komeho.info CNAME .
 los01.dnscry.pt CNAME .
@@ -2655,6 +2660,7 @@ mailer.amlegion.org CNAME .
 mailkyb.co CNAME .
 main.zhhz.cc CNAME .
 mainframe.dewed.de CNAME .
+makear.online CNAME .
 malanser.ru CNAME .
 management.alexpollard.net CNAME .
 maqgie.xyz CNAME .
