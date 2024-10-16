@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2410150248 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2410160216 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2024-10-15 02:48:36 (UTC)
+; Last updated: 2024-10-16 02:16:23 (UTC)
 ;
 ; See https://jpgpi250.github.io/piholemanual/doc/Unbound%20response%20policy%20zones.pdf
 ; Report issues at https://github.com/jpgpi250/piholemanual/issues
@@ -1592,6 +1592,7 @@ dns.sv-zauner.at CNAME .
 dns.svoi.dev CNAME .
 dns.swin.pro CNAME .
 dns.switch.ch CNAME .
+dns.sy.st CNAME .
 dns.syaifullah.com CNAME .
 dns.szpadel.ovh CNAME .
 dns.t53.de CNAME .
@@ -1695,6 +1696,7 @@ dns.xusqui.com CNAME .
 dns.xxxxxxxx.pp.ua CNAME .
 dns.xydustc.me CNAME .
 dns.xyz.ddnss.eu CNAME .
+dns.yague.me CNAME .
 dns.yameenassotally.com CNAME .
 dns.yandex.ru CNAME .
 dns.yatima.tv CNAME .
@@ -2696,6 +2698,7 @@ mikezhang.xyz CNAME .
 mikrobill.dns-cloud.net CNAME .
 mil01.dnscry.pt CNAME .
 minami.website CNAME .
+miniapp.global CNAME .
 minilla.store CNAME .
 mita-is.so-gorgeo.us.kg CNAME .
 mkvvpssrv12.freemyip.com CNAME .
@@ -3052,6 +3055,7 @@ res-acst1.absolight.net CNAME .
 res-acst2.absolight.net CNAME .
 res-acst3.absolight.net CNAME .
 res.zijji.com CNAME .
+resolv.flokinet.net CNAME .
 resolv1.trash.net CNAME .
 resolv2.trash.net CNAME .
 resolv3.trash.net CNAME .
