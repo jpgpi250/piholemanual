@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2024-10-14 02:30:30 (UTC)
+! Last updated: 2024-10-15 03:03:48 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -635,6 +635,7 @@
 ||chandr1000.net^
 ||changesmart2024.top^
 ||chaos-system.de^
+||che.myasustor.com^
 ||chenrouter.chironys.com^
 ||chewbacca.meganerd.nl^
 ||chlaebi.synology.me^
@@ -659,7 +660,6 @@
 ||cloudbasesolutions.online^
 ||cloudflare-dns.com^
 ||cloudflare-gateway.com^
-||cloudflaredns.com^
 ||cloudns.bosco.ovh^
 ||cloudsrv.charitosnet.de^
 ||cluster-0.gac.edu^
@@ -1420,6 +1420,7 @@
 ||dns.odinpl.com^
 ||dns.odirf.de^
 ||dns.ofdoom.net^
+||dns.officiallysp.net^
 ||dns.oliviertv.co.za^
 ||dns.onp.cloud^
 ||dns.opendns.com^
@@ -1592,6 +1593,7 @@
 ||dns.t53.de^
 ||dns.taoday.top^
 ||dns.tapawan.ca^
+||dns.taxiway.uk^
 ||dns.tb4.me^
 ||dns.tbnk.ca^
 ||dns.teaminfo.fr^
@@ -2404,6 +2406,7 @@
 ||host8.248.cloudhost.in.th^
 ||host94.rheingold.com.ua^
 ||hostdare.qtxd.net^
+||hostdare.xinyi0668.com^
 ||hostedadguard.greatharts.com^
 ||hr.i81.ru^
 ||hrk01.dnscry.pt^
@@ -2455,6 +2458,7 @@
 ||invidious.arashi.solutions^
 ||ion.pm^
 ||iow-dns.bitdefender.net^
+||iozoi.cn^
 ||ipoac.nl^
 ||irgrdns.nullapp.xyz^
 ||iris.woozeno.eu^
@@ -2616,6 +2620,7 @@
 ||lomoff.spb.ru^
 ||lon-dns.bitdefender.net^
 ||lon01.dnscry.pt^
+||longhomelab.com^
 ||lookup.zucx.net^
 ||lorc17-dns.komeho.info^
 ||los01.dnscry.pt^
@@ -2651,6 +2656,7 @@
 ||mailkyb.co^
 ||main.zhhz.cc^
 ||mainframe.dewed.de^
+||makear.online^
 ||malanser.ru^
 ||management.alexpollard.net^
 ||maqgie.xyz^
