@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2024-10-15 03:03:48 (UTC)
+! Last updated: 2024-10-16 02:31:33 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -1588,6 +1588,7 @@
 ||dns.svoi.dev^
 ||dns.swin.pro^
 ||dns.switch.ch^
+||dns.sy.st^
 ||dns.syaifullah.com^
 ||dns.szpadel.ovh^
 ||dns.t53.de^
@@ -1691,6 +1692,7 @@
 ||dns.xxxxxxxx.pp.ua^
 ||dns.xydustc.me^
 ||dns.xyz.ddnss.eu^
+||dns.yague.me^
 ||dns.yameenassotally.com^
 ||dns.yandex.ru^
 ||dns.yatima.tv^
@@ -2692,6 +2694,7 @@
 ||mikrobill.dns-cloud.net^
 ||mil01.dnscry.pt^
 ||minami.website^
+||miniapp.global^
 ||minilla.store^
 ||mita-is.so-gorgeo.us.kg^
 ||mkvvpssrv12.freemyip.com^
@@ -3048,6 +3051,7 @@
 ||res-acst2.absolight.net^
 ||res-acst3.absolight.net^
 ||res.zijji.com^
+||resolv.flokinet.net^
 ||resolv1.trash.net^
 ||resolv2.trash.net^
 ||resolv3.trash.net^
