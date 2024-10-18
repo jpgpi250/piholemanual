@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2024-10-16 02:31:33 (UTC)
+! Last updated: 2024-10-17 02:55:16 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -12,6 +12,7 @@
 !
 ||001.smallnode.net^
 ||003153.xyz^
+||052419.xyz^
 ||0ms.dev^
 ||1.0rz.space^
 ||1.11i.eu^
@@ -71,6 +72,7 @@
 ||acomit.lk^
 ||ad.344556.xyz^
 ||ad.800801.xyz^
+||ad.anym0re.ru^
 ||ad.blurryface.ru^
 ||ad.fai001.top^
 ||ad.gusald.com^
@@ -342,6 +344,7 @@
 ||adguard1.jsanagustin.net^
 ||adguard1.leadmon.net^
 ||adguard1.njy.jsanagustin.net^
+||adguard1.unima.ac.id^
 ||adguard2.546413.xyz^
 ||adguard2.bonis.de^
 ||adguard2.cloudmini.net^
@@ -366,6 +369,7 @@
 ||adhome.2011101.xyz^
 ||adhome.chinghuat.com^
 ||adhome.maige.fun^
+||adi.adguard.vik.ro^
 ||adl.adfilter.net^
 ||adl01.dnscry.pt^
 ||admin.dotls.org^
@@ -406,6 +410,7 @@
 ||ag.linux.repair^
 ||ag.marschi.de^
 ||ag.ssrahul96.xyz^
+||ag.teqilla.tk^
 ||ag.wntrmute.net^
 ||agathe.tobkar.net^
 ||agent.frankutils.xyz^
@@ -660,6 +665,7 @@
 ||cloudbasesolutions.online^
 ||cloudflare-dns.com^
 ||cloudflare-gateway.com^
+||cloudflaredns.com^
 ||cloudns.bosco.ovh^
 ||cloudsrv.charitosnet.de^
 ||cluster-0.gac.edu^
@@ -979,6 +985,7 @@
 ||dns.connect.fail^
 ||dns.containerpi.com^
 ||dns.controld.com^
+||dns.corestu.com^
 ||dns.criena.net^
 ||dns.cryptomize.com^
 ||dns.crystalyx.net^
@@ -1274,6 +1281,7 @@
 ||dns.kumoumi.net^
 ||dns.kusoneko.moe^
 ||dns.kuuhaku.moe^
+||dns.kuxuanyun.cn^
 ||dns.kxy.ink^
 ||dns.kyy.me^
 ||dns.l337.site^
@@ -1499,6 +1507,7 @@
 ||dns.renardyre.com^
 ||dns.repinger.com^
 ||dns.repinger.my.id^
+||dns.repressoh.it^
 ||dns.req1.fr^
 ||dns.resoft.org^
 ||dns.retakecs.com^
@@ -1568,6 +1577,7 @@
 ||dns.srinivasrao.co.in^
 ||dns.sshub.win^
 ||dns.sstomp.nl^
+||dns.starlik.top^
 ||dns.startupstack.tech^
 ||dns.stdev.su^
 ||dns.stevenz.net^
@@ -1668,6 +1678,7 @@
 ||dns.wakgood.net^
 ||dns.walshnet.co.uk^
 ||dns.wang.art^
+||dns.wantfreedom.eu.org^
 ||dns.wargan.io^
 ||dns.warma.me^
 ||dns.warpnine.de^
@@ -2158,6 +2169,7 @@
 ||dus.ysbs.uk^
 ||dus01.dnscry.pt^
 ||duyyen.tk^
+||dvgarm.com^
 ||e23a.uk.to^
 ||ea-dns.rubyfish.cn^
 ||eamonn.dns.walshnet.co.uk^
@@ -2256,6 +2268,7 @@
 ||fr-gra-w-p-1.nashkan.net^
 ||fr-par-w-1.nashkan.net^
 ||fr-sbg-w-4.nashkan.net^
+||fr.dalockd.net^
 ||fr1.dnswarden.com^
 ||fra-dns.bitdefender.net^
 ||fra.core.access.zznet.fun^
@@ -2333,6 +2346,7 @@
 ||guard.magic-pics.tk^
 ||guard.pp.ua^
 ||guard.sntrk.ru^
+||guard.telesterion.de^
 ||guard.thefather.cloud^
 ||guard.yps.tw^
 ||guardhome.fatihkuyuk.com.tr^
@@ -2358,6 +2372,8 @@
 ||hetz.sapient.cyou^
 ||hfgx.shop^
 ||hgns.harriganhome.ga^
+||hgrps.eu^
+||hgzwy.xyz^
 ||hitian.me^
 ||hk-hkg.doh.sb^
 ||hk-nnss.ppleg.icu^
@@ -2480,6 +2496,7 @@
 ||jabber-server.de^
 ||jackyes.ovh^
 ||jalexx.freeboxos.fr^
+||jamessou.jamesferrand.fr^
 ||jarjar.meganerd.nl^
 ||jcdns.fun^
 ||jimmyshjj.top^
@@ -2583,6 +2600,7 @@
 ||kx-97795-tr.xyz^
 ||kz-alm-w-1.nashkan.net^
 ||kz-pav-w-p-1.nashkan.net^
+||la-doh.stuptech.com^
 ||lajc.sytes.net^
 ||lamdtl.giize.com^
 ||laptop001.greppie.nl^
@@ -2795,6 +2813,7 @@
 ||noads.ddnsgeek.com^
 ||noads.dns.vladpro.ru^
 ||noads.imbuffering.com^
+||noads.jpsrvr.com^
 ||noads.vdl.io^
 ||node3.b4el.ru^
 ||node9.servernode.store^
@@ -3541,6 +3560,7 @@
 ||win10virtual.vd.i81.ru^
 ||win10virtual.vpn.i81.ru^
 ||wir.rbs-net.ru^
+||wireguard.osmenoga.com^
 ||wisehomeguard.duckdns.org^
 ||woalongit.synology.me^
 ||wrr.mask.apple-dns.net^
@@ -3577,6 +3597,7 @@
 ||www.goldstarbag.com^
 ||www.golegana.de^
 ||www.greppie.nl^
+||www.hgrps.eu^
 ||www.himarsman.life^
 ||www.incaseineeditoneday.com^
 ||www.inpssh.online^
@@ -3635,6 +3656,7 @@
 ||xn--80aecoigf4aatn.xn--p1ai^
 ||xn--85w848a.jp^
 ||xn--durhre-yxa.de^
+||xomadns.com^
 ||xpen.ns01.info^
 ||xray.krnl.eu^
 ||xthwo.duckdns.org^
