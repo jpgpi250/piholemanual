@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2410180313 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2410190244 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2024-10-18 03:13:24 (UTC)
+; Last updated: 2024-10-19 02:44:15 (UTC)
 ;
 ; See https://jpgpi250.github.io/piholemanual/doc/Unbound%20response%20policy%20zones.pdf
 ; Report issues at https://github.com/jpgpi250/piholemanual/issues
@@ -673,6 +673,7 @@ cloud.tezoi.com CNAME .
 cloudbasesolutions.online CNAME .
 cloudflare-dns.com CNAME .
 cloudflare-gateway.com CNAME .
+cloudflaredns.com CNAME .
 cloudns.bosco.ovh CNAME .
 cloudsrv.charitosnet.de CNAME .
 cluster-0.gac.edu CNAME .
@@ -1286,7 +1287,6 @@ dns.kriswerry.nl CNAME .
 dns.kritsa0.xyz CNAME .
 dns.krol.cloud CNAME .
 dns.krushkov.com CNAME .
-dns.kugoapps.com CNAME .
 dns.kukal.cz CNAME .
 dns.kumoumi.net CNAME .
 dns.kusoneko.moe CNAME .
@@ -1440,6 +1440,7 @@ dns.odirf.de CNAME .
 dns.ofdoom.net CNAME .
 dns.officiallysp.net CNAME .
 dns.oliviertv.co.za CNAME .
+dns.olpploiopkuyhiopsfrt.info CNAME .
 dns.onp.cloud CNAME .
 dns.opendns.com CNAME .
 dns.opnsource.com.au CNAME .
