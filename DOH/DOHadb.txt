@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2024-10-17 02:55:16 (UTC)
+! Last updated: 2024-10-18 03:28:44 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -299,6 +299,7 @@
 ||adguard.shoupperuser.com^
 ||adguard.shutgaming.net^
 ||adguard.shuting.idv.tw^
+||adguard.skous.dedyn.io^
 ||adguard.soloanvill.ru^
 ||adguard.som-it.net^
 ||adguard.spaceindex.net^
@@ -440,6 +441,7 @@
 ||ahoj.email^
 ||aihe.app^
 ||airmaxcloud.ml^
+||ajlxwk4kedu5.absq.ch^
 ||akaboom.fun^
 ||akhilkalwakurthy.dyndns.org^
 ||akl01.dnscry.pt^
@@ -471,12 +473,14 @@
 ||an81.ddns.net^
 ||an81dns.ru^
 ||andrewnw.xyz^
+||anduong.xyz^
 ||angry.pp.ua^
 ||angrysky.ru^
 ||anhphamhn82.uk^
 ||anixlab.com^
 ||ant.dns.qwer.pw^
 ||antivirus.bebasid.com^
+||antstars.win^
 ||anycast.censurfridns.dk^
 ||anycast.censurfridns.nu^
 ||anycast.dns.nextdns.io^
@@ -665,7 +669,6 @@
 ||cloudbasesolutions.online^
 ||cloudflare-dns.com^
 ||cloudflare-gateway.com^
-||cloudflaredns.com^
 ||cloudns.bosco.ovh^
 ||cloudsrv.charitosnet.de^
 ||cluster-0.gac.edu^
@@ -1049,6 +1052,7 @@
 ||dns.dutchwhite.nl^
 ||dns.dyn1.de^
 ||dns.east.comss.one^
+||dns.echoif.com^
 ||dns.edc-pws.com^
 ||dns.eddi.net^
 ||dns.edgeburnmedia.com^
@@ -1102,6 +1106,7 @@
 ||dns.fizz.studio^
 ||dns.flatuslifir.is^
 ||dns.flightspace.net^
+||dns.floriantinney.de^
 ||dns.flwagners.com^
 ||dns.flymc.cc^
 ||dns.freddys.my.id^
@@ -1202,6 +1207,7 @@
 ||dns.ishan.pw^
 ||dns.islandnet.com^
 ||dns.isp.dhoho.net^
+||dns.it-pa.net^
 ||dns.itcosc.com^
 ||dns.itdata.ro^
 ||dns.itdept.pro^
@@ -1562,6 +1568,7 @@
 ||dns.sindominio.net^
 ||dns.siry.de^
 ||dns.sitdns.com^
+||dns.skaco.cn^
 ||dns.skrep.eu^
 ||dns.skrep.in^
 ||dns.skrzypiec.pl^
@@ -2177,6 +2184,7 @@
 ||easyhandshake.com^
 ||ebpmc.diskstation.me^
 ||ebpmc.tplinkdns.com^
+||ebrilo.fun^
 ||ec.i-puppy.ru^
 ||eccloud.de^
 ||echoe1yidzu4ioo5.myfritz.net^
@@ -2290,6 +2298,7 @@
 ||fuliming.xyz^
 ||fullaccesstointernet.jp.eu.org^
 ||funti.cc^
+||futurearts.cc^
 ||fvpn.jarvishome.ru^
 ||fwgw.orangepipc.mywire.org^
 ||gaia.plonknet.com^
@@ -2405,6 +2414,7 @@
 ||home.jobytan.com^
 ||home.kinopu.com^
 ||home.kompot.space^
+||home.llthtt1.info^
 ||home.luther.io^
 ||home.marcrnt.de^
 ||home.norvrandt.co.uk^
@@ -2502,6 +2512,7 @@
 ||jimmyshjj.top^
 ||jit.ddns.net^
 ||jkdns.me^
+||jksrbgldkghjnfyyjn.ounij.com^
 ||jkt01.dnscry.pt^
 ||jnb01.dnscry.pt^
 ||jnprd.com^
@@ -2616,6 +2627,7 @@
 ||le-mesle.fr^
 ||leecurrylawfirm.com^
 ||lelux.fi^
+||lemonpiesite.duckdns.org^
 ||lena.hr.i81.ru^
 ||lena.vd.i81.ru^
 ||lena.vpn.i81.ru^
@@ -3133,6 +3145,7 @@
 ||ronaldvkrueger.ddns.net^
 ||rootdns.anir0y.in^
 ||roucious.dyndns-remote.com^
+||route.netshi.cn^
 ||router.sapib.ca^
 ||rpz-public-resolver1.rrdns.pch.net^
 ||ru-mos-w-2.nashkan.net^
@@ -3456,6 +3469,7 @@
 ||ux.go20.cf^
 ||v.dnscrypt.uk^
 ||v1.ufamax.eu^
+||v1.xylto.com^
 ||v1552270.hosted-by-vdsina.ru^
 ||v2-1.huwenqiang.xyz^
 ||v2.xx3210766.live^
@@ -3527,6 +3541,7 @@
 ||vps.grussenmeyer.com^
 ||vps.irrelevant.cc^
 ||vps.jmarkin.ru^
+||vps.marteskutil.cz^
 ||vps.mtsdns.ru^
 ||vps.poly-tank.jp^
 ||vps.robotboard.de^
@@ -3563,6 +3578,7 @@
 ||wireguard.osmenoga.com^
 ||wisehomeguard.duckdns.org^
 ||woalongit.synology.me^
+||workcavestl.duckdns.org^
 ||wrr.mask.apple-dns.net^
 ||wuyou.pw^
 ||www.1ee.top^
