@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2024-10-20 02:53:20 (UTC)
+! Last updated: 2024-10-21 02:43:59 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -23,6 +23,7 @@
 ||123000123.xyz^
 ||15101844.xyz^
 ||1a.ns.ozer.im^
+||1and1-dns.de^
 ||1b.ns.ozer.im^
 ||1dot1dot1dot1.cloudflare-dns.com^
 ||1ee.top^
@@ -30,8 +31,14 @@
 ||2.11i.eu^
 ||2.alpo.pp.ua^
 ||2.dns.noridev.moe^
+||2.dnscrypt-cert.blahdns.com^
+||2.dnscrypt-cert.browser.yandex.net^
+||2.dnscrypt-cert.captnemo.in^
 ||2.dnscrypt-cert.dns.seby.io^
 ||2.dnscrypt-cert.ffmuc.net^
+||2.dnscrypt-cert.opendns.com^
+||2.dnscrypt-cert.quad9.net^
+||2.dnscrypt-cert.shield-2.dnsbycomodo.com^
 ||2024.laijy.top^
 ||220913.xyz^
 ||233py.com^
@@ -149,7 +156,6 @@
 ||adguard-home.de^
 ||adguard-home.myddns.me^
 ||adguard-home.server-on.net^
-||adguard-ironhide.ultima-thule.ru^
 ||adguard-kartoffel.zernico.de^
 ||adguard-koe.dns64.de^
 ||adguard-server.pp.ua^
@@ -408,6 +414,7 @@
 ||ag.apollohct.com^
 ||ag.felixf.eu^
 ||ag.ff0x.ca^
+||ag.hostme.co.il^
 ||ag.linux.repair^
 ||ag.marschi.de^
 ||ag.ssrahul96.xyz^
@@ -629,6 +636,7 @@
 ||canary.mask.apple-dns.net^
 ||casa1.www1.biz^
 ||catchen121299.top^
+||catdns.org^
 ||cattery.noddos.top^
 ||cattery2.eastasia.cloudapp.azure.com^
 ||cattery2.noddos.top^
@@ -669,7 +677,7 @@
 ||cloudbasesolutions.online^
 ||cloudflare-dns.com^
 ||cloudflare-gateway.com^
-||cloudflaredns.com^
+||cloudflareresolve.com^
 ||cloudns.bosco.ovh^
 ||cloudsrv.charitosnet.de^
 ||cluster-0.gac.edu^
@@ -924,6 +932,7 @@
 ||dns.bitgeek.in^
 ||dns.bitservices.io^
 ||dns.blaumer.dev^
+||dns.blaze-sk.ru^
 ||dns.blokada.org^
 ||dns.bluemeda.cf^
 ||dns.bluestarnc.com^
@@ -1646,6 +1655,7 @@
 ||dns.trifanov-online.ru^
 ||dns.truong.fi^
 ||dns.trust404.win^
+||dns.tryk.app^
 ||dns.tuankhaiit.com^
 ||dns.tuna.tsinghua.edu.cn^
 ||dns.twnic.tw^
@@ -2080,6 +2090,7 @@
 ||doh.valscosmos.com^
 ||doh.viatech.com.tw^
 ||doh.webnmail.de^
+||doh.westeu.pi-dns.com^
 ||doh.westus.pi-dns.com^
 ||doh.wewitro.net^
 ||doh.xcom.pro^
@@ -2192,6 +2203,7 @@
 ||ecs-doh.dnswarden.com^
 ||edelgard.duckdns.org^
 ||edgar.tobkar.net^
+||edge.nextdns.io^
 ||edgy-dns.com^
 ||edns.233py.com^
 ||ee-tll.doh.sb^
@@ -2486,6 +2498,7 @@
 ||intertop.link^
 ||invidious.arashi.solutions^
 ||ion.pm^
+||iot-dns.com^
 ||iow-dns.bitdefender.net^
 ||iozoi.cn^
 ||ipoac.nl^
