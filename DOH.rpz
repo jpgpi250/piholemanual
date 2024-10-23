@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2410220300 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2410230227 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2024-10-22 03:00:33 (UTC)
+; Last updated: 2024-10-23 02:27:03 (UTC)
 ;
 ; See https://jpgpi250.github.io/piholemanual/doc/Unbound%20response%20policy%20zones.pdf
 ; Report issues at https://github.com/jpgpi250/piholemanual/issues
@@ -3028,6 +3028,7 @@ pl-waw-w-p-1.nashkan.net CNAME .
 pl-waw-w-p-2.nashkan.net CNAME .
 please.dontsteal.my.id CNAME .
 plex.skin57.de CNAME .
+plushub.pro CNAME .
 pluton.plan9-dns.com CNAME .
 pluton.plan9dns.com CNAME .
 pm1239-bd.xyz CNAME .
