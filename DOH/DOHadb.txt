@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2024-10-24 03:25:04 (UTC)
+! Last updated: 2024-10-25 02:47:38 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -3031,6 +3031,21 @@
 ||pm9352-bd.xyz^
 ||pns2.sadraidc.com^
 ||polisidns.4ch.my.id^
+||polisitogel.accountant^
+||polisitogel.beauty^
+||polisitogel.builders^
+||polisitogel.construction^
+||polisitogel.contractors^
+||polisitogel.cruises^
+||polisitogel.diy^
+||polisitogel.green^
+||polisitogel.hair^
+||polisitogel.limo^
+||polisitogel.living^
+||polisitogel.luxe^
+||polisitogel.properties^
+||polisitogel.show^
+||polisitogel.webcam^
 ||pooblet.co.za^
 ||pope.cnblw.me^
 ||pqh.ddns.net^
