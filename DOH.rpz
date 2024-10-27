@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2410260245 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2410270252 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2024-10-26 02:45:54 (UTC)
+; Last updated: 2024-10-27 02:52:04 (UTC)
 ;
 ; See https://jpgpi250.github.io/piholemanual/doc/Unbound%20response%20policy%20zones.pdf
 ; Report issues at https://github.com/jpgpi250/piholemanual/issues
@@ -388,7 +388,6 @@ adns.kreonet.net CNAME .
 adns.onlinetools.rocks CNAME .
 ads-doh.securedns.eu CNAME .
 ads-eu.landgame.net CNAME .
-ads.hunga1k47.com CNAME .
 ads.salzts.gay CNAME .
 ads.therman.eu CNAME .
 ads.x88.in CNAME .
@@ -496,6 +495,7 @@ apac-mask.wrr.mask.apple-dns.net CNAME .
 api.cloudflareclient.com CNAME .
 apne1.dns.terumi.club CNAME .
 appart.yoannchappaz.best CNAME .
+apple-relay.mask.apple-dns.net CNAME .
 applied-privacy.net CNAME .
 aqua.is.my.waifu.cz CNAME .
 arashi.eu.org CNAME .
@@ -675,7 +675,6 @@ cloud.tezoi.com CNAME .
 cloudbasesolutions.online CNAME .
 cloudflare-dns.com CNAME .
 cloudflare-gateway.com CNAME .
-cloudflaredns.com CNAME .
 cloudflareresolve.com CNAME .
 cloudns.bosco.ovh CNAME .
 cloudsrv.charitosnet.de CNAME .
