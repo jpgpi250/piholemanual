@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2024-10-25 02:47:38 (UTC)
+! Last updated: 2024-10-26 03:01:10 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -225,7 +225,6 @@
 ||adguard.gattow.com^
 ||adguard.gbrossi.com.br^
 ||adguard.georgev22.com^
-||adguard.gewete.cloud^
 ||adguard.glbd.fr^
 ||adguard.gonzcid.com^
 ||adguard.grantbruneau.com^
@@ -391,7 +390,6 @@
 ||ads.x88.in^
 ||adsfree.ddns.net^
 ||adsfysdfgiuy.ydns.eu^
-||adsv.duckdns.org^
 ||adult-filter-dns.cleanbrowsing.org^
 ||adult-filter-dot.dnswarden.com^
 ||ae-dub-w-f-2.nashkan.net^
@@ -414,7 +412,6 @@
 ||ag.felixf.eu^
 ||ag.ff0x.ca^
 ||ag.hostme.co.il^
-||ag.linux.repair^
 ||ag.marschi.de^
 ||ag.ssrahul96.xyz^
 ||ag.teqilla.tk^
@@ -464,7 +461,6 @@
 ||allain.com.br^
 ||alleesph.online^
 ||alon93rus.ru^
-||alpakalpha.duckdns.org^
 ||alpha.cixy.xyz^
 ||am.blgciottd.online^
 ||amigo.hr.i81.ru^
@@ -508,13 +504,13 @@
 ||area51.mywire.org^
 ||aridia.ru^
 ||arm.adblocker.eu.org^
+||armm.duckdns.org^
 ||armorrush.eu.org^
 ||arrakis.korolyzer.com.br^
 ||as17820865.click^
 ||as6604t-04.myasustor.com^
 ||asdfasdfasf.kozow.com^
 ||asia.dnscepat.id^
-||askatu.duckdns.org^
 ||asuswrt.jaye.sh^
 ||at-wie-w-2.nashkan.net^
 ||at-wie-w-p-1.nashkan.net^
@@ -614,7 +610,6 @@
 ||bts01.dnscry.pt^
 ||bucheli.synology.me^
 ||bud01.dnscry.pt^
-||bw.marsgo.top^
 ||bw.mijoregner.de^
 ||bwg.559299366.xyz^
 ||bwh.why4free.top^
@@ -639,7 +634,6 @@
 ||cattery.noddos.top^
 ||cattery2.eastasia.cloudapp.azure.com^
 ||cattery2.noddos.top^
-||caycewebsolutions.com^
 ||cc2.v8er.net^
 ||ccadguard.dynu.net^
 ||ccyykk.top^
@@ -648,6 +642,7 @@
 ||cfdjb.org^
 ||ch-zur-w-1.nashkan.net^
 ||ch01adguardho.me^
+||cha.bigbackend.lol^
 ||chandr1000.net^
 ||changesmart2024.top^
 ||chaos-system.de^
@@ -676,6 +671,7 @@
 ||cloudbasesolutions.online^
 ||cloudflare-dns.com^
 ||cloudflare-gateway.com^
+||cloudflaredns.com^
 ||cloudflareresolve.com^
 ||cloudns.bosco.ovh^
 ||cloudsrv.charitosnet.de^
@@ -724,7 +720,6 @@
 ||d3.vps.mtsdns.ru^
 ||d3vy.ru^
 ||d4.vps.mtsdns.ru^
-||dadns.one^
 ||dahamnw.at^
 ||dandelionsprout.asuscomm.com^
 ||darius-doh-nl.sserver.org^
@@ -735,7 +730,6 @@
 ||dash.flylcc.cc^
 ||daverotaquio.net^
 ||ddd.loukky.com^
-||ddd.xiaofuc.top^
 ||ddd2.loukky.com^
 ||ddns.ddnsddns.online^
 ||ddns.martinmore.online^
@@ -959,12 +953,10 @@
 ||dns.cert.ee^
 ||dns.cfiec.net^
 ||dns.ch295.ru^
-||dns.ch6se.com^
 ||dns.chadeyron.fr^
 ||dns.chalkychalk.com^
 ||dns.chaosen3.co.uk^
 ||dns.charraud.eu^
-||dns.chebula.cloud^
 ||dns.chenu.ch^
 ||dns.chilimac.net^
 ||dns.chillstice.com^
@@ -1027,6 +1019,7 @@
 ||dns.deekshith.in^
 ||dns.dekedin.me^
 ||dns.delitarus.ru^
+||dns.delpirou.fr^
 ||dns.demon-inc.tw^
 ||dns.dev-umbrellagov.com^
 ||dns.developer.li^
@@ -1068,7 +1061,6 @@
 ||dns.edgeworkssystems.ca^
 ||dns.edison42.dev^
 ||dns.editechstudio.com^
-||dns.eedaniel.com^
 ||dns.efficientdocuments.com^
 ||dns.electrotm.org^
 ||dns.elemental.software^
@@ -1176,6 +1168,7 @@
 ||dns.hotta.page^
 ||dns.housedenolf.be^
 ||dns.hr.i81.ru^
+||dns.hshoe.cn^
 ||dns.huas.me^
 ||dns.hub.com.de^
 ||dns.hugo0.moe^
@@ -1191,7 +1184,6 @@
 ||dns.i6p.eu^
 ||dns.iamanuragh.in^
 ||dns.iamninja.ru^
-||dns.ian.rocks^
 ||dns.ibakerserver.pt^
 ||dns.iblockads.net^
 ||dns.idelta.cc^
@@ -1533,7 +1525,6 @@
 ||dns.roedel.cloud^
 ||dns.ronc.ru^
 ||dns.root.me^
-||dns.rootlab.top^
 ||dns.rotunneling.net^
 ||dns.rshtkdn.ru^
 ||dns.rslvr.eu^
@@ -1572,7 +1563,6 @@
 ||dns.shimul.me^
 ||dns.silen.org^
 ||dns.silentlybren.com^
-||dns.simba.house^
 ||dns.simplylinux.ch^
 ||dns.sindominio.net^
 ||dns.siry.de^
@@ -1727,10 +1717,8 @@
 ||dns.ygonline.de^
 ||dns.yingroad.top^
 ||dns.youni.win^
-||dns.yrrev.com^
 ||dns.yu.dev^
 ||dns.yuanmu.site^
-||dns.yumenashyi.com^
 ||dns.yyaan.com^
 ||dns.yyaan.top^
 ||dns.yyjeqhc.cn^
@@ -1966,7 +1954,6 @@
 ||doh.defaultroutes.de^
 ||doh.denypradana.com^
 ||doh.disconnect.app^
-||doh.dl4mt.cn^
 ||doh.dns-ga.de^
 ||doh.dns.apple.com^
 ||doh.dns.apple.com.v.aaplimg.com^
@@ -2117,7 +2104,6 @@
 ||dohsg.blahdns.com^
 ||dohtrial.att.net^
 ||domburg.beruys.com^
-||domen-dns.ru^
 ||domeq.waw.pl^
 ||dooh.cloudflare-dns.com^
 ||door.plasmadancer.ru^
@@ -2177,7 +2163,6 @@
 ||dr.jp.sslbb.win^
 ||drandrade21.freeddns.org^
 ||ds1.fredic.us^
-||ds3617xs.jojo1204.xyz^
 ||dstruis.nl^
 ||dtw01.dnscry.pt^
 ||dub01.dnscry.pt^
@@ -2186,6 +2171,7 @@
 ||dupatruwi22.fun^
 ||dus.ysbs.uk^
 ||dus01.dnscry.pt^
+||dus02.dnscry.pt^
 ||duyyen.tk^
 ||dvgarm.com^
 ||e23a.uk.to^
@@ -2225,7 +2211,6 @@
 ||europe-west.avastdns.com^
 ||europe.avastdns.com^
 ||europe.doh.sb^
-||ev-goztepe.duckdns.org^
 ||evoxt.pmm.pm^
 ||eweyo.duckdns.org^
 ||example.doh.blockerdns.com^
@@ -2293,6 +2278,7 @@
 ||fra-dns.bitdefender.net^
 ||fra.core.access.zznet.fun^
 ||fra01.dnscry.pt^
+||fra02.dnscry.pt^
 ||fra1.eyecay.xyz^
 ||frank-web.dedyn.io^
 ||fredic.us^
@@ -2442,6 +2428,7 @@
 ||home47a.mooo.com^
 ||homedns.gumeniuk.com^
 ||homeguard.sleziona.org^
+||homelab.terabit.net.id^
 ||horus-team.com^
 ||host8.248.cloudhost.in.th^
 ||host94.rheingold.com.ua^
@@ -2459,7 +2446,6 @@
 ||huntllcx.cn^
 ||huyizhou.com^
 ||huynh0201.ddns.net^
-||hyperspace.toxopeus.it^
 ||i-puppy.ru^
 ||i.233py.com^
 ||i.233py.com.a.bdydns.com^
@@ -2471,7 +2457,6 @@
 ||ibksturm.synology.me^
 ||ibuki.cgnat.net^
 ||id-pon-w-1.nashkan.net^
-||id.local.v.ua^
 ||id.terra.my.id^
 ||ie-dub-w-1.nashkan.net^
 ||ie01.dns4me.net^
@@ -2522,6 +2507,8 @@
 ||jamessou.jamesferrand.fr^
 ||jarjar.meganerd.nl^
 ||jcdns.fun^
+||jfeoks.duckdns.org^
+||jhb01.dnscry.pt^
 ||jimmyshjj.top^
 ||jit.ddns.net^
 ||jkdns.me^
@@ -2529,7 +2516,6 @@
 ||jkt01.dnscry.pt^
 ||jnb01.dnscry.pt^
 ||jnprd.com^
-||johneldenring.lol^
 ||johnsson.ovh^
 ||jonathanaugusto.freeddns.org^
 ||jonesboyz.duckdns.org^
@@ -2612,6 +2598,7 @@
 ||kracon.anycast.censurfridns.nu^
 ||kracon.anycast.uncensoreddns.dk^
 ||kracon.anycast.uncensoreddns.org^
+||krdns.cola16.app^
 ||kronos.plan9-dns.com^
 ||kronos.plan9dns.com^
 ||krtekvpn.duckdns.org^
@@ -2627,6 +2614,7 @@
 ||la-doh.stuptech.com^
 ||lajc.sytes.net^
 ||lamdtl.giize.com^
+||lanre.duckdns.org^
 ||laptop001.greppie.nl^
 ||larkin.wang^
 ||las-vegas.privacy-dns.pw^
@@ -2639,6 +2627,7 @@
 ||lboxtv.top^
 ||le-mesle.fr^
 ||leecurrylawfirm.com^
+||legoagh.duckdns.org^
 ||lelux.fi^
 ||lemonpiesite.duckdns.org^
 ||lena.hr.i81.ru^
@@ -2660,6 +2649,7 @@
 ||llk01.dnscry.pt^
 ||lmc1.privatedns.org^
 ||loadlow.me^
+||local-dns.hotay.dev^
 ||local.sufly.top^
 ||logs.danamas.net^
 ||lomoff.spb.ru^
@@ -2744,10 +2734,10 @@
 ||mnrv.trade^
 ||mo0on15.com^
 ||moise-et-maurice-gardent-la-maison.schneiderus.org^
-||moonbd.top^
 ||moph.go.th^
 ||morbitzer.de^
 ||moto.adg.siudzinski.net^
+||mow01.dnscry.pt^
 ||mozilla.cloudflare-dns.com^
 ||mru01.dnscry.pt^
 ||msr177.com^
@@ -2785,7 +2775,6 @@
 ||nas.patrick-antoine.fr^
 ||nas.stefanoperna.it^
 ||nas1403.duckdns.org^
-||nasalife.top^
 ||nasiron.dynv6.net^
 ||nastya.dns.vladpro.ru^
 ||nat64.tuxis.nl^
@@ -2829,7 +2818,6 @@
 ||nl.rslvr.eu^
 ||nlhfd1.mask-t.apple-dns.net^
 ||nlhfd1.mask.apple-dns.net^
-||nlname.freecdn.one^
 ||nnss.ppleg.icu^
 ||no-ad.levcloud.cloudns.nz^
 ||no-osl-w-1.nashkan.net^
@@ -2840,6 +2828,7 @@
 ||noads.imbuffering.com^
 ||noads.jpsrvr.com^
 ||noads.vdl.io^
+||nobodyhere.ru^
 ||node3.b4el.ru^
 ||node9.servernode.store^
 ||nonanon.pl^
@@ -2880,7 +2869,6 @@
 ||ns1.depotthai.army^
 ||ns1.dnsprivacy.at^
 ||ns1.dotls.org^
-||ns1.e-virtus.com^
 ||ns1.fdn.fr^
 ||ns1.flodns.net^
 ||ns1.hjk.kr^
@@ -2928,7 +2916,6 @@
 ||o1.lt^
 ||obscuro.top^
 ||oceania-mask.wrr.mask.apple-dns.net^
-||ocp.cincloud.top^
 ||oculta.me^
 ||odoh.cloudflare-dns.com^
 ||odoh.crypto.sx^
@@ -2963,10 +2950,8 @@
 ||osefcorp.duckdns.org^
 ||ott01.dnscry.pt^
 ||outdoor.v6.army^
-||outdoorchair.us^
 ||outie.8ws.net^
 ||outiejr.8ws.net^
-||owndns.dedyn.io^
 ||p0.freedns.controld.com^
 ||p1.freedns.controld.com^
 ||p2.freedns.controld.com^
@@ -3002,7 +2987,6 @@
 ||phucbui.top^
 ||phx01.dnscry.pt^
 ||pi-dns.gordon81.com^
-||pi.adblocker.eu.org^
 ||pi.daryllswer.net^
 ||pi.homeanywhere.org^
 ||pi1.node15.com^
@@ -3102,6 +3086,7 @@
 ||rasp.matthias-iwer.de^
 ||rayneau.fr^
 ||rb750gr3.ulfhednar.ru^
+||rdd01.dnscry.pt^
 ||rdjdns.ajraspi.xyz^
 ||rdns.faelix.net^
 ||rdu01.dnscry.pt^
@@ -3111,6 +3096,7 @@
 ||res-acst2.absolight.net^
 ||res-acst3.absolight.net^
 ||res.zijji.com^
+||reskah.pp.ua^
 ||resolv.flokinet.net^
 ||resolv1.trash.net^
 ||resolv2.trash.net^
@@ -3182,6 +3168,7 @@
 ||ru-mow.doh.sb^
 ||ru.i-puppy.ru^
 ||rumpelsepp.org^
+||ruviklabsdns.duckdns.org^
 ||rwkdwpwsyv48.mikopono.nl^
 ||rx.techomespace.com^
 ||s.idsam.com^
@@ -3269,6 +3256,7 @@
 ||sg1.dnswarden.com^
 ||sg2.ooroot.com^
 ||sg2.tt502.eu.org^
+||sgd.559299366.xyz^
 ||sgn01.dnscry.pt^
 ||sgpcloud.duckdns.org^
 ||sgs02.just-a-web.com^
@@ -3276,6 +3264,7 @@
 ||sgsin8.mask-t.apple-dns.net^
 ||sh.telex.app^
 ||shadowart.online^
+||shakdns.duckdns.org^
 ||shalenkov.cc^
 ||shalenkov.dev^
 ||shield.afixer.app^
@@ -3644,7 +3633,6 @@
 ||www.golegana.de^
 ||www.greppie.nl^
 ||www.hgrps.eu^
-||www.himarsman.life^
 ||www.incaseineeditoneday.com^
 ||www.inpssh.online^
 ||www.jabber-germany.de^
@@ -3656,7 +3644,6 @@
 ||www.lboxtv.top^
 ||www.masters-of-cloud.de^
 ||www.maxfong.cc^
-||www.moonbd.top^
 ||www.morbitzer.de^
 ||www.muxyuji.ru^
 ||www.nilanjan.rocks^
