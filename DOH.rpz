@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2410270252 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2410280322 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2024-10-27 02:52:04 (UTC)
+; Last updated: 2024-10-28 03:22:28 (UTC)
 ;
 ; See https://jpgpi250.github.io/piholemanual/doc/Unbound%20response%20policy%20zones.pdf
 ; Report issues at https://github.com/jpgpi250/piholemanual/issues
@@ -2716,6 +2716,7 @@ mc-sft.cn CNAME .
 mci01.dnscry.pt CNAME .
 mcttechs.com CNAME .
 mdxl.ru CNAME .
+mecca-is.so-gorgeo.us.kg CNAME .
 megumin.is.my.waifu.cz CNAME .
 mendozasdelivery.com CNAME .
 meowless.club CNAME .
@@ -2758,6 +2759,7 @@ mydns.bielperes.me CNAME .
 mydns.ddns.me CNAME .
 mypihole.hopto.org CNAME .
 myprivityvpn.softether.net CNAME .
+myrra-is.so-gorgeo.us.kg CNAME .
 myrusvpn.de CNAME .
 mysterium.arashi.solutions CNAME .
 mysuperspace.uk CNAME .
@@ -2835,6 +2837,7 @@ nobodyhere.ru CNAME .
 node3.b4el.ru CNAME .
 node9.servernode.store CNAME .
 nonanon.pl CNAME .
+nora-is.so-gorgeo.us.kg CNAME .
 north-america-mask.wrr.mask.apple-dns.net CNAME .
 note.dehb.ru CNAME .
 notebait.ddnsfree.com CNAME .
