@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2024-10-27 03:07:24 (UTC)
+! Last updated: 2024-10-28 03:37:51 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -2712,6 +2712,7 @@
 ||mci01.dnscry.pt^
 ||mcttechs.com^
 ||mdxl.ru^
+||mecca-is.so-gorgeo.us.kg^
 ||megumin.is.my.waifu.cz^
 ||mendozasdelivery.com^
 ||meowless.club^
@@ -2754,6 +2755,7 @@
 ||mydns.ddns.me^
 ||mypihole.hopto.org^
 ||myprivityvpn.softether.net^
+||myrra-is.so-gorgeo.us.kg^
 ||myrusvpn.de^
 ||mysterium.arashi.solutions^
 ||mysuperspace.uk^
@@ -2831,6 +2833,7 @@
 ||node3.b4el.ru^
 ||node9.servernode.store^
 ||nonanon.pl^
+||nora-is.so-gorgeo.us.kg^
 ||north-america-mask.wrr.mask.apple-dns.net^
 ||note.dehb.ru^
 ||notebait.ddnsfree.com^
