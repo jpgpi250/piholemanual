@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2024-10-31 03:35:58 (UTC)
+! Last updated: 2024-11-01 03:52:01 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -203,7 +203,6 @@
 ||adguard.dessoi.cloud^
 ||adguard.dientutronghuong.com^
 ||adguard.discounthost.co.uk^
-||adguard.docker.xnj.ovh^
 ||adguard.dsns.cloud^
 ||adguard.dtness.com^
 ||adguard.easez.net^
@@ -444,7 +443,6 @@
 ||aihe.app^
 ||airmaxcloud.ml^
 ||ajlxwk4kedu5.absq.ch^
-||akaboom.fun^
 ||akhilkalwakurthy.dyndns.org^
 ||akl01.dnscry.pt^
 ||akylah.zapto.org^
@@ -599,12 +597,14 @@
 ||bluedns.xyz^
 ||bluemood.me^
 ||bobstrecansky.com^
+||bog01.dnscry.pt^
 ||bom01.dnscry.pt^
 ||borisov.page^
 ||box.wael.name^
 ||br.servers.legat.ml^
 ||br2.lezainski.com^
 ||bravedns.com^
+||bru01.dnscry.pt^
 ||bt.luoo.cc^
 ||btb.dog^
 ||bts01.dnscry.pt^
@@ -719,6 +719,7 @@
 ||d3.vps.mtsdns.ru^
 ||d3vy.ru^
 ||d4.vps.mtsdns.ru^
+||daemonhunt.no-ip.org^
 ||dahamnw.at^
 ||dandelionsprout.asuscomm.com^
 ||darius-doh-nl.sserver.org^
@@ -1112,7 +1113,6 @@
 ||dns.freddys.my.id^
 ||dns.freopc.fr^
 ||dns.freyja.pw^
-||dns.frguthrie.app^
 ||dns.froth.zone^
 ||dns.fsociety.club^
 ||dns.fulgore.fr^
@@ -1129,7 +1129,6 @@
 ||dns.glf.wtf^
 ||dns.glorydns.com^
 ||dns.glsoft.ai^
-||dns.gmserv.cc^
 ||dns.gnb09.id^
 ||dns.goldplate.org^
 ||dns.google^
@@ -1276,7 +1275,6 @@
 ||dns.kosan.moe^
 ||dns.koshin.me^
 ||dns.kostydenis.me^
-||dns.kozich.net^
 ||dns.kpsn.dev^
 ||dns.kriswerry.nl^
 ||dns.kritsa0.xyz^
@@ -1771,7 +1769,6 @@
 ||dns1.saferbfc.org^
 ||dns1.sarakas.net^
 ||dns1.schooldns.nl^
-||dns1.server.my.id^
 ||dns1.sg.newpangea.de^
 ||dns1.tardishost.ru^
 ||dns1.techeasy.org^
@@ -1873,7 +1870,6 @@
 ||dnsvps.familiamv.ml^
 ||dnsvps.familiamv.net^
 ||dnsvs.ddns.net^
-||dnsvs.ovh^
 ||dnswebvsn.com^
 ||dnsyg.3300000.xyz^
 ||dnx.niko-sem.com^
@@ -2058,7 +2054,6 @@
 ||doh.sb^
 ||doh.seby.io^
 ||doh.securedns.eu^
-||doh.serverhost.no^
 ||doh.sidnlabs.nl^
 ||doh.srv00.com^
 ||doh.suche.org^
@@ -2211,6 +2206,7 @@
 ||europe-west.avastdns.com^
 ||europe.avastdns.com^
 ||europe.doh.sb^
+||evn01.dnscry.pt^
 ||evoxt.pmm.pm^
 ||eweyo.duckdns.org^
 ||example.doh.blockerdns.com^
@@ -2366,6 +2362,7 @@
 ||h.gjrick.tw^
 ||h.ra3.in^
 ||ha.o51r15.com^
+||haf01.dnscry.pt^
 ||han01.dnscry.pt^
 ||handy-matthias.dns.internal.espresso-tasse.de^
 ||handy-nils.dns.internal.espresso-tasse.de^
@@ -2411,7 +2408,6 @@
 ||home.fc.idv.tw^
 ||home.jobytan.com^
 ||home.kinopu.com^
-||home.kompot.space^
 ||home.llthtt1.info^
 ||home.luther.io^
 ||home.marcrnt.de^
@@ -2441,7 +2437,6 @@
 ||httpdns-push.heytapmobile.com^
 ||httpdns-sc.aliyuncs.com^
 ||httpdns.meituan.com^
-||hub.udeste.net^
 ||hungary.privacy-dns.pw^
 ||huntllcx.cn^
 ||huyizhou.com^
@@ -2490,6 +2485,7 @@
 ||iris.woozeno.eu^
 ||irre.li^
 ||isakula.space^
+||isb01.dnscry.pt^
 ||isekai.anime.com.my^
 ||isolacje.homeip.net^
 ||ist01.dnscry.pt^
@@ -2641,6 +2637,7 @@
 ||life.flylcc.cc^
 ||lilibox.freeboxos.fr^
 ||lim01.dnscry.pt^
+||lim02.dnscry.pt^
 ||lindung.pp.ua^
 ||link.altapo.ru^
 ||lion.dns.qwer.pw^
@@ -2651,6 +2648,7 @@
 ||loadlow.me^
 ||local-dns.hotay.dev^
 ||local.sufly.top^
+||log.qrsoft.ru^
 ||logs.danamas.net^
 ||lomoff.spb.ru^
 ||lon-dns.bitdefender.net^
@@ -2802,6 +2800,7 @@
 ||newlibrarian.myqnapcloud.com^
 ||nexashield.fr^
 ||next.miao.ninja^
+||nfnvr.noiselink.com^
 ||nickcan.xyz^
 ||nicknarayong.ddns.net^
 ||nicktruehome.ddns.net^
@@ -3086,6 +3085,7 @@
 ||r1bnc.com^
 ||r1bnc.eu.org^
 ||rafi.dynns.com^
+||railgun.lingzero.asia^
 ||ralfs-dns.dsh.lol^
 ||rasp.matthias-iwer.de^
 ||rayneau.fr^
@@ -3193,6 +3193,7 @@
 ||safeservedns.com^
 ||sagutxustech.com^
 ||sakuraknight2024.top^
+||salvadoserver.duckdns.org^
 ||sams.adg.siudzinski.net^
 ||samsdns1943.net^
 ||samsung.dns.joey01245.nl^
@@ -3232,6 +3233,7 @@
 ||security.cloudflare-dns.com^
 ||security.rabbitdns.org^
 ||seedboxhome.phucbui.top^
+||sel01.dnscry.pt^
 ||selsby.info^
 ||senpai.pp.ua^
 ||server.pragmasec.nl^
@@ -3339,6 +3341,7 @@
 ||syd.core.access.zznet.fun^
 ||syd.somimobile.com^
 ||syd01.dnscry.pt^
+||syd02.dnscry.pt^
 ||syre.pp.ua^
 ||szyrzyk.pl^
 ||t1416vinhome.ddns.net^
@@ -3346,6 +3349,7 @@
 ||tablet-matthias.dns.internal.espresso-tasse.de^
 ||takhtakh.domyah.net^
 ||tartanbahn.eu.org^
+||tbs01.dnscry.pt^
 ||tecdrive.site^
 ||telex.app^
 ||terminalpower.top^
@@ -3374,6 +3378,7 @@
 ||tls.jackyhou.idv.tw^
 ||tls.vietguards.cloud^
 ||tls.windyvale.net^
+||tlv01.dnscry.pt^
 ||tlz.asia^
 ||toaster.lol^
 ||tokyo.559299366.xyz^
@@ -3435,6 +3440,7 @@
 ||unifi.carioka.com^
 ||united-arab-emirates.privacy-dns.pw^
 ||unixfox.duckdns.org^
+||unp.im^
 ||ur.hytec.org^
 ||uranus.plonknet.com^
 ||urology.wiki^
@@ -3510,6 +3516,7 @@
 ||vasya.vpn.i81.ru^
 ||vd.i81.ru^
 ||vdsn-nl-2.azatmutq.com^
+||venum.space^
 ||vie01.dnscry.pt^
 ||vik-ios.adguard.vik.ro^
 ||vik.ro^
@@ -3683,6 +3690,7 @@
 ||x.laoban.fun^
 ||x.ns1net.com^
 ||x.res.wang^
+||xbcpb668.com^
 ||xenergy.cc^
 ||xfer.au^
 ||xholgm.top^
