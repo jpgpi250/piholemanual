@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2024-11-02 04:20:29 (UTC)
+! Last updated: 2024-11-03 03:27:04 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -48,6 +48,7 @@
 ||39g.8610099.xyz^
 ||3dcosas.xyz^
 ||3dns.eu^
+||3jjxxl.tech^
 ||45.32.17.58.vultrusercontent.com^
 ||4yix.l.time4vps.cloud^
 ||51576162.ru^
@@ -3074,6 +3075,7 @@
 ||qaz.tw^
 ||qdns02.nymterm.com^
 ||qlf-doh.inria.fr^
+||qqmcfw.tech^
 ||qual.cuprum.ru^
 ||quangdo92.dynu.net^
 ||quantumpulse.dev^
