@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2411030311 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2411040343 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2024-11-03 03:11:34 (UTC)
+; Last updated: 2024-11-04 03:43:54 (UTC)
 ;
 ; See https://jpgpi250.github.io/piholemanual/doc/Unbound%20response%20policy%20zones.pdf
 ; Report issues at https://github.com/jpgpi250/piholemanual/issues
@@ -536,7 +536,6 @@ au01.dns4me.net CNAME .
 au02.dns4me.net CNAME .
 audio.dehb.ru CNAME .
 augne.dns.walshnet.co.uk CNAME .
-ausyd2.mask-t.apple-dns.net CNAME .
 ausyd2.mask.apple-dns.net CNAME .
 aviemore.dns.walshnet.co.uk CNAME .
 awan.ftp.sh CNAME .
@@ -676,6 +675,7 @@ cloud.tezoi.com CNAME .
 cloudbasesolutions.online CNAME .
 cloudflare-dns.com CNAME .
 cloudflare-gateway.com CNAME .
+cloudflaredns.com CNAME .
 cloudflareresolve.com CNAME .
 cloudns.bosco.ovh CNAME .
 cloudsrv.charitosnet.de CNAME .
@@ -752,11 +752,8 @@ de.deghy.ir CNAME .
 de.dns.privex.io CNAME .
 de.teradns.org CNAME .
 de01.dns4me.net CNAME .
-deber3.mask-t.apple-dns.net CNAME .
 deber3.mask.apple-dns.net CNAME .
 dedidl.com CNAME .
-dedus1.mask-t.apple-dns.net CNAME .
-dedus1.mask.apple-dns.net CNAME .
 deep-henchman-excuse.cfd CNAME .
 defsnldns01.sc-hosting.info CNAME .
 deic-lgb.anycast.censurfridns.dk CNAME .
@@ -1527,6 +1524,7 @@ dns.rjls.me CNAME .
 dns.roedel.cloud CNAME .
 dns.ronc.ru CNAME .
 dns.root.me CNAME .
+dns.rootlab.top CNAME .
 dns.rotunneling.net CNAME .
 dns.rshtkdn.ru CNAME .
 dns.rslvr.eu CNAME .
@@ -2312,7 +2310,6 @@ gb-lon-w-4.nashkan.net CNAME .
 gb-lon-w-f-1.nashkan.net CNAME .
 gb-lon-w-p-1.nashkan.net CNAME .
 gb-lon-w-p-2.nashkan.net CNAME .
-gbslo5.mask-t.apple-dns.net CNAME .
 gbslo5.mask.apple-dns.net CNAME .
 gc.cyberbeta.cn CNAME .
 gclouddns.com CNAME .
@@ -2400,7 +2397,6 @@ hkg02.dnscry.pt CNAME .
 hkg2.edge.access.zznet.fun CNAME .
 hkname.freecdn.one CNAME .
 hknat.ooguy.com CNAME .
-hktko1.mask-t.apple-dns.net CNAME .
 hoavan.io.vn CNAME .
 hockaday.synology.me CNAME .
 hole.elbschloss.xyz CNAME .
@@ -2459,8 +2455,6 @@ id-pon-w-1.nashkan.net CNAME .
 id.terra.my.id CNAME .
 ie-dub-w-1.nashkan.net CNAME .
 ie01.dns4me.net CNAME .
-iedub2.mask-t.apple-dns.net CNAME .
-iedub2.mask.apple-dns.net CNAME .
 iev01.dnscry.pt CNAME .
 igor.hr.i81.ru CNAME .
 igor.vd.i81.ru CNAME .
@@ -2543,7 +2537,6 @@ jp2.ooroot.com CNAME .
 jpdns.cola16.app CNAME .
 jpdns.hker.me CNAME .
 jpok.996333.xyz CNAME .
-jptyo12.mask-t.apple-dns.net CNAME .
 jptyo12.mask.apple-dns.net CNAME .
 js-nnss.ppleg.icu CNAME .
 jujuba.cafuringa.org CNAME .
@@ -2821,7 +2814,6 @@ nl-dro-w-p-1.nashkan.net CNAME .
 nl.adg.ghostzone.wtf CNAME .
 nl.dns.privex.io CNAME .
 nl.rslvr.eu CNAME .
-nlhfd1.mask-t.apple-dns.net CNAME .
 nlhfd1.mask.apple-dns.net CNAME .
 nnss.ppleg.icu CNAME .
 no-ad.levcloud.cloudns.nz CNAME .
@@ -3011,7 +3003,6 @@ pl-waw-w-2.nashkan.net CNAME .
 pl-waw-w-f-1.nashkan.net CNAME .
 pl-waw-w-p-1.nashkan.net CNAME .
 pl-waw-w-p-2.nashkan.net CNAME .
-please.dontsteal.my.id CNAME .
 plex.skin57.de CNAME .
 plushub.pro CNAME .
 pluton.plan9-dns.com CNAME .
@@ -3247,7 +3238,6 @@ server01.vboekel.nl CNAME .
 serverhk.rannj.top CNAME .
 service.f170137e.icu CNAME .
 servis4u.top CNAME .
-sesto4.mask-t.apple-dns.net CNAME .
 sesto4.mask.apple-dns.net CNAME .
 sg-119.cattery.work CNAME .
 sg-dns1.bancuh.com CNAME .
@@ -3271,7 +3261,6 @@ sgn01.dnscry.pt CNAME .
 sgpcloud.duckdns.org CNAME .
 sgs02.just-a-web.com CNAME .
 sgs03.just-a-web.com CNAME .
-sgsin8.mask-t.apple-dns.net CNAME .
 sh.telex.app CNAME .
 shadowart.online CNAME .
 shakdns.duckdns.org CNAME .
@@ -3410,7 +3399,6 @@ tujenasnaszato.xyz CNAME .
 tungdnsne.duckdns.org CNAME .
 tuskythehusky.tech CNAME .
 tw2.ooroot.com CNAME .
-twntc1.mask-t.apple-dns.net CNAME .
 twntc1.mask.apple-dns.net CNAME .
 tx.teradns.org CNAME .
 tyo01.dnscry.pt CNAME .
@@ -3483,20 +3471,12 @@ us02.dns4me.net CNAME .
 us1.blissdns.net CNAME .
 us1.dns.lavate.ch CNAME .
 usa1.altcensored.com CNAME .
-usatl5.mask-t.apple-dns.net CNAME .
 usatl5.mask.apple-dns.net CNAME .
 usatwo.wuyouss.com CNAME .
-usbos2.mask-t.apple-dns.net CNAME .
-uschi7.mask-t.apple-dns.net CNAME .
 uschi7.mask.apple-dns.net CNAME .
-usdal2.mask-t.apple-dns.net CNAME .
-usden6.mask-t.apple-dns.net CNAME .
-uslax2.mask-t.apple-dns.net CNAME .
-usmia1.mask-t.apple-dns.net CNAME .
 usmsc2.mask.apple-dns.net CNAME .
 usname.freecdn.one CNAME .
 usqas5.mask.apple-dns.net CNAME .
-usuyk1.mask-t.apple-dns.net CNAME .
 usuyk1.mask.apple-dns.net CNAME .
 uw-dns.rubyfish.cn CNAME .
 ux.go20.cf CNAME .
@@ -3613,7 +3593,6 @@ wireguard.osmenoga.com CNAME .
 wisehomeguard.duckdns.org CNAME .
 woalongit.synology.me CNAME .
 workcavestl.duckdns.org CNAME .
-wrr.mask.apple-dns.net CNAME .
 wuyou.pw CNAME .
 www.1ee.top CNAME .
 www.acomit.lk CNAME .
