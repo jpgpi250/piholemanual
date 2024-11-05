@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2024-11-03 03:27:04 (UTC)
+! Last updated: 2024-11-04 03:59:12 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -532,7 +532,6 @@
 ||au02.dns4me.net^
 ||audio.dehb.ru^
 ||augne.dns.walshnet.co.uk^
-||ausyd2.mask-t.apple-dns.net^
 ||ausyd2.mask.apple-dns.net^
 ||aviemore.dns.walshnet.co.uk^
 ||awan.ftp.sh^
@@ -672,6 +671,7 @@
 ||cloudbasesolutions.online^
 ||cloudflare-dns.com^
 ||cloudflare-gateway.com^
+||cloudflaredns.com^
 ||cloudflareresolve.com^
 ||cloudns.bosco.ovh^
 ||cloudsrv.charitosnet.de^
@@ -748,11 +748,8 @@
 ||de.dns.privex.io^
 ||de.teradns.org^
 ||de01.dns4me.net^
-||deber3.mask-t.apple-dns.net^
 ||deber3.mask.apple-dns.net^
 ||dedidl.com^
-||dedus1.mask-t.apple-dns.net^
-||dedus1.mask.apple-dns.net^
 ||deep-henchman-excuse.cfd^
 ||defsnldns01.sc-hosting.info^
 ||deic-lgb.anycast.censurfridns.dk^
@@ -1523,6 +1520,7 @@
 ||dns.roedel.cloud^
 ||dns.ronc.ru^
 ||dns.root.me^
+||dns.rootlab.top^
 ||dns.rotunneling.net^
 ||dns.rshtkdn.ru^
 ||dns.rslvr.eu^
@@ -2308,7 +2306,6 @@
 ||gb-lon-w-f-1.nashkan.net^
 ||gb-lon-w-p-1.nashkan.net^
 ||gb-lon-w-p-2.nashkan.net^
-||gbslo5.mask-t.apple-dns.net^
 ||gbslo5.mask.apple-dns.net^
 ||gc.cyberbeta.cn^
 ||gclouddns.com^
@@ -2396,7 +2393,6 @@
 ||hkg2.edge.access.zznet.fun^
 ||hkname.freecdn.one^
 ||hknat.ooguy.com^
-||hktko1.mask-t.apple-dns.net^
 ||hoavan.io.vn^
 ||hockaday.synology.me^
 ||hole.elbschloss.xyz^
@@ -2455,8 +2451,6 @@
 ||id.terra.my.id^
 ||ie-dub-w-1.nashkan.net^
 ||ie01.dns4me.net^
-||iedub2.mask-t.apple-dns.net^
-||iedub2.mask.apple-dns.net^
 ||iev01.dnscry.pt^
 ||igor.hr.i81.ru^
 ||igor.vd.i81.ru^
@@ -2539,7 +2533,6 @@
 ||jpdns.cola16.app^
 ||jpdns.hker.me^
 ||jpok.996333.xyz^
-||jptyo12.mask-t.apple-dns.net^
 ||jptyo12.mask.apple-dns.net^
 ||js-nnss.ppleg.icu^
 ||jujuba.cafuringa.org^
@@ -2817,7 +2810,6 @@
 ||nl.adg.ghostzone.wtf^
 ||nl.dns.privex.io^
 ||nl.rslvr.eu^
-||nlhfd1.mask-t.apple-dns.net^
 ||nlhfd1.mask.apple-dns.net^
 ||nnss.ppleg.icu^
 ||no-ad.levcloud.cloudns.nz^
@@ -3007,7 +2999,6 @@
 ||pl-waw-w-f-1.nashkan.net^
 ||pl-waw-w-p-1.nashkan.net^
 ||pl-waw-w-p-2.nashkan.net^
-||please.dontsteal.my.id^
 ||plex.skin57.de^
 ||plushub.pro^
 ||pluton.plan9-dns.com^
@@ -3243,7 +3234,6 @@
 ||serverhk.rannj.top^
 ||service.f170137e.icu^
 ||servis4u.top^
-||sesto4.mask-t.apple-dns.net^
 ||sesto4.mask.apple-dns.net^
 ||sg-119.cattery.work^
 ||sg-dns1.bancuh.com^
@@ -3267,7 +3257,6 @@
 ||sgpcloud.duckdns.org^
 ||sgs02.just-a-web.com^
 ||sgs03.just-a-web.com^
-||sgsin8.mask-t.apple-dns.net^
 ||sh.telex.app^
 ||shadowart.online^
 ||shakdns.duckdns.org^
@@ -3406,7 +3395,6 @@
 ||tungdnsne.duckdns.org^
 ||tuskythehusky.tech^
 ||tw2.ooroot.com^
-||twntc1.mask-t.apple-dns.net^
 ||twntc1.mask.apple-dns.net^
 ||tx.teradns.org^
 ||tyo01.dnscry.pt^
@@ -3479,20 +3467,12 @@
 ||us1.blissdns.net^
 ||us1.dns.lavate.ch^
 ||usa1.altcensored.com^
-||usatl5.mask-t.apple-dns.net^
 ||usatl5.mask.apple-dns.net^
 ||usatwo.wuyouss.com^
-||usbos2.mask-t.apple-dns.net^
-||uschi7.mask-t.apple-dns.net^
 ||uschi7.mask.apple-dns.net^
-||usdal2.mask-t.apple-dns.net^
-||usden6.mask-t.apple-dns.net^
-||uslax2.mask-t.apple-dns.net^
-||usmia1.mask-t.apple-dns.net^
 ||usmsc2.mask.apple-dns.net^
 ||usname.freecdn.one^
 ||usqas5.mask.apple-dns.net^
-||usuyk1.mask-t.apple-dns.net^
 ||usuyk1.mask.apple-dns.net^
 ||uw-dns.rubyfish.cn^
 ||ux.go20.cf^
@@ -3609,7 +3589,6 @@
 ||wisehomeguard.duckdns.org^
 ||woalongit.synology.me^
 ||workcavestl.duckdns.org^
-||wrr.mask.apple-dns.net^
 ||wuyou.pw^
 ||www.1ee.top^
 ||www.acomit.lk^
