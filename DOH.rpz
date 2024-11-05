@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2411040343 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2411050307 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2024-11-04 03:43:54 (UTC)
+; Last updated: 2024-11-05 03:07:55 (UTC)
 ;
 ; See https://jpgpi250.github.io/piholemanual/doc/Unbound%20response%20policy%20zones.pdf
 ; Report issues at https://github.com/jpgpi250/piholemanual/issues
@@ -675,7 +675,6 @@ cloud.tezoi.com CNAME .
 cloudbasesolutions.online CNAME .
 cloudflare-dns.com CNAME .
 cloudflare-gateway.com CNAME .
-cloudflaredns.com CNAME .
 cloudflareresolve.com CNAME .
 cloudns.bosco.ovh CNAME .
 cloudsrv.charitosnet.de CNAME .
@@ -3387,6 +3386,7 @@ tr.league1.xyz CNAME .
 tran.net.vn CNAME .
 travis90x.ddns.net CNAME .
 trf01.dnscry.pt CNAME .
+tri-dns.net CNAME .
 tributh.net CNAME .
 trovs.ru CNAME .
 trr.dns.nextdns.io CNAME .
