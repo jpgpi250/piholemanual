@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2024-11-05 03:23:18 (UTC)
+! Last updated: 2024-11-06 04:30:57 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -136,6 +136,7 @@
 ||adg.jnorton.us^
 ||adg.khon.dev^
 ||adg.pidns.de^
+||adg.rizalagustian.xyz^
 ||adg.rokh.biz^
 ||adg.rueiliu.space^
 ||adg.swh123.xyz^
@@ -146,8 +147,6 @@
 ||adghome.mail-endpoint.com^
 ||adghome2.mail-endpoint.com^
 ||adghs.de^
-||adgrm.duckdns.org^
-||adgrus.tvmix.my.id^
 ||adguard-be-azure.westeurope.cloudapp.azure.com^
 ||adguard-dns.com^
 ||adguard-dns.eu.org^
@@ -237,6 +236,7 @@
 ||adguard.hofi.li^
 ||adguard.ihatemy.live^
 ||adguard.infrapod.nl^
+||adguard.isrky.dev^
 ||adguard.jakinet.id^
 ||adguard.jaydub.cloud^
 ||adguard.jaye.sh^
@@ -438,6 +438,7 @@
 ||agh.xinfeng16m.top^
 ||agh2.server.my.id^
 ||aghdns.com^
+||ah.wahsun.org^
 ||ahadns.net^
 ||ahcek.com^
 ||ahoj.email^
@@ -642,6 +643,7 @@
 ||cfdjb.org^
 ||ch-zur-w-1.nashkan.net^
 ||ch01adguardho.me^
+||ch100.line.pm^
 ||cha.bigbackend.lol^
 ||chandr1000.net^
 ||changesmart2024.top^
@@ -671,6 +673,7 @@
 ||cloudbasesolutions.online^
 ||cloudflare-dns.com^
 ||cloudflare-gateway.com^
+||cloudflaredns.com^
 ||cloudflareresolve.com^
 ||cloudns.bosco.ovh^
 ||cloudsrv.charitosnet.de^
@@ -687,7 +690,6 @@
 ||contacts.dehb.ru^
 ||cossxiu.ga^
 ||cph01.dnscry.pt^
-||cqd.duckdns.org^
 ||craft.vps.pw^
 ||crd.circl.lu^
 ||cristianocosta.me^
@@ -1152,6 +1154,7 @@
 ||dns.henek.ru^
 ||dns.herkhof.nl^
 ||dns.hinet.net^
+||dns.hnsfwlkj.com^
 ||dns.home.daniil.it^
 ||dns.hoody.com^
 ||dns.hopsken.com^
@@ -1164,7 +1167,6 @@
 ||dns.housedenolf.be^
 ||dns.hr.i81.ru^
 ||dns.hshoe.cn^
-||dns.huas.me^
 ||dns.hub.com.de^
 ||dns.hugo0.moe^
 ||dns.huizegunsing.nl^
@@ -1212,6 +1214,7 @@
 ||dns.itsec.crolla.net^
 ||dns.itwht.com^
 ||dns.itya.xyz^
+||dns.jamessliu.com^
 ||dns.janl.eu^
 ||dns.jcdn.site^
 ||dns.jean.im^
@@ -1361,6 +1364,7 @@
 ||dns.molinero.dev^
 ||dns.momou.ch^
 ||dns.moog.sh^
+||dns.mooncheng.top^
 ||dns.moonssif.com^
 ||dns.moonwx.net^
 ||dns.motazhakim.com^
@@ -1517,12 +1521,12 @@
 ||dns.risrdg.net^
 ||dns.rjls.me^
 ||dns.roedel.cloud^
+||dns.romain.tech^
 ||dns.ronc.ru^
 ||dns.root.me^
 ||dns.rootlab.top^
 ||dns.rotunneling.net^
 ||dns.rshtkdn.ru^
-||dns.rslvr.eu^
 ||dns.rubyfish.cn^
 ||dns.s0ra.asia^
 ||dns.sac.rebl.eu.org^
@@ -1960,6 +1964,7 @@
 ||doh.dnswarden.com^
 ||doh.domreg.lt^
 ||doh.dscloud.me^
+||doh.e7.work^
 ||doh.eastas.pi-dns.com^
 ||doh.eastau.pi-dns.com^
 ||doh.eastus.pi-dns.com^
@@ -2159,6 +2164,7 @@
 ||dtw01.dnscry.pt^
 ||dub01.dnscry.pt^
 ||dugout.dns.walshnet.co.uk^
+||duii.de^
 ||dukun.de^
 ||dupatruwi22.fun^
 ||dus.ysbs.uk^
@@ -2483,7 +2489,10 @@
 ||isolacje.homeip.net^
 ||ist01.dnscry.pt^
 ||it-pal-w-1.nashkan.net^
+||it-works4u.com^
+||it-works4u.nl^
 ||itlikehell.ru^
+||itworks4u.nl^
 ||ivan.vps.mtsdns.ru^
 ||ivica-vulas.from.hr^
 ||ivnkn.xyz^
@@ -2507,7 +2516,6 @@
 ||jnprd.com^
 ||johnsson.ovh^
 ||jonathanaugusto.freeddns.org^
-||jonesboyz.duckdns.org^
 ||josephfamily.org^
 ||jp-dns1.bancuh.com^
 ||jp-kix.doh.sb^
@@ -2701,7 +2709,6 @@
 ||mc-sft.cn^
 ||mci01.dnscry.pt^
 ||mcttechs.com^
-||mdxl.ru^
 ||mecca-is.so-gorgeo.us.kg^
 ||megumin.is.my.waifu.cz^
 ||mendozasdelivery.com^
@@ -2859,7 +2866,6 @@
 ||ns1.1899.com.mx^
 ||ns1.4netguides.org^
 ||ns1.bit-trails.nl^
-||ns1.depotthai.army^
 ||ns1.dnsprivacy.at^
 ||ns1.dotls.org^
 ||ns1.fdn.fr^
@@ -2893,7 +2899,6 @@
 ||ns4.opennameserver.org^
 ||nsc.torgues.net^
 ||nsec.arnor.org^
-||nsin.live^
 ||nsown.com^
 ||nue01.dnscry.pt^
 ||nue2.moderateinfra.net^
@@ -2973,7 +2978,6 @@
 ||ped01.dnscry.pt^
 ||per.adfilter.net^
 ||performance.gosami.xyz^
-||personal-dns.site^
 ||pg.web-rated.ie^
 ||philqoo.com^
 ||phl01.dnscry.pt^
@@ -3198,7 +3202,6 @@
 ||scottdylewski.com^
 ||sdfasluqoiwuezcvcv.tech^
 ||sdns.233py.com^
-||sdns.pro^
 ||sdns22.gkonuralp.com^
 ||sdvizhkov.ru^
 ||se-sto-w-2.nashkan.net^
@@ -3273,7 +3276,6 @@
 ||singy.smartq.dev^
 ||sink.nolo.ltd^
 ||sitdns.com^
-||site-2.duckdns.org^
 ||sjc01.dnscry.pt^
 ||sk-bra-w-1.nashkan.net^
 ||sky.rethinkdns.com^
@@ -3291,6 +3293,7 @@
 ||snoke.meganerd.nl^
 ||socolov.home.ro^
 ||sof01.dnscry.pt^
+||sols.co.in^
 ||solution.w10.life^
 ||songochain.freeddns.org^
 ||sorephie-dns2.ddns.net^
@@ -3625,6 +3628,9 @@
 ||www.hgrps.eu^
 ||www.incaseineeditoneday.com^
 ||www.inpssh.online^
+||www.it-works4u.com^
+||www.it-works4u.nl^
+||www.itworks4u.nl^
 ||www.jabber-germany.de^
 ||www.khsan.com^
 ||www.kigurumi.space^
@@ -3640,7 +3646,6 @@
 ||www.nonanon.pl^
 ||www.olivier-raspberrypi.changeip.org^
 ||www.pdnssrvagh.online^
-||www.personal-dns.site^
 ||www.pingbi.xyz^
 ||www.pukanuragan.ru^
 ||www.qingmo.vip^
