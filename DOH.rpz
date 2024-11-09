@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2411080312 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2411090239 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2024-11-08 03:12:49 (UTC)
+; Last updated: 2024-11-09 02:39:44 (UTC)
 ;
 ; See https://jpgpi250.github.io/piholemanual/doc/Unbound%20response%20policy%20zones.pdf
 ; Report issues at https://github.com/jpgpi250/piholemanual/issues
@@ -689,6 +689,7 @@ cloud.samutz.com CNAME .
 cloud.securifi.com.my CNAME .
 cloud.tezoi.com CNAME .
 cloudbasesolutions.online CNAME .
+cloudbenders.fun CNAME .
 cloudflare-dns.com CNAME .
 cloudflare-gateway.com CNAME .
 cloudflareresolve.com CNAME .
@@ -1366,6 +1367,7 @@ dns.matthias-prost.com CNAME .
 dns.maybe.icu CNAME .
 dns.mayr.ws CNAME .
 dns.mayx.eu.org CNAME .
+dns.mbrjun.cn CNAME .
 dns.me7878.com CNAME .
 dns.meeo.win CNAME .
 dns.melalandia.tk CNAME .
@@ -1942,8 +1944,10 @@ doh-lb-gb.dnsflex.com CNAME .
 doh-lb-in.dnsflex.com CNAME .
 doh-lb-sg.dnsflex.com CNAME .
 doh-lb-tr.dnsflex.com CNAME .
+doh-own-recursion.nicolas-dorriere.fr CNAME .
 doh-primary-pool.detoxifypornblocker.com CNAME .
 doh-primary-pool.goodbyegambling.com CNAME .
+doh-random-upstream.nicolas-dorriere.fr CNAME .
 doh-rs.whalebone.io CNAME .
 doh-sg.blahdns.com CNAME .
 doh.2kil.com CNAME .
@@ -2249,6 +2253,7 @@ esel.stusta.mhn.de CNAME .
 essentiallyjay.com CNAME .
 eth.link CNAME .
 eu.doh.sb CNAME .
+eu.tri-dns.net CNAME .
 eu1.dns.lavate.ch CNAME .
 europe-west.avastdns.com CNAME .
 europe.avastdns.com CNAME .
@@ -2683,6 +2688,7 @@ lena.vpn.i81.ru CNAME .
 lena.vps.mtsdns.ru CNAME .
 leochen-dns.ddns.net CNAME .
 lesuo.top CNAME .
+lewsha.lol CNAME .
 lfbn-gre-1-319-7.w90-112.abo.wanadoo.fr CNAME .
 libye.in CNAME .
 life.flylcc.cc CNAME .
