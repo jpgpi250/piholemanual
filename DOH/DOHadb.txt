@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2024-11-08 03:28:01 (UTC)
+! Last updated: 2024-11-09 02:55:03 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -685,6 +685,7 @@
 ||cloud.securifi.com.my^
 ||cloud.tezoi.com^
 ||cloudbasesolutions.online^
+||cloudbenders.fun^
 ||cloudflare-dns.com^
 ||cloudflare-gateway.com^
 ||cloudflareresolve.com^
@@ -1362,6 +1363,7 @@
 ||dns.maybe.icu^
 ||dns.mayr.ws^
 ||dns.mayx.eu.org^
+||dns.mbrjun.cn^
 ||dns.me7878.com^
 ||dns.meeo.win^
 ||dns.melalandia.tk^
@@ -1938,8 +1940,10 @@
 ||doh-lb-in.dnsflex.com^
 ||doh-lb-sg.dnsflex.com^
 ||doh-lb-tr.dnsflex.com^
+||doh-own-recursion.nicolas-dorriere.fr^
 ||doh-primary-pool.detoxifypornblocker.com^
 ||doh-primary-pool.goodbyegambling.com^
+||doh-random-upstream.nicolas-dorriere.fr^
 ||doh-rs.whalebone.io^
 ||doh-sg.blahdns.com^
 ||doh.2kil.com^
@@ -2245,6 +2249,7 @@
 ||essentiallyjay.com^
 ||eth.link^
 ||eu.doh.sb^
+||eu.tri-dns.net^
 ||eu1.dns.lavate.ch^
 ||europe-west.avastdns.com^
 ||europe.avastdns.com^
@@ -2679,6 +2684,7 @@
 ||lena.vps.mtsdns.ru^
 ||leochen-dns.ddns.net^
 ||lesuo.top^
+||lewsha.lol^
 ||lfbn-gre-1-319-7.w90-112.abo.wanadoo.fr^
 ||libye.in^
 ||life.flylcc.cc^
