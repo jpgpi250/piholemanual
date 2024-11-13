@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2024-11-11 04:04:40 (UTC)
+! Last updated: 2024-11-12 04:12:56 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -608,6 +608,7 @@
 ||blokuj.ujwie.co^
 ||bluedns.xyz^
 ||bluemood.me^
+||bne01.dnscry.pt^
 ||bobstrecansky.com^
 ||bog01.dnscry.pt^
 ||bom01.dnscry.pt^
@@ -688,7 +689,6 @@
 ||cloudbenders.fun^
 ||cloudflare-dns.com^
 ||cloudflare-gateway.com^
-||cloudflaredns.com^
 ||cloudflareresolve.com^
 ||cloudns.bosco.ovh^
 ||cloudsrv.charitosnet.de^
@@ -2126,6 +2126,7 @@
 ||doh.xorlet.ru^
 ||doh.xyz^
 ||doh.zephyrsec.cfd^
+||doh.zephyrus.id^
 ||doh.zhongbr.uk^
 ||doh.zknt.org^
 ||doh.zln.wtf^
@@ -2696,6 +2697,7 @@
 ||link.altapo.ru^
 ||lion.dns.qwer.pw^
 ||lion.yazilimatolye.com^
+||lis01.dnscry.pt^
 ||ljk.kkizz.cn^
 ||llk01.dnscry.pt^
 ||lmc.privatedns.org^
@@ -3345,6 +3347,7 @@
 ||singy.smartq.dev^
 ||sink.nolo.ltd^
 ||sitdns.com^
+||sitha-is.so-gorgeo.us.kg^
 ||sjc01.dnscry.pt^
 ||sk-bra-w-1.nashkan.net^
 ||sky.rethinkdns.com^
