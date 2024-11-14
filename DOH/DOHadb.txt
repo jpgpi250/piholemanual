@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2024-11-12 04:12:56 (UTC)
+! Last updated: 2024-11-13 03:42:36 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -792,7 +792,6 @@
 ||digitale-gesellschaft.ch^
 ||disbish.com^
 ||diskstation.alexpollard.net^
-||diy.itsa.top^
 ||djtesok.ddns.net^
 ||dk-cop-w-1.nashkan.net^
 ||dla.ray0512.win^
