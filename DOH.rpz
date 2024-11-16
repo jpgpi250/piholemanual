@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2411150412 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2411160755 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2024-11-15 04:12:55 (UTC)
+; Last updated: 2024-11-16 07:55:46 (UTC)
 ;
 ; See https://jpgpi250.github.io/piholemanual/doc/Unbound%20response%20policy%20zones.pdf
 ; Report issues at https://github.com/jpgpi250/piholemanual/issues
@@ -2748,6 +2748,18 @@ m-rm.circumitor.de CNAME .
 m.myspace.sbs CNAME .
 ma1.guardmydns.com CNAME .
 mabuktogel.builders CNAME .
+mabuktogel.business CNAME .
+mabuktogel.cards CNAME .
+mabuktogel.creditcard CNAME .
+mabuktogel.degree CNAME .
+mabuktogel.directory CNAME .
+mabuktogel.enterprises CNAME .
+mabuktogel.immobilien CNAME .
+mabuktogel.limited CNAME .
+mabuktogel.ltd CNAME .
+mabuktogel.marketing CNAME .
+mabuktogel.properties CNAME .
+mabuktogel.solutions CNAME .
 mad01.dnscry.pt CNAME .
 maherhost.uk CNAME .
 maikel.greppie.nl CNAME .
