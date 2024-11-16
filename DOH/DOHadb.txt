@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2024-11-14 03:19:43 (UTC)
+! Last updated: 2024-11-15 04:28:13 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -502,6 +502,11 @@
 ||apne1.dns.terumi.club^
 ||app.kepegawaiandju.id^
 ||appart.yoannchappaz.best^
+||apple-relay.akamaized.net^
+||apple-relay.apple.com^
+||apple-relay.cloudfare.com^
+||apple-relay.cloudflare.com^
+||apple-relay.fastly-edge.com^
 ||apple-relay.mask.apple-dns.net^
 ||applied-privacy.net^
 ||aqua.is.my.waifu.cz^
@@ -1567,6 +1572,7 @@
 ||dns.sac.rebl.eu.org^
 ||dns.safko.eu^
 ||dns.sainternet.xyz^
+||dns.salonia.it^
 ||dns.saneaki.com^
 ||dns.sarak.as^
 ||dns.sarakas.net^
@@ -2608,6 +2614,7 @@
 ||kalwat.duckdns.org^
 ||karimdns.com^
 ||katherine-dns.newcore.cl^
+||kavkaz.monster^
 ||kawpad.southeastasia.cloudapp.azure.com^
 ||kcolspacrm.ir^
 ||kdgnkjho4od8w40.americasnet.com.br^
@@ -2736,6 +2743,7 @@
 ||m-rm.circumitor.de^
 ||m.myspace.sbs^
 ||ma1.guardmydns.com^
+||mabuktogel.builders^
 ||mad01.dnscry.pt^
 ||maherhost.uk^
 ||maikel.greppie.nl^
@@ -3091,7 +3099,6 @@
 ||polisitogel.limo^
 ||polisitogel.living^
 ||polisitogel.luxe^
-||polisitogel.properties^
 ||polisitogel.show^
 ||polisitogel.webcam^
 ||pooblet.co.za^
