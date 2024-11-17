@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2024-11-15 04:28:13 (UTC)
+! Last updated: 2024-11-16 03:21:08 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -2744,6 +2744,18 @@
 ||m.myspace.sbs^
 ||ma1.guardmydns.com^
 ||mabuktogel.builders^
+||mabuktogel.business^
+||mabuktogel.cards^
+||mabuktogel.creditcard^
+||mabuktogel.degree^
+||mabuktogel.directory^
+||mabuktogel.enterprises^
+||mabuktogel.immobilien^
+||mabuktogel.limited^
+||mabuktogel.ltd^
+||mabuktogel.marketing^
+||mabuktogel.properties^
+||mabuktogel.solutions^
 ||mad01.dnscry.pt^
 ||maherhost.uk^
 ||maikel.greppie.nl^
