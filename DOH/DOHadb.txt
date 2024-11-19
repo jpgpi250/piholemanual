@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2024-11-17 03:50:52 (UTC)
+! Last updated: 2024-11-18 03:35:03 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -84,6 +84,7 @@
 ||ad.blurryface.ru^
 ||ad.fai001.top^
 ||ad.huyct.net^
+||ad.jiatianxa1.top^
 ||ad.justincounts.com^
 ||ad.paulopinto.site^
 ||ad.pyio.top^
@@ -222,6 +223,7 @@
 ||adguard.fam-rodenburg.nl^
 ||adguard.fihch.ru^
 ||adguard.firestrike-services.de^
+||adguard.fope.dev^
 ||adguard.frece.de^
 ||adguard.fresh-waffles.online^
 ||adguard.frutuozo.com.br^
@@ -398,6 +400,7 @@
 ||ads.x88.in^
 ||adsfree.ddns.net^
 ||adsfysdfgiuy.ydns.eu^
+||adsl.viettel.vn^
 ||adult-filter-dns.cleanbrowsing.org^
 ||adult-filter-dot.dnswarden.com^
 ||ae-dub-w-f-2.nashkan.net^
@@ -690,7 +693,6 @@
 ||cloudbenders.fun^
 ||cloudflare-dns.com^
 ||cloudflare-gateway.com^
-||cloudflaredns.com^
 ||cloudflareresolve.com^
 ||cloudns.bosco.ovh^
 ||cloudsrv.charitosnet.de^
@@ -865,6 +867,7 @@
 ||dns.7vpn.com^
 ||dns.886886886.xyz^
 ||dns.888654.xyz^
+||dns.8tvsuper.eu.org^
 ||dns.9999.sg^
 ||dns.a47.me^
 ||dns.aa.net.uk^
@@ -1036,6 +1039,7 @@
 ||dns.decky.eu^
 ||dns.decloudus.com^
 ||dns.dedsec.cc^
+||dns.dedsuts.com^
 ||dns.deekshith.in^
 ||dns.dekedin.me^
 ||dns.delitarus.ru^
@@ -1130,6 +1134,7 @@
 ||dns.floriantinney.de^
 ||dns.flwagners.com^
 ||dns.flymc.cc^
+||dns.fqdn.network^
 ||dns.freddys.my.id^
 ||dns.freopc.fr^
 ||dns.freyja.pw^
@@ -1792,6 +1797,7 @@
 ||dns1.in-berlin.de^
 ||dns1.in.newpangea.de^
 ||dns1.irumatech.com^
+||dns1.kla44.de^
 ||dns1.klcd.eu^
 ||dns1.kostydenis.me^
 ||dns1.luan.contact^
@@ -2362,6 +2368,7 @@
 ||genscorp.es^
 ||geshido.vpn.geshido.ru^
 ||getdnsapi.net^
+||gggzs.com^
 ||gibblets.top^
 ||ginnungagap.rabenhain.net^
 ||git.andrewnw.xyz^
@@ -2426,6 +2433,7 @@
 ||hgzwy.xyz^
 ||hi-ih.com^
 ||hitian.me^
+||hk-adg.bluenight.me^
 ||hk-hkg.doh.sb^
 ||hk-nnss.ppleg.icu^
 ||hk.559299366.xyz^
@@ -2596,6 +2604,7 @@
 ||justfor.myasustor.com^
 ||justhost.bedro.cloud^
 ||k03.dedyn.io^
+||k3n.pw^
 ||kaandikec.com^
 ||kaitain.restena.lu^
 ||kaiwu.xyz^
@@ -2774,6 +2783,7 @@
 ||matvey.dns.vladpro.ru^
 ||max.rethinkdns.com^
 ||maxfong.cc^
+||mb3admin.uno^
 ||mc-sft.cn^
 ||mci01.dnscry.pt^
 ||mcttechs.com^
@@ -2797,6 +2807,7 @@
 ||miniapp.global^
 ||minilla.store^
 ||mita-is.so-gorgeo.us.kg^
+||mk.skynetinternet.com.br^
 ||mkvvpssrv12.freemyip.com^
 ||mnrv.trade^
 ||mo0on15.com^
@@ -2884,6 +2895,7 @@
 ||nl-dro-w-p-1.nashkan.net^
 ||nl.adg.ghostzone.wtf^
 ||nl.dns.privex.io^
+||nl.dns.shx.su^
 ||nl.rslvr.eu^
 ||nlhfd1.mask.apple-dns.net^
 ||nnss.ppleg.icu^
@@ -3147,6 +3159,7 @@
 ||qqmcfw.tech^
 ||qual.cuprum.ru^
 ||quangdo92.dynu.net^
+||quanmeme.duckdns.org^
 ||quantumpulse.dev^
 ||query.hdns.io^
 ||query.mobyds.com^
@@ -3262,6 +3275,7 @@
 ||sa01.dns4me.net^
 ||sabeendns.duckdns.org^
 ||sacarino.es^
+||safe.dns.sainternet.xyz^
 ||safe.dns.yandex.ru^
 ||safe.dot.dns.yandex.net^
 ||safe.kswro.web.id^
@@ -3511,6 +3525,7 @@
 ||uncensored.ny1.dns.nixnet.xyz^
 ||uncensoreddns.org^
 ||unfiltered.adguard-dns.com^
+||unfiltered.dns.sainternet.xyz^
 ||unicast.censurfridns.dk^
 ||unicast.censurfridns.nu^
 ||unicast.uncensoreddns.dk^
@@ -3713,6 +3728,7 @@
 ||www.elshad-adgh-dns.ru^
 ||www.fanscloud.net^
 ||www.fuangkhon.com^
+||www.gggzs.com^
 ||www.ggrbb.xyz^
 ||www.goldstarbag.com^
 ||www.golegana.de^
