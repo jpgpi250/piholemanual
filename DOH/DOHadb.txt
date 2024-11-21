@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2024-11-19 03:52:56 (UTC)
+! Last updated: 2024-11-20 03:12:25 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -1812,7 +1812,6 @@
 ||dns1.pl.newpangea.de^
 ||dns1.rhscz.eu^
 ||dns1.ryan-palmer.com^
-||dns1.ryanpalmer.com^
 ||dns1.saferbfc.org^
 ||dns1.sarakas.net^
 ||dns1.schooldns.nl^
