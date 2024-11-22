@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2024-11-20 03:12:25 (UTC)
+! Last updated: 2024-11-21 04:11:14 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -189,6 +189,7 @@
 ||adguard.bonsirven.eu^
 ||adguard.boykevanvugt.nl^
 ||adguard.camn.uk^
+||adguard.cdn.sx^
 ||adguard.cedoman.com^
 ||adguard.cell.co.id^
 ||adguard.chancecallahan.net^
@@ -210,6 +211,7 @@
 ||adguard.dessoi.cloud^
 ||adguard.dientutronghuong.com^
 ||adguard.discounthost.co.uk^
+||adguard.drahonn.pro^
 ||adguard.dsns.cloud^
 ||adguard.dtness.com^
 ||adguard.easez.net^
@@ -474,9 +476,11 @@
 ||alon93rus.ru^
 ||alpha.cixy.xyz^
 ||am.blgciottd.online^
+||ame.drahonn.pro^
 ||amigo.hr.i81.ru^
 ||amigo.vd.i81.ru^
 ||amigo.vpn.i81.ru^
+||amp.drahonn.pro^
 ||ams.core.access.zznet.fun^
 ||ams01.dnscry.pt^
 ||ams02.dnscry.pt^
@@ -753,6 +757,7 @@
 ||dash.flylcc.cc^
 ||dash.roades.org^
 ||daverotaquio.net^
+||dcbot.drahonn.pro^
 ||ddd.loukky.com^
 ||ddd2.loukky.com^
 ||ddns.ddnsddns.online^
@@ -899,6 +904,7 @@
 ||dns.alloxr.info^
 ||dns.almir1904.eu^
 ||dns.alvosec.com^
+||dns.alwynstudio.com.au^
 ||dns.amigo-mgn.ru^
 ||dns.andrewnw.xyz^
 ||dns.andreykiv.com^
@@ -2210,7 +2216,9 @@
 ||dove485.dns-dynamic.net^
 ||dr-adguard.de^
 ||dr.jp.sslbb.win^
+||drahonn.pro^
 ||drandrade21.freeddns.org^
+||drs.rustsword.com^
 ||ds1.fredic.us^
 ||dstruis.nl^
 ||dtw01.dnscry.pt^
@@ -2377,6 +2385,7 @@
 ||gmf-dns.ddns.net^
 ||gmf2.ddns.net^
 ||gn-z11.franscois.co.za^
+||gnode.drahonn.pro^
 ||go.icoding168.xyz^
 ||goga7777777.bissnes.org^
 ||goldstarbag.com^
@@ -2384,6 +2393,7 @@
 ||google-public-dns-b.google.com^
 ||goose.buckyfan.net^
 ||gosuntrip.com^
+||gpanel.drahonn.pro^
 ||graveofhope.ru^
 ||greatideasforlife.lol^
 ||green2.jnraptor.net^
@@ -2438,6 +2448,7 @@
 ||hk-hkg.doh.sb^
 ||hk-nnss.ppleg.icu^
 ||hk.559299366.xyz^
+||hk.conana.info^
 ||hk.end.pub^
 ||hk.janebooom.com^
 ||hk.jiusi.one^
@@ -2672,6 +2683,7 @@
 ||lajc.sytes.net^
 ||lamdtl.giize.com^
 ||lanre.duckdns.org^
+||lanyard.drahonn.pro^
 ||laptop001.greppie.nl^
 ||larkin.wang^
 ||las-vegas.privacy-dns.pw^
@@ -2760,6 +2772,7 @@
 ||maikel.greppie.nl^
 ||mail.andrewnw.xyz^
 ||mail.data.haus^
+||mail.drahonn.pro^
 ||mail.pragmasec.nl^
 ||mail.vik.ro^
 ||mailer.amlegion.org^
@@ -2786,6 +2799,7 @@
 ||maxfong.cc^
 ||mb3admin.uno^
 ||mc-sft.cn^
+||mc.drahonn.pro^
 ||mci01.dnscry.pt^
 ||mcttechs.com^
 ||mecca-is.so-gorgeo.us.kg^
@@ -2795,7 +2809,6 @@
 ||mfimail.eu^
 ||mia.dns4sec.com^
 ||mia01.dnscry.pt^
-||michelo.line.pm^
 ||mickedi.isgood.host^
 ||micro.alloxr.info^
 ||mijoregner.de^
@@ -2826,6 +2839,7 @@
 ||muli.stusta.mhn.de^
 ||multi.dns.marbledfennec.net^
 ||muppy.pnamae.com^
+||musicbot.drahonn.pro^
 ||muxyuji.ru^
 ||mx1.laoxiao789.com^
 ||myatris.sbs^
@@ -3034,6 +3048,7 @@
 ||orpi.privado.ovh^
 ||ortudns.com^
 ||osefcorp.duckdns.org^
+||othernj.drahonn.pro^
 ||ott01.dnscry.pt^
 ||outdoor.v6.army^
 ||outie.8ws.net^
@@ -3092,6 +3107,7 @@
 ||pl-waw-w-p-2.nashkan.net^
 ||plex.roades.org^
 ||plex.skin57.de^
+||plichaa12.ddns.net^
 ||plushub.pro^
 ||pluton.plan9-dns.com^
 ||pluton.plan9dns.com^
@@ -3371,6 +3387,7 @@
 ||sin2.edge.access.zznet.fun^
 ||singy.smartq.dev^
 ||sink.nolo.ltd^
+||sinusbot.drahonn.pro^
 ||sitdns.com^
 ||sitha-is.so-gorgeo.us.kg^
 ||sjc01.dnscry.pt^
@@ -3398,6 +3415,7 @@
 ||spacedns.org^
 ||speeddns.top^
 ||speedtest.skynetinternet.com.br^
+||spotifyobs.drahonn.pro^
 ||spyrodragon76.fleuryk.ovh^
 ||sq.trin.icu^
 ||squidmall.vip^
@@ -3412,6 +3430,7 @@
 ||statistics.larryvpn.com^
 ||steering.nextdns.io^
 ||sto01.dnscry.pt^
+||sto02.dnscry.pt^
 ||strangerandomdomain1.space^
 ||stratus.bugz.fr^
 ||sukidayo.eu.org^
@@ -3494,6 +3513,7 @@
 ||trr.dns.nextdns.io^
 ||truta.org^
 ||trytackle.ddns.net^
+||ts.drahonn.pro^
 ||tsm01.dnscry.pt^
 ||ttag.dns.nomu.pw^
 ||tuandns.duckdns.org^
@@ -3607,6 +3627,8 @@
 ||vd.i81.ru^
 ||vdsn-nl-2.azatmutq.com^
 ||venum.space^
+||vid.drahonn.pro^
+||video.drahonn.pro^
 ||vie01.dnscry.pt^
 ||vik-ios.adguard.vik.ro^
 ||vik.ro^
@@ -3648,6 +3670,7 @@
 ||vpn.technicule.info^
 ||vpn.vosjes.cloud^
 ||vpn0109.voodonline.fr^
+||vpn12856.drahonn.pro^
 ||vpndns.ru^
 ||vpnhellings.nl^
 ||vps-amgr.duckdns.org^
@@ -3682,6 +3705,7 @@
 ||wazuh.arashi.solutions^
 ||wdns.233py.com^
 ||web-rated.ie^
+||webmail.drahonn.pro^
 ||webmeel.pragmasec.nl^
 ||webteufel-it.solutions^
 ||wg-aghome.freemyip.com^
@@ -3722,6 +3746,7 @@
 ||www.dnsadguard.co.uk^
 ||www.dnsforge.de^
 ||www.doh.xyz^
+||www.drahonn.pro^
 ||www.dstruis.nl^
 ||www.dupatruwi22.fun^
 ||www.dxym.site^
@@ -3785,6 +3810,7 @@
 ||wyx.cloud^
 ||x-busy.ru^
 ||x-o-x.duckdns.org^
+||x-panel.drahonn.pro^
 ||x.laoban.fun^
 ||x.ns1net.com^
 ||x.res.wang^
