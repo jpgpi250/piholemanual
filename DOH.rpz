@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2411230226 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2411240249 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2024-11-23 02:26:47 (UTC)
+; Last updated: 2024-11-24 02:49:08 (UTC)
 ;
 ; See https://jpgpi250.github.io/piholemanual/doc/Unbound%20response%20policy%20zones.pdf
 ; Report issues at https://github.com/jpgpi250/piholemanual/issues
@@ -59,6 +59,7 @@ $TTL 30
 51576162.ru CNAME .
 5g.o0o.re CNAME .
 6301s.dangkiem.com CNAME .
+75747123.xyz CNAME .
 8888.google CNAME .
 89dahia.com CNAME .
 9132706292.cloudns.be CNAME .
@@ -701,6 +702,7 @@ cloudbasesolutions.online CNAME .
 cloudbenders.fun CNAME .
 cloudflare-dns.com CNAME .
 cloudflare-gateway.com CNAME .
+cloudflaredns.com CNAME .
 cloudflareresolve.com CNAME .
 cloudns.bosco.ovh CNAME .
 cloudsrv.charitosnet.de CNAME .
@@ -2712,6 +2714,7 @@ lewsha.lol CNAME .
 lfbn-gre-1-319-7.w90-112.abo.wanadoo.fr CNAME .
 libye.in CNAME .
 life.flylcc.cc CNAME .
+lifeisa.live CNAME .
 lilibox.freeboxos.fr CNAME .
 lim01.dnscry.pt CNAME .
 lim02.dnscry.pt CNAME .
@@ -3199,6 +3202,7 @@ rdns.faelix.net CNAME .
 rdu01.dnscry.pt CNAME .
 redsea.meetz.pw CNAME .
 remote.kleofass.lv CNAME .
+renardbleu.dev CNAME .
 res-acst1.absolight.net CNAME .
 res-acst2.absolight.net CNAME .
 res-acst3.absolight.net CNAME .
