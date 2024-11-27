@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2024-11-25 03:23:19 (UTC)
+! Last updated: 2024-11-26 03:15:49 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -1887,6 +1887,7 @@
 ||dnscache0.ns71.net^
 ||dnscdn.bai0012.com^
 ||dnscity.org^
+||dnscrypt.xyz^
 ||dnsdoh.art^
 ||dnsdoh.dnsforfamily.com^
 ||dnsdohnosafesearch.dnsforfamily.com^
@@ -3196,6 +3197,7 @@
 ||rdns.faelix.net^
 ||rdu01.dnscry.pt^
 ||redsea.meetz.pw^
+||regiopolis.cloud^
 ||remote.kleofass.lv^
 ||renardbleu.dev^
 ||res-acst1.absolight.net^
