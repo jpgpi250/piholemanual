@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2411270322 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2411280309 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2024-11-27 03:22:29 (UTC)
+; Last updated: 2024-11-28 03:09:42 (UTC)
 ;
 ; See https://jpgpi250.github.io/piholemanual/doc/Unbound%20response%20policy%20zones.pdf
 ; Report issues at https://github.com/jpgpi250/piholemanual/issues
@@ -702,6 +702,7 @@ cloudbasesolutions.online CNAME .
 cloudbenders.fun CNAME .
 cloudflare-dns.com CNAME .
 cloudflare-gateway.com CNAME .
+cloudflaredns.com CNAME .
 cloudflareresolve.com CNAME .
 cloudns.bosco.ovh CNAME .
 cloudsrv.charitosnet.de CNAME .
@@ -750,6 +751,7 @@ d2.vps.mtsdns.ru CNAME .
 d3.vps.mtsdns.ru CNAME .
 d3vy.ru CNAME .
 d4.vps.mtsdns.ru CNAME .
+da-91614-tr.xyz CNAME .
 daemonhunt.no-ip.org CNAME .
 dahamnw.at CNAME .
 dandelionsprout.asuscomm.com CNAME .
@@ -1397,6 +1399,7 @@ dns.mijoregner.de CNAME .
 dns.mikeliu.org CNAME .
 dns.mikopono.nl CNAME .
 dns.mikrotikrumahan.my.id CNAME .
+dns.milkpie.one CNAME .
 dns.mipauns.com CNAME .
 dns.miyun1.com CNAME .
 dns.mmzs.xyz CNAME .
@@ -2633,10 +2636,12 @@ kawpad.southeastasia.cloudapp.azure.com CNAME .
 kayguard.se CNAME .
 kcolspacrm.ir CNAME .
 kdgnkjho4od8w40.americasnet.com.br CNAME .
+ke-03060-tr.xyz CNAME .
 keithchung.hopto.org CNAME .
 keithchunguat.hopto.org CNAME .
 kellerbier-home.com CNAME .
 kennethhuang.com CNAME .
+kf-49509-tr.xyz CNAME .
 khsan.com CNAME .
 kids.5ososea.com CNAME .
 kids.dns0.eu CNAME .
@@ -3269,6 +3274,7 @@ ro-buc-w-p-1.nashkan.net CNAME .
 roades.ddns.net CNAME .
 roades.org CNAME .
 robertfenyiner.ddns.net CNAME .
+rockwell.website CNAME .
 roma.vpn.geshido.ru CNAME .
 romania.privacy-dns.pw CNAME .
 rome.digitallink.be CNAME .
