@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2024-11-27 03:37:56 (UTC)
+! Last updated: 2024-11-28 03:25:14 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -698,6 +698,7 @@
 ||cloudbenders.fun^
 ||cloudflare-dns.com^
 ||cloudflare-gateway.com^
+||cloudflaredns.com^
 ||cloudflareresolve.com^
 ||cloudns.bosco.ovh^
 ||cloudsrv.charitosnet.de^
@@ -746,6 +747,7 @@
 ||d3.vps.mtsdns.ru^
 ||d3vy.ru^
 ||d4.vps.mtsdns.ru^
+||da-91614-tr.xyz^
 ||daemonhunt.no-ip.org^
 ||dahamnw.at^
 ||dandelionsprout.asuscomm.com^
@@ -1393,6 +1395,7 @@
 ||dns.mikeliu.org^
 ||dns.mikopono.nl^
 ||dns.mikrotikrumahan.my.id^
+||dns.milkpie.one^
 ||dns.mipauns.com^
 ||dns.miyun1.com^
 ||dns.mmzs.xyz^
@@ -2629,10 +2632,12 @@
 ||kayguard.se^
 ||kcolspacrm.ir^
 ||kdgnkjho4od8w40.americasnet.com.br^
+||ke-03060-tr.xyz^
 ||keithchung.hopto.org^
 ||keithchunguat.hopto.org^
 ||kellerbier-home.com^
 ||kennethhuang.com^
+||kf-49509-tr.xyz^
 ||khsan.com^
 ||kids.5ososea.com^
 ||kids.dns0.eu^
@@ -3265,6 +3270,7 @@
 ||roades.ddns.net^
 ||roades.org^
 ||robertfenyiner.ddns.net^
+||rockwell.website^
 ||roma.vpn.geshido.ru^
 ||romania.privacy-dns.pw^
 ||rome.digitallink.be^
