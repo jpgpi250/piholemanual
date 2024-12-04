@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2024-12-02 03:23:39 (UTC)
+! Last updated: 2024-12-03 03:37:27 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -319,6 +319,7 @@
 ||adguard.sparshbajaj.me^
 ||adguard.spyrisk.fr^
 ||adguard.sre.ovh^
+||adguard.sretribe.net^
 ||adguard.sscw.win^
 ||adguard.stealbit.com^
 ||adguard.stoian.top^
@@ -382,6 +383,7 @@
 ||adh.51st.top^
 ||adh.blogcuahieu.com^
 ||adh.fastpacefixit.info^
+||adh.olesgroup.com^
 ||adhome.2011101.xyz^
 ||adhome.chinghuat.com^
 ||adhome.maige.fun^
@@ -444,6 +446,7 @@
 ||agh.xinfeng16m.top^
 ||agh2.server.my.id^
 ||aghdns.com^
+||aghome.jcconnell.com^
 ||ah.wahsun.org^
 ||ahadns.net^
 ||ahcek.com^
@@ -594,6 +597,7 @@
 ||bld.sys-adm.in^
 ||blitz-setup.ahadns.com^
 ||blitz.ahadns.com^
+||blitzd.gotdns.ch^
 ||block.abstergo.it^
 ||block.coconut.id^
 ||blocker.thethorsens.org^
@@ -776,6 +780,7 @@
 ||deti.vps.mtsdns.ru^
 ||dev.gonnadive.com^
 ||deweerd.loseyourip.com^
+||dflexy.house.nom.br^
 ||dfw01.dnscry.pt^
 ||dfw02.dnscry.pt^
 ||dgca.myds.me^
@@ -1151,6 +1156,7 @@
 ||dns.grqu.de^
 ||dns.guard.io^
 ||dns.guardmydns.com^
+||dns.gussguss.ovh^
 ||dns.gutwe.in^
 ||dns.h0schi.cloud^
 ||dns.ha-dvin.pp.ua^
@@ -1439,6 +1445,7 @@
 ||dns.nullrecon.com^
 ||dns.numerus.com^
 ||dns.nzxti5.co.uk^
+||dns.oboor.cloud^
 ||dns.oceanprint.com.br^
 ||dns.ocedric.net^
 ||dns.octoworld.fr^
@@ -1534,6 +1541,7 @@
 ||dns.retakecs.com^
 ||dns.rhscz.eu^
 ||dns.rin.sh^
+||dns.rinux.win^
 ||dns.rjls.me^
 ||dns.roedel.cloud^
 ||dns.rogpurs.com^
@@ -1628,6 +1636,7 @@
 ||dns.t53.de^
 ||dns.taoday.top^
 ||dns.tapawan.ca^
+||dns.taskforce-labs.com^
 ||dns.taxiway.uk^
 ||dns.tb4.me^
 ||dns.tbnk.ca^
@@ -1800,7 +1809,6 @@
 ||dns1.thylacine.co.nz^
 ||dns1.timothy-dev.com^
 ||dns1.understandingcyber.co.uk^
-||dns1.us.newpangea.de^
 ||dns1.wyss.network^
 ||dns1.zettawize.xyz^
 ||dns10.quad9.net^
@@ -2090,6 +2098,7 @@
 ||doh.srv00.com^
 ||doh.suche.org^
 ||doh.sunoaki.net^
+||doh.sww.net.id^
 ||doh.syshero.org^
 ||doh.technochat.in^
 ||doh.thio.me^
@@ -2289,6 +2298,7 @@
 ||filya.vpn.i81.ru^
 ||findmethedns.info^
 ||firefox.dns.nextdns.io^
+||firelab.site^
 ||fjr01.dnscry.pt^
 ||flat.loisy.it^
 ||fly.io^
@@ -2593,6 +2603,7 @@
 ||keithchung.hopto.org^
 ||keithchunguat.hopto.org^
 ||kellerbier-home.com^
+||kendentil.org.uk^
 ||kennethhuang.com^
 ||kf-49509-tr.xyz^
 ||khsan.com^
@@ -2987,6 +2998,7 @@
 ||open-resolver1.unima.ac.id^
 ||open.dns0.eu^
 ||opencdn.jomodns.com^
+||openeasy.us^
 ||opennic.i2pd.xyz^
 ||opennic.tenta.io^
 ||opennic1.eth-services.de^
@@ -3036,6 +3048,7 @@
 ||ped01.dnscry.pt^
 ||per.adfilter.net^
 ||performance.gosami.xyz^
+||personal-proj-by-me.eu^
 ||pg.web-rated.ie^
 ||philqoo.com^
 ||phl01.dnscry.pt^
@@ -3525,6 +3538,7 @@
 ||us1.blissdns.net^
 ||us1.dns.lavate.ch^
 ||usa1.altcensored.com^
+||usascoot.com^
 ||usatl5.mask.apple-dns.net^
 ||usatwo.wuyouss.com^
 ||uschi7.mask.apple-dns.net^
@@ -3727,6 +3741,7 @@
 ||www.trovs.ru^
 ||www.unasw.eu^
 ||www.urology.wiki^
+||www.usascoot.com^
 ||www.vasiliysoldatkin.ru^
 ||www.vdsn-nl-2.azatmutq.com^
 ||www.vik.ro^
@@ -3736,6 +3751,7 @@
 ||www.wiqi.top^
 ||www.workcavestl.duckdns.org^
 ||www.wuyou.pw^
+||www.yujunwanwu.cn^
 ||www.zburger.top^
 ||wyx.cloud^
 ||x-busy.ru^
@@ -3776,6 +3792,7 @@
 ||ys.cloud-sekeng.com^
 ||ys4.de^
 ||yu-dns.art^
+||yujunwanwu.cn^
 ||yul01.dnscry.pt^
 ||yunyun.is.my.waifu.cz^
 ||yuripe.ccnt.fr^
