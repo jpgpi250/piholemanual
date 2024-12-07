@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2024-12-05 03:53:16 (UTC)
+! Last updated: 2024-12-06 04:25:08 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -96,6 +96,7 @@
 ||ad.visbran.fr^
 ||ad.wiqi.app^
 ||ad1.heronet.nl^
+||ad1guard.duckdns.org^
 ||ada.ns.cloudflare.com^
 ||ada.openbld.net^
 ||adampowell.pro^
@@ -458,6 +459,7 @@
 ||akl01.dnscry.pt^
 ||akylah.zapto.org^
 ||albertocognetti.com^
+||alfredku1.asuscomm.com^
 ||alidns.51top.info^
 ||alidns.cb1999.top^
 ||alidns.com^
@@ -687,6 +689,7 @@
 ||cloudbenders.fun^
 ||cloudflare-dns.com^
 ||cloudflare-gateway.com^
+||cloudflaredns.com^
 ||cloudflareresolve.com^
 ||cloudns.bosco.ovh^
 ||cloudsrv.charitosnet.de^
@@ -835,6 +838,7 @@
 ||dns.0ooo.icu^
 ||dns.0rz.ing^
 ||dns.0x55.net^
+||dns.136852.xyz^
 ||dns.13evl.com^
 ||dns.1xtrm.com^
 ||dns.2.bsh4.com^
@@ -882,6 +886,7 @@
 ||dns.ai6.ir^
 ||dns.airmaxcloud.uk^
 ||dns.airns.net^
+||dns.ak3n.com^
 ||dns.alanpearce.eu^
 ||dns.albony.xyz^
 ||dns.alekberg.net^
@@ -1145,7 +1150,6 @@
 ||dns.girino.org^
 ||dns.glampool.cloud^
 ||dns.glf.wtf^
-||dns.glorydns.com^
 ||dns.glsoft.ai^
 ||dns.gnb09.id^
 ||dns.goldplate.org^
@@ -1156,6 +1160,7 @@
 ||dns.grqu.de^
 ||dns.guard.io^
 ||dns.guardmydns.com^
+||dns.gupthabrothers.in^
 ||dns.gussguss.ovh^
 ||dns.gutwe.in^
 ||dns.h0schi.cloud^
@@ -1178,6 +1183,7 @@
 ||dns.hnsfwlkj.com^
 ||dns.hoian.one^
 ||dns.home.daniil.it^
+||dns.homenet.saschagaspar.net^
 ||dns.hoody.com^
 ||dns.hopsken.com^
 ||dns.horcrux.vip^
@@ -1251,6 +1257,7 @@
 ||dns.jnprd.com^
 ||dns.joaofidelix.com.br^
 ||dns.joey01245.nl^
+||dns.johndave.me^
 ||dns.johnlez.com^
 ||dns.jsd.web.id^
 ||dns.jstockley.com^
@@ -1287,6 +1294,7 @@
 ||dns.khi.me^
 ||dns.kloiber.co.at^
 ||dns.koala.us.to^
+||dns.komo4ek.ru^
 ||dns.kongjak.com^
 ||dns.korzhyk.pp.ua^
 ||dns.kosan.moe^
@@ -1294,6 +1302,7 @@
 ||dns.kostydenis.me^
 ||dns.kpsn.dev^
 ||dns.kriswerry.nl^
+||dns.kritsa0.xyz^
 ||dns.krol.cloud^
 ||dns.krushkov.com^
 ||dns.kukal.cz^
@@ -1334,6 +1343,7 @@
 ||dns.ltse.cloud^
 ||dns.lucwestbomke.dev^
 ||dns.luismm2311.com^
+||dns.lululu.dev^
 ||dns.luma-medien.com^
 ||dns.lupine.solutions^
 ||dns.lvolland.fr^
@@ -1661,11 +1671,13 @@
 ||dns.timboeh.me^
 ||dns.timkevin.us^
 ||dns.tipsy.coffee^
+||dns.titov.cz^
 ||dns.tkhome.nl^
 ||dns.tls-data.de^
 ||dns.tngch.mydns.jp^
 ||dns.tolink.group^
 ||dns.tomitomix.net^
+||dns.tonyctalope.click^
 ||dns.tooizi.eu^
 ||dns.tracker.ink^
 ||dns.trifanov-online.ru^
@@ -1739,7 +1751,6 @@
 ||dns.xxxxxxxx.pp.ua^
 ||dns.xydustc.me^
 ||dns.xyz.ddnss.eu^
-||dns.yague.me^
 ||dns.yameenassotally.com^
 ||dns.yandex.ru^
 ||dns.yatima.tv^
@@ -2385,6 +2396,7 @@
 ||guard.beliefanx.me^
 ||guard.lumusimc.co.uk^
 ||guard.magic-pics.tk^
+||guard.meudispositivos.com.br^
 ||guard.pp.ua^
 ||guard.sntrk.ru^
 ||guard.telesterion.de^
@@ -2407,6 +2419,7 @@
 ||hard.dnsforge.de^
 ||hayadns.site^
 ||hdnsadguardhome.me^
+||heavenorhell.ru^
 ||hel01.dnscry.pt^
 ||helios.plan9-dns.com^
 ||helios.plan9dns.com^
@@ -2625,6 +2638,7 @@
 ||kocapb.ru^
 ||kokesh.se^
 ||kolobok2.duckdns.org^
+||komo4ek.ru^
 ||kopcm.ru^
 ||korzhov.dev^
 ||kostik-66.online^
@@ -3389,6 +3403,7 @@
 ||sto02.dnscry.pt^
 ||strangerandomdomain1.space^
 ||stratus.bugz.fr^
+||sudo.rm-rf.cloud^
 ||sukidayo.eu.org^
 ||sundalandia.pp.ua^
 ||sunnygyl.com^
@@ -3416,6 +3431,7 @@
 ||tartanbahn.eu.org^
 ||tbs01.dnscry.pt^
 ||tecdrive.site^
+||tech-vnet.com^
 ||tekno.at^
 ||telex.app^
 ||terminalpower.top^
@@ -3714,6 +3730,7 @@
 ||www.khsan.com^
 ||www.kigurumi.space^
 ||www.kokesh.se^
+||www.komo4ek.ru^
 ||www.kondrcloud.ru^
 ||www.kunagi.pro^
 ||www.lboxtv.top^
@@ -3813,6 +3830,7 @@
 ||zetland.rm-ni.uk^
 ||zeusvps.cloudns.nz^
 ||zhengkaiyun.top^
+||zneginnl.website^
 ||zoopark-vpn.ddns.net^
 ||zougloub.eu^
 ||zrh1-ns01.monzoon.net^
