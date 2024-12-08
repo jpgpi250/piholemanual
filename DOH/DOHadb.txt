@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2024-12-06 04:25:08 (UTC)
+! Last updated: 2024-12-07 03:30:40 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -121,6 +121,7 @@
 ||addns.clubbase.club^
 ||addns.jpr.space^
 ||addns1.m-it.ro^
+||aden.my^
 ||adf-114.neta.otrofda.nl^
 ||adf-115.neta.otrofda.nl^
 ||adfight.ru^
@@ -144,6 +145,7 @@
 ||adg.rizalagustian.xyz^
 ||adg.rokh.biz^
 ||adg.rueiliu.space^
+||adg.spacework.com.mx^
 ||adg.tshost.no^
 ||adg5yvi.ngatngay.net^
 ||adgaurd.lingmont.net^
@@ -169,6 +171,7 @@
 ||adguard-vn1.cloudmini.net^
 ||adguard.abd.ong^
 ||adguard.acrobyte.org^
+||adguard.adrianofrongillo.ovh^
 ||adguard.almanasports.com^
 ||adguard.alu.dog^
 ||adguard.ambiya.net^
@@ -474,6 +477,7 @@
 ||alpha.cixy.xyz^
 ||am.blgciottd.online^
 ||ame.drahonn.pro^
+||amgr.asuscomm.com^
 ||amigo.hr.i81.ru^
 ||amigo.vd.i81.ru^
 ||amigo.vpn.i81.ru^
@@ -689,7 +693,6 @@
 ||cloudbenders.fun^
 ||cloudflare-dns.com^
 ||cloudflare-gateway.com^
-||cloudflaredns.com^
 ||cloudflareresolve.com^
 ||cloudns.bosco.ovh^
 ||cloudsrv.charitosnet.de^
@@ -709,6 +712,7 @@
 ||craft.vps.pw^
 ||crd.circl.lu^
 ||cristianocosta.me^
+||crusnik80.co.za^
 ||crypto.sx^
 ||cryptroute.com^
 ||cube.neubsi.at^
@@ -782,6 +786,7 @@
 ||derekcastle.duckdns.org^
 ||deti.vps.mtsdns.ru^
 ||dev.gonnadive.com^
+||devopslearning.zapto.org^
 ||deweerd.loseyourip.com^
 ||dflexy.house.nom.br^
 ||dfw01.dnscry.pt^
@@ -1150,6 +1155,7 @@
 ||dns.girino.org^
 ||dns.glampool.cloud^
 ||dns.glf.wtf^
+||dns.glorydns.com^
 ||dns.glsoft.ai^
 ||dns.gnb09.id^
 ||dns.goldplate.org^
@@ -1522,6 +1528,7 @@
 ||dns.pumplex.com^
 ||dns.qdevs.tech^
 ||dns.qkc.fr^
+||dns.qpt.one^
 ||dns.qrtz.club^
 ||dns.quad9.net^
 ||dns.quantumpulse.dev^
@@ -1549,6 +1556,7 @@
 ||dns.req1.fr^
 ||dns.resoft.org^
 ||dns.retakecs.com^
+||dns.rgnv.dev^
 ||dns.rhscz.eu^
 ||dns.rin.sh^
 ||dns.rinux.win^
@@ -1761,6 +1769,7 @@
 ||dns.yu.dev^
 ||dns.yuanmu.site^
 ||dns.yuu-g.net^
+||dns.yuyz.net^
 ||dns.yyaan.com^
 ||dns.yyaan.top^
 ||dns.yyjeqhc.cn^
@@ -1854,6 +1863,7 @@
 ||dns2.nubecita.biz^
 ||dns2.porteii.com^
 ||dns2.prima-solusindo.com^
+||dns2.qpt.one^
 ||dns2.rhscz.eu^
 ||dns2.saferbfc.org^
 ||dns2.sarakas.net^
@@ -1861,6 +1871,7 @@
 ||dns2.thylacine.co.nz^
 ||dns2.vinc.me^
 ||dns2.vpcore.pro^
+||dns2.ytpom.ru^
 ||dns22.idsam.com^
 ||dns3.dns-ga.de^
 ||dns3.wistarip.com^
@@ -2162,6 +2173,7 @@
 ||dot-dns.zmy.cloud^
 ||dot-fi.blahdns.com^
 ||dot-jp.blahdns.com^
+||dot-public.exitstat.us^
 ||dot-sg.blahdns.com^
 ||dot.360.cn^
 ||dot.anir0y.in^
@@ -2438,6 +2450,7 @@
 ||hk.conana.info^
 ||hk.end.pub^
 ||hk.janebooom.com^
+||hk.jason666.top^
 ||hk.jiusi.one^
 ||hk.mangosysdns.com^
 ||hk.rslvr.eu^
@@ -2619,6 +2632,7 @@
 ||kendentil.org.uk^
 ||kennethhuang.com^
 ||kf-49509-tr.xyz^
+||khome.site^
 ||khsan.com^
 ||kids.5ososea.com^
 ||kids.dns0.eu^
@@ -3032,8 +3046,10 @@
 ||othernj.drahonn.pro^
 ||ott01.dnscry.pt^
 ||outdoor.v6.army^
+||outdoorchair.site^
 ||outie.8ws.net^
 ||outiejr.8ws.net^
+||ovhcloud.mehmetarikan.tech^
 ||p0.freedns.controld.com^
 ||p1.freedns.controld.com^
 ||p2.freedns.controld.com^
@@ -3082,6 +3098,7 @@
 ||pingbi.xyz^
 ||pioko.net^
 ||pips.kpsn.org^
+||pitchforkwaydns.duckdns.org^
 ||pl-waw-w-p-2.nashkan.net^
 ||plex.roades.org^
 ||plex.skin57.de^
@@ -3244,6 +3261,7 @@
 ||rootdns.anir0y.in^
 ||roucious.dyndns-remote.com^
 ||route.netshi.cn^
+||router.ahzol.com^
 ||router.non.profoxy.su^
 ||router.sapib.ca^
 ||rpz-public-resolver1.rrdns.pch.net^
@@ -3315,6 +3333,7 @@
 ||sel01.dnscry.pt^
 ||selsby.info^
 ||senpai.pp.ua^
+||seoul.101818.xyz^
 ||server.pragmasec.nl^
 ||server01.dr-adguard.de^
 ||server01.karl.one^
@@ -3547,6 +3566,7 @@
 ||us-saj-w-f-1.nashkan.net^
 ||us-saj-w-p-1.nashkan.net^
 ||us.doh.cloudveil.org^
+||us.libost.xyz^
 ||us.novali.date^
 ||us.rslvr.eu^
 ||us.sc92.cn^
@@ -3649,6 +3669,7 @@
 ||vps.poly-tank.jp^
 ||vps.robotboard.de^
 ||vps.techrich.net^
+||vps01.bbhc.xyz^
 ||vps2.jnraptor.net^
 ||vps4.scho.io^
 ||vpservice.cf^
