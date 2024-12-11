@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2024-12-09 03:46:06 (UTC)
+! Last updated: 2024-12-10 03:16:37 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -169,6 +169,7 @@
 ||adguard-us1.cloudmini.net^
 ||adguard-us2.cloudmini.net^
 ||adguard-vn1.cloudmini.net^
+||adguard.aa4.co.uk^
 ||adguard.abd.ong^
 ||adguard.acrobyte.org^
 ||adguard.adrianofrongillo.ovh^
