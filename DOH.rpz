@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2412110300 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2412120317 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2024-12-11 03:00:28 (UTC)
+; Last updated: 2024-12-12 03:17:47 (UTC)
 ;
 ; See https://jpgpi250.github.io/piholemanual/doc/Unbound%20response%20policy%20zones.pdf
 ; Report issues at https://github.com/jpgpi250/piholemanual/issues
@@ -173,7 +173,6 @@ adguard-server.pp.ua CNAME .
 adguard-us1.cloudmini.net CNAME .
 adguard-us2.cloudmini.net CNAME .
 adguard-vn1.cloudmini.net CNAME .
-adguard.aa4.co.uk CNAME .
 adguard.abd.ong CNAME .
 adguard.acrobyte.org CNAME .
 adguard.adrianofrongillo.ovh CNAME .
@@ -1672,6 +1671,7 @@ dns.technostriker.com CNAME .
 dns.teckhawk.be CNAME .
 dns.tefuir0829.cn CNAME .
 dns.telekom.de CNAME .
+dns.tesem.dog CNAME .
 dns.thd2020.cloud CNAME .
 dns.thebuckners.org CNAME .
 dns.thegodfatheriam.tech CNAME .
