@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2024-12-11 03:16:08 (UTC)
+! Last updated: 2024-12-12 03:33:34 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -169,7 +169,6 @@
 ||adguard-us1.cloudmini.net^
 ||adguard-us2.cloudmini.net^
 ||adguard-vn1.cloudmini.net^
-||adguard.aa4.co.uk^
 ||adguard.abd.ong^
 ||adguard.acrobyte.org^
 ||adguard.adrianofrongillo.ovh^
@@ -1668,6 +1667,7 @@
 ||dns.teckhawk.be^
 ||dns.tefuir0829.cn^
 ||dns.telekom.de^
+||dns.tesem.dog^
 ||dns.thd2020.cloud^
 ||dns.thebuckners.org^
 ||dns.thegodfatheriam.tech^
