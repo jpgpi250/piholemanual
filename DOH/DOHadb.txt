@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2024-12-13 03:32:35 (UTC)
+! Last updated: 2024-12-14 03:08:48 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -3391,6 +3391,7 @@
 ||skynetinternet.com.br^
 ||skyroom.online.cdn40.shahrammedia.com^
 ||slc01.dnscry.pt^
+||sm2.doh.pub^
 ||sm5q237c0.g666gle.me^
 ||smartphone-niels.pcbrdh8v6m.digitallink.be^
 ||smartphone-saskia.pcbrdh8v6m.digitallink.be^
