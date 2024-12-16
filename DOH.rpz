@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2412150325 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2412160348 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2024-12-15 03:25:05 (UTC)
+; Last updated: 2024-12-16 03:48:51 (UTC)
 ;
 ; See https://jpgpi250.github.io/piholemanual/doc/Unbound%20response%20policy%20zones.pdf
 ; Report issues at https://github.com/jpgpi250/piholemanual/issues
@@ -251,6 +251,7 @@ adguard.h4nt3r.com CNAME .
 adguard.haneulo.com CNAME .
 adguard.hartley.cloud CNAME .
 adguard.helpdesk38.ru CNAME .
+adguard.hjebbour.top CNAME .
 adguard.hofi.li CNAME .
 adguard.ihatemy.live CNAME .
 adguard.infrapod.nl CNAME .
@@ -265,6 +266,7 @@ adguard.johndave.me CNAME .
 adguard.josephyap.me CNAME .
 adguard.jpjb.net CNAME .
 adguard.k-likhachev.ru CNAME .
+adguard.kasbot.net CNAME .
 adguard.kiboko.it CNAME .
 adguard.kitakitsune.xyz CNAME .
 adguard.kngnet.de CNAME .
@@ -697,7 +699,6 @@ cloudbasesolutions.online CNAME .
 cloudbenders.fun CNAME .
 cloudflare-dns.com CNAME .
 cloudflare-gateway.com CNAME .
-cloudflaredns.com CNAME .
 cloudflareresolve.com CNAME .
 cloudns.bosco.ovh CNAME .
 cloudsrv.charitosnet.de CNAME .
@@ -973,6 +974,7 @@ dns.brionesserver.net CNAME .
 dns.brono.cloud CNAME .
 dns.burgas.pro CNAME .
 dns.busold.ws CNAME .
+dns.butterfly87.sbs CNAME .
 dns.bw.i81.ru CNAME .
 dns.c0ntroller.de CNAME .
 dns.cabbage.zone CNAME .
@@ -1044,6 +1046,7 @@ dns.daryllswer.net CNAME .
 dns.datenquark.de CNAME .
 dns.david888.com CNAME .
 dns.daw.dev CNAME .
+dns.de.futuredns.eu.org CNAME .
 dns.deadsec.net CNAME .
 dns.decky.eu CNAME .
 dns.decloudus.com CNAME .
@@ -1081,6 +1084,7 @@ dns.doubleangels.com CNAME .
 dns.downloadacar.today CNAME .
 dns.dragon0697.me CNAME .
 dns.dreamworker.idv.tw CNAME .
+dns.dremaxx.de CNAME .
 dns.drivearasaka.online CNAME .
 dns.drnarrow.com CNAME .
 dns.druta.me CNAME .
@@ -1680,6 +1684,7 @@ dns.thegoodsource.net CNAME .
 dns.theres.one CNAME .
 dns.therifleman.name CNAME .
 dns.thhbdd.eu.org CNAME .
+dns.thiz.top CNAME .
 dns.thore.cloud CNAME .
 dns.tick.ee CNAME .
 dns.tierradeayala.com CNAME .
@@ -2229,6 +2234,7 @@ dr-adguard.de CNAME .
 dr.jp.sslbb.win CNAME .
 drahonn.pro CNAME .
 drandrade21.freeddns.org CNAME .
+droyd.top CNAME .
 drs.rustsword.com CNAME .
 ds1.fredic.us CNAME .
 dstruis.nl CNAME .
@@ -2548,7 +2554,6 @@ intertop.link CNAME .
 invidious.arashi.solutions CNAME .
 ion.pm CNAME .
 ios.non.profoxy.su CNAME .
-iot-dns.com CNAME .
 iow-dns.bitdefender.net CNAME .
 iozoi.cn CNAME .
 ipoac.nl CNAME .
@@ -2829,6 +2834,7 @@ mk.skynetinternet.com.br CNAME .
 mkvvpssrv12.freemyip.com CNAME .
 mnrv.trade CNAME .
 mo0on15.com CNAME .
+moamao.shop CNAME .
 moise-et-maurice-gardent-la-maison.schneiderus.org CNAME .
 moph.go.th CNAME .
 morbitzer.de CNAME .
