@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2024-12-15 03:40:45 (UTC)
+! Last updated: 2024-12-16 04:04:34 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -247,6 +247,7 @@
 ||adguard.haneulo.com^
 ||adguard.hartley.cloud^
 ||adguard.helpdesk38.ru^
+||adguard.hjebbour.top^
 ||adguard.hofi.li^
 ||adguard.ihatemy.live^
 ||adguard.infrapod.nl^
@@ -261,6 +262,7 @@
 ||adguard.josephyap.me^
 ||adguard.jpjb.net^
 ||adguard.k-likhachev.ru^
+||adguard.kasbot.net^
 ||adguard.kiboko.it^
 ||adguard.kitakitsune.xyz^
 ||adguard.kngnet.de^
@@ -693,7 +695,6 @@
 ||cloudbenders.fun^
 ||cloudflare-dns.com^
 ||cloudflare-gateway.com^
-||cloudflaredns.com^
 ||cloudflareresolve.com^
 ||cloudns.bosco.ovh^
 ||cloudsrv.charitosnet.de^
@@ -969,6 +970,7 @@
 ||dns.brono.cloud^
 ||dns.burgas.pro^
 ||dns.busold.ws^
+||dns.butterfly87.sbs^
 ||dns.bw.i81.ru^
 ||dns.c0ntroller.de^
 ||dns.cabbage.zone^
@@ -1040,6 +1042,7 @@
 ||dns.datenquark.de^
 ||dns.david888.com^
 ||dns.daw.dev^
+||dns.de.futuredns.eu.org^
 ||dns.deadsec.net^
 ||dns.decky.eu^
 ||dns.decloudus.com^
@@ -1077,6 +1080,7 @@
 ||dns.downloadacar.today^
 ||dns.dragon0697.me^
 ||dns.dreamworker.idv.tw^
+||dns.dremaxx.de^
 ||dns.drivearasaka.online^
 ||dns.drnarrow.com^
 ||dns.druta.me^
@@ -1676,6 +1680,7 @@
 ||dns.theres.one^
 ||dns.therifleman.name^
 ||dns.thhbdd.eu.org^
+||dns.thiz.top^
 ||dns.thore.cloud^
 ||dns.tick.ee^
 ||dns.tierradeayala.com^
@@ -2225,6 +2230,7 @@
 ||dr.jp.sslbb.win^
 ||drahonn.pro^
 ||drandrade21.freeddns.org^
+||droyd.top^
 ||drs.rustsword.com^
 ||ds1.fredic.us^
 ||dstruis.nl^
@@ -2544,7 +2550,6 @@
 ||invidious.arashi.solutions^
 ||ion.pm^
 ||ios.non.profoxy.su^
-||iot-dns.com^
 ||iow-dns.bitdefender.net^
 ||iozoi.cn^
 ||ipoac.nl^
@@ -2825,6 +2830,7 @@
 ||mkvvpssrv12.freemyip.com^
 ||mnrv.trade^
 ||mo0on15.com^
+||moamao.shop^
 ||moise-et-maurice-gardent-la-maison.schneiderus.org^
 ||moph.go.th^
 ||morbitzer.de^
