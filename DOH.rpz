@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2412160348 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2412170316 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2024-12-16 03:48:51 (UTC)
+; Last updated: 2024-12-17 03:16:37 (UTC)
 ;
 ; See https://jpgpi250.github.io/piholemanual/doc/Unbound%20response%20policy%20zones.pdf
 ; Report issues at https://github.com/jpgpi250/piholemanual/issues
@@ -1717,6 +1717,7 @@ dns.unx.io CNAME .
 dns.uplenk.com CNAME .
 dns.us-ashburn-1.oraclecloud.com CNAME .
 dns.us-phoenix-1.oraclecloud.com CNAME .
+dns.us.futuredns.eu.org CNAME .
 dns.vaguthu.mv CNAME .
 dns.vaioswolke.xyz CNAME .
 dns.vancrafter.click CNAME .
