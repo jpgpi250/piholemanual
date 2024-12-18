@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2024-12-16 04:04:34 (UTC)
+! Last updated: 2024-12-17 03:32:24 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -1713,6 +1713,7 @@
 ||dns.uplenk.com^
 ||dns.us-ashburn-1.oraclecloud.com^
 ||dns.us-phoenix-1.oraclecloud.com^
+||dns.us.futuredns.eu.org^
 ||dns.vaguthu.mv^
 ||dns.vaioswolke.xyz^
 ||dns.vancrafter.click^
