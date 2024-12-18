@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2412170316 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2412180326 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2024-12-17 03:16:37 (UTC)
+; Last updated: 2024-12-18 03:26:49 (UTC)
 ;
 ; See https://jpgpi250.github.io/piholemanual/doc/Unbound%20response%20policy%20zones.pdf
 ; Report issues at https://github.com/jpgpi250/piholemanual/issues
@@ -699,6 +699,7 @@ cloudbasesolutions.online CNAME .
 cloudbenders.fun CNAME .
 cloudflare-dns.com CNAME .
 cloudflare-gateway.com CNAME .
+cloudflaredns.com CNAME .
 cloudflareresolve.com CNAME .
 cloudns.bosco.ovh CNAME .
 cloudsrv.charitosnet.de CNAME .
@@ -2570,6 +2571,7 @@ isolacje.homeip.net CNAME .
 ist01.dnscry.pt CNAME .
 it-works4u.com CNAME .
 it-works4u.nl CNAME .
+iterator.lazada.com CNAME .
 itlikehell.ru CNAME .
 itworks4u.nl CNAME .
 ivan.vps.mtsdns.ru CNAME .
@@ -3010,7 +3012,6 @@ nsc.torgues.net CNAME .
 nsec.arnor.org CNAME .
 nsown.com CNAME .
 nue01.dnscry.pt CNAME .
-nue2.moderateinfra.net CNAME .
 nvi-dns.bitdefender.net CNAME .
 ny.teradns.org CNAME .
 ny1.nixnet.xyz CNAME .
