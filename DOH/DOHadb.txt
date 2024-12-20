@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2024-12-18 03:42:32 (UTC)
+! Last updated: 2024-12-19 03:03:18 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -996,6 +996,7 @@
 ||dns.christian.moe^
 ||dns.chriswservers.com^
 ||dns.chromeina.top^
+||dns.chunghwamc.com^
 ||dns.circl.lu^
 ||dns.citrahost.com^
 ||dns.citystars.cn^
