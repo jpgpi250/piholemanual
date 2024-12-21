@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2412200727 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2412210246 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2024-12-20 07:27:34 (UTC)
+; Last updated: 2024-12-21 02:46:56 (UTC)
 ;
 ; See https://jpgpi250.github.io/piholemanual/doc/Unbound%20response%20policy%20zones.pdf
 ; Report issues at https://github.com/jpgpi250/piholemanual/issues
@@ -871,6 +871,7 @@ dns.58jdl.com CNAME .
 dns.5ive.net CNAME .
 dns.5ososea.com CNAME .
 dns.688447.xyz CNAME .
+dns.7sec.com.br CNAME .
 dns.7vpn.com CNAME .
 dns.853852.xyz CNAME .
 dns.886886886.xyz CNAME .
@@ -2795,6 +2796,7 @@ main.zhhz.cc CNAME .
 mainframe.dewed.de CNAME .
 makear.online CNAME .
 malanser.ru CNAME .
+man01.dnscry.pt CNAME .
 management.alexpollard.net CNAME .
 maqgie.xyz CNAME .
 mask-api.fe.apple-dns.net CNAME .
@@ -3012,6 +3014,7 @@ ns4.opennameserver.org CNAME .
 nsc.torgues.net CNAME .
 nsec.arnor.org CNAME .
 nsown.com CNAME .
+ntwrkh.pro CNAME .
 nue01.dnscry.pt CNAME .
 nvi-dns.bitdefender.net CNAME .
 ny.teradns.org CNAME .
@@ -3092,6 +3095,7 @@ pds.cfornas.casa CNAME .
 pdx01.dnscry.pt CNAME .
 pebdbvi58gbc.absq.ch CNAME .
 ped01.dnscry.pt CNAME .
+pepetio.xyz CNAME .
 per.adfilter.net CNAME .
 performance.gosami.xyz CNAME .
 personal-proj-by-me.eu CNAME .
@@ -3841,6 +3845,7 @@ ychen.ga CNAME .
 ychen.gq CNAME .
 yeralin.net CNAME .
 yh.themcgoughs.org CNAME .
+yhz01.dnscry.pt CNAME .
 ymjx.shimmerl.top CNAME .
 ymq01.dnscry.pt CNAME .
 your-dns.run CNAME .
@@ -3855,6 +3860,7 @@ yuripe.ccnt.fr CNAME .
 yussy-is.so-gorgeo.us.kg CNAME .
 yuvelirtut.website CNAME .
 yvr01.dnscry.pt CNAME .
+yyc01.dnscry.pt CNAME .
 yyz01.dnscry.pt CNAME .
 z.vipit.one CNAME .
 zabolotskikh.dev CNAME .
@@ -3868,6 +3874,7 @@ zero.dns0.eu CNAME .
 zetland.rm-ni.uk CNAME .
 zeusvps.cloudns.nz CNAME .
 zhengkaiyun.top CNAME .
+znegindeh2.top CNAME .
 zneginnl.website CNAME .
 zoopark-vpn.ddns.net CNAME .
 zougloub.eu CNAME .
