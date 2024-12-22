@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2024-12-20 03:22:40 (UTC)
+! Last updated: 2024-12-21 03:02:47 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -867,6 +867,7 @@
 ||dns.5ive.net^
 ||dns.5ososea.com^
 ||dns.688447.xyz^
+||dns.7sec.com.br^
 ||dns.7vpn.com^
 ||dns.853852.xyz^
 ||dns.886886886.xyz^
@@ -2791,6 +2792,7 @@
 ||mainframe.dewed.de^
 ||makear.online^
 ||malanser.ru^
+||man01.dnscry.pt^
 ||management.alexpollard.net^
 ||maqgie.xyz^
 ||mask-api.fe.apple-dns.net^
@@ -3008,6 +3010,7 @@
 ||nsc.torgues.net^
 ||nsec.arnor.org^
 ||nsown.com^
+||ntwrkh.pro^
 ||nue01.dnscry.pt^
 ||nvi-dns.bitdefender.net^
 ||ny.teradns.org^
@@ -3088,6 +3091,7 @@
 ||pdx01.dnscry.pt^
 ||pebdbvi58gbc.absq.ch^
 ||ped01.dnscry.pt^
+||pepetio.xyz^
 ||per.adfilter.net^
 ||performance.gosami.xyz^
 ||personal-proj-by-me.eu^
@@ -3837,6 +3841,7 @@
 ||ychen.gq^
 ||yeralin.net^
 ||yh.themcgoughs.org^
+||yhz01.dnscry.pt^
 ||ymjx.shimmerl.top^
 ||ymq01.dnscry.pt^
 ||your-dns.run^
@@ -3851,6 +3856,7 @@
 ||yussy-is.so-gorgeo.us.kg^
 ||yuvelirtut.website^
 ||yvr01.dnscry.pt^
+||yyc01.dnscry.pt^
 ||yyz01.dnscry.pt^
 ||z.vipit.one^
 ||zabolotskikh.dev^
@@ -3864,6 +3870,7 @@
 ||zetland.rm-ni.uk^
 ||zeusvps.cloudns.nz^
 ||zhengkaiyun.top^
+||znegindeh2.top^
 ||zneginnl.website^
 ||zoopark-vpn.ddns.net^
 ||zougloub.eu^
