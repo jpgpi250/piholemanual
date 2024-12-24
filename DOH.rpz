@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2412230303 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2412240258 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2024-12-23 03:03:09 (UTC)
+; Last updated: 2024-12-24 02:58:21 (UTC)
 ;
 ; See https://jpgpi250.github.io/piholemanual/doc/Unbound%20response%20policy%20zones.pdf
 ; Report issues at https://github.com/jpgpi250/piholemanual/issues
@@ -684,7 +684,6 @@ cloud.tezoi.com CNAME .
 cloudbenders.fun CNAME .
 cloudflare-dns.com CNAME .
 cloudflare-gateway.com CNAME .
-cloudflaredns.com CNAME .
 cloudflareresolve.com CNAME .
 cloudns.bosco.ovh CNAME .
 cloudsrv.charitosnet.de CNAME .
@@ -850,17 +849,20 @@ dns.3am.la CNAME .
 dns.3dcapitaltrust.net CNAME .
 dns.3wv.de CNAME .
 dns.4-the.win CNAME .
+dns.444723.xyz CNAME .
 dns.52306.org CNAME .
 dns.56k.uy CNAME .
 dns.58jdl.com CNAME .
 dns.5ive.net CNAME .
 dns.5ososea.com CNAME .
 dns.688447.xyz CNAME .
+dns.775467.xyz CNAME .
 dns.7sec.com.br CNAME .
 dns.7vpn.com CNAME .
 dns.853852.xyz CNAME .
 dns.886886886.xyz CNAME .
 dns.888654.xyz CNAME .
+dns.8887744.xyz CNAME .
 dns.8tvsuper.eu.org CNAME .
 dns.9999.sg CNAME .
 dns.a47.me CNAME .
@@ -1952,6 +1954,7 @@ doh.2kil.com CNAME .
 doh.30x.me CNAME .
 doh.360.cn CNAME .
 doh.42l.fr CNAME .
+doh.774445.xyz CNAME .
 doh.aaaab3n.moe CNAME .
 doh.abmb.win CNAME .
 doh.abraservice.xyz CNAME .
@@ -1968,6 +1971,7 @@ doh.asagiri.moe CNAME .
 doh.asia.dnswarden.com CNAME .
 doh.au.ahadns.net CNAME .
 doh.azoris.ovh CNAME .
+doh.battle.christmas CNAME .
 doh.beauty CNAME .
 doh.best CNAME .
 doh.blahdns.com CNAME .
