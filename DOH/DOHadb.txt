@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2024-12-22 04:39:29 (UTC)
+! Last updated: 2024-12-23 03:18:57 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -1304,7 +1304,6 @@
 ||dns.krol.cloud^
 ||dns.krushkov.com^
 ||dns.kukal.cz^
-||dns.kumoumi.net^
 ||dns.kusoneko.moe^
 ||dns.kuuhaku.moe^
 ||dns.kxy.ink^
@@ -2693,7 +2692,6 @@
 ||life.flylcc.cc^
 ||lifeisa.live^
 ||lilibox.freeboxos.fr^
-||lim01.dnscry.pt^
 ||lim02.dnscry.pt^
 ||lindung.pp.ua^
 ||link.altapo.ru^
@@ -3281,7 +3279,6 @@
 ||scottdylewski.com^
 ||sdfasluqoiwuezcvcv.tech^
 ||sdns.233py.com^
-||sdns22.gkonuralp.com^
 ||sdvizhkov.ru^
 ||sea01.dnscry.pt^
 ||seanyan.ddns.net^
