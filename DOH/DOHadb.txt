@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2024-12-23 03:18:57 (UTC)
+! Last updated: 2024-12-24 03:13:43 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -680,7 +680,6 @@
 ||cloudbenders.fun^
 ||cloudflare-dns.com^
 ||cloudflare-gateway.com^
-||cloudflaredns.com^
 ||cloudflareresolve.com^
 ||cloudns.bosco.ovh^
 ||cloudsrv.charitosnet.de^
@@ -846,17 +845,20 @@
 ||dns.3dcapitaltrust.net^
 ||dns.3wv.de^
 ||dns.4-the.win^
+||dns.444723.xyz^
 ||dns.52306.org^
 ||dns.56k.uy^
 ||dns.58jdl.com^
 ||dns.5ive.net^
 ||dns.5ososea.com^
 ||dns.688447.xyz^
+||dns.775467.xyz^
 ||dns.7sec.com.br^
 ||dns.7vpn.com^
 ||dns.853852.xyz^
 ||dns.886886886.xyz^
 ||dns.888654.xyz^
+||dns.8887744.xyz^
 ||dns.8tvsuper.eu.org^
 ||dns.9999.sg^
 ||dns.a47.me^
@@ -1948,6 +1950,7 @@
 ||doh.30x.me^
 ||doh.360.cn^
 ||doh.42l.fr^
+||doh.774445.xyz^
 ||doh.aaaab3n.moe^
 ||doh.abmb.win^
 ||doh.abraservice.xyz^
@@ -1964,6 +1967,7 @@
 ||doh.asia.dnswarden.com^
 ||doh.au.ahadns.net^
 ||doh.azoris.ovh^
+||doh.battle.christmas^
 ||doh.beauty^
 ||doh.best^
 ||doh.blahdns.com^
