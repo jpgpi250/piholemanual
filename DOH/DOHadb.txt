@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2024-12-27 03:13:17 (UTC)
+! Last updated: 2024-12-28 03:45:37 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -56,7 +56,6 @@
 ||51576162.ru^
 ||5g.o0o.re^
 ||6301s.dangkiem.com^
-||75747123.xyz^
 ||8888.google^
 ||9132706292.cloudns.be^
 ||959818.xyz^
@@ -103,12 +102,14 @@
 ||adb-home.xaoimoon.fr^
 ||adb-wan.xaoimoon.fr^
 ||adb.aadityakushwaha.com^
+||adb.aiec.vn^
 ||adb.timnichollsphotography.com^
 ||adbl-tslagter.nl^
 ||adblock-dot.dnswarden.com^
 ||adblock.any.dns.nixnet.xyz^
 ||adblock.dns.mullvad.net^
 ||adblock.doh.mullvad.net^
+||adblock.freeddns.org^
 ||adblock.indianets.net^
 ||adblock.krctech.dev^
 ||adblock.leenit.kr^
@@ -129,6 +130,7 @@
 ||adfreedns.top^
 ||adg-nl.h4nt3r.com^
 ||adg-swe.h4nt3r.com^
+||adg-wd.de^
 ||adg.acrobyte.org^
 ||adg.bluenight.me^
 ||adg.datamatter.co.za^
@@ -363,6 +365,7 @@
 ||adguard1.njy.jsanagustin.net^
 ||adguard1.unima.ac.id^
 ||adguard2.546413.xyz^
+||adguard2.ayrespace.cc^
 ||adguard2.bonis.de^
 ||adguard2.cloudmini.net^
 ||adguard2.dnsovertor.cc^
@@ -550,6 +553,7 @@
 ||ausyd2.mask.apple-dns.net^
 ||aviemore.dns.walshnet.co.uk^
 ||awan.ftp.sh^
+||awcdn.cn^
 ||aws.razor1911.xyz^
 ||axaxa.fun^
 ||axistechsupport.com^
@@ -828,7 +832,6 @@
 ||dns.010812.xyz^
 ||dns.080590.xyz^
 ||dns.0ooo.icu^
-||dns.0rz.ing^
 ||dns.0x55.net^
 ||dns.136852.xyz^
 ||dns.13evl.com^
@@ -852,6 +855,7 @@
 ||dns.5ive.net^
 ||dns.5ososea.com^
 ||dns.688447.xyz^
+||dns.73zls.com^
 ||dns.775467.xyz^
 ||dns.7sec.com.br^
 ||dns.7vpn.com^
@@ -915,7 +919,6 @@
 ||dns.asterimoon.com^
 ||dns.asysec.com^
 ||dns.atsilva.link^
-||dns.auapi.fun^
 ||dns.audet.cloud^
 ||dns.auffray.org^
 ||dns.axto.me^
@@ -1501,7 +1504,6 @@
 ||dns.pizzari.me^
 ||dns.ple91.uk^
 ||dns.pmxu.link^
-||dns.pnh.my.id^
 ||dns.pointless.chat^
 ||dns.polatarasan.com.tr^
 ||dns.porteii.com^
@@ -1661,6 +1663,7 @@
 ||dns.thegoodsource.net^
 ||dns.theres.one^
 ||dns.therifleman.name^
+||dns.thezudrive.xyz^
 ||dns.thhbdd.eu.org^
 ||dns.thiz.top^
 ||dns.thore.cloud^
@@ -1715,6 +1718,7 @@
 ||dns.vmath.my.id^
 ||dns.vmisch.tech^
 ||dns.vojtat.cz^
+||dns.volsap.ovh^
 ||dns.vpn.i81.ru^
 ||dns.vps.mtsdns.ru^
 ||dns.vps.pw^
@@ -2357,6 +2361,7 @@
 ||gbslo5.mask.apple-dns.net^
 ||gc.cyberbeta.cn^
 ||gclouddns.com^
+||gdns.end.pub^
 ||geg01.dnscry.pt^
 ||genscorp.es^
 ||geshido.vpn.geshido.ru^
@@ -2505,7 +2510,6 @@
 ||iana.tenta.io^
 ||ibksturm.synology.me^
 ||ibuki.cgnat.net^
-||id.terra.my.id^
 ||ie01.dns4me.net^
 ||iev01.dnscry.pt^
 ||igor.hr.i81.ru^
@@ -2518,7 +2522,6 @@
 ||imperio.top^
 ||in-blr.doh.sb^
 ||inadsware.ddns.net^
-||india.privacy-dns.pw^
 ||ines.zfn.uni-bremen.de^
 ||ingenmannsland.online^
 ||inpssh.online^
@@ -2680,7 +2683,6 @@
 ||layer1.jnraptor.net^
 ||lboxtv.top^
 ||le-mesle.fr^
-||lecker.pizza^
 ||leecurrylawfirm.com^
 ||legoagh.duckdns.org^
 ||lelux.fi^
@@ -3313,6 +3315,7 @@
 ||senpai.pp.ua^
 ||seoul.101818.xyz^
 ||server.pragmasec.nl^
+||server.thebluemeistergamer.de^
 ||server01.karl.one^
 ||server01.vboekel.nl^
 ||serverhk.rannj.top^
@@ -3409,10 +3412,8 @@
 ||surt.ovh^
 ||surve.dehb.ru^
 ||svg33.eu^
-||sweden.privacy-dns.pw^
 ||sweethome.in.eu.org^
 ||switch.ch^
-||switzerland.privacy-dns.pw^
 ||sx.bnds.link^
 ||syd.adfilter.net^
 ||syd.core.access.zznet.fun^
@@ -3523,7 +3524,6 @@
 ||unicast2.servers.censurfridns.dk^
 ||unifi.be2aja.my.id^
 ||unifi.carioka.com^
-||united-arab-emirates.privacy-dns.pw^
 ||unixfox.duckdns.org^
 ||unp.im^
 ||ur.hytec.org^
@@ -3597,6 +3597,7 @@
 ||virmamp33.sytes.net^
 ||vlad.dns.vladpro.ru^
 ||vladpro.ru^
+||vless-service.ufodns.com^
 ||vm.delfini.online^
 ||vm.mytm.cc^
 ||vm1.arashi.solutions^
