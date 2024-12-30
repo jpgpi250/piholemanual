@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2024-12-28 03:45:37 (UTC)
+! Last updated: 2024-12-29 03:53:33 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -568,6 +568,7 @@
 ||b.ns.dnslify.com^
 ||b.safe.ns.dnslify.com^
 ||bacer.msk.ru^
+||bakamh.news^
 ||barnabech.fr^
 ||barsipgpt.com^
 ||base.dns.mullvad.net^
