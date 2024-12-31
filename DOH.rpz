@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2412300412 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2412310328 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2024-12-30 04:12:18 (UTC)
+; Last updated: 2024-12-31 03:28:12 (UTC)
 ;
 ; See https://jpgpi250.github.io/piholemanual/doc/Unbound%20response%20policy%20zones.pdf
 ; Report issues at https://github.com/jpgpi250/piholemanual/issues
@@ -934,6 +934,7 @@ dns.ashleyjackson.net CNAME .
 dns.asterimoon.com CNAME .
 dns.asysec.com CNAME .
 dns.atsilva.link CNAME .
+dns.auapi.fun CNAME .
 dns.audet.cloud CNAME .
 dns.auffray.org CNAME .
 dns.axto.me CNAME .
