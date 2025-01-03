@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2501020344 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2501030322 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2025-01-02 03:44:00 (UTC)
+; Last updated: 2025-01-03 03:22:18 (UTC)
 ;
 ; See https://jpgpi250.github.io/piholemanual/doc/Unbound%20response%20policy%20zones.pdf
 ; Report issues at https://github.com/jpgpi250/piholemanual/issues
@@ -1506,7 +1506,6 @@ dns.odinpl.com CNAME .
 dns.odirf.de CNAME .
 dns.ofdoom.net CNAME .
 dns.oliviertv.co.za CNAME .
-dns.olpploiopkuyhiopsfrt.info CNAME .
 dns.onlyshadow.online CNAME .
 dns.onp.cloud CNAME .
 dns.opendns.com CNAME .
