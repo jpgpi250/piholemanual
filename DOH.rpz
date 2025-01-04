@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2501030322 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2501040301 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2025-01-03 03:22:18 (UTC)
+; Last updated: 2025-01-04 03:01:02 (UTC)
 ;
 ; See https://jpgpi250.github.io/piholemanual/doc/Unbound%20response%20policy%20zones.pdf
 ; Report issues at https://github.com/jpgpi250/piholemanual/issues
@@ -569,7 +569,6 @@ au01.dns4me.net CNAME .
 au02.dns4me.net CNAME .
 audio.dehb.ru CNAME .
 augne.dns.walshnet.co.uk CNAME .
-ausyd2.mask.apple-dns.net CNAME .
 aviemore.dns.walshnet.co.uk CNAME .
 awan.ftp.sh CNAME .
 awcdn.cn CNAME .
@@ -784,7 +783,6 @@ de.deghy.ir CNAME .
 de.dns.privex.io CNAME .
 de.teradns.org CNAME .
 de01.dns4me.net CNAME .
-deber3.mask.apple-dns.net CNAME .
 dedidl.com CNAME .
 deep-henchman-excuse.cfd CNAME .
 defendfrienddns.fyi CNAME .
@@ -2409,7 +2407,6 @@ gb-cov-w-p-1.nashkan.net CNAME .
 gb-lon-w-f-1.nashkan.net CNAME .
 gb-lon-w-p-1.nashkan.net CNAME .
 gb-lon-w-p-2.nashkan.net CNAME .
-gbslo5.mask.apple-dns.net CNAME .
 gc.cyberbeta.cn CNAME .
 gclouddns.com CNAME .
 gdns.end.pub CNAME .
@@ -2653,7 +2650,6 @@ jp2.ooroot.com CNAME .
 jpdns.cola16.app CNAME .
 jpdns.hker.me CNAME .
 jpok.996333.xyz CNAME .
-jptyo12.mask.apple-dns.net CNAME .
 js-nnss.ppleg.icu CNAME .
 jujuba.cafuringa.org CNAME .
 jurre-home.duckdns.org CNAME .
@@ -2836,7 +2832,6 @@ maqgie.xyz CNAME .
 mask-api.fe.apple-dns.net CNAME .
 mask-api.fe2.apple-dns.net CNAME .
 mask-api.icloud.com CNAME .
-mask-boot.icloud.com CNAME .
 mask-canary.icloud.com CNAME .
 mask-h2.icloud.com CNAME .
 mask.apple-dns.net CNAME .
@@ -2962,7 +2957,6 @@ nl.adg.ghostzone.wtf CNAME .
 nl.dns.privex.io CNAME .
 nl.dns.shx.su CNAME .
 nl.rslvr.eu CNAME .
-nlhfd1.mask.apple-dns.net CNAME .
 nnss.ppleg.icu CNAME .
 no-ad.levcloud.cloudns.nz CNAME .
 noad.kipp.cool CNAME .
@@ -3060,7 +3054,6 @@ o--o.duckdns.org CNAME .
 o.rsaikat.com CNAME .
 o1.lt CNAME .
 obscuro.top CNAME .
-oceania-mask.wrr.mask.apple-dns.net CNAME .
 oculta.me CNAME .
 odoh.cloudflare-dns.com CNAME .
 odoh.crypto.sx CNAME .
@@ -3392,7 +3385,6 @@ server01.vboekel.nl CNAME .
 serverhk.rannj.top CNAME .
 service.f170137e.icu CNAME .
 servis4u.top CNAME .
-sesto4.mask.apple-dns.net CNAME .
 sg-119.cattery.work CNAME .
 sg-dns1.bancuh.com CNAME .
 sg-dns2.bancuh.com CNAME .
@@ -3571,7 +3563,6 @@ tungdnsne.duckdns.org CNAME .
 tuskythehusky.tech CNAME .
 tuu01.dnscry.pt CNAME .
 tw2.ooroot.com CNAME .
-twntc1.mask.apple-dns.net CNAME .
 tx.teradns.org CNAME .
 tyo01.dnscry.pt CNAME .
 tyo02.dnscry.pt CNAME .
@@ -3632,14 +3623,9 @@ us02.dns4me.net CNAME .
 us1.blissdns.net CNAME .
 us1.dns.lavate.ch CNAME .
 usascoot.com CNAME .
-usatl5.mask.apple-dns.net CNAME .
 usatwo.wuyouss.com CNAME .
-uschi7.mask.apple-dns.net CNAME .
 uscmi.hiomath.org CNAME .
-usmsc2.mask.apple-dns.net CNAME .
 usname.freecdn.one CNAME .
-usqas5.mask.apple-dns.net CNAME .
-usuyk1.mask.apple-dns.net CNAME .
 uw-dns.rubyfish.cn CNAME .
 ux.go20.cf CNAME .
 v.dnscrypt.uk CNAME .
