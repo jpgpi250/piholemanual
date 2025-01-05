@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2025-01-03 03:38:10 (UTC)
+! Last updated: 2025-01-04 03:26:50 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -565,7 +565,6 @@
 ||au02.dns4me.net^
 ||audio.dehb.ru^
 ||augne.dns.walshnet.co.uk^
-||ausyd2.mask.apple-dns.net^
 ||aviemore.dns.walshnet.co.uk^
 ||awan.ftp.sh^
 ||awcdn.cn^
@@ -780,7 +779,6 @@
 ||de.dns.privex.io^
 ||de.teradns.org^
 ||de01.dns4me.net^
-||deber3.mask.apple-dns.net^
 ||dedidl.com^
 ||deep-henchman-excuse.cfd^
 ||defendfrienddns.fyi^
@@ -2405,7 +2403,6 @@
 ||gb-lon-w-f-1.nashkan.net^
 ||gb-lon-w-p-1.nashkan.net^
 ||gb-lon-w-p-2.nashkan.net^
-||gbslo5.mask.apple-dns.net^
 ||gc.cyberbeta.cn^
 ||gclouddns.com^
 ||gdns.end.pub^
@@ -2649,7 +2646,6 @@
 ||jpdns.cola16.app^
 ||jpdns.hker.me^
 ||jpok.996333.xyz^
-||jptyo12.mask.apple-dns.net^
 ||js-nnss.ppleg.icu^
 ||jujuba.cafuringa.org^
 ||jurre-home.duckdns.org^
@@ -2832,7 +2828,6 @@
 ||mask-api.fe.apple-dns.net^
 ||mask-api.fe2.apple-dns.net^
 ||mask-api.icloud.com^
-||mask-boot.icloud.com^
 ||mask-canary.icloud.com^
 ||mask-h2.icloud.com^
 ||mask.apple-dns.net^
@@ -2958,7 +2953,6 @@
 ||nl.dns.privex.io^
 ||nl.dns.shx.su^
 ||nl.rslvr.eu^
-||nlhfd1.mask.apple-dns.net^
 ||nnss.ppleg.icu^
 ||no-ad.levcloud.cloudns.nz^
 ||noad.kipp.cool^
@@ -3056,7 +3050,6 @@
 ||o.rsaikat.com^
 ||o1.lt^
 ||obscuro.top^
-||oceania-mask.wrr.mask.apple-dns.net^
 ||oculta.me^
 ||odoh.cloudflare-dns.com^
 ||odoh.crypto.sx^
@@ -3388,7 +3381,6 @@
 ||serverhk.rannj.top^
 ||service.f170137e.icu^
 ||servis4u.top^
-||sesto4.mask.apple-dns.net^
 ||sg-119.cattery.work^
 ||sg-dns1.bancuh.com^
 ||sg-dns2.bancuh.com^
@@ -3567,7 +3559,6 @@
 ||tuskythehusky.tech^
 ||tuu01.dnscry.pt^
 ||tw2.ooroot.com^
-||twntc1.mask.apple-dns.net^
 ||tx.teradns.org^
 ||tyo01.dnscry.pt^
 ||tyo02.dnscry.pt^
@@ -3628,14 +3619,9 @@
 ||us1.blissdns.net^
 ||us1.dns.lavate.ch^
 ||usascoot.com^
-||usatl5.mask.apple-dns.net^
 ||usatwo.wuyouss.com^
-||uschi7.mask.apple-dns.net^
 ||uscmi.hiomath.org^
-||usmsc2.mask.apple-dns.net^
 ||usname.freecdn.one^
-||usqas5.mask.apple-dns.net^
-||usuyk1.mask.apple-dns.net^
 ||uw-dns.rubyfish.cn^
 ||ux.go20.cf^
 ||v.dnscrypt.uk^
