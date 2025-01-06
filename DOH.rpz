@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2501050308 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2501060250 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2025-01-05 03:08:04 (UTC)
+; Last updated: 2025-01-06 02:50:06 (UTC)
 ;
 ; See https://jpgpi250.github.io/piholemanual/doc/Unbound%20response%20policy%20zones.pdf
 ; Report issues at https://github.com/jpgpi250/piholemanual/issues
@@ -1431,7 +1431,6 @@ dns.mijoregner.de CNAME .
 dns.mikeliu.org CNAME .
 dns.mikopono.nl CNAME .
 dns.mikrotikrumahan.my.id CNAME .
-dns.milkpie.one CNAME .
 dns.mipauns.com CNAME .
 dns.miyun1.com CNAME .
 dns.mmzs.xyz CNAME .
@@ -1767,6 +1766,7 @@ dns.vladpro.ru CNAME .
 dns.vlo.cc CNAME .
 dns.vmath.my.id CNAME .
 dns.vmisch.tech CNAME .
+dns.vod11.xyz CNAME .
 dns.vojtat.cz CNAME .
 dns.volsap.ovh CNAME .
 dns.voyager2.space CNAME .
@@ -3437,6 +3437,7 @@ shield1.eranext.net CNAME .
 shinano.anime.com.my CNAME .
 siddeus.synology.me CNAME .
 signsservers.ru CNAME .
+simsim.lol CNAME .
 sin.core.access.zznet.fun CNAME .
 sin01.dnscry.pt CNAME .
 sin02.dnscry.pt CNAME .
