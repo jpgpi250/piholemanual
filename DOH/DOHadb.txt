@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2025-01-08 03:25:31 (UTC)
+! Last updated: 2025-01-09 03:21:53 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -549,6 +549,7 @@
 ||as17820865.click^
 ||as6604t-04.myasustor.com^
 ||asia.dnscepat.id^
+||asia.tri-dns.net^
 ||asuswrt.jaye.sh^
 ||at-wie-w-p-1.nashkan.net^
 ||at.pzhg.me^
@@ -947,7 +948,6 @@
 ||dns.asterimoon.com^
 ||dns.asysec.com^
 ||dns.atsilva.link^
-||dns.auapi.fun^
 ||dns.audet.cloud^
 ||dns.auffray.org^
 ||dns.axto.me^
@@ -2691,6 +2691,7 @@
 ||kids.5ososea.com^
 ||kids.dns0.eu^
 ||kids.mijoregner.de^
+||kids.ns.nwps.fi^
 ||kids.vietdns.vn^
 ||kigurumi.space^
 ||kilabit.info^
@@ -3216,6 +3217,7 @@
 ||public-dns-b.dns.sb^
 ||public.alidns.com^
 ||public.dns.iij.jp^
+||public.ns.nwps.fi^
 ||public2.alidns.com^
 ||public254.alidns.com^
 ||public99.alidns.com^
