@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2501100247 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2501110240 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2025-01-10 02:47:59 (UTC)
+; Last updated: 2025-01-11 02:40:08 (UTC)
 ;
 ; See https://jpgpi250.github.io/piholemanual/doc/Unbound%20response%20policy%20zones.pdf
 ; Report issues at https://github.com/jpgpi250/piholemanual/issues
@@ -2168,6 +2168,7 @@ doh.seby.io CNAME .
 doh.securedns.eu CNAME .
 doh.sidnlabs.nl CNAME .
 doh.srv00.com CNAME .
+doh.sublime9.xyz CNAME .
 doh.suche.org CNAME .
 doh.sunoaki.net CNAME .
 doh.sww.net.id CNAME .
@@ -3526,6 +3527,7 @@ tecdrive.site CNAME .
 tech-vnet.com CNAME .
 tekno.at CNAME .
 telex.app CNAME .
+tensents.shop CNAME .
 terminalpower.top CNAME .
 teslacoils.org.uk CNAME .
 test.adg.siudzinski.net CNAME .
