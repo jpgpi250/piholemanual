@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2025-01-10 03:14:11 (UTC)
+! Last updated: 2025-01-11 03:05:53 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -2164,6 +2164,7 @@
 ||doh.securedns.eu^
 ||doh.sidnlabs.nl^
 ||doh.srv00.com^
+||doh.sublime9.xyz^
 ||doh.suche.org^
 ||doh.sunoaki.net^
 ||doh.sww.net.id^
@@ -3522,6 +3523,7 @@
 ||tech-vnet.com^
 ||tekno.at^
 ||telex.app^
+||tensents.shop^
 ||terminalpower.top^
 ||teslacoils.org.uk^
 ||test.adg.siudzinski.net^
