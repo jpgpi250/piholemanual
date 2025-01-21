@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2501200336 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2501210302 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2025-01-20 03:36:23 (UTC)
+; Last updated: 2025-01-21 03:02:47 (UTC)
 ;
 ; See https://jpgpi250.github.io/piholemanual/doc/Unbound%20response%20policy%20zones.pdf
 ; Report issues at https://github.com/jpgpi250/piholemanual/issues
@@ -468,6 +468,7 @@ aghdns.com CNAME .
 aghome.jcconnell.com CNAME .
 ahadns.net CNAME .
 ahcek.com CNAME .
+ahoj.email CNAME .
 aihe.app CNAME .
 airmaxcloud.ml CNAME .
 aitkcrev.minhduc.pw CNAME .
