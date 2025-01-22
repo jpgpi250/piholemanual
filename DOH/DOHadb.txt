@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2025-01-20 04:02:35 (UTC)
+! Last updated: 2025-01-21 03:28:45 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -464,6 +464,7 @@
 ||aghome.jcconnell.com^
 ||ahadns.net^
 ||ahcek.com^
+||ahoj.email^
 ||aihe.app^
 ||airmaxcloud.ml^
 ||aitkcrev.minhduc.pw^
