@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2025-01-30 03:52:39 (UTC)
+! Last updated: 2025-01-31 03:45:30 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -52,8 +52,11 @@
 ||3dcosas.xyz^
 ||3dns.eu^
 ||3jjxxl.tech^
+||3x.454345.xyz^
 ||3x.az.i81.ru^
 ||45.32.17.58.vultrusercontent.com^
+||454345.xyz^
+||45545545.xyz^
 ||4gdns.me^
 ||51576162.ru^
 ||5g.o0o.re^
@@ -244,6 +247,7 @@
 ||adguard.hjebbour.top^
 ||adguard.hoangcongchuc.com^
 ||adguard.hofi.li^
+||adguard.ichiboku.be^
 ||adguard.ihatemy.live^
 ||adguard.infrapod.nl^
 ||adguard.jaydub.cloud^
@@ -322,6 +326,7 @@
 ||adguard.sre.ovh^
 ||adguard.sretribe.net^
 ||adguard.sscw.win^
+||adguard.staygeo.com^
 ||adguard.stealbit.com^
 ||adguard.stoian.top^
 ||adguard.streamlas.fr^
@@ -383,6 +388,7 @@
 ||adguardhome.atakorah.com^
 ||adguardhome.favrep.ovh^
 ||adguardhome.fr.couli.fr^
+||adguardhome.xyz^
 ||adguardnic.ddns.net^
 ||adh.51st.top^
 ||adh.blogcuahieu.com^
@@ -478,6 +484,7 @@
 ||alidns.com^
 ||alidns2.cb1999.top^
 ||alisa.az.i81.ru^
+||alisa.dns.454345.xyz^
 ||alisa.hr.i81.ru^
 ||alisa.vd.i81.ru^
 ||alisa.vpn.i81.ru^
@@ -864,6 +871,8 @@
 ||dns.3wv.de^
 ||dns.4-the.win^
 ||dns.444723.xyz^
+||dns.454345.xyz^
+||dns.45545545.xyz^
 ||dns.52306.org^
 ||dns.56k.uy^
 ||dns.58jdl.com^
@@ -2081,6 +2090,7 @@
 ||doh.kel.pe^
 ||doh.kidzonet.io^
 ||doh.killtw.im^
+||doh.koduarve.ee^
 ||doh.kooman.org^
 ||doh.la.ahadns.net^
 ||doh.lacontrevoie.fr^
@@ -2187,7 +2197,6 @@
 ||domeq.waw.pl^
 ||dooh.cloudflare-dns.com^
 ||door.plasmadancer.ru^
-||doq.dns4all.eu^
 ||doq.sa-sa.eu^
 ||doq64.dns4all.eu^
 ||dorkanddoodle.duckdns.org^
@@ -2503,6 +2512,7 @@
 ||home.basthorst.eu^
 ||home.bruckmoser.it^
 ||home.dlinkddns.com^
+||home.dns.454345.xyz^
 ||home.enjoymylife.net^
 ||home.fc.idv.tw^
 ||home.jobytan.com^
@@ -2552,6 +2562,7 @@
 ||ie01.dns4me.net^
 ||iev01.dnscry.pt^
 ||igor.az.i81.ru^
+||igor.dns.454345.xyz^
 ||igor.hr.i81.ru^
 ||igor.vd.i81.ru^
 ||igor.vpn.i81.ru^
@@ -2571,6 +2582,7 @@
 ||ion.pm^
 ||iow-dns.bitdefender.net^
 ||iozoi.cn^
+||ip.cubecloud.win^
 ||ipoac.nl^
 ||irdns.rapidoserver.ir^
 ||irgrdns.nullapp.xyz^
@@ -2858,6 +2870,7 @@
 ||mow01.dnscry.pt^
 ||mozilla.cloudflare-dns.com^
 ||mru01.dnscry.pt^
+||ms.gswsfh2021.site^
 ||msk.noad7vk.ru^
 ||mslbn.com^
 ||msr177.com^
@@ -2960,6 +2973,7 @@
 ||note.dehb.ru^
 ||notebait.ddnsfree.com^
 ||nova-is.so-gorgeo.us.kg^
+||nqh-dns.duckdns.org^
 ||nrt.core.access.zznet.fun^
 ||nrusimha.crabdance.com^
 ||ns.00dani.me^
@@ -3041,6 +3055,7 @@
 ||office.heimtec.com^
 ||okado.online^
 ||olga.az.i81.ru^
+||olga.dns.454345.xyz^
 ||olga.hr.i81.ru^
 ||olga.vd.i81.ru^
 ||olga.vpn.i81.ru^
@@ -3090,6 +3105,7 @@
 ||paskam.xyz^
 ||pates.services.sfr.fr.casepp.sfr.fr^
 ||paulo.nom.za^
+||pavel.dns.45545545.xyz^
 ||pcbrdh8v6m.digitallink.be^
 ||pccoach.ddns.net^
 ||pcgo.fun^
@@ -3107,6 +3123,7 @@
 ||per01.dnscry.pt^
 ||performance.gosami.xyz^
 ||personal-proj-by-me.eu^
+||petinom.online^
 ||pg.web-rated.ie^
 ||phantom3c.net^
 ||philqoo.com^
@@ -3393,6 +3410,7 @@
 ||shield.afixer.app^
 ||shield1.eranext.net^
 ||shinano.anime.com.my^
+||shop.luckygem.me^
 ||siddeus.synology.me^
 ||signsservers.ru^
 ||sin.core.access.zznet.fun^
@@ -3444,6 +3462,7 @@
 ||ss.0001.xyz^
 ||ss.microbaidu.com^
 ||ssh-storage.ru^
+||ssytnik.de^
 ||st.flyzhouyc.win^
 ||statistics.larryvpn.com^
 ||steering.nextdns.io^
@@ -3677,6 +3696,7 @@
 ||vpn.nnip.org^
 ||vpn.sakhwow.ru^
 ||vpn.satadru.dev^
+||vpn.ssytnik.de^
 ||vpn.stroialliance.com^
 ||vpn.vosjes.cloud^
 ||vpn0109.voodonline.fr^
