@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2025-02-03 03:51:43 (UTC)
+! Last updated: 2025-02-04 04:03:37 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -1135,7 +1135,6 @@
 ||dns.exonip.de^
 ||dns.expert^
 ||dns.extrawdw.net^
-||dns.ezyss.id^
 ||dns.f4a.fun^
 ||dns.f97.xyz^
 ||dns.fabianscheifele.com^
@@ -2200,7 +2199,6 @@
 ||door.plasmadancer.ru^
 ||doq.dns4all.eu^
 ||doq.sa-sa.eu^
-||doq64.dns4all.eu^
 ||dorkanddoodle.duckdns.org^
 ||dot-ch.blahdns.com^
 ||dot-de.blahdns.com^
@@ -2623,6 +2621,7 @@
 ||jkt01.dnscry.pt^
 ||jnb01.dnscry.pt^
 ||jnprd.com^
+||johneldenring.lol^
 ||johnsson.ovh^
 ||jonathanaugusto.freeddns.org^
 ||joouddo.ru^
