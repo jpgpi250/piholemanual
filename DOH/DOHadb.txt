@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2025-02-04 04:03:37 (UTC)
+! Last updated: 2025-02-05 03:00:31 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -903,6 +903,7 @@
 ||dns.adguard-dns.com^
 ||dns.adguard.com^
 ||dns.adguard0808.cloudns.ph^
+||dns.adguarddns.com^
 ||dns.adrianlam.com^
 ||dns.aeiou.pp.ua^
 ||dns.ahmgam.com^
@@ -2320,6 +2321,7 @@
 ||family-filter-dns.cleanbrowsing.org^
 ||family.5ososea.com^
 ||family.adguard-dns.com^
+||family.adguarddns.com^
 ||family.canadianshield.cira.ca^
 ||family.cloudflare-dns.com^
 ||family.dns.mullvad.net^
@@ -3588,6 +3590,7 @@
 ||uncensored.ny1.dns.nixnet.xyz^
 ||uncensoreddns.org^
 ||unfiltered.adguard-dns.com^
+||unfiltered.adguarddns.com^
 ||unfiltered.dns.sainternet.xyz^
 ||unicast.censurfridns.dk^
 ||unicast.censurfridns.nu^
