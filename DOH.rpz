@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2502160338 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2502170258 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2025-02-16 03:38:07 (UTC)
+; Last updated: 2025-02-17 02:58:07 (UTC)
 ;
 ; See https://jpgpi250.github.io/piholemanual/doc/Unbound%20response%20policy%20zones.pdf
 ; Report issues at https://github.com/jpgpi250/piholemanual/issues
@@ -1455,6 +1455,7 @@ dns.niccoli.cc CNAME .
 dns.nick-slowinski.de CNAME .
 dns.nicolas.vip CNAME .
 dns.nieto.app CNAME .
+dns.nightlymoon.us.kg CNAME .
 dns.nimzero.fr CNAME .
 dns.ningkelle.id CNAME .
 dns.ninhs.org CNAME .
@@ -1506,6 +1507,7 @@ dns.pans.pp.ua CNAME .
 dns.panszelescik.pl CNAME .
 dns.pari.network CNAME .
 dns.pastorov.ru CNAME .
+dns.paulo.nom.za CNAME .
 dns.paxavemedia.com CNAME .
 dns.pccoach.nl CNAME .
 dns.peb-schmidt.de CNAME .
