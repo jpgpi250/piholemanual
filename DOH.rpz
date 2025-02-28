@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2502270352 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2502280245 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2025-02-27 03:52:22 (UTC)
+; Last updated: 2025-02-28 02:45:20 (UTC)
 ;
 ; See https://jpgpi250.github.io/piholemanual/doc/Unbound%20response%20policy%20zones.pdf
 ; Report issues at https://github.com/jpgpi250/piholemanual/issues
@@ -41,7 +41,6 @@ $TTL 30
 2.dnscrypt-cert.dns.seby.io CNAME .
 2.dnscrypt-cert.ffmuc.net CNAME .
 2.dnscrypt-cert.opendns.com CNAME .
-2.dnscrypt-cert.pumplex.com CNAME .
 2.dnscrypt-cert.quad9.net CNAME .
 2.dnscrypt-cert.shield-2.dnsbycomodo.com CNAME .
 2024.laijy.top CNAME .
@@ -695,7 +694,6 @@ cloud.tezoi.com CNAME .
 cloudbenders.fun CNAME .
 cloudflare-dns.com CNAME .
 cloudflare-gateway.com CNAME .
-cloudflaredns.com CNAME .
 cloudflareresolve.com CNAME .
 cloudns.bosco.ovh CNAME .
 cloudsrv.charitosnet.de CNAME .
@@ -2168,7 +2166,6 @@ dooh.cloudflare-dns.com CNAME .
 door.plasmadancer.ru CNAME .
 doq.dns4all.eu CNAME .
 doq.sa-sa.eu CNAME .
-doq64.dns4all.eu CNAME .
 dorkanddoodle.duckdns.org CNAME .
 dot-ch.blahdns.com CNAME .
 dot-de.blahdns.com CNAME .
@@ -3690,7 +3687,6 @@ vpservice.cf CNAME .
 vpsus3.pzhg.me CNAME .
 vrehm.fr CNAME .
 vsrv15195.customer.xenway.de CNAME .
-vtcuong.site CNAME .
 vvmm.me CNAME .
 walhalla.freemyip.com CNAME .
 walker.mynetgear.com CNAME .
