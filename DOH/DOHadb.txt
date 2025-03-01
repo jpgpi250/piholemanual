@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2025-02-27 04:18:58 (UTC)
+! Last updated: 2025-02-28 03:11:21 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -37,7 +37,6 @@
 ||2.dnscrypt-cert.dns.seby.io^
 ||2.dnscrypt-cert.ffmuc.net^
 ||2.dnscrypt-cert.opendns.com^
-||2.dnscrypt-cert.pumplex.com^
 ||2.dnscrypt-cert.quad9.net^
 ||2.dnscrypt-cert.shield-2.dnsbycomodo.com^
 ||2024.laijy.top^
@@ -691,7 +690,6 @@
 ||cloudbenders.fun^
 ||cloudflare-dns.com^
 ||cloudflare-gateway.com^
-||cloudflaredns.com^
 ||cloudflareresolve.com^
 ||cloudns.bosco.ovh^
 ||cloudsrv.charitosnet.de^
@@ -2164,7 +2162,6 @@
 ||door.plasmadancer.ru^
 ||doq.dns4all.eu^
 ||doq.sa-sa.eu^
-||doq64.dns4all.eu^
 ||dorkanddoodle.duckdns.org^
 ||dot-ch.blahdns.com^
 ||dot-de.blahdns.com^
@@ -3686,7 +3683,6 @@
 ||vpsus3.pzhg.me^
 ||vrehm.fr^
 ||vsrv15195.customer.xenway.de^
-||vtcuong.site^
 ||vvmm.me^
 ||walhalla.freemyip.com^
 ||walker.mynetgear.com^
