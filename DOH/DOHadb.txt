@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2025-03-03 03:40:05 (UTC)
+! Last updated: 2025-03-04 03:37:02 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -702,7 +702,6 @@
 ||comss.one^
 ||comss.ru^
 ||connectix.xyz^
-||console.carestyle.org^
 ||contacts.dehb.ru^
 ||cossxiu.ga^
 ||cph01.dnscry.pt^
@@ -970,7 +969,6 @@
 ||dns.cabbage.zone^
 ||dns.cahlen.com^
 ||dns.carson-family.com^
-||dns.carter.me^
 ||dns.caspervk.net^
 ||dns.cctld.kg^
 ||dns.ceai.com.tw^
@@ -2162,6 +2160,7 @@
 ||door.plasmadancer.ru^
 ||doq.dns4all.eu^
 ||doq.sa-sa.eu^
+||doq64.dns4all.eu^
 ||dorkanddoodle.duckdns.org^
 ||dot-ch.blahdns.com^
 ||dot-de.blahdns.com^
