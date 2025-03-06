@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2025-03-04 03:37:02 (UTC)
+! Last updated: 2025-03-05 04:08:05 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -406,6 +406,7 @@
 ||adsl.viettel.vn^
 ||adult-filter-dns.cleanbrowsing.org^
 ||adult-filter-dot.dnswarden.com^
+||ae-agh1.dns.cryptroute.net^
 ||ae-fuj-w-p-1.nashkan.net^
 ||ae-fuj-w-p-2.nashkan.net^
 ||ae-fuj-w-p-3.nashkan.net^
@@ -431,6 +432,7 @@
 ||agathe.tobkar.net^
 ||agent.frankutils.xyz^
 ||agh-hetzner.yasirafique.com^
+||agh-jkt.santainetwork.my.id^
 ||agh-yz.russel053.com^
 ||agh.710523.xyz^
 ||agh.alematho.de^
@@ -607,7 +609,6 @@
 ||bld.sys-adm.in^
 ||blitz-setup.ahadns.com^
 ||blitz.ahadns.com^
-||blitzd.gotdns.ch^
 ||block.abstergo.it^
 ||block.coconut.id^
 ||blockadhomemoskva.ru^
@@ -680,6 +681,7 @@
 ||clean.dnsforge.de^
 ||cleanbrowsing.org^
 ||clearweb.woodbridge.club^
+||clementine-home.link^
 ||clic.eu.org^
 ||clientdns3.softcom.net^
 ||cloud.198.games^
@@ -745,6 +747,7 @@
 ||darya.persiannit.net^
 ||daverotaquio.net^
 ||dcbot.drahonn.pro^
+||dd.phamanh.io.vn^
 ||ddd.999369.xyz^
 ||ddd.loukky.com^
 ||ddd2.loukky.com^
@@ -839,6 +842,7 @@
 ||dns.240527.xyz^
 ||dns.2poi.com^
 ||dns.2t9.de^
+||dns.320888.xyz^
 ||dns.354688.xyz^
 ||dns.3dcapitaltrust.net^
 ||dns.3iq.quest^
@@ -1151,7 +1155,6 @@
 ||dns.girino.org^
 ||dns.glampool.cloud^
 ||dns.glf.wtf^
-||dns.glorydns.com^
 ||dns.glsoft.ai^
 ||dns.gnb09.id^
 ||dns.goertz.digital^
@@ -1194,7 +1197,6 @@
 ||dns.hopsken.com^
 ||dns.horcrux.vip^
 ||dns.horus-team.com^
-||dns.hoservers.com^
 ||dns.hostingim.com^
 ||dns.hostux.net^
 ||dns.hotta.page^
@@ -1203,6 +1205,7 @@
 ||dns.hshoe.cn^
 ||dns.hub.com.de^
 ||dns.huizegunsing.nl^
+||dns.huizhechi.com^
 ||dns.hujiayucc.cn^
 ||dns.huseynov.work^
 ||dns.huyhoangit.net^
@@ -1229,6 +1232,7 @@
 ||dns.internal.hosmatic.com^
 ||dns.invent.hr^
 ||dns.invisv.com^
+||dns.ios.so^
 ||dns.ipoac.nl^
 ||dns.ipv6dns.com^
 ||dns.irumatech.com^
@@ -1463,7 +1467,6 @@
 ||dns.oliverweinhold.de^
 ||dns.oliviertv.co.za^
 ||dns.omada.cafe^
-||dns.onlyshadow.online^
 ||dns.onp.cloud^
 ||dns.opendns.com^
 ||dns.opnsource.com.au^
@@ -1488,6 +1491,7 @@
 ||dns.paulo.nom.za^
 ||dns.paxavemedia.com^
 ||dns.pccoach.nl^
+||dns.pddzz.cfd^
 ||dns.peb-schmidt.de^
 ||dns.periactes.com^
 ||dns.pernika.net^
@@ -1590,6 +1594,7 @@
 ||dns.shecan.ir^
 ||dns.sheggi.ch^
 ||dns.shimul.me^
+||dns.shinpamc.site^
 ||dns.silen.org^
 ||dns.silentlybren.com^
 ||dns.simplylinux.ch^
@@ -2276,6 +2281,7 @@
 ||externalmobiel.lekdijk.online^
 ||extratv.org^
 ||eyg01.dnscry.pt^
+||eymg5h77lfs6zhwzmv47gkh0a4r1f1ydfprzxidk.ir^
 ||f.9132706292.cloudns.be^
 ||f1.dns.s3cure.me^
 ||family-filter-dns.cleanbrowsing.org^
@@ -2463,6 +2469,7 @@
 ||hkg.hytec.org^
 ||hkg01.dnscry.pt^
 ||hkg02.dnscry.pt^
+||hkg03.dnscry.pt^
 ||hkg2.edge.access.zznet.fun^
 ||hkname.freecdn.one^
 ||hknat.ooguy.com^
@@ -2734,6 +2741,7 @@
 ||lomoff.spb.ru^
 ||lon01.dnscry.pt^
 ||longhomelab.com^
+||look.cubecloud.win^
 ||lookup.zucx.net^
 ||lorc17-dns.komeho.info^
 ||los01.dnscry.pt^
@@ -2876,7 +2884,6 @@
 ||nas.patrick-antoine.fr^
 ||nas.stefanoperna.it^
 ||nas1403.duckdns.org^
-||nasiron.dynv6.net^
 ||nastya.dns.vladpro.ru^
 ||nat64.tuxis.nl^
 ||naw01.dnscry.pt^
@@ -3009,7 +3016,6 @@
 ||o--o.duckdns.org^
 ||o.rsaikat.com^
 ||o1.lt^
-||obscuro.top^
 ||oculta.me^
 ||odoh.cloudflare-dns.com^
 ||odoh.crypto.sx^
@@ -3022,6 +3028,7 @@
 ||olga.vpn.i81.ru^
 ||omr01.dnscry.pt^
 ||one.one.one.one^
+||online.zotio.ru^
 ||oostelbos.dynu.com^
 ||op.htyweb.top^
 ||open-resolver1.unima.ac.id^
@@ -3133,6 +3140,7 @@
 ||pope.cnblw.me^
 ||portainer.roades.org^
 ||positif4.cross.net.id^
+||powerankerfrankfurthy.mbahmaee.ir^
 ||pqh.ddns.net^
 ||pr-nnss.ppleg.icu^
 ||premiumtier-network.instadart.net^
@@ -3411,7 +3419,9 @@
 ||speeddns.top^
 ||speedtest.skynetinternet.com.br^
 ||spotifyobs.drahonn.pro^
+||spyro-the-bat.fleuryk.ovh^
 ||spyrodragon76.fleuryk.ovh^
+||spyrothebat.fleuryk.ovh^
 ||sq.trin.icu^
 ||squidmall.vip^
 ||sradg.eastus.cloudapp.azure.com^
@@ -3466,6 +3476,7 @@
 ||terminalpower.top^
 ||teslacoils.org.uk^
 ||test.adg.siudzinski.net^
+||test.businessconnect.com.tr^
 ||test.marss.pro^
 ||test2.adg.siudzinski.net^
 ||test3.adg.siudzinski.net^
@@ -3477,6 +3488,7 @@
 ||th1.dnsfinder.ir^
 ||thakkali.teej.xyz^
 ||thanos.pleumkungz.com^
+||thuis.familiethomassen.nl^
 ||thxvv.ru^
 ||tienpham.id.vn^
 ||tiger.dns.qwer.pw^
@@ -3496,6 +3508,7 @@
 ||tngch.mydns.jp^
 ||toaster.lol^
 ||tokyo.559299366.xyz^
+||tokyo.92-m.com^
 ||tor.cloudflare-dns.com^
 ||tor.vasi.li^
 ||torrent.roades.org^
@@ -3649,6 +3662,7 @@
 ||vpn.erhvict.ru^
 ||vpn.g-s-a.me^
 ||vpn.geshido.ru^
+||vpn.gmalov.ru^
 ||vpn.gosami.xyz^
 ||vpn.i81.ru^
 ||vpn.nnip.org^
@@ -3665,7 +3679,6 @@
 ||vps-ovh.pb2004.pl^
 ||vps.19790307.xyz^
 ||vps.559299366.xyz^
-||vps.ak42.io^
 ||vps.avc.cx^
 ||vps.filatov.link^
 ||vps.fleuryk.ovh^
@@ -3824,7 +3837,6 @@
 ||y3suyx0cg2lewi2dmn.advaitghaisas.in^
 ||yanggan.eu.org^
 ||yarp.lefolgoc.net^
-||ybs-vps.online^
 ||ycg01.dnscry.pt^
 ||ychen.cf^
 ||ychen.ga^
@@ -3859,7 +3871,6 @@
 ||zetland.rm-ni.uk^
 ||zeusvps.cloudns.nz^
 ||zhengkaiyun.top^
-||zoopark-vpn.ddns.net^
 ||zougloub.eu^
 ||zrh1-ns01.monzoon.net^
 ||ztv.su^
