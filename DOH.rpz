@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2503120335 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2503130336 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2025-03-12 03:35:59 (UTC)
+; Last updated: 2025-03-13 03:36:19 (UTC)
 ;
 ; See https://jpgpi250.github.io/piholemanual/doc/Unbound%20response%20policy%20zones.pdf
 ; Report issues at https://github.com/jpgpi250/piholemanual/issues
@@ -1664,7 +1664,6 @@ dns.thd2020.cloud CNAME .
 dns.thebase-gup.ru CNAME .
 dns.thebuckners.org CNAME .
 dns.thegoodsource.net CNAME .
-dns.theres.one CNAME .
 dns.therifleman.name CNAME .
 dns.thezudrive.xyz CNAME .
 dns.thhbdd.eu.org CNAME .
@@ -2855,6 +2854,7 @@ mtsdns.ru CNAME .
 muc-ns01.ibytex.systems CNAME .
 muc01.dnscry.pt CNAME .
 muli.stusta.mhn.de CNAME .
+multi.dns.marbledfennec.net CNAME .
 muppy.pnamae.com CNAME .
 musicbot.drahonn.pro CNAME .
 muxyuji.ru CNAME .
@@ -2868,7 +2868,6 @@ mydns.bielperes.me CNAME .
 mydns.ddns.me CNAME .
 mypihole.hopto.org CNAME .
 myprivityvpn.softether.net CNAME .
-myrra-is.so-gorgeo.us.kg CNAME .
 myrusvpn.de CNAME .
 mysterium.arashi.solutions CNAME .
 myv2ray.cn CNAME .
@@ -2911,7 +2910,6 @@ nickcan.xyz CNAME .
 nicknarayong.ddns.net CNAME .
 nicktruehome.ddns.net CNAME .
 nicsezcheckfbi.gov CNAME .
-nightlymoon.us.kg CNAME .
 nilanjan.rocks CNAME .
 nilfheim.asguardian.de CNAME .
 nimeserver.kirjakast.eu CNAME .
@@ -2942,7 +2940,6 @@ non.profoxy.su CNAME .
 nonapi.profoxy.su CNAME .
 nonapi2.profoxy.su CNAME .
 nonapi3.profoxy.su CNAME .
-nora-is.so-gorgeo.us.kg CNAME .
 north-america-mask.wrr.mask.apple-dns.net CNAME .
 note.dehb.ru CNAME .
 notebait.ddnsfree.com CNAME .
