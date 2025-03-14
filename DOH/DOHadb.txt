@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2025-03-12 04:02:13 (UTC)
+! Last updated: 2025-03-13 04:02:41 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -1660,7 +1660,6 @@
 ||dns.thebase-gup.ru^
 ||dns.thebuckners.org^
 ||dns.thegoodsource.net^
-||dns.theres.one^
 ||dns.therifleman.name^
 ||dns.thezudrive.xyz^
 ||dns.thhbdd.eu.org^
@@ -2851,6 +2850,7 @@
 ||muc-ns01.ibytex.systems^
 ||muc01.dnscry.pt^
 ||muli.stusta.mhn.de^
+||multi.dns.marbledfennec.net^
 ||muppy.pnamae.com^
 ||musicbot.drahonn.pro^
 ||muxyuji.ru^
@@ -2864,7 +2864,6 @@
 ||mydns.ddns.me^
 ||mypihole.hopto.org^
 ||myprivityvpn.softether.net^
-||myrra-is.so-gorgeo.us.kg^
 ||myrusvpn.de^
 ||mysterium.arashi.solutions^
 ||myv2ray.cn^
@@ -2907,7 +2906,6 @@
 ||nicknarayong.ddns.net^
 ||nicktruehome.ddns.net^
 ||nicsezcheckfbi.gov^
-||nightlymoon.us.kg^
 ||nilanjan.rocks^
 ||nilfheim.asguardian.de^
 ||nimeserver.kirjakast.eu^
@@ -2938,7 +2936,6 @@
 ||nonapi.profoxy.su^
 ||nonapi2.profoxy.su^
 ||nonapi3.profoxy.su^
-||nora-is.so-gorgeo.us.kg^
 ||north-america-mask.wrr.mask.apple-dns.net^
 ||note.dehb.ru^
 ||notebait.ddnsfree.com^
