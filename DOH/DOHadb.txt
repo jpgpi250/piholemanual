@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2025-03-24 03:50:01 (UTC)
+! Last updated: 2025-03-25 03:56:37 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -96,6 +96,7 @@
 ||ada.ns.cloudflare.com^
 ||ada.openbld.net^
 ||adampowell.pro^
+||adb-dns.sapient.cyou^
 ||adb-home.xaoimoon.fr^
 ||adb-wan.xaoimoon.fr^
 ||adb.aadityakushwaha.com^
@@ -304,6 +305,7 @@
 ||adguard.searom.ovh^
 ||adguard.senthil.us^
 ||adguard.servernation.xyz^
+||adguard.serverrune.be^
 ||adguard.shoupperuser.com^
 ||adguard.shutgaming.net^
 ||adguard.shuting.idv.tw^
@@ -396,6 +398,7 @@
 ||adns.huyhung.name.vn^
 ||adns.kreonet.net^
 ||adns.onlinetools.rocks^
+||ads-ch.landgame.net^
 ||ads-doh.securedns.eu^
 ||ads.therman.eu^
 ||ads.x88.in^
@@ -691,6 +694,7 @@
 ||cloudbenders.fun^
 ||cloudflare-dns.com^
 ||cloudflare-gateway.com^
+||cloudflaredns.com^
 ||cloudflareresolve.com^
 ||cloudns.bosco.ovh^
 ||cloudsrv.charitosnet.de^
@@ -754,6 +758,9 @@
 ||dds.wpme.pl^
 ||de-adguard.dr3ff1c13nt.com^
 ||de-dus.doh.sb^
+||de-fra-w-f-1.nashkan.net^
+||de-fra-w-f-2.nashkan.net^
+||de-fra-w-f-3.nashkan.net^
 ||de-fra-w-p-1.nashkan.net^
 ||de-fra.doh.sb^
 ||de-fsn-w-p-1.nashkan.net^
@@ -2157,6 +2164,7 @@
 ||domeq.waw.pl^
 ||dooh.cloudflare-dns.com^
 ||door.plasmadancer.ru^
+||doq.dns4all.eu^
 ||doq.sa-sa.eu^
 ||doq64.dns4all.eu^
 ||dorkanddoodle.duckdns.org^
@@ -2326,6 +2334,7 @@
 ||flyloadguard.dynu.net^
 ||fnt01.dnscry.pt^
 ||focus.nop.mobi^
+||forzalaquila.servebeer.com^
 ||fr-dns1.bancuh.com^
 ||fr-dns2.bancuh.com^
 ||fr-gra-w-p-1.nashkan.net^
@@ -2490,6 +2499,7 @@
 ||home.wriedts.de^
 ||home27.duckdns.org^
 ||home47a.mooo.com^
+||homec92.dns.army^
 ||homedns.gumeniuk.com^
 ||homeguard.sleziona.org^
 ||homelab.terabit.net.id^
@@ -2821,6 +2831,7 @@
 ||mickedi.isgood.host^
 ||micro.alloxr.info^
 ||midgard.asguardian.de^
+||midns.clicinternet.com^
 ||mijoregner.de^
 ||mikatos.de^
 ||mikewaddick.com^
@@ -3132,6 +3143,7 @@
 ||portainer.roades.org^
 ||positif4.cross.net.id^
 ||powerankerfrankfurthy.mbahmaee.ir^
+||ppmanu.ddns.net^
 ||pqh.ddns.net^
 ||pr-nnss.ppleg.icu^
 ||premiumtier-network.instadart.net^
@@ -3166,6 +3178,7 @@
 ||punono.duckdns.org^
 ||pure.lunetra.online^
 ||puredns.org^
+||purpose.shamanlanding.org^
 ||pygos.space^
 ||qaz.tw^
 ||qdns02.nymterm.com^
@@ -3256,6 +3269,7 @@
 ||ro-buc-w-f-1.nashkan.net^
 ||ro-buc-w-p-1.nashkan.net^
 ||roades.org^
+||roadesdyn.go.ro^
 ||rockwell.website^
 ||roma.vpn.geshido.ru^
 ||romania.privacy-dns.pw^
@@ -3423,6 +3437,7 @@
 ||st.flyzhouyc.win^
 ||statistics.larryvpn.com^
 ||steering.nextdns.io^
+||stella.clae.net^
 ||sterlingharris.com^
 ||sto01.dnscry.pt^
 ||sto02.dnscry.pt^
@@ -3513,6 +3528,7 @@
 ||tsm01.dnscry.pt^
 ||ttag.dns.nomu.pw^
 ||tuandns.duckdns.org^
+||tuantran.cloud^
 ||tujenasnaszato.xyz^
 ||tungdnsne.duckdns.org^
 ||tuskythehusky.tech^
@@ -3558,6 +3574,7 @@
 ||ur.hytec.org^
 ||uranus.plonknet.com^
 ||urology.wiki^
+||us-ash-w-f-1.nashkan.net^
 ||us-chi-w-f-1.nashkan.net^
 ||us-chi-w-p-1.nashkan.net^
 ||us-dal-w-p-1.nashkan.net^
