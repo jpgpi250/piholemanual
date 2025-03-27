@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2025-03-25 03:56:37 (UTC)
+! Last updated: 2025-03-26 04:03:58 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -85,6 +85,7 @@
 ||ad.huyct.net^
 ||ad.jiatianxa1.top^
 ||ad.justincounts.com^
+||ad.kone.ink^
 ||ad.pyio.top^
 ||ad.r60.pl^
 ||ad.timefine.org^
@@ -137,6 +138,7 @@
 ||adg.jabertechnologies.ch^
 ||adg.jnorton.us^
 ||adg.khon.dev^
+||adg.mnml.co.in^
 ||adg.pidns.de^
 ||adg.rokh.biz^
 ||adg.rueiliu.space^
@@ -161,6 +163,7 @@
 ||adguard-us1.cloudmini.net^
 ||adguard-us2.cloudmini.net^
 ||adguard-vn1.cloudmini.net^
+||adguard-vn2.cloudmini.net^
 ||adguard.007terminal.com^
 ||adguard.0a4.de^
 ||adguard.abd.ong^
@@ -214,6 +217,7 @@
 ||adguard.ender.fr^
 ||adguard.eoghan-net.com^
 ||adguard.eximpius.xyz^
+||adguard.exium.net^
 ||adguard.ext.devkon.org^
 ||adguard.fam-rodenburg.nl^
 ||adguard.fatu.systems^
@@ -636,6 +640,7 @@
 ||bucheli.synology.me^
 ||bud01.dnscry.pt^
 ||buh01.dnscry.pt^
+||bvo.giize.com^
 ||bw.mijoregner.de^
 ||bwg.559299366.xyz^
 ||bwg.sooda.moe^
@@ -650,6 +655,7 @@
 ||ca.doh.cloudveil.org^
 ||ca01.dns4me.net^
 ||ca02.dns4me.net^
+||cache.viewdns.net^
 ||callcontrol.nop.mobi^
 ||callies-online.site^
 ||canadianshield.cira.ca^
@@ -694,7 +700,6 @@
 ||cloudbenders.fun^
 ||cloudflare-dns.com^
 ||cloudflare-gateway.com^
-||cloudflaredns.com^
 ||cloudflareresolve.com^
 ||cloudns.bosco.ovh^
 ||cloudsrv.charitosnet.de^
@@ -792,6 +797,7 @@
 ||dgca.myds.me^
 ||dhlifeus-micro1.dns.3456.kr^
 ||digitale-gesellschaft.ch^
+||dinoclouds.store^
 ||disbish.com^
 ||diskstation.alexpollard.net^
 ||djtesok.ddns.net^
@@ -904,6 +910,7 @@
 ||dns.alvosec.com^
 ||dns.alwynstudio.com.au^
 ||dns.amigo-mgn.ru^
+||dns.amyy.uk^
 ||dns.andrewnw.xyz^
 ||dns.andreykiv.com^
 ||dns.anne-pierre.fr^
@@ -951,6 +958,7 @@
 ||dns.benpro.fr^
 ||dns.bermeitinger.eu^
 ||dns.beta.gandi.net^
+||dns.bgeneto.com^
 ||dns.bibitos.cc^
 ||dns.bitdefender.net^
 ||dns.bitgeek.in^
@@ -1531,6 +1539,7 @@
 ||dns.qpt.one^
 ||dns.qrtz.club^
 ||dns.quad9.net^
+||dns.quanhd.net^
 ||dns.quickline.ch^
 ||dns.quiet.rocks^
 ||dns.rabbitdns.org^
@@ -1756,6 +1765,7 @@
 ||dns.xxxxxxxx.pp.ua^
 ||dns.xydustc.me^
 ||dns.xyz.ddnss.eu^
+||dns.y2f.xyz^
 ||dns.yameenassotally.com^
 ||dns.yandex.ru^
 ||dns.yatima.tv^
@@ -1866,6 +1876,7 @@
 ||dns2.sillav.dev^
 ||dns2.srv-home.fr^
 ||dns2.srv.augh.ru^
+||dns2.svip.one^
 ||dns2.thylacine.co.nz^
 ||dns2.vinc.me^
 ||dns2.ytpom.ru^
@@ -1877,6 +1888,7 @@
 ||dns64.cloudflare-dns.com^
 ||dns64.dns.google^
 ||dns8.org^
+||dns88.site^
 ||dns9.quad9.net^
 ||dns9999.duckdns.org^
 ||dnsaguard1.duckdns.org^
@@ -2164,7 +2176,6 @@
 ||domeq.waw.pl^
 ||dooh.cloudflare-dns.com^
 ||door.plasmadancer.ru^
-||doq.dns4all.eu^
 ||doq.sa-sa.eu^
 ||doq64.dns4all.eu^
 ||dorkanddoodle.duckdns.org^
@@ -2353,6 +2364,7 @@
 ||friend.bedro.cloud^
 ||fritz-er.circumitor.de^
 ||fritz-hbh.circumitor.de^
+||frkn.frkn.cloud^
 ||frog.dns.qwer.pw^
 ||fuchur.pentament.de^
 ||fukuda.ccnt.fr^
@@ -2451,6 +2463,7 @@
 ||hgrps.eu^
 ||hgzwy.xyz^
 ||hi-ih.com^
+||himeko297.asuscomm.com^
 ||hitian.me^
 ||hk-adg.bluenight.me^
 ||hk-hkg.doh.sb^
@@ -2840,6 +2853,7 @@
 ||mil01.dnscry.pt^
 ||minami.website^
 ||minilla.store^
+||miskoss.fun^
 ||mk.skynetinternet.com.br^
 ||mnrv.trade^
 ||mo0on15.com^
@@ -2881,6 +2895,7 @@
 ||n.3363.net^
 ||n.nop.mobi^
 ||n0.eu^
+||n10.martkotur.ru^
 ||n5.lsasss.com^
 ||naganohara-yoimiya.momokko.moe^
 ||najiakeji.top^
@@ -3013,6 +3028,7 @@
 ||nydns.omada.cafe^
 ||nyx.webteufel-it.solutions^
 ||nz01.dns4me.net^
+||nzdns.highenergymagic.net^
 ||o--o.duckdns.org^
 ||o.rsaikat.com^
 ||o1.lt^
@@ -3030,6 +3046,7 @@
 ||one.one.one.one^
 ||online.zotio.ru^
 ||oostelbos.dynu.com^
+||oowo.de^
 ||op.htyweb.top^
 ||open-resolver1.unima.ac.id^
 ||open.dns0.eu^
@@ -3146,6 +3163,7 @@
 ||ppmanu.ddns.net^
 ||pqh.ddns.net^
 ||pr-nnss.ppleg.icu^
+||prdot.cldsrv.es^
 ||premiumtier-network.instadart.net^
 ||prg01.dnscry.pt^
 ||princez.uk^
@@ -3195,6 +3213,7 @@
 ||r1bnc.com^
 ||r1bnc.eu.org^
 ||rafi.dynns.com^
+||raj.pw^
 ||ralfs-dns.dsh.lol^
 ||randn.ru^
 ||rasp.matthias-iwer.de^
@@ -3323,6 +3342,7 @@
 ||schimtar.com^
 ||scottdylewski.com^
 ||sdns.233py.com^
+||sdns22.gkonuralp.com^
 ||sdvizhkov.ru^
 ||sea01.dnscry.pt^
 ||seanyan.ddns.net^
@@ -3702,6 +3722,7 @@
 ||walker.mynetgear.com^
 ||wallpap.eu^
 ||wanam.ddns.net^
+||wandana.franklinfamily.au^
 ||wantaquddin.com^
 ||waw01.dnscry.pt^
 ||waw02.dnscry.pt^
@@ -3783,6 +3804,7 @@
 ||www.muxyuji.ru^
 ||www.nilanjan.rocks^
 ||www.nop.mobi^
+||www.oowo.de^
 ||www.pdnssrvagh.online^
 ||www.pingbi.xyz^
 ||www.pukanuragan.ru^
