@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2503280349 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2503290308 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2025-03-28 03:49:54 (UTC)
+; Last updated: 2025-03-29 03:08:19 (UTC)
 ;
 ; See https://jpgpi250.github.io/piholemanual/doc/Unbound%20response%20policy%20zones.pdf
 ; Report issues at https://github.com/jpgpi250/piholemanual/issues
@@ -148,6 +148,7 @@ adg.rokh.biz CNAME .
 adg.rueiliu.space CNAME .
 adg.spacework.com.mx CNAME .
 adg.tshost.no CNAME .
+adg.yybyy.wiki CNAME .
 adg5yvi.ngatngay.net CNAME .
 adgaurd.lingmont.net CNAME .
 adghome.charleschan.net CNAME .
@@ -255,6 +256,7 @@ adguard.johanliebert.top CNAME .
 adguard.josephyap.me CNAME .
 adguard.jpjb.net CNAME .
 adguard.k-likhachev.ru CNAME .
+adguard.kantinyoyok.xyz CNAME .
 adguard.kasbot.net CNAME .
 adguard.kiboko.it CNAME .
 adguard.kitakitsune.xyz CNAME .
@@ -705,7 +707,6 @@ cloud.tezoi.com CNAME .
 cloudbenders.fun CNAME .
 cloudflare-dns.com CNAME .
 cloudflare-gateway.com CNAME .
-cloudflaredns.com CNAME .
 cloudflareresolve.com CNAME .
 cloudns.bosco.ovh CNAME .
 cloudsrv.charitosnet.de CNAME .
@@ -1932,7 +1933,6 @@ dnspub.restena.lu CNAME .
 dnsse-noads.alekberg.net CNAME .
 dnsse.alekberg.net CNAME .
 dnssec.dns.enginyring.com CNAME .
-dnssenoads.alekberg.net CNAME .
 dnsserver.mailchan.eu CNAME .
 dnssilo.top CNAME .
 dnssp.koretech.com.br CNAME .
@@ -2185,6 +2185,7 @@ dooh.cloudflare-dns.com CNAME .
 door.plasmadancer.ru CNAME .
 doq.dns4all.eu CNAME .
 doq.sa-sa.eu CNAME .
+doq64.dns4all.eu CNAME .
 dorkanddoodle.duckdns.org CNAME .
 dot-ch.blahdns.com CNAME .
 dot-de.blahdns.com CNAME .
@@ -3349,6 +3350,7 @@ sby-doh.limotelu.org CNAME .
 schimtar.com CNAME .
 scottdylewski.com CNAME .
 sdns.233py.com CNAME .
+sdns22.gkonuralp.com CNAME .
 sdvizhkov.ru CNAME .
 sea01.dnscry.pt CNAME .
 seanyan.ddns.net CNAME .
