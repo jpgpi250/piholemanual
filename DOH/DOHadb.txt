@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2025-03-28 04:18:01 (UTC)
+! Last updated: 2025-03-29 03:34:33 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -144,6 +144,7 @@
 ||adg.rueiliu.space^
 ||adg.spacework.com.mx^
 ||adg.tshost.no^
+||adg.yybyy.wiki^
 ||adg5yvi.ngatngay.net^
 ||adgaurd.lingmont.net^
 ||adghome.charleschan.net^
@@ -251,6 +252,7 @@
 ||adguard.josephyap.me^
 ||adguard.jpjb.net^
 ||adguard.k-likhachev.ru^
+||adguard.kantinyoyok.xyz^
 ||adguard.kasbot.net^
 ||adguard.kiboko.it^
 ||adguard.kitakitsune.xyz^
@@ -701,7 +703,6 @@
 ||cloudbenders.fun^
 ||cloudflare-dns.com^
 ||cloudflare-gateway.com^
-||cloudflaredns.com^
 ||cloudflareresolve.com^
 ||cloudns.bosco.ovh^
 ||cloudsrv.charitosnet.de^
@@ -1928,7 +1929,6 @@
 ||dnsse-noads.alekberg.net^
 ||dnsse.alekberg.net^
 ||dnssec.dns.enginyring.com^
-||dnssenoads.alekberg.net^
 ||dnsserver.mailchan.eu^
 ||dnssilo.top^
 ||dnssp.koretech.com.br^
@@ -2181,6 +2181,7 @@
 ||door.plasmadancer.ru^
 ||doq.dns4all.eu^
 ||doq.sa-sa.eu^
+||doq64.dns4all.eu^
 ||dorkanddoodle.duckdns.org^
 ||dot-ch.blahdns.com^
 ||dot-de.blahdns.com^
@@ -3345,6 +3346,7 @@
 ||schimtar.com^
 ||scottdylewski.com^
 ||sdns.233py.com^
+||sdns22.gkonuralp.com^
 ||sdvizhkov.ru^
 ||sea01.dnscry.pt^
 ||seanyan.ddns.net^
