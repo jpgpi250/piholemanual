@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2503310243 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2504010216 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2025-03-31 02:43:23 (UTC)
+; Last updated: 2025-04-01 02:16:20 (UTC)
 ;
 ; See https://jpgpi250.github.io/piholemanual/doc/Unbound%20response%20policy%20zones.pdf
 ; Report issues at https://github.com/jpgpi250/piholemanual/issues
@@ -148,6 +148,7 @@ adg.rokh.biz CNAME .
 adg.rueiliu.space CNAME .
 adg.spacework.com.mx CNAME .
 adg.tshost.no CNAME .
+adg.yybyy.wiki CNAME .
 adg5yvi.ngatngay.net CNAME .
 adgaurd.lingmont.net CNAME .
 adghome.charleschan.net CNAME .
@@ -470,7 +471,6 @@ aghdns.com CNAME .
 aghome.jcconnell.com CNAME .
 ahadns.net CNAME .
 ahcek.com CNAME .
-ahoj.email CNAME .
 aihe.app CNAME .
 airmaxcloud.ml CNAME .
 aitkcrev.minhduc.pw CNAME .
@@ -706,6 +706,7 @@ cloud.tezoi.com CNAME .
 cloudbenders.fun CNAME .
 cloudflare-dns.com CNAME .
 cloudflare-gateway.com CNAME .
+cloudflaredns.com CNAME .
 cloudflareresolve.com CNAME .
 cloudns.bosco.ovh CNAME .
 cloudsrv.charitosnet.de CNAME .
@@ -1329,6 +1330,7 @@ dns.kremzein.com CNAME .
 dns.kriswerry.nl CNAME .
 dns.krol.cloud CNAME .
 dns.krushkov.com CNAME .
+dns.kugoapps.com CNAME .
 dns.kukal.cz CNAME .
 dns.kusoneko.moe CNAME .
 dns.kuuhaku.moe CNAME .
@@ -1768,6 +1770,7 @@ dns.xlion.tw CNAME .
 dns.xuming.studio CNAME .
 dns.xusqui.com CNAME .
 dns.xv.fi CNAME .
+dns.xwdmw.xyz CNAME .
 dns.xxxxxxxx.pp.ua CNAME .
 dns.xydustc.me CNAME .
 dns.xyz.ddnss.eu CNAME .
