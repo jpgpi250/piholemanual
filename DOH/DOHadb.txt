@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2025-03-31 03:09:10 (UTC)
+! Last updated: 2025-04-01 02:42:32 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -144,6 +144,7 @@
 ||adg.rueiliu.space^
 ||adg.spacework.com.mx^
 ||adg.tshost.no^
+||adg.yybyy.wiki^
 ||adg5yvi.ngatngay.net^
 ||adgaurd.lingmont.net^
 ||adghome.charleschan.net^
@@ -466,7 +467,6 @@
 ||aghome.jcconnell.com^
 ||ahadns.net^
 ||ahcek.com^
-||ahoj.email^
 ||aihe.app^
 ||airmaxcloud.ml^
 ||aitkcrev.minhduc.pw^
@@ -702,6 +702,7 @@
 ||cloudbenders.fun^
 ||cloudflare-dns.com^
 ||cloudflare-gateway.com^
+||cloudflaredns.com^
 ||cloudflareresolve.com^
 ||cloudns.bosco.ovh^
 ||cloudsrv.charitosnet.de^
@@ -1325,6 +1326,7 @@
 ||dns.kriswerry.nl^
 ||dns.krol.cloud^
 ||dns.krushkov.com^
+||dns.kugoapps.com^
 ||dns.kukal.cz^
 ||dns.kusoneko.moe^
 ||dns.kuuhaku.moe^
@@ -1764,6 +1766,7 @@
 ||dns.xuming.studio^
 ||dns.xusqui.com^
 ||dns.xv.fi^
+||dns.xwdmw.xyz^
 ||dns.xxxxxxxx.pp.ua^
 ||dns.xydustc.me^
 ||dns.xyz.ddnss.eu^
