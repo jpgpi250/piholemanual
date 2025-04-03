@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2504020214 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2504030235 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2025-04-02 02:14:13 (UTC)
+; Last updated: 2025-04-03 02:35:08 (UTC)
 ;
 ; See https://jpgpi250.github.io/piholemanual/doc/Unbound%20response%20policy%20zones.pdf
 ; Report issues at https://github.com/jpgpi250/piholemanual/issues
@@ -425,7 +425,6 @@ ae-fuj-w-p-4.nashkan.net CNAME .
 aerodrorne.vip CNAME .
 affcdn.net CNAME .
 affsoft.cc CNAME .
-africa-mask.wrr.mask.apple-dns.net CNAME .
 africa.avastdns.com CNAME .
 africadns1.liquidtelecom.net CNAME .
 africadns2.liquidtelecom.net CNAME .
@@ -520,17 +519,10 @@ anycast.censurfridns.nu CNAME .
 anycast.dns.nextdns.io CNAME .
 anycast.uncensoreddns.dk CNAME .
 anycast.uncensoreddns.org CNAME .
-apac-mask.wrr.mask.apple-dns.net CNAME .
 api.cloudflareclient.com CNAME .
 apne1.dns.terumi.club CNAME .
 app.kepegawaiandju.id CNAME .
 appart.yoannchappaz.best CNAME .
-apple-relay.akamaized.net CNAME .
-apple-relay.apple.com CNAME .
-apple-relay.cloudfare.com CNAME .
-apple-relay.cloudflare.com CNAME .
-apple-relay.fastly-edge.com CNAME .
-apple-relay.mask.apple-dns.net CNAME .
 applied-privacy.net CNAME .
 aqua.is.my.waifu.cz CNAME .
 arashi.eu.org CNAME .
@@ -666,7 +658,6 @@ cache.viewdns.net CNAME .
 callcontrol.nop.mobi CNAME .
 callies-online.site CNAME .
 canadianshield.cira.ca CNAME .
-canary.mask.apple-dns.net CNAME .
 carolinareaper.heeremans.net CNAME .
 catchen121299.top CNAME .
 catdns.org CNAME .
@@ -707,6 +698,7 @@ cloud.tezoi.com CNAME .
 cloudbenders.fun CNAME .
 cloudflare-dns.com CNAME .
 cloudflare-gateway.com CNAME .
+cloudflaredns.com CNAME .
 cloudflareresolve.com CNAME .
 cloudns.bosco.ovh CNAME .
 cloudsrv.charitosnet.de CNAME .
@@ -2184,7 +2176,6 @@ domburg.beruys.com CNAME .
 domeq.waw.pl CNAME .
 dooh.cloudflare-dns.com CNAME .
 door.plasmadancer.ru CNAME .
-doq.dns4all.eu CNAME .
 doq.sa-sa.eu CNAME .
 doq64.dns4all.eu CNAME .
 dorkanddoodle.duckdns.org CNAME .
@@ -2278,7 +2269,6 @@ eime.goip.de CNAME .
 eka.dilli.dev CNAME .
 eliatofani.ovh CNAME .
 emby.rasp.tv CNAME .
-emea-mask.wrr.mask.apple-dns.net CNAME .
 emmmmm.me CNAME .
 enclosr.co CNAME .
 eoin.dns.walshnet.co.uk CNAME .
@@ -2826,12 +2816,8 @@ man01.dnscry.pt CNAME .
 management.alexpollard.net CNAME .
 maqgie.xyz CNAME .
 mask-api.fe.apple-dns.net CNAME .
-mask-api.fe2.apple-dns.net CNAME .
 mask-api.icloud.com CNAME .
-mask-boot.icloud.com CNAME .
-mask-canary.icloud.com CNAME .
 mask-h2.icloud.com CNAME .
-mask.apple-dns.net CNAME .
 mask.icloud.com CNAME .
 mastergad.me CNAME .
 masters-of-cloud.de CNAME .
@@ -2966,7 +2952,6 @@ nobodyhere.ru CNAME .
 node3.b4el.ru CNAME .
 node9.servernode.store CNAME .
 nop.mobi CNAME .
-north-america-mask.wrr.mask.apple-dns.net CNAME .
 note.dehb.ru CNAME .
 notebait.ddnsfree.com CNAME .
 nqh-dns.duckdns.org CNAME .
@@ -3444,7 +3429,6 @@ sols.co.in CNAME .
 solution.w10.life CNAME .
 songochain.freeddns.org CNAME .
 sorephie-dns2.ddns.net CNAME .
-south-america-mask.wrr.mask.apple-dns.net CNAME .
 spacedns.org CNAME .
 speeddns.top CNAME .
 speedtest.skynetinternet.com.br CNAME .
