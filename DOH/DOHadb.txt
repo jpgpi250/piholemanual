@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2025-04-02 02:40:02 (UTC)
+! Last updated: 2025-04-03 03:03:08 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -421,7 +421,6 @@
 ||aerodrorne.vip^
 ||affcdn.net^
 ||affsoft.cc^
-||africa-mask.wrr.mask.apple-dns.net^
 ||africa.avastdns.com^
 ||africadns1.liquidtelecom.net^
 ||africadns2.liquidtelecom.net^
@@ -516,17 +515,10 @@
 ||anycast.dns.nextdns.io^
 ||anycast.uncensoreddns.dk^
 ||anycast.uncensoreddns.org^
-||apac-mask.wrr.mask.apple-dns.net^
 ||api.cloudflareclient.com^
 ||apne1.dns.terumi.club^
 ||app.kepegawaiandju.id^
 ||appart.yoannchappaz.best^
-||apple-relay.akamaized.net^
-||apple-relay.apple.com^
-||apple-relay.cloudfare.com^
-||apple-relay.cloudflare.com^
-||apple-relay.fastly-edge.com^
-||apple-relay.mask.apple-dns.net^
 ||applied-privacy.net^
 ||aqua.is.my.waifu.cz^
 ||arashi.eu.org^
@@ -662,7 +654,6 @@
 ||callcontrol.nop.mobi^
 ||callies-online.site^
 ||canadianshield.cira.ca^
-||canary.mask.apple-dns.net^
 ||carolinareaper.heeremans.net^
 ||catchen121299.top^
 ||catdns.org^
@@ -703,6 +694,7 @@
 ||cloudbenders.fun^
 ||cloudflare-dns.com^
 ||cloudflare-gateway.com^
+||cloudflaredns.com^
 ||cloudflareresolve.com^
 ||cloudns.bosco.ovh^
 ||cloudsrv.charitosnet.de^
@@ -2180,7 +2172,6 @@
 ||domeq.waw.pl^
 ||dooh.cloudflare-dns.com^
 ||door.plasmadancer.ru^
-||doq.dns4all.eu^
 ||doq.sa-sa.eu^
 ||doq64.dns4all.eu^
 ||dorkanddoodle.duckdns.org^
@@ -2274,7 +2265,6 @@
 ||eka.dilli.dev^
 ||eliatofani.ovh^
 ||emby.rasp.tv^
-||emea-mask.wrr.mask.apple-dns.net^
 ||emmmmm.me^
 ||enclosr.co^
 ||eoin.dns.walshnet.co.uk^
@@ -2822,12 +2812,8 @@
 ||management.alexpollard.net^
 ||maqgie.xyz^
 ||mask-api.fe.apple-dns.net^
-||mask-api.fe2.apple-dns.net^
 ||mask-api.icloud.com^
-||mask-boot.icloud.com^
-||mask-canary.icloud.com^
 ||mask-h2.icloud.com^
-||mask.apple-dns.net^
 ||mask.icloud.com^
 ||mastergad.me^
 ||masters-of-cloud.de^
@@ -2962,7 +2948,6 @@
 ||node3.b4el.ru^
 ||node9.servernode.store^
 ||nop.mobi^
-||north-america-mask.wrr.mask.apple-dns.net^
 ||note.dehb.ru^
 ||notebait.ddnsfree.com^
 ||nqh-dns.duckdns.org^
@@ -3440,7 +3425,6 @@
 ||solution.w10.life^
 ||songochain.freeddns.org^
 ||sorephie-dns2.ddns.net^
-||south-america-mask.wrr.mask.apple-dns.net^
 ||spacedns.org^
 ||speeddns.top^
 ||speedtest.skynetinternet.com.br^
