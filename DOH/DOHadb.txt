@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2025-04-04 03:07:06 (UTC)
+! Last updated: 2025-04-05 03:06:27 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -144,6 +144,7 @@
 ||adg.rueiliu.space^
 ||adg.spacework.com.mx^
 ||adg.tshost.no^
+||adg.yybyy.wiki^
 ||adg5yvi.ngatngay.net^
 ||adgaurd.lingmont.net^
 ||adghome.charleschan.net^
@@ -424,7 +425,6 @@
 ||africadns1.liquidtelecom.net^
 ||africadns2.liquidtelecom.net^
 ||ag.apollohct.com^
-||ag.brianlee.fun^
 ||ag.coco-tama-hoiku.com^
 ||ag.felixf.eu^
 ||ag.ff0x.ca^
@@ -1154,7 +1154,6 @@
 ||dns.fulgore.fr^
 ||dns.fullaccesstointernet.jp.eu.org^
 ||dns.furrydns.de^
-||dns.futuredns.me^
 ||dns.gamban.com^
 ||dns.gayanalysing.co.uk^
 ||dns.ghost.pm^
@@ -2173,6 +2172,7 @@
 ||domeq.waw.pl^
 ||dooh.cloudflare-dns.com^
 ||door.plasmadancer.ru^
+||doq.dns4all.eu^
 ||doq.sa-sa.eu^
 ||doq64.dns4all.eu^
 ||dorkanddoodle.duckdns.org^
@@ -2848,7 +2848,6 @@
 ||minilla.store^
 ||miskoss.fun^
 ||mk.skynetinternet.com.br^
-||mnrv.trade^
 ||mo0on15.com^
 ||moamao.shop^
 ||moise-et-maurice-gardent-la-maison.schneiderus.org^
