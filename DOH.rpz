@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2504060205 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2504070230 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2025-04-06 02:05:19 (UTC)
+; Last updated: 2025-04-07 02:30:50 (UTC)
 ;
 ; See https://jpgpi250.github.io/piholemanual/doc/Unbound%20response%20policy%20zones.pdf
 ; Report issues at https://github.com/jpgpi250/piholemanual/issues
@@ -171,6 +171,7 @@ adguard-vn1.cloudmini.net CNAME .
 adguard-vn2.cloudmini.net CNAME .
 adguard.007terminal.com CNAME .
 adguard.0a4.de CNAME .
+adguard.aa4.co.uk CNAME .
 adguard.abd.ong CNAME .
 adguard.acrobyte.org CNAME .
 adguard.adrianofrongillo.ovh CNAME .
@@ -429,6 +430,7 @@ africa.avastdns.com CNAME .
 africadns1.liquidtelecom.net CNAME .
 africadns2.liquidtelecom.net CNAME .
 ag.apollohct.com CNAME .
+ag.brianlee.fun CNAME .
 ag.coco-tama-hoiku.com CNAME .
 ag.felixf.eu CNAME .
 ag.ff0x.ca CNAME .
@@ -2913,7 +2915,6 @@ ndns.233py.com CNAME .
 neatdns.ustclug.org CNAME .
 nebula.tru.io CNAME .
 nelsonleung.org CNAME .
-nenam.eu CNAME .
 nephos.rocksolidtech.link CNAME .
 net.tt6.net CNAME .
 net01.youcef.io CNAME .
