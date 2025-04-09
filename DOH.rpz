@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2504080219 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2504090153 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2025-04-08 02:19:07 (UTC)
+; Last updated: 2025-04-09 01:53:22 (UTC)
 ;
 ; See https://jpgpi250.github.io/piholemanual/doc/Unbound%20response%20policy%20zones.pdf
 ; Report issues at https://github.com/jpgpi250/piholemanual/issues
@@ -700,7 +700,6 @@ cloud.tezoi.com CNAME .
 cloudbenders.fun CNAME .
 cloudflare-dns.com CNAME .
 cloudflare-gateway.com CNAME .
-cloudflaredns.com CNAME .
 cloudflareresolve.com CNAME .
 cloudns.bosco.ovh CNAME .
 cloudsrv.charitosnet.de CNAME .
@@ -1401,6 +1400,7 @@ dns.mijoregner.de CNAME .
 dns.mikeliu.org CNAME .
 dns.mikopono.nl CNAME .
 dns.mikrotikrumahan.my.id CNAME .
+dns.milkpie.one CNAME .
 dns.mipauns.com CNAME .
 dns.miyun1.com CNAME .
 dns.mmzs.xyz CNAME .
@@ -1751,6 +1751,7 @@ dns.wechat.com CNAME .
 dns.weixin.qq.com.cn CNAME .
 dns.wellstsai.com CNAME .
 dns.wevpn.com CNAME .
+dns.wibenson.cloud CNAME .
 dns.wincservices.com CNAME .
 dns.wns.watch CNAME .
 dns.woodyli.dev CNAME .
