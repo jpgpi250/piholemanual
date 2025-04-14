@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2504130224 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2504140244 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2025-04-13 02:24:10 (UTC)
+; Last updated: 2025-04-14 02:44:07 (UTC)
 ;
 ; See https://jpgpi250.github.io/piholemanual/doc/Unbound%20response%20policy%20zones.pdf
 ; Report issues at https://github.com/jpgpi250/piholemanual/issues
@@ -1038,7 +1038,6 @@ dns.comss.one CNAME .
 dns.connect.fail CNAME .
 dns.containerpi.com CNAME .
 dns.controld.com CNAME .
-dns.criena.net CNAME .
 dns.cryptomize.com CNAME .
 dns.crystalyx.net CNAME .
 dns.csa-rz.de CNAME .
@@ -1246,7 +1245,6 @@ dns.imchristian.de CNAME .
 dns.immanuelschaffer.de CNAME .
 dns.inclusioproject.com CNAME .
 dns.indust.me CNAME .
-dns.indybanipal.com CNAME .
 dns.inforlogia.com CNAME .
 dns.interhub.cc CNAME .
 dns.internal.espresso-tasse.de CNAME .
@@ -1695,7 +1693,6 @@ dns.thisisbigbang.ir CNAME .
 dns.thiz.top CNAME .
 dns.thore.cloud CNAME .
 dns.tick.ee CNAME .
-dns.tierradeayala.com CNAME .
 dns.timboeh.me CNAME .
 dns.timkevin.us CNAME .
 dns.tipsy.coffee CNAME .
@@ -1744,7 +1741,6 @@ dns.vlo.cc CNAME .
 dns.vmath.my.id CNAME .
 dns.vmisch.tech CNAME .
 dns.vod11.xyz CNAME .
-dns.vojtat.cz CNAME .
 dns.volsap.ovh CNAME .
 dns.voronin.uk CNAME .
 dns.voyager2.space CNAME .
@@ -1807,6 +1803,7 @@ dns.zfsystem.tech CNAME .
 dns.zion.dev CNAME .
 dns.zky666.fun CNAME .
 dns.zoogle.cn CNAME .
+dns.zui.lol CNAME .
 dns.zyzh20021020.cn CNAME .
 dns.zzuhacker.cn CNAME .
 dns0.eu CNAME .
@@ -2064,7 +2061,6 @@ doh.epaphrodit.us CNAME .
 doh.ersei.net CNAME .
 doh.es.ahadns.net CNAME .
 doh.eu.dnswarden.com CNAME .
-doh.excdn.eu.org CNAME .
 doh.familyshield.opendns.com CNAME .
 doh.fatucloud.gosprout.org CNAME .
 doh.ffmuc.net CNAME .
@@ -3865,7 +3861,6 @@ x.laoban.fun CNAME .
 x.ns1net.com CNAME .
 x.res.wang CNAME .
 x861g.duckdns.org CNAME .
-xbcpb668.com CNAME .
 xenergy.cc CNAME .
 xfer.au CNAME .
 xholgm.top CNAME .
