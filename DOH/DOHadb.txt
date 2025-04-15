@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2025-04-13 02:53:40 (UTC)
+! Last updated: 2025-04-14 03:15:19 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -1034,7 +1034,6 @@
 ||dns.connect.fail^
 ||dns.containerpi.com^
 ||dns.controld.com^
-||dns.criena.net^
 ||dns.cryptomize.com^
 ||dns.crystalyx.net^
 ||dns.csa-rz.de^
@@ -1242,7 +1241,6 @@
 ||dns.immanuelschaffer.de^
 ||dns.inclusioproject.com^
 ||dns.indust.me^
-||dns.indybanipal.com^
 ||dns.inforlogia.com^
 ||dns.interhub.cc^
 ||dns.internal.espresso-tasse.de^
@@ -1691,7 +1689,6 @@
 ||dns.thiz.top^
 ||dns.thore.cloud^
 ||dns.tick.ee^
-||dns.tierradeayala.com^
 ||dns.timboeh.me^
 ||dns.timkevin.us^
 ||dns.tipsy.coffee^
@@ -1740,7 +1737,6 @@
 ||dns.vmath.my.id^
 ||dns.vmisch.tech^
 ||dns.vod11.xyz^
-||dns.vojtat.cz^
 ||dns.volsap.ovh^
 ||dns.voronin.uk^
 ||dns.voyager2.space^
@@ -1803,6 +1799,7 @@
 ||dns.zion.dev^
 ||dns.zky666.fun^
 ||dns.zoogle.cn^
+||dns.zui.lol^
 ||dns.zyzh20021020.cn^
 ||dns.zzuhacker.cn^
 ||dns0.eu^
@@ -2060,7 +2057,6 @@
 ||doh.ersei.net^
 ||doh.es.ahadns.net^
 ||doh.eu.dnswarden.com^
-||doh.excdn.eu.org^
 ||doh.familyshield.opendns.com^
 ||doh.fatucloud.gosprout.org^
 ||doh.ffmuc.net^
@@ -3861,7 +3857,6 @@
 ||x.ns1net.com^
 ||x.res.wang^
 ||x861g.duckdns.org^
-||xbcpb668.com^
 ||xenergy.cc^
 ||xfer.au^
 ||xholgm.top^
