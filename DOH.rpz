@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2504150222 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2504160221 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2025-04-15 02:22:09 (UTC)
+; Last updated: 2025-04-16 02:21:12 (UTC)
 ;
 ; See https://jpgpi250.github.io/piholemanual/doc/Unbound%20response%20policy%20zones.pdf
 ; Report issues at https://github.com/jpgpi250/piholemanual/issues
@@ -986,7 +986,6 @@ dns.brembeck.cloud CNAME .
 dns.briac-mlb.fr CNAME .
 dns.brian-hong.tech CNAME .
 dns.brionesserver.net CNAME .
-dns.brono.cloud CNAME .
 dns.burgas.pro CNAME .
 dns.busold.ws CNAME .
 dns.butterfly87.sbs CNAME .
@@ -2196,6 +2195,7 @@ dooh.cloudflare-dns.com CNAME .
 door.plasmadancer.ru CNAME .
 doq.dns4all.eu CNAME .
 doq.sa-sa.eu CNAME .
+doq64.dns4all.eu CNAME .
 dorkanddoodle.duckdns.org CNAME .
 dot-ch.blahdns.com CNAME .
 dot-de.blahdns.com CNAME .
