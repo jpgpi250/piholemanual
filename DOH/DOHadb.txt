@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2025-04-17 02:22:49 (UTC)
+! Last updated: 2025-04-18 02:25:10 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -703,6 +703,7 @@
 ||cloudbenders.fun^
 ||cloudflare-dns.com^
 ||cloudflare-gateway.com^
+||cloudflaredns.com^
 ||cloudflareresolve.com^
 ||cloudns.bosco.ovh^
 ||cloudsrv.charitosnet.de^
@@ -1240,6 +1241,7 @@
 ||dns.immanuelschaffer.de^
 ||dns.inclusioproject.com^
 ||dns.indust.me^
+||dns.indybanipal.com^
 ||dns.inforlogia.com^
 ||dns.interhub.cc^
 ||dns.internal.espresso-tasse.de^
@@ -2481,6 +2483,7 @@
 ||hgrps.eu^
 ||hgzwy.xyz^
 ||hi-ih.com^
+||himedns.com^
 ||himeko297.asuscomm.com^
 ||hitian.me^
 ||hk-adg.bluenight.me^
@@ -2553,6 +2556,7 @@
 ||huv01.dnscry.pt^
 ||huyizhou.com^
 ||hwcloud.dns.navy^
+||hydra.plan9-ns1.com^
 ||i-puppy.ru^
 ||i.233py.com^
 ||i.233py.com.a.bdydns.com^
@@ -3396,6 +3400,7 @@
 ||sg.rslvr.eu^
 ||sg.telex.app^
 ||sg.teradns.org^
+||sg.yepdns.com^
 ||sg01.dns4me.net^
 ||sg1.dnswarden.com^
 ||sg2.ooroot.com^
