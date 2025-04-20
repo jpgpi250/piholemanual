@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2504190202 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2504200152 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2025-04-19 02:02:18 (UTC)
+; Last updated: 2025-04-20 01:52:05 (UTC)
 ;
 ; See https://jpgpi250.github.io/piholemanual/doc/Unbound%20response%20policy%20zones.pdf
 ; Report issues at https://github.com/jpgpi250/piholemanual/issues
@@ -1341,7 +1341,6 @@ dns.kzrz.pl CNAME .
 dns.l337.site CNAME .
 dns.l6.ee CNAME .
 dns.labar.re CNAME .
-dns.labnekotest.site CNAME .
 dns.lars-lehmann.net CNAME .
 dns.larsdebruin.net CNAME .
 dns.lashes-brow.ru CNAME .
@@ -2195,6 +2194,7 @@ domburg.beruys.com CNAME .
 domeq.waw.pl CNAME .
 dooh.cloudflare-dns.com CNAME .
 door.plasmadancer.ru CNAME .
+doq.dns4all.eu CNAME .
 doq.sa-sa.eu CNAME .
 doq64.dns4all.eu CNAME .
 dorkanddoodle.duckdns.org CNAME .
@@ -3717,6 +3717,7 @@ vpn.sakhwow.ru CNAME .
 vpn.satadru.dev CNAME .
 vpn.ssytnik.de CNAME .
 vpn.stroialliance.com CNAME .
+vpn.technicule.info CNAME .
 vpn.vosjes.cloud CNAME .
 vpn0109.voodonline.fr CNAME .
 vpn12856.drahonn.pro CNAME .
@@ -3740,6 +3741,7 @@ vpservice.cf CNAME .
 vpsus3.pzhg.me CNAME .
 vrehm.fr CNAME .
 vsrv15195.customer.xenway.de CNAME .
+vtcuong.site CNAME .
 vvmm.me CNAME .
 walhalla.freemyip.com CNAME .
 walker.mynetgear.com CNAME .
