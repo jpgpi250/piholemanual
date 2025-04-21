@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2025-04-19 02:30:58 (UTC)
+! Last updated: 2025-04-20 02:20:39 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -1337,7 +1337,6 @@
 ||dns.l337.site^
 ||dns.l6.ee^
 ||dns.labar.re^
-||dns.labnekotest.site^
 ||dns.lars-lehmann.net^
 ||dns.larsdebruin.net^
 ||dns.lashes-brow.ru^
@@ -2191,6 +2190,7 @@
 ||domeq.waw.pl^
 ||dooh.cloudflare-dns.com^
 ||door.plasmadancer.ru^
+||doq.dns4all.eu^
 ||doq.sa-sa.eu^
 ||doq64.dns4all.eu^
 ||dorkanddoodle.duckdns.org^
@@ -3713,6 +3713,7 @@
 ||vpn.satadru.dev^
 ||vpn.ssytnik.de^
 ||vpn.stroialliance.com^
+||vpn.technicule.info^
 ||vpn.vosjes.cloud^
 ||vpn0109.voodonline.fr^
 ||vpn12856.drahonn.pro^
@@ -3736,6 +3737,7 @@
 ||vpsus3.pzhg.me^
 ||vrehm.fr^
 ||vsrv15195.customer.xenway.de^
+||vtcuong.site^
 ||vvmm.me^
 ||walhalla.freemyip.com^
 ||walker.mynetgear.com^
