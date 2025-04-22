@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2025-04-20 02:20:39 (UTC)
+! Last updated: 2025-04-21 02:44:50 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -516,6 +516,7 @@
 ||angrysky.ru^
 ||anhphamhn82.uk^
 ||anixlab.com^
+||anon.dns.digitale-gesellschaft.ch^
 ||ant.dns.qwer.pw^
 ||antivirus.bebasid.com^
 ||anycast.censurfridns.dk^
@@ -910,6 +911,7 @@
 ||dns.albony.xyz^
 ||dns.alekberg.net^
 ||dns.alidns.com^
+||dns.aliyun.com^
 ||dns.alloxr.info^
 ||dns.almir1904.eu^
 ||dns.alvosec.com^
@@ -2003,6 +2005,7 @@
 ||doh.appliedprivacy.net^
 ||doh.archuser.org^
 ||doh.armadillodns.net^
+||doh.arubadns.it^
 ||doh.asagiri.moe^
 ||doh.asia.dnswarden.com^
 ||doh.au.ahadns.net^
@@ -2024,6 +2027,7 @@
 ||doh.cippapp.com^
 ||doh.cleanbrowsing.org^
 ||doh.cloud-sekeng.com^
+||doh.controld.com^
 ||doh.cornes.me^
 ||doh.corpa.me^
 ||doh.cox.net^
@@ -2038,6 +2042,7 @@
 ||doh.dns-ga.de^
 ||doh.dns.apple.com^
 ||doh.dns.apple.com.v.aaplimg.com^
+||doh.dns.mozilla.com^
 ||doh.dns.sb^
 ||doh.dns1.lonet.org^
 ||doh.dns4all.eu^
@@ -2113,6 +2118,7 @@
 ||doh.ny.ahadns.net^
 ||doh.onedns.net^
 ||doh.opendns.com^
+||doh.opennic.glue^
 ||doh.palapa.net.id^
 ||doh.phdns1.lonet.org^
 ||doh.phdns2.lonet.org^
@@ -2132,6 +2138,7 @@
 ||doh.qis.io^
 ||doh.quickline.ch^
 ||doh.rasmusminde.dk^
+||doh.rethinkdns.com^
 ||doh.rezhajul.io^
 ||doh.runsel.id^
 ||doh.sa-sa.eu^
@@ -2149,12 +2156,16 @@
 ||doh.syshero.org^
 ||doh.technochat.in^
 ||doh.temanbsd.com^
+||doh.tenta.io^
 ||doh.this.web.id^
 ||doh.tiar.app^
 ||doh.tiarap.org^
 ||doh.totoro.pub^
 ||doh.tsmu.co.id^
+||doh.ultradns.com^
 ||doh.umbrella.com^
+||doh.un-censoreddns.com^
+||doh.un-censoreddns.org^
 ||doh.us.dnswarden.com^
 ||doh.us.moe.tips^
 ||doh.valscosmos.com^
@@ -2167,6 +2178,7 @@
 ||doh.xfinity.com^
 ||doh.xorlet.ru^
 ||doh.xyz^
+||doh.yandex.net^
 ||doh.zephyrsec.cfd^
 ||doh.zhongbr.uk^
 ||doh.zknt.org^
@@ -2192,7 +2204,6 @@
 ||door.plasmadancer.ru^
 ||doq.dns4all.eu^
 ||doq.sa-sa.eu^
-||doq64.dns4all.eu^
 ||dorkanddoodle.duckdns.org^
 ||dot-ch.blahdns.com^
 ||dot-de.blahdns.com^
