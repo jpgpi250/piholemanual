@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2504260232 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2504270245 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2025-04-26 02:32:03 (UTC)
+; Last updated: 2025-04-27 02:45:57 (UTC)
 ;
 ; See https://jpgpi250.github.io/piholemanual/doc/Unbound%20response%20policy%20zones.pdf
 ; Report issues at https://github.com/jpgpi250/piholemanual/issues
@@ -708,7 +708,6 @@ cloud.tezoi.com CNAME .
 cloudbenders.fun CNAME .
 cloudflare-dns.com CNAME .
 cloudflare-gateway.com CNAME .
-cloudflaredns.com CNAME .
 cloudflareresolve.com CNAME .
 cloudns.bosco.ovh CNAME .
 cloudsrv.charitosnet.de CNAME .
@@ -946,7 +945,6 @@ dns.ashleyjackson.net CNAME .
 dns.asterimoon.com CNAME .
 dns.asysec.com CNAME .
 dns.atsilva.link CNAME .
-dns.auapi.fun CNAME .
 dns.audet.cloud CNAME .
 dns.auffray.org CNAME .
 dns.axto.me CNAME .
@@ -1111,6 +1109,7 @@ dns.eddi.net CNAME .
 dns.edgeburnmedia.com CNAME .
 dns.edgeworkssystems.ca CNAME .
 dns.edison42.dev CNAME .
+dns.editechstudio.com CNAME .
 dns.efficientdocuments.com CNAME .
 dns.electrotm.org CNAME .
 dns.elemental.software CNAME .
@@ -2205,8 +2204,8 @@ domburg.beruys.com CNAME .
 domeq.waw.pl CNAME .
 dooh.cloudflare-dns.com CNAME .
 door.plasmadancer.ru CNAME .
+doq.dns4all.eu CNAME .
 doq.sa-sa.eu CNAME .
-doq64.dns4all.eu CNAME .
 dorkanddoodle.duckdns.org CNAME .
 dot-ch.blahdns.com CNAME .
 dot-de.blahdns.com CNAME .
