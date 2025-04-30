@@ -32,4 +32,4 @@ do
 	sudo pihole-FTL sqlite3 "${gravitydb}" "insert or ignore into client (ip, comment) values ('$IP', '$COMMENT');"
 	done < /etc/pihole/hosts/localdns.list
 
-pihole restartdns reload-lists  
+sudo /usr/local/bin/pihole reloadlists
