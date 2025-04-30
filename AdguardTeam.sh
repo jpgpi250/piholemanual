@@ -18,8 +18,6 @@ NC='\033[0m' # No Color
 NOK=" [${RED}!${NC}] "
 INFO=" [${BLUE}i${NC}] "
 
-# This script will work for both v5 and v6, change the value to match your version.
-# gravity database: pi-hole v5 - version = 15, v6 version = 19
 dbversion=$(pihole-FTL sqlite3 "${gravitydb}" ".timeout = 2000" \
 	"SELECT value FROM 'info' \
 		WHERE property = 'version';")
@@ -51,4 +49,4 @@ while read line; do
 	done
 done < <(jq --raw-output "map(\"\(.domains)\")|.[]" < /home/pi/cloaked-trackers.json < ${file} | tr -d '[]"')
 
-/usr/local/bin/pihole restartdns reload-lists
+sudo /usr/local/bin/pihole reloadlists
