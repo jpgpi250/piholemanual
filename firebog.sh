@@ -53,4 +53,4 @@ while read nocross; do
 			values ('${nocross}', 1, 0);"
 done < ${workdir}/firebog.list
 
-pihole restartdns reload-lists
+sudo /usr/local/bin/pihole reloadlists
