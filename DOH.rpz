@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2505030154 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2505040157 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2025-05-03 01:54:39 (UTC)
+; Last updated: 2025-05-04 01:57:03 (UTC)
 ;
 ; See https://jpgpi250.github.io/piholemanual/doc/Unbound%20response%20policy%20zones.pdf
 ; Report issues at https://github.com/jpgpi250/piholemanual/issues
@@ -1812,7 +1812,6 @@ dns1.adrianion.eu CNAME .
 dns1.blackrandcrf.ru CNAME .
 dns1.conne.net CNAME .
 dns1.digitale-gesellschaft.ch CNAME .
-dns1.dns-ga.de CNAME .
 dns1.dnscrypt.ca CNAME .
 dns1.gdie.top CNAME .
 dns1.gms.net.id CNAME .
@@ -1858,7 +1857,6 @@ dns2.cbio.top CNAME .
 dns2.cybrespace.net CNAME .
 dns2.developer.li CNAME .
 dns2.digitale-gesellschaft.ch CNAME .
-dns2.dns-ga.de CNAME .
 dns2.dnscrypt.ca CNAME .
 dns2.gms.net.id CNAME .
 dns2.gregoret.com.ar CNAME .
@@ -2029,7 +2027,6 @@ doh.de.blahdns.com CNAME .
 doh.defaultroutes.de CNAME .
 doh.denypradana.com CNAME .
 doh.disconnect.app CNAME .
-doh.dns-ga.de CNAME .
 doh.dns.apple.com CNAME .
 doh.dns.apple.com.v.aaplimg.com CNAME .
 doh.dns.mozilla.com CNAME .
@@ -2460,7 +2457,6 @@ hallo.nop.mobi CNAME .
 han01.dnscry.pt CNAME .
 handy-matthias.dns.internal.espresso-tasse.de CNAME .
 handy-nils.dns.internal.espresso-tasse.de CNAME .
-hanniel.tech CNAME .
 happy365.me CNAME .
 hard.dnsforge.de CNAME .
 hayadns.online CNAME .
