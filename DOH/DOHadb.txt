@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2025-05-02 03:10:17 (UTC)
+! Last updated: 2025-05-03 02:25:05 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -1883,7 +1883,6 @@
 ||dns2.thylacine.co.nz^
 ||dns2.vinc.me^
 ||dns2.ytpom.ru^
-||dns3.dns-ga.de^
 ||dns3.srv.augh.ru^
 ||dns3.wistarip.com^
 ||dns4.bortus.io^
