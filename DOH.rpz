@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2505040157 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2505050150 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2025-05-04 01:57:03 (UTC)
+; Last updated: 2025-05-05 01:50:02 (UTC)
 ;
 ; See https://jpgpi250.github.io/piholemanual/doc/Unbound%20response%20policy%20zones.pdf
 ; Report issues at https://github.com/jpgpi250/piholemanual/issues
@@ -143,7 +143,6 @@ adg.khon.dev CNAME .
 adg.mnml.co.in CNAME .
 adg.pidns.de CNAME .
 adg.rokh.biz CNAME .
-adg.rueiliu.space CNAME .
 adg.scartopo.top CNAME .
 adg.spacework.com.mx CNAME .
 adg.tshost.no CNAME .
@@ -696,7 +695,6 @@ cloud.tezoi.com CNAME .
 cloudbenders.fun CNAME .
 cloudflare-dns.com CNAME .
 cloudflare-gateway.com CNAME .
-cloudflaredns.com CNAME .
 cloudflareresolve.com CNAME .
 cloudns.bosco.ovh CNAME .
 cloudsrv.charitosnet.de CNAME .
@@ -800,7 +798,6 @@ disbish.com CNAME .
 diskstation.alexpollard.net CNAME .
 djtesok.ddns.net CNAME .
 dla.ray0512.win CNAME .
-dltuykfgp.top CNAME .
 dmit.wangjiaqi.store CNAME .
 dn.kyay006.cn CNAME .
 dn5.talesam.org CNAME .
@@ -2187,7 +2184,6 @@ domburg.beruys.com CNAME .
 domeq.waw.pl CNAME .
 dooh.cloudflare-dns.com CNAME .
 door.plasmadancer.ru CNAME .
-doq.dns4all.eu CNAME .
 doq.sa-sa.eu CNAME .
 doq64.dns4all.eu CNAME .
 dorkanddoodle.duckdns.org CNAME .
@@ -3165,7 +3161,6 @@ polisitogel.hair CNAME .
 polisitogel.limo CNAME .
 polisitogel.living CNAME .
 polisitogel.luxe CNAME .
-polisitogel.show CNAME .
 polisitogel.webcam CNAME .
 pooblet.co.za CNAME .
 pope.cnblw.me CNAME .
