@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2025-05-04 02:27:26 (UTC)
+! Last updated: 2025-05-05 02:18:20 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -139,7 +139,6 @@
 ||adg.mnml.co.in^
 ||adg.pidns.de^
 ||adg.rokh.biz^
-||adg.rueiliu.space^
 ||adg.scartopo.top^
 ||adg.spacework.com.mx^
 ||adg.tshost.no^
@@ -692,7 +691,6 @@
 ||cloudbenders.fun^
 ||cloudflare-dns.com^
 ||cloudflare-gateway.com^
-||cloudflaredns.com^
 ||cloudflareresolve.com^
 ||cloudns.bosco.ovh^
 ||cloudsrv.charitosnet.de^
@@ -796,7 +794,6 @@
 ||diskstation.alexpollard.net^
 ||djtesok.ddns.net^
 ||dla.ray0512.win^
-||dltuykfgp.top^
 ||dmit.wangjiaqi.store^
 ||dn.kyay006.cn^
 ||dn5.talesam.org^
@@ -2183,7 +2180,6 @@
 ||domeq.waw.pl^
 ||dooh.cloudflare-dns.com^
 ||door.plasmadancer.ru^
-||doq.dns4all.eu^
 ||doq.sa-sa.eu^
 ||doq64.dns4all.eu^
 ||dorkanddoodle.duckdns.org^
@@ -3161,7 +3157,6 @@
 ||polisitogel.limo^
 ||polisitogel.living^
 ||polisitogel.luxe^
-||polisitogel.show^
 ||polisitogel.webcam^
 ||pooblet.co.za^
 ||pope.cnblw.me^
