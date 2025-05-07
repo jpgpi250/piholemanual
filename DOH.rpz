@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2505060212 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2505070159 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2025-05-06 02:12:58 (UTC)
+; Last updated: 2025-05-07 01:59:12 (UTC)
 ;
 ; See https://jpgpi250.github.io/piholemanual/doc/Unbound%20response%20policy%20zones.pdf
 ; Report issues at https://github.com/jpgpi250/piholemanual/issues
@@ -928,6 +928,7 @@ dns.ashleyjackson.net CNAME .
 dns.asterimoon.com CNAME .
 dns.asysec.com CNAME .
 dns.atsilva.link CNAME .
+dns.auapi.fun CNAME .
 dns.audet.cloud CNAME .
 dns.auffray.org CNAME .
 dns.axto.me CNAME .
@@ -1647,6 +1648,7 @@ dns.sung-il.kim CNAME .
 dns.supercluster.io CNAME .
 dns.superstefan.win CNAME .
 dns.surfshark.com CNAME .
+dns.surfsharkdns.com CNAME .
 dns.surobe.com CNAME .
 dns.sv-zauner.at CNAME .
 dns.svoi.dev CNAME .
@@ -2184,7 +2186,6 @@ domburg.beruys.com CNAME .
 domeq.waw.pl CNAME .
 dooh.cloudflare-dns.com CNAME .
 door.plasmadancer.ru CNAME .
-doq.dns4all.eu CNAME .
 doq.sa-sa.eu CNAME .
 doq64.dns4all.eu CNAME .
 dorkanddoodle.duckdns.org CNAME .
@@ -3622,6 +3623,7 @@ usname.freecdn.one CNAME .
 uw-dns.rubyfish.cn CNAME .
 ux.go20.cf CNAME .
 v.dnscrypt.uk CNAME .
+v.recipes CNAME .
 v1.ufamax.eu CNAME .
 v1.xylto.com CNAME .
 v1552270.hosted-by-vdsina.ru CNAME .
