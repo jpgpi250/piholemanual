@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2025-06-06 02:16:49 (UTC)
+! Last updated: 2025-06-07 02:11:51 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -676,6 +676,8 @@
 ||che.myasustor.com^
 ||chenrouter.chironys.com^
 ||chewbacca.meganerd.nl^
+||child-noads.joindns4.eu^
+||child.joindns4.eu^
 ||chlaebi.synology.me^
 ||chrome.cloudflare-dns.com^
 ||chromium.dns.nextdns.io^
@@ -2195,7 +2197,6 @@
 ||door.plasmadancer.ru^
 ||doq.dns4all.eu^
 ||doq.sa-sa.eu^
-||doq64.dns4all.eu^
 ||dorkanddoodle.duckdns.org^
 ||dot-ch.blahdns.com^
 ||dot-de.blahdns.com^
@@ -2977,6 +2978,7 @@
 ||noads.ddnsgeek.com^
 ||noads.dns.vladpro.ru^
 ||noads.imbuffering.com^
+||noads.joindns4.eu^
 ||noads.jpsrvr.com^
 ||node3.b4el.ru^
 ||node9.servernode.store^
@@ -3200,6 +3202,7 @@
 ||project-evoex.de^
 ||protected.canadianshield.cira.ca^
 ||protectic.infotechlibrary.com^
+||protective.joindns4.eu^
 ||proxjdf.jamesferrand.fr^
 ||proxy.srs.su^
 ||ps1.modr.club^
@@ -3600,6 +3603,7 @@
 ||unfiltered.adguard-dns.com^
 ||unfiltered.adguarddns.com^
 ||unfiltered.dns.sainternet.xyz^
+||unfiltered.joindns4.eu^
 ||unicast.censurfridns.dk^
 ||unicast.censurfridns.nu^
 ||unicast.uncensoreddns.dk^
