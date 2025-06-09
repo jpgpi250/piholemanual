@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2025-06-07 02:11:51 (UTC)
+! Last updated: 2025-06-08 02:20:22 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -1985,6 +1985,7 @@
 ||doh-random-upstream.nicolas-dorriere.fr^
 ||doh-rs.whalebone.io^
 ||doh-sg.blahdns.com^
+||doh.18bit.cn^
 ||doh.2kil.com^
 ||doh.30x.me^
 ||doh.360.cn^
