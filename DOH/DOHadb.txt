@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2025-06-08 02:20:22 (UTC)
+! Last updated: 2025-06-09 03:01:09 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -505,6 +505,7 @@
 ||an.loliconapp.top^
 ||an81.ddns.net^
 ||an81dns.ru^
+||ancv.sytes.net^
 ||andrewnw.xyz^
 ||anduong.xyz^
 ||andybunn.onthewifi.com^
@@ -586,6 +587,7 @@
 ||batshitcrazy.ddns.net^
 ||bazooki-infra.dev^
 ||bcandrade.ml^
+||bcn01.dnscry.pt^
 ||be2aja.my.id^
 ||beacon.dog^
 ||beacon.fengli.love^
@@ -743,6 +745,7 @@
 ||d.niaox.com^
 ||d.onlyjsmylord.org^
 ||d.toairs.com^
+||d.zhanchuraevv.ru^
 ||d.zscale.gq^
 ||d010r.517.4d.6u4rd.mlh.re^
 ||d1.insec.link^
@@ -811,6 +814,7 @@
 ||dmit.wangjiaqi.store^
 ||dn.kyay006.cn^
 ||dn5.talesam.org^
+||dns-01.computerservices.co.nz^
 ||dns-01.hir.app^
 ||dns-1.trust2it.ch^
 ||dns-1.wil.cloud^
@@ -1015,6 +1019,7 @@
 ||dns.citystars.cn^
 ||dns.clanless.ovh^
 ||dns.clanto.cloud^
+||dns.cloud-admin.xyz^
 ||dns.cloud.ionutl.ro^
 ||dns.cloud88.com.au^
 ||dns.cloudfiction.eu^
@@ -1207,6 +1212,7 @@
 ||dns.henek.ru^
 ||dns.herkhof.nl^
 ||dns.hinet.net^
+||dns.hitori.cloud^
 ||dns.hnsfwlkj.com^
 ||dns.ho.al^
 ||dns.hoian.one^
@@ -1381,6 +1387,7 @@
 ||dns.marasov.id^
 ||dns.marbledfennec.net^
 ||dns.marcbond.uk^
+||dns.marschi.de^
 ||dns.mateo.ovh^
 ||dns.mathewakhil.online^
 ||dns.matthias-prost.com^
@@ -1731,6 +1738,7 @@
 ||dns.vietdns.vn^
 ||dns.vinnyp.xyz^
 ||dns.vinokurov.tk^
+||dns.virtual-qr.ir^
 ||dns.vishalk.com^
 ||dns.vk09.ru^
 ||dns.vladpro.ru^
@@ -1994,6 +2002,7 @@
 ||doh.aaaab3n.moe^
 ||doh.abmb.win^
 ||doh.abraservice.xyz^
+||doh.aipps.vip^
 ||doh.alidns.com^
 ||doh.almir1904.eu^
 ||doh.amonsul.net^
@@ -2046,6 +2055,7 @@
 ||doh.dnscrypt.uk^
 ||doh.dnslify.com^
 ||doh.dnswarden.com^
+||doh.dohdns.space^
 ||doh.domreg.lt^
 ||doh.dscloud.me^
 ||doh.e7.work^
@@ -2492,7 +2502,9 @@
 ||hitian.me^
 ||hk-adg.bluenight.me^
 ||hk-hkg.doh.sb^
+||hk-nnss.150076.xyz^
 ||hk-nnss.ppleg.icu^
+||hk.100992.xyz^
 ||hk.559299366.xyz^
 ||hk.conana.info^
 ||hk.end.pub^
@@ -2864,6 +2876,7 @@
 ||mechanikdns.kozow.com^
 ||meet.nop.mobi^
 ||megumin.is.my.waifu.cz^
+||mel01.dnscry.pt^
 ||mendozasdelivery.com^
 ||meowless.club^
 ||mfimail.eu^
@@ -2940,6 +2953,7 @@
 ||nastya.dns.vladpro.ru^
 ||nat64.tuxis.nl^
 ||naw01.dnscry.pt^
+||ncl01.dnscry.pt^
 ||nd.lgprk.com^
 ||ndns.233py.com^
 ||neatdns.ustclug.org^
@@ -2965,6 +2979,7 @@
 ||ningyan.top^
 ||ninny.duckdns.org^
 ||nitter.ujwie.co^
+||nl-ams-w-p-1.nashkan.net^
 ||nl-ams.doh.sb^
 ||nl-ams2.doh.sb^
 ||nl-dro-w-f-1.nashkan.net^
@@ -3334,6 +3349,7 @@
 ||rx.techomespace.com^
 ||s.hd440.de^
 ||s.idsam.com^
+||s.rafiadinata.web.id^
 ||s1.s2.shahramv1.site^
 ||s1.srch.top^
 ||s2.d3mik.ru^
@@ -3478,6 +3494,7 @@
 ||ssh-storage.ru^
 ||ssytnik.de^
 ||st.flyzhouyc.win^
+||standard.mask.ad^
 ||steering.nextdns.io^
 ||stella.clae.net^
 ||sterlingharris.com^
@@ -3514,6 +3531,7 @@
 ||tartanbahn.eu.org^
 ||tbs01.dnscry.pt^
 ||tecdrive.site^
+||tecworx.at^
 ||tekno.at^
 ||telex.app^
 ||teslacoils.org.uk^
@@ -3569,6 +3587,7 @@
 ||trytackle.ddns.net^
 ||ts.drahonn.pro^
 ||tsm01.dnscry.pt^
+||tsr01.dnscry.pt^
 ||ttag.dns.nomu.pw^
 ||tuandns.duckdns.org^
 ||tuantran.cloud^
@@ -3717,6 +3736,7 @@
 ||vpn.nnip.org^
 ||vpn.sakhwow.ru^
 ||vpn.satadru.dev^
+||vpn.snxi.de^
 ||vpn.ssytnik.de^
 ||vpn.stroialliance.com^
 ||vpn.technicule.info^
