@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2025-06-12 02:10:14 (UTC)
+! Last updated: 2025-06-13 02:29:55 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -907,6 +907,7 @@
 ||dns.ai6.ir^
 ||dns.airmaxcloud.uk^
 ||dns.airns.net^
+||dns.akbxr.com^
 ||dns.alanpearce.eu^
 ||dns.albony.xyz^
 ||dns.alekberg.net^
@@ -1827,6 +1828,7 @@
 ||dns1.blackrandcrf.ru^
 ||dns1.conne.net^
 ||dns1.digitale-gesellschaft.ch^
+||dns1.dns-ga.de^
 ||dns1.dnscrypt.ca^
 ||dns1.gdie.top^
 ||dns1.gms.net.id^
@@ -1872,7 +1874,6 @@
 ||dns2.cybrespace.net^
 ||dns2.developer.li^
 ||dns2.digitale-gesellschaft.ch^
-||dns2.dns-ga.de^
 ||dns2.dnscrypt.ca^
 ||dns2.gms.net.id^
 ||dns2.gregoret.com.ar^
@@ -2188,16 +2189,20 @@
 ||doh.zhongbr.uk^
 ||doh.zknt.org^
 ||doh.zln.wtf^
+||doh0.jusprogdns.com^
 ||doh003.280blocker.net^
 ||doh1.alidns.com^
 ||doh1.b-cdn.net^
 ||doh1.blahdns.com^
+||doh12.jusprogdns.com^
+||doh16.jusprogdns.com^
 ||doh2.abmb.win^
 ||doh2.almir1904.eu^
 ||doh2.b-cdn.net^
 ||doh2.blahdns.com^
 ||doh2.gslb2.xfinity.com^
 ||doh3.almir1904.eu^
+||doh6.jusprogdns.com^
 ||dohdot.coxlab.net^
 ||dohipv6.crypto.sx^
 ||dohsg.blahdns.com^
@@ -2555,6 +2560,7 @@
 ||homeguard.sleziona.org^
 ||homelab.terabit.net.id^
 ||homita.id.vn^
+||hongkong.dnsovertor.cc^
 ||horus-team.com^
 ||host.jerry-lee.uk^
 ||host8.248.cloudhost.in.th^
