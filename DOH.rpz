@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2506130159 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2506140147 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2025-06-13 01:59:15 (UTC)
+; Last updated: 2025-06-14 01:47:57 (UTC)
 ;
 ; See https://jpgpi250.github.io/piholemanual/doc/Unbound%20response%20policy%20zones.pdf
 ; Report issues at https://github.com/jpgpi250/piholemanual/issues
@@ -688,6 +688,8 @@ chlaebi.synology.me CNAME .
 chrome.cloudflare-dns.com CNAME .
 chromium.dns.nextdns.io CNAME .
 chronicle14.tplinkdns.com CNAME .
+chuncheon.dnsovertor.cc CNAME .
+chuncheon1.dnsovertor.cc CNAME .
 chungocoai.name.vn CNAME .
 cintra.ml CNAME .
 circumitor.de CNAME .
@@ -707,7 +709,6 @@ cloud.tezoi.com CNAME .
 cloudbenders.fun CNAME .
 cloudflare-dns.com CNAME .
 cloudflare-gateway.com CNAME .
-cloudflaredns.com CNAME .
 cloudflareresolve.com CNAME .
 cloudns.bosco.ovh CNAME .
 cloudsrv.charitosnet.de CNAME .
@@ -2215,8 +2216,8 @@ domburg.beruys.com CNAME .
 domeq.waw.pl CNAME .
 dooh.cloudflare-dns.com CNAME .
 door.plasmadancer.ru CNAME .
+doq.dns4all.eu CNAME .
 doq.sa-sa.eu CNAME .
-doq64.dns4all.eu CNAME .
 dorkanddoodle.duckdns.org CNAME .
 dot-ch.blahdns.com CNAME .
 dot-de.blahdns.com CNAME .
@@ -2641,6 +2642,7 @@ jabber-server.de CNAME .
 jackyes.ovh CNAME .
 jalexx.freeboxos.fr CNAME .
 jamessou.jamesferrand.fr CNAME .
+japan.dnsovertor.cc CNAME .
 jarjar.meganerd.nl CNAME .
 jax01.dnscry.pt CNAME .
 jcdns.fun CNAME .
@@ -3416,6 +3418,7 @@ security.rabbitdns.org CNAME .
 sel01.dnscry.pt CNAME .
 selsby.info CNAME .
 seoul.101818.xyz CNAME .
+seoul.dnsovertor.cc CNAME .
 server.pragmasec.nl CNAME .
 server01.karl.one CNAME .
 server01.vboekel.nl CNAME .
@@ -3460,6 +3463,7 @@ sin03.dnscry.pt CNAME .
 sin2.edge.access.zznet.fun CNAME .
 sin4.ddnsfree.com CNAME .
 sinda.nop.mobi CNAME .
+singapore.dnsovertor.cc CNAME .
 singy.smartq.dev CNAME .
 sink.nolo.ltd CNAME .
 sinkdns.nihatkalfazade.com CNAME .
