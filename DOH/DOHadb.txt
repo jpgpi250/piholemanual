@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2025-06-13 02:29:55 (UTC)
+! Last updated: 2025-06-14 02:17:49 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -684,6 +684,8 @@
 ||chrome.cloudflare-dns.com^
 ||chromium.dns.nextdns.io^
 ||chronicle14.tplinkdns.com^
+||chuncheon.dnsovertor.cc^
+||chuncheon1.dnsovertor.cc^
 ||chungocoai.name.vn^
 ||cintra.ml^
 ||circumitor.de^
@@ -703,7 +705,6 @@
 ||cloudbenders.fun^
 ||cloudflare-dns.com^
 ||cloudflare-gateway.com^
-||cloudflaredns.com^
 ||cloudflareresolve.com^
 ||cloudns.bosco.ovh^
 ||cloudsrv.charitosnet.de^
@@ -2211,8 +2212,8 @@
 ||domeq.waw.pl^
 ||dooh.cloudflare-dns.com^
 ||door.plasmadancer.ru^
+||doq.dns4all.eu^
 ||doq.sa-sa.eu^
-||doq64.dns4all.eu^
 ||dorkanddoodle.duckdns.org^
 ||dot-ch.blahdns.com^
 ||dot-de.blahdns.com^
@@ -2637,6 +2638,7 @@
 ||jackyes.ovh^
 ||jalexx.freeboxos.fr^
 ||jamessou.jamesferrand.fr^
+||japan.dnsovertor.cc^
 ||jarjar.meganerd.nl^
 ||jax01.dnscry.pt^
 ||jcdns.fun^
@@ -3412,6 +3414,7 @@
 ||sel01.dnscry.pt^
 ||selsby.info^
 ||seoul.101818.xyz^
+||seoul.dnsovertor.cc^
 ||server.pragmasec.nl^
 ||server01.karl.one^
 ||server01.vboekel.nl^
@@ -3456,6 +3459,7 @@
 ||sin2.edge.access.zznet.fun^
 ||sin4.ddnsfree.com^
 ||sinda.nop.mobi^
+||singapore.dnsovertor.cc^
 ||singy.smartq.dev^
 ||sink.nolo.ltd^
 ||sinkdns.nihatkalfazade.com^
