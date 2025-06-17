@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2506160134 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2506170138 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2025-06-16 01:34:00 (UTC)
+; Last updated: 2025-06-17 01:38:18 (UTC)
 ;
 ; See https://jpgpi250.github.io/piholemanual/doc/Unbound%20response%20policy%20zones.pdf
 ; Report issues at https://github.com/jpgpi250/piholemanual/issues
@@ -709,7 +709,6 @@ cloud.tezoi.com CNAME .
 cloudbenders.fun CNAME .
 cloudflare-dns.com CNAME .
 cloudflare-gateway.com CNAME .
-cloudflaredns.com CNAME .
 cloudflareresolve.com CNAME .
 cloudns.bosco.ovh CNAME .
 cloudsrv.charitosnet.de CNAME .
@@ -1880,6 +1879,7 @@ dns2.cbio.top CNAME .
 dns2.cybrespace.net CNAME .
 dns2.developer.li CNAME .
 dns2.digitale-gesellschaft.ch CNAME .
+dns2.dns-ga.de CNAME .
 dns2.dnscrypt.ca CNAME .
 dns2.gms.net.id CNAME .
 dns2.gregoret.com.ar CNAME .
@@ -1908,6 +1908,7 @@ dns2.svip.one CNAME .
 dns2.thylacine.co.nz CNAME .
 dns2.vinc.me CNAME .
 dns2.ytpom.ru CNAME .
+dns3.dns-ga.de CNAME .
 dns3.hu10us22.win CNAME .
 dns3.srv.augh.ru CNAME .
 dns3.wistarip.com CNAME .
@@ -2053,6 +2054,7 @@ doh.de.blahdns.com CNAME .
 doh.defaultroutes.de CNAME .
 doh.denypradana.com CNAME .
 doh.disconnect.app CNAME .
+doh.dns-ga.de CNAME .
 doh.dns.apple.com CNAME .
 doh.dns.apple.com.v.aaplimg.com CNAME .
 doh.dns.mozilla.com CNAME .
@@ -2192,7 +2194,6 @@ doh.xfinity.com CNAME .
 doh.xorlet.ru CNAME .
 doh.xyz CNAME .
 doh.yandex.net CNAME .
-doh.zephyrus.id CNAME .
 doh.zhongbr.uk CNAME .
 doh.zknt.org CNAME .
 doh.zln.wtf CNAME .
@@ -2220,6 +2221,7 @@ dooh.cloudflare-dns.com CNAME .
 door.plasmadancer.ru CNAME .
 doq.dns4all.eu CNAME .
 doq.sa-sa.eu CNAME .
+doq64.dns4all.eu CNAME .
 dorkanddoodle.duckdns.org CNAME .
 dot-ch.blahdns.com CNAME .
 dot-de.blahdns.com CNAME .
@@ -3293,7 +3295,6 @@ resolve.corpa.me CNAME .
 resolve.fknw.de CNAME .
 resolve.srv-pro.de CNAME .
 resolve02.srv-pro.de CNAME .
-resolve2.r9x.cc CNAME .
 resolve2.srv-pro.de CNAME .
 resolver-eu.haringstad.com CNAME .
 resolver-eu.lelux.fi CNAME .
