@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2025-06-16 02:04:00 (UTC)
+! Last updated: 2025-06-17 02:08:41 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -705,7 +705,6 @@
 ||cloudbenders.fun^
 ||cloudflare-dns.com^
 ||cloudflare-gateway.com^
-||cloudflaredns.com^
 ||cloudflareresolve.com^
 ||cloudns.bosco.ovh^
 ||cloudsrv.charitosnet.de^
@@ -1876,6 +1875,7 @@
 ||dns2.cybrespace.net^
 ||dns2.developer.li^
 ||dns2.digitale-gesellschaft.ch^
+||dns2.dns-ga.de^
 ||dns2.dnscrypt.ca^
 ||dns2.gms.net.id^
 ||dns2.gregoret.com.ar^
@@ -1904,6 +1904,7 @@
 ||dns2.thylacine.co.nz^
 ||dns2.vinc.me^
 ||dns2.ytpom.ru^
+||dns3.dns-ga.de^
 ||dns3.hu10us22.win^
 ||dns3.srv.augh.ru^
 ||dns3.wistarip.com^
@@ -2049,6 +2050,7 @@
 ||doh.defaultroutes.de^
 ||doh.denypradana.com^
 ||doh.disconnect.app^
+||doh.dns-ga.de^
 ||doh.dns.apple.com^
 ||doh.dns.apple.com.v.aaplimg.com^
 ||doh.dns.mozilla.com^
@@ -2188,7 +2190,6 @@
 ||doh.xorlet.ru^
 ||doh.xyz^
 ||doh.yandex.net^
-||doh.zephyrus.id^
 ||doh.zhongbr.uk^
 ||doh.zknt.org^
 ||doh.zln.wtf^
@@ -2216,6 +2217,7 @@
 ||door.plasmadancer.ru^
 ||doq.dns4all.eu^
 ||doq.sa-sa.eu^
+||doq64.dns4all.eu^
 ||dorkanddoodle.duckdns.org^
 ||dot-ch.blahdns.com^
 ||dot-de.blahdns.com^
@@ -3289,7 +3291,6 @@
 ||resolve.fknw.de^
 ||resolve.srv-pro.de^
 ||resolve02.srv-pro.de^
-||resolve2.r9x.cc^
 ||resolve2.srv-pro.de^
 ||resolver-eu.haringstad.com^
 ||resolver-eu.lelux.fi^
