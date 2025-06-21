@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2506200150 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2506210209 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2025-06-20 01:50:15 (UTC)
+; Last updated: 2025-06-21 02:09:36 (UTC)
 ;
 ; See https://jpgpi250.github.io/piholemanual/doc/Unbound%20response%20policy%20zones.pdf
 ; Report issues at https://github.com/jpgpi250/piholemanual/issues
@@ -907,7 +907,6 @@ dns.adguard-dns.com CNAME .
 dns.adguard.com CNAME .
 dns.adguarddns.com CNAME .
 dns.adrianlam.com CNAME .
-dns.aeiou.pp.ua CNAME .
 dns.ahmgam.com CNAME .
 dns.ahyxluo.ltd CNAME .
 dns.ai6.ir CNAME .
@@ -2220,8 +2219,8 @@ domburg.beruys.com CNAME .
 domeq.waw.pl CNAME .
 dooh.cloudflare-dns.com CNAME .
 door.plasmadancer.ru CNAME .
+doq.dns4all.eu CNAME .
 doq.sa-sa.eu CNAME .
-doq64.dns4all.eu CNAME .
 dorkanddoodle.duckdns.org CNAME .
 dot-ch.blahdns.com CNAME .
 dot-de.blahdns.com CNAME .
