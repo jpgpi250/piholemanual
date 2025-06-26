@@ -1,6 +1,5 @@
 ##
 ## https://raw.githubusercontent.com/mili-tan/ArashiDNS.Dekunua/main/DoH.list
-## Updated Tue 24 Jun 2025 20:41 CEST
 ##
 101.101.101.101
 103.121.210.210
@@ -11,6 +10,7 @@
 120.53.53.53
 143.244.128.32
 146.112.41.2
+146.19.0.66
 147.78.178.170
 147.78.178.171
 147.78.178.172
