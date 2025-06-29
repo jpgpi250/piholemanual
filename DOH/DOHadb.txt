@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2025-06-27 02:21:22 (UTC)
+! Last updated: 2025-06-28 02:11:23 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -3209,6 +3209,7 @@
 ||polisitogel.limo^
 ||polisitogel.living^
 ||polisitogel.luxe^
+||polisitogel.show^
 ||polisitogel.webcam^
 ||pooblet.co.za^
 ||pope.cnblw.me^
