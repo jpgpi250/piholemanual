@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2507070144 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2507080140 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2025-07-07 01:44:15 (UTC)
+; Last updated: 2025-07-08 01:40:52 (UTC)
 ;
 ; See https://jpgpi250.github.io/piholemanual/doc/Unbound%20response%20policy%20zones.pdf
 ; Report issues at https://github.com/jpgpi250/piholemanual/issues
@@ -709,6 +709,7 @@ cloud.tezoi.com CNAME .
 cloudbenders.fun CNAME .
 cloudflare-dns.com CNAME .
 cloudflare-gateway.com CNAME .
+cloudflaredns.com CNAME .
 cloudflareresolve.com CNAME .
 cloudns.bosco.ovh CNAME .
 cloudsrv.charitosnet.de CNAME .
@@ -2196,20 +2197,16 @@ doh.yandex.net CNAME .
 doh.zhongbr.uk CNAME .
 doh.zknt.org CNAME .
 doh.zln.wtf CNAME .
-doh0.jusprogdns.com CNAME .
 doh003.280blocker.net CNAME .
 doh1.alidns.com CNAME .
 doh1.b-cdn.net CNAME .
 doh1.blahdns.com CNAME .
-doh12.jusprogdns.com CNAME .
-doh16.jusprogdns.com CNAME .
 doh2.abmb.win CNAME .
 doh2.almir1904.eu CNAME .
 doh2.b-cdn.net CNAME .
 doh2.blahdns.com CNAME .
 doh2.gslb2.xfinity.com CNAME .
 doh3.almir1904.eu CNAME .
-doh6.jusprogdns.com CNAME .
 dohdot.coxlab.net CNAME .
 dohipv6.crypto.sx CNAME .
 dohsg.blahdns.com CNAME .
@@ -2568,7 +2565,6 @@ homedns.gumeniuk.com CNAME .
 homeguard.sleziona.org CNAME .
 homelab.terabit.net.id CNAME .
 homita.id.vn CNAME .
-hongkong.dnsovertor.cc CNAME .
 horus-team.com CNAME .
 host.jerry-lee.uk CNAME .
 host8.248.cloudhost.in.th CNAME .
@@ -3466,7 +3462,6 @@ sin03.dnscry.pt CNAME .
 sin2.edge.access.zznet.fun CNAME .
 sin4.ddnsfree.com CNAME .
 sinda.nop.mobi CNAME .
-singapore.dnsovertor.cc CNAME .
 singy.smartq.dev CNAME .
 sink.nolo.ltd CNAME .
 sinkdns.nihatkalfazade.com CNAME .
