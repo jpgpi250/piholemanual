@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2025-07-07 02:14:19 (UTC)
+! Last updated: 2025-07-08 02:10:58 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -705,6 +705,7 @@
 ||cloudbenders.fun^
 ||cloudflare-dns.com^
 ||cloudflare-gateway.com^
+||cloudflaredns.com^
 ||cloudflareresolve.com^
 ||cloudns.bosco.ovh^
 ||cloudsrv.charitosnet.de^
@@ -2192,20 +2193,16 @@
 ||doh.zhongbr.uk^
 ||doh.zknt.org^
 ||doh.zln.wtf^
-||doh0.jusprogdns.com^
 ||doh003.280blocker.net^
 ||doh1.alidns.com^
 ||doh1.b-cdn.net^
 ||doh1.blahdns.com^
-||doh12.jusprogdns.com^
-||doh16.jusprogdns.com^
 ||doh2.abmb.win^
 ||doh2.almir1904.eu^
 ||doh2.b-cdn.net^
 ||doh2.blahdns.com^
 ||doh2.gslb2.xfinity.com^
 ||doh3.almir1904.eu^
-||doh6.jusprogdns.com^
 ||dohdot.coxlab.net^
 ||dohipv6.crypto.sx^
 ||dohsg.blahdns.com^
@@ -2564,7 +2561,6 @@
 ||homeguard.sleziona.org^
 ||homelab.terabit.net.id^
 ||homita.id.vn^
-||hongkong.dnsovertor.cc^
 ||horus-team.com^
 ||host.jerry-lee.uk^
 ||host8.248.cloudhost.in.th^
@@ -3462,7 +3458,6 @@
 ||sin2.edge.access.zznet.fun^
 ||sin4.ddnsfree.com^
 ||sinda.nop.mobi^
-||singapore.dnsovertor.cc^
 ||singy.smartq.dev^
 ||sink.nolo.ltd^
 ||sinkdns.nihatkalfazade.com^
