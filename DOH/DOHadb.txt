@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2025-07-11 02:26:38 (UTC)
+! Last updated: 2025-07-12 02:51:51 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -1360,6 +1360,7 @@
 ||dns.liberador.net^
 ||dns.libost.xyz^
 ||dns.lifeym.xyz^
+||dns.lightmaster.pw^
 ||dns.lihj.me^
 ||dns.lildinosaur.com^
 ||dns.lilith.cloud^
@@ -2165,6 +2166,7 @@
 ||doh.sunoaki.net^
 ||doh.sww.net.id^
 ||doh.syshero.org^
+||doh.sz-dns.com^
 ||doh.technochat.in^
 ||doh.tenta.io^
 ||doh.this.web.id^
