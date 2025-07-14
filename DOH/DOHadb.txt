@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2025-07-12 02:51:51 (UTC)
+! Last updated: 2025-07-13 02:28:58 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -122,6 +122,7 @@
 ||addns1.m-it.ro^
 ||aden.my^
 ||adfight.ru^
+||adfiltro.fun^
 ||adfree.usableprivacy.net^
 ||adfreedns.eu^
 ||adfreedns.top^
@@ -141,6 +142,7 @@
 ||adg.mnml.co.in^
 ||adg.pidns.de^
 ||adg.rokh.biz^
+||adg.rueiliu.space^
 ||adg.scartopo.top^
 ||adg.spacework.com.mx^
 ||adg.tshost.no^
@@ -705,6 +707,7 @@
 ||cloudbenders.fun^
 ||cloudflare-dns.com^
 ||cloudflare-gateway.com^
+||cloudflaredns.com^
 ||cloudflareresolve.com^
 ||cloudns.bosco.ovh^
 ||cloudsrv.charitosnet.de^
@@ -944,7 +947,6 @@
 ||dns.asterimoon.com^
 ||dns.asysec.com^
 ||dns.atsilva.link^
-||dns.auapi.fun^
 ||dns.audet.cloud^
 ||dns.auffray.org^
 ||dns.axto.me^
@@ -1348,6 +1350,7 @@
 ||dns.l337.site^
 ||dns.l6.ee^
 ||dns.labar.re^
+||dns.labnekotest.site^
 ||dns.lars-lehmann.net^
 ||dns.larsdebruin.net^
 ||dns.lashes-brow.ru^
@@ -2038,6 +2041,7 @@
 ||doh.cippapp.com^
 ||doh.cleanbrowsing.org^
 ||doh.cloud-sekeng.com^
+||doh.cnetwork.cloud^
 ||doh.controld.com^
 ||doh.cornes.me^
 ||doh.corpa.me^
@@ -2214,6 +2218,7 @@
 ||door.plasmadancer.ru^
 ||doq.dns4all.eu^
 ||doq.sa-sa.eu^
+||doq64.dns4all.eu^
 ||dorkanddoodle.duckdns.org^
 ||dot-ch.blahdns.com^
 ||dot-de.blahdns.com^
