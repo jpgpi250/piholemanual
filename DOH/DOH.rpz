@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2507150209 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2507160237 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2025-07-15 02:09:31 (UTC)
+; Last updated: 2025-07-16 02:37:37 (UTC)
 ;
 ; See https://jpgpi250.github.io/piholemanual/doc/Unbound%20response%20policy%20zones.pdf
 ; Report issues at https://github.com/jpgpi250/piholemanual/issues
@@ -237,7 +237,6 @@ adguard.fatu.systems CNAME .
 adguard.firestrike-services.de CNAME .
 adguard.frece.de CNAME .
 adguard.fresh-waffles.online CNAME .
-adguard.frutuozo.com.br CNAME .
 adguard.gambini.org CNAME .
 adguard.gattow.com CNAME .
 adguard.gbrossi.com.br CNAME .
@@ -497,6 +496,7 @@ alisa.vd.i81.ru CNAME .
 alisa.vpn.i81.ru CNAME .
 all.dns.mullvad.net CNAME .
 allain.com.br CNAME .
+alleesph.online CNAME .
 alon93rus.ru CNAME .
 alpha.cixy.xyz CNAME .
 ame.drahonn.pro CNAME .
@@ -993,6 +993,7 @@ dns.brembeck.cloud CNAME .
 dns.briac-mlb.fr CNAME .
 dns.brian-hong.tech CNAME .
 dns.brionesserver.net CNAME .
+dns.brono.cloud CNAME .
 dns.burgas.pro CNAME .
 dns.busold.ws CNAME .
 dns.butterfly87.sbs CNAME .
@@ -2219,8 +2220,8 @@ domburg.beruys.com CNAME .
 domeq.waw.pl CNAME .
 dooh.cloudflare-dns.com CNAME .
 door.plasmadancer.ru CNAME .
-doq.dns4all.eu CNAME .
 doq.sa-sa.eu CNAME .
+doq64.dns4all.eu CNAME .
 dorkanddoodle.duckdns.org CNAME .
 dot-ch.blahdns.com CNAME .
 dot-de.blahdns.com CNAME .
