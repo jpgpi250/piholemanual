@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2025-07-15 02:40:37 (UTC)
+! Last updated: 2025-07-16 03:08:48 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -233,7 +233,6 @@
 ||adguard.firestrike-services.de^
 ||adguard.frece.de^
 ||adguard.fresh-waffles.online^
-||adguard.frutuozo.com.br^
 ||adguard.gambini.org^
 ||adguard.gattow.com^
 ||adguard.gbrossi.com.br^
@@ -493,6 +492,7 @@
 ||alisa.vpn.i81.ru^
 ||all.dns.mullvad.net^
 ||allain.com.br^
+||alleesph.online^
 ||alon93rus.ru^
 ||alpha.cixy.xyz^
 ||ame.drahonn.pro^
@@ -989,6 +989,7 @@
 ||dns.briac-mlb.fr^
 ||dns.brian-hong.tech^
 ||dns.brionesserver.net^
+||dns.brono.cloud^
 ||dns.burgas.pro^
 ||dns.busold.ws^
 ||dns.butterfly87.sbs^
@@ -2215,8 +2216,8 @@
 ||domeq.waw.pl^
 ||dooh.cloudflare-dns.com^
 ||door.plasmadancer.ru^
-||doq.dns4all.eu^
 ||doq.sa-sa.eu^
+||doq64.dns4all.eu^
 ||dorkanddoodle.duckdns.org^
 ||dot-ch.blahdns.com^
 ||dot-de.blahdns.com^
