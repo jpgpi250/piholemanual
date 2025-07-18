@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2025-07-16 03:08:48 (UTC)
+! Last updated: 2025-07-17 02:09:11 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -1176,6 +1176,7 @@
 ||dns.fulgore.fr^
 ||dns.fullaccesstointernet.jp.eu.org^
 ||dns.furrydns.de^
+||dns.futuredns.me^
 ||dns.gamban.com^
 ||dns.gayanalysing.co.uk^
 ||dns.ghost.pm^
@@ -1233,6 +1234,7 @@
 ||dns.housedenolf.be^
 ||dns.hr.i81.ru^
 ||dns.huanmave.cc^
+||dns.huas.me^
 ||dns.hub.com.de^
 ||dns.huizegunsing.nl^
 ||dns.huizhechi.com^
@@ -2216,6 +2218,7 @@
 ||domeq.waw.pl^
 ||dooh.cloudflare-dns.com^
 ||door.plasmadancer.ru^
+||doq.dns4all.eu^
 ||doq.sa-sa.eu^
 ||doq64.dns4all.eu^
 ||dorkanddoodle.duckdns.org^
