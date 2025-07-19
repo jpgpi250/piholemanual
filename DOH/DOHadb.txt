@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2025-07-17 02:09:11 (UTC)
+! Last updated: 2025-07-18 02:53:58 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -613,6 +613,7 @@
 ||blackhole.gugainfo.com.br^
 ||blackhole.myon.lu^
 ||blade.lixd.club^
+||blank.dnsforge.de^
 ||bld.sys-adm.in^
 ||blitz-setup.ahadns.com^
 ||blitz.ahadns.com^
@@ -1815,6 +1816,7 @@
 ||dns.zion.dev^
 ||dns.zky666.fun^
 ||dns.zoogle.cn^
+||dns.zui.lol^
 ||dns.zyzh20021020.cn^
 ||dns.zzuhacker.cn^
 ||dns0.eu^
@@ -2277,6 +2279,7 @@
 ||drandrade21.freeddns.org^
 ||drkcloud.ddns.net^
 ||droyd.top^
+||drs.rustsword.com^
 ||ds1.fredic.us^
 ||dsec.nop.mobi^
 ||dstruis.nl^
