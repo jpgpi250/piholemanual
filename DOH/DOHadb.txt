@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2025-07-24 03:13:12 (UTC)
+! Last updated: 2025-07-25 02:51:48 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -708,7 +708,6 @@
 ||cloudbenders.fun^
 ||cloudflare-dns.com^
 ||cloudflare-gateway.com^
-||cloudflaredns.com^
 ||cloudflareresolve.com^
 ||cloudns.bosco.ovh^
 ||cloudsrv.charitosnet.de^
@@ -3915,6 +3914,7 @@
 ||xn--85w848a.jp^
 ||xn--durhre-yxa.de^
 ||xomadns.com^
+||xorbiadns.com^
 ||xpen.ns01.info^
 ||xray.krnl.eu^
 ||xthwo.duckdns.org^
