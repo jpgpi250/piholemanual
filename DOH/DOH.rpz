@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2507270210 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2507280208 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2025-07-27 02:10:34 (UTC)
+; Last updated: 2025-07-28 02:08:04 (UTC)
 ;
 ; See https://jpgpi250.github.io/piholemanual/doc/Unbound%20response%20policy%20zones.pdf
 ; Report issues at https://github.com/jpgpi250/piholemanual/issues
@@ -499,6 +499,7 @@ allain.com.br CNAME .
 alleesph.online CNAME .
 alon93rus.ru CNAME .
 alpha.cixy.xyz CNAME .
+alpha.dnsbunker.org CNAME .
 ame.drahonn.pro CNAME .
 amgr.asuscomm.com CNAME .
 amigo.az.i81.ru CNAME .
@@ -642,6 +643,7 @@ br.lfac.net.br CNAME .
 br.servers.legat.ml CNAME .
 br2.lezainski.com CNAME .
 bravedns.com CNAME .
+bravo.dnsbunker.org CNAME .
 bru01.dnscry.pt CNAME .
 bt.luoo.cc CNAME .
 bts01.dnscry.pt CNAME .
@@ -1929,6 +1931,7 @@ dns9999.duckdns.org CNAME .
 dnsaguard1.duckdns.org CNAME .
 dnsbk.wns.watch CNAME .
 dnsblock.grisumedia.de CNAME .
+dnsbunker.org CNAME .
 dnscache.e-utp.net CNAME .
 dnscache0.ns71.net CNAME .
 dnscdn.bai0012.com CNAME .
@@ -3114,6 +3117,7 @@ oowo.de CNAME .
 op.htyweb.top CNAME .
 open-resolver1.unima.ac.id CNAME .
 open.dns0.eu CNAME .
+openbld.net CNAME .
 opencdn.jomodns.com CNAME .
 opendns.one CNAME .
 openeasy.us CNAME .
