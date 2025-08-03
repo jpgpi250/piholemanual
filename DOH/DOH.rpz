@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2508020303 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2508030155 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2025-08-02 03:03:59 (UTC)
+; Last updated: 2025-08-03 01:55:46 (UTC)
 ;
 ; See https://jpgpi250.github.io/piholemanual/doc/Unbound%20response%20policy%20zones.pdf
 ; Report issues at https://github.com/jpgpi250/piholemanual/issues
@@ -80,6 +80,7 @@ abn01.dnscry.pt CNAME .
 acomit.lk CNAME .
 ad-blocking.eu.org CNAME .
 ad.800801.xyz CNAME .
+ad.anym0re.ru CNAME .
 ad.fai001.top CNAME .
 ad.faraan.xyz CNAME .
 ad.huyct.net CNAME .
@@ -416,7 +417,6 @@ ae-fuj-w-p-1.nashkan.net CNAME .
 ae-fuj-w-p-2.nashkan.net CNAME .
 ae-fuj-w-p-3.nashkan.net CNAME .
 ae-fuj-w-p-4.nashkan.net CNAME .
-aerodrorne.vip CNAME .
 affcdn.net CNAME .
 africa.avastdns.com CNAME .
 africadns1.liquidtelecom.net CNAME .
@@ -698,7 +698,6 @@ cloud.tezoi.com CNAME .
 cloudbenders.fun CNAME .
 cloudflare-dns.com CNAME .
 cloudflare-gateway.com CNAME .
-cloudflaredns.com CNAME .
 cloudflareresolve.com CNAME .
 cloudns.bosco.ovh CNAME .
 cloudsrv.charitosnet.de CNAME .
@@ -2182,6 +2181,7 @@ dooh.cloudflare-dns.com CNAME .
 door.plasmadancer.ru CNAME .
 doq.dns4all.eu CNAME .
 doq.sa-sa.eu CNAME .
+doq64.dns4all.eu CNAME .
 dorkanddoodle.duckdns.org CNAME .
 dot-ch.blahdns.com CNAME .
 dot-de.blahdns.com CNAME .
