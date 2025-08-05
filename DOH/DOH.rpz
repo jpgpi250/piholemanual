@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2508040207 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2508050236 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2025-08-04 02:07:10 (UTC)
+; Last updated: 2025-08-05 02:36:55 (UTC)
 ;
 ; See https://jpgpi250.github.io/piholemanual/doc/Unbound%20response%20policy%20zones.pdf
 ; Report issues at https://github.com/jpgpi250/piholemanual/issues
@@ -174,6 +174,7 @@ adguard.aa4.co.uk CNAME .
 adguard.abd.ong CNAME .
 adguard.acrobyte.org CNAME .
 adguard.adrianofrongillo.ovh CNAME .
+adguard.ajinga.net CNAME .
 adguard.almanasports.com CNAME .
 adguard.altgr.xyz CNAME .
 adguard.alu.dog CNAME .
@@ -698,6 +699,7 @@ cloud.tezoi.com CNAME .
 cloudbenders.fun CNAME .
 cloudflare-dns.com CNAME .
 cloudflare-gateway.com CNAME .
+cloudflaredns.com CNAME .
 cloudflareresolve.com CNAME .
 cloudns.bosco.ovh CNAME .
 cloudsrv.charitosnet.de CNAME .
@@ -1088,7 +1090,6 @@ dns.eddi.net CNAME .
 dns.edgeworkssystems.ca CNAME .
 dns.edison42.dev CNAME .
 dns.editechstudio.com CNAME .
-dns.efficientdocuments.com CNAME .
 dns.electrotm.org CNAME .
 dns.elemental.software CNAME .
 dns.eliv.co.kr CNAME .
@@ -3229,6 +3230,7 @@ resolve.corpa.me CNAME .
 resolve.fknw.de CNAME .
 resolve.srv-pro.de CNAME .
 resolve02.srv-pro.de CNAME .
+resolve2.r9x.cc CNAME .
 resolve2.srv-pro.de CNAME .
 resolver-eu.haringstad.com CNAME .
 resolver-eu.lelux.fi CNAME .
