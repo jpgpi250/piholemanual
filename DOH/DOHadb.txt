@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2025-08-04 02:38:20 (UTC)
+! Last updated: 2025-08-05 03:08:11 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -170,6 +170,7 @@
 ||adguard.abd.ong^
 ||adguard.acrobyte.org^
 ||adguard.adrianofrongillo.ovh^
+||adguard.ajinga.net^
 ||adguard.almanasports.com^
 ||adguard.altgr.xyz^
 ||adguard.alu.dog^
@@ -694,6 +695,7 @@
 ||cloudbenders.fun^
 ||cloudflare-dns.com^
 ||cloudflare-gateway.com^
+||cloudflaredns.com^
 ||cloudflareresolve.com^
 ||cloudns.bosco.ovh^
 ||cloudsrv.charitosnet.de^
@@ -1084,7 +1086,6 @@
 ||dns.edgeworkssystems.ca^
 ||dns.edison42.dev^
 ||dns.editechstudio.com^
-||dns.efficientdocuments.com^
 ||dns.electrotm.org^
 ||dns.elemental.software^
 ||dns.eliv.co.kr^
@@ -3225,6 +3226,7 @@
 ||resolve.fknw.de^
 ||resolve.srv-pro.de^
 ||resolve02.srv-pro.de^
+||resolve2.r9x.cc^
 ||resolve2.srv-pro.de^
 ||resolver-eu.haringstad.com^
 ||resolver-eu.lelux.fi^
