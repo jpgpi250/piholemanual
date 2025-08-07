@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2508060242 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2508070239 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2025-08-06 02:42:25 (UTC)
+; Last updated: 2025-08-07 02:39:58 (UTC)
 ;
 ; See https://jpgpi250.github.io/piholemanual/doc/Unbound%20response%20policy%20zones.pdf
 ; Report issues at https://github.com/jpgpi250/piholemanual/issues
@@ -1090,7 +1090,6 @@ dns.eddi.net CNAME .
 dns.edgeworkssystems.ca CNAME .
 dns.edison42.dev CNAME .
 dns.editechstudio.com CNAME .
-dns.efficientdocuments.com CNAME .
 dns.electrotm.org CNAME .
 dns.elemental.software CNAME .
 dns.eliv.co.kr CNAME .
@@ -1520,6 +1519,7 @@ dns.powerbs.net CNAME .
 dns.pragmasec.nl CNAME .
 dns.presencebuggy.my.id CNAME .
 dns.princex.net CNAME .
+dns.privado.ovh CNAME .
 dns.privateservices.pro CNAME .
 dns.privilab.net CNAME .
 dns.propheci.xyz CNAME .
@@ -2139,6 +2139,7 @@ doh.syshero.org CNAME .
 doh.sz-dns.com CNAME .
 doh.technochat.in CNAME .
 doh.tenta.io CNAME .
+doh.thio.me CNAME .
 doh.this.web.id CNAME .
 doh.tiar.app CNAME .
 doh.tiarap.org CNAME .
