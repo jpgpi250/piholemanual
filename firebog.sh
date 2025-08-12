@@ -13,9 +13,6 @@
 # Report the issue on https://github.com/jpgpi250/piholemanual/issues
 #
 
-workdir="/home/pi"
-gravitydb="/etc/pihole/gravity.db"
-
 # eye candy / color
 RED='\033[0;91m'
 GREEN='\033[0;92m'
@@ -23,6 +20,15 @@ BLUE='\033[0;94m'
 NC='\033[0m' # No Color
 NOK=" [${RED}!${NC}] "
 INFO=" [${BLUE}i${NC}] "
+
+# Make sure only root can run our script
+if [ "$(id -u)" != "0" ]; then
+  echo -e "${NOK}This script must be run as root (use sudo).${NC}"
+  exit 1
+fi
+
+workdir=$(getent passwd $SUDO_USER | cut -d: -f6)
+gravitydb="/etc/pihole/gravity.db"
 
 dbversion=$(pihole-FTL sqlite3 "${gravitydb}" ".timeout = 2000" \
 	"SELECT value FROM 'info' \
@@ -33,22 +39,29 @@ if [[ "${dbversion}" != "19" ]]; then
 	exit
 fi
 
-#wget https://v.firebog.net/hosts/lists.php?type=tick -O $workdir/firebog.list
+#wget https://v.firebog.net/hosts/lists.php?type=tick -O ${workdir}/firebog.list
 wget https://v.firebog.net/hosts/lists.php?type=nocross -O ${workdir}/firebog.list
-#wget https://v.firebog.net/hosts/lists.php?type=all -O $workdir/firebog.list
+#wget https://v.firebog.net/hosts/lists.php?type=all -O ${workdir}/firebog.list
+
+if [ ! -s ${workdir}/firebog.list ]; then
+	echo -e "${NOK}Could not retrieve selected firebog list!${NC}"
+	exit 
+fi
 
 comment="firebog nocross"
 
 # remove quidsub lists (malformed)
 sed -i '/quidsup/d' ${workdir}/firebog.list
+# remove empty lines
+sed -i '/^$/d' ${workdir}/firebog.list
 
 timestamp=$(date +"%s")
 
 while read nocross; do
 	sudo pihole-FTL sqlite3 "${gravitydb}"  ".timeout = 2000" \
 		"insert or ignore into adlist \
-			(address, enabled, type) \
-			values ('${nocross}', 1, 0);"
+			(address, enabled, comment, type) \
+			values ('${nocross}', 1, '${comment}', 0);"
 done < ${workdir}/firebog.list
 
 sudo /usr/local/bin/pihole reloadlists
