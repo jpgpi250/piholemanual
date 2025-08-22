@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2508210238 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2508220234 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2025-08-21 02:38:36 (UTC)
+; Last updated: 2025-08-22 02:34:19 (UTC)
 ;
 ; See https://jpgpi250.github.io/piholemanual/doc/Unbound%20response%20policy%20zones.pdf
 ; Report issues at https://github.com/jpgpi250/piholemanual/issues
@@ -697,6 +697,7 @@ cloud.tezoi.com CNAME .
 cloudbenders.fun CNAME .
 cloudflare-dns.com CNAME .
 cloudflare-gateway.com CNAME .
+cloudflaredns.com CNAME .
 cloudflareresolve.com CNAME .
 cloudns.bosco.ovh CNAME .
 cloudsrv.charitosnet.de CNAME .
@@ -726,7 +727,6 @@ cubedns.com CNAME .
 cvt-ic-us-adns-001.clearviewtechnology.net CNAME .
 cvt01.dnscry.pt CNAME .
 cyliu.idv.tw CNAME .
-cynntex.fun CNAME .
 d.adguard-dns.com CNAME .
 d.apemlegit.my.id CNAME .
 d.bod.lol CNAME .
@@ -1086,7 +1086,6 @@ dns.edc-pws.com CNAME .
 dns.eddi.net CNAME .
 dns.edgeworkssystems.ca CNAME .
 dns.edison42.dev CNAME .
-dns.efficientdocuments.com CNAME .
 dns.electrotm.org CNAME .
 dns.elemental.software CNAME .
 dns.eliv.co.kr CNAME .
@@ -1495,7 +1494,6 @@ dns.paxavemedia.com CNAME .
 dns.pccoach.nl CNAME .
 dns.peb-schmidt.de CNAME .
 dns.periactes.com CNAME .
-dns.pernika.net CNAME .
 dns.pesaventofilippo.com CNAME .
 dns.petqa.ru CNAME .
 dns.pgnhatrang.com CNAME .
