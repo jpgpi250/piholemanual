@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2508290235 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2508300201 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2025-08-29 02:35:23 (UTC)
+; Last updated: 2025-08-30 02:01:52 (UTC)
 ;
 ; See https://jpgpi250.github.io/piholemanual/doc/Unbound%20response%20policy%20zones.pdf
 ; Report issues at https://github.com/jpgpi250/piholemanual/issues
@@ -605,7 +605,6 @@ bl.eq.md CNAME .
 blackhole.gugainfo.com.br CNAME .
 blackhole.myon.lu CNAME .
 blade.lixd.club CNAME .
-blank.dnsforge.de CNAME .
 bld.sys-adm.in CNAME .
 blitz-setup.ahadns.com CNAME .
 blitz.ahadns.com CNAME .
@@ -885,7 +884,6 @@ dns.abluehope.com CNAME .
 dns.abppro.ru CNAME .
 dns.adguard-dns.com CNAME .
 dns.adguard.com CNAME .
-dns.adguarddns.com CNAME .
 dns.adrianlam.com CNAME .
 dns.ahmgam.com CNAME .
 dns.ahyxluo.ltd CNAME .
@@ -1057,7 +1055,6 @@ dns.dhemant.observer CNAME .
 dns.diarbagus.id CNAME .
 dns.dierro.ru CNAME .
 dns.digitale-gesellschaft.ch CNAME .
-dns.digitalegesellschaft.ch CNAME .
 dns.digitalsize.net CNAME .
 dns.dionperera.com CNAME .
 dns.dlinders.nl CNAME .
@@ -1895,8 +1892,6 @@ dnscache0.ns71.net CNAME .
 dnscdn.bai0012.com CNAME .
 dnscity.org CNAME .
 dnsdoh.art CNAME .
-dnsdoh.dnsforfamily.com CNAME .
-dnsdohnosafesearch.dnsforfamily.com CNAME .
 dnsenc.com CNAME .
 dnses.alekberg.net CNAME .
 dnsfilter.domotik.us CNAME .
@@ -2173,14 +2168,11 @@ doh2.blahdns.com CNAME .
 doh2.gslb2.xfinity.com CNAME .
 doh3.almir1904.eu CNAME .
 dohdot.coxlab.net CNAME .
-dohipv6.crypto.sx CNAME .
-dohsg.blahdns.com CNAME .
 dohtrial.att.net CNAME .
 domburg.beruys.com CNAME .
 domeq.waw.pl CNAME .
 dooh.cloudflare-dns.com CNAME .
 door.plasmadancer.ru CNAME .
-doq.dns4all.eu CNAME .
 doq.sa-sa.eu CNAME .
 dorkanddoodle.duckdns.org CNAME .
 dot-ch.blahdns.com CNAME .
@@ -2299,7 +2291,6 @@ f1.dns.s3cure.me CNAME .
 family-filter-dns.cleanbrowsing.org CNAME .
 family.5ososea.com CNAME .
 family.adguard-dns.com CNAME .
-family.adguarddns.com CNAME .
 family.canadianshield.cira.ca CNAME .
 family.cloudflare-dns.com CNAME .
 family.dns.mullvad.net CNAME .
@@ -2457,7 +2448,6 @@ hdnsadguardhome.me CNAME .
 heavenorhell.ru CNAME .
 hel01.dnscry.pt CNAME .
 helios.plan9-dns.com CNAME .
-helios.plan9dns.com CNAME .
 hello.nop.mobi CNAME .
 hetz.sapient.cyou CNAME .
 hexxitcompany.com CNAME .
@@ -2701,7 +2691,6 @@ kracon.anycast.uncensoreddns.dk CNAME .
 kracon.anycast.uncensoreddns.org CNAME .
 krdns.cola16.app CNAME .
 kronos.plan9-dns.com CNAME .
-kronos.plan9dns.com CNAME .
 krtekvpn.duckdns.org CNAME .
 ksedns.ru CNAME .
 kstdownload.com CNAME .
@@ -3130,7 +3119,6 @@ plex.skin57.de CNAME .
 plichaa12.ddns.net CNAME .
 plushub.pro CNAME .
 pluton.plan9-dns.com CNAME .
-pluton.plan9dns.com CNAME .
 pm1239-bd.xyz CNAME .
 pm7051-br.xyz CNAME .
 pm9352-bd.xyz CNAME .
@@ -3565,7 +3553,6 @@ uncensored.lv1.dns.nixnet.xyz CNAME .
 uncensored.ny1.dns.nixnet.xyz CNAME .
 uncensoreddns.org CNAME .
 unfiltered.adguard-dns.com CNAME .
-unfiltered.adguarddns.com CNAME .
 unfiltered.dns.sainternet.xyz CNAME .
 unfiltered.joindns4.eu CNAME .
 unicast.censurfridns.dk CNAME .
@@ -3732,7 +3719,6 @@ wg.req1.fr CNAME .
 whatcaniplay.com CNAME .
 wifrousl.spdns.de CNAME .
 wikimedia-dns.org CNAME .
-wikimediadns.org CNAME .
 win10virtual.az.i81.ru CNAME .
 win10virtual.hr.i81.ru CNAME .
 win10virtual.vd.i81.ru CNAME .
