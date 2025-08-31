@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2025-08-29 03:06:49 (UTC)
+! Last updated: 2025-08-30 02:32:50 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -601,7 +601,6 @@
 ||blackhole.gugainfo.com.br^
 ||blackhole.myon.lu^
 ||blade.lixd.club^
-||blank.dnsforge.de^
 ||bld.sys-adm.in^
 ||blitz-setup.ahadns.com^
 ||blitz.ahadns.com^
@@ -881,7 +880,6 @@
 ||dns.abppro.ru^
 ||dns.adguard-dns.com^
 ||dns.adguard.com^
-||dns.adguarddns.com^
 ||dns.adrianlam.com^
 ||dns.ahmgam.com^
 ||dns.ahyxluo.ltd^
@@ -1053,7 +1051,6 @@
 ||dns.diarbagus.id^
 ||dns.dierro.ru^
 ||dns.digitale-gesellschaft.ch^
-||dns.digitalegesellschaft.ch^
 ||dns.digitalsize.net^
 ||dns.dionperera.com^
 ||dns.dlinders.nl^
@@ -1891,8 +1888,6 @@
 ||dnscdn.bai0012.com^
 ||dnscity.org^
 ||dnsdoh.art^
-||dnsdoh.dnsforfamily.com^
-||dnsdohnosafesearch.dnsforfamily.com^
 ||dnsenc.com^
 ||dnses.alekberg.net^
 ||dnsfilter.domotik.us^
@@ -2169,14 +2164,11 @@
 ||doh2.gslb2.xfinity.com^
 ||doh3.almir1904.eu^
 ||dohdot.coxlab.net^
-||dohipv6.crypto.sx^
-||dohsg.blahdns.com^
 ||dohtrial.att.net^
 ||domburg.beruys.com^
 ||domeq.waw.pl^
 ||dooh.cloudflare-dns.com^
 ||door.plasmadancer.ru^
-||doq.dns4all.eu^
 ||doq.sa-sa.eu^
 ||dorkanddoodle.duckdns.org^
 ||dot-ch.blahdns.com^
@@ -2295,7 +2287,6 @@
 ||family-filter-dns.cleanbrowsing.org^
 ||family.5ososea.com^
 ||family.adguard-dns.com^
-||family.adguarddns.com^
 ||family.canadianshield.cira.ca^
 ||family.cloudflare-dns.com^
 ||family.dns.mullvad.net^
@@ -2453,7 +2444,6 @@
 ||heavenorhell.ru^
 ||hel01.dnscry.pt^
 ||helios.plan9-dns.com^
-||helios.plan9dns.com^
 ||hello.nop.mobi^
 ||hetz.sapient.cyou^
 ||hexxitcompany.com^
@@ -2697,7 +2687,6 @@
 ||kracon.anycast.uncensoreddns.org^
 ||krdns.cola16.app^
 ||kronos.plan9-dns.com^
-||kronos.plan9dns.com^
 ||krtekvpn.duckdns.org^
 ||ksedns.ru^
 ||kstdownload.com^
@@ -3126,7 +3115,6 @@
 ||plichaa12.ddns.net^
 ||plushub.pro^
 ||pluton.plan9-dns.com^
-||pluton.plan9dns.com^
 ||pm1239-bd.xyz^
 ||pm7051-br.xyz^
 ||pm9352-bd.xyz^
@@ -3561,7 +3549,6 @@
 ||uncensored.ny1.dns.nixnet.xyz^
 ||uncensoreddns.org^
 ||unfiltered.adguard-dns.com^
-||unfiltered.adguarddns.com^
 ||unfiltered.dns.sainternet.xyz^
 ||unfiltered.joindns4.eu^
 ||unicast.censurfridns.dk^
@@ -3728,7 +3715,6 @@
 ||whatcaniplay.com^
 ||wifrousl.spdns.de^
 ||wikimedia-dns.org^
-||wikimediadns.org^
 ||win10virtual.az.i81.ru^
 ||win10virtual.hr.i81.ru^
 ||win10virtual.vd.i81.ru^
