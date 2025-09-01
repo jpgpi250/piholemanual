@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2025-08-30 02:32:50 (UTC)
+! Last updated: 2025-08-31 02:37:28 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -516,6 +516,7 @@
 ||anycast.uncensoreddns.dk^
 ||anycast.uncensoreddns.org^
 ||api.cloudflareclient.com^
+||apidns.kwd.inkuai.com^
 ||apne1.dns.terumi.club^
 ||appart.yoannchappaz.best^
 ||applied-privacy.net^
@@ -601,6 +602,7 @@
 ||blackhole.gugainfo.com.br^
 ||blackhole.myon.lu^
 ||blade.lixd.club^
+||blank.dnsforge.de^
 ||bld.sys-adm.in^
 ||blitz-setup.ahadns.com^
 ||blitz.ahadns.com^
@@ -880,6 +882,7 @@
 ||dns.abppro.ru^
 ||dns.adguard-dns.com^
 ||dns.adguard.com^
+||dns.adguarddns.com^
 ||dns.adrianlam.com^
 ||dns.ahmgam.com^
 ||dns.ahyxluo.ltd^
@@ -1051,6 +1054,7 @@
 ||dns.diarbagus.id^
 ||dns.dierro.ru^
 ||dns.digitale-gesellschaft.ch^
+||dns.digitalegesellschaft.ch^
 ||dns.digitalsize.net^
 ||dns.dionperera.com^
 ||dns.dlinders.nl^
@@ -1231,6 +1235,7 @@
 ||dns.ios.so^
 ||dns.ipoac.nl^
 ||dns.ipv6dns.com^
+||dns.iqiyi.com^
 ||dns.irumatech.com^
 ||dns.is0mino.com^
 ||dns.ishan.pw^
@@ -1246,6 +1251,7 @@
 ||dns.itya.xyz^
 ||dns.jamessliu.com^
 ||dns.jcdn.site^
+||dns.jd.com^
 ||dns.jerryw.cn^
 ||dns.jhangy.us^
 ||dns.jichi.io^
@@ -1519,6 +1525,7 @@
 ||dns.pub^
 ||dns.pumpkinvrar.com^
 ||dns.pumplex.com^
+||dns.qiyipic.iqiyi.com^
 ||dns.qkc.fr^
 ||dns.qpt.one^
 ||dns.qrtz.club^
@@ -1734,6 +1741,8 @@
 ||dns.wdnts.eu^
 ||dns.webfork.in^
 ||dns.wechat.com^
+||dns.weibo.cn^
+||dns.weixin.qq.com^
 ||dns.weixin.qq.com.cn^
 ||dns.wellstsai.com^
 ||dns.wevpn.com^
@@ -1888,6 +1897,8 @@
 ||dnscdn.bai0012.com^
 ||dnscity.org^
 ||dnsdoh.art^
+||dnsdoh.dnsforfamily.com^
+||dnsdohnosafesearch.dnsforfamily.com^
 ||dnsenc.com^
 ||dnses.alekberg.net^
 ||dnsfilter.domotik.us^
@@ -2050,6 +2061,7 @@
 ||doh.in.ahadns.net^
 ||doh.infotek.net.id^
 ||doh.infracell.net^
+||doh.iqiyi.com^
 ||doh.it.ahadns.net^
 ||doh.iucc.ac.il^
 ||doh.jeroenhd.nl^
@@ -2103,6 +2115,7 @@
 ||doh.port53.dk^
 ||doh.post-factum.tk^
 ||doh.powerdns.org^
+||doh.ptqy.gitv.tv^
 ||doh.pub^
 ||doh.pyry.me^
 ||doh.qis.io^
@@ -2164,12 +2177,15 @@
 ||doh2.gslb2.xfinity.com^
 ||doh3.almir1904.eu^
 ||dohdot.coxlab.net^
+||dohipv6.crypto.sx^
+||dohsg.blahdns.com^
 ||dohtrial.att.net^
 ||domburg.beruys.com^
 ||domeq.waw.pl^
 ||dooh.cloudflare-dns.com^
 ||door.plasmadancer.ru^
 ||doq.sa-sa.eu^
+||doq64.dns4all.eu^
 ||dorkanddoodle.duckdns.org^
 ||dot-ch.blahdns.com^
 ||dot-de.blahdns.com^
@@ -2216,6 +2232,7 @@
 ||dot1.appliedprivacy.net^
 ||dotdns.cryptroute.com^
 ||doth.huque.com^
+||dotserver.douyucdn.cn^
 ||douglas.mebrak.fr^
 ||douglaster.com^
 ||draco.plan9-ns2.com^
@@ -2287,6 +2304,7 @@
 ||family-filter-dns.cleanbrowsing.org^
 ||family.5ososea.com^
 ||family.adguard-dns.com^
+||family.adguarddns.com^
 ||family.canadianshield.cira.ca^
 ||family.cloudflare-dns.com^
 ||family.dns.mullvad.net^
@@ -2440,10 +2458,12 @@
 ||hard.dnsforge.de^
 ||hayadns.online^
 ||hayadns.site^
+||hdns.ksyun.com^
 ||hdnsadguardhome.me^
 ||heavenorhell.ru^
 ||hel01.dnscry.pt^
 ||helios.plan9-dns.com^
+||helios.plan9dns.com^
 ||hello.nop.mobi^
 ||hetz.sapient.cyou^
 ||hexxitcompany.com^
@@ -2516,9 +2536,42 @@
 ||hr.i81.ru^
 ||hshh.org^
 ||http-dns.imoim.net^
+||httpdns-api.aliyuncs.com^
+||httpdns-browser.platform.dbankcloud.cn^
 ||httpdns-push.heytapmobile.com^
 ||httpdns-sc.aliyuncs.com^
+||httpdns-sdk.n.netease.com^
+||httpdns.alicdn.com^
+||httpdns.baidu.com^
+||httpdns.baidubce.com^
+||httpdns.bcelive.com^
+||httpdns.bilivideo.com^
+||httpdns.browser.miui.com^
+||httpdns.c.163.com^
+||httpdns.c.cdnhwc2.com^
+||httpdns.cctv.com^
+||httpdns.danuoyi.tbcache.com^
+||httpdns.gslb.yy.com^
+||httpdns.huaweicloud.com^
+||httpdns.kg.qq.com^
+||httpdns.kwd.inkuai.com^
 ||httpdns.meituan.com^
+||httpdns.music.163.com^
+||httpdns.n.netease.com^
+||httpdns.n.shifen.com^
+||httpdns.ocloud.heytapmobi.com^
+||httpdns.ocloud.oppomobile.com^
+||httpdns.platform.dbankcloud.cn^
+||httpdns.platform.dbankcloud.com^
+||httpdns.pro^
+||httpdns.push.heytapmobi.com^
+||httpdns.push.oppomobile.com^
+||httpdns.volcengineapi.com^
+||httpdns.yunxindns.com^
+||httpdns.zybang.com^
+||httpdns1.cc.cdnhwc5.com^
+||httpdnsvip.meituan.com^
+||httpsdns.baidu.com^
 ||hungary.privacy-dns.pw^
 ||huntllcx.cn^
 ||huv01.dnscry.pt^
@@ -2687,10 +2740,12 @@
 ||kracon.anycast.uncensoreddns.org^
 ||krdns.cola16.app^
 ||kronos.plan9-dns.com^
+||kronos.plan9dns.com^
 ||krtekvpn.duckdns.org^
 ||ksedns.ru^
 ||kstdownload.com^
 ||kswro.web.id^
+||kuaishou.httpdns.pro^
 ||kudns.kescher.at^
 ||kwas24izynek74.ddns.net^
 ||kx-97795-tr.xyz^
@@ -2739,6 +2794,7 @@
 ||lmc.privatedns.org^
 ||lmc1.privatedns.org^
 ||loadlow.me^
+||lofter.httpdns.c.163.com^
 ||log.qrsoft.ru^
 ||logs.danamas.net^
 ||lomoff.spb.ru^
@@ -2857,6 +2913,7 @@
 ||muli.stusta.mhn.de^
 ||multi.dns.marbledfennec.net^
 ||muppy.pnamae.com^
+||music.httpdns.c.163.com^
 ||musicbot.drahonn.pro^
 ||muxyuji.ru^
 ||mx1.laoxiao789.com^
@@ -3115,6 +3172,7 @@
 ||plichaa12.ddns.net^
 ||plushub.pro^
 ||pluton.plan9-dns.com^
+||pluton.plan9dns.com^
 ||pm1239-bd.xyz^
 ||pm7051-br.xyz^
 ||pm9352-bd.xyz^
@@ -3549,6 +3607,7 @@
 ||uncensored.ny1.dns.nixnet.xyz^
 ||uncensoreddns.org^
 ||unfiltered.adguard-dns.com^
+||unfiltered.adguarddns.com^
 ||unfiltered.dns.sainternet.xyz^
 ||unfiltered.joindns4.eu^
 ||unicast.censurfridns.dk^
@@ -3715,6 +3774,7 @@
 ||whatcaniplay.com^
 ||wifrousl.spdns.de^
 ||wikimedia-dns.org^
+||wikimediadns.org^
 ||win10virtual.az.i81.ru^
 ||win10virtual.hr.i81.ru^
 ||win10virtual.vd.i81.ru^
