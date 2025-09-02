@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2509010232 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2509020201 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2025-09-01 02:32:26 (UTC)
+; Last updated: 2025-09-02 02:01:11 (UTC)
 ;
 ; See https://jpgpi250.github.io/piholemanual/doc/Unbound%20response%20policy%20zones.pdf
 ; Report issues at https://github.com/jpgpi250/piholemanual/issues
@@ -1087,6 +1087,7 @@ dns.east.comss.one CNAME .
 dns.echoif.com CNAME .
 dns.edc-pws.com CNAME .
 dns.eddi.net CNAME .
+dns.edgeburnmedia.com CNAME .
 dns.edgeworkssystems.ca CNAME .
 dns.edison42.dev CNAME .
 dns.efficientdocuments.com CNAME .
@@ -2190,7 +2191,6 @@ dooh.cloudflare-dns.com CNAME .
 door.plasmadancer.ru CNAME .
 doq.dns4all.eu CNAME .
 doq.sa-sa.eu CNAME .
-doq64.dns4all.eu CNAME .
 dorkanddoodle.duckdns.org CNAME .
 dot-ch.blahdns.com CNAME .
 dot-de.blahdns.com CNAME .
@@ -3526,7 +3526,6 @@ tablet-matthias.dns.internal.espresso-tasse.de CNAME .
 takhtakh.domyah.net CNAME .
 tartanbahn.eu.org CNAME .
 tbs01.dnscry.pt CNAME .
-tecdrive.site CNAME .
 tecworx.at CNAME .
 telex.app CNAME .
 teslacoils.org.uk CNAME .
