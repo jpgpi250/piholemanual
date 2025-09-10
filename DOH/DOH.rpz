@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2509090241 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2509100211 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2025-09-09 02:41:30 (UTC)
+; Last updated: 2025-09-10 02:11:28 (UTC)
 ;
 ; See https://jpgpi250.github.io/piholemanual/doc/Unbound%20response%20policy%20zones.pdf
 ; Report issues at https://github.com/jpgpi250/piholemanual/issues
@@ -729,6 +729,7 @@ cubedns.com CNAME .
 cvt-ic-us-adns-001.clearviewtechnology.net CNAME .
 cvt01.dnscry.pt CNAME .
 cyliu.idv.tw CNAME .
+cynntex.fun CNAME .
 d.adguard-dns.com CNAME .
 d.apemlegit.my.id CNAME .
 d.bod.lol CNAME .
@@ -1168,6 +1169,7 @@ dns.groupesaintmichel.fr CNAME .
 dns.grqu.de CNAME .
 dns.gsmseti.net CNAME .
 dns.guard.io CNAME .
+dns.guardmydns.com CNAME .
 dns.gupthabrothers.in CNAME .
 dns.gussguss.ovh CNAME .
 dns.gutwe.in CNAME .
@@ -2191,6 +2193,7 @@ dooh.cloudflare-dns.com CNAME .
 door.plasmadancer.ru CNAME .
 doq.dns4all.eu CNAME .
 doq.sa-sa.eu CNAME .
+doq64.dns4all.eu CNAME .
 dorkanddoodle.duckdns.org CNAME .
 dot-ch.blahdns.com CNAME .
 dot-de.blahdns.com CNAME .
