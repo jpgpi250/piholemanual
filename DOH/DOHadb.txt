@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2025-09-09 03:13:01 (UTC)
+! Last updated: 2025-09-10 02:42:45 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -725,6 +725,7 @@
 ||cvt-ic-us-adns-001.clearviewtechnology.net^
 ||cvt01.dnscry.pt^
 ||cyliu.idv.tw^
+||cynntex.fun^
 ||d.adguard-dns.com^
 ||d.apemlegit.my.id^
 ||d.bod.lol^
@@ -1164,6 +1165,7 @@
 ||dns.grqu.de^
 ||dns.gsmseti.net^
 ||dns.guard.io^
+||dns.guardmydns.com^
 ||dns.gupthabrothers.in^
 ||dns.gussguss.ovh^
 ||dns.gutwe.in^
@@ -2187,6 +2189,7 @@
 ||door.plasmadancer.ru^
 ||doq.dns4all.eu^
 ||doq.sa-sa.eu^
+||doq64.dns4all.eu^
 ||dorkanddoodle.duckdns.org^
 ||dot-ch.blahdns.com^
 ||dot-de.blahdns.com^
