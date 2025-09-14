@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2509130204 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2509140201 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2025-09-13 02:04:14 (UTC)
+; Last updated: 2025-09-14 02:01:04 (UTC)
 ;
 ; See https://jpgpi250.github.io/piholemanual/doc/Unbound%20response%20policy%20zones.pdf
 ; Report issues at https://github.com/jpgpi250/piholemanual/issues
@@ -699,7 +699,6 @@ cloud.tezoi.com CNAME .
 cloudbenders.fun CNAME .
 cloudflare-dns.com CNAME .
 cloudflare-gateway.com CNAME .
-cloudflaredns.com CNAME .
 cloudflareresolve.com CNAME .
 cloudflares.ddns.net CNAME .
 cloudns.bosco.ovh CNAME .
@@ -2194,7 +2193,6 @@ dooh.cloudflare-dns.com CNAME .
 door.plasmadancer.ru CNAME .
 doq.dns4all.eu CNAME .
 doq.sa-sa.eu CNAME .
-doq64.dns4all.eu CNAME .
 dorkanddoodle.duckdns.org CNAME .
 dot-ch.blahdns.com CNAME .
 dot-de.blahdns.com CNAME .
@@ -2547,6 +2545,9 @@ hshh.org CNAME .
 http-dns.imoim.net CNAME .
 httpdns-api.aliyuncs.com CNAME .
 httpdns-browser.platform.dbankcloud.cn CNAME .
+httpdns-platform-dbankcloud-com-dra.wec.dbankedge.cn CNAME .
+httpdns-platform-dbankcloud-com-drcn.wec.dbankedge.cn CNAME .
+httpdns-platform-dbankcloud-com-dre.wec.dbankedge.cn CNAME .
 httpdns-push.heytapmobile.com CNAME .
 httpdns-sc.aliyuncs.com CNAME .
 httpdns-sdk.n.netease.com CNAME .
@@ -3773,6 +3774,7 @@ webdav.cubecloud.win CNAME .
 webmail.drahonn.pro CNAME .
 webmeel.pragmasec.nl CNAME .
 webteufel-it.solutions CNAME .
+wec-httpdns-platform-dbankcloud-com-drcn.region.dbankedge.cn CNAME .
 wg-aghome.freemyip.com CNAME .
 wg.pastorov.ru CNAME .
 wg.req1.fr CNAME .
