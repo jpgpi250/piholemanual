@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2025-09-13 02:36:13 (UTC)
+! Last updated: 2025-09-14 02:30:19 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -695,7 +695,6 @@
 ||cloudbenders.fun^
 ||cloudflare-dns.com^
 ||cloudflare-gateway.com^
-||cloudflaredns.com^
 ||cloudflareresolve.com^
 ||cloudflares.ddns.net^
 ||cloudns.bosco.ovh^
@@ -2190,7 +2189,6 @@
 ||door.plasmadancer.ru^
 ||doq.dns4all.eu^
 ||doq.sa-sa.eu^
-||doq64.dns4all.eu^
 ||dorkanddoodle.duckdns.org^
 ||dot-ch.blahdns.com^
 ||dot-de.blahdns.com^
@@ -2543,6 +2541,9 @@
 ||http-dns.imoim.net^
 ||httpdns-api.aliyuncs.com^
 ||httpdns-browser.platform.dbankcloud.cn^
+||httpdns-platform-dbankcloud-com-dra.wec.dbankedge.cn^
+||httpdns-platform-dbankcloud-com-drcn.wec.dbankedge.cn^
+||httpdns-platform-dbankcloud-com-dre.wec.dbankedge.cn^
 ||httpdns-push.heytapmobile.com^
 ||httpdns-sc.aliyuncs.com^
 ||httpdns-sdk.n.netease.com^
@@ -3769,6 +3770,7 @@
 ||webmail.drahonn.pro^
 ||webmeel.pragmasec.nl^
 ||webteufel-it.solutions^
+||wec-httpdns-platform-dbankcloud-com-drcn.region.dbankedge.cn^
 ||wg-aghome.freemyip.com^
 ||wg.pastorov.ru^
 ||wg.req1.fr^
