@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2025-09-15 02:19:32 (UTC)
+! Last updated: 2025-09-16 03:04:27 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -169,7 +169,6 @@
 ||adguard.abd.ong^
 ||adguard.acrobyte.org^
 ||adguard.adrianofrongillo.ovh^
-||adguard.ajinga.net^
 ||adguard.almanasports.com^
 ||adguard.altgr.xyz^
 ||adguard.alu.dog^
@@ -485,7 +484,6 @@
 ||alleesph.online^
 ||alon93rus.ru^
 ||alpha.cixy.xyz^
-||alpha.dnsbunker.org^
 ||ame.drahonn.pro^
 ||amgr.asuscomm.com^
 ||amigo.az.i81.ru^
@@ -628,7 +626,6 @@
 ||br.servers.legat.ml^
 ||br2.lezainski.com^
 ||bravedns.com^
-||bravo.dnsbunker.org^
 ||bru01.dnscry.pt^
 ||bt.luoo.cc^
 ||bts01.dnscry.pt^
@@ -725,6 +722,7 @@
 ||cvt-ic-us-adns-001.clearviewtechnology.net^
 ||cvt01.dnscry.pt^
 ||cyliu.idv.tw^
+||cynntex.fun^
 ||d.adguard-dns.com^
 ||d.apemlegit.my.id^
 ||d.bod.lol^
@@ -2185,6 +2183,7 @@
 ||domeq.waw.pl^
 ||dooh.cloudflare-dns.com^
 ||door.plasmadancer.ru^
+||doq.dns4all.eu^
 ||doq.sa-sa.eu^
 ||doq64.dns4all.eu^
 ||dorkanddoodle.duckdns.org^
