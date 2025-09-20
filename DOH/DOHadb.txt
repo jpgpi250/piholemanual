@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2025-09-18 03:26:15 (UTC)
+! Last updated: 2025-09-19 03:06:36 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -691,7 +691,6 @@
 ||cloudbenders.fun^
 ||cloudflare-dns.com^
 ||cloudflare-gateway.com^
-||cloudflaredns.com^
 ||cloudflareresolve.com^
 ||cloudflares.ddns.net^
 ||cloudns.bosco.ovh^
@@ -2183,8 +2182,8 @@
 ||domeq.waw.pl^
 ||dooh.cloudflare-dns.com^
 ||door.plasmadancer.ru^
-||doq.dns4all.eu^
 ||doq.sa-sa.eu^
+||doq64.dns4all.eu^
 ||dorkanddoodle.duckdns.org^
 ||dot-ch.blahdns.com^
 ||dot-de.blahdns.com^
@@ -2604,6 +2603,7 @@
 ||in-blr.doh.sb^
 ||inadsware.ddns.net^
 ||ind01.dnscry.pt^
+||india.privacy-dns.pw^
 ||ines.zfn.uni-bremen.de^
 ||ingenmannsland.online^
 ||inpssh.online^
@@ -3506,8 +3506,10 @@
 ||surve.dehb.ru^
 ||svg33.eu^
 ||swe.try-dns.com^
+||sweden.privacy-dns.pw^
 ||sweethome.in.eu.org^
 ||switch.ch^
+||switzerland.privacy-dns.pw^
 ||sx.bnds.link^
 ||syd.adfilter.net^
 ||syd.core.access.zznet.fun^
@@ -3615,6 +3617,7 @@
 ||unicast2.servers.censurfridns.dk^
 ||unifi.be2aja.my.id^
 ||unifi.carioka.com^
+||united-arab-emirates.privacy-dns.pw^
 ||unixfox.duckdns.org^
 ||unp.im^
 ||ur.hytec.org^
