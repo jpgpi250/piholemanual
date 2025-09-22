@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2509210216 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2509220259 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2025-09-21 02:16:23 (UTC)
+; Last updated: 2025-09-22 02:59:17 (UTC)
 ;
 ; See https://jpgpi250.github.io/piholemanual/doc/Unbound%20response%20policy%20zones.pdf
 ; Report issues at https://github.com/jpgpi250/piholemanual/issues
@@ -43,6 +43,7 @@ $TTL 30
 2.dnscrypt-cert.opendns.com CNAME .
 2.dnscrypt-cert.quad9.net CNAME .
 2.dnscrypt-cert.shield-2.dnsbycomodo.com CNAME .
+20010114.xyz CNAME .
 2024.laijy.top CNAME .
 220913.xyz CNAME .
 23.106.141.137.16clouds.com CNAME .
@@ -672,6 +673,7 @@ chenrouter.chironys.com CNAME .
 chewbacca.meganerd.nl CNAME .
 child-noads.joindns4.eu CNAME .
 child.joindns4.eu CNAME .
+chlaebi.info CNAME .
 chlaebi.synology.me CNAME .
 chrome.cloudflare-dns.com CNAME .
 chromium.dns.nextdns.io CNAME .
@@ -778,6 +780,7 @@ dedidl.com CNAME .
 deep-henchman-excuse.cfd CNAME .
 defendfrienddns.fyi CNAME .
 defsnldns01.sc-hosting.info CNAME .
+dehb.ru CNAME .
 deic-lgb.anycast.censurfridns.dk CNAME .
 deic-lgb.anycast.censurfridns.nu CNAME .
 deic-lgb.anycast.uncensoreddns.dk CNAME .
@@ -796,6 +799,7 @@ dfw02.dnscry.pt CNAME .
 dgca.myds.me CNAME .
 dhlifeus-micro1.dns.3456.kr CNAME .
 digitale-gesellschaft.ch CNAME .
+digitallink.be CNAME .
 dinoclouds.store CNAME .
 disbish.com CNAME .
 disinformer.mooo.com CNAME .
@@ -2190,6 +2194,7 @@ dooh.cloudflare-dns.com CNAME .
 door.plasmadancer.ru CNAME .
 doq.dns4all.eu CNAME .
 doq.sa-sa.eu CNAME .
+doq64.dns4all.eu CNAME .
 dorkanddoodle.duckdns.org CNAME .
 dot-ch.blahdns.com CNAME .
 dot-de.blahdns.com CNAME .
@@ -2415,6 +2420,7 @@ gmf2.ddns.net CNAME .
 gn-z11.franscois.co.za CNAME .
 gnode.drahonn.pro CNAME .
 goga7777777.bissnes.org CNAME .
+golegana.de CNAME .
 google-public-dns-a.google.com CNAME .
 google-public-dns-b.google.com CNAME .
 goose.buckyfan.net CNAME .
@@ -2608,10 +2614,12 @@ immadnez7.ru CNAME .
 imperio.top CNAME .
 in-blr.doh.sb CNAME .
 inadsware.ddns.net CNAME .
+incaseineeditoneday.com CNAME .
 ind01.dnscry.pt CNAME .
 india.privacy-dns.pw CNAME .
 ines.zfn.uni-bremen.de CNAME .
 ingenmannsland.online CNAME .
+inoainoa.fun CNAME .
 inpssh.online CNAME .
 internetsehat.bebasid.com CNAME .
 intertop.link CNAME .
@@ -2731,6 +2739,7 @@ kocapb.ru CNAME .
 kokesh.se CNAME .
 kolobok2.duckdns.org CNAME .
 komo4ek.ru CNAME .
+kondrcloud.ru CNAME .
 kopcm.ru CNAME .
 korzhov.dev CNAME .
 kotys.az.i81.ru CNAME .
@@ -3237,6 +3246,7 @@ purpose.shamanlanding.org CNAME .
 pygos.space CNAME .
 qaz.tw CNAME .
 qdns02.nymterm.com CNAME .
+qingmo.vip CNAME .
 qlf-doh.inria.fr CNAME .
 qro01.dnscry.pt CNAME .
 qual.cuprum.ru CNAME .
@@ -3788,6 +3798,7 @@ win10virtual.hr.i81.ru CNAME .
 win10virtual.vd.i81.ru CNAME .
 win10virtual.vpn.i81.ru CNAME .
 wiqi.app CNAME .
+wiqi.top CNAME .
 wireguard.osmenoga.com CNAME .
 wisehomeguard.duckdns.org CNAME .
 wlan.0815cloud.de CNAME .
