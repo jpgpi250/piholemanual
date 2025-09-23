@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2025-09-21 02:45:18 (UTC)
+! Last updated: 2025-09-22 03:30:21 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -39,6 +39,7 @@
 ||2.dnscrypt-cert.opendns.com^
 ||2.dnscrypt-cert.quad9.net^
 ||2.dnscrypt-cert.shield-2.dnsbycomodo.com^
+||20010114.xyz^
 ||2024.laijy.top^
 ||220913.xyz^
 ||23.106.141.137.16clouds.com^
@@ -668,6 +669,7 @@
 ||chewbacca.meganerd.nl^
 ||child-noads.joindns4.eu^
 ||child.joindns4.eu^
+||chlaebi.info^
 ||chlaebi.synology.me^
 ||chrome.cloudflare-dns.com^
 ||chromium.dns.nextdns.io^
@@ -774,6 +776,7 @@
 ||deep-henchman-excuse.cfd^
 ||defendfrienddns.fyi^
 ||defsnldns01.sc-hosting.info^
+||dehb.ru^
 ||deic-lgb.anycast.censurfridns.dk^
 ||deic-lgb.anycast.censurfridns.nu^
 ||deic-lgb.anycast.uncensoreddns.dk^
@@ -792,6 +795,7 @@
 ||dgca.myds.me^
 ||dhlifeus-micro1.dns.3456.kr^
 ||digitale-gesellschaft.ch^
+||digitallink.be^
 ||dinoclouds.store^
 ||disbish.com^
 ||disinformer.mooo.com^
@@ -2186,6 +2190,7 @@
 ||door.plasmadancer.ru^
 ||doq.dns4all.eu^
 ||doq.sa-sa.eu^
+||doq64.dns4all.eu^
 ||dorkanddoodle.duckdns.org^
 ||dot-ch.blahdns.com^
 ||dot-de.blahdns.com^
@@ -2411,6 +2416,7 @@
 ||gn-z11.franscois.co.za^
 ||gnode.drahonn.pro^
 ||goga7777777.bissnes.org^
+||golegana.de^
 ||google-public-dns-a.google.com^
 ||google-public-dns-b.google.com^
 ||goose.buckyfan.net^
@@ -2604,10 +2610,12 @@
 ||imperio.top^
 ||in-blr.doh.sb^
 ||inadsware.ddns.net^
+||incaseineeditoneday.com^
 ||ind01.dnscry.pt^
 ||india.privacy-dns.pw^
 ||ines.zfn.uni-bremen.de^
 ||ingenmannsland.online^
+||inoainoa.fun^
 ||inpssh.online^
 ||internetsehat.bebasid.com^
 ||intertop.link^
@@ -2727,6 +2735,7 @@
 ||kokesh.se^
 ||kolobok2.duckdns.org^
 ||komo4ek.ru^
+||kondrcloud.ru^
 ||kopcm.ru^
 ||korzhov.dev^
 ||kotys.az.i81.ru^
@@ -3233,6 +3242,7 @@
 ||pygos.space^
 ||qaz.tw^
 ||qdns02.nymterm.com^
+||qingmo.vip^
 ||qlf-doh.inria.fr^
 ||qro01.dnscry.pt^
 ||qual.cuprum.ru^
@@ -3784,6 +3794,7 @@
 ||win10virtual.vd.i81.ru^
 ||win10virtual.vpn.i81.ru^
 ||wiqi.app^
+||wiqi.top^
 ||wireguard.osmenoga.com^
 ||wisehomeguard.duckdns.org^
 ||wlan.0815cloud.de^
