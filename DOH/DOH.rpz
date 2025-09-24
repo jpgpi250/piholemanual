@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2509230232 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2509240248 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2025-09-23 02:32:55 (UTC)
+; Last updated: 2025-09-24 02:48:22 (UTC)
 ;
 ; See https://jpgpi250.github.io/piholemanual/doc/Unbound%20response%20policy%20zones.pdf
 ; Report issues at https://github.com/jpgpi250/piholemanual/issues
@@ -267,7 +267,6 @@ adguard.kujoe.com CNAME .
 adguard.lamhoangtung.space CNAME .
 adguard.laurenlaufman.com CNAME .
 adguard.lege.despagne.net CNAME .
-adguard.londonwebnerd.cloud CNAME .
 adguard.lspcr.space CNAME .
 adguard.macrosolutionsltd.co.uk CNAME .
 adguard.maison.gifino.fr CNAME .
@@ -1090,7 +1089,6 @@ dns.edc-pws.com CNAME .
 dns.eddi.net CNAME .
 dns.edgeburnmedia.com CNAME .
 dns.edgeworkssystems.ca CNAME .
-dns.edgy.network CNAME .
 dns.edison42.dev CNAME .
 dns.efficientdocuments.com CNAME .
 dns.electrotm.org CNAME .
@@ -1131,6 +1129,7 @@ dns.fdue.de CNAME .
 dns.fehlsprache.de CNAME .
 dns.feldy.my.id CNAME .
 dns.ffnw.de CNAME .
+dns.fgbk.net CNAME .
 dns.fifux.be CNAME .
 dns.filipccz.eu CNAME .
 dns.fizz.studio CNAME .
