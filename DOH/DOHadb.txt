@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2025-09-30 03:59:01 (UTC)
+! Last updated: 2025-10-01 03:06:12 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -2950,6 +2950,7 @@
 ||naganohara-yoimiya.momokko.moe^
 ||najiakeji.top^
 ||name.nop.mobi^
+||nanopi.cybergroove.net^
 ||nas-fusion.loisy.it^
 ||nas-scheiben34.myasustor.com^
 ||nas.dehb.ru^
