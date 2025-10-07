@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2025-10-05 03:36:00 (UTC)
+! Last updated: 2025-10-06 02:53:22 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -717,6 +717,7 @@
 ||cleanbrowsing.org^
 ||clic.eu.org^
 ||clientdns3.softcom.net^
+||closetruth.date^
 ||cloud.198.games^
 ||cloud.beerloga.su^
 ||cloud.graphicpoint.pl^
@@ -1709,7 +1710,6 @@
 ||dns.surobe.com^
 ||dns.sv-zauner.at^
 ||dns.svoi.dev^
-||dns.swin.pro^
 ||dns.switch.ch^
 ||dns.sy.st^
 ||dns.syaifullah.com^
@@ -1778,7 +1778,6 @@
 ||dns.vinnyp.xyz^
 ||dns.vinokurov.tk^
 ||dns.virtual-qr.ir^
-||dns.vishalk.com^
 ||dns.vk09.ru^
 ||dns.vkhudyakov.ru^
 ||dns.vladpro.ru^
@@ -1846,7 +1845,6 @@
 ||dns.zarchbox.fr^
 ||dns.zemows.industries^
 ||dns.zfsystem.tech^
-||dns.zion.dev^
 ||dns.zky666.fun^
 ||dns.zoogle.cn^
 ||dns.zui.lol^
@@ -2325,7 +2323,6 @@
 ||duyyen.tk^
 ||dvgarm.com^
 ||e23a.mooo.com^
-||e23a.uk.to^
 ||ea-dns.rubyfish.cn^
 ||eamonn.dns.walshnet.co.uk^
 ||easyhandshake.com^
@@ -4009,7 +4006,6 @@
 ||x861g.duckdns.org^
 ||xenergy.cc^
 ||xfer.au^
-||xholgm.top^
 ||xiaoxinhui.cn^
 ||xie.ke^
 ||xins.live^
