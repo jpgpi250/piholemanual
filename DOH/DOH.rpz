@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2510070314 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2510080239 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2025-10-07 03:14:34 (UTC)
+; Last updated: 2025-10-08 02:39:30 (UTC)
 ;
 ; See https://jpgpi250.github.io/piholemanual/doc/Unbound%20response%20policy%20zones.pdf
 ; Report issues at https://github.com/jpgpi250/piholemanual/issues
@@ -625,6 +625,7 @@ beautifulthings.eu.org CNAME .
 bei01.dnscry.pt CNAME .
 bella.981377612.xyz CNAME .
 berd.moe CNAME .
+bestwon203.com CNAME .
 beta.thegodfatheriam.shop CNAME .
 bev.dns.walshnet.co.uk CNAME .
 bg.rslvr.eu CNAME .
@@ -1251,6 +1252,7 @@ dns.hafidzradhival.my.id CNAME .
 dns.hahnjo.de CNAME .
 dns.haka.se CNAME .
 dns.hakim.one CNAME .
+dns.hakutakucn.com CNAME .
 dns.hanahira.dev CNAME .
 dns.hanmey.de CNAME .
 dns.hannielzhang.com CNAME .
@@ -2049,6 +2051,7 @@ doh-random-upstream.nicolas-dorriere.fr CNAME .
 doh-rs.whalebone.io CNAME .
 doh-sg.blahdns.com CNAME .
 doh.18bit.cn CNAME .
+doh.233py.com CNAME .
 doh.2kil.com CNAME .
 doh.30x.me CNAME .
 doh.360.cn CNAME .
