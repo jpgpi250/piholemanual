@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2025-10-06 02:53:22 (UTC)
+! Last updated: 2025-10-07 03:46:29 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -47,6 +47,7 @@
 ||2wired.hopto.org^
 ||3.11i.eu^
 ||3.local-dns.noridev.moe^
+||3dcosas.xyz^
 ||3dns.eu^
 ||3jjxxl.tech^
 ||3x.az.i81.ru^
@@ -213,6 +214,7 @@
 ||adguard.dehb.ru^
 ||adguard.dekonix.ru^
 ||adguard.depieri.net^
+||adguard.dervart.ru^
 ||adguard.dessoi.cloud^
 ||adguard.dientutronghuong.com^
 ||adguard.discounthost.co.uk^
@@ -398,6 +400,7 @@
 ||adguard4.ota.moe^
 ||adguardcloud.iasm.com.ar^
 ||adguardh.ga^
+||adguardhome.0x4min.xyz^
 ||adguardhome.atakorah.com^
 ||adguardhome.favrep.ovh^
 ||adguardhome.fr.couli.fr^
@@ -493,6 +496,7 @@
 ||ajlxwk4kedu5.absq.ch^
 ||akhilkalwakurthy.dyndns.org^
 ||akl01.dnscry.pt^
+||akunamatata8888.mooo.com^
 ||akylah.zapto.org^
 ||alexj123.mooo.com^
 ||alidns.51top.info^
@@ -526,6 +530,7 @@
 ||an81dns.ru^
 ||ancv.sytes.net^
 ||andrewnw.xyz^
+||andrey93rus.ru^
 ||andryk111.duckdns.org^
 ||andybunn.onthewifi.com^
 ||angry.pp.ua^
@@ -786,6 +791,7 @@
 ||d3.vps.mtsdns.ru^
 ||d3vy.ru^
 ||d4.vps.mtsdns.ru^
+||d51538618.access.telenet.be^
 ||dac01.dnscry.pt^
 ||daemonhunt.no-ip.org^
 ||dandelionsprout.asuscomm.com^
@@ -799,6 +805,7 @@
 ||dcbot.drahonn.pro^
 ||dd.961188.xyz^
 ||dd.elashri.net^
+||dd.hlm.ovh^
 ||ddd.999369.xyz^
 ||ddd.loukky.com^
 ||ddns.martinmore.online^
@@ -892,6 +899,7 @@
 ||dns.0ooo.icu^
 ||dns.0x55.net^
 ||dns.13evl.com^
+||dns.141664.xyz^
 ||dns.23-4.cn^
 ||dns.233py.com^
 ||dns.233py.com.cdn.cloudflare.net^
@@ -912,6 +920,7 @@
 ||dns.7sec.com.br^
 ||dns.7vpn.com^
 ||dns.853852.xyz^
+||dns.866865.xyz^
 ||dns.886886886.xyz^
 ||dns.888654.xyz^
 ||dns.890806.xyz^
@@ -1361,6 +1370,7 @@
 ||dns.keskonet.com^
 ||dns.keviland.com^
 ||dns.keweon.center^
+||dns.kisnet.id^
 ||dns.kjmserwis.pl^
 ||dns.kloiber.co.at^
 ||dns.knyfie.com^
@@ -1684,6 +1694,7 @@
 ||dns.slinkyman.net^
 ||dns.smartguard.io^
 ||dns.smirnovfamily.ru^
+||dns.snaketech.com.br^
 ||dns.sneakypanda.org^
 ||dns.soldier.terumi.club^
 ||dns.spil.co.id^
@@ -1941,6 +1952,7 @@
 ||dns2.svip.one^
 ||dns2.thylacine.co.nz^
 ||dns2.vinc.me^
+||dns2.xcapenet.ru^
 ||dns2.ytpom.ru^
 ||dns3.dns-ga.de^
 ||dns3.hu10us22.win^
@@ -2336,6 +2348,7 @@
 ||edgy-dns.com^
 ||edns.233py.com^
 ||ee-tll.doh.sb^
+||egorovna.su^
 ||egshe.myqnapcloud.com^
 ||eime.goip.de^
 ||ejaysss.dev^
@@ -2608,6 +2621,7 @@
 ||homec92.dns.army^
 ||homedns.gumeniuk.com^
 ||homeguard.sleziona.org^
+||homejerem.duckdns.org^
 ||homelab.terabit.net.id^
 ||homita.id.vn^
 ||horus-team.com^
@@ -2887,6 +2901,7 @@
 ||lmc.privatedns.org^
 ||lmc1.privatedns.org^
 ||loadlow.me^
+||loan.paymdm.xyz^
 ||lofter.httpdns.c.163.com^
 ||log.qrsoft.ru^
 ||logs.danamas.net^
@@ -2934,6 +2949,7 @@
 ||mail.andrewnw.xyz^
 ||mail.data.haus^
 ||mail.drahonn.pro^
+||mail.hilton-groups.com^
 ||mail.pragmasec.nl^
 ||mail.vik.ro^
 ||mail.xiaoxinhui.cn^
@@ -2961,6 +2977,7 @@
 ||mcore.us.to^
 ||mcttechs.com^
 ||mechanikdns.kozow.com^
+||media.streamfusion.online^
 ||meet.nop.mobi^
 ||megumin.is.my.waifu.cz^
 ||mel01.dnscry.pt^
@@ -3025,6 +3042,7 @@
 ||n0.eu^
 ||n10.martkotur.ru^
 ||n5.lsasss.com^
+||n50.martkotur.ru^
 ||n8nmegapixar.online^
 ||naganohara-yoimiya.momokko.moe^
 ||najiakeji.top^
@@ -3346,6 +3364,7 @@
 ||rasp.matthias-iwer.de^
 ||rayneau.fr^
 ||rb750gr3.ulfhednar.ru^
+||rcpc2.duckdns.org^
 ||rdd01.dnscry.pt^
 ||rdjdns.ajraspi.xyz^
 ||rdns.faelix.net^
@@ -3531,6 +3550,7 @@
 ||shakdns.cc^
 ||shalenkov.cc^
 ||shalenkov.dev^
+||shanghainese.uk^
 ||shield.afixer.app^
 ||shield1.eranext.net^
 ||shinano.anime.com.my^
@@ -3693,6 +3713,7 @@
 ||tuantran.cloud^
 ||tujenasnaszato.xyz^
 ||tungdnsne.duckdns.org^
+||tuskythehusky.tech^
 ||tuu01.dnscry.pt^
 ||tw2.ooroot.com^
 ||twingatedns.dr3ff1c13nt.com^
@@ -3815,6 +3836,7 @@
 ||vm.mytm.cc^
 ||vm1.arashi.solutions^
 ||vm2.arashi.solutions^
+||vm3421302.firstbyte.club^
 ||vn.dns.abpvn.com^
 ||vno01.dnscry.pt^
 ||void.mcfly.lol^
@@ -3831,6 +3853,7 @@
 ||vovale.vpn.i81.ru^
 ||voyage-s01.cloudku.technology^
 ||voyage-s02.cloudku.technology^
+||voyagerz.hopto.org^
 ||vpich.duckdns.org^
 ||vpn-tw.teng.sh^
 ||vpn.1xtrm.com^
@@ -3915,6 +3938,7 @@
 ||wisehomeguard.duckdns.org^
 ||wlan.0815cloud.de^
 ||woalongit.synology.me^
+||woc.beelstb.biz.id^
 ||woodbridge.club^
 ||workcavestl.duckdns.org^
 ||wuyou.pw^
@@ -4011,6 +4035,7 @@
 ||xins.live^
 ||xjpdns.354688.xyz^
 ||xkariak.asuscomm.com^
+||xm.ln7371.top^
 ||xmr.land^
 ||xn--80aecoigf4aatn.xn--p1ai^
 ||xn--durhre-yxa.de^
