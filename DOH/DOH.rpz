@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2510080239 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2510090347 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2025-10-08 02:39:30 (UTC)
+; Last updated: 2025-10-09 03:47:18 (UTC)
 ;
 ; See https://jpgpi250.github.io/piholemanual/doc/Unbound%20response%20policy%20zones.pdf
 ; Report issues at https://github.com/jpgpi250/piholemanual/issues
@@ -264,6 +264,7 @@ adguard.itclogic.cloud CNAME .
 adguard.jaydub.cloud CNAME .
 adguard.jfchenier.ca CNAME .
 adguard.jfpii.com CNAME .
+adguard.johanliebert.top CNAME .
 adguard.johnnypatras.org CNAME .
 adguard.josephyap.me CNAME .
 adguard.jpjb.net CNAME .
@@ -816,7 +817,9 @@ ddd.loukky.com CNAME .
 ddns.martinmore.online CNAME .
 dds.wpme.pl CNAME .
 de-adguard.dr3ff1c13nt.com CNAME .
+de-d2.foxyfy.net CNAME .
 de-dus.doh.sb CNAME .
+de-f1.foxyfy.net CNAME .
 de-fra-w-f-1.nashkan.net CNAME .
 de-fra-w-f-2.nashkan.net CNAME .
 de-fra-w-f-3.nashkan.net CNAME .
@@ -1006,6 +1009,7 @@ dns.benpro.fr CNAME .
 dns.bermeitinger.eu CNAME .
 dns.beta.gandi.net CNAME .
 dns.bgeneto.com CNAME .
+dns.bibica.net CNAME .
 dns.bibitos.cc CNAME .
 dns.bitdefender.net CNAME .
 dns.bitgeek.in CNAME .
@@ -1208,6 +1212,7 @@ dns.flux24.net CNAME .
 dns.flwagners.com CNAME .
 dns.flyer.vn CNAME .
 dns.flymc.cc CNAME .
+dns.foxyfy.net CNAME .
 dns.freddys.my.id CNAME .
 dns.freemyemail.com CNAME .
 dns.freopc.fr CNAME .
@@ -1856,6 +1861,7 @@ dns.youni.win CNAME .
 dns.yu.dev CNAME .
 dns.yuu-g.net CNAME .
 dns.yuyz.net CNAME .
+dns.yuzia.cc CNAME .
 dns.yyaan.com CNAME .
 dns.yyaan.top CNAME .
 dns.zachbosh.com CNAME .
@@ -1965,6 +1971,7 @@ dns3.hu10us22.win CNAME .
 dns3.wistarip.com CNAME .
 dns35.allone.dpdns.org CNAME .
 dns4.bortus.io CNAME .
+dns4eu.online CNAME .
 dns4me.net CNAME .
 dns64.cloudflare-dns.com CNAME .
 dns64.dns.google CNAME .
@@ -2367,6 +2374,7 @@ enclosr.co CNAME .
 eoin.dns.walshnet.co.uk CNAME .
 epic3.mooo.com CNAME .
 eropa.dnscepat.id CNAME .
+es-ma.foxyfy.net CNAME .
 esel.stusta.mhn.de CNAME .
 essentiallyjay.com CNAME .
 eth.link CNAME .
@@ -2772,6 +2780,7 @@ joshberg.org CNAME .
 jp-dns1.bancuh.com CNAME .
 jp-kix.doh.sb CNAME .
 jp-nrt.doh.sb CNAME .
+jp-to.foxyfy.net CNAME .
 jp-tyo-w-p-1.nashkan.net CNAME .
 jp.559299366.xyz CNAME .
 jp.68360612.xyz CNAME .
@@ -3439,6 +3448,7 @@ rini.id.vn CNAME .
 rix01.dnscry.pt CNAME .
 rjaldorau.com CNAME .
 rjmva.com CNAME .
+ro-bu.foxyfy.net CNAME .
 ro-buc-w-f-1.nashkan.net CNAME .
 ro-buc-w-p-1.nashkan.net CNAME .
 roadesdyn.go.ro CNAME .
@@ -3514,6 +3524,7 @@ secure-dns.gridlax.com CNAME .
 secure-dns.pleumkungz.com CNAME .
 secure.anudeep.me CNAME .
 secure.avastdns.com CNAME .
+secure.hafnova.com CNAME .
 secure.onedns.cc CNAME .
 securedns.vendorvista.xyz CNAME .
 securenet.mhsystems.net CNAME .
@@ -3772,10 +3783,12 @@ us-jac-w-p-1.nashkan.net CNAME .
 us-kan-w-f-1.nashkan.net CNAME .
 us-kan-w-p-1.nashkan.net CNAME .
 us-ny-alula.heliumcloud.cc CNAME .
+us-ny.foxyfy.net CNAME .
 us-nyc-w-f-1.nashkan.net CNAME .
 us-nyc-w-p-1.nashkan.net CNAME .
 us-saj-w-f-1.nashkan.net CNAME .
 us-saj-w-p-1.nashkan.net CNAME .
+us-sj.foxyfy.net CNAME .
 us.aab.im CNAME .
 us.doh.cloudveil.org CNAME .
 us.lfac.net.br CNAME .
