@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2025-10-07 03:46:29 (UTC)
+! Last updated: 2025-10-08 03:09:07 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -621,6 +621,7 @@
 ||bei01.dnscry.pt^
 ||bella.981377612.xyz^
 ||berd.moe^
+||bestwon203.com^
 ||beta.thegodfatheriam.shop^
 ||bev.dns.walshnet.co.uk^
 ||bg.rslvr.eu^
@@ -1247,6 +1248,7 @@
 ||dns.hahnjo.de^
 ||dns.haka.se^
 ||dns.hakim.one^
+||dns.hakutakucn.com^
 ||dns.hanahira.dev^
 ||dns.hanmey.de^
 ||dns.hannielzhang.com^
@@ -2045,6 +2047,7 @@
 ||doh-rs.whalebone.io^
 ||doh-sg.blahdns.com^
 ||doh.18bit.cn^
+||doh.233py.com^
 ||doh.2kil.com^
 ||doh.30x.me^
 ||doh.360.cn^
