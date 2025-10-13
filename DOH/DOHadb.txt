@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2025-10-11 03:32:33 (UTC)
+! Last updated: 2025-10-12 03:00:03 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -118,6 +118,7 @@
 ||adblock.mydns.network^
 ||adblock.ny1.dns.nixnet.xyz^
 ||adblock.renedis.nl^
+||adblocker.institutobancario.edu.mx^
 ||adblockersite.com^
 ||addns.jpr.space^
 ||addns.jujuland.net^
@@ -219,6 +220,7 @@
 ||adguard.dientutronghuong.com^
 ||adguard.discounthost.co.uk^
 ||adguard.domorome.wf^
+||adguard.doranpierst.com.tr^
 ||adguard.drahonn.pro^
 ||adguard.dsns.cloud^
 ||adguard.dtness.com^
@@ -451,6 +453,7 @@
 ||ag.hostme.co.il^
 ||ag.iyn.one^
 ||ag.marschi.de^
+||ag.sageton.pl^
 ||ag.snrka.ru^
 ||ag.ssrahul96.xyz^
 ||ag.stepnew.ru^
@@ -579,6 +582,7 @@
 ||atlantic.dyn1.de^
 ||atris.cyou^
 ||atsilva.link^
+||atsssgo.xyz^
 ||au-syd-w-f-1.nashkan.net^
 ||au-syd-w-p-1.nashkan.net^
 ||au-syd.doh.sb^
@@ -1133,6 +1137,7 @@
 ||dns.dns-53.uk^
 ||dns.dns-53.us^
 ||dns.dns-over-https.com^
+||dns.dnsguard.pub^
 ||dns.dnshome.de^
 ||dns.dnsoverhttps.net^
 ||dns.dnswarden.com^
@@ -1382,6 +1387,7 @@
 ||dns.kloiber.co.at^
 ||dns.knyfie.com^
 ||dns.koala.us.to^
+||dns.kobo.dev^
 ||dns.komo4ek.ru^
 ||dns.korzhyk.pp.ua^
 ||dns.kosan.moe^
@@ -1910,6 +1916,7 @@
 ||dns1.sarakas.net^
 ||dns1.schooldns.nl^
 ||dns1.serdcebolit.ru^
+||dns1.slowb.ro^
 ||dns1.tardishost.ru^
 ||dns1.techeasy.org^
 ||dns1.thylacine.co.nz^
@@ -1956,6 +1963,7 @@
 ||dns2.sarak.as^
 ||dns2.sarakas.net^
 ||dns2.sillav.dev^
+||dns2.slowb.ro^
 ||dns2.srv-home.fr^
 ||dns2.svip.one^
 ||dns2.thylacine.co.nz^
@@ -2145,6 +2153,7 @@
 ||doh.ibr.cs.tu-bs.de^
 ||doh.immerda.ch^
 ||doh.in.ahadns.net^
+||doh.infotechlibrary.com^
 ||doh.infotek.net.id^
 ||doh.infracell.net^
 ||doh.iqiyi.com^
@@ -2152,6 +2161,7 @@
 ||doh.iucc.ac.il^
 ||doh.jeroenhd.nl^
 ||doh.kekew.info^
+||doh.kekew.racing^
 ||doh.kel.pe^
 ||doh.kidzonet.io^
 ||doh.killtw.im^
@@ -2262,6 +2272,7 @@
 ||doh2.blahdns.com^
 ||doh2.gslb2.xfinity.com^
 ||doh3.almir1904.eu^
+||doh3.kekew.info^
 ||dohdot.coxlab.net^
 ||dohipv6.crypto.sx^
 ||dohsg.blahdns.com^
@@ -2534,6 +2545,7 @@
 ||guard-1.vilbav.id.lv^
 ||guard-jkt-225.glosindo.net.id^
 ||guard.19kom.de^
+||guard.keiper.net^
 ||guard.lumusimc.co.uk^
 ||guard.magic-pics.tk^
 ||guard.miracloud.fr^
@@ -2969,6 +2981,7 @@
 ||mailkyb.co^
 ||maincloud.ir^
 ||mainframe.dewed.de^
+||makatla.tech^
 ||malanser.ru^
 ||man01.dnscry.pt^
 ||management.alexpollard.net^
@@ -3592,6 +3605,7 @@
 ||slc01.dnscry.pt^
 ||sm2.doh.pub^
 ||sm5q237c0.g666gle.me^
+||smartcamp.su^
 ||smartphone-niels.pcbrdh8v6m.digitallink.be^
 ||smartphone-saskia.pcbrdh8v6m.digitallink.be^
 ||smirnovfamily.ru^
@@ -3951,6 +3965,7 @@
 ||win10virtual.vpn.i81.ru^
 ||wiqi.app^
 ||wiqi.top^
+||wired-guardian.duckdns.org^
 ||wireguard.osmenoga.com^
 ||wisehomeguard.duckdns.org^
 ||wlan.0815cloud.de^
