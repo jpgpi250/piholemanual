@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2510150229 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2510160305 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2025-10-15 02:29:54 (UTC)
+; Last updated: 2025-10-16 03:05:39 (UTC)
 ;
 ; See https://jpgpi250.github.io/piholemanual/doc/Unbound%20response%20policy%20zones.pdf
 ; Report issues at https://github.com/jpgpi250/piholemanual/issues
@@ -583,7 +583,6 @@ atelier.alica.idv.tw CNAME .
 ath01.dnscry.pt CNAME .
 atl01.dnscry.pt CNAME .
 atlantic.dyn1.de CNAME .
-atris.cyou CNAME .
 atsilva.link CNAME .
 atsssgo.xyz CNAME .
 au-syd-w-f-1.nashkan.net CNAME .
@@ -1114,7 +1113,6 @@ dns.daryllswer.net CNAME .
 dns.datenquark.de CNAME .
 dns.david888.com CNAME .
 dns.daw.dev CNAME .
-dns.de.futuredns.eu.org CNAME .
 dns.deadsec.net CNAME .
 dns.decky.eu CNAME .
 dns.decloudus.com CNAME .
@@ -1790,7 +1788,6 @@ dns.unx.io CNAME .
 dns.uplenk.com CNAME .
 dns.us-ashburn-1.oraclecloud.com CNAME .
 dns.us-phoenix-1.oraclecloud.com CNAME .
-dns.us.futuredns.eu.org CNAME .
 dns.usualposts.xyz CNAME .
 dns.vaguthu.mv CNAME .
 dns.vaioswolke.xyz CNAME .
@@ -2034,7 +2031,6 @@ dnsvs.ddns.net CNAME .
 dnswebvsn.com CNAME .
 dnsyg.3300000.xyz CNAME .
 dnx.niko-sem.com CNAME .
-do-39574-tr.xyz CNAME .
 do.dnscrypt.uk CNAME .
 do.shimul.me CNAME .
 docker-hub.ir CNAME .
