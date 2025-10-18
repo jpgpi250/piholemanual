@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2025-10-16 03:37:13 (UTC)
+! Last updated: 2025-10-17 02:54:21 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -1294,7 +1294,6 @@
 ||dns.hva.li^
 ||dns.hwtwco.uk^
 ||dns.hyas.com^
-||dns.hypercute.eu^
 ||dns.iamanuragh.in^
 ||dns.iamninja.ru^
 ||dns.iblockads.net^
@@ -2408,6 +2407,7 @@
 ||family.adguarddns.com^
 ||family.canadianshield.cira.ca^
 ||family.cloudflare-dns.com^
+||family.dns.doubleangels.com^
 ||family.dns.mullvad.net^
 ||family.dns.ningkelle.id^
 ||family.dns.teknoholistik.com^
@@ -2903,7 +2903,6 @@
 ||lena.vps.mtsdns.ru^
 ||leoadguard.duckdns.org^
 ||leochen-dns.ddns.net^
-||lesuo.top^
 ||lewsha.lol^
 ||lfbn-gre-1-319-7.w90-112.abo.wanadoo.fr^
 ||lifeisa.live^
@@ -3014,7 +3013,6 @@
 ||mikewaddick.com^
 ||mikrobill.dns-cloud.net^
 ||mil01.dnscry.pt^
-||miniapp.global^
 ||minilla.store^
 ||miskoss.fun^
 ||mk.skynetinternet.com.br^
@@ -3046,7 +3044,6 @@
 ||muxyuji.ru^
 ||mx1.laoxiao789.com^
 ||myadg.ru^
-||myatris.sbs^
 ||mydevpn.eu^
 ||mydns.bielperes.me^
 ||mydns.ddns.me^
