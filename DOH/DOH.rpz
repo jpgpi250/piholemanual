@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2510210234 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2510220234 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2025-10-21 02:34:10 (UTC)
+; Last updated: 2025-10-22 02:34:35 (UTC)
 ;
 ; See https://jpgpi250.github.io/piholemanual/doc/Unbound%20response%20policy%20zones.pdf
 ; Report issues at https://github.com/jpgpi250/piholemanual/issues
@@ -1617,6 +1617,7 @@ dns.pumplex.com CNAME .
 dns.qiyipic.iqiyi.com CNAME .
 dns.qkc.fr CNAME .
 dns.qpt.one CNAME .
+dns.qq.com CNAME .
 dns.qrtz.club CNAME .
 dns.quad9.net CNAME .
 dns.quanhd.net CNAME .
@@ -2692,8 +2693,11 @@ httpdns.push.heytapmobi.com CNAME .
 httpdns.push.oppomobile.com CNAME .
 httpdns.volcengineapi.com CNAME .
 httpdns.yunxindns.com CNAME .
+httpdns.zhihu.com CNAME .
 httpdns.zybang.com CNAME .
 httpdns1.cc.cdnhwc5.com CNAME .
+httpdnsmultiapi.meituan.com CNAME .
+httpdnsmultiapivip.meituan.com CNAME .
 httpdnsvip.meituan.com CNAME .
 httpsdns.baidu.com CNAME .
 hungary.privacy-dns.pw CNAME .
@@ -3266,6 +3270,8 @@ paskam.xyz CNAME .
 passwordsafe.0815cloud.de CNAME .
 pates.services.sfr.fr.casepp.sfr.fr CNAME .
 paulo.nom.za CNAME .
+paydns.wechatpay.cn CNAME .
+paydns.weixin.qq.com CNAME .
 pcbrdh8v6m.digitallink.be CNAME .
 pccoach.ddns.net CNAME .
 pcgo.fun CNAME .
@@ -3439,6 +3445,7 @@ resolver2.ipv6-sandbox.opendns.com CNAME .
 resolver2.opendns.com CNAME .
 resolver3.absolight.net CNAME .
 resolver4.dns.openinternet.io CNAME .
+resolvers-cn.httpdns.aliyuncs.com CNAME .
 resov.wehao.net CNAME .
 rethinkdns.com CNAME .
 revelio.top CNAME .
@@ -3515,6 +3522,7 @@ sbdns.co.in CNAME .
 sby-doh.limotelu.org CNAME .
 schimtar.com CNAME .
 scottdylewski.com CNAME .
+sdkconfig.tlivedns.com CNAME .
 sdns.233py.com CNAME .
 sdns.zakaria.website CNAME .
 sdns22.gkonuralp.com CNAME .
@@ -3750,6 +3758,7 @@ tyo01.dnscry.pt CNAME .
 tyo02.dnscry.pt CNAME .
 tyo03.dnscry.pt CNAME .
 typaza.com CNAME .
+udns.weixin.qq.com CNAME .
 ueni.dyndns.org CNAME .
 uk-lon.doh.sb CNAME .
 uk.teradns.org CNAME .
