@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2025-10-21 03:05:22 (UTC)
+! Last updated: 2025-10-22 03:06:08 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -1613,6 +1613,7 @@
 ||dns.qiyipic.iqiyi.com^
 ||dns.qkc.fr^
 ||dns.qpt.one^
+||dns.qq.com^
 ||dns.qrtz.club^
 ||dns.quad9.net^
 ||dns.quanhd.net^
@@ -2688,8 +2689,11 @@
 ||httpdns.push.oppomobile.com^
 ||httpdns.volcengineapi.com^
 ||httpdns.yunxindns.com^
+||httpdns.zhihu.com^
 ||httpdns.zybang.com^
 ||httpdns1.cc.cdnhwc5.com^
+||httpdnsmultiapi.meituan.com^
+||httpdnsmultiapivip.meituan.com^
 ||httpdnsvip.meituan.com^
 ||httpsdns.baidu.com^
 ||hungary.privacy-dns.pw^
@@ -3262,6 +3266,8 @@
 ||passwordsafe.0815cloud.de^
 ||pates.services.sfr.fr.casepp.sfr.fr^
 ||paulo.nom.za^
+||paydns.wechatpay.cn^
+||paydns.weixin.qq.com^
 ||pcbrdh8v6m.digitallink.be^
 ||pccoach.ddns.net^
 ||pcgo.fun^
@@ -3435,6 +3441,7 @@
 ||resolver2.opendns.com^
 ||resolver3.absolight.net^
 ||resolver4.dns.openinternet.io^
+||resolvers-cn.httpdns.aliyuncs.com^
 ||resov.wehao.net^
 ||rethinkdns.com^
 ||revelio.top^
@@ -3511,6 +3518,7 @@
 ||sby-doh.limotelu.org^
 ||schimtar.com^
 ||scottdylewski.com^
+||sdkconfig.tlivedns.com^
 ||sdns.233py.com^
 ||sdns.zakaria.website^
 ||sdns22.gkonuralp.com^
@@ -3746,6 +3754,7 @@
 ||tyo02.dnscry.pt^
 ||tyo03.dnscry.pt^
 ||typaza.com^
+||udns.weixin.qq.com^
 ||ueni.dyndns.org^
 ||uk-lon.doh.sb^
 ||uk.teradns.org^
