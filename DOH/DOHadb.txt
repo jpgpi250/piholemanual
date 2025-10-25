@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2025-10-23 03:14:17 (UTC)
+! Last updated: 2025-10-24 03:22:54 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -2490,6 +2490,7 @@
 ||gate.blackboxdynamics.io^
 ||gateway.fomichev.cloud^
 ||gauss.pp.ua^
+||gb-cov-w-f-1.nashkan.net^
 ||gb-cov-w-f-2.nashkan.net^
 ||gb-cov-w-p-1.nashkan.net^
 ||gb-lon-w-f-1.nashkan.net^
