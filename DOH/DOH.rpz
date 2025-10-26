@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2510250153 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2510260304 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2025-10-25 01:53:41 (UTC)
+; Last updated: 2025-10-26 03:04:18 (UTC)
 ;
 ; See https://jpgpi250.github.io/piholemanual/doc/Unbound%20response%20policy%20zones.pdf
 ; Report issues at https://github.com/jpgpi250/piholemanual/issues
@@ -2277,6 +2277,7 @@ dohipv6.crypto.sx CNAME .
 dohsg.blahdns.com CNAME .
 dohsg.goitoi.co CNAME .
 dohtrial.att.net CNAME .
+domain.name CNAME .
 domburg.beruys.com CNAME .
 domeq.waw.pl CNAME .
 dooh.cloudflare-dns.com CNAME .
@@ -2648,6 +2649,7 @@ homedns.gumeniuk.com CNAME .
 homeguard.sleziona.org CNAME .
 homejerem.duckdns.org CNAME .
 homelab.terabit.net.id CNAME .
+homenet.telecomitalia.it CNAME .
 homita.id.vn CNAME .
 horus-team.com CNAME .
 host.jerry-lee.uk CNAME .
