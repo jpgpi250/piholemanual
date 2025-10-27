@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2025-10-25 02:22:59 (UTC)
+! Last updated: 2025-10-26 03:31:33 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -2273,6 +2273,7 @@
 ||dohsg.blahdns.com^
 ||dohsg.goitoi.co^
 ||dohtrial.att.net^
+||domain.name^
 ||domburg.beruys.com^
 ||domeq.waw.pl^
 ||dooh.cloudflare-dns.com^
@@ -2644,6 +2645,7 @@
 ||homeguard.sleziona.org^
 ||homejerem.duckdns.org^
 ||homelab.terabit.net.id^
+||homenet.telecomitalia.it^
 ||homita.id.vn^
 ||horus-team.com^
 ||host.jerry-lee.uk^
