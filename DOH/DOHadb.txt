@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2025-10-31 04:55:44 (UTC)
+! Last updated: 2025-11-01 06:00:50 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -2991,6 +2991,7 @@
 ||maqgie.xyz^
 ||mask-api.fe.apple-dns.net^
 ||mask-api.icloud.com^
+||mask-canary.icloud.com^
 ||mask-h2.icloud.com^
 ||mask.icloud.com^
 ||mastergad.me^
