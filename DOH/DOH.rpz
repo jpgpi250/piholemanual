@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2511030441 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2511040451 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2025-11-03 04:41:15 (UTC)
+; Last updated: 2025-11-04 04:51:36 (UTC)
 ;
 ; See https://jpgpi250.github.io/piholemanual/doc/Unbound%20response%20policy%20zones.pdf
 ; Report issues at https://github.com/jpgpi250/piholemanual/issues
@@ -1666,7 +1666,6 @@ dns.sarilouis.com CNAME .
 dns.sark.dev CNAME .
 dns.sb CNAME .
 dns.sbstructure.ir CNAME .
-dns.scapetical.com CNAME .
 dns.scarx.net CNAME .
 dns.scayn.com CNAME .
 dns.schimtar.com CNAME .
@@ -2208,7 +2207,6 @@ doh.pi-dns.com CNAME .
 doh.pl.ahadns.net CNAME .
 doh.plaawan.uk CNAME .
 doh.plop.cc CNAME .
-doh.port53.dk CNAME .
 doh.post-factum.tk CNAME .
 doh.powerdns.org CNAME .
 doh.ptqy.gitv.tv CNAME .
@@ -2623,7 +2621,6 @@ hkns.gzelvis.com CNAME .
 hkt.kozow.com CNAME .
 hockaday.synology.me CNAME .
 hole.elbschloss.xyz CNAME .
-home-server.store CNAME .
 home.azagra.dev CNAME .
 home.basthorst.eu CNAME .
 home.bruckmoser.it CNAME .
@@ -2733,7 +2730,6 @@ in-blr.doh.sb CNAME .
 inadsware.ddns.net CNAME .
 incaseineeditoneday.com CNAME .
 ind01.dnscry.pt CNAME .
-india.privacy-dns.pw CNAME .
 ines.zfn.uni-bremen.de CNAME .
 ingenmannsland.online CNAME .
 inoainoa.fun CNAME .
@@ -3669,10 +3665,8 @@ surt.ovh CNAME .
 surve.dehb.ru CNAME .
 svg33.eu CNAME .
 swe.try-dns.com CNAME .
-sweden.privacy-dns.pw CNAME .
 sweethome.in.eu.org CNAME .
 switch.ch CNAME .
-switzerland.privacy-dns.pw CNAME .
 syd.adfilter.net CNAME .
 syd.core.access.zznet.fun CNAME .
 syd01.dnscry.pt CNAME .
@@ -3787,7 +3781,6 @@ unicast.uncensoreddns.org CNAME .
 unicast2.servers.censurfridns.dk CNAME .
 unifi.be2aja.my.id CNAME .
 unifi.carioka.com CNAME .
-united-arab-emirates.privacy-dns.pw CNAME .
 unixfox.duckdns.org CNAME .
 unp.im CNAME .
 unraid.dedyn.io CNAME .
