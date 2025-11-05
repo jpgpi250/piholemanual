@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2025-11-03 05:23:51 (UTC)
+! Last updated: 2025-11-04 05:34:28 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -1662,7 +1662,6 @@
 ||dns.sark.dev^
 ||dns.sb^
 ||dns.sbstructure.ir^
-||dns.scapetical.com^
 ||dns.scarx.net^
 ||dns.scayn.com^
 ||dns.schimtar.com^
@@ -2204,7 +2203,6 @@
 ||doh.pl.ahadns.net^
 ||doh.plaawan.uk^
 ||doh.plop.cc^
-||doh.port53.dk^
 ||doh.post-factum.tk^
 ||doh.powerdns.org^
 ||doh.ptqy.gitv.tv^
@@ -2619,7 +2617,6 @@
 ||hkt.kozow.com^
 ||hockaday.synology.me^
 ||hole.elbschloss.xyz^
-||home-server.store^
 ||home.azagra.dev^
 ||home.basthorst.eu^
 ||home.bruckmoser.it^
@@ -2729,7 +2726,6 @@
 ||inadsware.ddns.net^
 ||incaseineeditoneday.com^
 ||ind01.dnscry.pt^
-||india.privacy-dns.pw^
 ||ines.zfn.uni-bremen.de^
 ||ingenmannsland.online^
 ||inoainoa.fun^
@@ -3665,10 +3661,8 @@
 ||surve.dehb.ru^
 ||svg33.eu^
 ||swe.try-dns.com^
-||sweden.privacy-dns.pw^
 ||sweethome.in.eu.org^
 ||switch.ch^
-||switzerland.privacy-dns.pw^
 ||syd.adfilter.net^
 ||syd.core.access.zznet.fun^
 ||syd01.dnscry.pt^
@@ -3783,7 +3777,6 @@
 ||unicast2.servers.censurfridns.dk^
 ||unifi.be2aja.my.id^
 ||unifi.carioka.com^
-||united-arab-emirates.privacy-dns.pw^
 ||unixfox.duckdns.org^
 ||unp.im^
 ||unraid.dedyn.io^
