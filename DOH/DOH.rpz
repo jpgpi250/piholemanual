@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2511060415 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2511070505 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2025-11-06 04:15:35 (UTC)
+; Last updated: 2025-11-07 05:05:30 (UTC)
 ;
 ; See https://jpgpi250.github.io/piholemanual/doc/Unbound%20response%20policy%20zones.pdf
 ; Report issues at https://github.com/jpgpi250/piholemanual/issues
@@ -2689,7 +2689,6 @@ httpdns.ocloud.oppomobile.com CNAME .
 httpdns.platform.dbankcloud.cn CNAME .
 httpdns.platform.dbankcloud.com CNAME .
 httpdns.pro CNAME .
-httpdns.push.heytapmobi.com CNAME .
 httpdns.push.oppomobile.com CNAME .
 httpdns.volcengineapi.com CNAME .
 httpdns.yunxindns.com CNAME .
