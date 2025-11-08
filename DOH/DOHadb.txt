@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2025-11-06 05:01:09 (UTC)
+! Last updated: 2025-11-07 05:51:10 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -2685,7 +2685,6 @@
 ||httpdns.platform.dbankcloud.cn^
 ||httpdns.platform.dbankcloud.com^
 ||httpdns.pro^
-||httpdns.push.heytapmobi.com^
 ||httpdns.push.oppomobile.com^
 ||httpdns.volcengineapi.com^
 ||httpdns.yunxindns.com^
