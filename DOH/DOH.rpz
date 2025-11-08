@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2511070505 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2511080402 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2025-11-07 05:05:30 (UTC)
+; Last updated: 2025-11-08 04:02:32 (UTC)
 ;
 ; See https://jpgpi250.github.io/piholemanual/doc/Unbound%20response%20policy%20zones.pdf
 ; Report issues at https://github.com/jpgpi250/piholemanual/issues
@@ -17,6 +17,7 @@ $TTL 30
 001.smallnode.net CNAME .
 003153.xyz CNAME .
 0815cloud.de CNAME .
+0ms.dev CNAME .
 1.0rz.space CNAME .
 1.11i.eu CNAME .
 1.dns.noridev.moe CNAME .
@@ -284,6 +285,7 @@ adguard.kujoe.com CNAME .
 adguard.lamhoangtung.space CNAME .
 adguard.laurenlaufman.com CNAME .
 adguard.lege.despagne.net CNAME .
+adguard.londonwebnerd.cloud CNAME .
 adguard.lspcr.space CNAME .
 adguard.macrosolutionsltd.co.uk CNAME .
 adguard.maison.gifino.fr CNAME .
