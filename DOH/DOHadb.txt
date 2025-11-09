@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2025-11-07 05:51:10 (UTC)
+! Last updated: 2025-11-08 04:45:27 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -13,6 +13,7 @@
 ||001.smallnode.net^
 ||003153.xyz^
 ||0815cloud.de^
+||0ms.dev^
 ||1.0rz.space^
 ||1.11i.eu^
 ||1.dns.noridev.moe^
@@ -280,6 +281,7 @@
 ||adguard.lamhoangtung.space^
 ||adguard.laurenlaufman.com^
 ||adguard.lege.despagne.net^
+||adguard.londonwebnerd.cloud^
 ||adguard.lspcr.space^
 ||adguard.macrosolutionsltd.co.uk^
 ||adguard.maison.gifino.fr^
