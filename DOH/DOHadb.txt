@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2025-11-08 04:45:27 (UTC)
+! Last updated: 2025-11-09 05:18:52 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -2943,7 +2943,9 @@
 ||luba.hr.i81.ru^
 ||luba.vd.i81.ru^
 ||luba.vpn.i81.ru^
+||lukscasino-479-tr.xyz^
 ||lukscasino-542-tr.xyz^
+||lukscasino-929-tr.xyz^
 ||lux.sn0w.nl^
 ||lux01.dnscry.pt^
 ||lux1.nixnet.xyz^
@@ -3007,6 +3009,7 @@
 ||meet.nop.mobi^
 ||megumin.is.my.waifu.cz^
 ||mel01.dnscry.pt^
+||mendozasdelivery.com^
 ||meowless.club^
 ||mfimail.eu^
 ||mia01.dnscry.pt^
@@ -3017,6 +3020,7 @@
 ||mijoregner.de^
 ||mikatos.de^
 ||mikewaddick.com^
+||mikezhang.xyz^
 ||mikrobill.dns-cloud.net^
 ||mil01.dnscry.pt^
 ||minilla.store^
@@ -3263,6 +3267,7 @@
 ||par01.dnscry.pt^
 ||paradise-human.shop^
 ||paranoia.mydns.network^
+||pashagame456.com^
 ||paskam.xyz^
 ||passwordsafe.0815cloud.de^
 ||pates.services.sfr.fr.casepp.sfr.fr^
