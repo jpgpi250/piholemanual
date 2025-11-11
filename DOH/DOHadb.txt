@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2025-11-09 05:18:52 (UTC)
+! Last updated: 2025-11-10 05:24:28 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -737,7 +737,6 @@
 ||cloud.smirnovfamily.ru^
 ||cloud.tezoi.com^
 ||cloud2.holzmannclouddns.de^
-||cloudbenders.fun^
 ||cloudflare-dns.com^
 ||cloudflare-gateway.com^
 ||cloudflaredns.com^
@@ -1799,6 +1798,7 @@
 ||dns.vietdns.vn^
 ||dns.vinnyp.xyz^
 ||dns.vinokurov.tk^
+||dns.vip-kingstore.xyz^
 ||dns.virtual-qr.ir^
 ||dns.vk09.ru^
 ||dns.vkhudyakov.ru^
