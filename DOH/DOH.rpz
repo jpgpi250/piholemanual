@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2511140410 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2511150437 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2025-11-14 04:10:36 (UTC)
+; Last updated: 2025-11-15 04:37:27 (UTC)
 ;
 ; See https://jpgpi250.github.io/piholemanual/doc/Unbound%20response%20policy%20zones.pdf
 ; Report issues at https://github.com/jpgpi250/piholemanual/issues
@@ -183,6 +183,7 @@ adguard.aa4.co.uk CNAME .
 adguard.abd.ong CNAME .
 adguard.acrobyte.org CNAME .
 adguard.adrianofrongillo.ovh CNAME .
+adguard.ajinga.net CNAME .
 adguard.almanasports.com CNAME .
 adguard.altgr.xyz CNAME .
 adguard.alu.dog CNAME .
@@ -585,7 +586,6 @@ atelier.alica.idv.tw CNAME .
 ath01.dnscry.pt CNAME .
 atl01.dnscry.pt CNAME .
 atlantic.dyn1.de CNAME .
-atris.cyou CNAME .
 atsilva.link CNAME .
 atsssgo.xyz CNAME .
 au-syd-w-f-1.nashkan.net CNAME .
@@ -926,7 +926,6 @@ dns.4-the.win CNAME .
 dns.52306.org CNAME .
 dns.58jdl.com CNAME .
 dns.5ososea.com CNAME .
-dns.688447.xyz CNAME .
 dns.6level.net CNAME .
 dns.73zls.com CNAME .
 dns.7sec.com.br CNAME .
@@ -2589,6 +2588,7 @@ hello.nop.mobi CNAME .
 herkes.online CNAME .
 hetz.sapient.cyou CNAME .
 hexxitcompany.com CNAME .
+hfgx.shop CNAME .
 hg8.asia CNAME .
 hgns.harriganhome.ga CNAME .
 hgrps.eu CNAME .
