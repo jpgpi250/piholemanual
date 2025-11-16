@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2025-11-14 04:52:37 (UTC)
+! Last updated: 2025-11-15 05:21:57 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -179,6 +179,7 @@
 ||adguard.abd.ong^
 ||adguard.acrobyte.org^
 ||adguard.adrianofrongillo.ovh^
+||adguard.ajinga.net^
 ||adguard.almanasports.com^
 ||adguard.altgr.xyz^
 ||adguard.alu.dog^
@@ -581,7 +582,6 @@
 ||ath01.dnscry.pt^
 ||atl01.dnscry.pt^
 ||atlantic.dyn1.de^
-||atris.cyou^
 ||atsilva.link^
 ||atsssgo.xyz^
 ||au-syd-w-f-1.nashkan.net^
@@ -922,7 +922,6 @@
 ||dns.52306.org^
 ||dns.58jdl.com^
 ||dns.5ososea.com^
-||dns.688447.xyz^
 ||dns.6level.net^
 ||dns.73zls.com^
 ||dns.7sec.com.br^
@@ -2585,6 +2584,7 @@
 ||herkes.online^
 ||hetz.sapient.cyou^
 ||hexxitcompany.com^
+||hfgx.shop^
 ||hg8.asia^
 ||hgns.harriganhome.ga^
 ||hgrps.eu^
