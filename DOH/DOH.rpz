@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2511150437 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2511160433 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2025-11-15 04:37:27 (UTC)
+; Last updated: 2025-11-16 04:33:42 (UTC)
 ;
 ; See https://jpgpi250.github.io/piholemanual/doc/Unbound%20response%20policy%20zones.pdf
 ; Report issues at https://github.com/jpgpi250/piholemanual/issues
@@ -1162,6 +1162,7 @@ dns.edc-pws.com CNAME .
 dns.eddi.net CNAME .
 dns.edgeburnmedia.com CNAME .
 dns.edgeworkssystems.ca CNAME .
+dns.edgy.network CNAME .
 dns.edison42.dev CNAME .
 dns.efficientdocuments.com CNAME .
 dns.electrotm.org CNAME .
