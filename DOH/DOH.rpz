@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2511160433 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2511170430 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2025-11-16 04:33:42 (UTC)
+; Last updated: 2025-11-17 04:30:53 (UTC)
 ;
 ; See https://jpgpi250.github.io/piholemanual/doc/Unbound%20response%20policy%20zones.pdf
 ; Report issues at https://github.com/jpgpi250/piholemanual/issues
@@ -586,6 +586,7 @@ atelier.alica.idv.tw CNAME .
 ath01.dnscry.pt CNAME .
 atl01.dnscry.pt CNAME .
 atlantic.dyn1.de CNAME .
+atris.cyou CNAME .
 atsilva.link CNAME .
 atsssgo.xyz CNAME .
 au-syd-w-f-1.nashkan.net CNAME .
@@ -2151,7 +2152,6 @@ doh.futa.gg CNAME .
 doh.gcp.pathofgrace.com CNAME .
 doh.greenwood.eu.org CNAME .
 doh.gslb2.xfinity.com CNAME .
-doh.hottis.de CNAME .
 doh.hugang8.cn CNAME .
 doh.ibr.cs.tu-bs.de CNAME .
 doh.immerda.ch CNAME .
@@ -2787,7 +2787,6 @@ jkt01.dnscry.pt CNAME .
 jnb01.dnscry.pt CNAME .
 jnb02.dnscry.pt CNAME .
 jnprd.com CNAME .
-johneldenring.lol CNAME .
 jonathanaugusto.freeddns.org CNAME .
 joouddo.ru CNAME .
 josephfamily.org CNAME .
@@ -2993,7 +2992,6 @@ makatla.tech CNAME .
 malanser.ru CNAME .
 man01.dnscry.pt CNAME .
 management.alexpollard.net CNAME .
-maqgie.xyz CNAME .
 mask-api.fe.apple-dns.net CNAME .
 mask-api.icloud.com CNAME .
 mask-canary.icloud.com CNAME .
