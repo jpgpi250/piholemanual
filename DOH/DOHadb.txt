@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2025-11-16 05:15:34 (UTC)
+! Last updated: 2025-11-17 05:12:46 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -582,6 +582,7 @@
 ||ath01.dnscry.pt^
 ||atl01.dnscry.pt^
 ||atlantic.dyn1.de^
+||atris.cyou^
 ||atsilva.link^
 ||atsssgo.xyz^
 ||au-syd-w-f-1.nashkan.net^
@@ -2147,7 +2148,6 @@
 ||doh.gcp.pathofgrace.com^
 ||doh.greenwood.eu.org^
 ||doh.gslb2.xfinity.com^
-||doh.hottis.de^
 ||doh.hugang8.cn^
 ||doh.ibr.cs.tu-bs.de^
 ||doh.immerda.ch^
@@ -2783,7 +2783,6 @@
 ||jnb01.dnscry.pt^
 ||jnb02.dnscry.pt^
 ||jnprd.com^
-||johneldenring.lol^
 ||jonathanaugusto.freeddns.org^
 ||joouddo.ru^
 ||josephfamily.org^
@@ -2989,7 +2988,6 @@
 ||malanser.ru^
 ||man01.dnscry.pt^
 ||management.alexpollard.net^
-||maqgie.xyz^
 ||mask-api.fe.apple-dns.net^
 ||mask-api.icloud.com^
 ||mask-canary.icloud.com^
