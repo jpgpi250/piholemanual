@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2511170430 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2511180442 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2025-11-17 04:30:53 (UTC)
+; Last updated: 2025-11-18 04:42:20 (UTC)
 ;
 ; See https://jpgpi250.github.io/piholemanual/doc/Unbound%20response%20policy%20zones.pdf
 ; Report issues at https://github.com/jpgpi250/piholemanual/issues
@@ -586,7 +586,6 @@ atelier.alica.idv.tw CNAME .
 ath01.dnscry.pt CNAME .
 atl01.dnscry.pt CNAME .
 atlantic.dyn1.de CNAME .
-atris.cyou CNAME .
 atsilva.link CNAME .
 atsssgo.xyz CNAME .
 au-syd-w-f-1.nashkan.net CNAME .
@@ -2886,6 +2885,7 @@ kuaishou.httpdns.pro CNAME .
 kudns.kescher.at CNAME .
 kvps01.xvps.jp CNAME .
 kwas24izynek74.ddns.net CNAME .
+kx-97795-tr.xyz CNAME .
 kz-pav-w-p-1.nashkan.net CNAME .
 la-doh.stuptech.com CNAME .
 lamdtl.giize.com CNAME .
@@ -3333,7 +3333,6 @@ polisitogel.cruises CNAME .
 polisitogel.diy CNAME .
 polisitogel.green CNAME .
 polisitogel.hair CNAME .
-polisitogel.limo CNAME .
 polisitogel.living CNAME .
 polisitogel.luxe CNAME .
 polisitogel.show CNAME .
