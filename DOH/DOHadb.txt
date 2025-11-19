@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2025-11-17 05:12:46 (UTC)
+! Last updated: 2025-11-18 05:25:03 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -582,7 +582,6 @@
 ||ath01.dnscry.pt^
 ||atl01.dnscry.pt^
 ||atlantic.dyn1.de^
-||atris.cyou^
 ||atsilva.link^
 ||atsssgo.xyz^
 ||au-syd-w-f-1.nashkan.net^
@@ -2882,6 +2881,7 @@
 ||kudns.kescher.at^
 ||kvps01.xvps.jp^
 ||kwas24izynek74.ddns.net^
+||kx-97795-tr.xyz^
 ||kz-pav-w-p-1.nashkan.net^
 ||la-doh.stuptech.com^
 ||lamdtl.giize.com^
@@ -3329,7 +3329,6 @@
 ||polisitogel.diy^
 ||polisitogel.green^
 ||polisitogel.hair^
-||polisitogel.limo^
 ||polisitogel.living^
 ||polisitogel.luxe^
 ||polisitogel.show^
