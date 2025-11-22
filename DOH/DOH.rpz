@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2511210434 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2511220405 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2025-11-21 04:34:45 (UTC)
+; Last updated: 2025-11-22 04:05:31 (UTC)
 ;
 ; See https://jpgpi250.github.io/piholemanual/doc/Unbound%20response%20policy%20zones.pdf
 ; Report issues at https://github.com/jpgpi250/piholemanual/issues
@@ -2886,6 +2886,7 @@ kuaishou.httpdns.pro CNAME .
 kudns.kescher.at CNAME .
 kvps01.xvps.jp CNAME .
 kwas24izynek74.ddns.net CNAME .
+kx-97795-tr.xyz CNAME .
 kz-pav-w-p-1.nashkan.net CNAME .
 la-doh.stuptech.com CNAME .
 lamdtl.giize.com CNAME .
@@ -2913,7 +2914,6 @@ lena.vpn.i81.ru CNAME .
 lena.vps.mtsdns.ru CNAME .
 leoadguard.duckdns.org CNAME .
 leochen-dns.ddns.net CNAME .
-lesuo.top CNAME .
 lewsha.lol CNAME .
 lfbn-gre-1-319-7.w90-112.abo.wanadoo.fr CNAME .
 lifeisa.live CNAME .
