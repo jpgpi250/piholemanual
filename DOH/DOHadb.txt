@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2025-11-23 04:29:43 (UTC)
+! Last updated: 2025-11-24 05:26:43 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -2622,6 +2622,7 @@
 ||hkt.kozow.com^
 ||hockaday.synology.me^
 ||hole.elbschloss.xyz^
+||home-server.store^
 ||home.azagra.dev^
 ||home.basthorst.eu^
 ||home.bruckmoser.it^
@@ -2882,7 +2883,6 @@
 ||kudns.kescher.at^
 ||kvps01.xvps.jp^
 ||kwas24izynek74.ddns.net^
-||kx-97795-tr.xyz^
 ||kz-pav-w-p-1.nashkan.net^
 ||la-doh.stuptech.com^
 ||lamdtl.giize.com^
@@ -2910,6 +2910,7 @@
 ||lena.vps.mtsdns.ru^
 ||leoadguard.duckdns.org^
 ||leochen-dns.ddns.net^
+||lesuo.top^
 ||lewsha.lol^
 ||lfbn-gre-1-319-7.w90-112.abo.wanadoo.fr^
 ||lifeisa.live^
