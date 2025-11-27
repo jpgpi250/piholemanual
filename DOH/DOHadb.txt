@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2025-11-25 04:39:44 (UTC)
+! Last updated: 2025-11-26 04:40:05 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -582,6 +582,7 @@
 ||ath01.dnscry.pt^
 ||atl01.dnscry.pt^
 ||atlantic.dyn1.de^
+||atris.cyou^
 ||atsilva.link^
 ||atsssgo.xyz^
 ||au-syd-w-f-1.nashkan.net^
@@ -1200,6 +1201,7 @@
 ||dns.fehlsprache.de^
 ||dns.feldy.my.id^
 ||dns.ffnw.de^
+||dns.fgbk.net^
 ||dns.fifux.be^
 ||dns.filipccz.eu^
 ||dns.fizz.studio^
@@ -2911,6 +2913,7 @@
 ||lena.vps.mtsdns.ru^
 ||leoadguard.duckdns.org^
 ||leochen-dns.ddns.net^
+||lesuo.top^
 ||lewsha.lol^
 ||lfbn-gre-1-319-7.w90-112.abo.wanadoo.fr^
 ||lifeisa.live^
