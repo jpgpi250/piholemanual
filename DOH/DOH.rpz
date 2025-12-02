@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2512010339 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2512020456 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2025-12-01 03:39:39 (UTC)
+; Last updated: 2025-12-02 04:56:04 (UTC)
 ;
 ; See https://jpgpi250.github.io/piholemanual/doc/Unbound%20response%20policy%20zones.pdf
 ; Report issues at https://github.com/jpgpi250/piholemanual/issues
@@ -701,6 +701,7 @@ callcontrol.nop.mobi CNAME .
 callies-online.site CNAME .
 canadianshield.cira.ca CNAME .
 carolinareaper.heeremans.net CNAME .
+catchen121299.top CNAME .
 catdns.org CNAME .
 cattery.noddos.top CNAME .
 cattery2.noddos.top CNAME .
@@ -954,7 +955,6 @@ dns.adguarddns.com CNAME .
 dns.adrianlam.com CNAME .
 dns.agfiudsv.icu CNAME .
 dns.ahmgam.com CNAME .
-dns.ahyxluo.ltd CNAME .
 dns.airmaxcloud.uk CNAME .
 dns.airns.net CNAME .
 dns.aixxycode.id CNAME .
@@ -2018,7 +2018,6 @@ dnsserver.mailchan.eu CNAME .
 dnssilo.top CNAME .
 dnssp.koretech.com.br CNAME .
 dnstls.mobik.com CNAME .
-dnstr.3300000.xyz CNAME .
 dnstw.3300000.xyz CNAME .
 dnstx.axhy.cc CNAME .
 dnsupstream02.familieberfelo.nl CNAME .
@@ -2026,7 +2025,6 @@ dnsvps.familiamv.ml CNAME .
 dnsvps.familiamv.net CNAME .
 dnsvs.ddns.net CNAME .
 dnswebvsn.com CNAME .
-dnsyg.3300000.xyz CNAME .
 dnx.niko-sem.com CNAME .
 do.dnscrypt.uk CNAME .
 do.shimul.me CNAME .
@@ -2878,7 +2876,6 @@ kswro.web.id CNAME .
 kuaishou.httpdns.pro CNAME .
 kudns.kescher.at CNAME .
 kwas24izynek74.ddns.net CNAME .
-kx-97795-tr.xyz CNAME .
 kz-pav-w-p-1.nashkan.net CNAME .
 la-doh.stuptech.com CNAME .
 lamdtl.giize.com CNAME .
