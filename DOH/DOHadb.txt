@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2025-12-01 04:22:19 (UTC)
+! Last updated: 2025-12-02 05:38:23 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -697,6 +697,7 @@
 ||callies-online.site^
 ||canadianshield.cira.ca^
 ||carolinareaper.heeremans.net^
+||catchen121299.top^
 ||catdns.org^
 ||cattery.noddos.top^
 ||cattery2.noddos.top^
@@ -950,7 +951,6 @@
 ||dns.adrianlam.com^
 ||dns.agfiudsv.icu^
 ||dns.ahmgam.com^
-||dns.ahyxluo.ltd^
 ||dns.airmaxcloud.uk^
 ||dns.airns.net^
 ||dns.aixxycode.id^
@@ -2014,7 +2014,6 @@
 ||dnssilo.top^
 ||dnssp.koretech.com.br^
 ||dnstls.mobik.com^
-||dnstr.3300000.xyz^
 ||dnstw.3300000.xyz^
 ||dnstx.axhy.cc^
 ||dnsupstream02.familieberfelo.nl^
@@ -2022,7 +2021,6 @@
 ||dnsvps.familiamv.net^
 ||dnsvs.ddns.net^
 ||dnswebvsn.com^
-||dnsyg.3300000.xyz^
 ||dnx.niko-sem.com^
 ||do.dnscrypt.uk^
 ||do.shimul.me^
@@ -2874,7 +2872,6 @@
 ||kuaishou.httpdns.pro^
 ||kudns.kescher.at^
 ||kwas24izynek74.ddns.net^
-||kx-97795-tr.xyz^
 ||kz-pav-w-p-1.nashkan.net^
 ||la-doh.stuptech.com^
 ||lamdtl.giize.com^
