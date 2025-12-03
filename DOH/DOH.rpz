@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2512020456 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2512030438 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2025-12-02 04:56:04 (UTC)
+; Last updated: 2025-12-03 04:38:31 (UTC)
 ;
 ; See https://jpgpi250.github.io/piholemanual/doc/Unbound%20response%20policy%20zones.pdf
 ; Report issues at https://github.com/jpgpi250/piholemanual/issues
@@ -588,6 +588,7 @@ atelier.alica.idv.tw CNAME .
 ath01.dnscry.pt CNAME .
 atl01.dnscry.pt CNAME .
 atlantic.dyn1.de CNAME .
+atris.cyou CNAME .
 atsilva.link CNAME .
 atsssgo.xyz CNAME .
 au-syd-w-f-1.nashkan.net CNAME .
@@ -698,7 +699,6 @@ ca.doh.cloudveil.org CNAME .
 ca01.dns4me.net CNAME .
 ca02.dns4me.net CNAME .
 callcontrol.nop.mobi CNAME .
-callies-online.site CNAME .
 canadianshield.cira.ca CNAME .
 carolinareaper.heeremans.net CNAME .
 catchen121299.top CNAME .
@@ -785,7 +785,6 @@ cyliu.idv.tw CNAME .
 d.adguard-dns.com CNAME .
 d.apemlegit.my.id CNAME .
 d.bod.lol CNAME .
-d.carilagi.id CNAME .
 d.gametechnet.com CNAME .
 d.hansj.cc CNAME .
 d.hxhd.cc CNAME .
@@ -1177,7 +1176,6 @@ dns.emiliyan.com CNAME .
 dns.enderblocks.net CNAME .
 dns.engineer-lib.ru CNAME .
 dns.engineer.web.id CNAME .
-dns.enzonix.com CNAME .
 dns.epcot.fr CNAME .
 dns.epic.st CNAME .
 dns.erkin.top CNAME .
@@ -2377,7 +2375,6 @@ eoin.dns.walshnet.co.uk CNAME .
 eropa.dnscepat.id CNAME .
 es-ma.foxyfy.net CNAME .
 esel.stusta.mhn.de CNAME .
-essentiallyjay.com CNAME .
 eth.link CNAME .
 eu.doh.sb CNAME .
 eu.tri-dns.net CNAME .
@@ -2808,6 +2805,7 @@ jujuba.cafuringa.org CNAME .
 jurre-home.duckdns.org CNAME .
 justfor.myasustor.com CNAME .
 justhost.bedro.cloud CNAME .
+juuri.hagezi.org CNAME .
 jxzn.172896.xyz CNAME .
 k03.dedyn.io CNAME .
 k3n.pw CNAME .
@@ -2991,7 +2989,6 @@ matvey.dns.vladpro.ru CNAME .
 max.rethinkdns.com CNAME .
 maxfong.cc CNAME .
 mc-sft.cn CNAME .
-mc.drahonn.pro CNAME .
 mci01.dnscry.pt CNAME .
 mcore.us.to CNAME .
 mcttechs.com CNAME .
@@ -3043,7 +3040,6 @@ muli.stusta.mhn.de CNAME .
 multi.dns.marbledfennec.net CNAME .
 muppy.pnamae.com CNAME .
 music.httpdns.c.163.com CNAME .
-musicbot.drahonn.pro CNAME .
 muxyuji.ru CNAME .
 mx1.laoxiao789.com CNAME .
 myadg.ru CNAME .
@@ -3469,6 +3465,7 @@ roelgianotten.ddnsfree.com CNAME .
 roma.vpn.geshido.ru CNAME .
 rome.digitallink.be CNAME .
 ronaldvkrueger.ddns.net CNAME .
+root.hagezi.org CNAME .
 rootdns.anir0y.in CNAME .
 roucious.dyndns-remote.com CNAME .
 route.netshi.cn CNAME .
@@ -3963,6 +3960,7 @@ woalongit.synology.me CNAME .
 woc.beelstb.biz.id CNAME .
 woodbridge.club CNAME .
 workcavestl.duckdns.org CNAME .
+wurzn.hagezi.org CNAME .
 www.1ee.top CNAME .
 www.20010114.xyz CNAME .
 www.acomit.lk CNAME .
