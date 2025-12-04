@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2025-12-02 05:38:23 (UTC)
+! Last updated: 2025-12-03 05:20:59 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -584,6 +584,7 @@
 ||ath01.dnscry.pt^
 ||atl01.dnscry.pt^
 ||atlantic.dyn1.de^
+||atris.cyou^
 ||atsilva.link^
 ||atsssgo.xyz^
 ||au-syd-w-f-1.nashkan.net^
@@ -694,7 +695,6 @@
 ||ca01.dns4me.net^
 ||ca02.dns4me.net^
 ||callcontrol.nop.mobi^
-||callies-online.site^
 ||canadianshield.cira.ca^
 ||carolinareaper.heeremans.net^
 ||catchen121299.top^
@@ -781,7 +781,6 @@
 ||d.adguard-dns.com^
 ||d.apemlegit.my.id^
 ||d.bod.lol^
-||d.carilagi.id^
 ||d.gametechnet.com^
 ||d.hansj.cc^
 ||d.hxhd.cc^
@@ -1173,7 +1172,6 @@
 ||dns.enderblocks.net^
 ||dns.engineer-lib.ru^
 ||dns.engineer.web.id^
-||dns.enzonix.com^
 ||dns.epcot.fr^
 ||dns.epic.st^
 ||dns.erkin.top^
@@ -2373,7 +2371,6 @@
 ||eropa.dnscepat.id^
 ||es-ma.foxyfy.net^
 ||esel.stusta.mhn.de^
-||essentiallyjay.com^
 ||eth.link^
 ||eu.doh.sb^
 ||eu.tri-dns.net^
@@ -2804,6 +2801,7 @@
 ||jurre-home.duckdns.org^
 ||justfor.myasustor.com^
 ||justhost.bedro.cloud^
+||juuri.hagezi.org^
 ||jxzn.172896.xyz^
 ||k03.dedyn.io^
 ||k3n.pw^
@@ -2987,7 +2985,6 @@
 ||max.rethinkdns.com^
 ||maxfong.cc^
 ||mc-sft.cn^
-||mc.drahonn.pro^
 ||mci01.dnscry.pt^
 ||mcore.us.to^
 ||mcttechs.com^
@@ -3039,7 +3036,6 @@
 ||multi.dns.marbledfennec.net^
 ||muppy.pnamae.com^
 ||music.httpdns.c.163.com^
-||musicbot.drahonn.pro^
 ||muxyuji.ru^
 ||mx1.laoxiao789.com^
 ||myadg.ru^
@@ -3465,6 +3461,7 @@
 ||roma.vpn.geshido.ru^
 ||rome.digitallink.be^
 ||ronaldvkrueger.ddns.net^
+||root.hagezi.org^
 ||rootdns.anir0y.in^
 ||roucious.dyndns-remote.com^
 ||route.netshi.cn^
@@ -3959,6 +3956,7 @@
 ||woc.beelstb.biz.id^
 ||woodbridge.club^
 ||workcavestl.duckdns.org^
+||wurzn.hagezi.org^
 ||www.1ee.top^
 ||www.20010114.xyz^
 ||www.acomit.lk^
