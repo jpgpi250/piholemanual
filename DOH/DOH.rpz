@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2512030438 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2512040416 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2025-12-03 04:38:31 (UTC)
+; Last updated: 2025-12-04 04:16:27 (UTC)
 ;
 ; See https://jpgpi250.github.io/piholemanual/doc/Unbound%20response%20policy%20zones.pdf
 ; Report issues at https://github.com/jpgpi250/piholemanual/issues
@@ -588,7 +588,6 @@ atelier.alica.idv.tw CNAME .
 ath01.dnscry.pt CNAME .
 atl01.dnscry.pt CNAME .
 atlantic.dyn1.de CNAME .
-atris.cyou CNAME .
 atsilva.link CNAME .
 atsssgo.xyz CNAME .
 au-syd-w-f-1.nashkan.net CNAME .
@@ -1428,7 +1427,6 @@ dns.lithvik.com CNAME .
 dns.litong.dev CNAME .
 dns.lmir.info CNAME .
 dns.lobbygod.com CNAME .
-dns.loony-tech.de CNAME .
 dns.lsho.top CNAME .
 dns.luismm2311.com CNAME .
 dns.lululu.dev CNAME .
@@ -2588,7 +2586,6 @@ hk.100992.xyz CNAME .
 hk.559299366.xyz CNAME .
 hk.conana.info CNAME .
 hk.end.pub CNAME .
-hk.imtsui.com CNAME .
 hk.janebooom.com CNAME .
 hk.jason666.top CNAME .
 hk.reaticle.com CNAME .
@@ -3064,7 +3061,6 @@ n5.lsasss.com CNAME .
 n50.martkotur.ru CNAME .
 n8nmegapixar.online CNAME .
 naganohara-yoimiya.momokko.moe CNAME .
-najiakeji.top CNAME .
 name.nop.mobi CNAME .
 nas-fusion.loisy.it CNAME .
 nas-scheiben34.myasustor.com CNAME .
@@ -3554,7 +3550,6 @@ sg-dns1.bancuh.com CNAME .
 sg-dns2.bancuh.com CNAME .
 sg-sin.doh.sb CNAME .
 sg-w-f-1.nashkan.net CNAME .
-sg-w-f-2.nashkan.net CNAME .
 sg-w-p-1.nashkan.net CNAME .
 sg.101818.xyz CNAME .
 sg.rslvr.eu CNAME .
