@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2512040416 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2512050403 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2025-12-04 04:16:27 (UTC)
+; Last updated: 2025-12-05 04:03:46 (UTC)
 ;
 ; See https://jpgpi250.github.io/piholemanual/doc/Unbound%20response%20policy%20zones.pdf
 ; Report issues at https://github.com/jpgpi250/piholemanual/issues
@@ -320,7 +320,6 @@ adguard.ppfeufer.de CNAME .
 adguard.pushedv.de CNAME .
 adguard.quydang.name.vn CNAME .
 adguard.rabmoor.cz CNAME .
-adguard.randn.ru CNAME .
 adguard.randomaizer.lentel.ru CNAME .
 adguard.rdekuyper.nl CNAME .
 adguard.rennes.despagne.net CNAME .
@@ -349,7 +348,6 @@ adguard.stoian.top CNAME .
 adguard.strafer.dk CNAME .
 adguard.streamlas.fr CNAME .
 adguard.superstefan.win CNAME .
-adguard.sverzhe.com CNAME .
 adguard.taufner.net CNAME .
 adguard.tcpu.io CNAME .
 adguard.techlike.in CNAME .
@@ -797,7 +795,6 @@ d0.tada.ly CNAME .
 d1.12342345.xyz CNAME .
 d1.insec.link CNAME .
 d1.vps.mtsdns.ru CNAME .
-d2.shabi.icu CNAME .
 d2.vps.mtsdns.ru CNAME .
 d3.vps.mtsdns.ru CNAME .
 d3vy.ru CNAME .
@@ -837,7 +834,6 @@ de.teradns.org CNAME .
 de01.dns4me.net CNAME .
 dedidl.com CNAME .
 defendfrienddns.fyi CNAME .
-defsnldns01.sc-hosting.info CNAME .
 dehb.ru CNAME .
 deic-lgb.anycast.censurfridns.dk CNAME .
 deic-lgb.anycast.censurfridns.nu CNAME .
@@ -1677,7 +1673,6 @@ dns.sellan.fr CNAME .
 dns.serdcebolit.ru CNAME .
 dns.server2.tschoerner.eu CNAME .
 dns.servizimv.it CNAME .
-dns.sethost.de CNAME .
 dns.sev.monster CNAME .
 dns.sgp.hicn.site CNAME .
 dns.shareworx.net CNAME .
@@ -1696,7 +1691,6 @@ dns.sitdns.com CNAME .
 dns.skous.dedyn.io CNAME .
 dns.skrep.eu CNAME .
 dns.skrep.in CNAME .
-dns.skrzypiec.pl CNAME .
 dns.skuy.co.id CNAME .
 dns.sledge.cc CNAME .
 dns.slinkyman.net CNAME .
@@ -1806,7 +1800,6 @@ dns.vmisch.tech CNAME .
 dns.vod11.xyz CNAME .
 dns.volsap.ovh CNAME .
 dns.voronin.uk CNAME .
-dns.voyager2.space CNAME .
 dns.vpn.i81.ru CNAME .
 dns.vps.mtsdns.ru CNAME .
 dns.vps.pw CNAME .
@@ -3308,15 +3301,6 @@ pm7051-br.xyz CNAME .
 pm9352-bd.xyz CNAME .
 pmo01.dnscry.pt CNAME .
 pns2.sadraidc.com CNAME .
-polisitogel.beauty CNAME .
-polisitogel.builders CNAME .
-polisitogel.contractors CNAME .
-polisitogel.cruises CNAME .
-polisitogel.diy CNAME .
-polisitogel.green CNAME .
-polisitogel.hair CNAME .
-polisitogel.living CNAME .
-polisitogel.luxe CNAME .
 polisitogel.show CNAME .
 polisitogel.webcam CNAME .
 pooblet.co.za CNAME .
@@ -3361,7 +3345,6 @@ qaz.tw CNAME .
 qdns02.nymterm.com CNAME .
 qingmo.vip CNAME .
 qlf-doh.inria.fr CNAME .
-qqmcfw.tech CNAME .
 qro01.dnscry.pt CNAME .
 quadrogramma.vps.webdock.cloud CNAME .
 qual.cuprum.ru CNAME .
@@ -3377,7 +3360,6 @@ r1bnc.eu.org CNAME .
 r7ws-poco-f3.dns.xwu.us CNAME .
 rafi.dynns.com CNAME .
 raj.pw CNAME .
-randn.ru CNAME .
 rasp.matthias-iwer.de CNAME .
 rayneau.fr CNAME .
 rb750gr3.ulfhednar.ru CNAME .
@@ -3613,7 +3595,6 @@ solution.w10.life CNAME .
 songochain.freeddns.org CNAME .
 sorephie-dns2.ddns.net CNAME .
 spacedns.org CNAME .
-speeddns.top CNAME .
 speedtest.skynetinternet.com.br CNAME .
 spotifyobs.drahonn.pro CNAME .
 spyro-the-bat.fleuryk.ovh CNAME .
@@ -3960,7 +3941,6 @@ www.1ee.top CNAME .
 www.20010114.xyz CNAME .
 www.acomit.lk CNAME .
 www.adguard.marto.si CNAME .
-www.adguard.randn.ru CNAME .
 www.agh.broaddy.com CNAME .
 www.amopython.shop CNAME .
 www.andrewnw.xyz CNAME .
@@ -4014,7 +3994,6 @@ www.pdnssrvagh.online CNAME .
 www.pingbi.xyz CNAME .
 www.prostoclub.ru CNAME .
 www.qingmo.vip CNAME .
-www.randn.ru CNAME .
 www.reptis.online CNAME .
 www.richardo.net CNAME .
 www.skynetinternet.com.br CNAME .
