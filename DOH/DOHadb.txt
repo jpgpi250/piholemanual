@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2025-12-03 05:20:59 (UTC)
+! Last updated: 2025-12-04 04:57:13 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -584,7 +584,6 @@
 ||ath01.dnscry.pt^
 ||atl01.dnscry.pt^
 ||atlantic.dyn1.de^
-||atris.cyou^
 ||atsilva.link^
 ||atsssgo.xyz^
 ||au-syd-w-f-1.nashkan.net^
@@ -1424,7 +1423,6 @@
 ||dns.litong.dev^
 ||dns.lmir.info^
 ||dns.lobbygod.com^
-||dns.loony-tech.de^
 ||dns.lsho.top^
 ||dns.luismm2311.com^
 ||dns.lululu.dev^
@@ -2584,7 +2582,6 @@
 ||hk.559299366.xyz^
 ||hk.conana.info^
 ||hk.end.pub^
-||hk.imtsui.com^
 ||hk.janebooom.com^
 ||hk.jason666.top^
 ||hk.reaticle.com^
@@ -3060,7 +3057,6 @@
 ||n50.martkotur.ru^
 ||n8nmegapixar.online^
 ||naganohara-yoimiya.momokko.moe^
-||najiakeji.top^
 ||name.nop.mobi^
 ||nas-fusion.loisy.it^
 ||nas-scheiben34.myasustor.com^
@@ -3550,7 +3546,6 @@
 ||sg-dns2.bancuh.com^
 ||sg-sin.doh.sb^
 ||sg-w-f-1.nashkan.net^
-||sg-w-f-2.nashkan.net^
 ||sg-w-p-1.nashkan.net^
 ||sg.101818.xyz^
 ||sg.rslvr.eu^
