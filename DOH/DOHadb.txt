@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2025-12-04 04:57:13 (UTC)
+! Last updated: 2025-12-05 04:45:33 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -316,7 +316,6 @@
 ||adguard.pushedv.de^
 ||adguard.quydang.name.vn^
 ||adguard.rabmoor.cz^
-||adguard.randn.ru^
 ||adguard.randomaizer.lentel.ru^
 ||adguard.rdekuyper.nl^
 ||adguard.rennes.despagne.net^
@@ -345,7 +344,6 @@
 ||adguard.strafer.dk^
 ||adguard.streamlas.fr^
 ||adguard.superstefan.win^
-||adguard.sverzhe.com^
 ||adguard.taufner.net^
 ||adguard.tcpu.io^
 ||adguard.techlike.in^
@@ -793,7 +791,6 @@
 ||d1.12342345.xyz^
 ||d1.insec.link^
 ||d1.vps.mtsdns.ru^
-||d2.shabi.icu^
 ||d2.vps.mtsdns.ru^
 ||d3.vps.mtsdns.ru^
 ||d3vy.ru^
@@ -833,7 +830,6 @@
 ||de01.dns4me.net^
 ||dedidl.com^
 ||defendfrienddns.fyi^
-||defsnldns01.sc-hosting.info^
 ||dehb.ru^
 ||deic-lgb.anycast.censurfridns.dk^
 ||deic-lgb.anycast.censurfridns.nu^
@@ -1673,7 +1669,6 @@
 ||dns.serdcebolit.ru^
 ||dns.server2.tschoerner.eu^
 ||dns.servizimv.it^
-||dns.sethost.de^
 ||dns.sev.monster^
 ||dns.sgp.hicn.site^
 ||dns.shareworx.net^
@@ -1692,7 +1687,6 @@
 ||dns.skous.dedyn.io^
 ||dns.skrep.eu^
 ||dns.skrep.in^
-||dns.skrzypiec.pl^
 ||dns.skuy.co.id^
 ||dns.sledge.cc^
 ||dns.slinkyman.net^
@@ -1802,7 +1796,6 @@
 ||dns.vod11.xyz^
 ||dns.volsap.ovh^
 ||dns.voronin.uk^
-||dns.voyager2.space^
 ||dns.vpn.i81.ru^
 ||dns.vps.mtsdns.ru^
 ||dns.vps.pw^
@@ -3304,15 +3297,6 @@
 ||pm9352-bd.xyz^
 ||pmo01.dnscry.pt^
 ||pns2.sadraidc.com^
-||polisitogel.beauty^
-||polisitogel.builders^
-||polisitogel.contractors^
-||polisitogel.cruises^
-||polisitogel.diy^
-||polisitogel.green^
-||polisitogel.hair^
-||polisitogel.living^
-||polisitogel.luxe^
 ||polisitogel.show^
 ||polisitogel.webcam^
 ||pooblet.co.za^
@@ -3357,7 +3341,6 @@
 ||qdns02.nymterm.com^
 ||qingmo.vip^
 ||qlf-doh.inria.fr^
-||qqmcfw.tech^
 ||qro01.dnscry.pt^
 ||quadrogramma.vps.webdock.cloud^
 ||qual.cuprum.ru^
@@ -3373,7 +3356,6 @@
 ||r7ws-poco-f3.dns.xwu.us^
 ||rafi.dynns.com^
 ||raj.pw^
-||randn.ru^
 ||rasp.matthias-iwer.de^
 ||rayneau.fr^
 ||rb750gr3.ulfhednar.ru^
@@ -3609,7 +3591,6 @@
 ||songochain.freeddns.org^
 ||sorephie-dns2.ddns.net^
 ||spacedns.org^
-||speeddns.top^
 ||speedtest.skynetinternet.com.br^
 ||spotifyobs.drahonn.pro^
 ||spyro-the-bat.fleuryk.ovh^
@@ -3956,7 +3937,6 @@
 ||www.20010114.xyz^
 ||www.acomit.lk^
 ||www.adguard.marto.si^
-||www.adguard.randn.ru^
 ||www.agh.broaddy.com^
 ||www.amopython.shop^
 ||www.andrewnw.xyz^
@@ -4010,7 +3990,6 @@
 ||www.pingbi.xyz^
 ||www.prostoclub.ru^
 ||www.qingmo.vip^
-||www.randn.ru^
 ||www.reptis.online^
 ||www.richardo.net^
 ||www.skynetinternet.com.br^
