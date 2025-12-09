@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2512080429 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2512090418 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2025-12-08 04:29:42 (UTC)
+; Last updated: 2025-12-09 04:18:18 (UTC)
 ;
 ; See https://jpgpi250.github.io/piholemanual/doc/Unbound%20response%20policy%20zones.pdf
 ; Report issues at https://github.com/jpgpi250/piholemanual/issues
@@ -835,6 +835,7 @@ de.dns.privex.io CNAME .
 de.teradns.org CNAME .
 de01.dns4me.net CNAME .
 dedidl.com CNAME .
+deep-henchman-excuse.cfd CNAME .
 defendfrienddns.fyi CNAME .
 dehb.ru CNAME .
 deic-lgb.anycast.censurfridns.dk CNAME .
@@ -1657,7 +1658,6 @@ dns.sarilouis.com CNAME .
 dns.sark.dev CNAME .
 dns.sb CNAME .
 dns.sbstructure.ir CNAME .
-dns.scapetical.com CNAME .
 dns.scarx.net CNAME .
 dns.scayn.com CNAME .
 dns.schimtar.com CNAME .
@@ -2018,6 +2018,7 @@ dnsvps.familiamv.net CNAME .
 dnsvs.ddns.net CNAME .
 dnswebvsn.com CNAME .
 dnx.niko-sem.com CNAME .
+do-39574-tr.xyz CNAME .
 do.dnscrypt.uk CNAME .
 do.shimul.me CNAME .
 docker-hub.ir CNAME .
@@ -2867,6 +2868,7 @@ kswro.web.id CNAME .
 kuaishou.httpdns.pro CNAME .
 kudns.kescher.at CNAME .
 kwas24izynek74.ddns.net CNAME .
+kx-97795-tr.xyz CNAME .
 kz-pav-w-p-1.nashkan.net CNAME .
 la-doh.stuptech.com CNAME .
 lamdtl.giize.com CNAME .
@@ -2893,6 +2895,7 @@ lena.vpn.i81.ru CNAME .
 lena.vps.mtsdns.ru CNAME .
 leoadguard.duckdns.org CNAME .
 leochen-dns.ddns.net CNAME .
+lesuo.top CNAME .
 lewsha.lol CNAME .
 lfbn-gre-1-319-7.w90-112.abo.wanadoo.fr CNAME .
 lifeisa.live CNAME .
@@ -3037,6 +3040,7 @@ muxyuji.ru CNAME .
 mx1.laoxiao789.com CNAME .
 myadg.ru CNAME .
 myagh.claptrap.me CNAME .
+myatris.sbs CNAME .
 mydevpn.eu CNAME .
 mydns.bielperes.me CNAME .
 mydns.ddns.me CNAME .
