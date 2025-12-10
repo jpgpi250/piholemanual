@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2025-12-08 05:11:11 (UTC)
+! Last updated: 2025-12-09 05:00:59 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -831,6 +831,7 @@
 ||de.teradns.org^
 ||de01.dns4me.net^
 ||dedidl.com^
+||deep-henchman-excuse.cfd^
 ||defendfrienddns.fyi^
 ||dehb.ru^
 ||deic-lgb.anycast.censurfridns.dk^
@@ -1653,7 +1654,6 @@
 ||dns.sark.dev^
 ||dns.sb^
 ||dns.sbstructure.ir^
-||dns.scapetical.com^
 ||dns.scarx.net^
 ||dns.scayn.com^
 ||dns.schimtar.com^
@@ -2014,6 +2014,7 @@
 ||dnsvs.ddns.net^
 ||dnswebvsn.com^
 ||dnx.niko-sem.com^
+||do-39574-tr.xyz^
 ||do.dnscrypt.uk^
 ||do.shimul.me^
 ||docker-hub.ir^
@@ -2863,6 +2864,7 @@
 ||kuaishou.httpdns.pro^
 ||kudns.kescher.at^
 ||kwas24izynek74.ddns.net^
+||kx-97795-tr.xyz^
 ||kz-pav-w-p-1.nashkan.net^
 ||la-doh.stuptech.com^
 ||lamdtl.giize.com^
@@ -2889,6 +2891,7 @@
 ||lena.vps.mtsdns.ru^
 ||leoadguard.duckdns.org^
 ||leochen-dns.ddns.net^
+||lesuo.top^
 ||lewsha.lol^
 ||lfbn-gre-1-319-7.w90-112.abo.wanadoo.fr^
 ||lifeisa.live^
@@ -3033,6 +3036,7 @@
 ||mx1.laoxiao789.com^
 ||myadg.ru^
 ||myagh.claptrap.me^
+||myatris.sbs^
 ||mydevpn.eu^
 ||mydns.bielperes.me^
 ||mydns.ddns.me^
