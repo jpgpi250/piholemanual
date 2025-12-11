@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2512100420 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2512110419 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2025-12-10 04:20:00 (UTC)
+; Last updated: 2025-12-11 04:19:01 (UTC)
 ;
 ; See https://jpgpi250.github.io/piholemanual/doc/Unbound%20response%20policy%20zones.pdf
 ; Report issues at https://github.com/jpgpi250/piholemanual/issues
@@ -1533,7 +1533,6 @@ dns.nominal.network CNAME .
 dns.nonomi.cc CNAME .
 dns.nop.mobi CNAME .
 dns.norvig.dk CNAME .
-dns.notjakob.com CNAME .
 dns.novali.date CNAME .
 dns.novg.net CNAME .
 dns.npe.bz CNAME .
