@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2025-12-10 05:02:34 (UTC)
+! Last updated: 2025-12-11 05:00:54 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -1529,7 +1529,6 @@
 ||dns.nonomi.cc^
 ||dns.nop.mobi^
 ||dns.norvig.dk^
-||dns.notjakob.com^
 ||dns.novali.date^
 ||dns.novg.net^
 ||dns.npe.bz^
