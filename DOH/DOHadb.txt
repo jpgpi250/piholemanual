@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2025-12-15 05:31:37 (UTC)
+! Last updated: 2025-12-16 05:34:30 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -3638,6 +3638,7 @@
 ||swe.try-dns.com^
 ||sweethome.in.eu.org^
 ||switch.ch^
+||switzerland.privacy-dns.pw^
 ||syd.adfilter.net^
 ||syd.core.access.zznet.fun^
 ||syd01.dnscry.pt^
@@ -3658,7 +3659,6 @@
 ||test.businessconnect.com.tr^
 ||test.marss.pro^
 ||test.privatenode.ru^
-||test.zkwg.duckdns.org^
 ||test2.adg.siudzinski.net^
 ||test3.adg.siudzinski.net^
 ||test4.adg.siudzinski.net^
