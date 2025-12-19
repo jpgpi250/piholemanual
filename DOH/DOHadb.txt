@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2025-12-17 05:11:13 (UTC)
+! Last updated: 2025-12-18 05:08:47 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -1101,6 +1101,7 @@
 ||dns.d8e.ru^
 ||dns.d94.xyz^
 ||dns.d96.info^
+||dns.daarrk.tech^
 ||dns.daemon.za.net^
 ||dns.dallinbryce.com^
 ||dns.damlayayinevi.com.tr^
@@ -2710,7 +2711,6 @@
 ||inadsware.ddns.net^
 ||incaseineeditoneday.com^
 ||ind01.dnscry.pt^
-||india.privacy-dns.pw^
 ||ines.zfn.uni-bremen.de^
 ||ingenmannsland.online^
 ||inoainoa.fun^
