@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2512180427 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2512190446 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2025-12-18 04:27:45 (UTC)
+; Last updated: 2025-12-19 04:46:10 (UTC)
 ;
 ; See https://jpgpi250.github.io/piholemanual/doc/Unbound%20response%20policy%20zones.pdf
 ; Report issues at https://github.com/jpgpi250/piholemanual/issues
@@ -121,6 +121,7 @@ adblock.lux1.dns.nixnet.xyz CNAME .
 adblock.lv1.dns.nixnet.xyz CNAME .
 adblock.mydns.network CNAME .
 adblock.ny1.dns.nixnet.xyz CNAME .
+adblock.opendoh.com CNAME .
 adblock.renedis.nl CNAME .
 adblocker.institutobancario.edu.mx CNAME .
 adblockersite.com CNAME .
@@ -1105,7 +1106,6 @@ dns.d4d.moe CNAME .
 dns.d8e.ru CNAME .
 dns.d94.xyz CNAME .
 dns.d96.info CNAME .
-dns.daarrk.tech CNAME .
 dns.daemon.za.net CNAME .
 dns.dallinbryce.com CNAME .
 dns.damlayayinevi.com.tr CNAME .
@@ -1556,6 +1556,7 @@ dns.omada.cafe CNAME .
 dns.omee4.ru CNAME .
 dns.onp.cloud CNAME .
 dns.opendns.com CNAME .
+dns.opendoh.com CNAME .
 dns.opnsource.com.au CNAME .
 dns.ord.chriswang.work CNAME .
 dns.oryxlabs.com CNAME .
@@ -4025,7 +4026,6 @@ x.laoban.fun CNAME .
 x.ns1net.com CNAME .
 x.res.wang CNAME .
 x861g.duckdns.org CNAME .
-xbcpb668.com CNAME .
 xenergy.cc CNAME .
 xfer.au CNAME .
 xholgm.top CNAME .
