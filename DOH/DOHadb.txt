@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2025-12-18 05:08:47 (UTC)
+! Last updated: 2025-12-19 05:28:34 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -117,6 +117,7 @@
 ||adblock.lv1.dns.nixnet.xyz^
 ||adblock.mydns.network^
 ||adblock.ny1.dns.nixnet.xyz^
+||adblock.opendoh.com^
 ||adblock.renedis.nl^
 ||adblocker.institutobancario.edu.mx^
 ||adblockersite.com^
@@ -1101,7 +1102,6 @@
 ||dns.d8e.ru^
 ||dns.d94.xyz^
 ||dns.d96.info^
-||dns.daarrk.tech^
 ||dns.daemon.za.net^
 ||dns.dallinbryce.com^
 ||dns.damlayayinevi.com.tr^
@@ -1552,6 +1552,7 @@
 ||dns.omee4.ru^
 ||dns.onp.cloud^
 ||dns.opendns.com^
+||dns.opendoh.com^
 ||dns.opnsource.com.au^
 ||dns.ord.chriswang.work^
 ||dns.oryxlabs.com^
@@ -4021,7 +4022,6 @@
 ||x.ns1net.com^
 ||x.res.wang^
 ||x861g.duckdns.org^
-||xbcpb668.com^
 ||xenergy.cc^
 ||xfer.au^
 ||xholgm.top^
