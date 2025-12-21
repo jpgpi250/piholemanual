@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2512200340 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2512210439 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2025-12-20 03:40:20 (UTC)
+; Last updated: 2025-12-21 04:39:02 (UTC)
 ;
 ; See https://jpgpi250.github.io/piholemanual/doc/Unbound%20response%20policy%20zones.pdf
 ; Report issues at https://github.com/jpgpi250/piholemanual/issues
@@ -80,6 +80,7 @@ abel.waringer-atg.de CNAME .
 ablock.fuckit.ovh CNAME .
 abluehope.com CNAME .
 abn01.dnscry.pt CNAME .
+abpvn.org CNAME .
 acomit.lk CNAME .
 ad-blocking.eu.org CNAME .
 ad.800801.xyz CNAME .
@@ -341,6 +342,7 @@ adguard.sixxi.de CNAME .
 adguard.soloanvill.ru CNAME .
 adguard.som-it.net CNAME .
 adguard.spaceindex.net CNAME .
+adguard.sparshbajaj.me CNAME .
 adguard.sre.ovh CNAME .
 adguard.sscw.win CNAME .
 adguard.stealbit.com CNAME .
@@ -1106,7 +1108,6 @@ dns.d4d.moe CNAME .
 dns.d8e.ru CNAME .
 dns.d94.xyz CNAME .
 dns.d96.info CNAME .
-dns.daarrk.tech CNAME .
 dns.daemon.za.net CNAME .
 dns.dallinbryce.com CNAME .
 dns.damlayayinevi.com.tr CNAME .
@@ -1660,7 +1661,6 @@ dns.sarilouis.com CNAME .
 dns.sark.dev CNAME .
 dns.sb CNAME .
 dns.sbstructure.ir CNAME .
-dns.scapetical.com CNAME .
 dns.scarx.net CNAME .
 dns.scayn.com CNAME .
 dns.schimtar.com CNAME .
