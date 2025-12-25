@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2512240415 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2512250418 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2025-12-24 04:15:33 (UTC)
+; Last updated: 2025-12-25 04:18:23 (UTC)
 ;
 ; See https://jpgpi250.github.io/piholemanual/doc/Unbound%20response%20policy%20zones.pdf
 ; Report issues at https://github.com/jpgpi250/piholemanual/issues
@@ -1110,6 +1110,7 @@ dns.d4d.moe CNAME .
 dns.d8e.ru CNAME .
 dns.d94.xyz CNAME .
 dns.d96.info CNAME .
+dns.daarrk.tech CNAME .
 dns.daemon.za.net CNAME .
 dns.dallinbryce.com CNAME .
 dns.damlayayinevi.com.tr CNAME .
@@ -1637,7 +1638,6 @@ dns.reitmeier.me CNAME .
 dns.renardyre.com CNAME .
 dns.reolinks.ru CNAME .
 dns.repinger.com CNAME .
-dns.repinger.my.id CNAME .
 dns.repressoh.it CNAME .
 dns.resoft.org CNAME .
 dns.retakecs.com CNAME .
