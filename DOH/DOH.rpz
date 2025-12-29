@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2512280409 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2512290322 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2025-12-28 04:09:37 (UTC)
+; Last updated: 2025-12-29 03:22:43 (UTC)
 ;
 ; See https://jpgpi250.github.io/piholemanual/doc/Unbound%20response%20policy%20zones.pdf
 ; Report issues at https://github.com/jpgpi250/piholemanual/issues
@@ -801,6 +801,7 @@ d0.tada.ly CNAME .
 d1.12342345.xyz CNAME .
 d1.insec.link CNAME .
 d1.vps.mtsdns.ru CNAME .
+d2.shabi.icu CNAME .
 d2.vps.mtsdns.ru CNAME .
 d3.vps.mtsdns.ru CNAME .
 d3vy.ru CNAME .
