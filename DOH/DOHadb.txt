@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2025-12-27 04:46:45 (UTC)
+! Last updated: 2025-12-28 04:51:29 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -797,7 +797,6 @@
 ||d1.12342345.xyz^
 ||d1.insec.link^
 ||d1.vps.mtsdns.ru^
-||d2.shabi.icu^
 ||d2.vps.mtsdns.ru^
 ||d3.vps.mtsdns.ru^
 ||d3vy.ru^
