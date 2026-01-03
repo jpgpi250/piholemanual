@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2601020321 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2601030353 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2026-01-02 03:21:00 (UTC)
+; Last updated: 2026-01-03 03:53:08 (UTC)
 ;
 ; See https://jpgpi250.github.io/piholemanual/doc/Unbound%20response%20policy%20zones.pdf
 ; Report issues at https://github.com/jpgpi250/piholemanual/issues
@@ -1114,7 +1114,6 @@ dns.d4d.moe CNAME .
 dns.d8e.ru CNAME .
 dns.d94.xyz CNAME .
 dns.d96.info CNAME .
-dns.daarrk.tech CNAME .
 dns.daemon.za.net CNAME .
 dns.dallinbryce.com CNAME .
 dns.damlayayinevi.com.tr CNAME .
@@ -1182,7 +1181,6 @@ dns.eliv.co.kr CNAME .
 dns.eliv.kr CNAME .
 dns.ellichua.com CNAME .
 dns.emiliyan.com CNAME .
-dns.enderblocks.net CNAME .
 dns.engineer-lib.ru CNAME .
 dns.engineer.web.id CNAME .
 dns.enzomtp.party CNAME .
@@ -2428,7 +2426,6 @@ fdns1.dismail.de CNAME .
 fdns2.dismail.de CNAME .
 felipefalcao.me CNAME .
 fennec.blackyfox.net CNAME .
-fet01.dnscry.pt CNAME .
 fet02.dnscry.pt CNAME .
 fezgate.ovh CNAME .
 fi-hel-w-f-2.nashkan.net CNAME .
@@ -3495,7 +3492,6 @@ s2.littlebr.link CNAME .
 s3-api.arashi.solutions CNAME .
 s3.arashi.solutions CNAME .
 s3.d3mik.ru CNAME .
-s6.dipper315.tech CNAME .
 sa01.dns4me.net CNAME .
 sabine.bruno2000.link CNAME .
 sabzipolobamahi.nl CNAME .
