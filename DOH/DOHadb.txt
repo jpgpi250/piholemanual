@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2026-01-02 04:00:33 (UTC)
+! Last updated: 2026-01-03 04:33:24 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -1110,7 +1110,6 @@
 ||dns.d8e.ru^
 ||dns.d94.xyz^
 ||dns.d96.info^
-||dns.daarrk.tech^
 ||dns.daemon.za.net^
 ||dns.dallinbryce.com^
 ||dns.damlayayinevi.com.tr^
@@ -1178,7 +1177,6 @@
 ||dns.eliv.kr^
 ||dns.ellichua.com^
 ||dns.emiliyan.com^
-||dns.enderblocks.net^
 ||dns.engineer-lib.ru^
 ||dns.engineer.web.id^
 ||dns.enzomtp.party^
@@ -2424,7 +2422,6 @@
 ||fdns2.dismail.de^
 ||felipefalcao.me^
 ||fennec.blackyfox.net^
-||fet01.dnscry.pt^
 ||fet02.dnscry.pt^
 ||fezgate.ovh^
 ||fi-hel-w-f-2.nashkan.net^
@@ -3491,7 +3488,6 @@
 ||s3-api.arashi.solutions^
 ||s3.arashi.solutions^
 ||s3.d3mik.ru^
-||s6.dipper315.tech^
 ||sa01.dns4me.net^
 ||sabine.bruno2000.link^
 ||sabzipolobamahi.nl^
