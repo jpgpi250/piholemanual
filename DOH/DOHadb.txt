@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2026-01-03 04:33:24 (UTC)
+! Last updated: 2026-01-04 04:21:09 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -246,7 +246,6 @@
 ||adguard.gambini.org^
 ||adguard.gattow.com^
 ||adguard.gbrossi.com.br^
-||adguard.georgev22.com^
 ||adguard.ghkyzz.us^
 ||adguard.glbd.fr^
 ||adguard.gonzcid.com^
@@ -799,7 +798,6 @@
 ||d0.tada.ly^
 ||d1.12342345.xyz^
 ||d1.vps.mtsdns.ru^
-||d2.shabi.icu^
 ||d2.vps.mtsdns.ru^
 ||d3.vps.mtsdns.ru^
 ||d3vy.ru^
@@ -1148,7 +1146,6 @@
 ||dns.dnshome.de^
 ||dns.dnsoverhttps.net^
 ||dns.dnswarden.com^
-||dns.dodhymikrotik.my.id^
 ||dns.doh.best^
 ||dns.doserver.top^
 ||dns.dotnet.win^
@@ -1291,7 +1288,6 @@
 ||dns.huas.me^
 ||dns.hub.com.de^
 ||dns.huizegunsing.nl^
-||dns.huizhechi.com^
 ||dns.hujiayucc.cn^
 ||dns.huseynov.work^
 ||dns.huth.nu^
@@ -1312,7 +1308,6 @@
 ||dns.indust.me^
 ||dns.indybanipal.com^
 ||dns.inforlogia.com^
-||dns.interhub.cc^
 ||dns.internal.espresso-tasse.de^
 ||dns.internal.hosmatic.com^
 ||dns.invent.hr^
@@ -1479,7 +1474,6 @@
 ||dns.miyun1.com^
 ||dns.mnet-online.de^
 ||dns.mni.li^
-||dns.mo0on15.com^
 ||dns.molinero.dev^
 ||dns.momou.ch^
 ||dns.moog.sh^
@@ -1603,7 +1597,6 @@
 ||dns.propheci.xyz^
 ||dns.proprietarypenguin.com^
 ||dns.psociety.de^
-||dns.psyk.fr^
 ||dns.pub^
 ||dns.pumpkinvrar.com^
 ||dns.pumplex.com^
@@ -1646,7 +1639,6 @@
 ||dns.rogpurs.com^
 ||dns.romain.tech^
 ||dns.ronc.ru^
-||dns.root.me^
 ||dns.rotunneling.net^
 ||dns.rubyfish.cn^
 ||dns.safko.eu^
@@ -2001,6 +1993,7 @@
 ||dnsovertls1.sinodun.com^
 ||dnsovertls2.sinodun.com^
 ||dnsovertls3.sinodun.com^
+||dnspod.com^
 ||dnspub.restena.lu^
 ||dnsresolver02.ddns.net^
 ||dnsse-noads.alekberg.net^
@@ -2561,7 +2554,6 @@
 ||han01.dnscry.pt^
 ||handy-matthias.dns.internal.espresso-tasse.de^
 ||handy-nils.dns.internal.espresso-tasse.de^
-||happy365.me^
 ||hard.dnsforge.de^
 ||hdns.ksyun.com^
 ||hdnsadguardhome.me^
@@ -2817,7 +2809,6 @@
 ||kalwat.duckdns.org^
 ||karimdns.com^
 ||katherine-dns.newcore.cl^
-||kavkaz.monster^
 ||kawpad.southeastasia.cloudapp.azure.com^
 ||kcolspacrm.ir^
 ||kdgnkjho4od8w40.americasnet.com.br^
@@ -2902,7 +2893,6 @@
 ||leochen-dns.ddns.net^
 ||lesuo.top^
 ||lfbn-gre-1-319-7.w90-112.abo.wanadoo.fr^
-||lifeisa.live^
 ||lilibox.freeboxos.fr^
 ||lim02.dnscry.pt^
 ||lime.samonte.ovh^
@@ -2947,19 +2937,6 @@
 ||m-cm.circumitor.de^
 ||m-rm.circumitor.de^
 ||m.nop.mobi^
-||mabuktogel.builders^
-||mabuktogel.business^
-||mabuktogel.cards^
-||mabuktogel.creditcard^
-||mabuktogel.degree^
-||mabuktogel.directory^
-||mabuktogel.enterprises^
-||mabuktogel.immobilien^
-||mabuktogel.limited^
-||mabuktogel.ltd^
-||mabuktogel.marketing^
-||mabuktogel.properties^
-||mabuktogel.solutions^
 ||mad01.dnscry.pt^
 ||maherhost.uk^
 ||maikel.greppie.nl^
@@ -3018,7 +2995,6 @@
 ||mistasinresolver.ru^
 ||mk.skynetinternet.com.br^
 ||mnl01.dnscry.pt^
-||mo0on15.com^
 ||moe01.dnscry.pt^
 ||moidns.hopto.org^
 ||moise-et-maurice-gardent-la-maison.schneiderus.org^
@@ -3339,7 +3315,6 @@
 ||pro.shecan.ir^
 ||proariel.dns-dynamic.net^
 ||project-evoex.de^
-||prostoclub.ru^
 ||protected.canadianshield.cira.ca^
 ||protective.joindns4.eu^
 ||proxjdf.jamesferrand.fr^
@@ -3619,8 +3594,6 @@
 ||spacedns.org^
 ||speedtest.skynetinternet.com.br^
 ||spotifyobs.drahonn.pro^
-||spyro-the-bat.fleuryk.ovh^
-||spyrothebat.fleuryk.ovh^
 ||sq.trin.icu^
 ||squidmall.vip^
 ||sradg.eastus.cloudapp.azure.com^
@@ -3900,7 +3873,6 @@
 ||vps.559299366.xyz^
 ||vps.atomix.in^
 ||vps.avc.cx^
-||vps.fleuryk.ovh^
 ||vps.grussenmeyer.com^
 ||vps.jmarkin.ru^
 ||vps.mtsdns.ru^
@@ -4009,7 +3981,6 @@
 ||www.oowo.de^
 ||www.pdnssrvagh.online^
 ||www.pingbi.xyz^
-||www.prostoclub.ru^
 ||www.qingmo.vip^
 ||www.richardo.net^
 ||www.skynetinternet.com.br^
