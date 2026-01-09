@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2026-01-07 05:47:44 (UTC)
+! Last updated: 2026-01-08 05:11:52 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -823,7 +823,6 @@
 ||d0.tada.ly^
 ||d1.12342345.xyz^
 ||d1.vps.mtsdns.ru^
-||d2.shabi.icu^
 ||d2.vps.mtsdns.ru^
 ||d3.vps.mtsdns.ru^
 ||d3vy.ru^
@@ -1083,6 +1082,7 @@
 ||dns.cahlen.com^
 ||dns.caliph.dev^
 ||dns.carson-family.com^
+||dns.carter.me^
 ||dns.casadecampo.casa^
 ||dns.caspervk.net^
 ||dns.cctld.kg^
@@ -1145,6 +1145,7 @@
 ||dns.d8e.ru^
 ||dns.d94.xyz^
 ||dns.d96.info^
+||dns.daarrk.tech^
 ||dns.daemon.za.net^
 ||dns.dallinbryce.com^
 ||dns.damlayayinevi.com.tr^
