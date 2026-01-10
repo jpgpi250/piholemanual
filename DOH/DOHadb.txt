@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2026-01-08 05:11:52 (UTC)
+! Last updated: 2026-01-09 04:19:17 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -533,6 +533,7 @@
 ||alleesph.online^
 ||alon93rus.ru^
 ||alpha.cixy.xyz^
+||alpha.dnsbunker.org^
 ||ame.drahonn.pro^
 ||amgr.asuscomm.com^
 ||amigo.az.i81.ru^
@@ -692,6 +693,7 @@
 ||br.servers.legat.ml^
 ||br2.lezainski.com^
 ||bravedns.com^
+||bravo.dnsbunker.org^
 ||bru01.dnscry.pt^
 ||bt.luoo.cc^
 ||bts01.dnscry.pt^
