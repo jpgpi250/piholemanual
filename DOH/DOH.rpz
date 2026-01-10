@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2601090339 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2601100437 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2026-01-09 03:39:17 (UTC)
+; Last updated: 2026-01-10 04:37:32 (UTC)
 ;
 ; See https://jpgpi250.github.io/piholemanual/doc/Unbound%20response%20policy%20zones.pdf
 ; Report issues at https://github.com/jpgpi250/piholemanual/issues
@@ -829,6 +829,7 @@ d.zscale.gq CNAME .
 d0.tada.ly CNAME .
 d1.12342345.xyz CNAME .
 d1.vps.mtsdns.ru CNAME .
+d2.shabi.icu CNAME .
 d2.vps.mtsdns.ru CNAME .
 d3.vps.mtsdns.ru CNAME .
 d3vy.ru CNAME .
@@ -895,6 +896,7 @@ dirrectumrx.duckdns.org CNAME .
 disbish.com CNAME .
 disinformer.mooo.com CNAME .
 diskstation.alexpollard.net CNAME .
+diy.itsa.top CNAME .
 djtesok.ddns.net CNAME .
 dmit.wangjiaqi.store CNAME .
 dmjp.joeyl.de CNAME .
@@ -1271,6 +1273,7 @@ dns.fsociety.club CNAME .
 dns.fsociety.red CNAME .
 dns.fulgore.fr CNAME .
 dns.fullaccesstointernet.jp.eu.org CNAME .
+dns.furrydns.de CNAME .
 dns.futuredns.me CNAME .
 dns.fxdc.ru CNAME .
 dns.gamban.com CNAME .
@@ -1709,6 +1712,7 @@ dns.sarilouis.com CNAME .
 dns.sark.dev CNAME .
 dns.sb CNAME .
 dns.sbstructure.ir CNAME .
+dns.scapetical.com CNAME .
 dns.scarx.net CNAME .
 dns.scayn.com CNAME .
 dns.schimtar.com CNAME .
@@ -2847,6 +2851,7 @@ jkt01.dnscry.pt CNAME .
 jnb01.dnscry.pt CNAME .
 jnb02.dnscry.pt CNAME .
 jnprd.com CNAME .
+johneldenring.lol CNAME .
 jonathanaugusto.freeddns.org CNAME .
 jonzalvo.duckdns.org CNAME .
 joouddo.ru CNAME .
@@ -2959,6 +2964,7 @@ lanyard.drahonn.pro CNAME .
 laptop001.greppie.nl CNAME .
 laptopdns.dr3ff1c13nt.com CNAME .
 larkin.wang CNAME .
+las-vegas.privacy-dns.pw CNAME .
 las01.dnscry.pt CNAME .
 lastentarvike.fi CNAME .
 lax.core.access.zznet.fun CNAME .
@@ -3017,6 +3023,7 @@ lukscasino-929-tr.xyz CNAME .
 lux.sn0w.nl CNAME .
 lux01.dnscry.pt CNAME .
 lux1.nixnet.xyz CNAME .
+luxembourg.privacy-dns.pw CNAME .
 lv1.nixnet.xyz CNAME .
 lvpn.2rdp.ru CNAME .
 m-asm.circumitor.de CNAME .
@@ -3040,6 +3047,7 @@ makatla.tech CNAME .
 malanser.ru CNAME .
 man01.dnscry.pt CNAME .
 management.alexpollard.net CNAME .
+maqgie.xyz CNAME .
 mask-api.fe.apple-dns.net CNAME .
 mask-api.icloud.com CNAME .
 mask-canary.icloud.com CNAME .
@@ -3534,6 +3542,7 @@ rockstars.netphoenix.ru CNAME .
 rockwell.website CNAME .
 roelgianotten.ddnsfree.com CNAME .
 roma.vpn.geshido.ru CNAME .
+romania.privacy-dns.pw CNAME .
 rome.digitallink.be CNAME .
 ronaldvkrueger.ddns.net CNAME .
 root.hagezi.org CNAME .
@@ -3733,6 +3742,7 @@ svg33.eu CNAME .
 swe.try-dns.com CNAME .
 sweethome.in.eu.org CNAME .
 switch.ch CNAME .
+switzerland.privacy-dns.pw CNAME .
 syd.adfilter.net CNAME .
 syd.core.access.zznet.fun CNAME .
 syd01.dnscry.pt CNAME .
@@ -3846,6 +3856,7 @@ unicast.uncensoreddns.org CNAME .
 unicast2.servers.censurfridns.dk CNAME .
 unifi.be2aja.my.id CNAME .
 unifi.carioka.com CNAME .
+united-arab-emirates.privacy-dns.pw CNAME .
 unixfox.duckdns.org CNAME .
 unp.im CNAME .
 unraid.dedyn.io CNAME .
