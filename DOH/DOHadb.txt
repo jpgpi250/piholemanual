@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2026-01-09 04:19:17 (UTC)
+! Last updated: 2026-01-10 05:17:58 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -825,6 +825,7 @@
 ||d0.tada.ly^
 ||d1.12342345.xyz^
 ||d1.vps.mtsdns.ru^
+||d2.shabi.icu^
 ||d2.vps.mtsdns.ru^
 ||d3.vps.mtsdns.ru^
 ||d3vy.ru^
@@ -891,6 +892,7 @@
 ||disbish.com^
 ||disinformer.mooo.com^
 ||diskstation.alexpollard.net^
+||diy.itsa.top^
 ||djtesok.ddns.net^
 ||dmit.wangjiaqi.store^
 ||dmjp.joeyl.de^
@@ -1267,6 +1269,7 @@
 ||dns.fsociety.red^
 ||dns.fulgore.fr^
 ||dns.fullaccesstointernet.jp.eu.org^
+||dns.furrydns.de^
 ||dns.futuredns.me^
 ||dns.fxdc.ru^
 ||dns.gamban.com^
@@ -1705,6 +1708,7 @@
 ||dns.sark.dev^
 ||dns.sb^
 ||dns.sbstructure.ir^
+||dns.scapetical.com^
 ||dns.scarx.net^
 ||dns.scayn.com^
 ||dns.schimtar.com^
@@ -2843,6 +2847,7 @@
 ||jnb01.dnscry.pt^
 ||jnb02.dnscry.pt^
 ||jnprd.com^
+||johneldenring.lol^
 ||jonathanaugusto.freeddns.org^
 ||jonzalvo.duckdns.org^
 ||joouddo.ru^
@@ -2955,6 +2960,7 @@
 ||laptop001.greppie.nl^
 ||laptopdns.dr3ff1c13nt.com^
 ||larkin.wang^
+||las-vegas.privacy-dns.pw^
 ||las01.dnscry.pt^
 ||lastentarvike.fi^
 ||lax.core.access.zznet.fun^
@@ -3013,6 +3019,7 @@
 ||lux.sn0w.nl^
 ||lux01.dnscry.pt^
 ||lux1.nixnet.xyz^
+||luxembourg.privacy-dns.pw^
 ||lv1.nixnet.xyz^
 ||lvpn.2rdp.ru^
 ||m-asm.circumitor.de^
@@ -3036,6 +3043,7 @@
 ||malanser.ru^
 ||man01.dnscry.pt^
 ||management.alexpollard.net^
+||maqgie.xyz^
 ||mask-api.fe.apple-dns.net^
 ||mask-api.icloud.com^
 ||mask-canary.icloud.com^
@@ -3530,6 +3538,7 @@
 ||rockwell.website^
 ||roelgianotten.ddnsfree.com^
 ||roma.vpn.geshido.ru^
+||romania.privacy-dns.pw^
 ||rome.digitallink.be^
 ||ronaldvkrueger.ddns.net^
 ||root.hagezi.org^
@@ -3729,6 +3738,7 @@
 ||swe.try-dns.com^
 ||sweethome.in.eu.org^
 ||switch.ch^
+||switzerland.privacy-dns.pw^
 ||syd.adfilter.net^
 ||syd.core.access.zznet.fun^
 ||syd01.dnscry.pt^
@@ -3842,6 +3852,7 @@
 ||unicast2.servers.censurfridns.dk^
 ||unifi.be2aja.my.id^
 ||unifi.carioka.com^
+||united-arab-emirates.privacy-dns.pw^
 ||unixfox.duckdns.org^
 ||unp.im^
 ||unraid.dedyn.io^
