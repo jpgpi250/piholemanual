@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2026-01-10 05:17:58 (UTC)
+! Last updated: 2026-01-11 04:39:48 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -3817,6 +3817,7 @@
 ||ttag.dns.nomu.pw^
 ||tuandns.duckdns.org^
 ||tuantran.cloud^
+||tujenasnaszato.xyz^
 ||tungdnsne.duckdns.org^
 ||tuskythehusky.tech^
 ||tuu01.dnscry.pt^
