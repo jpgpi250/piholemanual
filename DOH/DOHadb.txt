@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2026-01-12 04:20:49 (UTC)
+! Last updated: 2026-01-13 04:01:11 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -52,6 +52,7 @@
 ||3.local-dns.noridev.moe^
 ||3dcosas.xyz^
 ||3dns.eu^
+||3jjxxl.tech^
 ||3x.az.i81.ru^
 ||45.32.17.58.vultrusercontent.com^
 ||51576162.ru^
@@ -1968,6 +1969,7 @@
 ||dns1.slowb.ro^
 ||dns1.tardishost.ru^
 ||dns1.techeasy.org^
+||dns1.techniverse.net^
 ||dns1.thylacine.co.nz^
 ||dns1.timothy-dev.com^
 ||dns1.understandingcyber.co.uk^
