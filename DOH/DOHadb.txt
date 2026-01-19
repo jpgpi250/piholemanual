@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2026-01-17 05:07:20 (UTC)
+! Last updated: 2026-01-18 05:06:58 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -350,7 +350,6 @@
 ||adguard.sixxi.de^
 ||adguard.soloanvill.ru^
 ||adguard.spaceindex.net^
-||adguard.sparshbajaj.me^
 ||adguard.sre.ovh^
 ||adguard.sscw.win^
 ||adguard.stealbit.com^
@@ -2982,6 +2981,7 @@
 ||leoadguard.duckdns.org^
 ||leochen-dns.ddns.net^
 ||lesuo.top^
+||lewsha.lol^
 ||lfbn-gre-1-319-7.w90-112.abo.wanadoo.fr^
 ||lilibox.freeboxos.fr^
 ||lim02.dnscry.pt^
