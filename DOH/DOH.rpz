@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2601240307 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2601250420 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2026-01-24 03:07:51 (UTC)
+; Last updated: 2026-01-25 04:20:33 (UTC)
 ;
 ; See https://jpgpi250.github.io/piholemanual/doc/Unbound%20response%20policy%20zones.pdf
 ; Report issues at https://github.com/jpgpi250/piholemanual/issues
@@ -104,7 +104,6 @@ ad.tzockt.beer CNAME .
 ad.visbran.fr CNAME .
 ad.wiqi.app CNAME .
 ad1.heronet.nl CNAME .
-ad1guard.duckdns.org CNAME .
 ada.ns.cloudflare.com CNAME .
 ada.openbld.net CNAME .
 adampowell.pro CNAME .
@@ -3802,7 +3801,6 @@ tlz.asia CNAME .
 tngch.mydns.jp CNAME .
 toaster.lol CNAME .
 tokyo.559299366.xyz CNAME .
-tokyo.92-m.com CNAME .
 tor.cloudflare-dns.com CNAME .
 tor.vasi.li CNAME .
 tpa01.dnscry.pt CNAME .
@@ -3968,7 +3966,6 @@ vovale.vpn.i81.ru CNAME .
 voyage-s01.cloudku.technology CNAME .
 voyage-s02.cloudku.technology CNAME .
 voyagerz.hopto.org CNAME .
-vpich.duckdns.org CNAME .
 vpn-tw.teng.sh CNAME .
 vpn.1xtrm.com CNAME .
 vpn.4-the.win CNAME .
