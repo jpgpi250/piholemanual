@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2601250420 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2601260427 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2026-01-25 04:20:33 (UTC)
+; Last updated: 2026-01-26 04:27:20 (UTC)
 ;
 ; See https://jpgpi250.github.io/piholemanual/doc/Unbound%20response%20policy%20zones.pdf
 ; Report issues at https://github.com/jpgpi250/piholemanual/issues
@@ -44,6 +44,7 @@ $TTL 30
 2.dnscrypt-cert.dns.seby.io CNAME .
 2.dnscrypt-cert.ffmuc.net CNAME .
 2.dnscrypt-cert.opendns.com CNAME .
+2.dnscrypt-cert.pumplex.com CNAME .
 2.dnscrypt-cert.quad9.net CNAME .
 2.dnscrypt-cert.shield-2.dnsbycomodo.com CNAME .
 20010114.xyz CNAME .
@@ -722,6 +723,7 @@ ca02.dns4me.net CNAME .
 caddy.rkn.icu CNAME .
 callbackping.net CNAME .
 callcontrol.nop.mobi CNAME .
+callies-online.site CNAME .
 canadianshield.cira.ca CNAME .
 carolinareaper.heeremans.net CNAME .
 catchen121299.top CNAME .
@@ -770,6 +772,7 @@ cloud.securifi.com.my CNAME .
 cloud.smirnovfamily.ru CNAME .
 cloud.tezoi.com CNAME .
 cloud2.holzmannclouddns.de CNAME .
+cloudbenders.fun CNAME .
 cloudbob.fr CNAME .
 cloudflare-dns.com CNAME .
 cloudflare-gateway.com CNAME .
@@ -2901,6 +2904,7 @@ kalwat.duckdns.org CNAME .
 kams.kii.qzz.io CNAME .
 karimdns.com CNAME .
 katherine-dns.newcore.cl CNAME .
+kavkaz.monster CNAME .
 kawpad.southeastasia.cloudapp.azure.com CNAME .
 kcolspacrm.ir CNAME .
 kdgnkjho4od8w40.americasnet.com.br CNAME .
@@ -3142,7 +3146,9 @@ n5.lsasss.com CNAME .
 n50.martkotur.ru CNAME .
 n8nmegapixar.online CNAME .
 naganohara-yoimiya.momokko.moe CNAME .
+najiakeji.top CNAME .
 name.nop.mobi CNAME .
+nanopi.cybergroove.net CNAME .
 nas-fusion.loisy.it CNAME .
 nas-scheiben34.myasustor.com CNAME .
 nas.dehb.ru CNAME .
@@ -3401,6 +3407,8 @@ pm7051-br.xyz CNAME .
 pm9352-bd.xyz CNAME .
 pmo01.dnscry.pt CNAME .
 pns2.sadraidc.com CNAME .
+polisitogel.beauty CNAME .
+polisitogel.hair CNAME .
 polisitogel.show CNAME .
 polisitogel.webcam CNAME .
 pooblet.co.za CNAME .
@@ -3444,6 +3452,7 @@ qaz.tw CNAME .
 qdns02.nymterm.com CNAME .
 qingmo.vip CNAME .
 qlf-doh.inria.fr CNAME .
+qqmcfw.tech CNAME .
 qro01.dnscry.pt CNAME .
 quadrogramma.vps.webdock.cloud CNAME .
 qual.cuprum.ru CNAME .
@@ -3966,6 +3975,7 @@ vovale.vpn.i81.ru CNAME .
 voyage-s01.cloudku.technology CNAME .
 voyage-s02.cloudku.technology CNAME .
 voyagerz.hopto.org CNAME .
+vpich.duckdns.org CNAME .
 vpn-tw.teng.sh CNAME .
 vpn.1xtrm.com CNAME .
 vpn.4-the.win CNAME .
@@ -4137,6 +4147,7 @@ x.ns1net.com CNAME .
 x.res.wang CNAME .
 x210-131-219-118.static.xvps.ne.jp CNAME .
 x861g.duckdns.org CNAME .
+xbcpb668.com CNAME .
 xenergy.cc CNAME .
 xfer.au CNAME .
 xholgm.top CNAME .
