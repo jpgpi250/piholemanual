@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2026-01-24 03:47:27 (UTC)
+! Last updated: 2026-01-25 05:00:30 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -100,7 +100,6 @@
 ||ad.visbran.fr^
 ||ad.wiqi.app^
 ||ad1.heronet.nl^
-||ad1guard.duckdns.org^
 ||ada.ns.cloudflare.com^
 ||ada.openbld.net^
 ||adampowell.pro^
@@ -3798,7 +3797,6 @@
 ||tngch.mydns.jp^
 ||toaster.lol^
 ||tokyo.559299366.xyz^
-||tokyo.92-m.com^
 ||tor.cloudflare-dns.com^
 ||tor.vasi.li^
 ||tpa01.dnscry.pt^
@@ -3964,7 +3962,6 @@
 ||voyage-s01.cloudku.technology^
 ||voyage-s02.cloudku.technology^
 ||voyagerz.hopto.org^
-||vpich.duckdns.org^
 ||vpn-tw.teng.sh^
 ||vpn.1xtrm.com^
 ||vpn.4-the.win^
