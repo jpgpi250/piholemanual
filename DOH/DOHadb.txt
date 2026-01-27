@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2026-01-25 05:00:30 (UTC)
+! Last updated: 2026-01-26 05:07:11 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -40,6 +40,7 @@
 ||2.dnscrypt-cert.dns.seby.io^
 ||2.dnscrypt-cert.ffmuc.net^
 ||2.dnscrypt-cert.opendns.com^
+||2.dnscrypt-cert.pumplex.com^
 ||2.dnscrypt-cert.quad9.net^
 ||2.dnscrypt-cert.shield-2.dnsbycomodo.com^
 ||20010114.xyz^
@@ -718,6 +719,7 @@
 ||caddy.rkn.icu^
 ||callbackping.net^
 ||callcontrol.nop.mobi^
+||callies-online.site^
 ||canadianshield.cira.ca^
 ||carolinareaper.heeremans.net^
 ||catchen121299.top^
@@ -766,6 +768,7 @@
 ||cloud.smirnovfamily.ru^
 ||cloud.tezoi.com^
 ||cloud2.holzmannclouddns.de^
+||cloudbenders.fun^
 ||cloudbob.fr^
 ||cloudflare-dns.com^
 ||cloudflare-gateway.com^
@@ -2897,6 +2900,7 @@
 ||kams.kii.qzz.io^
 ||karimdns.com^
 ||katherine-dns.newcore.cl^
+||kavkaz.monster^
 ||kawpad.southeastasia.cloudapp.azure.com^
 ||kcolspacrm.ir^
 ||kdgnkjho4od8w40.americasnet.com.br^
@@ -3138,7 +3142,9 @@
 ||n50.martkotur.ru^
 ||n8nmegapixar.online^
 ||naganohara-yoimiya.momokko.moe^
+||najiakeji.top^
 ||name.nop.mobi^
+||nanopi.cybergroove.net^
 ||nas-fusion.loisy.it^
 ||nas-scheiben34.myasustor.com^
 ||nas.dehb.ru^
@@ -3397,6 +3403,8 @@
 ||pm9352-bd.xyz^
 ||pmo01.dnscry.pt^
 ||pns2.sadraidc.com^
+||polisitogel.beauty^
+||polisitogel.hair^
 ||polisitogel.show^
 ||polisitogel.webcam^
 ||pooblet.co.za^
@@ -3440,6 +3448,7 @@
 ||qdns02.nymterm.com^
 ||qingmo.vip^
 ||qlf-doh.inria.fr^
+||qqmcfw.tech^
 ||qro01.dnscry.pt^
 ||quadrogramma.vps.webdock.cloud^
 ||qual.cuprum.ru^
@@ -3962,6 +3971,7 @@
 ||voyage-s01.cloudku.technology^
 ||voyage-s02.cloudku.technology^
 ||voyagerz.hopto.org^
+||vpich.duckdns.org^
 ||vpn-tw.teng.sh^
 ||vpn.1xtrm.com^
 ||vpn.4-the.win^
@@ -4133,6 +4143,7 @@
 ||x.res.wang^
 ||x210-131-219-118.static.xvps.ne.jp^
 ||x861g.duckdns.org^
+||xbcpb668.com^
 ||xenergy.cc^
 ||xfer.au^
 ||xholgm.top^
