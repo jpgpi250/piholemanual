@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2026-01-27 05:09:26 (UTC)
+! Last updated: 2026-01-28 05:14:59 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -155,6 +155,7 @@
 ||adg.jabertechnologies.ch^
 ||adg.jnorton.us^
 ||adg.khon.dev^
+||adg.lintasjrg.xyz^
 ||adg.meviusberry.hidns.co^
 ||adg.mnml.co.in^
 ||adg.proprietarypenguin.com^
@@ -269,6 +270,7 @@
 ||adguard.hoangcongchuc.com^
 ||adguard.home-lab-network.com^
 ||adguard.homenetmedia.stream^
+||adguard.hostingsignal.in^
 ||adguard.ihatemy.live^
 ||adguard.infrapod.nl^
 ||adguard.itclogic.cloud^
@@ -364,6 +366,7 @@
 ||adguard.tetnet.net^
 ||adguard.theil.dev^
 ||adguard.tigrex.net^
+||adguard.timoz.fr^
 ||adguard.titov.es^
 ||adguard.tmdproject.nl^
 ||adguard.treexhd.me^
@@ -554,6 +557,7 @@
 ||andrewnw.xyz^
 ||andrey93rus.ru^
 ||andryk111.duckdns.org^
+||andrykarcew.duckdns.org^
 ||andy123123.xyz^
 ||andybunn.onthewifi.com^
 ||angry.pp.ua^
@@ -586,6 +590,7 @@
 ||archie-vps.ddns.net^
 ||arcticstorm.ru^
 ||area51.mywire.org^
+||argus1.jcconnell.com^
 ||aridia.ru^
 ||arm.adblocker.eu.org^
 ||armm.duckdns.org^
@@ -694,6 +699,7 @@
 ||br2.lezainski.com^
 ||bravedns.com^
 ||bravo.dnsbunker.org^
+||bre01.dnscry.pt^
 ||bru01.dnscry.pt^
 ||bt.luoo.cc^
 ||bts01.dnscry.pt^
@@ -1486,6 +1492,7 @@
 ||dns.lvl-network.de^
 ||dns.lvqing.eu.org^
 ||dns.mafyuh.io^
+||dns.mahiro.online^
 ||dns.mailcastle.in^
 ||dns.maitrekuc.fr^
 ||dns.malanser.ru^
@@ -1525,6 +1532,7 @@
 ||dns.mikopono.nl^
 ||dns.mikrotikrumahan.my.id^
 ||dns.milkpie.one^
+||dns.millernetwork.uk^
 ||dns.mipauns.com^
 ||dns.miyun1.com^
 ||dns.mnet-online.de^
@@ -1635,6 +1643,7 @@
 ||dns.petqa.ru^
 ||dns.pgnhatrang.com^
 ||dns.phantom3c.net^
+||dns.phatnt.org^
 ||dns.phillipjberry.net^
 ||dns.philqoo.com^
 ||dns.pierzchlewicz.pl^
@@ -1645,6 +1654,7 @@
 ||dns.pmxu.link^
 ||dns.pnh.my.id^
 ||dns.pointless.chat^
+||dns.polarwinds.ru^
 ||dns.polatarasan.com.tr^
 ||dns.pondokngunut.ponpes.id^
 ||dns.porteii.com^
@@ -2706,6 +2716,7 @@
 ||home.weisbrod.me^
 ||home.wriedts.de^
 ||home27.duckdns.org^
+||home34.su^
 ||homec92.dns.army^
 ||homedns.gumeniuk.com^
 ||homeguard.sleziona.org^
@@ -2822,6 +2833,7 @@
 ||iterator.lazada.com^
 ||itlikehell.ru^
 ||itworks4u.nl^
+||iux3-s.cuiy4trg8fmosya2iip3ci.name^
 ||ivan.vps.mtsdns.ru^
 ||ivica-vulas.from.hr^
 ||ivnkn.xyz^
@@ -3091,6 +3103,7 @@
 ||mistasinresolver.ru^
 ||mk.skynetinternet.com.br^
 ||mnl01.dnscry.pt^
+||mnsvless.ikwb.com^
 ||moe01.dnscry.pt^
 ||moidns.hopto.org^
 ||moise-et-maurice-gardent-la-maison.schneiderus.org^
@@ -3193,6 +3206,7 @@
 ||nl.dns.shx.su^
 ||nl.ogne.top^
 ||nl.rslvr.eu^
+||noad.800216.xyz^
 ||noad.kipp.cool^
 ||noads.api.org.pl^
 ||noads.ddnsgeek.com^
@@ -3477,6 +3491,7 @@
 ||reaplay.ddns.net^
 ||redsea.meetz.pw^
 ||regiopolis.cloud^
+||register.zedzander.com^
 ||renardbleu.dev^
 ||reniac.su^
 ||res-acst1.absolight.net^
@@ -3746,6 +3761,7 @@
 ||surt.ml^
 ||surt.ovh^
 ||surve.dehb.ru^
+||surviil.duckdns.org^
 ||svg33.eu^
 ||swe.try-dns.com^
 ||sweethome.in.eu.org^
@@ -3937,6 +3953,7 @@
 ||vdska-pl.ydns.eu^
 ||vdsn-nl-2.azatmutq.com^
 ||veraris.online^
+||vernikpro.ru^
 ||vid.drahonn.pro^
 ||video.drahonn.pro^
 ||video.nop.mobi^
@@ -3971,6 +3988,7 @@
 ||voyage-s01.cloudku.technology^
 ||voyage-s02.cloudku.technology^
 ||voyagerz.hopto.org^
+||vpich.duckdns.org^
 ||vpn-tw.teng.sh^
 ||vpn.1xtrm.com^
 ||vpn.4-the.win^
@@ -3993,6 +4011,7 @@
 ||vpn.technicule.info^
 ||vpn.vosjes.cloud^
 ||vpn0109.voodonline.fr^
+||vpn2.nathan4s.lol^
 ||vpnhellings.nl^
 ||vpnmy.ru^
 ||vps-1f675aa1.vps.ovh.us^
@@ -4010,12 +4029,15 @@
 ||vps.rumpus.cc^
 ||vps.techrich.net^
 ||vps01.bbhc.xyz^
+||vps1.rootax.org^
+||vps2.rootax.org^
 ||vpservice.cf^
 ||vpsus3.pzhg.me^
 ||vserv.wkind.de^
 ||vski.172896.xyz^
 ||vsrv15195.customer.xenway.de^
 ||vtcuong.site^
+||vte01.dnscry.pt^
 ||vuivn.site^
 ||vvmm.me^
 ||walhalla.freemyip.com^
