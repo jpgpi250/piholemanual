@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2601280435 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2601290419 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2026-01-28 04:35:22 (UTC)
+; Last updated: 2026-01-29 04:19:02 (UTC)
 ;
 ; See https://jpgpi250.github.io/piholemanual/doc/Unbound%20response%20policy%20zones.pdf
 ; Report issues at https://github.com/jpgpi250/piholemanual/issues
@@ -3810,6 +3810,7 @@ thxvv.ru CNAME .
 tia01.dnscry.pt CNAME .
 tienpham.id.vn CNAME .
 tiger.dns.qwer.pw CNAME .
+tigrons.ru CNAME .
 timedns.net CNAME .
 timmes.nl CNAME .
 tj.jamesxue.xyz CNAME .
@@ -3992,7 +3993,6 @@ vovale.vpn.i81.ru CNAME .
 voyage-s01.cloudku.technology CNAME .
 voyage-s02.cloudku.technology CNAME .
 voyagerz.hopto.org CNAME .
-vpich.duckdns.org CNAME .
 vpn-tw.teng.sh CNAME .
 vpn.1xtrm.com CNAME .
 vpn.4-the.win CNAME .
