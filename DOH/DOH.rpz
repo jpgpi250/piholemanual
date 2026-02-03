@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2602020332 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2602030345 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2026-02-02 03:32:43 (UTC)
+; Last updated: 2026-02-03 03:45:48 (UTC)
 ;
 ; See https://jpgpi250.github.io/piholemanual/doc/Unbound%20response%20policy%20zones.pdf
 ; Report issues at https://github.com/jpgpi250/piholemanual/issues
@@ -220,7 +220,6 @@ adguard.chaudharyarnav.com CNAME .
 adguard.chestnov.ru CNAME .
 adguard.cinicollerico.top CNAME .
 adguard.clawsucht.eu CNAME .
-adguard.clmnnt.codes CNAME .
 adguard.cloud-chen.idv.tw CNAME .
 adguard.cnbeining.com CNAME .
 adguard.crestfallen.de CNAME .
@@ -1055,7 +1054,6 @@ dns.b72.com CNAME .
 dns.bad-taste.app CNAME .
 dns.bai0012.com CNAME .
 dns.baishiyuan.cn CNAME .
-dns.bbppt.org CNAME .
 dns.be2aja.my.id CNAME .
 dns.beardic.cn CNAME .
 dns.bebasid.com CNAME .
@@ -1088,7 +1086,6 @@ dns.brionesserver.net CNAME .
 dns.brono.cloud CNAME .
 dns.burgas.pro CNAME .
 dns.busold.ws CNAME .
-dns.butterfly87.sbs CNAME .
 dns.bw.i81.ru CNAME .
 dns.c0ntroller.de CNAME .
 dns.cahlen.com CNAME .
@@ -3241,7 +3238,6 @@ ns02.nerdytechgeeks.co.za CNAME .
 ns03.nerdytechgeeks.co.za CNAME .
 ns1.1899.com.mx CNAME .
 ns1.4netguides.org CNAME .
-ns1.bit-trails.nl CNAME .
 ns1.dnsprivacy.at CNAME .
 ns1.dotls.org CNAME .
 ns1.fdn.fr CNAME .
