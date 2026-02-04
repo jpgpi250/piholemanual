@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2602030345 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2602040345 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2026-02-03 03:45:48 (UTC)
+; Last updated: 2026-02-04 03:45:23 (UTC)
 ;
 ; See https://jpgpi250.github.io/piholemanual/doc/Unbound%20response%20policy%20zones.pdf
 ; Report issues at https://github.com/jpgpi250/piholemanual/issues
@@ -1223,6 +1223,7 @@ dns.ellichua.com CNAME .
 dns.emiliyan.com CNAME .
 dns.engineer-lib.ru CNAME .
 dns.engineer.web.id CNAME .
+dns.envs.net CNAME .
 dns.enzomtp.party CNAME .
 dns.epcot.fr CNAME .
 dns.epic.st CNAME .
@@ -1292,7 +1293,6 @@ dns.glorydns.com CNAME .
 dns.glsoft.ai CNAME .
 dns.gnb09.id CNAME .
 dns.goertz.digital CNAME .
-dns.gokgoz.net CNAME .
 dns.goldplate.org CNAME .
 dns.google CNAME .
 dns.google.com CNAME .
@@ -1359,7 +1359,6 @@ dns.ikun6.dpdns.org CNAME .
 dns.imaicool.com CNAME .
 dns.imchristian.de CNAME .
 dns.immanuelschaffer.de CNAME .
-dns.inclusioproject.com CNAME .
 dns.indust.me CNAME .
 dns.indybanipal.com CNAME .
 dns.inforlogia.com CNAME .
@@ -2040,7 +2039,6 @@ dns6.web.id CNAME .
 dns64.cloudflare-dns.com CNAME .
 dns64.dns.google CNAME .
 dns8.org CNAME .
-dns88.site CNAME .
 dns9.quad9.net CNAME .
 dns9999.duckdns.org CNAME .
 dnsbk.wns.watch CNAME .
@@ -2406,7 +2404,6 @@ draco.plan9-ns2.com CNAME .
 drahonn.pro CNAME .
 drandrade21.freeddns.org CNAME .
 drkcloud.ddns.net CNAME .
-droyd.top CNAME .
 drs.rustsword.com CNAME .
 ds.appl.pk CNAME .
 ds1.fredic.us CNAME .
@@ -2916,7 +2913,6 @@ kekv.fun CNAME .
 kellerbier-home.com CNAME .
 kennethhuang.com CNAME .
 khome.site CNAME .
-khsan.com CNAME .
 kids.5ososea.com CNAME .
 kids.dns0.eu CNAME .
 kids.mijoregner.de CNAME .
@@ -2979,7 +2975,6 @@ lax.core.access.zznet.fun CNAME .
 lax01.dnscry.pt CNAME .
 lax02.dnscry.pt CNAME .
 layer1.jnraptor.net CNAME .
-lboxtv.top CNAME .
 ldaman.duckdns.org CNAME .
 le-mesle.fr CNAME .
 leecurrylawfirm.com CNAME .
@@ -3049,7 +3044,6 @@ mailer.amlegion.org CNAME .
 mailkyb.co CNAME .
 maincloud.ir CNAME .
 mainframe.dewed.de CNAME .
-makatla.tech CNAME .
 malanser.ru CNAME .
 man01.dnscry.pt CNAME .
 management.alexpollard.net CNAME .
@@ -3307,7 +3301,6 @@ ollama.rke2.ltd CNAME .
 omr01.dnscry.pt CNAME .
 one.one.one.one CNAME .
 online.zotio.ru CNAME .
-oostelbos.dynu.com CNAME .
 oowo.de CNAME .
 open-resolver1.unima.ac.id CNAME .
 open.dns0.eu CNAME .
@@ -3577,7 +3570,6 @@ s.idsam.com CNAME .
 s1.s2.shahramv1.site CNAME .
 s1.srch.top CNAME .
 s2.d3mik.ru CNAME .
-s2.littlebr.link CNAME .
 s3-api.arashi.solutions CNAME .
 s3.arashi.solutions CNAME .
 s3.d3mik.ru CNAME .
@@ -3771,7 +3763,6 @@ telex.app CNAME .
 teslacoils.org.uk CNAME .
 test.adg.siudzinski.net CNAME .
 test.businessconnect.com.tr CNAME .
-test.marss.pro CNAME .
 test.privatenode.ru CNAME .
 test2.adg.siudzinski.net CNAME .
 test3.adg.siudzinski.net CNAME .
@@ -4107,12 +4098,10 @@ www.it-works4u.com CNAME .
 www.it-works4u.nl CNAME .
 www.itworks4u.nl CNAME .
 www.jabber-germany.de CNAME .
-www.khsan.com CNAME .
 www.kjmserwis.pl CNAME .
 www.kokesh.se CNAME .
 www.komo4ek.ru CNAME .
 www.kondrcloud.ru CNAME .
-www.lboxtv.top CNAME .
 www.masters-of-cloud.de CNAME .
 www.maxfong.cc CNAME .
 www.mfimail.eu CNAME .
@@ -4151,6 +4140,7 @@ x.res.wang CNAME .
 x210-131-219-118.static.xvps.ne.jp CNAME .
 x861g.duckdns.org CNAME .
 xbcpb668.com CNAME .
+xbox-dns.ru CNAME .
 xenergy.cc CNAME .
 xfer.au CNAME .
 xholgm.top CNAME .
