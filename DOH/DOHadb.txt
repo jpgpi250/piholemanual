@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2026-02-02 04:12:05 (UTC)
+! Last updated: 2026-02-03 04:24:39 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -216,7 +216,6 @@
 ||adguard.chestnov.ru^
 ||adguard.cinicollerico.top^
 ||adguard.clawsucht.eu^
-||adguard.clmnnt.codes^
 ||adguard.cloud-chen.idv.tw^
 ||adguard.cnbeining.com^
 ||adguard.crestfallen.de^
@@ -1051,7 +1050,6 @@
 ||dns.bad-taste.app^
 ||dns.bai0012.com^
 ||dns.baishiyuan.cn^
-||dns.bbppt.org^
 ||dns.be2aja.my.id^
 ||dns.beardic.cn^
 ||dns.bebasid.com^
@@ -1084,7 +1082,6 @@
 ||dns.brono.cloud^
 ||dns.burgas.pro^
 ||dns.busold.ws^
-||dns.butterfly87.sbs^
 ||dns.bw.i81.ru^
 ||dns.c0ntroller.de^
 ||dns.cahlen.com^
@@ -3237,7 +3234,6 @@
 ||ns03.nerdytechgeeks.co.za^
 ||ns1.1899.com.mx^
 ||ns1.4netguides.org^
-||ns1.bit-trails.nl^
 ||ns1.dnsprivacy.at^
 ||ns1.dotls.org^
 ||ns1.fdn.fr^
