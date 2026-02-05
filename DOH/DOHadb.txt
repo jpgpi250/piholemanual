@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2026-02-03 04:24:39 (UTC)
+! Last updated: 2026-02-04 04:23:19 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -1219,6 +1219,7 @@
 ||dns.emiliyan.com^
 ||dns.engineer-lib.ru^
 ||dns.engineer.web.id^
+||dns.envs.net^
 ||dns.enzomtp.party^
 ||dns.epcot.fr^
 ||dns.epic.st^
@@ -1288,7 +1289,6 @@
 ||dns.glsoft.ai^
 ||dns.gnb09.id^
 ||dns.goertz.digital^
-||dns.gokgoz.net^
 ||dns.goldplate.org^
 ||dns.google^
 ||dns.google.com^
@@ -1355,7 +1355,6 @@
 ||dns.imaicool.com^
 ||dns.imchristian.de^
 ||dns.immanuelschaffer.de^
-||dns.inclusioproject.com^
 ||dns.indust.me^
 ||dns.indybanipal.com^
 ||dns.inforlogia.com^
@@ -2036,7 +2035,6 @@
 ||dns64.cloudflare-dns.com^
 ||dns64.dns.google^
 ||dns8.org^
-||dns88.site^
 ||dns9.quad9.net^
 ||dns9999.duckdns.org^
 ||dnsbk.wns.watch^
@@ -2402,7 +2400,6 @@
 ||drahonn.pro^
 ||drandrade21.freeddns.org^
 ||drkcloud.ddns.net^
-||droyd.top^
 ||drs.rustsword.com^
 ||ds.appl.pk^
 ||ds1.fredic.us^
@@ -2912,7 +2909,6 @@
 ||kellerbier-home.com^
 ||kennethhuang.com^
 ||khome.site^
-||khsan.com^
 ||kids.5ososea.com^
 ||kids.dns0.eu^
 ||kids.mijoregner.de^
@@ -2975,7 +2971,6 @@
 ||lax01.dnscry.pt^
 ||lax02.dnscry.pt^
 ||layer1.jnraptor.net^
-||lboxtv.top^
 ||ldaman.duckdns.org^
 ||le-mesle.fr^
 ||leecurrylawfirm.com^
@@ -3045,7 +3040,6 @@
 ||mailkyb.co^
 ||maincloud.ir^
 ||mainframe.dewed.de^
-||makatla.tech^
 ||malanser.ru^
 ||man01.dnscry.pt^
 ||management.alexpollard.net^
@@ -3303,7 +3297,6 @@
 ||omr01.dnscry.pt^
 ||one.one.one.one^
 ||online.zotio.ru^
-||oostelbos.dynu.com^
 ||oowo.de^
 ||open-resolver1.unima.ac.id^
 ||open.dns0.eu^
@@ -3573,7 +3566,6 @@
 ||s1.s2.shahramv1.site^
 ||s1.srch.top^
 ||s2.d3mik.ru^
-||s2.littlebr.link^
 ||s3-api.arashi.solutions^
 ||s3.arashi.solutions^
 ||s3.d3mik.ru^
@@ -3767,7 +3759,6 @@
 ||teslacoils.org.uk^
 ||test.adg.siudzinski.net^
 ||test.businessconnect.com.tr^
-||test.marss.pro^
 ||test.privatenode.ru^
 ||test2.adg.siudzinski.net^
 ||test3.adg.siudzinski.net^
@@ -4103,12 +4094,10 @@
 ||www.it-works4u.nl^
 ||www.itworks4u.nl^
 ||www.jabber-germany.de^
-||www.khsan.com^
 ||www.kjmserwis.pl^
 ||www.kokesh.se^
 ||www.komo4ek.ru^
 ||www.kondrcloud.ru^
-||www.lboxtv.top^
 ||www.masters-of-cloud.de^
 ||www.maxfong.cc^
 ||www.mfimail.eu^
@@ -4147,6 +4136,7 @@
 ||x210-131-219-118.static.xvps.ne.jp^
 ||x861g.duckdns.org^
 ||xbcpb668.com^
+||xbox-dns.ru^
 ||xenergy.cc^
 ||xfer.au^
 ||xholgm.top^
