@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2602040345 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2602050410 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2026-02-04 03:45:23 (UTC)
+; Last updated: 2026-02-05 04:10:07 (UTC)
 ;
 ; See https://jpgpi250.github.io/piholemanual/doc/Unbound%20response%20policy%20zones.pdf
 ; Report issues at https://github.com/jpgpi250/piholemanual/issues
@@ -662,7 +662,6 @@ bg.rslvr.eu CNAME .
 bh.wael.name CNAME .
 bigseal1.gu-natee.uk CNAME .
 bilidon.dnsuser.info CNAME .
-bit.psyk.fr CNAME .
 biying.flymlc.com CNAME .
 bkk01.dnscry.pt CNAME .
 bl.eq.md CNAME .
@@ -1563,7 +1562,6 @@ dns.native.cat CNAME .
 dns.ndo.dev CNAME .
 dns.neeb.it CNAME .
 dns.neilzone.co.uk CNAME .
-dns.nekofish.cc CNAME .
 dns.nerdytechgeeks.co.za CNAME .
 dns.netraptor.com.au CNAME .
 dns.netrve.net CNAME .
@@ -1748,7 +1746,6 @@ dns.silen.org CNAME .
 dns.silentlybren.com CNAME .
 dns.simplylinux.ch CNAME .
 dns.sindominio.net CNAME .
-dns.sineone.icu CNAME .
 dns.siry.de CNAME .
 dns.sitdns.com CNAME .
 dns.skous.dedyn.io CNAME .
@@ -3362,7 +3359,6 @@ pds.cfornas.casa CNAME .
 pdx01.dnscry.pt CNAME .
 pebdbvi58gbc.absq.ch CNAME .
 ped01.dnscry.pt CNAME .
-pepetio.xyz CNAME .
 per.adfilter.net CNAME .
 per01.dnscry.pt CNAME .
 performance.gosami.xyz CNAME .
@@ -3701,7 +3697,6 @@ sndkcuf.lekun.me CNAME .
 snoke.meganerd.nl CNAME .
 socolov.home.ro CNAME .
 sof01.dnscry.pt CNAME .
-solaxy.live CNAME .
 sols.co.in CNAME .
 solution.w10.life CNAME .
 songochain.freeddns.org CNAME .
