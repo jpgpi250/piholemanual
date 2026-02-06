@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2026-02-04 04:23:19 (UTC)
+! Last updated: 2026-02-05 04:50:08 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -658,7 +658,6 @@
 ||bh.wael.name^
 ||bigseal1.gu-natee.uk^
 ||bilidon.dnsuser.info^
-||bit.psyk.fr^
 ||biying.flymlc.com^
 ||bkk01.dnscry.pt^
 ||bl.eq.md^
@@ -1559,7 +1558,6 @@
 ||dns.ndo.dev^
 ||dns.neeb.it^
 ||dns.neilzone.co.uk^
-||dns.nekofish.cc^
 ||dns.nerdytechgeeks.co.za^
 ||dns.netraptor.com.au^
 ||dns.netrve.net^
@@ -1744,7 +1742,6 @@
 ||dns.silentlybren.com^
 ||dns.simplylinux.ch^
 ||dns.sindominio.net^
-||dns.sineone.icu^
 ||dns.siry.de^
 ||dns.sitdns.com^
 ||dns.skous.dedyn.io^
@@ -3358,7 +3355,6 @@
 ||pdx01.dnscry.pt^
 ||pebdbvi58gbc.absq.ch^
 ||ped01.dnscry.pt^
-||pepetio.xyz^
 ||per.adfilter.net^
 ||per01.dnscry.pt^
 ||performance.gosami.xyz^
@@ -3697,7 +3693,6 @@
 ||snoke.meganerd.nl^
 ||socolov.home.ro^
 ||sof01.dnscry.pt^
-||solaxy.live^
 ||sols.co.in^
 ||solution.w10.life^
 ||songochain.freeddns.org^
