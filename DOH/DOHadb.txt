@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2026-02-06 05:21:06 (UTC)
+! Last updated: 2026-02-07 04:59:14 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -1649,6 +1649,7 @@
 ||dns.pondokngunut.ponpes.id^
 ||dns.porteii.com^
 ||dns.powerbs.net^
+||dns.practicallyunhackable.com^
 ||dns.privado.ovh^
 ||dns.privateservices.pro^
 ||dns.privilab.net^
