@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2026-02-07 04:59:14 (UTC)
+! Last updated: 2026-02-08 05:45:51 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -89,7 +89,6 @@
 ||ad.anym0re.ru^
 ||ad.exxo.work^
 ||ad.fai001.top^
-||ad.faraan.xyz^
 ||ad.huyct.net^
 ||ad.imblien.com^
 ||ad.innet.id^
@@ -98,6 +97,7 @@
 ||ad.r60.pl^
 ||ad.timefine.org^
 ||ad.tzockt.beer^
+||ad.viet.date^
 ||ad.visbran.fr^
 ||ad.wiqi.app^
 ||ad1.heronet.nl^
@@ -163,6 +163,7 @@
 ||adg.yybyy.wiki^
 ||adg5yvi.ngatngay.net^
 ||adgaurd.lingmont.net^
+||adgd.fragmentance.ru^
 ||adgh.imtsui.com^
 ||adgh.xrossj.top^
 ||adghome.charleschan.net^
@@ -412,6 +413,7 @@
 ||adguard2.unima.ac.id^
 ||adguard3.ota.moe^
 ||adguard4.ota.moe^
+||adguardcalpena.duckdns.org^
 ||adguardcloud.iasm.com.ar^
 ||adguardh.ga^
 ||adguardhome.0x4min.xyz^
@@ -739,7 +741,6 @@
 ||changesmart2024.top^
 ||chaos-system.de^
 ||che.myasustor.com^
-||chenrouter.chironys.com^
 ||chewbacca.meganerd.nl^
 ||child-noads.joindns4.eu^
 ||child.joindns4.eu^
@@ -763,6 +764,7 @@
 ||cloud.beerloga.su^
 ||cloud.boboba.ru^
 ||cloud.efreakbnc.net^
+||cloud.gqwyq.top^
 ||cloud.graphicpoint.pl^
 ||cloud.samutz.com^
 ||cloud.securifi.com.my^
@@ -838,7 +840,6 @@
 ||dac01.dnscry.pt^
 ||daemonhunt.no-ip.org^
 ||dandelionsprout.asuscomm.com^
-||darkhole.uint64.dev^
 ||darkness.is.my.waifu.cz^
 ||dart.kpsn.org^
 ||darya.persiannit.net^
@@ -930,6 +931,7 @@
 ||dns-mum.daryllswer.net^
 ||dns-nosec.quad9.net^
 ||dns-nyc.aaflalo.me^
+||dns-one.lins.co.tt^
 ||dns-ovh.panszelescik.pl^
 ||dns-privacy.puregeni.us^
 ||dns-public.ibakerserver.pt^
@@ -1029,6 +1031,7 @@
 ||dns.arapurayil.com^
 ||dns.ares-taiwan.com^
 ||dns.arkbotech.com^
+||dns.arnabhome.fun^
 ||dns.articrevised.cc^
 ||dns.artikel10.org^
 ||dns.ashleyjackson.net^
@@ -1165,6 +1168,7 @@
 ||dns.deekshith.in^
 ||dns.dekedin.me^
 ||dns.deldown.de^
+||dns.deltain.ru^
 ||dns.demon-inc.tw^
 ||dns.dev-umbrellagov.com^
 ||dns.developer.li^
@@ -1233,6 +1237,7 @@
 ||dns.expert^
 ||dns.extrawdw.net^
 ||dns.f4a.fun^
+||dns.fabidouille.com^
 ||dns.fadhilyori.my.id^
 ||dns.fahr.in^
 ||dns.faked.org^
@@ -1242,6 +1247,7 @@
 ||dns.fancyorg.at^
 ||dns.farakaft.ir^
 ||dns.farshidhakimy.de^
+||dns.farshmc.ru^
 ||dns.faze.dev^
 ||dns.fc.idv.tw^
 ||dns.fdue.de^
@@ -1274,6 +1280,7 @@
 ||dns.fxdc.ru^
 ||dns.gamban.com^
 ||dns.gayanalysing.co.uk^
+||dns.gearworks.app^
 ||dns.geekbyte.de^
 ||dns.geohide.ru^
 ||dns.getnoclip.link^
@@ -1325,6 +1332,7 @@
 ||dns.home.daniil.it^
 ||dns.homenet.saschagaspar.net^
 ||dns.hoody.com^
+||dns.hopkinton.online^
 ||dns.hopsken.com^
 ||dns.horcrux.vip^
 ||dns.horus-team.com^
@@ -1436,7 +1444,6 @@
 ||dns.koretech.com.br^
 ||dns.korzhyk.pp.ua^
 ||dns.kosan.moe^
-||dns.koshin.me^
 ||dns.kostydenis.me^
 ||dns.kpsn.dev^
 ||dns.kriswerry.nl^
@@ -1586,6 +1593,7 @@
 ||dns.novali.date^
 ||dns.novg.net^
 ||dns.npe.bz^
+||dns.ntccloud.vn^
 ||dns.ntr.lol^
 ||dns.nubecita.biz^
 ||dns.nullgate.net^
@@ -1803,6 +1811,7 @@
 ||dns.telekom.de^
 ||dns.tesem.dog^
 ||dns.thebuckners.org^
+||dns.thedayg0ne.ru^
 ||dns.thegoodsource.net^
 ||dns.therifleman.name^
 ||dns.thezudrive.xyz^
@@ -1894,6 +1903,7 @@
 ||dns.xcapenet.ru^
 ||dns.xiaoxinhui.cn^
 ||dns.xinwujiang.cn^
+||dns.xiumu.org^
 ||dns.xivilay.dev^
 ||dns.xlion.tw^
 ||dns.xuann.my^
@@ -1923,7 +1933,6 @@
 ||dns.zemows.industries^
 ||dns.zfsystem.tech^
 ||dns.zky666.fun^
-||dns.zoogle.cn^
 ||dns.zui.lol^
 ||dns.zzuhacker.cn^
 ||dns0.eu^
@@ -2237,6 +2246,7 @@
 ||doh.micronets.in^
 ||doh.mmmalia.com^
 ||doh.mochou.site^
+||doh.moorecloud.id^
 ||doh.mullvad.net^
 ||doh.ndmc.work.gd^
 ||doh.netweaver.uk^
@@ -2532,6 +2542,7 @@
 ||free.shecan.ir^
 ||freedns.controld.com^
 ||freedom.mydns.network^
+||freemnt.hpitto.com^
 ||friend.bedro.cloud^
 ||fritz-er.circumitor.de^
 ||fritz-hbh.circumitor.de^
@@ -3003,6 +3014,7 @@
 ||look.xshentx.org^
 ||lookup.zucx.net^
 ||lorc17-dns.komeho.info^
+||lordsalty.com^
 ||los01.dnscry.pt^
 ||los02.dnscry.pt^
 ||lothuscorp.com.br^
@@ -3195,6 +3207,7 @@
 ||noads.jpsrvr.com^
 ||node3.b4el.ru^
 ||node9.servernode.store^
+||noip4.de^
 ||nop.mobi^
 ||note.dehb.ru^
 ||notebait.ddnsfree.com^
@@ -3290,7 +3303,6 @@
 ||olga.hr.i81.ru^
 ||olga.vd.i81.ru^
 ||olga.vpn.i81.ru^
-||ollama.rke2.ltd^
 ||omr01.dnscry.pt^
 ||one.one.one.one^
 ||online.zotio.ru^
@@ -3696,6 +3708,7 @@
 ||sols.co.in^
 ||solution.w10.life^
 ||songochain.freeddns.org^
+||soporte-premium.duckdns.org^
 ||sorephie-dns2.ddns.net^
 ||spacedns.org^
 ||speedtest.skynetinternet.com.br^
@@ -3793,6 +3806,7 @@
 ||tokyo.559299366.xyz^
 ||tor.cloudflare-dns.com^
 ||tor.vasi.li^
+||totoland.eu^
 ||tpa01.dnscry.pt^
 ||tpe01.dnscry.pt^
 ||tr-ist-w-p-2.nashkan.net^
@@ -4164,6 +4178,7 @@
 ||yeralin.net^
 ||yh.themcgoughs.org^
 ||yhz01.dnscry.pt^
+||yin.flyzhouyc.win^
 ||ymq01.dnscry.pt^
 ||your-dns.run^
 ||yovbak.com^
@@ -4196,6 +4211,7 @@
 ||zhengkaiyun.top^
 ||zhk.13142233.xyz^
 ||zougloub.eu^
+||zouter.zhang3118.qzz.io^
 ||zrh1-ns01.monzoon.net^
 ||ztv.su^
 ||zuhause.webteufel.net^
