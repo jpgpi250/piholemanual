@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2026-02-15 03:42:42 (UTC)
+! Last updated: 2026-02-16 04:55:53 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -171,7 +171,6 @@
 ||adghs.de^
 ||adgremoteau.com^
 ||adgrm.duckdns.org^
-||adguard-be-azure.westeurope.cloudapp.azure.com^
 ||adguard-dns.com^
 ||adguard-dns.eu.org^
 ||adguard-dns.rouga.ch^
@@ -995,7 +994,6 @@
 ||dns.adguard.com^
 ||dns.adguarddns.com^
 ||dns.adrianlam.com^
-||dns.agfiudsv.icu^
 ||dns.ahmgam.com^
 ||dns.aicreate360.com^
 ||dns.airmaxcloud.uk^
