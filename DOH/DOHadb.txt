@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2026-02-16 04:55:53 (UTC)
+! Last updated: 2026-02-17 04:25:07 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -263,7 +263,6 @@
 ||adguard.haneulo.com^
 ||adguard.hartley.cloud^
 ||adguard.hoangcongchuc.com^
-||adguard.home-lab-network.com^
 ||adguard.homenetmedia.stream^
 ||adguard.hostingsignal.in^
 ||adguard.ihatemy.live^
