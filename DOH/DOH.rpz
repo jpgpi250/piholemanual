@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2602170346 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2602180357 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2026-02-17 03:46:17 (UTC)
+; Last updated: 2026-02-18 03:57:06 (UTC)
 ;
 ; See https://jpgpi250.github.io/piholemanual/doc/Unbound%20response%20policy%20zones.pdf
 ; Report issues at https://github.com/jpgpi250/piholemanual/issues
@@ -1867,7 +1867,6 @@ dns.vladpro.ru CNAME .
 dns.vlo.cc CNAME .
 dns.vmath.my.id CNAME .
 dns.vmisch.tech CNAME .
-dns.vod11.xyz CNAME .
 dns.volsap.ovh CNAME .
 dns.voronin.uk CNAME .
 dns.vortexstore.cloud CNAME .
@@ -2294,7 +2293,6 @@ doh.seby.io CNAME .
 doh.securedns.eu CNAME .
 doh.sidnlabs.nl CNAME .
 doh.srv00.com CNAME .
-doh.sublime9.xyz CNAME .
 doh.suche.org CNAME .
 doh.sunoaki.net CNAME .
 doh.sww.net.id CNAME .
@@ -3988,7 +3986,6 @@ vpn.nnip.org CNAME .
 vpn.odeccit.com CNAME .
 vpn.sakhwow.ru CNAME .
 vpn.satadru.dev CNAME .
-vpn.self-tech.ru CNAME .
 vpn.snxi.de CNAME .
 vpn.ssytnik.de CNAME .
 vpn.stroialliance.com CNAME .
