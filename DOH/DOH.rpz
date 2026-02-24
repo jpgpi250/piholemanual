@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2602230345 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2602240349 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2026-02-23 03:45:44 (UTC)
+; Last updated: 2026-02-24 03:49:10 (UTC)
 ;
 ; See https://jpgpi250.github.io/piholemanual/doc/Unbound%20response%20policy%20zones.pdf
 ; Report issues at https://github.com/jpgpi250/piholemanual/issues
@@ -535,7 +535,6 @@ allain.com.br CNAME .
 alleesph.online CNAME .
 alon93rus.ru CNAME .
 alpha.cixy.xyz CNAME .
-alpha.dnsbunker.org CNAME .
 ame.drahonn.pro CNAME .
 amgr.asuscomm.com CNAME .
 amigo.az.i81.ru CNAME .
@@ -697,7 +696,6 @@ br.lfac.net.br CNAME .
 br.servers.legat.ml CNAME .
 br2.lezainski.com CNAME .
 bravedns.com CNAME .
-bravo.dnsbunker.org CNAME .
 bre01.dnscry.pt CNAME .
 bru01.dnscry.pt CNAME .
 bt.luoo.cc CNAME .
@@ -794,7 +792,6 @@ commons.host CNAME .
 comss.one CNAME .
 comss.ru CNAME .
 connect-with.click CNAME .
-console.carestyle.org CNAME .
 contacts.dehb.ru CNAME .
 corancy.ddnsfree.com CNAME .
 cossxiu.ga CNAME .
@@ -1881,7 +1878,6 @@ dns.walshnet.co.uk CNAME .
 dns.wang.art CNAME .
 dns.wantfreedom.eu.org CNAME .
 dns.wargan.io CNAME .
-dns.warma.me CNAME .
 dns.warpnine.de CNAME .
 dns.warrior.fr CNAME .
 dns.watch CNAME .
