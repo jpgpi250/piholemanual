@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2026-03-03 04:29:36 (UTC)
+! Last updated: 2026-03-04 04:29:06 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -1369,7 +1369,6 @@
 ||dns.irk38.net^
 ||dns.irumatech.com^
 ||dns.is0mino.com^
-||dns.ishan.pw^
 ||dns.islandnet.com^
 ||dns.isp.dhoho.net^
 ||dns.it-pa.net^
@@ -2797,7 +2796,6 @@
 ||ind01.dnscry.pt^
 ||ines.zfn.uni-bremen.de^
 ||ingenmannsland.online^
-||inoainoa.fun^
 ||inpssh.online^
 ||internetsehat.bebasid.com^
 ||intertop.link^
@@ -3947,7 +3945,6 @@
 ||vm.mytm.cc^
 ||vm1.arashi.solutions^
 ||vm2.arashi.solutions^
-||vm3421302.firstbyte.club^
 ||vn.dns.abpvn.com^
 ||vno01.dnscry.pt^
 ||void.mcfly.lol^
