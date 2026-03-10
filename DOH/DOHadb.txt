@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2026-03-08 04:09:46 (UTC)
+! Last updated: 2026-03-09 04:11:17 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -1232,6 +1232,7 @@
 ||dns.expert^
 ||dns.extrawdw.net^
 ||dns.f4a.fun^
+||dns.f97.xyz^
 ||dns.fabidouille.com^
 ||dns.fadhilyori.my.id^
 ||dns.fahr.in^
