@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2603090331 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2603100332 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2026-03-09 03:31:48 (UTC)
+; Last updated: 2026-03-10 03:32:56 (UTC)
 ;
 ; See https://jpgpi250.github.io/piholemanual/doc/Unbound%20response%20policy%20zones.pdf
 ; Report issues at https://github.com/jpgpi250/piholemanual/issues
@@ -2802,6 +2802,7 @@ incaseineeditoneday.com CNAME .
 ind01.dnscry.pt CNAME .
 ines.zfn.uni-bremen.de CNAME .
 ingenmannsland.online CNAME .
+inoainoa.fun CNAME .
 inpssh.online CNAME .
 internetsehat.bebasid.com CNAME .
 intertop.link CNAME .
@@ -2988,6 +2989,7 @@ leochen-dns.ddns.net CNAME .
 lesuo.top CNAME .
 lewsha.lol CNAME .
 lfbn-gre-1-319-7.w90-112.abo.wanadoo.fr CNAME .
+lifeisa.live CNAME .
 lilibox.freeboxos.fr CNAME .
 lim02.dnscry.pt CNAME .
 lime.samonte.ovh CNAME .
