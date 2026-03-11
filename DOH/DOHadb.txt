@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2026-03-09 04:11:17 (UTC)
+! Last updated: 2026-03-10 04:12:21 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -2798,6 +2798,7 @@
 ||ind01.dnscry.pt^
 ||ines.zfn.uni-bremen.de^
 ||ingenmannsland.online^
+||inoainoa.fun^
 ||inpssh.online^
 ||internetsehat.bebasid.com^
 ||intertop.link^
@@ -2984,6 +2985,7 @@
 ||lesuo.top^
 ||lewsha.lol^
 ||lfbn-gre-1-319-7.w90-112.abo.wanadoo.fr^
+||lifeisa.live^
 ||lilibox.freeboxos.fr^
 ||lim02.dnscry.pt^
 ||lime.samonte.ovh^
