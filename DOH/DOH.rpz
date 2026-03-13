@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2603130322 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2603131235 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2026-03-13 03:22:42 (UTC)
+; Last updated: 2026-03-13 12:35:16 (UTC)
 ;
 ; See https://jpgpi250.github.io/piholemanual/doc/Unbound%20response%20policy%20zones.pdf
 ; Report issues at https://github.com/jpgpi250/piholemanual/issues
@@ -2354,58 +2354,7 @@ domburg.beruys.com CNAME .
 domeq.waw.pl CNAME .
 dooh.cloudflare-dns.com CNAME .
 door.plasmadancer.ru CNAME .
-doq.chikawa.cc CNAME .
-doq.dns4all.eu CNAME .
-doq.sa-sa.eu CNAME .
-doq64.dns4all.eu CNAME .
 dorkanddoodle.duckdns.org CNAME .
-dot-ch.blahdns.com CNAME .
-dot-de.blahdns.com CNAME .
-dot-dns.zmy.cloud CNAME .
-dot-fi.blahdns.com CNAME .
-dot-jp.blahdns.com CNAME .
-dot-public.exitstat.us CNAME .
-dot-sg.blahdns.com CNAME .
-dot.360.cn CNAME .
-dot.anir0y.in CNAME .
-dot.au.ahadns.net CNAME .
-dot.centraleu.pi-dns.com CNAME .
-dot.chi.ahadns.net CNAME .
-dot.cox.net CNAME .
-dot.eastas.pi-dns.com CNAME .
-dot.eastau.pi-dns.com CNAME .
-dot.eastus.pi-dns.com CNAME .
-dot.es.ahadns.net CNAME .
-dot.ffmuc.net CNAME .
-dot.gordmo.com CNAME .
-dot.in.ahadns.net CNAME .
-dot.it.ahadns.net CNAME .
-dot.la.ahadns.net CNAME .
-dot.libredns.gr CNAME .
-dot.libredns.gr.com CNAME .
-dot.modsh.top CNAME .
-dot.nl.ahadns.net CNAME .
-dot.no.ahadns.net CNAME .
-dot.northeu.pi-dns.com CNAME .
-dot.ny.ahadns.net CNAME .
-dot.occ.top CNAME .
-dot.pl.ahadns.net CNAME .
-dot.pub CNAME .
-dot.qooqle.date CNAME .
-dot.quickline.ch CNAME .
-dot.seby.io CNAME .
-dot.securedns.eu CNAME .
-dot.srito.com.br CNAME .
-dot.ssh-storage.ru CNAME .
-dot.tiar.app CNAME .
-dot.tooli.ca CNAME .
-dot.westus.pi-dns.com CNAME .
-dot.xfinity.com CNAME .
-dot1.applied-privacy.net CNAME .
-dot1.appliedprivacy.net CNAME .
-dotdns.cryptroute.com CNAME .
-doth.huque.com CNAME .
-dotserver.douyucdn.cn CNAME .
 douglas.mebrak.fr CNAME .
 douglaster.com CNAME .
 draco.plan9-ns2.com CNAME .
@@ -3986,30 +3935,6 @@ vovale.vpn.i81.ru CNAME .
 voyage-s01.cloudku.technology CNAME .
 voyage-s02.cloudku.technology CNAME .
 voyagerz.hopto.org CNAME .
-vpn-tw.teng.sh CNAME .
-vpn.1xtrm.com CNAME .
-vpn.4-the.win CNAME .
-vpn.ccnt.fr CNAME .
-vpn.egorrko.ru CNAME .
-vpn.erhvict.ru CNAME .
-vpn.g-s-a.me CNAME .
-vpn.geshido.ru CNAME .
-vpn.gmalov.ru CNAME .
-vpn.gosami.xyz CNAME .
-vpn.i81.ru CNAME .
-vpn.nnip.org CNAME .
-vpn.odeccit.com CNAME .
-vpn.sakhwow.ru CNAME .
-vpn.satadru.dev CNAME .
-vpn.snxi.de CNAME .
-vpn.ssytnik.de CNAME .
-vpn.stroialliance.com CNAME .
-vpn.technicule.info CNAME .
-vpn.vosjes.cloud CNAME .
-vpn0109.voodonline.fr CNAME .
-vpn2.nathan4s.lol CNAME .
-vpnhellings.nl CNAME .
-vpnmy.ru CNAME .
 vps-1f675aa1.vps.ovh.us CNAME .
 vps-ovh.pb2004.pl CNAME .
 vps.19790307.xyz CNAME .
