@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2603160405 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2603170417 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2026-03-16 04:05:35 (UTC)
+; Last updated: 2026-03-17 04:17:56 (UTC)
 ;
 ; See https://jpgpi250.github.io/piholemanual/doc/Unbound%20response%20policy%20zones.pdf
 ; Report issues at https://github.com/jpgpi250/piholemanual/issues
@@ -860,6 +860,7 @@ ddd3.loukky.com CNAME .
 ddns.martinmore.online CNAME .
 dds.wpme.pl CNAME .
 de-adguard.dr3ff1c13nt.com CNAME .
+de-ber.doh.sb CNAME .
 de-dus.doh.sb CNAME .
 de-f1.foxyfy.net CNAME .
 de-fra-w-f-1.nashkan.net CNAME .
@@ -1432,7 +1433,6 @@ dns.kawa.tf CNAME .
 dns.kc2wbx.com CNAME .
 dns.kcolspacrm.ir CNAME .
 dns.kebree.fr CNAME .
-dns.kellys.pw CNAME .
 dns.kempkens.org CNAME .
 dns.kerekes.xyz CNAME .
 dns.kernel-error.de CNAME .
@@ -2532,7 +2532,6 @@ gdns.end.pub CNAME .
 geg01.dnscry.pt CNAME .
 genielee.duckdns.org CNAME .
 genscorp.es CNAME .
-gersoctruda.ru CNAME .
 geshido.vpn.geshido.ru CNAME .
 getdnsapi.net CNAME .
 gibblets.top CNAME .
@@ -2752,7 +2751,6 @@ igor.vd.i81.ru CNAME .
 igor.vpn.i81.ru CNAME .
 ihctw.synology.me CNAME .
 iij.jp CNAME .
-ikarosalpha.xyz CNAME .
 ilinhy.com CNAME .
 ilmxs.com CNAME .
 immadnez7.ru CNAME .
@@ -3082,6 +3080,7 @@ music.httpdns.c.163.com CNAME .
 muxyuji.ru CNAME .
 mx1.laoxiao789.com CNAME .
 my.8484848.cn CNAME .
+my.ublockdns.com CNAME .
 myadg.ru CNAME .
 myagh.claptrap.me CNAME .
 myatris.sbs CNAME .
@@ -3243,6 +3242,7 @@ nsown.com CNAME .
 ntwrkh.pro CNAME .
 nue01.dnscry.pt CNAME .
 nvi-dns.bitdefender.net CNAME .
+nwps.fi CNAME .
 ny.pramanik.com CNAME .
 ny.teradns.org CNAME .
 ny1.nixnet.xyz CNAME .
@@ -3288,7 +3288,6 @@ ord01.dnscry.pt CNAME .
 ordns.he.net CNAME .
 ore-dns.bitdefender.net CNAME .
 orjp4.lz0724.com CNAME .
-ornext.luxury-web.kz CNAME .
 orpi.privado.ovh CNAME .
 oscnl.site CNAME .
 osefcorp.duckdns.org CNAME .
@@ -3836,6 +3835,7 @@ urology.wiki CNAME .
 us-ash-w-f-1.nashkan.net CNAME .
 us-chi-w-f-1.nashkan.net CNAME .
 us-chi-w-p-1.nashkan.net CNAME .
+us-chi.doh.sb CNAME .
 us-dal-w-p-1.nashkan.net CNAME .
 us-hil-w-f-1.nashkan.net CNAME .
 us-hil-w-p-1.nashkan.net CNAME .
@@ -3847,9 +3847,11 @@ us-ny-alula.heliumcloud.cc CNAME .
 us-ny.foxyfy.net CNAME .
 us-nyc-w-f-1.nashkan.net CNAME .
 us-nyc-w-p-1.nashkan.net CNAME .
+us-nyc.doh.sb CNAME .
 us-saj-w-f-1.nashkan.net CNAME .
 us-saj-w-p-1.nashkan.net CNAME .
 us-sj.foxyfy.net CNAME .
+us-sjc.doh.sb CNAME .
 us.aab.im CNAME .
 us.doh.cloudveil.org CNAME .
 us.future-world.net CNAME .
