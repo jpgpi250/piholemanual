@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2026-03-16 04:48:29 (UTC)
+! Last updated: 2026-03-17 04:58:16 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -856,6 +856,7 @@
 ||ddns.martinmore.online^
 ||dds.wpme.pl^
 ||de-adguard.dr3ff1c13nt.com^
+||de-ber.doh.sb^
 ||de-dus.doh.sb^
 ||de-f1.foxyfy.net^
 ||de-fra-w-f-1.nashkan.net^
@@ -1428,7 +1429,6 @@
 ||dns.kc2wbx.com^
 ||dns.kcolspacrm.ir^
 ||dns.kebree.fr^
-||dns.kellys.pw^
 ||dns.kempkens.org^
 ||dns.kerekes.xyz^
 ||dns.kernel-error.de^
@@ -2528,7 +2528,6 @@
 ||geg01.dnscry.pt^
 ||genielee.duckdns.org^
 ||genscorp.es^
-||gersoctruda.ru^
 ||geshido.vpn.geshido.ru^
 ||getdnsapi.net^
 ||gibblets.top^
@@ -2748,7 +2747,6 @@
 ||igor.vpn.i81.ru^
 ||ihctw.synology.me^
 ||iij.jp^
-||ikarosalpha.xyz^
 ||ilinhy.com^
 ||ilmxs.com^
 ||immadnez7.ru^
@@ -3078,6 +3076,7 @@
 ||muxyuji.ru^
 ||mx1.laoxiao789.com^
 ||my.8484848.cn^
+||my.ublockdns.com^
 ||myadg.ru^
 ||myagh.claptrap.me^
 ||myatris.sbs^
@@ -3239,6 +3238,7 @@
 ||ntwrkh.pro^
 ||nue01.dnscry.pt^
 ||nvi-dns.bitdefender.net^
+||nwps.fi^
 ||ny.pramanik.com^
 ||ny.teradns.org^
 ||ny1.nixnet.xyz^
@@ -3284,7 +3284,6 @@
 ||ordns.he.net^
 ||ore-dns.bitdefender.net^
 ||orjp4.lz0724.com^
-||ornext.luxury-web.kz^
 ||orpi.privado.ovh^
 ||oscnl.site^
 ||osefcorp.duckdns.org^
@@ -3832,6 +3831,7 @@
 ||us-ash-w-f-1.nashkan.net^
 ||us-chi-w-f-1.nashkan.net^
 ||us-chi-w-p-1.nashkan.net^
+||us-chi.doh.sb^
 ||us-dal-w-p-1.nashkan.net^
 ||us-hil-w-f-1.nashkan.net^
 ||us-hil-w-p-1.nashkan.net^
@@ -3843,9 +3843,11 @@
 ||us-ny.foxyfy.net^
 ||us-nyc-w-f-1.nashkan.net^
 ||us-nyc-w-p-1.nashkan.net^
+||us-nyc.doh.sb^
 ||us-saj-w-f-1.nashkan.net^
 ||us-saj-w-p-1.nashkan.net^
 ||us-sj.foxyfy.net^
+||us-sjc.doh.sb^
 ||us.aab.im^
 ||us.doh.cloudveil.org^
 ||us.future-world.net^
