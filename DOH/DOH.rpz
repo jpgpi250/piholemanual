@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2603180419 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2603190400 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2026-03-18 04:19:10 (UTC)
+; Last updated: 2026-03-19 04:00:49 (UTC)
 ;
 ; See https://jpgpi250.github.io/piholemanual/doc/Unbound%20response%20policy%20zones.pdf
 ; Report issues at https://github.com/jpgpi250/piholemanual/issues
@@ -3897,7 +3897,6 @@ vasya.vd.i81.ru CNAME .
 vasya.vpn.i81.ru CNAME .
 vd.i81.ru CNAME .
 vds2380673.my-ihor.ru CNAME .
-vdska-pl.ydns.eu CNAME .
 vdsn-nl-2.azatmutq.com CNAME .
 veraris.online CNAME .
 vernikpro.ru CNAME .
@@ -4103,7 +4102,6 @@ xm.ln7371.top CNAME .
 xn--80aeak3akfgk.xn--p1acf CNAME .
 xn--80aecoigf4aatn.xn--p1ai CNAME .
 xn--durhre-yxa.de CNAME .
-xomadns.com CNAME .
 xorbiadns.com CNAME .
 xpen.ns01.info CNAME .
 xray.krnl.eu CNAME .
