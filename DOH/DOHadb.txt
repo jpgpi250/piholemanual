@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2026-03-17 04:58:16 (UTC)
+! Last updated: 2026-03-18 04:59:50 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -3152,7 +3152,6 @@
 ||nl-dro-w-p-1.nashkan.net^
 ||nl.dns.privex.io^
 ||nl.dns.shx.su^
-||nl.ogne.top^
 ||nl.rslvr.eu^
 ||noad.800216.xyz^
 ||noad.kipp.cool^
@@ -3868,6 +3867,7 @@
 ||ux.go20.cf^
 ||v.dnscrypt.uk^
 ||v.recipes^
+||v0dka.ru^
 ||v1.ufamax.eu^
 ||v1.xylto.com^
 ||v1552270.hosted-by-vdsina.ru^
