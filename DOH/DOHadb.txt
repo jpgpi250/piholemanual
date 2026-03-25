@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2026-03-23 03:37:12 (UTC)
+! Last updated: 2026-03-24 04:19:36 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -1297,7 +1297,6 @@
 ||dns.giriprabhat.com^
 ||dns.glampool.cloud^
 ||dns.glf.wtf^
-||dns.glorydns.com^
 ||dns.glsoft.ai^
 ||dns.gnb09.id^
 ||dns.goertz.digital^
@@ -2357,6 +2356,7 @@
 ||drahonn.pro^
 ||drandrade21.freeddns.org^
 ||drkcloud.ddns.net^
+||droyd.top^
 ||drs.rustsword.com^
 ||ds.appl.pk^
 ||ds1.fredic.us^
@@ -2758,7 +2758,6 @@
 ||ind01.dnscry.pt^
 ||ines.zfn.uni-bremen.de^
 ||ingenmannsland.online^
-||inoainoa.fun^
 ||inpssh.online^
 ||internetsehat.bebasid.com^
 ||intertop.link^
@@ -2937,7 +2936,6 @@
 ||ldaman.duckdns.org^
 ||le-mesle.fr^
 ||leecurrylawfirm.com^
-||lelux.fi^
 ||lena.az.i81.ru^
 ||lena.hr.i81.ru^
 ||lena.vd.i81.ru^
@@ -4038,7 +4036,6 @@
 ||www.ilmxs.com^
 ||www.immadnez7.ru^
 ||www.incaseineeditoneday.com^
-||www.inoainoa.fun^
 ||www.inpssh.online^
 ||www.it-works4u.com^
 ||www.it-works4u.nl^
