@@ -1,8 +1,6 @@
 ##
 ## https://raw.githubusercontent.com/Jigsaw-Code/Intra/master/Android/app/src/main/res/values/servers.xml
 ##
-2001:300::5
-2001:300::6
 2001:4860:4860::64
 2001:4860:4860::6464
 2001:4860:4860::8844
