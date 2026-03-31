@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2026-03-29 04:28:28 (UTC)
+! Last updated: 2026-03-30 03:26:38 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -454,6 +454,7 @@
 ||ae-fuj-w-p-3.nashkan.net^
 ||ae-fuj-w-p-4.nashkan.net^
 ||affcdn.net^
+||affsoft.cc^
 ||africa.avastdns.com^
 ||africadns1.liquidtelecom.net^
 ||africadns2.liquidtelecom.net^
