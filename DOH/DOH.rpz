@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2603300247 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2603310244 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2026-03-30 02:47:40 (UTC)
+; Last updated: 2026-03-31 02:44:02 (UTC)
 ;
 ; See https://jpgpi250.github.io/piholemanual/doc/Unbound%20response%20policy%20zones.pdf
 ; Report issues at https://github.com/jpgpi250/piholemanual/issues
@@ -1304,6 +1304,7 @@ dns.girino.org CNAME .
 dns.giriprabhat.com CNAME .
 dns.glampool.cloud CNAME .
 dns.glf.wtf CNAME .
+dns.glorydns.com CNAME .
 dns.glsoft.ai CNAME .
 dns.gnb09.id CNAME .
 dns.goertz.digital CNAME .
@@ -1514,7 +1515,6 @@ dns.marbledfennec.net CNAME .
 dns.marcbond.uk CNAME .
 dns.marschi.de CNAME .
 dns.mateo.ovh CNAME .
-dns.mathewakhil.online CNAME .
 dns.matthias-prost.com CNAME .
 dns.maybe.icu CNAME .
 dns.mayr.ws CNAME .
@@ -2347,6 +2347,7 @@ doh2.blahdns.com CNAME .
 doh2.gslb2.xfinity.com CNAME .
 doh3.almir1904.eu CNAME .
 doh3.kekew.info CNAME .
+dohde.blahdns.com CNAME .
 dohdot.coxlab.net CNAME .
 dohipv6.crypto.sx CNAME .
 dohsg.blahdns.com CNAME .
@@ -3570,7 +3571,6 @@ scottdylewski.com CNAME .
 sdkconfig.tlivedns.com CNAME .
 sdns.233py.com CNAME .
 sdns.zakaria.website CNAME .
-sdns22.gkonuralp.com CNAME .
 sdvizhkov.ru CNAME .
 sea01.dnscry.pt CNAME .
 searxng.rcxpony.name CNAME .
