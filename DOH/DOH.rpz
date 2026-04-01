@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2603310244 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2604010256 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2026-03-31 02:44:02 (UTC)
+; Last updated: 2026-04-01 02:56:03 (UTC)
 ;
 ; See https://jpgpi250.github.io/piholemanual/doc/Unbound%20response%20policy%20zones.pdf
 ; Report issues at https://github.com/jpgpi250/piholemanual/issues
@@ -1634,6 +1634,7 @@ dns.ostfriese.org CNAME .
 dns.oszx.co CNAME .
 dns.otezz.net CNAME .
 dns.ourvau.lt CNAME .
+dns.ovpn.bond CNAME .
 dns.ozamagenova.ru CNAME .
 dns.p3k.sk CNAME .
 dns.p55k.com CNAME .
