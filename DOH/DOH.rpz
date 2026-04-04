@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2604030333 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2604040315 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2026-04-03 03:33:34 (UTC)
+; Last updated: 2026-04-04 03:15:39 (UTC)
 ;
 ; See https://jpgpi250.github.io/piholemanual/doc/Unbound%20response%20policy%20zones.pdf
 ; Report issues at https://github.com/jpgpi250/piholemanual/issues
@@ -1515,6 +1515,7 @@ dns.marbledfennec.net CNAME .
 dns.marcbond.uk CNAME .
 dns.marschi.de CNAME .
 dns.mateo.ovh CNAME .
+dns.mathewakhil.online CNAME .
 dns.matthias-prost.com CNAME .
 dns.maybe.icu CNAME .
 dns.mayr.ws CNAME .
