@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2604040315 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2604050307 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2026-04-04 03:15:39 (UTC)
+; Last updated: 2026-04-05 03:07:22 (UTC)
 ;
 ; See https://jpgpi250.github.io/piholemanual/doc/Unbound%20response%20policy%20zones.pdf
 ; Report issues at https://github.com/jpgpi250/piholemanual/issues
@@ -3574,6 +3574,7 @@ scottdylewski.com CNAME .
 sdkconfig.tlivedns.com CNAME .
 sdns.233py.com CNAME .
 sdns.zakaria.website CNAME .
+sdns22.gkonuralp.com CNAME .
 sdvizhkov.ru CNAME .
 sea01.dnscry.pt CNAME .
 searxng.rcxpony.name CNAME .
