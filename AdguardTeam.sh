@@ -21,8 +21,8 @@ INFO=" [${BLUE}i${NC}] "
 dbversion=$(pihole-FTL sqlite3 "${gravitydb}" ".timeout = 2000" \
 	"SELECT value FROM 'info' \
 		WHERE property = 'version';")
-if [[ "${dbversion}" != "19" ]]; then
-	echo -e "${NOK}This script was written for gravity database version 19 ${GREEN}(current version: ${dbversion})${NC}."
+if [[ "${dbversion}" != "20" ]]; then
+	echo -e "${NOK}This script was written for gravity database version 20 ${GREEN}(current version: ${dbversion})${NC}."
 	echo -e "${INFO}Open an issue on GitHub (https://github.com/jpgpi250/piholemanual/issues)."
 	exit
 fi
