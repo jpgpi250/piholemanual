@@ -5,10 +5,14 @@
 # the whitelist comments to
 # execute the sqlite3 statements
 # change all matches, if desired, or the script will not work!
-
+#
 # If you previously entered whitelist entries, to allow google ads,
 # you need to remove them, they probabbly apply to all devices,
 # the effect of the new group will NOT be noticable if you dont remove them.
+#
+# If you want to report a problem with this script, do NOT create a topic on the pihole forum!
+# Report the issue on https://github.com/jpgpi250/piholemanual/issues
+#
 
 gravitydb="/etc/pihole/gravity.db"
 
