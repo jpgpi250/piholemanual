@@ -1,4 +1,5 @@
 #!/bin/bash
+
 # https://github.com/AdguardTeam/cname-trackers
 #
 # This script will install jq (https://stedolan.github.io/jq/) on your system!
