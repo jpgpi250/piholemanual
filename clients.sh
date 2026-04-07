@@ -1,5 +1,5 @@
 #!/bin/bash
-#
+
 # If you want to report a problem with this script, do NOT create a topic on the pihole forum!
 # Report the issue on https://github.com/jpgpi250/piholemanual/issues
 #
