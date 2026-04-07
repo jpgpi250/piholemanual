@@ -1,7 +1,6 @@
 #!/bin/bash
 
 # Uncomment the list type you want to use (script default is Non-crossed lists)
-#
 # Modify the comment to match your list selection type
 #
 # Information about the list types can be found here:
