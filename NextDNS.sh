@@ -1,4 +1,6 @@
 #!/bin/bash
+
+# A list of domains used by tracking companies as CNAME destination when disguising third-party trackers as first-party trackers.
 # https://github.com/nextdns/cname-cloaking-blocklist
 #
 # If you want to report a problem with this script, do NOT create a topic on the pihole forum!
