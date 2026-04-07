@@ -3,6 +3,10 @@
 # this script imports the regular expressions from mmotti into the gravity database.
 # existing (duplicate) entries will not cause an error ('insert or ignore' in the sqlite3 statement).
 # existing entries will not be updated (no change).
+#
+# If you want to report a problem with this script, do NOT create a topic on the pihole forum!
+# Report the issue on https://github.com/jpgpi250/piholemanual/issues
+#
 
 gravitydb="/etc/pihole/gravity.db"
 
