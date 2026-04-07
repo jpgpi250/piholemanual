@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2604060252 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2604070249 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2026-04-06 02:52:52 (UTC)
+; Last updated: 2026-04-07 02:49:40 (UTC)
 ;
 ; See https://jpgpi250.github.io/piholemanual/doc/Unbound%20response%20policy%20zones.pdf
 ; Report issues at https://github.com/jpgpi250/piholemanual/issues
@@ -1304,6 +1304,7 @@ dns.girino.org CNAME .
 dns.giriprabhat.com CNAME .
 dns.glampool.cloud CNAME .
 dns.glf.wtf CNAME .
+dns.glorydns.com CNAME .
 dns.glsoft.ai CNAME .
 dns.gnb09.id CNAME .
 dns.goertz.digital CNAME .
