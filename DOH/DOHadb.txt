@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2026-04-07 03:30:08 (UTC)
+! Last updated: 2026-04-08 03:22:16 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -3026,7 +3026,6 @@
 ||mavalleenumerique.hopto.org^
 ||max.rethinkdns.com^
 ||maxfong.cc^
-||mc-sft.cn^
 ||mci01.dnscry.pt^
 ||mcore.us.to^
 ||mcttechs.com^
