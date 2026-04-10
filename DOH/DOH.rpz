@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2604090311 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2604100306 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2026-04-09 03:11:01 (UTC)
+; Last updated: 2026-04-10 03:06:34 (UTC)
 ;
 ; See https://jpgpi250.github.io/piholemanual/doc/Unbound%20response%20policy%20zones.pdf
 ; Report issues at https://github.com/jpgpi250/piholemanual/issues
@@ -462,7 +462,6 @@ affsoft.cc CNAME .
 africa.avastdns.com CNAME .
 africadns1.liquidtelecom.net CNAME .
 africadns2.liquidtelecom.net CNAME .
-ag.alexf.cc CNAME .
 ag.apollohct.com CNAME .
 ag.brianlee.fun CNAME .
 ag.coco-tama-hoiku.com CNAME .
@@ -1515,6 +1514,7 @@ dns.marbledfennec.net CNAME .
 dns.marcbond.uk CNAME .
 dns.marschi.de CNAME .
 dns.mateo.ovh CNAME .
+dns.mathewakhil.online CNAME .
 dns.matthias-prost.com CNAME .
 dns.maybe.icu CNAME .
 dns.mayr.ws CNAME .
@@ -2156,6 +2156,7 @@ doh.archuser.org CNAME .
 doh.armadillodns.net CNAME .
 doh.arubadns.it CNAME .
 doh.asagiri.moe CNAME .
+doh.asecdns.com CNAME .
 doh.asia.dnswarden.com CNAME .
 doh.asli.id CNAME .
 doh.au.ahadns.net CNAME .
