@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2604140214 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2604150227 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2026-04-14 02:14:29 (UTC)
+; Last updated: 2026-04-15 02:27:18 (UTC)
 ;
 ; See https://jpgpi250.github.io/piholemanual/doc/Unbound%20response%20policy%20zones.pdf
 ; Report issues at https://github.com/jpgpi250/piholemanual/issues
@@ -1881,6 +1881,7 @@ dns.vladpro.ru CNAME .
 dns.vlo.cc CNAME .
 dns.vmath.my.id CNAME .
 dns.vmisch.tech CNAME .
+dns.vod11.xyz CNAME .
 dns.volsap.ovh CNAME .
 dns.vpn.i81.ru CNAME .
 dns.vps.mtsdns.ru CNAME .
@@ -3336,6 +3337,7 @@ pdx01.dnscry.pt CNAME .
 pebdbvi58gbc.absq.ch CNAME .
 ped01.dnscry.pt CNAME .
 penetrator.shurakenas.ru CNAME .
+pepetio.xyz CNAME .
 per.adfilter.net CNAME .
 per01.dnscry.pt CNAME .
 performance.gosami.xyz CNAME .
