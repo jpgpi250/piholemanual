@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2026-04-14 02:55:15 (UTC)
+! Last updated: 2026-04-15 03:08:05 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -1877,6 +1877,7 @@
 ||dns.vlo.cc^
 ||dns.vmath.my.id^
 ||dns.vmisch.tech^
+||dns.vod11.xyz^
 ||dns.volsap.ovh^
 ||dns.vpn.i81.ru^
 ||dns.vps.mtsdns.ru^
@@ -3332,6 +3333,7 @@
 ||pebdbvi58gbc.absq.ch^
 ||ped01.dnscry.pt^
 ||penetrator.shurakenas.ru^
+||pepetio.xyz^
 ||per.adfilter.net^
 ||per01.dnscry.pt^
 ||performance.gosami.xyz^
