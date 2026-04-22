@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2026-04-20 04:00:19 (UTC)
+! Last updated: 2026-04-21 03:25:35 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -535,6 +535,7 @@
 ||allain.com.br^
 ||alleesph.online^
 ||alon93rus.ru^
+||alpha-dns.quad9.net^
 ||alpha.cixy.xyz^
 ||ame.drahonn.pro^
 ||amgr.asuscomm.com^
@@ -759,7 +760,6 @@
 ||clean.dnsforge.de^
 ||clean.hadan-dns.de^
 ||cleanbrowsing.org^
-||clearweb.woodbridge.club^
 ||clic.eu.org^
 ||clientdns3.softcom.net^
 ||closetruth.date^
