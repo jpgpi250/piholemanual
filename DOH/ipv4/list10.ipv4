@@ -1,6 +1,7 @@
 ##
 ## https://raw.githubusercontent.com/Jigsaw-Code/Intra/master/Android/app/src/main/res/values/servers.xml
 ##
+1.0.0.1
 1.0.0.2
 1.0.0.3
 101.101.101.101
@@ -10,6 +11,7 @@
 104.16.249.249
 104.18.0.3
 104.18.1.3
+1.1.1.1
 1.1.1.2
 1.1.1.3
 146.112.41.2
