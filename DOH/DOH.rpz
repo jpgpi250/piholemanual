@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2604240118 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2604250312 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2026-04-24 01:18:06 (UTC)
+; Last updated: 2026-04-25 03:12:24 (UTC)
 ;
 ; See https://jpgpi250.github.io/piholemanual/doc/Unbound%20response%20policy%20zones.pdf
 ; Report issues at https://github.com/jpgpi250/piholemanual/issues
@@ -1967,7 +1967,6 @@ dns1.api110.com CNAME .
 dns1.blackrandcrf.ru CNAME .
 dns1.conne.net CNAME .
 dns1.digitale-gesellschaft.ch CNAME .
-dns1.dns-ga.de CNAME .
 dns1.dnscrypt.ca CNAME .
 dns1.feear.se CNAME .
 dns1.gms.net.id CNAME .
@@ -2013,7 +2012,6 @@ dns2.cbio.top CNAME .
 dns2.cybrespace.net CNAME .
 dns2.developer.li CNAME .
 dns2.digitale-gesellschaft.ch CNAME .
-dns2.dns-ga.de CNAME .
 dns2.dnscrypt.ca CNAME .
 dns2.feear.se CNAME .
 dns2.gms.net.id CNAME .
@@ -2046,7 +2044,6 @@ dns2.thylacine.co.nz CNAME .
 dns2.vinc.me CNAME .
 dns2.xcapenet.ru CNAME .
 dns2.ytpom.ru CNAME .
-dns3.dns-ga.de CNAME .
 dns3.hu10us22.win CNAME .
 dns3.wistarip.com CNAME .
 dns35.allone.dpdns.org CNAME .
@@ -2194,7 +2191,6 @@ doh.de.blahdns.com CNAME .
 doh.defaultroutes.de CNAME .
 doh.denypradana.com CNAME .
 doh.disconnect.app CNAME .
-doh.dns-ga.de CNAME .
 doh.dns.apple.com CNAME .
 doh.dns.apple.com.v.aaplimg.com CNAME .
 doh.dns.mozilla.com CNAME .
@@ -2354,6 +2350,7 @@ doh2.blahdns.com CNAME .
 doh2.gslb2.xfinity.com CNAME .
 doh3.almir1904.eu CNAME .
 doh3.kekew.info CNAME .
+doh64.dns4all.eu CNAME .
 dohde.blahdns.com CNAME .
 dohdot.coxlab.net CNAME .
 dohipv6.crypto.sx CNAME .
