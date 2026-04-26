@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2026-04-24 02:02:39 (UTC)
+! Last updated: 2026-04-25 03:57:27 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -1963,7 +1963,6 @@
 ||dns1.blackrandcrf.ru^
 ||dns1.conne.net^
 ||dns1.digitale-gesellschaft.ch^
-||dns1.dns-ga.de^
 ||dns1.dnscrypt.ca^
 ||dns1.feear.se^
 ||dns1.gms.net.id^
@@ -2009,7 +2008,6 @@
 ||dns2.cybrespace.net^
 ||dns2.developer.li^
 ||dns2.digitale-gesellschaft.ch^
-||dns2.dns-ga.de^
 ||dns2.dnscrypt.ca^
 ||dns2.feear.se^
 ||dns2.gms.net.id^
@@ -2042,7 +2040,6 @@
 ||dns2.vinc.me^
 ||dns2.xcapenet.ru^
 ||dns2.ytpom.ru^
-||dns3.dns-ga.de^
 ||dns3.hu10us22.win^
 ||dns3.wistarip.com^
 ||dns35.allone.dpdns.org^
@@ -2190,7 +2187,6 @@
 ||doh.defaultroutes.de^
 ||doh.denypradana.com^
 ||doh.disconnect.app^
-||doh.dns-ga.de^
 ||doh.dns.apple.com^
 ||doh.dns.apple.com.v.aaplimg.com^
 ||doh.dns.mozilla.com^
@@ -2350,6 +2346,7 @@
 ||doh2.gslb2.xfinity.com^
 ||doh3.almir1904.eu^
 ||doh3.kekew.info^
+||doh64.dns4all.eu^
 ||dohde.blahdns.com^
 ||dohdot.coxlab.net^
 ||dohipv6.crypto.sx^
