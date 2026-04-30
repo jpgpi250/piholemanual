@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2026-04-28 03:50:07 (UTC)
+! Last updated: 2026-04-29 03:08:55 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -1056,6 +1056,7 @@
 ||dns.b72.com^
 ||dns.bad-taste.app^
 ||dns.bai0012.com^
+||dns.baishiyuan.cn^
 ||dns.be2aja.my.id^
 ||dns.beardic.cn^
 ||dns.bebasid.com^
@@ -3310,6 +3311,7 @@
 ||panel.joosh.ru^
 ||panser.web.id^
 ||par01.dnscry.pt^
+||paradise-human.shop^
 ||paranoia.mydns.network^
 ||pashagame456.com^
 ||paskam.xyz^
