@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2605010203 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2605020302 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2026-05-01 02:03:26 (UTC)
+; Last updated: 2026-05-02 03:02:18 (UTC)
 ;
 ; See https://jpgpi250.github.io/piholemanual/doc/Unbound%20response%20policy%20zones.pdf
 ; Report issues at https://github.com/jpgpi250/piholemanual/issues
@@ -3062,6 +3062,7 @@ mistasinresolver.ru CNAME .
 mk.skynetinternet.com.br CNAME .
 mnl01.dnscry.pt CNAME .
 mnsvless.ikwb.com CNAME .
+moamao.shop CNAME .
 moe01.dnscry.pt CNAME .
 moidns.hopto.org CNAME .
 moise-et-maurice-gardent-la-maison.schneiderus.org CNAME .
