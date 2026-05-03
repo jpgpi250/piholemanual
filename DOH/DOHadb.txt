@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2026-05-01 02:48:56 (UTC)
+! Last updated: 2026-05-02 03:47:48 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -3058,6 +3058,7 @@
 ||mk.skynetinternet.com.br^
 ||mnl01.dnscry.pt^
 ||mnsvless.ikwb.com^
+||moamao.shop^
 ||moe01.dnscry.pt^
 ||moidns.hopto.org^
 ||moise-et-maurice-gardent-la-maison.schneiderus.org^
