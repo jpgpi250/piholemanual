@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2026-05-04 04:05:04 (UTC)
+! Last updated: 2026-05-05 03:32:48 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -441,7 +441,6 @@
 ||adns.onlinetools.rocks^
 ||ads-ch.landgame.net^
 ||ads-doh.securedns.eu^
-||ads.hunga1k47.com^
 ||ads.therman.eu^
 ||ads.x88.in^
 ||adsl.viettel.vn^
@@ -1483,7 +1482,6 @@
 ||dns.lildinosaur.com^
 ||dns.lilith.cloud^
 ||dns.linkr.ninja^
-||dns.liruz.fr^
 ||dns.lista.my.id^
 ||dns.listo.click^
 ||dns.lithvik.com^
@@ -1539,7 +1537,6 @@
 ||dns.mikeliu.org^
 ||dns.mikopono.nl^
 ||dns.mikrotikrumahan.my.id^
-||dns.milkpie.one^
 ||dns.millernetwork.uk^
 ||dns.mipauns.com^
 ||dns.miyun1.com^
