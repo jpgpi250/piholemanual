@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2026-05-05 03:32:48 (UTC)
+! Last updated: 2026-05-06 03:47:08 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -1836,6 +1836,7 @@
 ||dns.tngch.mydns.jp^
 ||dns.tomitomix.net^
 ||dns.tooizi.eu^
+||dns.tracker.ink^
 ||dns.trifanov-online.ru^
 ||dns.truong.fi^
 ||dns.trust404.win^
@@ -3422,7 +3423,6 @@
 ||quantumpulse.dev^
 ||query.hdns.io^
 ||query.mobyds.com^
-||quic.lol^
 ||r.9132706292.cloudns.be^
 ||r1bnc.com^
 ||r1bnc.eu.org^
