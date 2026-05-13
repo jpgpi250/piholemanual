@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2026-05-11 03:46:25 (UTC)
+! Last updated: 2026-05-12 03:29:02 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -2606,6 +2606,7 @@
 ||han01.dnscry.pt^
 ||handy-matthias.dns.internal.espresso-tasse.de^
 ||handy-nils.dns.internal.espresso-tasse.de^
+||hanniel.tech^
 ||hard.dnsforge.de^
 ||hdns.ksyun.com^
 ||hdnsadguardhome.me^
