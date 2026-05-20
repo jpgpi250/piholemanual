@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2026-05-18 03:42:30 (UTC)
+! Last updated: 2026-05-19 03:39:58 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -277,7 +277,6 @@
 ||adguard.jpjb.net^
 ||adguard.k-likhachev.ru^
 ||adguard.kalyanmudumby.com^
-||adguard.kantinyoyok.xyz^
 ||adguard.kasbot.net^
 ||adguard.kiboko.it^
 ||adguard.kitakitsune.xyz^
@@ -1457,7 +1456,6 @@
 ||dns.kpsn.dev^
 ||dns.kriswerry.nl^
 ||dns.krol.cloud^
-||dns.kugoapps.com^
 ||dns.kukal.cz^
 ||dns.kusoneko.moe^
 ||dns.kuuhaku.moe^
@@ -1631,7 +1629,6 @@
 ||dns.oszx.co^
 ||dns.otezz.net^
 ||dns.ourvau.lt^
-||dns.ovpn.bond^
 ||dns.ozamagenova.ru^
 ||dns.p3k.sk^
 ||dns.p55k.com^
