@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2026-05-24 03:15:26 (UTC)
+! Last updated: 2026-05-25 03:37:41 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -533,7 +533,6 @@
 ||alon93rus.ru^
 ||alpha-dns.quad9.net^
 ||alpha.cixy.xyz^
-||alpha.dnsbunker.org^
 ||ame.drahonn.pro^
 ||amgr.asuscomm.com^
 ||amigo.az.i81.ru^
@@ -696,7 +695,6 @@
 ||br.servers.legat.ml^
 ||br2.lezainski.com^
 ||bravedns.com^
-||bravo.dnsbunker.org^
 ||bre01.dnscry.pt^
 ||bru01.dnscry.pt^
 ||bt.luoo.cc^
@@ -1510,7 +1508,6 @@
 ||dns.marcbond.uk^
 ||dns.marschi.de^
 ||dns.mateo.ovh^
-||dns.mathewakhil.online^
 ||dns.matthias-prost.com^
 ||dns.maybe.icu^
 ||dns.mayr.ws^
@@ -2106,6 +2103,7 @@
 ||doh-ca.naftalie.net^
 ||doh-ch.blahdns.com^
 ||doh-de.blahdns.com^
+||doh-dilution-to-upstreams-adguardhome.nicolas-dorriere.fr^
 ||doh-dns-apple-com.v.aaplimg.com^
 ||doh-fi.blahdns.com^
 ||doh-ipv6.crypto.sx^
@@ -2123,6 +2121,7 @@
 ||doh-primary-pool.goodbyegambling.com^
 ||doh-pure.onedns.net^
 ||doh-random-upstream.nicolas-dorriere.fr^
+||doh-recursive-to-root.technitium.nicolas-dorriere.fr^
 ||doh-rs.whalebone.io^
 ||doh-sg.blahdns.com^
 ||doh.18bit.cn^
@@ -2319,6 +2318,7 @@
 ||doh.us.moe.tips^
 ||doh.valscosmos.com^
 ||doh.viatech.com.tw^
+||doh.vpsdns.co.za^
 ||doh.webnmail.de^
 ||doh.westus.pi-dns.com^
 ||doh.wewitro.net^
@@ -3968,7 +3968,6 @@
 ||vski.172896.xyz^
 ||vsrv15195.customer.xenway.de^
 ||vst-sh-se.mooo.com^
-||vtcuong.site^
 ||vte01.dnscry.pt^
 ||vuivn.site^
 ||vvmm.me^
