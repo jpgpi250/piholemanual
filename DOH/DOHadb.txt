@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2026-05-31 03:43:09 (UTC)
+! Last updated: 2026-06-01 03:00:17 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -2121,7 +2121,6 @@
 ||doh-primary-pool.goodbyegambling.com^
 ||doh-pure.onedns.net^
 ||doh-random-upstream.nicolas-dorriere.fr^
-||doh-recursive-to-root.technitium.nicolas-dorriere.fr^
 ||doh-rs.whalebone.io^
 ||doh-sg.blahdns.com^
 ||doh.18bit.cn^
