@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2026-06-02 03:16:23 (UTC)
+! Last updated: 2026-06-03 03:55:29 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -446,7 +446,6 @@
 ||ae-fuj-w-p-4.nashkan.net^
 ||affcdn.net^
 ||affsoft.cc^
-||africa.avastdns.com^
 ||africadns1.liquidtelecom.net^
 ||africadns2.liquidtelecom.net^
 ||ag.apollohct.com^
@@ -599,7 +598,6 @@
 ||atlantic.dyn1.de^
 ||atris.cyou^
 ||atsilva.link^
-||atsssgo.xyz^
 ||au-syd-w-f-1.nashkan.net^
 ||au-syd-w-p-1.nashkan.net^
 ||au-syd.doh.sb^
@@ -2295,6 +2293,7 @@
 ||doh.xyz^
 ||doh.yandex.net^
 ||doh.yspv.ru^
+||doh.ywhost.com^
 ||doh.zephyrus.id^
 ||doh.zhongbr.uk^
 ||doh.zknt.org^
@@ -2378,8 +2377,6 @@
 ||eu.doh.sb^
 ||eu.tri-dns.net^
 ||eu1.dns.lavate.ch^
-||europe-west.avastdns.com^
-||europe.avastdns.com^
 ||europe.doh.sb^
 ||evn01.dnscry.pt^
 ||eweyo.duckdns.org^
