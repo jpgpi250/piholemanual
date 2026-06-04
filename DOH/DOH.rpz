@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2606030309 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2606040320 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2026-06-03 03:09:15 (UTC)
+; Last updated: 2026-06-04 03:20:39 (UTC)
 ;
 ; See https://jpgpi250.github.io/piholemanual/doc/Unbound%20response%20policy%20zones.pdf
 ; Report issues at https://github.com/jpgpi250/piholemanual/issues
@@ -134,7 +134,6 @@ adblock.opendoh.com CNAME .
 adblock.renedis.nl CNAME .
 adblocker.institutobancario.edu.mx CNAME .
 adblockersite.com CNAME .
-adc.bxq.net CNAME .
 addns.jpr.space CNAME .
 addns.jujuland.net CNAME .
 addns.ovalie.ovh CNAME .
@@ -2027,7 +2026,6 @@ dnsdoh.dnsforfamily.com CNAME .
 dnsdohnosafesearch.dnsforfamily.com CNAME .
 dnsenc.com CNAME .
 dnses.alekberg.net CNAME .
-dnsfilter.domotik.us CNAME .
 dnsforfamily.com CNAME .
 dnsforge.de CNAME .
 dnsguard.hte.vn CNAME .
@@ -3590,7 +3588,6 @@ shield1.eranext.net CNAME .
 shinano.anime.com.my CNAME .
 shitblocker.com CNAME .
 siddeus.synology.me CNAME .
-sig.bxq.net CNAME .
 signsservers.ru CNAME .
 sin.core.access.zznet.fun CNAME .
 sin01.dnscry.pt CNAME .
