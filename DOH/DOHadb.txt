@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2026-06-03 03:55:29 (UTC)
+! Last updated: 2026-06-04 04:04:32 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -130,7 +130,6 @@
 ||adblock.renedis.nl^
 ||adblocker.institutobancario.edu.mx^
 ||adblockersite.com^
-||adc.bxq.net^
 ||addns.jpr.space^
 ||addns.jujuland.net^
 ||addns.ovalie.ovh^
@@ -2023,7 +2022,6 @@
 ||dnsdohnosafesearch.dnsforfamily.com^
 ||dnsenc.com^
 ||dnses.alekberg.net^
-||dnsfilter.domotik.us^
 ||dnsforfamily.com^
 ||dnsforge.de^
 ||dnsguard.hte.vn^
@@ -3586,7 +3584,6 @@
 ||shinano.anime.com.my^
 ||shitblocker.com^
 ||siddeus.synology.me^
-||sig.bxq.net^
 ||signsservers.ru^
 ||sin.core.access.zznet.fun^
 ||sin01.dnscry.pt^
