@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2606040320 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2606050311 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2026-06-04 03:20:39 (UTC)
+; Last updated: 2026-06-05 03:11:00 (UTC)
 ;
 ; See https://jpgpi250.github.io/piholemanual/doc/Unbound%20response%20policy%20zones.pdf
 ; Report issues at https://github.com/jpgpi250/piholemanual/issues
@@ -269,7 +269,6 @@ adguard.infrapod.nl CNAME .
 adguard.itclogic.cloud CNAME .
 adguard.jaydub.cloud CNAME .
 adguard.jfchenier.ca CNAME .
-adguard.jfpii.com CNAME .
 adguard.johanliebert.top CNAME .
 adguard.johnnypatras.org CNAME .
 adguard.josephyap.me CNAME .
@@ -745,7 +744,6 @@ cintra.ml CNAME .
 circumitor.de CNAME .
 cld.996969.xyz CNAME .
 clean.dnsforge.de CNAME .
-clean.hadan-dns.de CNAME .
 cleanbrowsing.org CNAME .
 clic.eu.org CNAME .
 clientdns3.softcom.net CNAME .
@@ -2586,7 +2584,6 @@ hfgx.shop CNAME .
 hg8.asia CNAME .
 hgns.harriganhome.ga CNAME .
 hgrps.eu CNAME .
-himedns.com CNAME .
 himeko297.asuscomm.com CNAME .
 hitian.me CNAME .
 hk-adg.bluenight.me CNAME .
@@ -2626,7 +2623,6 @@ home.dlinkddns.com CNAME .
 home.enjoymylife.net CNAME .
 home.fc.idv.tw CNAME .
 home.fendya.com CNAME .
-home.firetiresinc.com CNAME .
 home.jobytan.com CNAME .
 home.luther.io CNAME .
 home.marcrnt.de CNAME .
@@ -3164,7 +3160,6 @@ ns1.dnsprivacy.at CNAME .
 ns1.dotls.org CNAME .
 ns1.fdn.fr CNAME .
 ns1.flodns.net CNAME .
-ns1.hadan-dns.de CNAME .
 ns1.hjk.kr CNAME .
 ns1.hjk.me CNAME .
 ns1.i-evolve.net CNAME .
@@ -3177,7 +3172,6 @@ ns2.1899.com.mx CNAME .
 ns2.4netguides.org CNAME .
 ns2.dnsprivacy.at CNAME .
 ns2.flodns.net CNAME .
-ns2.hadan-dns.de CNAME .
 ns2.hjk.kr CNAME .
 ns2.hjk.me CNAME .
 ns2.hshh.org CNAME .
