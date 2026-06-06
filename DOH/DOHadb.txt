@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2026-06-04 04:04:32 (UTC)
+! Last updated: 2026-06-05 03:55:11 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -265,7 +265,6 @@
 ||adguard.itclogic.cloud^
 ||adguard.jaydub.cloud^
 ||adguard.jfchenier.ca^
-||adguard.jfpii.com^
 ||adguard.johanliebert.top^
 ||adguard.johnnypatras.org^
 ||adguard.josephyap.me^
@@ -741,7 +740,6 @@
 ||circumitor.de^
 ||cld.996969.xyz^
 ||clean.dnsforge.de^
-||clean.hadan-dns.de^
 ||cleanbrowsing.org^
 ||clic.eu.org^
 ||clientdns3.softcom.net^
@@ -2582,7 +2580,6 @@
 ||hg8.asia^
 ||hgns.harriganhome.ga^
 ||hgrps.eu^
-||himedns.com^
 ||himeko297.asuscomm.com^
 ||hitian.me^
 ||hk-adg.bluenight.me^
@@ -2622,7 +2619,6 @@
 ||home.enjoymylife.net^
 ||home.fc.idv.tw^
 ||home.fendya.com^
-||home.firetiresinc.com^
 ||home.jobytan.com^
 ||home.luther.io^
 ||home.marcrnt.de^
@@ -3160,7 +3156,6 @@
 ||ns1.dotls.org^
 ||ns1.fdn.fr^
 ||ns1.flodns.net^
-||ns1.hadan-dns.de^
 ||ns1.hjk.kr^
 ||ns1.hjk.me^
 ||ns1.i-evolve.net^
@@ -3173,7 +3168,6 @@
 ||ns2.4netguides.org^
 ||ns2.dnsprivacy.at^
 ||ns2.flodns.net^
-||ns2.hadan-dns.de^
 ||ns2.hjk.kr^
 ||ns2.hjk.me^
 ||ns2.hshh.org^
