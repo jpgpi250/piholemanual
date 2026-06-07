@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2026-06-05 03:55:11 (UTC)
+! Last updated: 2026-06-06 04:03:54 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -810,12 +810,8 @@
 ||d.zscale.gq^
 ||d0.tada.ly^
 ||d1.12342345.xyz^
-||d1.vps.mtsdns.ru^
 ||d2.shabi.icu^
-||d2.vps.mtsdns.ru^
-||d3.vps.mtsdns.ru^
 ||d3vy.ru^
-||d4.vps.mtsdns.ru^
 ||d51538618.access.telenet.be^
 ||dac01.dnscry.pt^
 ||daemonhunt.no-ip.org^
@@ -863,7 +859,6 @@
 ||den01.dnscry.pt^
 ||derekcastle.duckdns.org^
 ||derevnya.px.i81.ru^
-||deti.vps.mtsdns.ru^
 ||dev.gonnadive.com^
 ||deweerd.loseyourip.com^
 ||dflexy.house.nom.br^
@@ -1842,7 +1837,6 @@
 ||dns.vod11.xyz^
 ||dns.volsap.ovh^
 ||dns.vpn.i81.ru^
-||dns.vps.mtsdns.ru^
 ||dns.vps.pw^
 ||dns.w3ctag.org^
 ||dns.wael.name^
@@ -2079,11 +2073,9 @@
 ||doh-lb-in.dnsflex.com^
 ||doh-lb-sg.dnsflex.com^
 ||doh-lb-tr.dnsflex.com^
-||doh-own-recursion.nicolas-dorriere.fr^
 ||doh-primary-pool.detoxifypornblocker.com^
 ||doh-primary-pool.goodbyegambling.com^
 ||doh-pure.onedns.net^
-||doh-random-upstream.nicolas-dorriere.fr^
 ||doh-rs.whalebone.io^
 ||doh-sg.blahdns.com^
 ||doh.18bit.cn^
@@ -2628,7 +2620,6 @@
 ||home.r01.fr^
 ||home.realldz.id.vn^
 ||home.snow-sugar.net^
-||home.vps.mtsdns.ru^
 ||home.weisbrod.me^
 ||home.wriedts.de^
 ||home27.duckdns.org^
@@ -2695,7 +2686,6 @@
 ||httpsdns.baidu.com^
 ||huntllcx.cn^
 ||huv01.dnscry.pt^
-||hydra.plan9-ns1.com^
 ||i-puppy.ru^
 ||i.233py.com^
 ||i.233py.com.a.bdydns.com^
@@ -2749,7 +2739,6 @@
 ||itlikehell.ru^
 ||itworks4u.nl^
 ||iux3-s.cuiy4trg8fmosya2iip3ci.name^
-||ivan.vps.mtsdns.ru^
 ||ivica-vulas.from.hr^
 ||ivnkn.xyz^
 ||j.9132706292.cloudns.be^
@@ -2908,7 +2897,6 @@
 ||lena.hr.i81.ru^
 ||lena.vd.i81.ru^
 ||lena.vpn.i81.ru^
-||lena.vps.mtsdns.ru^
 ||leoadguard.duckdns.org^
 ||leochen-dns.ddns.net^
 ||lesuo.top^
@@ -3029,7 +3017,6 @@
 ||mru02.dnscry.pt^
 ||msp01.dnscry.pt^
 ||msr177.com^
-||mtsdns.ru^
 ||muc-ns01.ibytex.systems^
 ||muc01.dnscry.pt^
 ||muli.stusta.mhn.de^
@@ -3049,7 +3036,6 @@
 ||mydns.phatna.net^
 ||mypihole.hopto.org^
 ||myprivityvpn.softether.net^
-||myrusvpn.de^
 ||mysolod.xyz^
 ||mysterium.arashi.solutions^
 ||myv2ray.cn^
@@ -3896,7 +3882,6 @@
 ||vps.deckberg.de^
 ||vps.grussenmeyer.com^
 ||vps.jmarkin.ru^
-||vps.mtsdns.ru^
 ||vps.poly-tank.jp^
 ||vps.techrich.net^
 ||vps01.bbhc.xyz^
