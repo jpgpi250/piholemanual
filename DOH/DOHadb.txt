@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2026-06-07 02:52:28 (UTC)
+! Last updated: 2026-06-08 03:30:41 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -349,7 +349,6 @@
 ||adguard.techlike.in^
 ||adguard.tetnet.net^
 ||adguard.theil.dev^
-||adguard.tigrex.net^
 ||adguard.timoz.fr^
 ||adguard.titov.es^
 ||adguard.tmdproject.nl^
@@ -1475,6 +1474,7 @@
 ||dns.marcbond.uk^
 ||dns.marschi.de^
 ||dns.mateo.ovh^
+||dns.mathewakhil.online^
 ||dns.matthias-prost.com^
 ||dns.maybe.icu^
 ||dns.mayr.ws^
@@ -3352,6 +3352,7 @@
 ||quantumpulse.dev^
 ||query.hdns.io^
 ||query.mobyds.com^
+||quic.lol^
 ||r.9132706292.cloudns.be^
 ||r1bnc.com^
 ||r1bnc.eu.org^
@@ -3544,7 +3545,6 @@
 ||sg.rslvr.eu^
 ||sg.telex.app^
 ||sg.teradns.org^
-||sg.yepdns.com^
 ||sg01.dns4me.net^
 ||sg1.dnswarden.com^
 ||sg2.ooroot.com^
