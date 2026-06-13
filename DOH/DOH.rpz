@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2606120303 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2606130308 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2026-06-12 03:03:01 (UTC)
+; Last updated: 2026-06-13 03:08:27 (UTC)
 ;
 ; See https://jpgpi250.github.io/piholemanual/doc/Unbound%20response%20policy%20zones.pdf
 ; Report issues at https://github.com/jpgpi250/piholemanual/issues
@@ -1139,6 +1139,7 @@ dns.daryllswer.net CNAME .
 dns.datenquark.de CNAME .
 dns.david888.com CNAME .
 dns.daw.dev CNAME .
+dns.de.futuredns.eu.org CNAME .
 dns.deadsec.net CNAME .
 dns.decky.eu CNAME .
 dns.decloudus.com CNAME .
@@ -1817,6 +1818,7 @@ dns.unx.io CNAME .
 dns.uplenk.com CNAME .
 dns.us-ashburn-1.oraclecloud.com CNAME .
 dns.us-phoenix-1.oraclecloud.com CNAME .
+dns.us.futuredns.eu.org CNAME .
 dns.usualposts.xyz CNAME .
 dns.vaguthu.mv CNAME .
 dns.vaioswolke.xyz CNAME .
@@ -2278,6 +2280,7 @@ doh.valscosmos.com CNAME .
 doh.viatech.com.tw CNAME .
 doh.vpsdns.co.za CNAME .
 doh.webnmail.de CNAME .
+doh.westeu.pi-dns.com CNAME .
 doh.westus.pi-dns.com CNAME .
 doh.wewitro.net CNAME .
 doh.xcom.pro CNAME .
@@ -2471,6 +2474,7 @@ funti.cc CNAME .
 funtikspb.ru CNAME .
 furrytech.io CNAME .
 futurearts.cc CNAME .
+futuredns.eu.org CNAME .
 fvpn.jarvishome.ru CNAME .
 fwgw.orangepipc.mywire.org CNAME .
 gaia.plonknet.com CNAME .
