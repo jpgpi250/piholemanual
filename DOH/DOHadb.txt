@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2026-06-12 03:42:44 (UTC)
+! Last updated: 2026-06-13 03:48:04 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -1135,6 +1135,7 @@
 ||dns.datenquark.de^
 ||dns.david888.com^
 ||dns.daw.dev^
+||dns.de.futuredns.eu.org^
 ||dns.deadsec.net^
 ||dns.decky.eu^
 ||dns.decloudus.com^
@@ -1813,6 +1814,7 @@
 ||dns.uplenk.com^
 ||dns.us-ashburn-1.oraclecloud.com^
 ||dns.us-phoenix-1.oraclecloud.com^
+||dns.us.futuredns.eu.org^
 ||dns.usualposts.xyz^
 ||dns.vaguthu.mv^
 ||dns.vaioswolke.xyz^
@@ -2274,6 +2276,7 @@
 ||doh.viatech.com.tw^
 ||doh.vpsdns.co.za^
 ||doh.webnmail.de^
+||doh.westeu.pi-dns.com^
 ||doh.westus.pi-dns.com^
 ||doh.wewitro.net^
 ||doh.xcom.pro^
@@ -2467,6 +2470,7 @@
 ||funtikspb.ru^
 ||furrytech.io^
 ||futurearts.cc^
+||futuredns.eu.org^
 ||fvpn.jarvishome.ru^
 ||fwgw.orangepipc.mywire.org^
 ||gaia.plonknet.com^
