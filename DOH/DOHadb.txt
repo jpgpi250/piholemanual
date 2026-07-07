@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2026-07-05 04:18:08 (UTC)
+! Last updated: 2026-07-06 04:06:31 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -1312,7 +1312,6 @@
 ||dns.home.beckett.io^
 ||dns.home.daniil.it^
 ||dns.homenet.saschagaspar.net^
-||dns.hoody.com^
 ||dns.hopkinton.online^
 ||dns.hopsken.com^
 ||dns.horcrux.vip^
