@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2607070349 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2607080336 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2026-07-07 03:49:19 (UTC)
+; Last updated: 2026-07-08 03:36:00 (UTC)
 ;
 ; See https://jpgpi250.github.io/piholemanual/doc/Unbound%20response%20policy%20zones.pdf
 ; Report issues at https://github.com/jpgpi250/piholemanual/issues
@@ -182,6 +182,7 @@ adguard-dns.eu.org CNAME .
 adguard-dns.rouga.ch CNAME .
 adguard-home.de CNAME .
 adguard-home.myddns.me CNAME .
+adguard-ironhide.ultima-thule.ru CNAME .
 adguard-kartoffel.zernico.de CNAME .
 adguard-koe.dns64.de CNAME .
 adguard-server.pp.ua CNAME .
@@ -3237,7 +3238,6 @@ ordns.he.net CNAME .
 ore-dns.bitdefender.net CNAME .
 orjp4.lz0724.com CNAME .
 orpi.privado.ovh CNAME .
-oscnl.site CNAME .
 osefcorp.duckdns.org CNAME .
 othernj.drahonn.pro CNAME .
 ott01.dnscry.pt CNAME .
@@ -3313,6 +3313,7 @@ pm9352-bd.xyz CNAME .
 pmo01.dnscry.pt CNAME .
 pns2.sadraidc.com CNAME .
 polisitogel.beauty CNAME .
+polisitogel.contractors CNAME .
 polisitogel.hair CNAME .
 polisitogel.show CNAME .
 polisitogel.webcam CNAME .
