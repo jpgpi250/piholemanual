@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2026-07-08 04:24:28 (UTC)
+! Last updated: 2026-07-09 04:29:04 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -1038,6 +1038,7 @@
 ||dns.benpro.fr^
 ||dns.bermeitinger.eu^
 ||dns.beta.gandi.net^
+||dns.bezmezhau.com^
 ||dns.bgeneto.com^
 ||dns.bibica.net^
 ||dns.bibitos.cc^
