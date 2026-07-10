@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2607090340 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2607100356 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2026-07-09 03:40:42 (UTC)
+; Last updated: 2026-07-10 03:56:29 (UTC)
 ;
 ; See https://jpgpi250.github.io/piholemanual/doc/Unbound%20response%20policy%20zones.pdf
 ; Report issues at https://github.com/jpgpi250/piholemanual/issues
@@ -1016,6 +1016,7 @@ dns.ares-taiwan.com CNAME .
 dns.arkbotech.com CNAME .
 dns.articrevised.cc CNAME .
 dns.artikel10.org CNAME .
+dns.as212683.net CNAME .
 dns.ashleyjackson.net CNAME .
 dns.asterimoon.com CNAME .
 dns.asysec.com CNAME .
@@ -3924,7 +3925,6 @@ waw02.dnscry.pt CNAME .
 waydnes.ru CNAME .
 wazuh.arashi.solutions CNAME .
 wdns.233py.com CNAME .
-web-rated.ie CNAME .
 webdav.cubecloud.win CNAME .
 webmail.drahonn.pro CNAME .
 webteufel-it.solutions CNAME .
