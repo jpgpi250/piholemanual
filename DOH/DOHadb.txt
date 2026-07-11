@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2026-07-09 04:29:04 (UTC)
+! Last updated: 2026-07-10 04:44:45 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -1012,6 +1012,7 @@
 ||dns.arkbotech.com^
 ||dns.articrevised.cc^
 ||dns.artikel10.org^
+||dns.as212683.net^
 ||dns.ashleyjackson.net^
 ||dns.asterimoon.com^
 ||dns.asysec.com^
@@ -3920,7 +3921,6 @@
 ||waydnes.ru^
 ||wazuh.arashi.solutions^
 ||wdns.233py.com^
-||web-rated.ie^
 ||webdav.cubecloud.win^
 ||webmail.drahonn.pro^
 ||webteufel-it.solutions^
