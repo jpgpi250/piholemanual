@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2026-07-10 04:44:45 (UTC)
+! Last updated: 2026-07-11 04:41:18 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -2878,7 +2878,6 @@
 ||krafty31.duckdns.org^
 ||krdns.cola16.app^
 ||kronos.plan9-dns.com^
-||kronos.plan9dns.com^
 ||krtekvpn.duckdns.org^
 ||kstdownload.com^
 ||kswro.web.id^
