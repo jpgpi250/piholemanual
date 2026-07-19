@@ -1,6 +1,8 @@
 ##
 ## https://raw.githubusercontent.com/bambenek/block-doh/master/doh-hosts.txt
 ##
+2001:4860:4860::64
+2001:4860:4860::6464
 2001:4860:4860::8844
 2001:4860:4860::8888
 2400:6180:0:d0::5f73:4001
