@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2026-07-29 05:05:05 (UTC)
+! Last updated: 2026-07-30 04:55:15 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -300,6 +300,7 @@
 ||adguard.myddns.org^
 ||adguard.nasaud.info^
 ||adguard.neelyha.tk^
+||adguard.neon0404.space^
 ||adguard.netmasc.services^
 ||adguard.nielsenhost.dk^
 ||adguard.niko-sem.com^
@@ -1121,6 +1122,7 @@
 ||dns.controld.com^
 ||dns.cooluc.com^
 ||dns.corefusion.xyz^
+||dns.criena.net^
 ||dns.cryptomize.com^
 ||dns.crystalyx.net^
 ||dns.csaonline.de^
