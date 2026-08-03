@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2026-08-01 03:50:46 (UTC)
+! Last updated: 2026-08-02 04:20:12 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -36,7 +36,6 @@
 ||2.dnscrypt-cert.blahdns.com^
 ||2.dnscrypt-cert.browser.yandex.net^
 ||2.dnscrypt-cert.captnemo.in^
-||2.dnscrypt-cert.dns.arapurayil.com^
 ||2.dnscrypt-cert.dns.seby.io^
 ||2.dnscrypt-cert.ffmuc.net^
 ||2.dnscrypt-cert.opendns.com^
@@ -837,7 +836,6 @@
 ||ddns.martinmore.online^
 ||dds.wpme.pl^
 ||de-adguard.dr3ff1c13nt.com^
-||de-ber.doh.sb^
 ||de-dus.doh.sb^
 ||de-f1.foxyfy.net^
 ||de-fra-w-f-1.nashkan.net^
@@ -1144,7 +1142,6 @@
 ||dns.datenquark.de^
 ||dns.david888.com^
 ||dns.daw.dev^
-||dns.de.futuredns.eu.org^
 ||dns.deadsec.net^
 ||dns.decky.eu^
 ||dns.decloudus.com^
@@ -1702,7 +1699,6 @@
 ||dns.scapetical.com^
 ||dns.scarx.net^
 ||dns.scayn.com^
-||dns.schimtar.com^
 ||dns.schlagheck.berlin^
 ||dns.schmidt-zoarn.de^
 ||dns.scott-smith.us^
@@ -1822,7 +1818,6 @@
 ||dns.uplenk.com^
 ||dns.us-ashburn-1.oraclecloud.com^
 ||dns.us-phoenix-1.oraclecloud.com^
-||dns.us.futuredns.eu.org^
 ||dns.usualposts.xyz^
 ||dns.vaguthu.mv^
 ||dns.vaioswolke.xyz^
@@ -2032,7 +2027,6 @@
 ||dnsforge.de^
 ||dnsguard.hte.vn^
 ||dnsguard.pub^
-||dnsk.schimtar.com^
 ||dnslow.me^
 ||dnsmm.mywire.org^
 ||dnsnl-noads.alekberg.net^
@@ -2103,7 +2097,6 @@
 ||doh.abmb.win^
 ||doh.abraservice.xyz^
 ||doh.aipps.vip^
-||doh.alidns.com^
 ||doh.almir1904.eu^
 ||doh.amonsul.net^
 ||doh.angry.im^
@@ -2303,7 +2296,6 @@
 ||doh.zknt.org^
 ||doh.zln.wtf^
 ||doh003.280blocker.net^
-||doh1.alidns.com^
 ||doh1.b-cdn.net^
 ||doh1.blahdns.com^
 ||doh2.abmb.win^
@@ -2385,7 +2377,6 @@
 ||europe.doh.sb^
 ||evn01.dnscry.pt^
 ||eweyo.duckdns.org^
-||example.doh.blockerdns.com^
 ||excelkin.online^
 ||exns1.exalto.nu^
 ||extended.dns.mullvad.net^
@@ -2416,7 +2407,6 @@
 ||family.dot.dns.yandex.net^
 ||family.freedns.controld.com^
 ||family.mydns.network^
-||family.puredns.org^
 ||family.rabbitdns.org^
 ||familyshield.opendns.com^
 ||fanscloud.net^
@@ -2885,7 +2875,6 @@
 ||krtekvpn.duckdns.org^
 ||kstdownload.com^
 ||kswro.web.id^
-||kuaishou.httpdns.pro^
 ||kudns.kescher.at^
 ||kwas24izynek74.ddns.net^
 ||kx-97795-tr.xyz^
@@ -2931,7 +2920,6 @@
 ||llk01.dnscry.pt^
 ||loadlow.me^
 ||loan.paymdm.xyz^
-||lofter.httpdns.c.163.com^
 ||logs.danamas.net^
 ||lomoff.spb.ru^
 ||lon01.dnscry.pt^
@@ -2965,7 +2953,6 @@
 ||mail.drahonn.pro^
 ||mail.hilton-groups.com^
 ||mail.vik.ro^
-||mail.xiaoxinhui.cn^
 ||mailer.amlegion.org^
 ||mailkyb.co^
 ||maincloud.ir^
@@ -3012,7 +2999,6 @@
 ||mipelinusa.ddns.net^
 ||mipelinusa.duckdns.org^
 ||mistasinresolver.ru^
-||mk.skynetinternet.com.br^
 ||mnl01.dnscry.pt^
 ||mnsvless.ikwb.com^
 ||moamao.shop^
@@ -3037,7 +3023,6 @@
 ||muli.stusta.mhn.de^
 ||multi.dns.marbledfennec.net^
 ||muppy.pnamae.com^
-||music.httpdns.c.163.com^
 ||muxyuji.ru^
 ||mx1.laoxiao789.com^
 ||my.8484848.cn^
@@ -3205,7 +3190,6 @@
 ||oci02.at9.eu^
 ||oculta.me^
 ||odoh-target-noads-se.alekberg.net^
-||odoh-target-noads.alekberg.net^
 ||odoh-target-se.alekberg.net^
 ||odoh-target.alekberg.net^
 ||odoh.cloudflare-dns.com^
@@ -3346,12 +3330,8 @@
 ||pub.hsuan.ink^
 ||public-dns-a.dns.sb^
 ||public-dns-b.dns.sb^
-||public.alidns.com^
 ||public.dns.iij.jp^
 ||public.ns.nwps.fi^
-||public2.alidns.com^
-||public254.alidns.com^
-||public99.alidns.com^
 ||publicdnsserver.com^
 ||punono.duckdns.org^
 ||puredns.org^
@@ -3624,7 +3604,6 @@
 ||soporte-premium.duckdns.org^
 ||sorephie-dns2.ddns.net^
 ||spacedns.org^
-||speedtest.skynetinternet.com.br^
 ||spotifyobs.drahonn.pro^
 ||sq.trin.icu^
 ||squidmall.vip^
@@ -3789,7 +3768,6 @@
 ||us-ash-w-f-1.nashkan.net^
 ||us-chi-w-f-1.nashkan.net^
 ||us-chi-w-p-1.nashkan.net^
-||us-chi.doh.sb^
 ||us-dal-w-p-1.nashkan.net^
 ||us-hil-w-f-1.nashkan.net^
 ||us-hil-w-p-1.nashkan.net^
@@ -3801,11 +3779,9 @@
 ||us-ny.foxyfy.net^
 ||us-nyc-w-f-1.nashkan.net^
 ||us-nyc-w-p-1.nashkan.net^
-||us-nyc.doh.sb^
 ||us-saj-w-f-1.nashkan.net^
 ||us-saj-w-p-1.nashkan.net^
 ||us-sj.foxyfy.net^
-||us-sjc.doh.sb^
 ||us.aab.im^
 ||us.doh.cloudveil.org^
 ||us.future-world.net^
@@ -3985,7 +3961,6 @@
 ||www.elshad-adgh-dns.ru^
 ||www.fanscloud.net^
 ||www.ggrbb.xyz^
-||www.golegana.de^
 ||www.greppie.nl^
 ||www.hgrps.eu^
 ||www.incaseineeditoneday.com^
@@ -4010,7 +3985,6 @@
 ||www.qingmo.vip^
 ||www.rd-service.moscow^
 ||www.richardo.net^
-||www.skynetinternet.com.br^
 ||www.sukidayo.eu.org^
 ||www.surfbelow.com^
 ||www.svg33.eu^
