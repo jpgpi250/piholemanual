@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2608030323 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2608040325 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2026-08-03 03:23:15 (UTC)
+; Last updated: 2026-08-04 03:25:02 (UTC)
 ;
 ; See https://jpgpi250.github.io/piholemanual/doc/Unbound%20response%20policy%20zones.pdf
 ; Report issues at https://github.com/jpgpi250/piholemanual/issues
@@ -2320,6 +2320,7 @@ domain.name CNAME .
 domburg.beruys.com CNAME .
 domeq.waw.pl CNAME .
 dooh.cloudflare-dns.com CNAME .
+dooh.waterfox.net CNAME .
 door.plasmadancer.ru CNAME .
 dorkanddoodle.duckdns.org CNAME .
 douglas.mebrak.fr CNAME .
@@ -3194,6 +3195,7 @@ o1.lt CNAME .
 oci02.at9.eu CNAME .
 oculta.me CNAME .
 odoh-target-noads-se.alekberg.net CNAME .
+odoh-target-noads.alekberg.net CNAME .
 odoh-target-se.alekberg.net CNAME .
 odoh-target.alekberg.net CNAME .
 odoh.cloudflare-dns.com CNAME .
@@ -3903,6 +3905,7 @@ wallpap.eu CNAME .
 wanam.ddns.net CNAME .
 wandana.franklinfamily.au CNAME .
 wantaquddin.com CNAME .
+waterfox-ohttp-relay.fastly-edge.com CNAME .
 waw01.dnscry.pt CNAME .
 waw02.dnscry.pt CNAME .
 waydnes.ru CNAME .
