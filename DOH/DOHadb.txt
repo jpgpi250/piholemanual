@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2026-08-03 04:10:10 (UTC)
+! Last updated: 2026-08-04 04:12:11 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -2316,6 +2316,7 @@
 ||domburg.beruys.com^
 ||domeq.waw.pl^
 ||dooh.cloudflare-dns.com^
+||dooh.waterfox.net^
 ||door.plasmadancer.ru^
 ||dorkanddoodle.duckdns.org^
 ||douglas.mebrak.fr^
@@ -3190,6 +3191,7 @@
 ||oci02.at9.eu^
 ||oculta.me^
 ||odoh-target-noads-se.alekberg.net^
+||odoh-target-noads.alekberg.net^
 ||odoh-target-se.alekberg.net^
 ||odoh-target.alekberg.net^
 ||odoh.cloudflare-dns.com^
@@ -3899,6 +3901,7 @@
 ||wanam.ddns.net^
 ||wandana.franklinfamily.au^
 ||wantaquddin.com^
+||waterfox-ohttp-relay.fastly-edge.com^
 ||waw01.dnscry.pt^
 ||waw02.dnscry.pt^
 ||waydnes.ru^
