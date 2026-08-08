@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2608070334 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2608080344 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2026-08-07 03:34:06 (UTC)
+; Last updated: 2026-08-08 03:44:04 (UTC)
 ;
 ; See https://jpgpi250.github.io/piholemanual/doc/Unbound%20response%20policy%20zones.pdf
 ; Report issues at https://github.com/jpgpi250/piholemanual/issues
@@ -1268,7 +1268,6 @@ dns.fxdc.ru CNAME .
 dns.gamban.com CNAME .
 dns.gayanalysing.co.uk CNAME .
 dns.gearworks.app CNAME .
-dns.geekbyte.de CNAME .
 dns.geohide.ru CNAME .
 dns.getnoclip.link CNAME .
 dns.ghost.pm CNAME .
@@ -1553,6 +1552,7 @@ dns.neutopia.org CNAME .
 dns.nextdns.io CNAME .
 dns.nguyendn.com CNAME .
 dns.nhtsky.com CNAME .
+dns.nic.in CNAME .
 dns.niccoli.cc CNAME .
 dns.nick-slowinski.de CNAME .
 dns.nicolas.vip CNAME .
