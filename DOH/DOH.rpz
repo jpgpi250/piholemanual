@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2608090348 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2608100346 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2026-08-09 03:48:29 (UTC)
+; Last updated: 2026-08-10 03:46:13 (UTC)
 ;
 ; See https://jpgpi250.github.io/piholemanual/doc/Unbound%20response%20policy%20zones.pdf
 ; Report issues at https://github.com/jpgpi250/piholemanual/issues
@@ -2583,6 +2583,7 @@ hfgx.shop CNAME .
 hg8.asia CNAME .
 hgns.harriganhome.ga CNAME .
 hgrps.eu CNAME .
+himedns.com CNAME .
 himeko297.asuscomm.com CNAME .
 hitian.me CNAME .
 hk-adg.bluenight.me CNAME .
@@ -2697,6 +2698,7 @@ httpdnsvip.meituan.com CNAME .
 httpsdns.baidu.com CNAME .
 huntllcx.cn CNAME .
 huv01.dnscry.pt CNAME .
+hydra.plan9-ns1.com CNAME .
 i-puppy.ru CNAME .
 i.233py.com CNAME .
 i.233py.com.a.bdydns.com CNAME .
