@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2026-08-08 04:30:41 (UTC)
+! Last updated: 2026-08-09 04:35:17 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -3190,6 +3190,7 @@
 ||oci02.at9.eu^
 ||oculta.me^
 ||odoh-target-noads-se.alekberg.net^
+||odoh-target-noads.alekberg.net^
 ||odoh-target-se.alekberg.net^
 ||odoh-target.alekberg.net^
 ||odoh.cloudflare-dns.com^
