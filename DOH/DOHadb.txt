@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2026-08-09 04:35:17 (UTC)
+! Last updated: 2026-08-10 04:32:47 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -2579,6 +2579,7 @@
 ||hg8.asia^
 ||hgns.harriganhome.ga^
 ||hgrps.eu^
+||himedns.com^
 ||himeko297.asuscomm.com^
 ||hitian.me^
 ||hk-adg.bluenight.me^
@@ -2693,6 +2694,7 @@
 ||httpsdns.baidu.com^
 ||huntllcx.cn^
 ||huv01.dnscry.pt^
+||hydra.plan9-ns1.com^
 ||i-puppy.ru^
 ||i.233py.com^
 ||i.233py.com.a.bdydns.com^
