@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2026-08-13 03:16:31 (UTC)
+! Last updated: 2026-08-14 04:19:48 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -1188,6 +1188,7 @@
 ||dns.dynx.pro^
 ||dns.dzkji.cn^
 ||dns.east.comss.one^
+||dns.easyhns.com^
 ||dns.echpochmak-club.ru^
 ||dns.edc-pws.com^
 ||dns.eddi.net^
@@ -2610,6 +2611,7 @@
 ||hknat.ooguy.com^
 ||hkns.gzelvis.com^
 ||hkt.kozow.com^
+||hnsdoh.com^
 ||hockaday.synology.me^
 ||hole.elbschloss.xyz^
 ||home-server.store^
@@ -3193,6 +3195,7 @@
 ||oci02.at9.eu^
 ||oculta.me^
 ||odoh-target-noads-se.alekberg.net^
+||odoh-target-noads.alekberg.net^
 ||odoh-target-se.alekberg.net^
 ||odoh-target.alekberg.net^
 ||odoh.cloudflare-dns.com^
