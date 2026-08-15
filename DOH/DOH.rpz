@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2608140332 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2608150355 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2026-08-14 03:32:02 (UTC)
+; Last updated: 2026-08-15 03:55:02 (UTC)
 ;
 ; See https://jpgpi250.github.io/piholemanual/doc/Unbound%20response%20policy%20zones.pdf
 ; Report issues at https://github.com/jpgpi250/piholemanual/issues
@@ -181,7 +181,6 @@ adguard-dns.eu.org CNAME .
 adguard-dns.rouga.ch CNAME .
 adguard-home.de CNAME .
 adguard-home.myddns.me CNAME .
-adguard-ironhide.ultima-thule.ru CNAME .
 adguard-kartoffel.zernico.de CNAME .
 adguard-koe.dns64.de CNAME .
 adguard-server.pp.ua CNAME .
@@ -1573,7 +1572,6 @@ dns.novali.date CNAME .
 dns.novg.net CNAME .
 dns.npe.bz CNAME .
 dns.npsolution.it CNAME .
-dns.ntccloud.vn CNAME .
 dns.ntr.lol CNAME .
 dns.nubecita.biz CNAME .
 dns.nullgate.net CNAME .
@@ -2709,7 +2707,6 @@ i.9132706292.cloudns.be CNAME .
 i.dns-over-https.tk CNAME .
 i.passcloud.xyz CNAME .
 iah01.dnscry.pt CNAME .
-iana.tenta.io CNAME .
 ib.systems CNAME .
 ibksturm.synology.me CNAME .
 ibuki.cgnat.net CNAME .
@@ -2848,7 +2845,6 @@ kids.ns.nwps.fi CNAME .
 kids.vietdns.vn CNAME .
 kihn.org CNAME .
 kilabit.info CNAME .
-killads.vpms.xyz CNAME .
 kintoun.alves.cc CNAME .
 kiri.nonexiste.net CNAME .
 kirov.unicom.cloudns.be CNAME .
@@ -3223,7 +3219,6 @@ openbld.net CNAME .
 opencdn.jomodns.com CNAME .
 opendns.one CNAME .
 opennic.i2pd.xyz CNAME .
-opennic.tenta.io CNAME .
 opennic1.eth-services.de CNAME .
 opennic2.i2pd.xyz CNAME .
 opera.cloudflare-dns.com CNAME .
@@ -3693,7 +3688,6 @@ tia01.dnscry.pt CNAME .
 tienpham.id.vn CNAME .
 tiger.dns.qwer.pw CNAME .
 tigrons.ru CNAME .
-timedns.net CNAME .
 timmes.nl CNAME .
 tj.jamesxue.xyz CNAME .
 tk2-404-43267.vs.sakura.ne.jp CNAME .
