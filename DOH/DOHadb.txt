@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2026-08-14 04:19:48 (UTC)
+! Last updated: 2026-08-15 04:41:31 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -177,7 +177,6 @@
 ||adguard-dns.rouga.ch^
 ||adguard-home.de^
 ||adguard-home.myddns.me^
-||adguard-ironhide.ultima-thule.ru^
 ||adguard-kartoffel.zernico.de^
 ||adguard-koe.dns64.de^
 ||adguard-server.pp.ua^
@@ -1569,7 +1568,6 @@
 ||dns.novg.net^
 ||dns.npe.bz^
 ||dns.npsolution.it^
-||dns.ntccloud.vn^
 ||dns.ntr.lol^
 ||dns.nubecita.biz^
 ||dns.nullgate.net^
@@ -2705,7 +2703,6 @@
 ||i.dns-over-https.tk^
 ||i.passcloud.xyz^
 ||iah01.dnscry.pt^
-||iana.tenta.io^
 ||ib.systems^
 ||ibksturm.synology.me^
 ||ibuki.cgnat.net^
@@ -2844,7 +2841,6 @@
 ||kids.vietdns.vn^
 ||kihn.org^
 ||kilabit.info^
-||killads.vpms.xyz^
 ||kintoun.alves.cc^
 ||kiri.nonexiste.net^
 ||kirov.unicom.cloudns.be^
@@ -3219,7 +3215,6 @@
 ||opencdn.jomodns.com^
 ||opendns.one^
 ||opennic.i2pd.xyz^
-||opennic.tenta.io^
 ||opennic1.eth-services.de^
 ||opennic2.i2pd.xyz^
 ||opera.cloudflare-dns.com^
@@ -3689,7 +3684,6 @@
 ||tienpham.id.vn^
 ||tiger.dns.qwer.pw^
 ||tigrons.ru^
-||timedns.net^
 ||timmes.nl^
 ||tj.jamesxue.xyz^
 ||tk2-404-43267.vs.sakura.ne.jp^
