@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2026-08-16 04:51:58 (UTC)
+! Last updated: 2026-08-17 04:04:55 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -433,6 +433,7 @@
 ||adns.3am.la^
 ||adns.onlinetools.rocks^
 ||ads-doh.securedns.eu^
+||ads.hunga1k47.com^
 ||ads.therman.eu^
 ||ads.x88.in^
 ||adsl.viettel.vn^
@@ -1425,6 +1426,7 @@
 ||dns.kpsn.dev^
 ||dns.kriswerry.nl^
 ||dns.krol.cloud^
+||dns.kugoapps.com^
 ||dns.kukal.cz^
 ||dns.kusoneko.moe^
 ||dns.kuuhaku.moe^
