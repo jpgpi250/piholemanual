@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2026-08-21 03:20:10 (UTC)
+! Last updated: 2026-08-22 04:59:58 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -3316,7 +3316,6 @@
 ||prdot.cldsrv.es^
 ||premiumtier-network.instadart.net^
 ||prg01.dnscry.pt^
-||princez.uk^
 ||privacy.plumedns.com^
 ||privacydns.go6lab.si^
 ||private.canadianshield.cira.ca^
