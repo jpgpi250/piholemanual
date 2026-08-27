@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2608260254 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2608270332 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2026-08-26 02:54:39 (UTC)
+; Last updated: 2026-08-27 03:32:14 (UTC)
 ;
 ; See https://jpgpi250.github.io/piholemanual/doc/Unbound%20response%20policy%20zones.pdf
 ; Report issues at https://github.com/jpgpi250/piholemanual/issues
@@ -299,6 +299,7 @@ adguard.mcdrifter.de CNAME .
 adguard.meddy94.de CNAME .
 adguard.mokocup.cf CNAME .
 adguard.mokocup.dev CNAME .
+adguard.mrmartian.co CNAME .
 adguard.myddns.org CNAME .
 adguard.nasaud.info CNAME .
 adguard.neelyha.tk CNAME .
@@ -746,6 +747,7 @@ chuncheon.dnsovertor.cc CNAME .
 chungocoai.name.vn CNAME .
 chynik.duckdns.org CNAME .
 cintra.ml CNAME .
+cipherdns.co.za CNAME .
 circumitor.de CNAME .
 cld.996969.xyz CNAME .
 clean.dnsforge.de CNAME .
@@ -4009,6 +4011,7 @@ www.vpnhellings.nl CNAME .
 www.wg-aghome.freemyip.com CNAME .
 www.wiqi.top CNAME .
 www.ychk.ft1991.top CNAME .
+www.zburger.top CNAME .
 wyx.cloud CNAME .
 x-o-x.duckdns.org CNAME .
 x.laoban.fun CNAME .
