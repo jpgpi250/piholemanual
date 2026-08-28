@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2026-08-26 03:39:25 (UTC)
+! Last updated: 2026-08-27 04:17:13 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -295,6 +295,7 @@
 ||adguard.meddy94.de^
 ||adguard.mokocup.cf^
 ||adguard.mokocup.dev^
+||adguard.mrmartian.co^
 ||adguard.myddns.org^
 ||adguard.nasaud.info^
 ||adguard.neelyha.tk^
@@ -742,6 +743,7 @@
 ||chungocoai.name.vn^
 ||chynik.duckdns.org^
 ||cintra.ml^
+||cipherdns.co.za^
 ||circumitor.de^
 ||cld.996969.xyz^
 ||clean.dnsforge.de^
@@ -4005,6 +4007,7 @@
 ||www.wg-aghome.freemyip.com^
 ||www.wiqi.top^
 ||www.ychk.ft1991.top^
+||www.zburger.top^
 ||wyx.cloud^
 ||x-o-x.duckdns.org^
 ||x.laoban.fun^
