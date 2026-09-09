@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2609080128 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2609090130 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2026-09-08 01:28:40 (UTC)
+; Last updated: 2026-09-09 01:30:56 (UTC)
 ;
 ; See https://jpgpi250.github.io/piholemanual/doc/Unbound%20response%20policy%20zones.pdf
 ; Report issues at https://github.com/jpgpi250/piholemanual/issues
@@ -818,7 +818,6 @@ family.adguarddns.com CNAME .
 buh01.dnscry.pt CNAME .
 mci01.dnscry.pt CNAME .
 jkt01.dnscry.pt CNAME .
-doh64.dns4all.eu CNAME .
 cpt01.dnscry.pt CNAME .
 dus03.dnscry.pt CNAME .
 yhz01.dnscry.pt CNAME .
@@ -3728,6 +3727,7 @@ kevinss-us-1.kevinss886.de5.net CNAME .
 adguard.dessoi.cloud CNAME .
 eka.dilli.dev CNAME .
 home.dlinkddns.com CNAME .
+doh64.dns4all.eu CNAME .
 srv01.dns64.de CNAME .
 srv02.dns64.de CNAME .
 srv03.dns64.de CNAME .
@@ -3816,9 +3816,7 @@ adguard.kalyanmudumby.com CNAME .
 dns.kc2wbx.com CNAME .
 adguard.kngnet.de CNAME .
 hdns.ksyun.com CNAME .
-dns.labnekotest.site CNAME .
 adguard.laurenlaufman.com CNAME .
-dns.lightmaster.pw CNAME .
 dns.lilith.cloud CNAME .
 adgaurd.lingmont.net CNAME .
 dns.linkr.ninja CNAME .
@@ -3836,11 +3834,9 @@ dns.mipauns.com CNAME .
 httpdns.browser.miui.com CNAME .
 adguard.mokocup.dev CNAME .
 dns.motazhakim.com CNAME .
-adguard.mrmartian.co CNAME .
 dns.msxnet.ru CNAME .
 dns.muxinghe.cn CNAME .
 x210-131-219-118.static.xvps.ne.jp CNAME .
-adguard.neon0404.space CNAME .
 httpdns.n.netease.com CNAME .
 httpdns-sdk.n.netease.com CNAME .
 rockstars.netphoenix.ru CNAME .
@@ -3851,7 +3847,6 @@ edge.nextdns.io CNAME .
 adguard.nielsenhost.dk CNAME .
 dns.nxsyspro.com CNAME .
 ha.o51r15.com CNAME .
-dns.olpploiopkuyhiopsfrt.info CNAME .
 adguard.oms-ctr.ru CNAME .
 2.dnscrypt-cert.opendns.com CNAME .
 adblock.opendoh.com CNAME .
