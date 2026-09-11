@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2609100112 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2609110114 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2026-09-10 01:12:17 (UTC)
+; Last updated: 2026-09-11 01:14:26 (UTC)
 ;
 ; See https://jpgpi250.github.io/piholemanual/doc/Unbound%20response%20policy%20zones.pdf
 ; Report issues at https://github.com/jpgpi250/piholemanual/issues
@@ -818,7 +818,6 @@ family.adguarddns.com CNAME .
 buh01.dnscry.pt CNAME .
 mci01.dnscry.pt CNAME .
 jkt01.dnscry.pt CNAME .
-doh64.dns4all.eu CNAME .
 cpt01.dnscry.pt CNAME .
 dus03.dnscry.pt CNAME .
 yhz01.dnscry.pt CNAME .
@@ -1127,7 +1126,6 @@ adguard.depieri.net CNAME .
 doh.immerda.ch CNAME .
 ueni.dyndns.org CNAME .
 dnsblock.grisumedia.de CNAME .
-dns.immanuelschaffer.de CNAME .
 dns.clanto.cloud CNAME .
 dns.scuola.org CNAME .
 d.adguard-dns.com CNAME .
@@ -1280,7 +1278,6 @@ himedns.com CNAME .
 sg.yepdns.com CNAME .
 dns.853852.xyz CNAME .
 2.dns.noridev.moe CNAME .
-gustamadh.dynv6.net CNAME .
 dns.jundev.org CNAME .
 dns.hujiayucc.cn CNAME .
 dns.yuu-g.net CNAME .
@@ -1433,6 +1430,10 @@ dns.moog.sh CNAME .
 eu.tri-dns.net CNAME .
 dns.michelo.cl CNAME .
 dns.hakim.one CNAME .
+dns.edgeburnmedia.com CNAME .
+dns.guardmydns.com CNAME .
+doh.thio.me CNAME .
+tlz.asia CNAME .
 doh-primary-pool.goodbyegambling.com CNAME .
 adguard.haneulo.com CNAME .
 5g.o0o.re CNAME .
@@ -1467,7 +1468,6 @@ doh.archuser.org CNAME .
 dns.zfsystem.tech CNAME .
 dns.comeonjames.club CNAME .
 sdns22.gkonuralp.com CNAME .
-yuvelirtut.website CNAME .
 dns.aaytorr.com CNAME .
 dns.cahlen.com CNAME .
 dns.chilimac.net CNAME .
@@ -2143,6 +2143,7 @@ s.hd440.de CNAME .
 cloud2.holzmannclouddns.de CNAME .
 adguard01.homepeter.de CNAME .
 dns.hussainnabil.de CNAME .
+dns.immanuelschaffer.de CNAME .
 jabber-server.de CNAME .
 dmjp.joeyl.de CNAME .
 kallemarc.de CNAME .
@@ -3502,6 +3503,7 @@ larkin.wang CNAME .
 x.res.wang CNAME .
 dns.wns.watch CNAME .
 dnsbk.wns.watch CNAME .
+yuvelirtut.website CNAME .
 sdns.zakaria.website CNAME .
 www.urology.wiki CNAME .
 webdav.cubecloud.win CNAME .
@@ -3724,6 +3726,7 @@ kevinss-us-1.kevinss886.de5.net CNAME .
 adguard.dessoi.cloud CNAME .
 eka.dilli.dev CNAME .
 home.dlinkddns.com CNAME .
+doh64.dns4all.eu CNAME .
 srv01.dns64.de CNAME .
 srv02.dns64.de CNAME .
 srv03.dns64.de CNAME .
@@ -3747,7 +3750,7 @@ gcpddns.duckdns.org CNAME .
 nas1403.duckdns.org CNAME .
 unixfox.duckdns.org CNAME .
 x-o-x.duckdns.org CNAME .
-dns.edgeburnmedia.com CNAME .
+gustamadh.dynv6.net CNAME .
 jp.dns.bliod.eu.org CNAME .
 doh.excdn.eu.org CNAME .
 dns.lvqing.eu.org CNAME .
@@ -3768,7 +3771,6 @@ adguard2.frece.de CNAME .
 adguard.ghkyzz.us CNAME .
 doh.ptqy.gitv.tv CNAME .
 dns.gsmseti.net CNAME .
-dns.guardmydns.com CNAME .
 dns.gupthabrothers.in CNAME .
 dns.h0schi.cloud CNAME .
 dns2.h0schi.cloud CNAME .
@@ -3881,11 +3883,9 @@ us.rslvr.eu CNAME .
 dns.safko.eu CNAME .
 adguard.sealyserver.com CNAME .
 dns.seiffert.me CNAME .
-dns.sheggi.ch CNAME .
 httpdns.n.shifen.com CNAME .
 dns.shimul.me CNAME .
 nl.dns.shx.su CNAME .
-proxy.srs.su CNAME .
 adguard.strafer.dk CNAME .
 dns.suhaila.dev CNAME .
 grandmaster.sytes.net CNAME .
@@ -3897,7 +3897,6 @@ dns1.techeasy.org CNAME .
 homenet.telecomitalia.it CNAME .
 apne1.dns.terumi.club CNAME .
 dns.thegoodsource.net CNAME .
-doh.thio.me CNAME .
 dns.thiz.top CNAME .
 sdkconfig.tlivedns.com CNAME .
 dns.truong.fi CNAME .
@@ -3980,7 +3979,6 @@ schimtar.com CNAME .
 shalenkov.dev CNAME .
 shitblocker.com CNAME .
 tigrons.ru CNAME .
-tlz.asia CNAME .
 toaster.lol CNAME .
 unasw.eu CNAME .
 uncensoreddns.org CNAME .
