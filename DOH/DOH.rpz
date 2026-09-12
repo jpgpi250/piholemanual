@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2609110114 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2609120114 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2026-09-11 01:14:26 (UTC)
+; Last updated: 2026-09-12 01:14:05 (UTC)
 ;
 ; See https://jpgpi250.github.io/piholemanual/doc/Unbound%20response%20policy%20zones.pdf
 ; Report issues at https://github.com/jpgpi250/piholemanual/issues
@@ -835,7 +835,6 @@ dns.nic.in CNAME .
 agh.kyusang.win CNAME .
 block.abstergo.it CNAME .
 doh.pi-dns.com CNAME .
-easyhandshake.com CNAME .
 ko-18948-tr.xyz CNAME .
 kz-pav-w-p-1.nashkan.net CNAME .
 qual.cuprum.ru CNAME .
@@ -1126,6 +1125,7 @@ adguard.depieri.net CNAME .
 doh.immerda.ch CNAME .
 ueni.dyndns.org CNAME .
 dnsblock.grisumedia.de CNAME .
+dns.immanuelschaffer.de CNAME .
 dns.clanto.cloud CNAME .
 dns.scuola.org CNAME .
 d.adguard-dns.com CNAME .
@@ -1466,7 +1466,6 @@ dns.pccoach.nl CNAME .
 adguard.hartley.cloud CNAME .
 doh.archuser.org CNAME .
 dns.zfsystem.tech CNAME .
-dns.comeonjames.club CNAME .
 sdns22.gkonuralp.com CNAME .
 dns.aaytorr.com CNAME .
 dns.cahlen.com CNAME .
@@ -1864,6 +1863,7 @@ roucious.dyndns-remote.com CNAME .
 rafi.dynns.com CNAME .
 saomai.dynu.com CNAME .
 safe.eaccelera.com CNAME .
+easyhandshake.com CNAME .
 dns.edc-pws.com CNAME .
 adguard.elrobit.com CNAME .
 dnssec.dns.enginyring.com CNAME .
@@ -2143,7 +2143,6 @@ s.hd440.de CNAME .
 cloud2.holzmannclouddns.de CNAME .
 adguard01.homepeter.de CNAME .
 dns.hussainnabil.de CNAME .
-dns.immanuelschaffer.de CNAME .
 jabber-server.de CNAME .
 dmjp.joeyl.de CNAME .
 kallemarc.de CNAME .
@@ -3706,6 +3705,7 @@ cipherdns.co.za CNAME .
 dns.ceai.com.tw CNAME .
 allain.com.br CNAME .
 skynetinternet.com.br CNAME .
+dns.comeonjames.club CNAME .
 dns.cooluc.com CNAME .
 httpdns.platform.dbankcloud.cn CNAME .
 httpdns.platform.dbankcloud.com CNAME .
@@ -3904,7 +3904,6 @@ my.ublockdns.com CNAME .
 adguard.vape.ong CNAME .
 kids.vietdns.vn CNAME .
 dns2.vinc.me CNAME .
-dns.vinokurov.tk CNAME .
 ad.visbran.fr CNAME .
 httpdns.volcengineapi.com CNAME .
 dooh.waterfox.net CNAME .
@@ -3982,12 +3981,10 @@ tigrons.ru CNAME .
 toaster.lol CNAME .
 unasw.eu CNAME .
 uncensoreddns.org CNAME .
-wantaquddin.com CNAME .
 wiqi.top CNAME .
 xbox-dns.ru CNAME .
 xiaoxinhui.cn CNAME .
 xins.live CNAME .
-xorbiadns.com CNAME .
 zburger.top CNAME .
 aattwwss.duckdns.org CNAME .
 adguardh.ga CNAME .
@@ -4068,6 +4065,7 @@ dns-east.tylerwahl.com CNAME .
 vpservice.cf CNAME .
 vvmm.me CNAME .
 dns.wakgood.net CNAME .
+wantaquddin.com CNAME .
 xthwo.duckdns.org CNAME .
 ychen.ga CNAME .
 ns1.1899.com.mx CNAME .
