@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2026-09-10 01:43:29 (UTC)
+! Last updated: 2026-09-11 01:46:02 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -1712,7 +1712,6 @@
 ||dns.sgp.hicn.site^
 ||dns.shareworx.net^
 ||dns.shecan.ir^
-||dns.sheggi.ch^
 ||dns.shimul.me^
 ||dns.shrike.ru^
 ||dns.sildom.me^
@@ -3311,7 +3310,6 @@
 ||protected.canadianshield.cira.ca^
 ||protective.joindns4.eu^
 ||proxjdf.jamesferrand.fr^
-||proxy.srs.su^
 ||ps1.modr.club^
 ||psociety.de^
 ||pub.hsuan.ink^
