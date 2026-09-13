@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2026-09-11 01:46:02 (UTC)
+! Last updated: 2026-09-12 01:45:23 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -1824,7 +1824,6 @@
 ||dns.venclous.org^
 ||dns.vietdns.vn^
 ||dns.vinnyp.xyz^
-||dns.vinokurov.tk^
 ||dns.vip-kingstore.xyz^
 ||dns.virtual-qr.ir^
 ||dns.vk09.ru^
@@ -4013,7 +4012,6 @@
 ||xn--80aeak3akfgk.xn--p1acf^
 ||xn--80aecoigf4aatn.xn--p1ai^
 ||xn--durhre-yxa.de^
-||xorbiadns.com^
 ||xpen.ns01.info^
 ||xray.krnl.eu^
 ||xthwo.duckdns.org^
