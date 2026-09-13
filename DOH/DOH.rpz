@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2609120114 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2609130108 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2026-09-12 01:14:05 (UTC)
+; Last updated: 2026-09-13 01:08:26 (UTC)
 ;
 ; See https://jpgpi250.github.io/piholemanual/doc/Unbound%20response%20policy%20zones.pdf
 ; Report issues at https://github.com/jpgpi250/piholemanual/issues
@@ -3918,7 +3918,6 @@ dns.wryhf.com CNAME .
 ads.x88.in CNAME .
 dns.xusqui.com CNAME .
 2.dnscrypt-cert.browser.yandex.net CNAME .
-net01.youcef.io CNAME .
 dns.youni.win CNAME .
 dns2.ytpom.ru CNAME .
 httpdns.yunxindns.com CNAME .
