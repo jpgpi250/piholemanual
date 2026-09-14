@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2609130108 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2609140107 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2026-09-13 01:08:26 (UTC)
+; Last updated: 2026-09-14 01:07:28 (UTC)
 ;
 ; See https://jpgpi250.github.io/piholemanual/doc/Unbound%20response%20policy%20zones.pdf
 ; Report issues at https://github.com/jpgpi250/piholemanual/issues
@@ -818,6 +818,7 @@ family.adguarddns.com CNAME .
 buh01.dnscry.pt CNAME .
 mci01.dnscry.pt CNAME .
 jkt01.dnscry.pt CNAME .
+doh64.dns4all.eu CNAME .
 cpt01.dnscry.pt CNAME .
 dus03.dnscry.pt CNAME .
 yhz01.dnscry.pt CNAME .
@@ -1310,7 +1311,6 @@ dns2.guidocioni.it CNAME .
 adguard.senthil.us CNAME .
 switch.ch CNAME .
 ad.tzockt.beer CNAME .
-mainframe.dewed.de CNAME .
 dns.txq.life CNAME .
 dns.vmath.my.id CNAME .
 emby.rasp.tv CNAME .
@@ -1457,7 +1457,6 @@ dns.akbxr.com CNAME .
 jpdns.cola16.app CNAME .
 dns.chromeina.top CNAME .
 sg2.ooroot.com CNAME .
-jp1.f7b6h9.tk CNAME .
 ns.mtsoln.com CNAME .
 dns.9999.sg CNAME .
 dns.thebuckners.org CNAME .
@@ -1477,7 +1476,6 @@ us-saj-w-f-1.nashkan.net CNAME .
 us1.blissdns.net CNAME .
 dns.surobe.com CNAME .
 dns.svoi.dev CNAME .
-de.dns.privex.io CNAME .
 dns.ourvau.lt CNAME .
 dns.redvau.lt CNAME .
 dns.vault81.de CNAME .
@@ -1500,7 +1498,6 @@ resolv2.trash.net CNAME .
 resolv3.trash.net CNAME .
 gb-cov-w-p-1.nashkan.net CNAME .
 asia.tri-dns.net CNAME .
-nl.dns.privex.io CNAME .
 ns.trcnet.fi CNAME .
 gb-lon-w-p-1.nashkan.net CNAME .
 ns4.opennameserver.org CNAME .
@@ -3357,6 +3354,7 @@ host8.248.cloudhost.in.th CNAME .
 doh.us.moe.tips CNAME .
 i.dns-over-https.tk CNAME .
 duyyen.tk CNAME .
+jp1.f7b6h9.tk CNAME .
 dns.kapoww.tk CNAME .
 guard.magic-pics.tk CNAME .
 adguard.neelyha.tk CNAME .
@@ -3724,9 +3722,9 @@ plichaa12.ddns.net CNAME .
 zapacasa.ddns.net CNAME .
 kevinss-us-1.kevinss886.de5.net CNAME .
 adguard.dessoi.cloud CNAME .
+mainframe.dewed.de CNAME .
 eka.dilli.dev CNAME .
 home.dlinkddns.com CNAME .
-doh64.dns4all.eu CNAME .
 srv01.dns64.de CNAME .
 srv02.dns64.de CNAME .
 srv03.dns64.de CNAME .
@@ -3862,6 +3860,8 @@ zxcvb.pp.ua CNAME .
 dns.privado.ovh CNAME .
 orpi.privado.ovh CNAME .
 oury.privado.ovh CNAME .
+de.dns.privex.io CNAME .
+nl.dns.privex.io CNAME .
 2.dnscrypt-cert.pumplex.com CNAME .
 httpdns.kg.qq.com CNAME .
 dns.weixin.qq.com CNAME .
