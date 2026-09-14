@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2026-09-12 01:45:23 (UTC)
+! Last updated: 2026-09-13 01:39:40 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -3061,7 +3061,6 @@
 ||nelsonleung.org^
 ||nephos.rocksolidtech.link^
 ||net.tt6.net^
-||net01.youcef.io^
 ||netcup.mismat.ch^
 ||newd.rezyro.com^
 ||newlibrarian.myqnapcloud.com^
