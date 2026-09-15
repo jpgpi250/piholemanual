@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2609140107 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2609150108 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2026-09-14 01:07:28 (UTC)
+; Last updated: 2026-09-15 01:08:20 (UTC)
 ;
 ; See https://jpgpi250.github.io/piholemanual/doc/Unbound%20response%20policy%20zones.pdf
 ; Report issues at https://github.com/jpgpi250/piholemanual/issues
@@ -1182,7 +1182,6 @@ d.apemlegit.my.id CNAME .
 doh.zephyrus.id CNAME .
 dns.goldplate.org CNAME .
 hk2.ooroot.com CNAME .
-squidmall.vip CNAME .
 solaxy.live CNAME .
 dns.ashleyjackson.net CNAME .
 dns.surfshark.com CNAME .
@@ -1279,6 +1278,7 @@ himedns.com CNAME .
 sg.yepdns.com CNAME .
 dns.853852.xyz CNAME .
 2.dns.noridev.moe CNAME .
+gustamadh.dynv6.net CNAME .
 dns.jundev.org CNAME .
 dns.hujiayucc.cn CNAME .
 dns.yuu-g.net CNAME .
@@ -1430,10 +1430,7 @@ dns.moog.sh CNAME .
 eu.tri-dns.net CNAME .
 dns.michelo.cl CNAME .
 dns.hakim.one CNAME .
-dns.edgeburnmedia.com CNAME .
 dns.guardmydns.com CNAME .
-doh.thio.me CNAME .
-tlz.asia CNAME .
 doh-primary-pool.goodbyegambling.com CNAME .
 adguard.haneulo.com CNAME .
 5g.o0o.re CNAME .
@@ -1476,6 +1473,7 @@ us-saj-w-f-1.nashkan.net CNAME .
 us1.blissdns.net CNAME .
 dns.surobe.com CNAME .
 dns.svoi.dev CNAME .
+de.dns.privex.io CNAME .
 dns.ourvau.lt CNAME .
 dns.redvau.lt CNAME .
 dns.vault81.de CNAME .
@@ -1498,6 +1496,7 @@ resolv2.trash.net CNAME .
 resolv3.trash.net CNAME .
 gb-cov-w-p-1.nashkan.net CNAME .
 asia.tri-dns.net CNAME .
+nl.dns.privex.io CNAME .
 ns.trcnet.fi CNAME .
 gb-lon-w-p-1.nashkan.net CNAME .
 ns4.opennameserver.org CNAME .
@@ -3748,7 +3747,7 @@ gcpddns.duckdns.org CNAME .
 nas1403.duckdns.org CNAME .
 unixfox.duckdns.org CNAME .
 x-o-x.duckdns.org CNAME .
-gustamadh.dynv6.net CNAME .
+dns.edgeburnmedia.com CNAME .
 jp.dns.bliod.eu.org CNAME .
 doh.excdn.eu.org CNAME .
 dns.lvqing.eu.org CNAME .
@@ -3860,8 +3859,6 @@ zxcvb.pp.ua CNAME .
 dns.privado.ovh CNAME .
 orpi.privado.ovh CNAME .
 oury.privado.ovh CNAME .
-de.dns.privex.io CNAME .
-nl.dns.privex.io CNAME .
 2.dnscrypt-cert.pumplex.com CNAME .
 httpdns.kg.qq.com CNAME .
 dns.weixin.qq.com CNAME .
@@ -3897,6 +3894,7 @@ dns1.techeasy.org CNAME .
 homenet.telecomitalia.it CNAME .
 apne1.dns.terumi.club CNAME .
 dns.thegoodsource.net CNAME .
+doh.thio.me CNAME .
 dns.thiz.top CNAME .
 sdkconfig.tlivedns.com CNAME .
 dns.truong.fi CNAME .
@@ -3976,7 +3974,9 @@ qingmo.vip CNAME .
 schimtar.com CNAME .
 shalenkov.dev CNAME .
 shitblocker.com CNAME .
+squidmall.vip CNAME .
 tigrons.ru CNAME .
+tlz.asia CNAME .
 toaster.lol CNAME .
 unasw.eu CNAME .
 uncensoreddns.org CNAME .
