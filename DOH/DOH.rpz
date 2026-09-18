@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2609170128 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2609180131 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2026-09-17 01:28:50 (UTC)
+; Last updated: 2026-09-18 01:31:04 (UTC)
 ;
 ; See https://jpgpi250.github.io/piholemanual/doc/Unbound%20response%20policy%20zones.pdf
 ; Report issues at https://github.com/jpgpi250/piholemanual/issues
@@ -574,7 +574,6 @@ adblock.dns.mullvad.net CNAME .
 all.dns.mullvad.net CNAME .
 base.dns.mullvad.net CNAME .
 extended.dns.mullvad.net CNAME .
-family.dns.mullvad.net CNAME .
 dns.feldy.my.id CNAME .
 family.mydns.network CNAME .
 freedom.mydns.network CNAME .
@@ -723,6 +722,7 @@ trr.dns.nextdns.io CNAME .
 doh.blahdns.com CNAME .
 sjc02.dnscry.pt CNAME .
 tbs01.dnscry.pt CNAME .
+family.dns.mullvad.net CNAME .
 syd02.dnscry.pt CNAME .
 sto02.dnscry.pt CNAME .
 tyo03.dnscry.pt CNAME .
@@ -1277,6 +1277,7 @@ himedns.com CNAME .
 sg.yepdns.com CNAME .
 dns.853852.xyz CNAME .
 2.dns.noridev.moe CNAME .
+gustamadh.dynv6.net CNAME .
 dns.jundev.org CNAME .
 dns.hujiayucc.cn CNAME .
 dns.yuu-g.net CNAME .
@@ -1463,7 +1464,6 @@ adguard.hartley.cloud CNAME .
 doh.archuser.org CNAME .
 dns.zfsystem.tech CNAME .
 sdns22.gkonuralp.com CNAME .
-dns.aaytorr.com CNAME .
 dns.cahlen.com CNAME .
 dns.chilimac.net CNAME .
 multi.dns.marbledfennec.net CNAME .
@@ -1550,7 +1550,6 @@ sandbox.opendns.com CNAME .
 familyshield.opendns.com CNAME .
 dns.opendns.com CNAME .
 dns.umbrella.com CNAME .
-dns.dyn1.de CNAME .
 adguardhome.atakorah.com CNAME .
 dns.soldier.terumi.club CNAME .
 dns.mnet-online.de CNAME .
@@ -2124,6 +2123,7 @@ adguard-koe.dns64.de CNAME .
 www.dnsforge.de CNAME .
 duii.de CNAME .
 atlantic.dyn1.de CNAME .
+dns.dyn1.de CNAME .
 dns.internal.espresso-tasse.de CNAME .
 handy-matthias.dns.internal.espresso-tasse.de CNAME .
 handy-nils.dns.internal.espresso-tasse.de CNAME .
@@ -3648,6 +3648,7 @@ n.3363.net CNAME .
 alidns.51top.info CNAME .
 bella.981377612.xyz CNAME .
 doh-dns-apple-com.v.aaplimg.com CNAME .
+dns.aaytorr.com CNAME .
 dns.abhimankolte.com CNAME .
 dns-lb.unpak.ac.id CNAME .
 dns2.afastserver.com CNAME .
@@ -3747,7 +3748,6 @@ gcpddns.duckdns.org CNAME .
 nas1403.duckdns.org CNAME .
 unixfox.duckdns.org CNAME .
 x-o-x.duckdns.org CNAME .
-gustamadh.dynv6.net CNAME .
 jp.dns.bliod.eu.org CNAME .
 doh.excdn.eu.org CNAME .
 dns.lvqing.eu.org CNAME .
@@ -4072,3 +4072,5 @@ jp.68360612.xyz CNAME .
 www.rethinkdns.com CNAME .
 blockdns.com CNAME .
 ublockdns.com CNAME .
+dns.yunzheng.space CNAME .
+filter.dns.yunzheng.space CNAME .
