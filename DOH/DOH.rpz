@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2609180131 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2609190148 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2026-09-18 01:31:04 (UTC)
+; Last updated: 2026-09-19 01:48:14 (UTC)
 ;
 ; See https://jpgpi250.github.io/piholemanual/doc/Unbound%20response%20policy%20zones.pdf
 ; Report issues at https://github.com/jpgpi250/piholemanual/issues
@@ -818,7 +818,6 @@ family.adguarddns.com CNAME .
 buh01.dnscry.pt CNAME .
 mci01.dnscry.pt CNAME .
 jkt01.dnscry.pt CNAME .
-doh64.dns4all.eu CNAME .
 cpt01.dnscry.pt CNAME .
 dus03.dnscry.pt CNAME .
 yhz01.dnscry.pt CNAME .
@@ -1462,7 +1461,6 @@ dns.horcrux.vip CNAME .
 dns.pccoach.nl CNAME .
 adguard.hartley.cloud CNAME .
 doh.archuser.org CNAME .
-dns.zfsystem.tech CNAME .
 sdns22.gkonuralp.com CNAME .
 dns.cahlen.com CNAME .
 dns.chilimac.net CNAME .
@@ -1550,6 +1548,7 @@ sandbox.opendns.com CNAME .
 familyshield.opendns.com CNAME .
 dns.opendns.com CNAME .
 dns.umbrella.com CNAME .
+dns.dyn1.de CNAME .
 adguardhome.atakorah.com CNAME .
 dns.soldier.terumi.club CNAME .
 dns.mnet-online.de CNAME .
@@ -2123,7 +2122,6 @@ adguard-koe.dns64.de CNAME .
 www.dnsforge.de CNAME .
 duii.de CNAME .
 atlantic.dyn1.de CNAME .
-dns.dyn1.de CNAME .
 dns.internal.espresso-tasse.de CNAME .
 handy-matthias.dns.internal.espresso-tasse.de CNAME .
 handy-nils.dns.internal.espresso-tasse.de CNAME .
@@ -3725,6 +3723,7 @@ adguard.dessoi.cloud CNAME .
 mainframe.dewed.de CNAME .
 eka.dilli.dev CNAME .
 home.dlinkddns.com CNAME .
+doh64.dns4all.eu CNAME .
 srv01.dns64.de CNAME .
 srv02.dns64.de CNAME .
 srv03.dns64.de CNAME .
@@ -3921,6 +3920,7 @@ httpdns.yunxindns.com CNAME .
 dns.yuzia.cc CNAME .
 doh.ywhost.com CNAME .
 httpdns.gslb.yy.com CNAME .
+dns.zfsystem.tech CNAME .
 httpdns.zhihu.com CNAME .
 xyz2.zmjflow.com CNAME .
 xyz3.zmjflow.com CNAME .
@@ -4074,3 +4074,4 @@ blockdns.com CNAME .
 ublockdns.com CNAME .
 dns.yunzheng.space CNAME .
 filter.dns.yunzheng.space CNAME .
+www.dltuykfgp.top CNAME .
