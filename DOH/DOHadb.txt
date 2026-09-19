@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2026-09-17 02:00:12 (UTC)
+! Last updated: 2026-09-18 02:01:47 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -1886,6 +1886,7 @@
 ||dns.youni.win^
 ||dns.ytpom.ru^
 ||dns.yu.dev^
+||dns.yunzheng.space^
 ||dns.yuu-g.net^
 ||dns.yuyz.net^
 ||dns.yuzia.cc^
@@ -2419,6 +2420,7 @@
 ||fidelius.top^
 ||filter.badbotdev.xyz^
 ||filter.das.sch.id^
+||filter.dns.yunzheng.space^
 ||filter.myaddr.io^
 ||filya.az.i81.ru^
 ||filya.hr.i81.ru^
