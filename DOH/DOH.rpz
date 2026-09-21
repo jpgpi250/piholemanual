@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2609200146 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2609210131 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2026-09-20 01:46:56 (UTC)
+; Last updated: 2026-09-21 01:31:07 (UTC)
 ;
 ; See https://jpgpi250.github.io/piholemanual/doc/Unbound%20response%20policy%20zones.pdf
 ; Report issues at https://github.com/jpgpi250/piholemanual/issues
@@ -1495,7 +1495,6 @@ resolv3.trash.net CNAME .
 gb-cov-w-p-1.nashkan.net CNAME .
 asia.tri-dns.net CNAME .
 nl.dns.privex.io CNAME .
-ns.trcnet.fi CNAME .
 gb-lon-w-p-1.nashkan.net CNAME .
 ns4.opennameserver.org CNAME .
 dns.stevenz.net CNAME .
@@ -1571,8 +1570,8 @@ hshh.org CNAME .
 dns.ares-taiwan.com CNAME .
 dns.david888.com CNAME .
 agh.printk.info CNAME .
+ns.trcnet.fi CNAME .
 dnscache.e-utp.net CNAME .
-gustamadh.dynv6.net CNAME .
 nat64.tuxis.nl CNAME .
 dns.lihj.me CNAME .
 adblock-dot.dnswarden.com CNAME .
@@ -3747,6 +3746,7 @@ gcpddns.duckdns.org CNAME .
 nas1403.duckdns.org CNAME .
 unixfox.duckdns.org CNAME .
 x-o-x.duckdns.org CNAME .
+gustamadh.dynv6.net CNAME .
 jp.dns.bliod.eu.org CNAME .
 doh.excdn.eu.org CNAME .
 dns.lvqing.eu.org CNAME .
