@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2609230135 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2609240124 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2026-09-23 01:35:22 (UTC)
+; Last updated: 2026-09-24 01:24:52 (UTC)
 ;
 ; See https://jpgpi250.github.io/piholemanual/doc/Unbound%20response%20policy%20zones.pdf
 ; Report issues at https://github.com/jpgpi250/piholemanual/issues
@@ -818,6 +818,7 @@ family.adguarddns.com CNAME .
 buh01.dnscry.pt CNAME .
 mci01.dnscry.pt CNAME .
 jkt01.dnscry.pt CNAME .
+doh64.dns4all.eu CNAME .
 cpt01.dnscry.pt CNAME .
 dus03.dnscry.pt CNAME .
 yhz01.dnscry.pt CNAME .
@@ -1275,6 +1276,7 @@ himedns.com CNAME .
 sg.yepdns.com CNAME .
 dns.853852.xyz CNAME .
 2.dns.noridev.moe CNAME .
+gustamadh.dynv6.net CNAME .
 dns.jundev.org CNAME .
 dns.hujiayucc.cn CNAME .
 dns.yuu-g.net CNAME .
@@ -1426,6 +1428,7 @@ dns.moog.sh CNAME .
 eu.tri-dns.net CNAME .
 dns.michelo.cl CNAME .
 dns.hakim.one CNAME .
+dns.edgeburnmedia.com CNAME .
 tlz.asia CNAME .
 doh-primary-pool.goodbyegambling.com CNAME .
 adguard.haneulo.com CNAME .
@@ -1491,7 +1494,6 @@ resolv3.trash.net CNAME .
 gb-cov-w-p-1.nashkan.net CNAME .
 asia.tri-dns.net CNAME .
 nl.dns.privex.io CNAME .
-ns.trcnet.fi CNAME .
 gb-lon-w-p-1.nashkan.net CNAME .
 ns4.opennameserver.org CNAME .
 dns.stevenz.net CNAME .
@@ -2261,6 +2263,7 @@ wallpap.eu CNAME .
 adguard.wallura.eu CNAME .
 biba.ydns.eu CNAME .
 dns.musikantit.fi CNAME .
+ns.trcnet.fi CNAME .
 dns.xv.fi CNAME .
 dns.anne-pierre.fr CNAME .
 barnabech.fr CNAME .
@@ -3719,7 +3722,6 @@ adguard.dessoi.cloud CNAME .
 mainframe.dewed.de CNAME .
 eka.dilli.dev CNAME .
 home.dlinkddns.com CNAME .
-doh64.dns4all.eu CNAME .
 srv01.dns64.de CNAME .
 srv02.dns64.de CNAME .
 srv03.dns64.de CNAME .
@@ -3743,8 +3745,6 @@ gcpddns.duckdns.org CNAME .
 nas1403.duckdns.org CNAME .
 unixfox.duckdns.org CNAME .
 x-o-x.duckdns.org CNAME .
-gustamadh.dynv6.net CNAME .
-dns.edgeburnmedia.com CNAME .
 jp.dns.bliod.eu.org CNAME .
 doh.excdn.eu.org CNAME .
 dns.lvqing.eu.org CNAME .
@@ -4068,7 +4068,6 @@ ns1.1899.com.mx CNAME .
 ns2.1899.com.mx CNAME .
 dns.5ososea.com CNAME .
 jp.68360612.xyz CNAME .
-www.zburger.top CNAME .
 www.rethinkdns.com CNAME .
 blockdns.com CNAME .
 ublockdns.com CNAME .
@@ -4076,3 +4075,5 @@ dns.yunzheng.space CNAME .
 filter.dns.yunzheng.space CNAME .
 www.dltuykfgp.top CNAME .
 dltuykfgp.top CNAME .
+family.dns.dremaxx.com CNAME .
+open.dns.dremaxx.com CNAME .
