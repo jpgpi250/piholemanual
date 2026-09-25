@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2026-09-23 02:05:55 (UTC)
+! Last updated: 2026-09-24 01:55:48 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -2391,6 +2391,7 @@
 ||family.canadianshield.cira.ca^
 ||family.cloudflare-dns.com^
 ||family.dns.doubleangels.com^
+||family.dns.dremaxx.com^
 ||family.dns.mullvad.net^
 ||family.dns.ningkelle.id^
 ||family.dns.teknoholistik.com^
@@ -3198,6 +3199,7 @@
 ||online.zotio.ru^
 ||oowo.de^
 ||open-resolver1.unima.ac.id^
+||open.dns.dremaxx.com^
 ||open.dns0.eu^
 ||openbld.net^
 ||opencdn.jomodns.com^
@@ -3992,7 +3994,6 @@
 ||www.wg-aghome.freemyip.com^
 ||www.wiqi.top^
 ||www.ychk.ft1991.top^
-||www.zburger.top^
 ||wyx.cloud^
 ||x-o-x.duckdns.org^
 ||x.laoban.fun^
