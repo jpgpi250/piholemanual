@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2609240124 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2609250128 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2026-09-24 01:24:52 (UTC)
+; Last updated: 2026-09-25 01:28:23 (UTC)
 ;
 ; See https://jpgpi250.github.io/piholemanual/doc/Unbound%20response%20policy%20zones.pdf
 ; Report issues at https://github.com/jpgpi250/piholemanual/issues
@@ -818,7 +818,6 @@ family.adguarddns.com CNAME .
 buh01.dnscry.pt CNAME .
 mci01.dnscry.pt CNAME .
 jkt01.dnscry.pt CNAME .
-doh64.dns4all.eu CNAME .
 cpt01.dnscry.pt CNAME .
 dus03.dnscry.pt CNAME .
 yhz01.dnscry.pt CNAME .
@@ -1494,6 +1493,7 @@ resolv3.trash.net CNAME .
 gb-cov-w-p-1.nashkan.net CNAME .
 asia.tri-dns.net CNAME .
 nl.dns.privex.io CNAME .
+ns.trcnet.fi CNAME .
 gb-lon-w-p-1.nashkan.net CNAME .
 ns4.opennameserver.org CNAME .
 dns.stevenz.net CNAME .
@@ -2263,7 +2263,6 @@ wallpap.eu CNAME .
 adguard.wallura.eu CNAME .
 biba.ydns.eu CNAME .
 dns.musikantit.fi CNAME .
-ns.trcnet.fi CNAME .
 dns.xv.fi CNAME .
 dns.anne-pierre.fr CNAME .
 barnabech.fr CNAME .
@@ -3722,6 +3721,7 @@ adguard.dessoi.cloud CNAME .
 mainframe.dewed.de CNAME .
 eka.dilli.dev CNAME .
 home.dlinkddns.com CNAME .
+doh64.dns4all.eu CNAME .
 srv01.dns64.de CNAME .
 srv02.dns64.de CNAME .
 srv03.dns64.de CNAME .
@@ -4077,3 +4077,4 @@ www.dltuykfgp.top CNAME .
 dltuykfgp.top CNAME .
 family.dns.dremaxx.com CNAME .
 open.dns.dremaxx.com CNAME .
+addns.886675.xyz CNAME .
