@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2609290155 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2609300151 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2026-09-29 01:55:05 (UTC)
+; Last updated: 2026-09-30 01:51:00 (UTC)
 ;
 ; See https://jpgpi250.github.io/piholemanual/doc/Unbound%20response%20policy%20zones.pdf
 ; Report issues at https://github.com/jpgpi250/piholemanual/issues
@@ -1137,6 +1137,7 @@ dns.joey01245.nl CNAME .
 dns.neubsi.at CNAME .
 cube.neubsi.at CNAME .
 fuchur.pentament.de CNAME .
+truta.org CNAME .
 dns.braene.com CNAME .
 ns.nwps.fi CNAME .
 dns.home.daniil.it CNAME .
@@ -1152,13 +1153,10 @@ dns.netraptor.com.au CNAME .
 doh.denypradana.com CNAME .
 jp-dns1.bancuh.com CNAME .
 rx.techomespace.com CNAME .
-ychen.cf CNAME .
 dns1.nordvpn.com CNAME .
 dns-malwaresec.nordthreatprotection.com CNAME .
 dns-cybersec.nordthreatprotection.com CNAME .
 dns2.nordvpn.com CNAME .
-ychen.gq CNAME .
-doh.max.net.id CNAME .
 wyx.cloud CNAME .
 dns1.server.my.id CNAME .
 dns.sy.st CNAME .
@@ -1273,7 +1271,6 @@ himedns.com CNAME .
 sg.yepdns.com CNAME .
 dns.853852.xyz CNAME .
 2.dns.noridev.moe CNAME .
-gustamadh.dynv6.net CNAME .
 dns.jundev.org CNAME .
 dns.hujiayucc.cn CNAME .
 dns.yuu-g.net CNAME .
@@ -1425,6 +1422,7 @@ dns.moog.sh CNAME .
 eu.tri-dns.net CNAME .
 dns.michelo.cl CNAME .
 dns.hakim.one CNAME .
+dns.edgeburnmedia.com CNAME .
 doh-primary-pool.goodbyegambling.com CNAME .
 adguard.haneulo.com CNAME .
 5g.o0o.re CNAME .
@@ -1566,7 +1564,6 @@ dns.ares-taiwan.com CNAME .
 dns.david888.com CNAME .
 agh.printk.info CNAME .
 dnscache.e-utp.net CNAME .
-truta.org CNAME .
 nat64.tuxis.nl CNAME .
 dns.lihj.me CNAME .
 adblock-dot.dnswarden.com CNAME .
@@ -1703,6 +1700,7 @@ dns.vlo.cc CNAME .
 hk.yoosoo.cc CNAME .
 ns.cd CNAME .
 ux.go20.cf CNAME .
+ychen.cf CNAME .
 ajlxwk4kedu5.absq.ch CNAME .
 pebdbvi58gbc.absq.ch CNAME .
 adg.jabertechnologies.ch CNAME .
@@ -2315,6 +2313,7 @@ hkg2.edge.access.zznet.fun CNAME .
 sin2.edge.access.zznet.fun CNAME .
 defendfrienddns.fyi CNAME .
 doh.ndmc.work.gd CNAME .
+ychen.gq CNAME .
 d.zscale.gq CNAME .
 adguard.yare.hk CNAME .
 adguard01.colocity.host CNAME .
@@ -2362,6 +2361,7 @@ positif4.cross.net.id CNAME .
 guard-jkt-225.glosindo.net.id CNAME .
 dns1.gms.net.id CNAME .
 dns2.gms.net.id CNAME .
+doh.max.net.id CNAME .
 doh.palapa.net.id CNAME .
 doh.sww.net.id CNAME .
 homelab.terabit.net.id CNAME .
@@ -3741,7 +3741,7 @@ gcpddns.duckdns.org CNAME .
 nas1403.duckdns.org CNAME .
 unixfox.duckdns.org CNAME .
 x-o-x.duckdns.org CNAME .
-dns.edgeburnmedia.com CNAME .
+gustamadh.dynv6.net CNAME .
 jp.dns.bliod.eu.org CNAME .
 doh.excdn.eu.org CNAME .
 dns.lvqing.eu.org CNAME .
@@ -4082,3 +4082,6 @@ obscuro.top CNAME .
 doh.cnetwork.cloud CNAME .
 adg.rueiliu.space CNAME .
 dns.zui.lol CNAME .
+adfiltro.fun CNAME .
+alleesph.online CNAME .
+dns.labnekotest.site CNAME .
