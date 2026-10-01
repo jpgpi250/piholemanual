@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2026-09-29 02:25:37 (UTC)
+! Last updated: 2026-09-30 02:23:31 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -136,6 +136,7 @@
 ||addns.ovalie.ovh^
 ||addns1.m-it.ro^
 ||adfight.ru^
+||adfiltro.fun^
 ||adfree.usableprivacy.net^
 ||adfreedns.eu^
 ||adfreedns.top^
@@ -521,6 +522,7 @@
 ||aliyunhttpdns.com^
 ||all.dns.mullvad.net^
 ||allain.com.br^
+||alleesph.online^
 ||alon93rus.ru^
 ||alpha-dns.quad9.net^
 ||alpha.cixy.xyz^
@@ -1434,6 +1436,7 @@
 ||dns.l337.site^
 ||dns.l6.ee^
 ||dns.labar.re^
+||dns.labnekotest.site^
 ||dns.lars-lehmann.net^
 ||dns.larsdebruin.net^
 ||dns.lauraeguido.com^
