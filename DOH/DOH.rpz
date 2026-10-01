@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2609300151 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2610010121 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2026-09-30 01:51:00 (UTC)
+; Last updated: 2026-10-01 01:21:50 (UTC)
 ;
 ; See https://jpgpi250.github.io/piholemanual/doc/Unbound%20response%20policy%20zones.pdf
 ; Report issues at https://github.com/jpgpi250/piholemanual/issues
@@ -1157,6 +1157,7 @@ dns1.nordvpn.com CNAME .
 dns-malwaresec.nordthreatprotection.com CNAME .
 dns-cybersec.nordthreatprotection.com CNAME .
 dns2.nordvpn.com CNAME .
+doh.max.net.id CNAME .
 wyx.cloud CNAME .
 dns1.server.my.id CNAME .
 dns.sy.st CNAME .
@@ -1430,7 +1431,6 @@ fezgate.ovh CNAME .
 odoh.cloudflare-dns.com CNAME .
 dooh.cloudflare-dns.com CNAME .
 dns.zemows.industries CNAME .
-dns-fr-psv1.cloudsides.com CNAME .
 stratus.bugz.fr CNAME .
 adblockersite.com CNAME .
 hitian.me CNAME .
@@ -1564,6 +1564,7 @@ dns.ares-taiwan.com CNAME .
 dns.david888.com CNAME .
 agh.printk.info CNAME .
 dnscache.e-utp.net CNAME .
+gustamadh.dynv6.net CNAME .
 nat64.tuxis.nl CNAME .
 dns.lihj.me CNAME .
 adblock-dot.dnswarden.com CNAME .
@@ -2361,7 +2362,6 @@ positif4.cross.net.id CNAME .
 guard-jkt-225.glosindo.net.id CNAME .
 dns1.gms.net.id CNAME .
 dns2.gms.net.id CNAME .
-doh.max.net.id CNAME .
 doh.palapa.net.id CNAME .
 doh.sww.net.id CNAME .
 homelab.terabit.net.id CNAME .
@@ -3741,7 +3741,6 @@ gcpddns.duckdns.org CNAME .
 nas1403.duckdns.org CNAME .
 unixfox.duckdns.org CNAME .
 x-o-x.duckdns.org CNAME .
-gustamadh.dynv6.net CNAME .
 jp.dns.bliod.eu.org CNAME .
 doh.excdn.eu.org CNAME .
 dns.lvqing.eu.org CNAME .
@@ -4068,6 +4067,7 @@ ns2.1899.com.mx CNAME .
 dns.5ososea.com CNAME .
 jp.68360612.xyz CNAME .
 www.rethinkdns.com CNAME .
+dns-fr-psv1.cloudsides.com CNAME .
 blockdns.com CNAME .
 ublockdns.com CNAME .
 dns.yunzheng.space CNAME .
