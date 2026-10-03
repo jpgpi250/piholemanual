@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2610020140 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2610030126 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2026-10-02 01:40:30 (UTC)
+; Last updated: 2026-10-03 01:26:37 (UTC)
 ;
 ; See https://jpgpi250.github.io/piholemanual/doc/Unbound%20response%20policy%20zones.pdf
 ; Report issues at https://github.com/jpgpi250/piholemanual/issues
@@ -818,7 +818,6 @@ family.adguarddns.com CNAME .
 buh01.dnscry.pt CNAME .
 mci01.dnscry.pt CNAME .
 jkt01.dnscry.pt CNAME .
-doh64.dns4all.eu CNAME .
 cpt01.dnscry.pt CNAME .
 dus03.dnscry.pt CNAME .
 yhz01.dnscry.pt CNAME .
@@ -892,7 +891,6 @@ ns2.wuyouss.com CNAME .
 adguard.ef67daisuki.club CNAME .
 your-dns.run CNAME .
 doh.infracell.net CNAME .
-fly.io CNAME .
 dns.spirio.fr CNAME .
 dns.internal.hosmatic.com CNAME .
 securenet.mhsystems.net CNAME .
@@ -3642,19 +3640,15 @@ n.3363.net CNAME .
 alidns.51top.info CNAME .
 bella.981377612.xyz CNAME .
 doh-dns-apple-com.v.aaplimg.com CNAME .
-dns.aaytorr.com CNAME .
 dns.abhimankolte.com CNAME .
 dns-lb.unpak.ac.id CNAME .
 dns2.afastserver.com CNAME .
 rdjdns.ajraspi.xyz CNAME .
-odoh-target.alekberg.net CNAME .
-odoh-target-noads.alekberg.net CNAME .
 httpdns.alicdn.com CNAME .
 resolvers-cn.httpdns.aliyuncs.com CNAME .
 httpdns-api.aliyuncs.com CNAME .
 dns.amigo-mgn.ru CNAME .
 rootdns.anir0y.in CNAME .
-dns.jp.anitelecom.org CNAME .
 ad.anym0re.ru CNAME .
 dns.apigw.online CNAME .
 doh.asecdns.com CNAME .
@@ -3719,6 +3713,7 @@ adguard.dessoi.cloud CNAME .
 mainframe.dewed.de CNAME .
 eka.dilli.dev CNAME .
 home.dlinkddns.com CNAME .
+doh64.dns4all.eu CNAME .
 srv01.dns64.de CNAME .
 srv02.dns64.de CNAME .
 srv03.dns64.de CNAME .
@@ -3763,7 +3758,6 @@ adguard.ghkyzz.us CNAME .
 doh.ptqy.gitv.tv CNAME .
 dns.glorydns.com CNAME .
 dns.gsmseti.net CNAME .
-dns.guardmydns.com CNAME .
 dns.gupthabrothers.in CNAME .
 dns.h0schi.cloud CNAME .
 dns2.h0schi.cloud CNAME .
@@ -3917,7 +3911,6 @@ httpdns.yunxindns.com CNAME .
 dns.yuzia.cc CNAME .
 doh.ywhost.com CNAME .
 httpdns.gslb.yy.com CNAME .
-dns.zfsystem.tech CNAME .
 httpdns.zhihu.com CNAME .
 xyz2.zmjflow.com CNAME .
 xyz3.zmjflow.com CNAME .
@@ -3981,6 +3974,7 @@ xiaoxinhui.cn CNAME .
 xins.live CNAME .
 zburger.top CNAME .
 aattwwss.duckdns.org CNAME .
+dns.aaytorr.com CNAME .
 adguardh.ga CNAME .
 dns1.adrianion.eu CNAME .
 airmaxcloud.ml CNAME .
@@ -4062,10 +4056,12 @@ dns.wakgood.net CNAME .
 wantaquddin.com CNAME .
 xthwo.duckdns.org CNAME .
 ychen.ga CNAME .
+dns.zfsystem.tech CNAME .
 ns1.1899.com.mx CNAME .
 ns2.1899.com.mx CNAME .
 dns.5ososea.com CNAME .
 jp.68360612.xyz CNAME .
+fly.io CNAME .
 www.rethinkdns.com CNAME .
 dns-fr-psv1.cloudsides.com CNAME .
 blockdns.com CNAME .
@@ -4087,3 +4083,4 @@ alleesph.online CNAME .
 dns.labnekotest.site CNAME .
 dns.hshoe.cn CNAME .
 doh.cippapp.com CNAME .
+dns.hqdns.sarl CNAME .
