@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2026-10-01 01:54:20 (UTC)
+! Last updated: 2026-10-02 02:12:57 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -1325,6 +1325,7 @@
 ||dns.hotta.page^
 ||dns.housedenolf.be^
 ||dns.hr.i81.ru^
+||dns.hshoe.cn^
 ||dns.huanmave.cc^
 ||dns.hub.com.de^
 ||dns.huizegunsing.nl^
@@ -2125,6 +2126,7 @@
 ||doh.ccb-net.it^
 ||doh.centraleu.pi-dns.com^
 ||doh.chi.ahadns.net^
+||doh.cippapp.com^
 ||doh.cleanbrowsing.org^
 ||doh.cloud-sekeng.com^
 ||doh.cnetwork.cloud^
