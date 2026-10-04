@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2610030126 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2610040132 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2026-10-03 01:26:37 (UTC)
+; Last updated: 2026-10-04 01:32:50 (UTC)
 ;
 ; See https://jpgpi250.github.io/piholemanual/doc/Unbound%20response%20policy%20zones.pdf
 ; Report issues at https://github.com/jpgpi250/piholemanual/issues
@@ -818,6 +818,7 @@ family.adguarddns.com CNAME .
 buh01.dnscry.pt CNAME .
 mci01.dnscry.pt CNAME .
 jkt01.dnscry.pt CNAME .
+doh64.dns4all.eu CNAME .
 cpt01.dnscry.pt CNAME .
 dus03.dnscry.pt CNAME .
 yhz01.dnscry.pt CNAME .
@@ -1173,7 +1174,6 @@ dns.nguyendn.com CNAME .
 d.apemlegit.my.id CNAME .
 doh.zephyrus.id CNAME .
 dns.goldplate.org CNAME .
-hk2.ooroot.com CNAME .
 solaxy.live CNAME .
 dns.ashleyjackson.net CNAME .
 dns.surfshark.com CNAME .
@@ -1463,7 +1463,6 @@ us-saj-w-f-1.nashkan.net CNAME .
 us1.blissdns.net CNAME .
 dns.surobe.com CNAME .
 dns.svoi.dev CNAME .
-de.dns.privex.io CNAME .
 dns.ourvau.lt CNAME .
 dns.redvau.lt CNAME .
 dns.vault81.de CNAME .
@@ -3668,7 +3667,6 @@ woc.beelstb.biz.id CNAME .
 2.dnscrypt-cert.blahdns.com CNAME .
 dohsg.blahdns.com CNAME .
 cloud.boboba.ru CNAME .
-dns.briac-mlb.fr CNAME .
 81.brudnowski.eu CNAME .
 2.dnscrypt-cert.captnemo.in CNAME .
 dns.carter.me CNAME .
@@ -3713,7 +3711,6 @@ adguard.dessoi.cloud CNAME .
 mainframe.dewed.de CNAME .
 eka.dilli.dev CNAME .
 home.dlinkddns.com CNAME .
-doh64.dns4all.eu CNAME .
 srv01.dns64.de CNAME .
 srv02.dns64.de CNAME .
 srv03.dns64.de CNAME .
@@ -3835,6 +3832,7 @@ adguard.nielsenhost.dk CNAME .
 dns.nxsyspro.com CNAME .
 ha.o51r15.com CNAME .
 adguard.oms-ctr.ru CNAME .
+hk2.ooroot.com CNAME .
 2.dnscrypt-cert.opendns.com CNAME .
 adblock.opendoh.com CNAME .
 dns.opendoh.com CNAME .
@@ -3849,6 +3847,7 @@ zxcvb.pp.ua CNAME .
 dns.privado.ovh CNAME .
 orpi.privado.ovh CNAME .
 oury.privado.ovh CNAME .
+de.dns.privex.io CNAME .
 2.dnscrypt-cert.pumplex.com CNAME .
 httpdns.kg.qq.com CNAME .
 dns.weixin.qq.com CNAME .
@@ -4061,7 +4060,6 @@ ns1.1899.com.mx CNAME .
 ns2.1899.com.mx CNAME .
 dns.5ososea.com CNAME .
 jp.68360612.xyz CNAME .
-fly.io CNAME .
 www.rethinkdns.com CNAME .
 dns-fr-psv1.cloudsides.com CNAME .
 blockdns.com CNAME .
