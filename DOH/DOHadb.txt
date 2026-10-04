@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2026-10-02 02:12:57 (UTC)
+! Last updated: 2026-10-03 01:59:17 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -1291,7 +1291,6 @@
 ||dns.grqu.de^
 ||dns.gsmseti.net^
 ||dns.guard.io^
-||dns.guardmydns.com^
 ||dns.gupthabrothers.in^
 ||dns.gussguss.ovh^
 ||dns.gutwe.in^
@@ -1324,6 +1323,7 @@
 ||dns.hostux.net^
 ||dns.hotta.page^
 ||dns.housedenolf.be^
+||dns.hqdns.sarl^
 ||dns.hr.i81.ru^
 ||dns.hshoe.cn^
 ||dns.huanmave.cc^
@@ -1386,7 +1386,6 @@
 ||dns.joey01245.nl^
 ||dns.johndave.me^
 ||dns.joindns4.in^
-||dns.jp.anitelecom.org^
 ||dns.jsd.web.id^
 ||dns.jstockley.com^
 ||dns.juancamos.com^
@@ -3191,8 +3190,6 @@
 ||obscuro.top^
 ||oci02.at9.eu^
 ||oculta.me^
-||odoh-target-noads.alekberg.net^
-||odoh-target.alekberg.net^
 ||odoh.cloudflare-dns.com^
 ||odoh.crypto.sx^
 ||odvr.nic.cz^
