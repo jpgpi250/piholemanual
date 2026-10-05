@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2610040132 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2610050152 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2026-10-04 01:32:50 (UTC)
+; Last updated: 2026-10-05 01:52:06 (UTC)
 ;
 ; See https://jpgpi250.github.io/piholemanual/doc/Unbound%20response%20policy%20zones.pdf
 ; Report issues at https://github.com/jpgpi250/piholemanual/issues
@@ -727,7 +727,6 @@ syd02.dnscry.pt CNAME .
 sto02.dnscry.pt CNAME .
 tyo03.dnscry.pt CNAME .
 sin02.dnscry.pt CNAME .
-iev01.dnscry.pt CNAME .
 skg01.dnscry.pt CNAME .
 tia01.dnscry.pt CNAME .
 bne01.dnscry.pt CNAME .
@@ -752,7 +751,6 @@ per01.dnscry.pt CNAME .
 rdd01.dnscry.pt CNAME .
 dnsbunker.org CNAME .
 dfw02.dnscry.pt CNAME .
-isb01.dnscry.pt CNAME .
 dohipv6.crypto.sx CNAME .
 iev02.dnscry.pt CNAME .
 mel01.dnscry.pt CNAME .
@@ -836,7 +834,6 @@ dns.nic.in CNAME .
 agh.kyusang.win CNAME .
 block.abstergo.it CNAME .
 doh.pi-dns.com CNAME .
-ko-18948-tr.xyz CNAME .
 kz-pav-w-p-1.nashkan.net CNAME .
 qual.cuprum.ru CNAME .
 kr-sel.doh.sb CNAME .
@@ -1156,6 +1153,7 @@ dns1.nordvpn.com CNAME .
 dns-malwaresec.nordthreatprotection.com CNAME .
 dns-cybersec.nordthreatprotection.com CNAME .
 dns2.nordvpn.com CNAME .
+isb01.dnscry.pt CNAME .
 doh.max.net.id CNAME .
 wyx.cloud CNAME .
 dns1.server.my.id CNAME .
@@ -1270,7 +1268,6 @@ himedns.com CNAME .
 sg.yepdns.com CNAME .
 dns.853852.xyz CNAME .
 2.dns.noridev.moe CNAME .
-gustamadh.dynv6.net CNAME .
 dns.jundev.org CNAME .
 dns.hujiayucc.cn CNAME .
 dns.yuu-g.net CNAME .
@@ -1463,6 +1460,7 @@ us-saj-w-f-1.nashkan.net CNAME .
 us1.blissdns.net CNAME .
 dns.surobe.com CNAME .
 dns.svoi.dev CNAME .
+de.dns.privex.io CNAME .
 dns.ourvau.lt CNAME .
 dns.redvau.lt CNAME .
 dns.vault81.de CNAME .
@@ -3024,6 +3022,7 @@ fjr01.dnscry.pt CNAME .
 gru01.dnscry.pt CNAME .
 gyd01.dnscry.pt CNAME .
 gye01.dnscry.pt CNAME .
+iev01.dnscry.pt CNAME .
 jen01.dnscry.pt CNAME .
 lim02.dnscry.pt CNAME .
 lju01.dnscry.pt CNAME .
@@ -3689,7 +3688,6 @@ cipherdns.co.za CNAME .
 dns.ceai.com.tw CNAME .
 allain.com.br CNAME .
 skynetinternet.com.br CNAME .
-dns.comeonjames.club CNAME .
 dns.cooluc.com CNAME .
 httpdns.platform.dbankcloud.cn CNAME .
 httpdns.platform.dbankcloud.com CNAME .
@@ -3734,6 +3732,7 @@ gcpddns.duckdns.org CNAME .
 nas1403.duckdns.org CNAME .
 unixfox.duckdns.org CNAME .
 x-o-x.duckdns.org CNAME .
+gustamadh.dynv6.net CNAME .
 jp.dns.bliod.eu.org CNAME .
 doh.excdn.eu.org CNAME .
 dns.lvqing.eu.org CNAME .
@@ -3847,7 +3846,6 @@ zxcvb.pp.ua CNAME .
 dns.privado.ovh CNAME .
 orpi.privado.ovh CNAME .
 oury.privado.ovh CNAME .
-de.dns.privex.io CNAME .
 2.dnscrypt-cert.pumplex.com CNAME .
 httpdns.kg.qq.com CNAME .
 dns.weixin.qq.com CNAME .
@@ -3947,6 +3945,7 @@ httpdns.pro CNAME .
 incaseineeditoneday.com CNAME .
 intertop.link CNAME .
 kennethhuang.com CNAME .
+ko-18948-tr.xyz CNAME .
 kondrcloud.ru CNAME .
 minilla.store CNAME .
 msr177.com CNAME .
@@ -3987,6 +3986,7 @@ dns.brian-hong.tech CNAME .
 dns.bw.i81.ru CNAME .
 cintra.ml CNAME .
 doh.cloud-sekeng.com CNAME .
+dns.comeonjames.club CNAME .
 cossxiu.ga CNAME .
 dns.d96.info CNAME .
 adguard.dtness.com CNAME .
@@ -4082,3 +4082,4 @@ dns.labnekotest.site CNAME .
 dns.hshoe.cn CNAME .
 doh.cippapp.com CNAME .
 dns.hqdns.sarl CNAME .
+dns64.dns.yunzheng.space CNAME .
