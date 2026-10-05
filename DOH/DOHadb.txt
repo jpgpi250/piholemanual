@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2026-10-03 01:59:17 (UTC)
+! Last updated: 2026-10-04 02:05:33 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -1061,7 +1061,6 @@
 ||dns.braene.com^
 ||dns.brahma.world^
 ||dns.brembeck.cloud^
-||dns.briac-mlb.fr^
 ||dns.brian-hong.tech^
 ||dns.brionesserver.net^
 ||dns.brono.cloud^
@@ -2441,7 +2440,6 @@
 ||firefox.dns.nextdns.io^
 ||fjr01.dnscry.pt^
 ||flat.loisy.it^
-||fly.io^
 ||flyloadguard.dynu.net^
 ||fnt01.dnscry.pt^
 ||focus.nop.mobi^
