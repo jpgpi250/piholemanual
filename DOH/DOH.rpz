@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2610070155 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2610080125 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2026-10-07 01:55:29 (UTC)
+; Last updated: 2026-10-08 01:25:24 (UTC)
 ;
 ; See https://jpgpi250.github.io/piholemanual/doc/Unbound%20response%20policy%20zones.pdf
 ; Report issues at https://github.com/jpgpi250/piholemanual/issues
@@ -1268,6 +1268,7 @@ himedns.com CNAME .
 sg.yepdns.com CNAME .
 dns.853852.xyz CNAME .
 2.dns.noridev.moe CNAME .
+gustamadh.dynv6.net CNAME .
 dns.jundev.org CNAME .
 dns.hujiayucc.cn CNAME .
 dns.yuu-g.net CNAME .
@@ -3732,7 +3733,6 @@ gcpddns.duckdns.org CNAME .
 nas1403.duckdns.org CNAME .
 unixfox.duckdns.org CNAME .
 x-o-x.duckdns.org CNAME .
-gustamadh.dynv6.net CNAME .
 jp.dns.bliod.eu.org CNAME .
 doh.excdn.eu.org CNAME .
 dns.lvqing.eu.org CNAME .
@@ -3779,7 +3779,6 @@ http-dns.imoim.net CNAME .
 dns.indybanipal.com CNAME .
 apidns.kwd.inkuai.com CNAME .
 httpdns.kwd.inkuai.com CNAME .
-premiumtier-network.instadart.net CNAME .
 dns.qiyipic.iqiyi.com CNAME .
 dns.iqiyi.com CNAME .
 doh.iqiyi.com CNAME .
@@ -3793,7 +3792,6 @@ vps.jmarkin.ru CNAME .
 green4.jnraptor.net CNAME .
 layer1.jnraptor.net CNAME .
 pi4.jnraptor.net CNAME .
-adguard.johnnypatras.org CNAME .
 dns.joindns4.in CNAME .
 adguard.kalyanmudumby.com CNAME .
 dns.kc2wbx.com CNAME .
@@ -4012,6 +4010,7 @@ us-ny-alula.heliumcloud.cc CNAME .
 ad1.heronet.nl CNAME .
 muc-ns01.ibytex.systems CNAME .
 dns.indust.me CNAME .
+premiumtier-network.instadart.net CNAME .
 dns.invisv.com CNAME .
 dns.itdept.pro CNAME .
 dns.joaofidelix.com.br CNAME .
@@ -4084,3 +4083,4 @@ doh.cippapp.com CNAME .
 dns.hqdns.sarl CNAME .
 dns64.dns.yunzheng.space CNAME .
 pidoh.mapledns.net CNAME .
+dns.wahr.top CNAME .
