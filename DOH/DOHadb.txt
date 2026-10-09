@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2026-10-07 02:28:15 (UTC)
+! Last updated: 2026-10-08 01:58:04 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -268,7 +268,6 @@
 ||adguard.jaydub.cloud^
 ||adguard.jfchenier.ca^
 ||adguard.johanliebert.top^
-||adguard.johnnypatras.org^
 ||adguard.josephyap.me^
 ||adguard.jpjb.net^
 ||adguard.k-likhachev.ru^
@@ -1843,6 +1842,7 @@
 ||dns.vps.pw^
 ||dns.w3ctag.org^
 ||dns.wael.name^
+||dns.wahr.top^
 ||dns.wakgood.net^
 ||dns.walker.id^
 ||dns.walshnet.co.uk^
