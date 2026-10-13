@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2026-10-11 02:26:27 (UTC)
+! Last updated: 2026-10-12 02:09:04 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -298,6 +298,7 @@
 ||adguard.myddns.org^
 ||adguard.nasaud.info^
 ||adguard.neelyha.tk^
+||adguard.neon0404.space^
 ||adguard.netmasc.services^
 ||adguard.nielsenhost.dk^
 ||adguard.niko-sem.com^
@@ -834,6 +835,7 @@
 ||ddns.martinmore.online^
 ||dds.wpme.pl^
 ||de-adguard.dr3ff1c13nt.com^
+||de-ber.doh.sb^
 ||de-dus.doh.sb^
 ||de-f1.foxyfy.net^
 ||de-fra-w-f-1.nashkan.net^
@@ -2263,7 +2265,6 @@
 ||doh.sz-dns.com^
 ||doh.technochat.in^
 ||doh.tenta.io^
-||doh.thio.me^
 ||doh.this.web.id^
 ||doh.tiar.app^
 ||doh.tiarap.org^
@@ -3600,7 +3601,6 @@
 ||spacedns.org^
 ||spotifyobs.drahonn.pro^
 ||sq.trin.icu^
-||squidmall.vip^
 ||sradg.eastus.cloudapp.azure.com^
 ||srv01.dns64.de^
 ||srv02.dns64.de^
@@ -3763,6 +3763,7 @@
 ||us-ash-w-f-1.nashkan.net^
 ||us-chi-w-f-1.nashkan.net^
 ||us-chi-w-p-1.nashkan.net^
+||us-chi.doh.sb^
 ||us-dal-w-p-1.nashkan.net^
 ||us-hil-w-f-1.nashkan.net^
 ||us-hil-w-p-1.nashkan.net^
@@ -3774,9 +3775,11 @@
 ||us-ny.foxyfy.net^
 ||us-nyc-w-f-1.nashkan.net^
 ||us-nyc-w-p-1.nashkan.net^
+||us-nyc.doh.sb^
 ||us-saj-w-f-1.nashkan.net^
 ||us-saj-w-p-1.nashkan.net^
 ||us-sj.foxyfy.net^
+||us-sjc.doh.sb^
 ||us.aab.im^
 ||us.doh.cloudveil.org^
 ||us.future-world.net^
