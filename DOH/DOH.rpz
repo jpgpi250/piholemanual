@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2610130124 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2610140151 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2026-10-13 01:24:32 (UTC)
+; Last updated: 2026-10-14 01:51:10 (UTC)
 ;
 ; See https://jpgpi250.github.io/piholemanual/doc/Unbound%20response%20policy%20zones.pdf
 ; Report issues at https://github.com/jpgpi250/piholemanual/issues
@@ -1316,15 +1316,11 @@ polisitogel.beauty CNAME .
 polisitogel.hair CNAME .
 qqmcfw.tech CNAME .
 xbcpb668.com CNAME .
-3dcosas.xyz CNAME .
-bestwon203.com CNAME .
 dns.pernika.net CNAME .
 family.dns.doubleangels.com CNAME .
 lukscasino-479-tr.xyz CNAME .
 lukscasino-929-tr.xyz CNAME .
 mendozasdelivery.com CNAME .
-tecdrive.site CNAME .
-tuskythehusky.tech CNAME .
 ines.zfn.uni-bremen.de CNAME .
 us-nyc-w-f-1.nashkan.net CNAME .
 blocker.thethorsens.org CNAME .
@@ -1419,8 +1415,6 @@ dns.moog.sh CNAME .
 eu.tri-dns.net CNAME .
 dns.michelo.cl CNAME .
 dns.hakim.one CNAME .
-dns.edgeburnmedia.com CNAME .
-tlz.asia CNAME .
 doh-primary-pool.goodbyegambling.com CNAME .
 adguard.haneulo.com CNAME .
 5g.o0o.re CNAME .
@@ -1524,7 +1518,6 @@ kiri.nonexiste.net CNAME .
 agh.fltn.us CNAME .
 jp-kix.doh.sb CNAME .
 adguard.pangerl.it CNAME .
-adguard.johanliebert.top CNAME .
 hydra.plan9-ns1.com CNAME .
 httpdns-sc.aliyuncs.com CNAME .
 iij.jp CNAME .
@@ -3733,6 +3726,7 @@ nas1403.duckdns.org CNAME .
 unixfox.duckdns.org CNAME .
 x-o-x.duckdns.org CNAME .
 gustamadh.dynv6.net CNAME .
+dns.edgeburnmedia.com CNAME .
 jp.dns.bliod.eu.org CNAME .
 doh.excdn.eu.org CNAME .
 dns.lvqing.eu.org CNAME .
@@ -3791,6 +3785,7 @@ vps.jmarkin.ru CNAME .
 green4.jnraptor.net CNAME .
 layer1.jnraptor.net CNAME .
 pi4.jnraptor.net CNAME .
+adguard.johanliebert.top CNAME .
 dns.joindns4.in CNAME .
 adguard.kalyanmudumby.com CNAME .
 dns.kc2wbx.com CNAME .
@@ -3910,6 +3905,7 @@ httpdns.zybang.com CNAME .
 1and1-dns.de CNAME .
 20010114.xyz CNAME .
 233py.com CNAME .
+3dcosas.xyz CNAME .
 abpvn.org CNAME .
 adfight.ru CNAME .
 aihe.app CNAME .
@@ -3919,6 +3915,7 @@ alon93rus.ru CNAME .
 andrey93rus.ru CNAME .
 anixlab.com CNAME .
 bancuh.com CNAME .
+bestwon203.com CNAME .
 c-dns.com CNAME .
 chlaebi.info CNAME .
 closetruth.date CNAME .
@@ -3955,15 +3952,17 @@ qingmo.vip CNAME .
 schimtar.com CNAME .
 shalenkov.dev CNAME .
 shitblocker.com CNAME .
+tecdrive.site CNAME .
 tigrons.ru CNAME .
+tlz.asia CNAME .
 toaster.lol CNAME .
+tuskythehusky.tech CNAME .
 unasw.eu CNAME .
 uncensoreddns.org CNAME .
 wiqi.top CNAME .
 xbox-dns.ru CNAME .
 xiaoxinhui.cn CNAME .
 xins.live CNAME .
-zburger.top CNAME .
 aattwwss.duckdns.org CNAME .
 dns.aaytorr.com CNAME .
 adguardh.ga CNAME .
@@ -4079,7 +4078,6 @@ doh.cippapp.com CNAME .
 dns.hqdns.sarl CNAME .
 dns64.dns.yunzheng.space CNAME .
 pidoh.mapledns.net CNAME .
-dns.wahr.top CNAME .
 dns.olpploiopkuyhiopsfrt.info CNAME .
 us-nyc.doh.sb CNAME .
 de-ber.doh.sb CNAME .
