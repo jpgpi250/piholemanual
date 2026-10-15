@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2026-10-13 01:55:07 (UTC)
+! Last updated: 2026-10-14 02:23:51 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -1844,7 +1844,6 @@
 ||dns.vps.pw^
 ||dns.w3ctag.org^
 ||dns.wael.name^
-||dns.wahr.top^
 ||dns.wakgood.net^
 ||dns.walker.id^
 ||dns.walshnet.co.uk^
@@ -4065,7 +4064,6 @@
 ||zapacasa.ddns.net^
 ||zapranet.my.id^
 ||zaziss.com^
-||zburger.top^
 ||zdn.ro^
 ||zero.dns0.eu^
 ||zetland.rm-ni.uk^
