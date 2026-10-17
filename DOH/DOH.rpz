@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2610160153 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2610170127 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2026-10-16 01:53:07 (UTC)
+; Last updated: 2026-10-17 01:27:23 (UTC)
 ;
 ; See https://jpgpi250.github.io/piholemanual/doc/Unbound%20response%20policy%20zones.pdf
 ; Report issues at https://github.com/jpgpi250/piholemanual/issues
@@ -1319,6 +1319,7 @@ xbcpb668.com CNAME .
 family.dns.doubleangels.com CNAME .
 lukscasino-929-tr.xyz CNAME .
 mendozasdelivery.com CNAME .
+tuskythehusky.tech CNAME .
 ines.zfn.uni-bremen.de CNAME .
 us-nyc-w-f-1.nashkan.net CNAME .
 blocker.thethorsens.org CNAME .
@@ -1528,7 +1529,6 @@ sandbox.opendns.com CNAME .
 familyshield.opendns.com CNAME .
 dns.opendns.com CNAME .
 dns.umbrella.com CNAME .
-dns.dyn1.de CNAME .
 adguardhome.atakorah.com CNAME .
 dns.soldier.terumi.club CNAME .
 dns.mnet-online.de CNAME .
@@ -2103,6 +2103,7 @@ adguard-koe.dns64.de CNAME .
 www.dnsforge.de CNAME .
 duii.de CNAME .
 atlantic.dyn1.de CNAME .
+dns.dyn1.de CNAME .
 dns.internal.espresso-tasse.de CNAME .
 handy-matthias.dns.internal.espresso-tasse.de CNAME .
 handy-nils.dns.internal.espresso-tasse.de CNAME .
@@ -3789,6 +3790,7 @@ adguard.kalyanmudumby.com CNAME .
 dns.kc2wbx.com CNAME .
 adguard.kngnet.de CNAME .
 hdns.ksyun.com CNAME .
+dns.labnekotest.site CNAME .
 adguard.laurenlaufman.com CNAME .
 dns.lihj.me CNAME .
 dns.lilith.cloud CNAME .
@@ -3822,6 +3824,7 @@ edge.nextdns.io CNAME .
 adguard.nielsenhost.dk CNAME .
 dns.nxsyspro.com CNAME .
 ha.o51r15.com CNAME .
+dns.olpploiopkuyhiopsfrt.info CNAME .
 2.dnscrypt-cert.opendns.com CNAME .
 adblock.opendoh.com CNAME .
 dns.opendoh.com CNAME .
@@ -3957,7 +3960,6 @@ tecdrive.site CNAME .
 tigrons.ru CNAME .
 tlz.asia CNAME .
 toaster.lol CNAME .
-tuskythehusky.tech CNAME .
 unasw.eu CNAME .
 uncensoreddns.org CNAME .
 wiqi.top CNAME .
@@ -4073,14 +4075,13 @@ adg.rueiliu.space CNAME .
 dns.zui.lol CNAME .
 adfiltro.fun CNAME .
 alleesph.online CNAME .
-dns.labnekotest.site CNAME .
 dns.hshoe.cn CNAME .
 doh.cippapp.com CNAME .
 dns.hqdns.sarl CNAME .
 dns64.dns.yunzheng.space CNAME .
 pidoh.mapledns.net CNAME .
-dns.olpploiopkuyhiopsfrt.info CNAME .
 us-nyc.doh.sb CNAME .
 de-ber.doh.sb CNAME .
 us-chi.doh.sb CNAME .
 us-sjc.doh.sb CNAME .
+dns.wahr.top CNAME .
