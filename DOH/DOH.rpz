@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2610170127 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2610180153 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2026-10-17 01:27:23 (UTC)
+; Last updated: 2026-10-18 01:53:11 (UTC)
 ;
 ; See https://jpgpi250.github.io/piholemanual/doc/Unbound%20response%20policy%20zones.pdf
 ; Report issues at https://github.com/jpgpi250/piholemanual/issues
@@ -1316,10 +1316,9 @@ polisitogel.beauty CNAME .
 polisitogel.hair CNAME .
 qqmcfw.tech CNAME .
 xbcpb668.com CNAME .
-family.dns.doubleangels.com CNAME .
-lukscasino-929-tr.xyz CNAME .
+3dcosas.xyz CNAME .
+lukscasino-479-tr.xyz CNAME .
 mendozasdelivery.com CNAME .
-tuskythehusky.tech CNAME .
 ines.zfn.uni-bremen.de CNAME .
 us-nyc-w-f-1.nashkan.net CNAME .
 blocker.thethorsens.org CNAME .
@@ -1529,6 +1528,7 @@ sandbox.opendns.com CNAME .
 familyshield.opendns.com CNAME .
 dns.opendns.com CNAME .
 dns.umbrella.com CNAME .
+dns.dyn1.de CNAME .
 adguardhome.atakorah.com CNAME .
 dns.soldier.terumi.club CNAME .
 dns.mnet-online.de CNAME .
@@ -2103,7 +2103,6 @@ adguard-koe.dns64.de CNAME .
 www.dnsforge.de CNAME .
 duii.de CNAME .
 atlantic.dyn1.de CNAME .
-dns.dyn1.de CNAME .
 dns.internal.espresso-tasse.de CNAME .
 handy-matthias.dns.internal.espresso-tasse.de CNAME .
 handy-nils.dns.internal.espresso-tasse.de CNAME .
@@ -3709,6 +3708,7 @@ srv04.dns64.de CNAME .
 2.dnscrypt-cert.shield-2.dnsbycomodo.com CNAME .
 msp01.dnscry.pt CNAME .
 doh-lb-tr.dnsflex.com CNAME .
+family.dns.doubleangels.com CNAME .
 dns35.allone.dpdns.org CNAME .
 de-adguard.dr3ff1c13nt.com CNAME .
 dns.dr3ff1c13nt.com CNAME .
@@ -3908,7 +3908,6 @@ httpdns.zybang.com CNAME .
 1and1-dns.de CNAME .
 20010114.xyz CNAME .
 233py.com CNAME .
-3dcosas.xyz CNAME .
 abpvn.org CNAME .
 adfight.ru CNAME .
 aihe.app CNAME .
@@ -3941,7 +3940,7 @@ incaseineeditoneday.com CNAME .
 intertop.link CNAME .
 kennethhuang.com CNAME .
 kondrcloud.ru CNAME .
-lukscasino-479-tr.xyz CNAME .
+lukscasino-929-tr.xyz CNAME .
 minilla.store CNAME .
 msr177.com CNAME .
 mysolod.xyz CNAME .
@@ -3960,6 +3959,7 @@ tecdrive.site CNAME .
 tigrons.ru CNAME .
 tlz.asia CNAME .
 toaster.lol CNAME .
+tuskythehusky.tech CNAME .
 unasw.eu CNAME .
 uncensoreddns.org CNAME .
 wiqi.top CNAME .
