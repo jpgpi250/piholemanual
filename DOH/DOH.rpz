@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2610200137 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2610210126 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2026-10-20 01:37:04 (UTC)
+; Last updated: 2026-10-21 01:26:07 (UTC)
 ;
 ; See https://jpgpi250.github.io/piholemanual/doc/Unbound%20response%20policy%20zones.pdf
 ; Report issues at https://github.com/jpgpi250/piholemanual/issues
@@ -1282,7 +1282,6 @@ dns.xwdmw.xyz CNAME .
 draco.plan9-ns2.com CNAME .
 hkname.freecdn.one CNAME .
 lion.yazilimatolye.com CNAME .
-pashagame456.com CNAME .
 sitdns.com CNAME .
 timedns.net CNAME .
 vtcuong.site CNAME .
@@ -1316,8 +1315,8 @@ polisitogel.beauty CNAME .
 polisitogel.hair CNAME .
 qqmcfw.tech CNAME .
 xbcpb668.com CNAME .
+3dcosas.xyz CNAME .
 bestwon203.com CNAME .
-lukscasino-479-tr.xyz CNAME .
 ines.zfn.uni-bremen.de CNAME .
 us-nyc-w-f-1.nashkan.net CNAME .
 blocker.thethorsens.org CNAME .
@@ -1514,6 +1513,7 @@ kiri.nonexiste.net CNAME .
 agh.fltn.us CNAME .
 jp-kix.doh.sb CNAME .
 adguard.pangerl.it CNAME .
+adguard.johanliebert.top CNAME .
 hydra.plan9-ns1.com CNAME .
 httpdns-sc.aliyuncs.com CNAME .
 iij.jp CNAME .
@@ -3783,7 +3783,6 @@ vps.jmarkin.ru CNAME .
 green4.jnraptor.net CNAME .
 layer1.jnraptor.net CNAME .
 pi4.jnraptor.net CNAME .
-adguard.johanliebert.top CNAME .
 dns.joindns4.in CNAME .
 adguard.kalyanmudumby.com CNAME .
 dns.kc2wbx.com CNAME .
@@ -3907,7 +3906,6 @@ httpdns.zybang.com CNAME .
 1and1-dns.de CNAME .
 20010114.xyz CNAME .
 233py.com CNAME .
-3dcosas.xyz CNAME .
 abpvn.org CNAME .
 adfight.ru CNAME .
 aihe.app CNAME .
@@ -3939,6 +3937,7 @@ incaseineeditoneday.com CNAME .
 intertop.link CNAME .
 kennethhuang.com CNAME .
 kondrcloud.ru CNAME .
+lukscasino-479-tr.xyz CNAME .
 lukscasino-929-tr.xyz CNAME .
 mendozasdelivery.com CNAME .
 minilla.store CNAME .
@@ -3949,6 +3948,7 @@ ningyan.top CNAME .
 nwps.fi CNAME .
 okado.online CNAME .
 openbld.net CNAME .
+pashagame456.com CNAME .
 paskam.xyz CNAME .
 publicdnsserver.com CNAME .
 qingmo.vip CNAME .
