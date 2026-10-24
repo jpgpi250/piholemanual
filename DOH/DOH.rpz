@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2610230132 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2610240127 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2026-10-23 01:32:19 (UTC)
+; Last updated: 2026-10-24 01:27:14 (UTC)
 ;
 ; See https://jpgpi250.github.io/piholemanual/doc/Unbound%20response%20policy%20zones.pdf
 ; Report issues at https://github.com/jpgpi250/piholemanual/issues
@@ -817,7 +817,6 @@ family.adguarddns.com CNAME .
 buh01.dnscry.pt CNAME .
 mci01.dnscry.pt CNAME .
 jkt01.dnscry.pt CNAME .
-doh64.dns4all.eu CNAME .
 cpt01.dnscry.pt CNAME .
 dus03.dnscry.pt CNAME .
 yhz01.dnscry.pt CNAME .
@@ -855,7 +854,6 @@ adb.timnichollsphotography.com CNAME .
 dns.flightspace.net CNAME .
 dns.scapetical.com CNAME .
 eth.link CNAME .
-dns.edgy.network CNAME .
 dns.faze.dev CNAME .
 dns.vip-kingstore.xyz CNAME .
 ikarosalpha.xyz CNAME .
@@ -1054,6 +1052,7 @@ resolver2.absolight.net CNAME .
 resolver1.absolight.net CNAME .
 adguard.piekacz.pl CNAME .
 dns.nullgate.net CNAME .
+pates.services.sfr.fr.casepp.sfr.fr CNAME .
 3dns.eu CNAME .
 doh.kekew.info CNAME .
 dns.mihanentalpo.me CNAME .
@@ -1313,9 +1312,6 @@ polisitogel.hair CNAME .
 qqmcfw.tech CNAME .
 xbcpb668.com CNAME .
 3dcosas.xyz CNAME .
-lukscasino-479-tr.xyz CNAME .
-lukscasino-929-tr.xyz CNAME .
-tecdrive.site CNAME .
 ines.zfn.uni-bremen.de CNAME .
 us-nyc-w-f-1.nashkan.net CNAME .
 blocker.thethorsens.org CNAME .
@@ -1513,7 +1509,6 @@ kiri.nonexiste.net CNAME .
 agh.fltn.us CNAME .
 jp-kix.doh.sb CNAME .
 adguard.pangerl.it CNAME .
-adguard.johanliebert.top CNAME .
 hydra.plan9-ns1.com CNAME .
 httpdns-sc.aliyuncs.com CNAME .
 iij.jp CNAME .
@@ -1526,6 +1521,7 @@ sandbox.opendns.com CNAME .
 familyshield.opendns.com CNAME .
 dns.opendns.com CNAME .
 dns.umbrella.com CNAME .
+dns.dyn1.de CNAME .
 adguardhome.atakorah.com CNAME .
 dns.soldier.terumi.club CNAME .
 dns.mnet-online.de CNAME .
@@ -2100,7 +2096,6 @@ adguard-koe.dns64.de CNAME .
 www.dnsforge.de CNAME .
 duii.de CNAME .
 atlantic.dyn1.de CNAME .
-dns.dyn1.de CNAME .
 dns.internal.espresso-tasse.de CNAME .
 handy-matthias.dns.internal.espresso-tasse.de CNAME .
 handy-nils.dns.internal.espresso-tasse.de CNAME .
@@ -3612,7 +3607,6 @@ nebula.tru.io CNAME .
 ns1.i-evolve.net CNAME .
 ns2.hshh.org CNAME .
 ny.teradns.org CNAME .
-pates.services.sfr.fr.casepp.sfr.fr CNAME .
 pope.cnblw.me CNAME .
 sby-doh.limotelu.org CNAME .
 sg.teradns.org CNAME .
@@ -3700,6 +3694,7 @@ adguard.dessoi.cloud CNAME .
 mainframe.dewed.de CNAME .
 eka.dilli.dev CNAME .
 home.dlinkddns.com CNAME .
+doh64.dns4all.eu CNAME .
 srv01.dns64.de CNAME .
 srv02.dns64.de CNAME .
 srv03.dns64.de CNAME .
@@ -3725,6 +3720,7 @@ nas1403.duckdns.org CNAME .
 unixfox.duckdns.org CNAME .
 x-o-x.duckdns.org CNAME .
 dns.edgeburnmedia.com CNAME .
+dns.edgy.network CNAME .
 jp.dns.bliod.eu.org CNAME .
 doh.excdn.eu.org CNAME .
 dns.lvqing.eu.org CNAME .
@@ -3785,6 +3781,7 @@ vps.jmarkin.ru CNAME .
 green4.jnraptor.net CNAME .
 layer1.jnraptor.net CNAME .
 pi4.jnraptor.net CNAME .
+adguard.johanliebert.top CNAME .
 dns.joindns4.in CNAME .
 adguard.kalyanmudumby.com CNAME .
 dns.kc2wbx.com CNAME .
@@ -3940,6 +3937,8 @@ incaseineeditoneday.com CNAME .
 intertop.link CNAME .
 kennethhuang.com CNAME .
 kondrcloud.ru CNAME .
+lukscasino-479-tr.xyz CNAME .
+lukscasino-929-tr.xyz CNAME .
 mendozasdelivery.com CNAME .
 minilla.store CNAME .
 msr177.com CNAME .
@@ -3956,6 +3955,7 @@ qingmo.vip CNAME .
 schimtar.com CNAME .
 shalenkov.dev CNAME .
 shitblocker.com CNAME .
+tecdrive.site CNAME .
 tigrons.ru CNAME .
 tlz.asia CNAME .
 toaster.lol CNAME .
