@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2610250150 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2610270402 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2026-10-25 01:50:04 (UTC)
+; Last updated: 2026-10-27 04:02:49 (UTC)
 ;
 ; See https://jpgpi250.github.io/piholemanual/doc/Unbound%20response%20policy%20zones.pdf
 ; Report issues at https://github.com/jpgpi250/piholemanual/issues
@@ -1167,7 +1167,6 @@ dns.engineer.web.id CNAME .
 dns.spil.co.id CNAME .
 dns.nguyendn.com CNAME .
 d.apemlegit.my.id CNAME .
-doh.zephyrus.id CNAME .
 dns.goldplate.org CNAME .
 solaxy.live CNAME .
 dns.ashleyjackson.net CNAME .
@@ -1312,10 +1311,7 @@ polisitogel.beauty CNAME .
 polisitogel.hair CNAME .
 qqmcfw.tech CNAME .
 xbcpb668.com CNAME .
-dns.pernika.net CNAME .
-lukscasino-479-tr.xyz CNAME .
 mendozasdelivery.com CNAME .
-tuskythehusky.tech CNAME .
 ines.zfn.uni-bremen.de CNAME .
 us-nyc-w-f-1.nashkan.net CNAME .
 blocker.thethorsens.org CNAME .
@@ -1525,6 +1521,7 @@ sandbox.opendns.com CNAME .
 familyshield.opendns.com CNAME .
 dns.opendns.com CNAME .
 dns.umbrella.com CNAME .
+dns.dyn1.de CNAME .
 adguardhome.atakorah.com CNAME .
 dns.soldier.terumi.club CNAME .
 dns.mnet-online.de CNAME .
@@ -2099,7 +2096,6 @@ adguard-koe.dns64.de CNAME .
 www.dnsforge.de CNAME .
 duii.de CNAME .
 atlantic.dyn1.de CNAME .
-dns.dyn1.de CNAME .
 dns.internal.espresso-tasse.de CNAME .
 handy-matthias.dns.internal.espresso-tasse.de CNAME .
 handy-nils.dns.internal.espresso-tasse.de CNAME .
@@ -3831,6 +3827,7 @@ dns.opendoh.com CNAME .
 httpdns.ocloud.oppomobile.com CNAME .
 httpdns.push.oppomobile.com CNAME .
 dns-ovh.panszelescik.pl CNAME .
+dns.pernika.net CNAME .
 doh.westeu.pi-dns.com CNAME .
 dns1.pietjacobs.be CNAME .
 thanos.pleumkungz.com CNAME .
@@ -3900,6 +3897,7 @@ httpdns.yunxindns.com CNAME .
 dns.yuzia.cc CNAME .
 doh.ywhost.com CNAME .
 httpdns.gslb.yy.com CNAME .
+doh.zephyrus.id CNAME .
 httpdns.zhihu.com CNAME .
 xyz2.zmjflow.com CNAME .
 xyz3.zmjflow.com CNAME .
@@ -3913,7 +3911,6 @@ adfight.ru CNAME .
 aihe.app CNAME .
 alidns.com CNAME .
 aliyunhttpdns.com CNAME .
-alon93rus.ru CNAME .
 andrey93rus.ru CNAME .
 anixlab.com CNAME .
 bancuh.com CNAME .
@@ -3940,6 +3937,7 @@ incaseineeditoneday.com CNAME .
 intertop.link CNAME .
 kennethhuang.com CNAME .
 kondrcloud.ru CNAME .
+lukscasino-479-tr.xyz CNAME .
 lukscasino-929-tr.xyz CNAME .
 minilla.store CNAME .
 msr177.com CNAME .
@@ -3960,6 +3958,7 @@ tecdrive.site CNAME .
 tigrons.ru CNAME .
 tlz.asia CNAME .
 toaster.lol CNAME .
+tuskythehusky.tech CNAME .
 unasw.eu CNAME .
 uncensoreddns.org CNAME .
 wiqi.top CNAME .
