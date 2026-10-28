@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2610270402 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2610280421 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2026-10-27 04:02:49 (UTC)
+; Last updated: 2026-10-28 04:21:20 (UTC)
 ;
 ; See https://jpgpi250.github.io/piholemanual/doc/Unbound%20response%20policy%20zones.pdf
 ; Report issues at https://github.com/jpgpi250/piholemanual/issues
@@ -1277,6 +1277,7 @@ dns.maolaohei.xyz CNAME .
 dns.warma.me CNAME .
 dns.xwdmw.xyz CNAME .
 draco.plan9-ns2.com CNAME .
+hkname.freecdn.one CNAME .
 lion.yazilimatolye.com CNAME .
 sitdns.com CNAME .
 timedns.net CNAME .
@@ -1311,7 +1312,7 @@ polisitogel.beauty CNAME .
 polisitogel.hair CNAME .
 qqmcfw.tech CNAME .
 xbcpb668.com CNAME .
-mendozasdelivery.com CNAME .
+tecdrive.site CNAME .
 ines.zfn.uni-bremen.de CNAME .
 us-nyc-w-f-1.nashkan.net CNAME .
 blocker.thethorsens.org CNAME .
@@ -1521,7 +1522,6 @@ sandbox.opendns.com CNAME .
 familyshield.opendns.com CNAME .
 dns.opendns.com CNAME .
 dns.umbrella.com CNAME .
-dns.dyn1.de CNAME .
 adguardhome.atakorah.com CNAME .
 dns.soldier.terumi.club CNAME .
 dns.mnet-online.de CNAME .
@@ -2096,6 +2096,7 @@ adguard-koe.dns64.de CNAME .
 www.dnsforge.de CNAME .
 duii.de CNAME .
 atlantic.dyn1.de CNAME .
+dns.dyn1.de CNAME .
 dns.internal.espresso-tasse.de CNAME .
 handy-matthias.dns.internal.espresso-tasse.de CNAME .
 handy-nils.dns.internal.espresso-tasse.de CNAME .
@@ -3737,7 +3738,6 @@ jp-to.foxyfy.net CNAME .
 us-ny.foxyfy.net CNAME .
 adguard.frece.de CNAME .
 adguard2.frece.de CNAME .
-hkname.freecdn.one CNAME .
 adguard.ghkyzz.us CNAME .
 doh.ptqy.gitv.tv CNAME .
 dns.glorydns.com CNAME .
@@ -3939,6 +3939,7 @@ kennethhuang.com CNAME .
 kondrcloud.ru CNAME .
 lukscasino-479-tr.xyz CNAME .
 lukscasino-929-tr.xyz CNAME .
+mendozasdelivery.com CNAME .
 minilla.store CNAME .
 msr177.com CNAME .
 mysolod.xyz CNAME .
@@ -3954,7 +3955,6 @@ qingmo.vip CNAME .
 schimtar.com CNAME .
 shalenkov.dev CNAME .
 shitblocker.com CNAME .
-tecdrive.site CNAME .
 tigrons.ru CNAME .
 tlz.asia CNAME .
 toaster.lol CNAME .
@@ -4079,10 +4079,10 @@ doh.cippapp.com CNAME .
 dns.hqdns.sarl CNAME .
 dns64.dns.yunzheng.space CNAME .
 pidoh.mapledns.net CNAME .
+dns.wahr.top CNAME .
 us-nyc.doh.sb CNAME .
 de-ber.doh.sb CNAME .
 us-chi.doh.sb CNAME .
 us-sjc.doh.sb CNAME .
-dns.wahr.top CNAME .
 sao01.dnscry.pt CNAME .
 dns.futuredns.me CNAME .
