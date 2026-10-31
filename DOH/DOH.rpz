@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2610300409 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2610310422 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2026-10-30 04:09:08 (UTC)
+; Last updated: 2026-10-31 04:22:02 (UTC)
 ;
 ; See https://jpgpi250.github.io/piholemanual/doc/Unbound%20response%20policy%20zones.pdf
 ; Report issues at https://github.com/jpgpi250/piholemanual/issues
@@ -738,7 +738,6 @@ ped01.dnscry.pt CNAME .
 cleanbrowsing.org CNAME .
 sgn01.dnscry.pt CNAME .
 den01.dnscry.pt CNAME .
-bkk01.dnscry.pt CNAME .
 dns.digitalegesellschaft.ch CNAME .
 lis01.dnscry.pt CNAME .
 mru02.dnscry.pt CNAME .
@@ -1312,7 +1311,8 @@ polisitogel.beauty CNAME .
 polisitogel.hair CNAME .
 qqmcfw.tech CNAME .
 xbcpb668.com CNAME .
-3dcosas.xyz CNAME .
+bestwon203.com CNAME .
+mendozasdelivery.com CNAME .
 ines.zfn.uni-bremen.de CNAME .
 us-nyc-w-f-1.nashkan.net CNAME .
 blocker.thethorsens.org CNAME .
@@ -3460,6 +3460,7 @@ srv02.dns64.de CNAME .
 srv03.dns64.de CNAME .
 srv04.dns64.de CNAME .
 2.dnscrypt-cert.shield-2.dnsbycomodo.com CNAME .
+bkk01.dnscry.pt CNAME .
 jen01.dnscry.pt CNAME .
 msp01.dnscry.pt CNAME .
 doh-lb-tr.dnsflex.com CNAME .
@@ -3483,7 +3484,6 @@ nas1403.duckdns.org CNAME .
 unixfox.duckdns.org CNAME .
 x-o-x.duckdns.org CNAME .
 dns.edgeburnmedia.com CNAME .
-dns.edgy.network CNAME .
 bl.eq.md CNAME .
 jp.dns.bliod.eu.org CNAME .
 doh.excdn.eu.org CNAME .
@@ -3604,7 +3604,6 @@ httpdns.ocloud.oppomobile.com CNAME .
 httpdns.push.oppomobile.com CNAME .
 dns-ovh.panszelescik.pl CNAME .
 dns.pernika.net CNAME .
-doh.westeu.pi-dns.com CNAME .
 dns1.pietjacobs.be CNAME .
 thanos.pleumkungz.com CNAME .
 dns.pointless.chat CNAME .
@@ -3691,6 +3690,7 @@ httpdns.zybang.com CNAME .
 1and1-dns.de CNAME .
 20010114.xyz CNAME .
 233py.com CNAME .
+3dcosas.xyz CNAME .
 959818.xyz CNAME .
 abpvn.org CNAME .
 adfight.ru CNAME .
@@ -3704,7 +3704,6 @@ arcticstorm.ru CNAME .
 b9c7dc4e-7dde-4903-935b-fd6ea59ca4fb.space CNAME .
 bancuh.com CNAME .
 baxtri.ru CNAME .
-bestwon203.com CNAME .
 bluedns.xyz CNAME .
 c-dns.com CNAME .
 chlaebi.info CNAME .
@@ -3736,7 +3735,6 @@ kondrcloud.ru CNAME .
 kstdownload.com CNAME .
 lukscasino-479-tr.xyz CNAME .
 lukscasino-929-tr.xyz CNAME .
-mendozasdelivery.com CNAME .
 mikezhang.xyz CNAME .
 minilla.store CNAME .
 msr177.com CNAME .
@@ -3866,13 +3864,11 @@ dns.5ososea.com CNAME .
 jp.68360612.xyz CNAME .
 www.rethinkdns.com CNAME .
 aitkcrev.minhduc.pw CNAME .
-dns-fr-psv1.cloudsides.com CNAME .
 dns.paliska.net CNAME .
 blockdns.com CNAME .
 ublockdns.com CNAME .
 dns.yunzheng.space CNAME .
 filter.dns.yunzheng.space CNAME .
-www.dltuykfgp.top CNAME .
 dltuykfgp.top CNAME .
 family.dns.dremaxx.com CNAME .
 open.dns.dremaxx.com CNAME .
