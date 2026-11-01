@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2026-10-30 04:37:55 (UTC)
+! Last updated: 2026-10-31 04:50:35 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -911,7 +911,6 @@
 ||dns-east.tylerwahl.com^
 ||dns-family.adguard.com^
 ||dns-family.esegece.com^
-||dns-fr-psv1.cloudsides.com^
 ||dns-free.link^
 ||dns-gcp.aaflalo.me^
 ||dns-guard1.cryptroute.com^
@@ -1217,7 +1216,6 @@
 ||dns.eddi.net^
 ||dns.edgeburnmedia.com^
 ||dns.edgeworkssystems.ca^
-||dns.edgy.network^
 ||dns.edison42.dev^
 ||dns.efficientdocuments.com^
 ||dns.ekinao.com^
@@ -2338,7 +2336,6 @@
 ||doh.viatech.com.tw^
 ||doh.vpsdns.co.za^
 ||doh.webnmail.de^
-||doh.westeu.pi-dns.com^
 ||doh.westus.pi-dns.com^
 ||doh.wewitro.net^
 ||doh.xcom.pro^
@@ -4027,7 +4024,6 @@
 ||www.closetruth.date^
 ||www.dehb.ru^
 ||www.digitallink.be^
-||www.dltuykfgp.top^
 ||www.dns.stud.cloud^
 ||www.dnsadguard.co.uk^
 ||www.dnsforge.de^
