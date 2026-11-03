@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2026-11-01 04:58:08 (UTC)
+! Last updated: 2026-11-02 05:06:32 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -668,6 +668,7 @@
 ||be2aja.my.id^
 ||beacon.dog^
 ||beacon.fengli.love^
+||beatquantum.com^
 ||beautifullife.eu.org^
 ||beautifulthings.eu.org^
 ||bei01.dnscry.pt^
@@ -1347,6 +1348,7 @@
 ||dns.grqu.de^
 ||dns.gsmseti.net^
 ||dns.guard.io^
+||dns.guardmydns.com^
 ||dns.gupthabrothers.in^
 ||dns.gussguss.ovh^
 ||dns.gutwe.in^
