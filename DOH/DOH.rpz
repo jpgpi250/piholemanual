@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2611030417 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2611040419 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2026-11-03 04:17:16 (UTC)
+; Last updated: 2026-11-04 04:19:16 (UTC)
 ;
 ; See https://jpgpi250.github.io/piholemanual/doc/Unbound%20response%20policy%20zones.pdf
 ; Report issues at https://github.com/jpgpi250/piholemanual/issues
@@ -832,8 +832,6 @@ doh.ntu.ssooss.win CNAME .
 dns.nic.in CNAME .
 agh.kyusang.win CNAME .
 block.abstergo.it CNAME .
-pm1239-bd.xyz CNAME .
-pm9352-bd.xyz CNAME .
 kz-pav-w-p-1.nashkan.net CNAME .
 qual.cuprum.ru CNAME .
 kr-sel.doh.sb CNAME .
@@ -859,7 +857,6 @@ eth.link CNAME .
 dns.faze.dev CNAME .
 dns.vip-kingstore.xyz CNAME .
 ikarosalpha.xyz CNAME .
-dns4eu.online CNAME .
 dns.dns-53.us CNAME .
 mask-api.icloud.com CNAME .
 doh.kidzonet.io CNAME .
@@ -4109,6 +4106,7 @@ daverotaquio.net CNAME .
 dehb.ru CNAME .
 digitallink.be CNAME .
 dltuykfgp.top CNAME .
+dns4eu.online CNAME .
 dnspod.com CNAME .
 domain.name CNAME .
 emmmmm.me CNAME .
@@ -4147,6 +4145,8 @@ pashagame456.com CNAME .
 paskam.xyz CNAME .
 personal-proj-by-me.eu CNAME .
 petinom.online CNAME .
+pm1239-bd.xyz CNAME .
+pm9352-bd.xyz CNAME .
 publicdnsserver.com CNAME .
 qingmo.vip CNAME .
 schimtar.com CNAME .
