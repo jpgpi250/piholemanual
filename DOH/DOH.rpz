@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2611050410 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2611060411 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2026-11-05 04:10:13 (UTC)
+; Last updated: 2026-11-06 04:11:57 (UTC)
 ;
 ; See https://jpgpi250.github.io/piholemanual/doc/Unbound%20response%20policy%20zones.pdf
 ; Report issues at https://github.com/jpgpi250/piholemanual/issues
@@ -777,7 +777,6 @@ blr01.dnscry.pt CNAME .
 tyo03.dnscry.pt CNAME .
 isb01.dnscry.pt CNAME .
 eyg01.dnscry.pt CNAME .
-cloudflaredns.com CNAME .
 lis02.dnscry.pt CNAME .
 bts01.dnscry.pt CNAME .
 ott01.dnscry.pt CNAME .
@@ -857,7 +856,6 @@ dns.flightspace.net CNAME .
 dns.scapetical.com CNAME .
 eth.link CNAME .
 dns.faze.dev CNAME .
-dns.vip-kingstore.xyz CNAME .
 ikarosalpha.xyz CNAME .
 dns.dns-53.us CNAME .
 mask-api.icloud.com CNAME .
@@ -1418,7 +1416,6 @@ dns.moog.sh CNAME .
 eu.tri-dns.net CNAME .
 dns.michelo.cl CNAME .
 dns.hakim.one CNAME .
-3dcosas.xyz CNAME .
 doh-primary-pool.goodbyegambling.com CNAME .
 adguard.haneulo.com CNAME .
 5g.o0o.re CNAME .
@@ -1543,6 +1540,7 @@ sandbox.opendns.com CNAME .
 familyshield.opendns.com CNAME .
 dns.opendns.com CNAME .
 dns.umbrella.com CNAME .
+dns.dyn1.de CNAME .
 adguardhome.atakorah.com CNAME .
 dns.mnet-online.de CNAME .
 solaxy.live CNAME .
@@ -2162,7 +2160,6 @@ www.dnsforge.de CNAME .
 myfreedns.dogsmedia.de CNAME .
 duii.de CNAME .
 atlantic.dyn1.de CNAME .
-dns.dyn1.de CNAME .
 opennic-ns.egelhaus.de CNAME .
 dns.internal.espresso-tasse.de CNAME .
 handy-anton.dns.internal.espresso-tasse.de CNAME .
@@ -3903,7 +3900,6 @@ dns.hannielzhang.com CNAME .
 dns.herkhof.nl CNAME .
 httpdns.ocloud.heytapmobi.com CNAME .
 dns-01.hir.app CNAME .
-dns.hoian.one CNAME .
 dns.hopsken.com CNAME .
 2wired.hopto.org CNAME .
 keithchung.hopto.org CNAME .
@@ -3911,7 +3907,6 @@ keithchunguat.hopto.org CNAME .
 voyagerz.hopto.org CNAME .
 doh.hosterra.tech CNAME .
 adguard.hostingsignal.in CNAME .
-dns.hqdns.sarl CNAME .
 dnsguard.hte.vn CNAME .
 dns.huanmave.cc CNAME .
 httpdns.huaweicloud.com CNAME .
@@ -4047,6 +4042,7 @@ dns.truong.fi CNAME .
 adguard.vape.ong CNAME .
 kids.vietdns.vn CNAME .
 dns2.vinc.me CNAME .
+dns.vip-kingstore.xyz CNAME .
 ad.visbran.fr CNAME .
 httpdns.volcengineapi.com CNAME .
 dns.wahr.top CNAME .
@@ -4079,6 +4075,7 @@ httpdns.zybang.com CNAME .
 1and1-dns.de CNAME .
 20010114.xyz CNAME .
 233py.com CNAME .
+3dcosas.xyz CNAME .
 959818.xyz CNAME .
 abpvn.org CNAME .
 adfight.ru CNAME .
@@ -4098,6 +4095,7 @@ bluedns.xyz CNAME .
 c-dns.com CNAME .
 chlaebi.info CNAME .
 closetruth.date CNAME .
+cloudflaredns.com CNAME .
 cloudflareresolve.com CNAME .
 daverotaquio.net CNAME .
 dehb.ru CNAME .
@@ -4259,3 +4257,4 @@ beatquantum.com CNAME .
 mak-na.ru CNAME .
 doh.fullhosting.ru CNAME .
 dns.moklav.co.jp CNAME .
+dns.cleardns.io CNAME .
