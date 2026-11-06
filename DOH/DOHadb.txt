@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2026-11-04 04:48:17 (UTC)
+! Last updated: 2026-11-05 04:39:20 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -680,7 +680,6 @@
 ||bh.wael.name^
 ||biba.ydns.eu^
 ||bilidon.dnsuser.info^
-||bkk01.dnscry.pt^
 ||bl.eq.md^
 ||blackbb.eu.org^
 ||blackdragon6699.diskstation.me^
@@ -912,7 +911,6 @@
 ||disinformer.mooo.com^
 ||diskstation.alexpollard.net^
 ||djtesok.ddns.net^
-||dltuykfgp.top^
 ||dmhs.tovrixel.com^
 ||dmit.wangjiaqi.store^
 ||dmithk.whzxc.com^
@@ -1250,7 +1248,6 @@
 ||dns.echpochmak-club.ru^
 ||dns.edc-pws.com^
 ||dns.eddi.net^
-||dns.edgeburnmedia.com^
 ||dns.edgeworkssystems.ca^
 ||dns.edison42.dev^
 ||dns.efficientdocuments.com^
@@ -1588,6 +1585,7 @@
 ||dns.mnet-online.de^
 ||dns.mni.li^
 ||dns.mochalka.com^
+||dns.moklav.co.jp^
 ||dns.molinero.dev^
 ||dns.momou.ch^
 ||dns.moog.sh^
@@ -2112,7 +2110,6 @@
 ||dns35.allone.dpdns.org^
 ||dns4.bortus.io^
 ||dns4.home-albrecht.com^
-||dns4eu.online^
 ||dns4me.net^
 ||dns5.home-albrecht.com^
 ||dns6.web.id^
@@ -2281,6 +2278,7 @@
 ||doh.fatucloud.gosprout.org^
 ||doh.ffmuc.net^
 ||doh.flashstart.com^
+||doh.fullhosting.ru^
 ||doh.funil.de^
 ||doh.funtopia.tv^
 ||doh.futa.app^
@@ -2533,7 +2531,6 @@
 ||fanscloud.net^
 ||faradns.net^
 ||faradns2.net^
-||farewellkou.click^
 ||fargos2.dns.army^
 ||fdns1.dismail.de^
 ||fdns2.dismail.de^
@@ -2883,7 +2880,6 @@
 ||jax01.dnscry.pt^
 ||jcdns.fun^
 ||jellyfin.smirnovfamily.ru^
-||jen01.dnscry.pt^
 ||jfeoks.duckdns.org^
 ||jhb01.dnscry.pt^
 ||jimmyshjj.top^
