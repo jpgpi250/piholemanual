@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2611060411 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2611070417 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2026-11-06 04:11:57 (UTC)
+; Last updated: 2026-11-07 04:17:07 (UTC)
 ;
 ; See https://jpgpi250.github.io/piholemanual/doc/Unbound%20response%20policy%20zones.pdf
 ; Report issues at https://github.com/jpgpi250/piholemanual/issues
@@ -720,7 +720,6 @@ fet02.dnscry.pt CNAME .
 dnsbunker.org CNAME .
 sto02.dnscry.pt CNAME .
 jax01.dnscry.pt CNAME .
-doh64.dns4all.eu CNAME .
 mow01.dnscry.pt CNAME .
 blank.dnsforge.de CNAME .
 cleanbrowsing.org CNAME .
@@ -777,6 +776,7 @@ blr01.dnscry.pt CNAME .
 tyo03.dnscry.pt CNAME .
 isb01.dnscry.pt CNAME .
 eyg01.dnscry.pt CNAME .
+cloudflaredns.com CNAME .
 lis02.dnscry.pt CNAME .
 bts01.dnscry.pt CNAME .
 ott01.dnscry.pt CNAME .
@@ -1416,6 +1416,8 @@ dns.moog.sh CNAME .
 eu.tri-dns.net CNAME .
 dns.michelo.cl CNAME .
 dns.hakim.one CNAME .
+3dcosas.xyz CNAME .
+lukscasino-929-tr.xyz CNAME .
 doh-primary-pool.goodbyegambling.com CNAME .
 adguard.haneulo.com CNAME .
 5g.o0o.re CNAME .
@@ -1446,12 +1448,9 @@ dns.horcrux.vip CNAME .
 dns.pccoach.nl CNAME .
 adguard.hartley.cloud CNAME .
 doh.archuser.org CNAME .
-fidelius.top CNAME .
 gibblets.top CNAME .
 glacius.top CNAME .
 imperio.top CNAME .
-obscuro.top CNAME .
-revelio.top CNAME .
 dns.cahlen.com CNAME .
 multi.dns.marbledfennec.net CNAME .
 dns.scott-smith.us CNAME .
@@ -1506,6 +1505,7 @@ adblock.leenit.kr CNAME .
 dns.technostriker.com CNAME .
 ro-bu.foxyfy.net CNAME .
 ro-buc-w-f-1.nashkan.net CNAME .
+doh64.dns4all.eu CNAME .
 morbitzer.de CNAME .
 www.morbitzer.de CNAME .
 doh.suche.org CNAME .
@@ -3952,7 +3952,6 @@ home.luther.io CNAME .
 dnsserver.mailchan.eu CNAME .
 dns.mandre.dev CNAME .
 home.marcrnt.de CNAME .
-adguard.marto.si CNAME .
 httpdnsmultiapi.meituan.com CNAME .
 httpdnsmultiapivip.meituan.com CNAME .
 httpdnsvip.meituan.com CNAME .
@@ -3962,7 +3961,6 @@ httpdns.browser.miui.com CNAME .
 adguard.mokocup.dev CNAME .
 dns.mooncheng.top CNAME .
 dns.moonwx.net CNAME .
-akunamatata8888.mooo.com CNAME .
 dns.motazhakim.com CNAME .
 dns.msxnet.ru CNAME .
 dns.muxinghe.cn CNAME .
@@ -4075,7 +4073,6 @@ httpdns.zybang.com CNAME .
 1and1-dns.de CNAME .
 20010114.xyz CNAME .
 233py.com CNAME .
-3dcosas.xyz CNAME .
 959818.xyz CNAME .
 abpvn.org CNAME .
 adfight.ru CNAME .
@@ -4095,7 +4092,6 @@ bluedns.xyz CNAME .
 c-dns.com CNAME .
 chlaebi.info CNAME .
 closetruth.date CNAME .
-cloudflaredns.com CNAME .
 cloudflareresolve.com CNAME .
 daverotaquio.net CNAME .
 dehb.ru CNAME .
@@ -4104,6 +4100,7 @@ dnspod.com CNAME .
 domain.name CNAME .
 emmmmm.me CNAME .
 eymg5h77lfs6zhwzmv47gkh0a4r1f1ydfprzxidk.ir CNAME .
+fidelius.top CNAME .
 furrytech.io CNAME .
 gl33tch.pro CNAME .
 golegana.de CNAME .
@@ -4120,7 +4117,6 @@ komo4ek.ru CNAME .
 kondrcloud.ru CNAME .
 kstdownload.com CNAME .
 lukscasino-479-tr.xyz CNAME .
-lukscasino-929-tr.xyz CNAME .
 mendozasdelivery.com CNAME .
 mikezhang.xyz CNAME .
 minilla.store CNAME .
@@ -4128,9 +4124,9 @@ msr177.com CNAME .
 mydevpn.eu CNAME .
 mysolod.xyz CNAME .
 myv2ray.cn CNAME .
-n8nmegapixar.online CNAME .
 ningyan.top CNAME .
 nwps.fi CNAME .
+obscuro.top CNAME .
 okado.online CNAME .
 openbld.net CNAME .
 pashagame456.com CNAME .
@@ -4141,6 +4137,7 @@ pm1239-bd.xyz CNAME .
 pm9352-bd.xyz CNAME .
 publicdnsserver.com CNAME .
 qingmo.vip CNAME .
+revelio.top CNAME .
 schimtar.com CNAME .
 shalenkov.dev CNAME .
 shitblocker.com CNAME .
@@ -4258,3 +4255,4 @@ mak-na.ru CNAME .
 doh.fullhosting.ru CNAME .
 dns.moklav.co.jp CNAME .
 dns.cleardns.io CNAME .
+dns.sktr.com.tr CNAME .
