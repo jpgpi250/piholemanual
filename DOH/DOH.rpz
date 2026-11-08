@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2611070417 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2611080410 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2026-11-07 04:17:07 (UTC)
+; Last updated: 2026-11-08 04:10:02 (UTC)
 ;
 ; See https://jpgpi250.github.io/piholemanual/doc/Unbound%20response%20policy%20zones.pdf
 ; Report issues at https://github.com/jpgpi250/piholemanual/issues
@@ -371,7 +371,6 @@ dns.circl.lu CNAME .
 dns.clanless.ovh CNAME .
 frd4wvnobp.cloudflare-gateway.com CNAME .
 dns.redhosting.com.ar CNAME .
-doh.viatech.com.tw CNAME .
 router.comss.one CNAME .
 dns.cynthialabs.net CNAME .
 dns.d94.xyz CNAME .
@@ -496,7 +495,6 @@ doh.futa.gg CNAME .
 cluster-0.gac.edu CNAME .
 cluster-1.gac.edu CNAME .
 dns.gamban.com CNAME .
-dns.glf.wtf CNAME .
 dns.gnb09.id CNAME .
 dns.guard.io CNAME .
 secure.hafnova.com CNAME .
@@ -720,6 +718,7 @@ fet02.dnscry.pt CNAME .
 dnsbunker.org CNAME .
 sto02.dnscry.pt CNAME .
 jax01.dnscry.pt CNAME .
+doh64.dns4all.eu CNAME .
 mow01.dnscry.pt CNAME .
 blank.dnsforge.de CNAME .
 cleanbrowsing.org CNAME .
@@ -1093,6 +1092,7 @@ doh.valscosmos.com CNAME .
 dns.yandex.ru CNAME .
 adguard.onlyfriends.info CNAME .
 pihole1.hoerli.net CNAME .
+dns.glf.wtf CNAME .
 doh.pyry.me CNAME .
 dns.sv-zauner.at CNAME .
 ns.ral9005.org CNAME .
@@ -1289,6 +1289,7 @@ timedns.net CNAME .
 vtcuong.site CNAME .
 yuvelirtut.website CNAME .
 dns.kxy.ink CNAME .
+doh.viatech.com.tw CNAME .
 dns.gutwe.in CNAME .
 doh.ersei.net CNAME .
 dns.flwagners.com CNAME .
@@ -1505,7 +1506,6 @@ adblock.leenit.kr CNAME .
 dns.technostriker.com CNAME .
 ro-bu.foxyfy.net CNAME .
 ro-buc-w-f-1.nashkan.net CNAME .
-doh64.dns4all.eu CNAME .
 morbitzer.de CNAME .
 www.morbitzer.de CNAME .
 doh.suche.org CNAME .
@@ -4133,11 +4133,8 @@ pashagame456.com CNAME .
 paskam.xyz CNAME .
 personal-proj-by-me.eu CNAME .
 petinom.online CNAME .
-pm1239-bd.xyz CNAME .
-pm9352-bd.xyz CNAME .
 publicdnsserver.com CNAME .
 qingmo.vip CNAME .
-revelio.top CNAME .
 schimtar.com CNAME .
 shalenkov.dev CNAME .
 shitblocker.com CNAME .
