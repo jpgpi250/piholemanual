@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2026-11-08 04:39:19 (UTC)
+! Last updated: 2026-11-09 04:44:03 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -821,6 +821,7 @@
 ||crypto2049.store^
 ||cryptostorm.is^
 ||cryptroute.com^
+||ctif.hagezi.org^
 ||cube.neubsi.at^
 ||cubedns.com^
 ||curser.dev^
