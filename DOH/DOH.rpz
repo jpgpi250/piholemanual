@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2611090414 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2611100413 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2026-11-09 04:14:53 (UTC)
+; Last updated: 2026-11-10 04:13:08 (UTC)
 ;
 ; See https://jpgpi250.github.io/piholemanual/doc/Unbound%20response%20policy%20zones.pdf
 ; Report issues at https://github.com/jpgpi250/piholemanual/issues
@@ -775,7 +775,6 @@ blr01.dnscry.pt CNAME .
 tyo03.dnscry.pt CNAME .
 isb01.dnscry.pt CNAME .
 eyg01.dnscry.pt CNAME .
-cloudflaredns.com CNAME .
 lis02.dnscry.pt CNAME .
 bts01.dnscry.pt CNAME .
 ott01.dnscry.pt CNAME .
@@ -855,7 +854,6 @@ dns.flightspace.net CNAME .
 dns.scapetical.com CNAME .
 eth.link CNAME .
 dns.faze.dev CNAME .
-dns.vip-kingstore.xyz CNAME .
 ikarosalpha.xyz CNAME .
 dns.dns-53.us CNAME .
 mask-api.icloud.com CNAME .
@@ -959,7 +957,6 @@ switzerland.privacy-dns.pw CNAME .
 tujenasnaszato.xyz CNAME .
 united-arab-emirates.privacy-dns.pw CNAME .
 adguard.ajinga.net CNAME .
-adguard.londonwebnerd.cloud CNAME .
 atris.cyou CNAME .
 cynntex.fun CNAME .
 deep-henchman-excuse.cfd CNAME .
@@ -1420,6 +1417,7 @@ dns.michelo.cl CNAME .
 dns.hakim.one CNAME .
 3dcosas.xyz CNAME .
 lukscasino-929-tr.xyz CNAME .
+mikezhang.xyz CNAME .
 doh-primary-pool.goodbyegambling.com CNAME .
 adguard.haneulo.com CNAME .
 5g.o0o.re CNAME .
@@ -3788,10 +3786,8 @@ dns.bezmezhau.com CNAME .
 dns.bibica.net CNAME .
 httpdns.bilivideo.com CNAME .
 goga7777777.bissnes.org CNAME .
-woc.beelstb.biz.id CNAME .
 2.dnscrypt-cert.blahdns.com CNAME .
 dohsg.blahdns.com CNAME .
-cloud.boboba.ru CNAME .
 81.brudnowski.eu CNAME .
 2.dnscrypt-cert.captnemo.in CNAME .
 dns.carter.me CNAME .
@@ -3946,6 +3942,7 @@ dns.lihj.me CNAME .
 dns.lilith.cloud CNAME .
 adgaurd.lingmont.net CNAME .
 dns.linkr.ninja CNAME .
+adguard.londonwebnerd.cloud CNAME .
 doh.dns1.lonet.org CNAME .
 doh.lujiacai.top CNAME .
 dns.lululu.dev CNAME .
@@ -4041,6 +4038,7 @@ dns.truong.fi CNAME .
 adguard.vape.ong CNAME .
 kids.vietdns.vn CNAME .
 dns2.vinc.me CNAME .
+dns.vip-kingstore.xyz CNAME .
 ad.visbran.fr CNAME .
 httpdns.volcengineapi.com CNAME .
 dns.wahr.top CNAME .
@@ -4092,6 +4090,7 @@ bluedns.xyz CNAME .
 c-dns.com CNAME .
 chlaebi.info CNAME .
 closetruth.date CNAME .
+cloudflaredns.com CNAME .
 cloudflareresolve.com CNAME .
 daverotaquio.net CNAME .
 dehb.ru CNAME .
@@ -4100,7 +4099,6 @@ dnspod.com CNAME .
 domain.name CNAME .
 emmmmm.me CNAME .
 eymg5h77lfs6zhwzmv47gkh0a4r1f1ydfprzxidk.ir CNAME .
-fidelius.top CNAME .
 furrytech.io CNAME .
 gl33tch.pro CNAME .
 golegana.de CNAME .
@@ -4118,7 +4116,6 @@ kondrcloud.ru CNAME .
 kstdownload.com CNAME .
 lukscasino-479-tr.xyz CNAME .
 mendozasdelivery.com CNAME .
-mikezhang.xyz CNAME .
 minilla.store CNAME .
 msr177.com CNAME .
 mydevpn.eu CNAME .
@@ -4126,7 +4123,6 @@ mysolod.xyz CNAME .
 myv2ray.cn CNAME .
 ningyan.top CNAME .
 nwps.fi CNAME .
-obscuro.top CNAME .
 okado.online CNAME .
 openbld.net CNAME .
 pashagame456.com CNAME .
@@ -4254,3 +4250,4 @@ dns.moklav.co.jp CNAME .
 dns.cleardns.io CNAME .
 dns.sktr.com.tr CNAME .
 ctif.hagezi.org CNAME .
+www.cloudflare-gateway.com CNAME .
