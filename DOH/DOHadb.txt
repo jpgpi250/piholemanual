@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2026-11-09 04:44:03 (UTC)
+! Last updated: 2026-11-10 04:42:24 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -776,7 +776,6 @@
 ||closetruth.date^
 ||cloud.198.games^
 ||cloud.beerloga.su^
-||cloud.boboba.ru^
 ||cloud.efreakbnc.net^
 ||cloud.gqwyq.top^
 ||cloud.graphicpoint.pl^
@@ -2542,7 +2541,6 @@
 ||fi-hel-w-p-1.nashkan.net^
 ||fi.doh.dns.snopyta.org^
 ||fi.dot.dns.snopyta.org^
-||fidelius.top^
 ||files.nomanei.com^
 ||filter.badbotdev.xyz^
 ||filter.dns.yunzheng.space^
@@ -3304,7 +3302,6 @@
 ||o--o.duckdns.org^
 ||o.rsaikat.com^
 ||o1.lt^
-||obscuro.top^
 ||oci02.at9.eu^
 ||oculta.me^
 ||odoh.cloudflare-dns.com^
@@ -4090,7 +4087,6 @@
 ||wireguard.osmenoga.com^
 ||wlan.0815cloud.de^
 ||woalongit.synology.me^
-||woc.beelstb.biz.id^
 ||workcavestl.duckdns.org^
 ||wp-test.fvds.ru^
 ||wurzn.hagezi.org^
@@ -4111,6 +4107,7 @@
 ||www.chlaebi.info^
 ||www.chungocoai.name.vn^
 ||www.closetruth.date^
+||www.cloudflare-gateway.com^
 ||www.dehb.ru^
 ||www.digitallink.be^
 ||www.dns.stud.cloud^
