@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2611100413 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2611110334 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2026-11-10 04:13:08 (UTC)
+; Last updated: 2026-11-11 03:34:00 (UTC)
 ;
 ; See https://jpgpi250.github.io/piholemanual/doc/Unbound%20response%20policy%20zones.pdf
 ; Report issues at https://github.com/jpgpi250/piholemanual/issues
@@ -957,6 +957,7 @@ switzerland.privacy-dns.pw CNAME .
 tujenasnaszato.xyz CNAME .
 united-arab-emirates.privacy-dns.pw CNAME .
 adguard.ajinga.net CNAME .
+adguard.londonwebnerd.cloud CNAME .
 atris.cyou CNAME .
 cynntex.fun CNAME .
 deep-henchman-excuse.cfd CNAME .
@@ -1416,8 +1417,6 @@ eu.tri-dns.net CNAME .
 dns.michelo.cl CNAME .
 dns.hakim.one CNAME .
 3dcosas.xyz CNAME .
-lukscasino-929-tr.xyz CNAME .
-mikezhang.xyz CNAME .
 doh-primary-pool.goodbyegambling.com CNAME .
 adguard.haneulo.com CNAME .
 5g.o0o.re CNAME .
@@ -1448,9 +1447,6 @@ dns.horcrux.vip CNAME .
 dns.pccoach.nl CNAME .
 adguard.hartley.cloud CNAME .
 doh.archuser.org CNAME .
-gibblets.top CNAME .
-glacius.top CNAME .
-imperio.top CNAME .
 dns.cahlen.com CNAME .
 multi.dns.marbledfennec.net CNAME .
 dns.scott-smith.us CNAME .
@@ -3942,7 +3938,6 @@ dns.lihj.me CNAME .
 dns.lilith.cloud CNAME .
 adgaurd.lingmont.net CNAME .
 dns.linkr.ninja CNAME .
-adguard.londonwebnerd.cloud CNAME .
 doh.dns1.lonet.org CNAME .
 doh.lujiacai.top CNAME .
 dns.lululu.dev CNAME .
@@ -4100,11 +4095,14 @@ domain.name CNAME .
 emmmmm.me CNAME .
 eymg5h77lfs6zhwzmv47gkh0a4r1f1ydfprzxidk.ir CNAME .
 furrytech.io CNAME .
+gibblets.top CNAME .
 gl33tch.pro CNAME .
+glacius.top CNAME .
 golegana.de CNAME .
 hanniel.tech CNAME .
 hsu.plus CNAME .
 httpdns.pro CNAME .
+imperio.top CNAME .
 incaseineeditoneday.com CNAME .
 intertop.link CNAME .
 irrelevant.cc CNAME .
@@ -4115,7 +4113,9 @@ komo4ek.ru CNAME .
 kondrcloud.ru CNAME .
 kstdownload.com CNAME .
 lukscasino-479-tr.xyz CNAME .
+lukscasino-929-tr.xyz CNAME .
 mendozasdelivery.com CNAME .
+mikezhang.xyz CNAME .
 minilla.store CNAME .
 msr177.com CNAME .
 mydevpn.eu CNAME .
