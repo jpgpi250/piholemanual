@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2611110334 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2611120316 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2026-11-11 03:34:00 (UTC)
+; Last updated: 2026-11-12 03:16:53 (UTC)
 ;
 ; See https://jpgpi250.github.io/piholemanual/doc/Unbound%20response%20policy%20zones.pdf
 ; Report issues at https://github.com/jpgpi250/piholemanual/issues
@@ -957,7 +957,6 @@ switzerland.privacy-dns.pw CNAME .
 tujenasnaszato.xyz CNAME .
 united-arab-emirates.privacy-dns.pw CNAME .
 adguard.ajinga.net CNAME .
-adguard.londonwebnerd.cloud CNAME .
 atris.cyou CNAME .
 cynntex.fun CNAME .
 deep-henchman-excuse.cfd CNAME .
@@ -1523,7 +1522,6 @@ adg.rueiliu.space CNAME .
 dns.labnekotest.site CNAME .
 dns.zui.lol CNAME .
 hydra.plan9-ns1.com CNAME .
-renardbleu.dev CNAME .
 httpdns-sc.aliyuncs.com CNAME .
 iij.jp CNAME .
 adguard1.leadmon.net CNAME .
@@ -1535,7 +1533,6 @@ sandbox.opendns.com CNAME .
 familyshield.opendns.com CNAME .
 dns.opendns.com CNAME .
 dns.umbrella.com CNAME .
-dns.dyn1.de CNAME .
 adguardhome.atakorah.com CNAME .
 dns.mnet-online.de CNAME .
 solaxy.live CNAME .
@@ -2155,6 +2152,7 @@ www.dnsforge.de CNAME .
 myfreedns.dogsmedia.de CNAME .
 duii.de CNAME .
 atlantic.dyn1.de CNAME .
+dns.dyn1.de CNAME .
 opennic-ns.egelhaus.de CNAME .
 dns.internal.espresso-tasse.de CNAME .
 handy-anton.dns.internal.espresso-tasse.de CNAME .
@@ -3938,6 +3936,7 @@ dns.lihj.me CNAME .
 dns.lilith.cloud CNAME .
 adgaurd.lingmont.net CNAME .
 dns.linkr.ninja CNAME .
+adguard.londonwebnerd.cloud CNAME .
 doh.dns1.lonet.org CNAME .
 doh.lujiacai.top CNAME .
 dns.lululu.dev CNAME .
@@ -4131,6 +4130,7 @@ personal-proj-by-me.eu CNAME .
 petinom.online CNAME .
 publicdnsserver.com CNAME .
 qingmo.vip CNAME .
+renardbleu.dev CNAME .
 schimtar.com CNAME .
 shalenkov.dev CNAME .
 shitblocker.com CNAME .
@@ -4251,3 +4251,6 @@ dns.cleardns.io CNAME .
 dns.sktr.com.tr CNAME .
 ctif.hagezi.org CNAME .
 www.cloudflare-gateway.com CNAME .
+dns.csa-rz.de CNAME .
+mabuktogel.properties CNAME .
+mabuktogel.business CNAME .
