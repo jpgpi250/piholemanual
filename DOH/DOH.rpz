@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2611120316 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2611130334 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2026-11-12 03:16:53 (UTC)
+; Last updated: 2026-11-13 03:34:01 (UTC)
 ;
 ; See https://jpgpi250.github.io/piholemanual/doc/Unbound%20response%20policy%20zones.pdf
 ; Report issues at https://github.com/jpgpi250/piholemanual/issues
@@ -718,7 +718,6 @@ fet02.dnscry.pt CNAME .
 dnsbunker.org CNAME .
 sto02.dnscry.pt CNAME .
 jax01.dnscry.pt CNAME .
-doh64.dns4all.eu CNAME .
 mow01.dnscry.pt CNAME .
 blank.dnsforge.de CNAME .
 cleanbrowsing.org CNAME .
@@ -957,6 +956,7 @@ switzerland.privacy-dns.pw CNAME .
 tujenasnaszato.xyz CNAME .
 united-arab-emirates.privacy-dns.pw CNAME .
 adguard.ajinga.net CNAME .
+adguard.londonwebnerd.cloud CNAME .
 atris.cyou CNAME .
 cynntex.fun CNAME .
 deep-henchman-excuse.cfd CNAME .
@@ -1500,6 +1500,7 @@ adblock.leenit.kr CNAME .
 dns.technostriker.com CNAME .
 ro-bu.foxyfy.net CNAME .
 ro-buc-w-f-1.nashkan.net CNAME .
+doh64.dns4all.eu CNAME .
 morbitzer.de CNAME .
 www.morbitzer.de CNAME .
 doh.suche.org CNAME .
@@ -3936,7 +3937,6 @@ dns.lihj.me CNAME .
 dns.lilith.cloud CNAME .
 adgaurd.lingmont.net CNAME .
 dns.linkr.ninja CNAME .
-adguard.londonwebnerd.cloud CNAME .
 doh.dns1.lonet.org CNAME .
 doh.lujiacai.top CNAME .
 dns.lululu.dev CNAME .
@@ -4254,3 +4254,5 @@ www.cloudflare-gateway.com CNAME .
 dns.csa-rz.de CNAME .
 mabuktogel.properties CNAME .
 mabuktogel.business CNAME .
+ledns.eu CNAME .
+dns.iakovf1.com CNAME .
