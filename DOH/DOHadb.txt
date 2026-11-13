@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2026-11-11 04:03:25 (UTC)
+! Last updated: 2026-11-12 03:46:31 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -1171,6 +1171,7 @@
 ||dns.corefusion.xyz^
 ||dns.cryptomize.com^
 ||dns.crystalyx.net^
+||dns.csa-rz.de^
 ||dns.csaonline.de^
 ||dns.csswg.org^
 ||dns.curser.dev^
@@ -3049,6 +3050,8 @@
 ||m-cm.circumitor.de^
 ||m-rm.circumitor.de^
 ||m.nop.mobi^
+||mabuktogel.business^
+||mabuktogel.properties^
 ||mad01.dnscry.pt^
 ||maherhost.uk^
 ||maikel.greppie.nl^
