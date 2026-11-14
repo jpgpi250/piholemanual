@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2026-11-12 03:46:31 (UTC)
+! Last updated: 2026-11-13 04:03:51 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -1391,6 +1391,7 @@
 ||dns.hva.li^
 ||dns.hwtwco.uk^
 ||dns.hyas.com^
+||dns.iakovf1.com^
 ||dns.iamanuragh.in^
 ||dns.iamninja.ru^
 ||dns.iblockads.net^
@@ -3007,6 +3008,7 @@
 ||layer1.jnraptor.net^
 ||ldaman.duckdns.org^
 ||le-mesle.fr^
+||ledns.eu^
 ||leecurrylawfirm.com^
 ||lelux.fi^
 ||lena.hr.i81.ru^
