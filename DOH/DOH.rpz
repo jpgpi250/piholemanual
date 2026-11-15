@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2611140330 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2611150312 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2026-11-14 03:30:10 (UTC)
+; Last updated: 2026-11-15 03:12:29 (UTC)
 ;
 ; See https://jpgpi250.github.io/piholemanual/doc/Unbound%20response%20policy%20zones.pdf
 ; Report issues at https://github.com/jpgpi250/piholemanual/issues
@@ -957,6 +957,7 @@ switzerland.privacy-dns.pw CNAME .
 tujenasnaszato.xyz CNAME .
 united-arab-emirates.privacy-dns.pw CNAME .
 adguard.ajinga.net CNAME .
+adguard.londonwebnerd.cloud CNAME .
 atris.cyou CNAME .
 cynntex.fun CNAME .
 deep-henchman-excuse.cfd CNAME .
@@ -1068,7 +1069,6 @@ dns.maitrekuc.fr CNAME .
 dns.mestdag.fr CNAME .
 doh.funil.de CNAME .
 opennic2.i2pd.xyz CNAME .
-dns.hshoe.cn CNAME .
 dns.albony.xyz CNAME .
 skydragoness.com CNAME .
 inpssh.online CNAME .
@@ -1417,6 +1417,7 @@ eu.tri-dns.net CNAME .
 dns.michelo.cl CNAME .
 dns.hakim.one CNAME .
 3dcosas.xyz CNAME .
+lukscasino-929-tr.xyz CNAME .
 mendozasdelivery.com CNAME .
 mikezhang.xyz CNAME .
 doh-primary-pool.goodbyegambling.com CNAME .
@@ -1537,6 +1538,7 @@ sandbox.opendns.com CNAME .
 familyshield.opendns.com CNAME .
 dns.opendns.com CNAME .
 dns.umbrella.com CNAME .
+dns.dyn1.de CNAME .
 adguardhome.atakorah.com CNAME .
 dns.mnet-online.de CNAME .
 solaxy.live CNAME .
@@ -2156,7 +2158,6 @@ www.dnsforge.de CNAME .
 myfreedns.dogsmedia.de CNAME .
 duii.de CNAME .
 atlantic.dyn1.de CNAME .
-dns.dyn1.de CNAME .
 opennic-ns.egelhaus.de CNAME .
 dns.internal.espresso-tasse.de CNAME .
 handy-anton.dns.internal.espresso-tasse.de CNAME .
@@ -3902,6 +3903,7 @@ keithchunguat.hopto.org CNAME .
 voyagerz.hopto.org CNAME .
 doh.hosterra.tech CNAME .
 adguard.hostingsignal.in CNAME .
+dns.hshoe.cn CNAME .
 dnsguard.hte.vn CNAME .
 dns.huanmave.cc CNAME .
 httpdns.huaweicloud.com CNAME .
@@ -3940,7 +3942,6 @@ dns.lihj.me CNAME .
 dns.lilith.cloud CNAME .
 adgaurd.lingmont.net CNAME .
 dns.linkr.ninja CNAME .
-adguard.londonwebnerd.cloud CNAME .
 doh.dns1.lonet.org CNAME .
 doh.lujiacai.top CNAME .
 dns.lululu.dev CNAME .
@@ -4114,7 +4115,6 @@ komo4ek.ru CNAME .
 kondrcloud.ru CNAME .
 kstdownload.com CNAME .
 lukscasino-479-tr.xyz CNAME .
-lukscasino-929-tr.xyz CNAME .
 minilla.store CNAME .
 msr177.com CNAME .
 mydevpn.eu CNAME .
@@ -4256,3 +4256,5 @@ mabuktogel.properties CNAME .
 mabuktogel.business CNAME .
 ledns.eu CNAME .
 dns.iakovf1.com CNAME .
+mabuktogel.marketing CNAME .
+mabuktogel.solutions CNAME .
