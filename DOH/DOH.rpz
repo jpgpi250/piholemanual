@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2611150312 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2611160315 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2026-11-15 03:12:29 (UTC)
+; Last updated: 2026-11-16 03:15:24 (UTC)
 ;
 ; See https://jpgpi250.github.io/piholemanual/doc/Unbound%20response%20policy%20zones.pdf
 ; Report issues at https://github.com/jpgpi250/piholemanual/issues
@@ -1069,6 +1069,7 @@ dns.maitrekuc.fr CNAME .
 dns.mestdag.fr CNAME .
 doh.funil.de CNAME .
 opennic2.i2pd.xyz CNAME .
+dns.hshoe.cn CNAME .
 dns.albony.xyz CNAME .
 skydragoness.com CNAME .
 inpssh.online CNAME .
@@ -1538,7 +1539,6 @@ sandbox.opendns.com CNAME .
 familyshield.opendns.com CNAME .
 dns.opendns.com CNAME .
 dns.umbrella.com CNAME .
-dns.dyn1.de CNAME .
 adguardhome.atakorah.com CNAME .
 dns.mnet-online.de CNAME .
 solaxy.live CNAME .
@@ -2158,6 +2158,7 @@ www.dnsforge.de CNAME .
 myfreedns.dogsmedia.de CNAME .
 duii.de CNAME .
 atlantic.dyn1.de CNAME .
+dns.dyn1.de CNAME .
 opennic-ns.egelhaus.de CNAME .
 dns.internal.espresso-tasse.de CNAME .
 handy-anton.dns.internal.espresso-tasse.de CNAME .
@@ -3903,7 +3904,6 @@ keithchunguat.hopto.org CNAME .
 voyagerz.hopto.org CNAME .
 doh.hosterra.tech CNAME .
 adguard.hostingsignal.in CNAME .
-dns.hshoe.cn CNAME .
 dnsguard.hte.vn CNAME .
 dns.huanmave.cc CNAME .
 httpdns.huaweicloud.com CNAME .
@@ -4097,14 +4097,11 @@ domain.name CNAME .
 emmmmm.me CNAME .
 eymg5h77lfs6zhwzmv47gkh0a4r1f1ydfprzxidk.ir CNAME .
 furrytech.io CNAME .
-gibblets.top CNAME .
 gl33tch.pro CNAME .
-glacius.top CNAME .
 golegana.de CNAME .
 hanniel.tech CNAME .
 hsu.plus CNAME .
 httpdns.pro CNAME .
-imperio.top CNAME .
 incaseineeditoneday.com CNAME .
 intertop.link CNAME .
 irrelevant.cc CNAME .
@@ -4258,3 +4255,5 @@ ledns.eu CNAME .
 dns.iakovf1.com CNAME .
 mabuktogel.marketing CNAME .
 mabuktogel.solutions CNAME .
+doh-mullvad.quad9.net CNAME .
+mabuktogel.cards CNAME .
