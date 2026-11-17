@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2026-11-15 03:42:15 (UTC)
+! Last updated: 2026-11-16 03:45:20 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -2190,6 +2190,7 @@
 ||doh-lb-in.dnsflex.com^
 ||doh-lb-sg.dnsflex.com^
 ||doh-lb-tr.dnsflex.com^
+||doh-mullvad.quad9.net^
 ||doh-primary-pool.detoxifypornblocker.com^
 ||doh-primary-pool.goodbyegambling.com^
 ||doh-pure.onedns.net^
@@ -2616,13 +2617,11 @@
 ||genscorp.es^
 ||geshido.vpn.geshido.ru^
 ||getdnsapi.net^
-||gibblets.top^
 ||gigatapbot.top^
 ||ginnungagap.rabenhain.net^
 ||git.andrewnw.xyz^
 ||gitea.sukon.idv.tw^
 ||gl33tch.pro^
-||glacius.top^
 ||globalcloud.ir^
 ||gmf-dns.ddns.net^
 ||gmf2.ddns.net^
@@ -2835,7 +2834,6 @@
 ||ikarosalpha.xyz^
 ||iki.at9.eu^
 ||immich.rokian.net^
-||imperio.top^
 ||in-blr.doh.sb^
 ||inadsware.ddns.net^
 ||incaseineeditoneday.com^
@@ -3053,6 +3051,7 @@
 ||m-rm.circumitor.de^
 ||m.nop.mobi^
 ||mabuktogel.business^
+||mabuktogel.cards^
 ||mabuktogel.marketing^
 ||mabuktogel.properties^
 ||mabuktogel.solutions^
