@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2026-11-21 04:10:12 (UTC)
+! Last updated: 2026-11-22 03:48:35 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -672,7 +672,6 @@
 ||bei01.dnscry.pt^
 ||bella.981377612.xyz^
 ||berd.moe^
-||bestwon203.com^
 ||bev.dns.walshnet.co.uk^
 ||bg.rslvr.eu^
 ||bh.wael.name^
@@ -3051,6 +3050,8 @@
 ||m.nop.mobi^
 ||mabuktogel.business^
 ||mabuktogel.cards^
+||mabuktogel.enterprises^
+||mabuktogel.ltd^
 ||mabuktogel.marketing^
 ||mabuktogel.properties^
 ||mabuktogel.solutions^
@@ -3800,7 +3801,6 @@
 ||tartanbahn.eu.org^
 ||tbs01.dnscry.pt^
 ||teamspeak.adriason.co.uk^
-||tecdrive.site^
 ||tecworx.at^
 ||teknorota.com^
 ||telex.app^
