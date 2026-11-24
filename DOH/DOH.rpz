@@ -1,9 +1,9 @@
 $TTL 30
-@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2611230334 86400 1800 604800 30
+@ SOA jpgpi250.github.io. hostmaster.jpgpi250.github.io. 2611240344 86400 1800 604800 30
  NS localhost.
 ;
 ; (o)DoH Response Policy Zones (RPZ)
-; Last updated: 2026-11-23 03:34:51 (UTC)
+; Last updated: 2026-11-24 03:44:55 (UTC)
 ;
 ; See https://jpgpi250.github.io/piholemanual/doc/Unbound%20response%20policy%20zones.pdf
 ; Report issues at https://github.com/jpgpi250/piholemanual/issues
@@ -773,7 +773,6 @@ blr01.dnscry.pt CNAME .
 tyo03.dnscry.pt CNAME .
 isb01.dnscry.pt CNAME .
 eyg01.dnscry.pt CNAME .
-cloudflaredns.com CNAME .
 lis02.dnscry.pt CNAME .
 bts01.dnscry.pt CNAME .
 ott01.dnscry.pt CNAME .
@@ -946,24 +945,16 @@ securedns.vendorvista.xyz CNAME .
 catchen121299.top CNAME .
 dns.daarrk.tech CNAME .
 johneldenring.lol CNAME .
-kx-97795-tr.xyz CNAME .
 las-vegas.privacy-dns.pw CNAME .
-lesuo.top CNAME .
 luxembourg.privacy-dns.pw CNAME .
 maqgie.xyz CNAME .
 romania.privacy-dns.pw CNAME .
 switzerland.privacy-dns.pw CNAME .
 tujenasnaszato.xyz CNAME .
 united-arab-emirates.privacy-dns.pw CNAME .
-adguard.ajinga.net CNAME .
 adguard.londonwebnerd.cloud CNAME .
 atris.cyou CNAME .
-cynntex.fun CNAME .
-deep-henchman-excuse.cfd CNAME .
 dns.cybertonic.tech CNAME .
-do-39574-tr.xyz CNAME .
-hfgx.shop CNAME .
-myatris.sbs CNAME .
 xholgm.top CNAME .
 adg.yybyy.wiki CNAME .
 ads.hunga1k47.com CNAME .
@@ -1191,7 +1182,6 @@ dns.edison42.dev CNAME .
 dns.superstefan.win CNAME .
 doh.runsel.id CNAME .
 adguard-kartoffel.zernico.de CNAME .
-home-server.store CNAME .
 dns.dgea.fr CNAME .
 pooblet.co.za CNAME .
 dns.unerror.network CNAME .
@@ -1417,7 +1407,6 @@ dns.michelo.cl CNAME .
 dns.hakim.one CNAME .
 lukscasino-929-tr.xyz CNAME .
 mendozasdelivery.com CNAME .
-mikezhang.xyz CNAME .
 doh-primary-pool.goodbyegambling.com CNAME .
 adguard.haneulo.com CNAME .
 5g.o0o.re CNAME .
@@ -1535,6 +1524,7 @@ sandbox.opendns.com CNAME .
 familyshield.opendns.com CNAME .
 dns.opendns.com CNAME .
 dns.umbrella.com CNAME .
+dns.dyn1.de CNAME .
 adguardhome.atakorah.com CNAME .
 dns.mnet-online.de CNAME .
 solaxy.live CNAME .
@@ -2154,7 +2144,6 @@ www.dnsforge.de CNAME .
 myfreedns.dogsmedia.de CNAME .
 duii.de CNAME .
 atlantic.dyn1.de CNAME .
-dns.dyn1.de CNAME .
 opennic-ns.egelhaus.de CNAME .
 dns.internal.espresso-tasse.de CNAME .
 handy-anton.dns.internal.espresso-tasse.de CNAME .
@@ -3761,6 +3750,7 @@ dns.abhimankolte.com CNAME .
 vn.dns.abpvn.com CNAME .
 dns-lb.unpak.ac.id CNAME .
 dns2.afastserver.com CNAME .
+adguard.ajinga.net CNAME .
 rdjdns.ajraspi.xyz CNAME .
 httpdns.alicdn.com CNAME .
 resolvers-cn.httpdns.aliyuncs.com CNAME .
@@ -4068,7 +4058,6 @@ aghdns.com CNAME .
 aihe.app CNAME .
 alidns.com CNAME .
 aliyunhttpdns.com CNAME .
-andrey93rus.ru CNAME .
 anixlab.com CNAME .
 arcticstorm.ru CNAME .
 b9c7dc4e-7dde-4903-935b-fd6ea59ca4fb.space CNAME .
@@ -4078,11 +4067,15 @@ blockdns.com CNAME .
 c-dns.com CNAME .
 chlaebi.info CNAME .
 closetruth.date CNAME .
+cloudflaredns.com CNAME .
 cloudflareresolve.com CNAME .
+cynntex.fun CNAME .
 daverotaquio.net CNAME .
+deep-henchman-excuse.cfd CNAME .
 dehb.ru CNAME .
 digitallink.be CNAME .
 dnspod.com CNAME .
+do-39574-tr.xyz CNAME .
 domain.name CNAME .
 emmmmm.me CNAME .
 eymg5h77lfs6zhwzmv47gkh0a4r1f1ydfprzxidk.ir CNAME .
@@ -4090,6 +4083,8 @@ furrytech.io CNAME .
 gl33tch.pro CNAME .
 golegana.de CNAME .
 hanniel.tech CNAME .
+hfgx.shop CNAME .
+home-server.store CNAME .
 hsu.plus CNAME .
 httpdns.pro CNAME .
 incaseineeditoneday.com CNAME .
@@ -4100,9 +4095,13 @@ khome.site CNAME .
 komo4ek.ru CNAME .
 kondrcloud.ru CNAME .
 kstdownload.com CNAME .
+kx-97795-tr.xyz CNAME .
+lesuo.top CNAME .
 lukscasino-479-tr.xyz CNAME .
+mikezhang.xyz CNAME .
 minilla.store CNAME .
 msr177.com CNAME .
+myatris.sbs CNAME .
 mydevpn.eu CNAME .
 mysolod.xyz CNAME .
 myv2ray.cn CNAME .
@@ -4123,7 +4122,6 @@ shitblocker.com CNAME .
 smartcamp.su CNAME .
 tigrons.ru CNAME .
 toaster.lol CNAME .
-tuskythehusky.tech CNAME .
 ublockdns.com CNAME .
 unasw.eu CNAME .
 uncensoreddns.org CNAME .
@@ -4250,3 +4248,4 @@ mabuktogel.cards CNAME .
 polisitogel.green CNAME .
 mabuktogel.ltd CNAME .
 mabuktogel.enterprises CNAME .
+dns.edgeburnmedia.com CNAME .
