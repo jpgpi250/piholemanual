@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2026-11-22 03:48:35 (UTC)
+! Last updated: 2026-11-23 04:04:39 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -53,7 +53,6 @@
 ||3.11i.eu^
 ||3.local-dns.noridev.moe^
 ||388024.vm.spacecore.network^
-||3dcosas.xyz^
 ||3dns.eu^
 ||3jjxxl.tech^
 ||45-33-113-218.ip.linodeusercontent.com^
@@ -698,7 +697,6 @@
 ||blog2.amlegion.org^
 ||blokuj.ujwie.co^
 ||blr01.dnscry.pt^
-||bluedns.xyz^
 ||bluemood.me^
 ||bne01.dnscry.pt^
 ||bobr.netphoenix.ru^
@@ -2389,7 +2387,6 @@
 ||doh.us.moe.tips^
 ||doh.valscosmos.com^
 ||doh.viatech.com.tw^
-||doh.vpsdns.co.za^
 ||doh.webnmail.de^
 ||doh.westus.pi-dns.com^
 ||doh.wewitro.net^
@@ -2400,7 +2397,6 @@
 ||doh.yandex.net^
 ||doh.yspv.ru^
 ||doh.ywhost.com^
-||doh.zephyrus.id^
 ||doh.zhongbr.uk^
 ||doh.zknt.org^
 ||doh.zln.wtf^
@@ -2589,7 +2585,6 @@
 ||funtikspb.ru^
 ||furrytech.io^
 ||futurearts.cc^
-||futuredns.eu.org^
 ||fvpn.jarvishome.ru^
 ||fwgw.orangepipc.mywire.org^
 ||gaia.plonknet.com^
@@ -2957,7 +2952,6 @@
 ||kiwifunke.duckdns.org^
 ||kjmserwis.pl^
 ||knight1.de^
-||kocapb.ru^
 ||kokesh.se^
 ||kolobok2.duckdns.org^
 ||kombaina.com^
@@ -3767,7 +3761,6 @@
 ||strassmair.org^
 ||stratus.bugz.fr^
 ||stroveer.hopto.org^
-||structoriumwings.ru^
 ||studioai.freeddns.org^
 ||sudo.rm-rf.cloud^
 ||sukidayo.eu.org^
