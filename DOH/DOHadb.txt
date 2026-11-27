@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! (o)DoH Adblock Plus file
-! Last updated: 2026-11-25 03:38:32 (UTC)
+! Last updated: 2026-11-26 03:50:07 (UTC)
 !
 ! Report issues at https://github.com/jpgpi250/piholemanual/issues
 !
@@ -1352,7 +1352,6 @@
 ||dns.hahnjo.de^
 ||dns.haka.se^
 ||dns.hakim.one^
-||dns.hakutakucn.com^
 ||dns.hanahira.dev^
 ||dns.hanmey.de^
 ||dns.hannielzhang.com^
@@ -3428,6 +3427,7 @@
 ||polisitogel.contractors^
 ||polisitogel.green^
 ||polisitogel.hair^
+||polisitogel.living^
 ||polisitogel.webcam^
 ||pooblet.co.za^
 ||pope.cnblw.me^
@@ -3957,6 +3957,7 @@
 ||usxui.13142233.xyz^
 ||uw-dns.rubyfish.cn^
 ||v.dnscrypt.uk^
+||v.qdev.cc^
 ||v.recipes^
 ||v.yuhui.eu.org^
 ||v0dka.ru^
